@@ -1,0 +1,67 @@
+{
+  "id": 387823643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976977,43.351609,-70.976977,43.351609",
+    "geom:latitude":43.351609,
+    "geom:longitude":-70.976977,
+    "iso:country":"US",
+    "sg:address":"188 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 3271",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        102085609,
+        85837975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3okI9ymteexbD2HUlpU1h7_43.351609_-70.976977@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ec1aa9d1c776661b001b439ffecd39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":-1,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":387823643
+        }
+    ],
+    "wof:id":387823643,
+    "wof:lastmodified":1449059888,
+    "wof:name":"M D Auto Sales",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-70.976977,43.351609,-70.976977,43.351609],
+  "geometry": {"coordinates":[-70.976977,43.351609],"type":"Point"}
+}

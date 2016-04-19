@@ -1,0 +1,67 @@
+{
+  "id": 387627845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.883233,43.228454,-70.883233,43.228454",
+    "geom:latitude":43.228454,
+    "geom:longitude":-70.883233,
+    "iso:country":"US",
+    "sg:address":"481 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 9855",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gGfSnVKUVv3hrFjvmcesc_43.228454_-70.883233@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a341c9f4f0d2a92d8494cf9bab3b828",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":387627845
+        }
+    ],
+    "wof:id":387627845,
+    "wof:lastmodified":1449059999,
+    "wof:name":"Riverside Garage & Leasing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.883233,43.228454,-70.883233,43.228454],
+  "geometry": {"coordinates":[-70.883233,43.228454],"type":"Point"}
+}

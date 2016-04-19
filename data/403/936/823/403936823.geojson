@@ -1,0 +1,67 @@
+{
+  "id": 403936823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.875883,43.245138,-70.875883,43.245138",
+    "geom:latitude":43.245138,
+    "geom:longitude":-70.875883,
+    "iso:country":"US",
+    "sg:address":"353 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 3115",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ngegSczG5vK7CREedMmzd_43.245138_-70.875883@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b69830c451493dfc3de0d21b1ee7ff65",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":403936823
+        }
+    ],
+    "wof:id":403936823,
+    "wof:lastmodified":1449055079,
+    "wof:name":"Family Care Of Somersworth",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.875883,43.245138,-70.875883,43.245138],
+  "geometry": {"coordinates":[-70.875883,43.245138],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 404072941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.863036,43.234808,-70.863036,43.234808",
+    "geom:latitude":43.234808,
+    "geom:longitude":-70.863036,
+    "iso:country":"US",
+    "sg:address":"279 Green St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 6129",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pouylCaRIfxqPOTblrill_43.234808_-70.863036@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc543bc3a8e0477c67cdf98eef19fe3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":404072941
+        }
+    ],
+    "wof:id":404072941,
+    "wof:lastmodified":1449039769,
+    "wof:name":"Spencer Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-70.863036,43.234808,-70.863036,43.234808],
+  "geometry": {"coordinates":[-70.863036,43.234808],"type":"Point"}
+}

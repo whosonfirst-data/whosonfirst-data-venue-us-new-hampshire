@@ -1,0 +1,68 @@
+{
+  "id": 387779169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.940161,43.336763,-70.940161,43.336763",
+    "geom:latitude":43.336763,
+    "geom:longitude":-70.940161,
+    "iso:country":"US",
+    "sg:address":"1498 Carl Broggi Hwy",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 207 339 0440",
+    "sg:postcode":"04027",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85849815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e8TJXO8Mbwdyg8Xzk04aB_43.336763_-70.940161@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8910fb3c156c5421a093caa040f3c569",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85849815,
+            "region_id":85688689,
+            "venue_id":387779169
+        }
+    ],
+    "wof:id":387779169,
+    "wof:lastmodified":1449056687,
+    "wof:name":"M & D Auto",
+    "wof:parent_id":85849815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.940161,43.336763,-70.940161,43.336763],
+  "geometry": {"coordinates":[-70.940161,43.336763],"type":"Point"}
+}

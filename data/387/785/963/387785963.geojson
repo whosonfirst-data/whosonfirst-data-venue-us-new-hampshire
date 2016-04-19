@@ -1,0 +1,69 @@
+{
+  "id": 387785963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.85089,43.246798,-70.85089,43.246798",
+    "geom:latitude":43.246798,
+    "geom:longitude":-70.85089,
+    "iso:country":"US",
+    "sg:address":"30 Centre Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 9200",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "test",
+        "instrument",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        102085609,
+        85845815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GnGZOu9p5pBgZidj5P0yi_43.246798_-70.850890@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbf67b621d0c1aac11078d685c0f0bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":-1,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":387785963
+        }
+    ],
+    "wof:id":387785963,
+    "wof:lastmodified":1449059270,
+    "wof:name":"Eigenlight Corporation",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "instrument",
+        "manufacturer"
+    ]
+},
+  "bbox": [-70.85089,43.246798,-70.85089,43.246798],
+  "geometry": {"coordinates":[-70.85089,43.246798],"type":"Point"}
+}

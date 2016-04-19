@@ -1,0 +1,66 @@
+{
+  "id": 404100653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.947288,43.330169,-70.947288,43.330169",
+    "geom:latitude":43.330169,
+    "geom:longitude":-70.947288,
+    "iso:country":"US",
+    "sg:address":"105 Highland St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 6145",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85816725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mAQHisWUPEbNi0Alb4PM2_43.330169_-70.947288@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22663de6ae92c3aad604aec43efbeb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":404100653
+        }
+    ],
+    "wof:id":404100653,
+    "wof:lastmodified":1449039999,
+    "wof:name":"Rochester House Of Pizza",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [-70.947288,43.330169,-70.947288,43.330169],
+  "geometry": {"coordinates":[-70.947288,43.330169],"type":"Point"}
+}

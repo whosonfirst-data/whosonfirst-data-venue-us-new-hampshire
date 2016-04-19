@@ -1,0 +1,71 @@
+{
+  "id": 403795209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.878349,43.2279,-70.878349,43.2279",
+    "geom:latitude":43.2279,
+    "geom:longitude":-70.878349,
+    "iso:country":"US",
+    "sg:address":"170 Tri City Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 750 3022",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:brand_id":420573815,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30X1N80QDX4HtKtrGR815s_43.227900_-70.878349@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9dc120f30fce3f60cdb76270d8272d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":403795209
+        }
+    ],
+    "wof:id":403795209,
+    "wof:lastmodified":1457207515,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -70.878349,
+    43.2279,
+    -70.878349,
+    43.2279
+],
+  "geometry": {"coordinates":[-70.878349,43.2279],"type":"Point"}
+}

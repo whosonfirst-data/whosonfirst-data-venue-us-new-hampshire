@@ -1,0 +1,68 @@
+{
+  "id": 403730827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.977195,43.331487,-70.977195,43.331487",
+    "geom:latitude":43.331487,
+    "geom:longitude":-70.977195,
+    "iso:country":"US",
+    "sg:address":"70 Old Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9968",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85833723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45tY4BKfPQiELoHDHO0tdF_43.331487_-70.977195@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37a54d6bcb6a97f43739cf5e4ae49e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85833723,
+            "region_id":85688689,
+            "venue_id":403730827
+        }
+    ],
+    "wof:id":403730827,
+    "wof:lastmodified":1449055763,
+    "wof:name":"C & G Automotive",
+    "wof:parent_id":85833723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.977195,43.331487,-70.977195,43.331487],
+  "geometry": {"coordinates":[-70.977195,43.331487],"type":"Point"}
+}

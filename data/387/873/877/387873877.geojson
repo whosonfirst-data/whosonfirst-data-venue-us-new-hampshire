@@ -1,0 +1,80 @@
+{
+  "id": 387873877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975796,43.349746,-70.975796,43.349746",
+    "geom:latitude":43.349746,
+    "geom:longitude":-70.975796,
+    "iso:country":"US",
+    "sg:address":"169 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 5092",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "burglar",
+        "specialization",
+        "fire",
+        "alarm",
+        "system",
+        "detection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        102085609,
+        85837975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fTO7rNacpheAMIQLzDaIP_43.349746_-70.975796@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f757e08f888891821cae5ab6e0661475",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":-1,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":387873877
+        }
+    ],
+    "wof:id":387873877,
+    "wof:lastmodified":1449056896,
+    "wof:name":"Rochester Security Systems LLC",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burglar",
+        "specialization",
+        "fire",
+        "alarm",
+        "system",
+        "detection"
+    ]
+},
+  "bbox": [-70.975796,43.349746,-70.975796,43.349746],
+  "geometry": {"coordinates":[-70.975796,43.349746],"type":"Point"}
+}

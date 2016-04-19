@@ -1,0 +1,67 @@
+{
+  "id": 403858151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-71.093687,43.985137,-71.093687,43.985137",
+    "geom:latitude":43.985137,
+    "geom:longitude":-71.093687,
+    "iso:country":"US",
+    "sg:address":"101 Odell Hill Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2881",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        102086581,
+        85844159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kl8t4E9tCzbvq0a27EwlW_43.985137_-71.093687@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a35d05493ff90fb301e7d6b13593662",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086581,
+            "locality_id":-1,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":403858151
+        }
+    ],
+    "wof:id":403858151,
+    "wof:lastmodified":1449054769,
+    "wof:name":"ACD Property Maintenance",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [-71.093687,43.985137,-71.093687,43.985137],
+  "geometry": {"coordinates":[-71.093687,43.985137],"type":"Point"}
+}

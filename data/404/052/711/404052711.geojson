@@ -1,0 +1,72 @@
+{
+  "id": 404052711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.861926,43.258758,-70.861926,43.258758",
+    "geom:latitude":43.258758,
+    "geom:longitude":-70.861926,
+    "iso:country":"US",
+    "sg:address":"198 Main St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 0600",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "boarding",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64oy6QRV31fgW8livBOBtX_43.258758_-70.861926@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a7afce96c973a2a94d6ec417f00edd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":404052711
+        }
+    ],
+    "wof:id":404052711,
+    "wof:lastmodified":1449039557,
+    "wof:name":"Main Street Rooms",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding",
+        "house"
+    ]
+},
+  "bbox": [-70.861926,43.258758,-70.861926,43.258758],
+  "geometry": {"coordinates":[-70.861926,43.258758],"type":"Point"}
+}

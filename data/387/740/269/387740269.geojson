@@ -1,0 +1,67 @@
+{
+  "id": 387740269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.940158,43.335113,-70.940158,43.335113",
+    "geom:latitude":43.335113,
+    "geom:longitude":-70.940158,
+    "iso:country":"US",
+    "sg:address":"9 Highland St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 3016",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LeCeNkORYEywbc8r61AIa_43.335113_-70.940158@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d494afcc80d5b45735a425672a37783c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":387740269
+        }
+    ],
+    "wof:id":387740269,
+    "wof:lastmodified":1449057824,
+    "wof:name":"Kenney Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-70.940158,43.335113,-70.940158,43.335113],
+  "geometry": {"coordinates":[-70.940158,43.335113],"type":"Point"}
+}

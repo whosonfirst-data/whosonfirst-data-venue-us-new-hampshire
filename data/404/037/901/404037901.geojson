@@ -1,0 +1,66 @@
+{
+  "id": 404037901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.927326,43.299735,-70.927326,43.299735",
+    "geom:latitude":43.299735,
+    "geom:longitude":-70.927326,
+    "iso:country":"US",
+    "sg:address":"162 Whitehall Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 6168",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85816725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38sggFl8geuROAZ8zwgjYw_43.299735_-70.927326@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41a2175ea9c28ede05b4b5c3c7d1f8c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":404037901
+        }
+    ],
+    "wof:id":404037901,
+    "wof:lastmodified":1449040342,
+    "wof:name":"Roberts Transmission Repair",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [-70.927326,43.299735,-70.927326,43.299735],
+  "geometry": {"coordinates":[-70.927326,43.299735],"type":"Point"}
+}

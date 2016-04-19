@@ -1,0 +1,67 @@
+{
+  "id": 387772277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059573,44.011265,-71.059573,44.011265",
+    "geom:latitude":44.011265,
+    "geom:longitude":-71.059573,
+    "iso:country":"US",
+    "sg:address":"2100 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 4882",
+    "sg:postcode":"03813",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        102086581,
+        85844159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78cWNqFbiQ1mxwqihVrClg_44.011265_-71.059573@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7de4bf46ffa86f04c879875747647f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086581,
+            "locality_id":-1,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":387772277
+        }
+    ],
+    "wof:id":387772277,
+    "wof:lastmodified":1449057807,
+    "wof:name":"Prompto Inc",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-71.059573,44.011265,-71.059573,44.011265],
+  "geometry": {"coordinates":[-71.059573,44.011265],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 387701941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.878706,43.245936,-70.878706,43.245936",
+    "geom:latitude":43.245936,
+    "geom:longitude":-70.878706,
+    "iso:country":"US",
+    "sg:address":"21 Drew Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 4390",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4awLnurXXYqfxtliCS0dui_43.245936_-70.878706@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1899111554931fbc37c8bce24f56f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":387701941
+        }
+    ],
+    "wof:id":387701941,
+    "wof:lastmodified":1449059116,
+    "wof:name":"Vaillancourt's Small Engine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [-70.878706,43.245936,-70.878706,43.245936],
+  "geometry": {"coordinates":[-70.878706,43.245936],"type":"Point"}
+}

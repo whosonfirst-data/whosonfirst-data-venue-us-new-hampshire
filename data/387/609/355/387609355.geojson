@@ -1,0 +1,68 @@
+{
+  "id": 387609355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.979256,43.329397,-70.979256,43.329397",
+    "geom:latitude":43.329397,
+    "geom:longitude":-70.979256,
+    "iso:country":"US",
+    "sg:address":"36 Old Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 4700",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85833723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ktM9UFFcPTjXLlB6JQefG_43.329397_-70.979256@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"255ea4a92b4dee5508880c5970be8d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85833723,
+            "region_id":85688689,
+            "venue_id":387609355
+        }
+    ],
+    "wof:id":387609355,
+    "wof:lastmodified":1449057522,
+    "wof:name":"Ford Construction",
+    "wof:parent_id":85833723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-70.979256,43.329397,-70.979256,43.329397],
+  "geometry": {"coordinates":[-70.979256,43.329397],"type":"Point"}
+}

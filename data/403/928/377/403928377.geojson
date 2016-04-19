@@ -1,0 +1,68 @@
+{
+  "id": 403928377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975233,43.324286,-70.975233,43.324286",
+    "geom:latitude":43.324286,
+    "geom:longitude":-70.975233,
+    "iso:country":"US",
+    "sg:address":"27 Milton Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 3970",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85892309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41NpQysHp9f14dpl79wpWZ_43.324286_-70.975233@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f318e28f30d2fe6fc4376ba3132798b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":403928377
+        }
+    ],
+    "wof:id":403928377,
+    "wof:lastmodified":1449055779,
+    "wof:name":"Splash & Dash",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [-70.975233,43.324286,-70.975233,43.324286],
+  "geometry": {"coordinates":[-70.975233,43.324286],"type":"Point"}
+}

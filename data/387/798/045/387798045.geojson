@@ -1,0 +1,67 @@
+{
+  "id": 387798045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.87566,43.245593,-70.87566,43.245593",
+    "geom:latitude":43.245593,
+    "geom:longitude":-70.87566,
+    "iso:country":"US",
+    "sg:address":"361 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 4500",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ynHPOBcAYcR8VFM8eFkS3_43.245593_-70.875660@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b08b5dc0c8ffcc96e9666e5cee88d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":387798045
+        }
+    ],
+    "wof:id":387798045,
+    "wof:lastmodified":1449056806,
+    "wof:name":"Head & Neck Speciality Grp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-70.87566,43.245593,-70.87566,43.245593],
+  "geometry": {"coordinates":[-70.87566,43.245593],"type":"Point"}
+}

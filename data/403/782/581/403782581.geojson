@@ -1,0 +1,66 @@
+{
+  "id": 403782581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.951181,43.327836,-70.951181,43.327836",
+    "geom:latitude":43.327836,
+    "geom:longitude":-70.951181,
+    "iso:country":"US",
+    "sg:address":"59 Highland St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 4474",
+    "sg:postcode":"03868",
+    "sg:province":"ME",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975055,
+        102085609,
+        85816725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lFGPd47D4qLXlOozboA9W_43.327836_-70.951181@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adcc1feb0a174ffed999beecce1cb287",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":403782581
+        }
+    ],
+    "wof:id":403782581,
+    "wof:lastmodified":1449054619,
+    "wof:name":"Taylors Welding",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [-70.951181,43.327836,-70.951181,43.327836],
+  "geometry": {"coordinates":[-70.951181,43.327836],"type":"Point"}
+}

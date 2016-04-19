@@ -1,0 +1,66 @@
+{
+  "id": 403878765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.89844,43.25343,-70.89844,43.25343",
+    "geom:latitude":43.25343,
+    "geom:longitude":-70.89844,
+    "iso:country":"US",
+    "sg:address":"240 State Rte 108",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 9728",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "special"
+    ],
+    "sg:website":"www.somersworthstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuPFWGr4xkcTjMOYiio8B_43.253430_-70.898440@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"289274b521ba019b1d662096d3b7842d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":403878765
+        }
+    ],
+    "wof:id":403878765,
+    "wof:lastmodified":1449055339,
+    "wof:name":"Somersworth Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [-70.89844,43.25343,-70.89844,43.25343],
+  "geometry": {"coordinates":[-70.89844,43.25343],"type":"Point"}
+}

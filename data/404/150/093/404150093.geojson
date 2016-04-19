@@ -1,0 +1,67 @@
+{
+  "id": 404150093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-70.8825,43.229883,-70.8825,43.229883",
+    "geom:latitude":43.229883,
+    "geom:longitude":-70.8825,
+    "iso:country":"US",
+    "sg:address":"464 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 4567",
+    "sg:postcode":"03878",
+    "sg:province":"ME",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CM26rMzwAJSIRrCXg7GZy_43.229883_-70.882500@1294128635"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff6c167d7a9f02c901e9e33c6508c1b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":-1,
+            "region_id":85688689,
+            "venue_id":404150093
+        }
+    ],
+    "wof:id":404150093,
+    "wof:lastmodified":1449039102,
+    "wof:name":"Papa Bear Car Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [-70.8825,43.229883,-70.8825,43.229883],
+  "geometry": {"coordinates":[-70.8825,43.229883],"type":"Point"}
+}
