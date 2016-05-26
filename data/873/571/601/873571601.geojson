@@ -1,0 +1,77 @@
+{
+  "id": 873571601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448455,43.00486,-71.448455,43.00486",
+    "geom:latitude":43.00486,
+    "geom:longitude":-71.448455,
+    "iso:country":"US",
+    "sg:address":"288 Salmon St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 641 6676",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526217,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AxUpi00e06zS0Tnhlpeta_43.004860_-71.448455@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294626,
+    "wof:geomhash":"6421c80cf701d23f2aa325841b3932ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526217,
+            "region_id":85688689,
+            "venue_id":873571601
+        }
+    ],
+    "wof:id":873571601,
+    "wof:lastmodified":1464294626,
+    "wof:name":"Alpha Electric",
+    "wof:parent_id":420526217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.448455,
+    43.00486,
+    -71.448455,
+    43.00486
+],
+  "geometry": {"coordinates":[-71.448455,43.00486],"type":"Point"}
+}

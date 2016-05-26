@@ -1,0 +1,71 @@
+{
+  "id": 873865225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513903,44.598431,-71.513903,44.598431",
+    "geom:latitude":44.598431,
+    "geom:longitude":-71.513903,
+    "iso:country":"US",
+    "sg:address":"16 Church St",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2976",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQjmmoKeEupWwLKJpu0DT_44.598431_-71.513903@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299142,
+    "wof:geomhash":"8e7fecaf13cebf44b780b1bcb7eea189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873865225
+        }
+    ],
+    "wof:id":873865225,
+    "wof:lastmodified":1464299142,
+    "wof:name":"Hair Care Plus",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.513903,
+    44.598431,
+    -71.513903,
+    44.598431
+],
+  "geometry": {"coordinates":[-71.513903,44.598431],"type":"Point"}
+}

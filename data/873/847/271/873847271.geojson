@@ -1,0 +1,72 @@
+{
+  "id": 873847271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.990046,43.239832,-70.990046,43.239832",
+    "geom:latitude":43.239832,
+    "geom:longitude":-70.990046,
+    "iso:country":"US",
+    "sg:address":"3 Green Hill Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 4937",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "sg:website":"www.landrysauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60GTi9WPLGowkgEyZ2LcxL_43.239832_-70.990046@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298742,
+    "wof:geomhash":"8c60bae40da1c2e4933de3e5c4ca33ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873847271
+        }
+    ],
+    "wof:id":873847271,
+    "wof:lastmodified":1464298742,
+    "wof:name":"Landry's Auto Salvage",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -70.990046,
+    43.239832,
+    -70.990046,
+    43.239832
+],
+  "geometry": {"coordinates":[-70.99004600000001,43.239832],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873926435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.322428,42.780942,-71.322428,42.780942",
+    "geom:latitude":42.780942,
+    "geom:longitude":-71.322428,
+    "iso:country":"US",
+    "sg:address":"19 Heritage Hill Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7483",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wIw059l78TobNxHc3OoYr_42.780942_-71.322428@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300336,
+    "wof:geomhash":"ca04f65a431a4a0f54f2026dcfb1f3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873926435
+        }
+    ],
+    "wof:id":873926435,
+    "wof:lastmodified":1464300336,
+    "wof:name":"Rockingham Driving School, Inc.",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -71.322428,
+    42.780942,
+    -71.322428,
+    42.780942
+],
+  "geometry": {"coordinates":[-71.322428,42.780942],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873916827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532907,42.798569,-71.532907,42.798569",
+    "geom:latitude":42.798569,
+    "geom:longitude":-71.532907,
+    "iso:country":"US",
+    "sg:address":"580 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/10225-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 7293",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ck9z1F5LA2PLBtujNN5tm_42.798569_-71.532907@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300156,
+    "wof:geomhash":"6bac49901c999ed09d62bc59d18f2a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873916827
+        }
+    ],
+    "wof:id":873916827,
+    "wof:lastmodified":1464300156,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.532907,
+    42.798569,
+    -71.532907,
+    42.798569
+],
+  "geometry": {"coordinates":[-71.53290699999999,42.798569],"type":"Point"}
+}

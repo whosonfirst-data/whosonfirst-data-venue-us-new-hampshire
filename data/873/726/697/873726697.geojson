@@ -1,0 +1,73 @@
+{
+  "id": 873726697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462978,43.546369,-71.462978,43.546369",
+    "geom:latitude":43.546369,
+    "geom:longitude":-71.462978,
+    "iso:country":"US",
+    "sg:address":"765 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4090",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BtkwaVXGIslUl66JgmJE9_43.546369_-71.462978@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296737,
+    "wof:geomhash":"ddae8c7d87d9c5aff4e7ede05adb25b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873726697
+        }
+    ],
+    "wof:id":873726697,
+    "wof:lastmodified":1464296737,
+    "wof:name":"Lake Village Apartments",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.462978,
+    43.546369,
+    -71.462978,
+    43.546369
+],
+  "geometry": {"coordinates":[-71.46297800000001,43.546369],"type":"Point"}
+}

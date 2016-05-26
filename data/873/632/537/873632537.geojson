@@ -1,0 +1,69 @@
+{
+  "id": 873632537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.216977,42.7834,-71.216977,42.7834",
+    "geom:latitude":42.7834,
+    "geom:longitude":-71.216977,
+    "iso:country":"US",
+    "sg:address":"202 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6441",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cQh3psW8sIlgJmYLxJkVB_42.783400_-71.216977@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295393,
+    "wof:geomhash":"cbbe622d80273a9dbedd46eb6d008eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873632537
+        }
+    ],
+    "wof:id":873632537,
+    "wof:lastmodified":1464295393,
+    "wof:name":"Robert Barnett DDS",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.216977,
+    42.7834,
+    -71.216977,
+    42.7834
+],
+  "geometry": {"coordinates":[-71.216977,42.7834],"type":"Point"}
+}

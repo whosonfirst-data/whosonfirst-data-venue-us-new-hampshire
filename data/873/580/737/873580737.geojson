@@ -1,0 +1,69 @@
+{
+  "id": 873580737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.64607,42.8216,-71.64607,42.8216",
+    "geom:latitude":42.8216,
+    "geom:longitude":-71.64607,
+    "iso:country":"US",
+    "sg:address":"264 South St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 7535",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f32beEaN8K3WCNbInrGKz_42.821600_-71.646070@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294729,
+    "wof:geomhash":"d54e7a76a83d33a35528e86c30ab9ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873580737
+        }
+    ],
+    "wof:id":873580737,
+    "wof:lastmodified":1464294729,
+    "wof:name":"Souhegan Valley Auto Repair",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.64607,
+    42.8216,
+    -71.64607,
+    42.8216
+],
+  "geometry": {"coordinates":[-71.64606999999999,42.8216],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 873934561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.850464,43.249334,-70.850464,43.249334",
+    "geom:latitude":43.249334,
+    "geom:longitude":-70.850464,
+    "iso:country":"US",
+    "sg:address":"75 Centre Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 582 7209",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "equipment",
+        "restaurant",
+        "uniform",
+        "linen",
+        "dust"
+    ],
+    "sg:website":"http://www.generallinen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mUCiSew3gSX13RQczczEd_43.249334_-70.850464@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300490,
+    "wof:geomhash":"c3e42856c008f52d4e5dcee094e517c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873934561
+        }
+    ],
+    "wof:id":873934561,
+    "wof:lastmodified":1464300490,
+    "wof:name":"General Linen Service",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "equipment",
+        "restaurant",
+        "uniform",
+        "linen",
+        "dust"
+    ]
+},
+  "bbox": [
+    -70.850464,
+    43.249334,
+    -70.850464,
+    43.249334
+],
+  "geometry": {"coordinates":[-70.850464,43.249334],"type":"Point"}
+}

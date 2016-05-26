@@ -1,0 +1,71 @@
+{
+  "id": 873551611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.167272,44.385169,-71.167272,44.385169",
+    "geom:latitude":44.385169,
+    "geom:longitude":-71.167272,
+    "iso:country":"US",
+    "sg:address":"2 Underhill St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 9955",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ldr9WmkdQaepsRzRSYVhq_44.385169_-71.167272@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294396,
+    "wof:geomhash":"e584124e284f51787629a71904581f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873551611
+        }
+    ],
+    "wof:id":873551611,
+    "wof:lastmodified":1464294396,
+    "wof:name":"Electric Man",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.167272,
+    44.385169,
+    -71.167272,
+    44.385169
+],
+  "geometry": {"coordinates":[-71.167272,44.385169],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873658551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540287,42.849481,-71.540287,42.849481",
+    "geom:latitude":42.849481,
+    "geom:longitude":-71.540287,
+    "iso:country":"US",
+    "sg:address":"19 Davidson Ave",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 4390",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66U9h0hHBw399TQENBkJjp_42.849481_-71.540287@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295684,
+    "wof:geomhash":"ba3fa465b331107aecd266588ee8440f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873658551
+        }
+    ],
+    "wof:id":873658551,
+    "wof:lastmodified":1464295684,
+    "wof:name":"Mikro G Computer Systems",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.540287,
+    42.849481,
+    -71.540287,
+    42.849481
+],
+  "geometry": {"coordinates":[-71.54028700000001,42.849481],"type":"Point"}
+}

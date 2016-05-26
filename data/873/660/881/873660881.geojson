@@ -1,0 +1,71 @@
+{
+  "id": 873660881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538073,42.949903,-71.538073,42.949903",
+    "geom:latitude":42.949903,
+    "geom:longitude":-71.538073,
+    "iso:country":"US",
+    "sg:address":"6 Nathan Cutler Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 4601",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YJYKcEmaVB87gyBmJzNOp_42.949903_-71.538073@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295707,
+    "wof:geomhash":"fa1ba87b4448c910df6f1646352e2274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873660881
+        }
+    ],
+    "wof:id":873660881,
+    "wof:lastmodified":1464295707,
+    "wof:name":"Day Inc Norman E",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.538073,
+    42.949903,
+    -71.538073,
+    42.949903
+],
+  "geometry": {"coordinates":[-71.538073,42.949903],"type":"Point"}
+}

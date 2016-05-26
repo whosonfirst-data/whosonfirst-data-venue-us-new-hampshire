@@ -1,0 +1,76 @@
+{
+  "id": 873920629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.306839,42.885551,-71.306839,42.885551",
+    "geom:latitude":42.885551,
+    "geom:longitude":-71.306839,
+    "iso:country":"US",
+    "sg:address":"28 S Main St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 1233",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.derry.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892221,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VniM6FMFxsZ6xIlb40AZz_42.885551_-71.306839@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300221,
+    "wof:geomhash":"987bb4153feff7e5de4880e6f8aa2cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892221,
+            "region_id":85688689,
+            "venue_id":873920629
+        }
+    ],
+    "wof:id":873920629,
+    "wof:lastmodified":1464300221,
+    "wof:name":"Derry Village Elementry School",
+    "wof:parent_id":85892221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.306839,
+    42.885551,
+    -71.306839,
+    42.885551
+],
+  "geometry": {"coordinates":[-71.306839,42.885551],"type":"Point"}
+}

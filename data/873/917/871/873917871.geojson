@@ -1,0 +1,76 @@
+{
+  "id": 873917871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498259,43.220166,-71.498259,43.220166",
+    "geom:latitude":43.220166,
+    "geom:longitude":-71.498259,
+    "iso:country":"US",
+    "sg:address":"219 Loudon Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/concord/13752-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 6886",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NWekv1o5weZA1dBRzTBUP_43.220166_-71.498259@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300175,
+    "wof:geomhash":"a8c62fa13dfa4e55eede1fe4bff23820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873917871
+        }
+    ],
+    "wof:id":873917871,
+    "wof:lastmodified":1464300175,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.498259,
+    43.220166,
+    -71.498259,
+    43.220166
+],
+  "geometry": {"coordinates":[-71.498259,43.220166],"type":"Point"}
+}

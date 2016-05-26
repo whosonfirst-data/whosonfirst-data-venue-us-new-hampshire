@@ -1,0 +1,71 @@
+{
+  "id": 873857753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209566,42.788365,-71.209566,42.788365",
+    "geom:latitude":42.788365,
+    "geom:longitude":-71.209566,
+    "iso:country":"US",
+    "sg:address":"6 Merrill Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 0033",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79LC3pMQF3mzeDjmPanveK_42.788365_-71.209566@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298967,
+    "wof:geomhash":"bed3dd74a83f91a3510daee1292d0f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873857753
+        }
+    ],
+    "wof:id":873857753,
+    "wof:lastmodified":1464298967,
+    "wof:name":"Seacoast Lock & Safe Co Inc",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.209566,
+    42.788365,
+    -71.209566,
+    42.788365
+],
+  "geometry": {"coordinates":[-71.209566,42.788365],"type":"Point"}
+}

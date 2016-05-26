@@ -1,0 +1,71 @@
+{
+  "id": 873915887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.602501,43.286999,-71.602501,43.286999",
+    "geom:latitude":43.286999,
+    "geom:longitude":-71.602501,
+    "iso:country":"US",
+    "sg:address":"15 Cottage St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9911",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sqSDxQRtee9GLy6YRWGFZ_43.286957_-71.603324@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300139,
+    "wof:geomhash":"9216bfa2ed700b5b014284b692a61941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873915887
+        }
+    ],
+    "wof:id":873915887,
+    "wof:lastmodified":1464300139,
+    "wof:name":"Rumar Builders Co Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.602501,
+    43.286999,
+    -71.602501,
+    43.286999
+],
+  "geometry": {"coordinates":[-71.602501,43.286999],"type":"Point"}
+}

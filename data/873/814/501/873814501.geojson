@@ -1,0 +1,73 @@
+{
+  "id": 873814501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.222072,42.779313,-71.222072,42.779313",
+    "geom:latitude":42.779313,
+    "geom:longitude":-71.222072,
+    "iso:country":"US",
+    "sg:address":"36 Granite Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2215",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "aids",
+        "hearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hwk0oDFPrLTxSeozrD5rJ_42.779313_-71.222072@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298005,
+    "wof:geomhash":"661bbe1eb1f0a58966161ac5790a0359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873814501
+        }
+    ],
+    "wof:id":873814501,
+    "wof:lastmodified":1464298005,
+    "wof:name":"M & A Battery Supply",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "aids",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -71.222072,
+    42.779313,
+    -71.222072,
+    42.779313
+],
+  "geometry": {"coordinates":[-71.222072,42.779313],"type":"Point"}
+}

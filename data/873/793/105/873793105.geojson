@@ -1,0 +1,82 @@
+{
+  "id": 873793105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.378541,42.779447,-71.378541,42.779447",
+    "geom:latitude":42.779447,
+    "geom:longitude":-71.378541,
+    "iso:country":"US",
+    "sg:address":"9 Commercial St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4163",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "prefab",
+        "concrete",
+        "product",
+        "metal",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PR5xh07g7C2YvWIX4osMn_42.779447_-71.378541@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297691,
+    "wof:geomhash":"343be923db420a77a1a264bffc4fe2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873793105
+        }
+    ],
+    "wof:id":873793105,
+    "wof:lastmodified":1464297691,
+    "wof:name":"Concrete Systems Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prefab",
+        "concrete",
+        "product",
+        "metal",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.378541,
+    42.779447,
+    -71.378541,
+    42.779447
+],
+  "geometry": {"coordinates":[-71.378541,42.779447],"type":"Point"}
+}

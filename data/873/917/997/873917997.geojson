@@ -1,0 +1,76 @@
+{
+  "id": 873917997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534228,43.201621,-71.534228,43.201621",
+    "geom:latitude":43.201621,
+    "geom:longitude":-71.534228,
+    "iso:country":"US",
+    "sg:address":"42 S Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/concord/249224-the-works-bakery-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 602 336 1827",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g0aob4EiWhE10kxIB5s0M_43.201621_-71.534228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300177,
+    "wof:geomhash":"0515b03de694d107708bf41d4e13b1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873917997
+        }
+    ],
+    "wof:id":873917997,
+    "wof:lastmodified":1464300177,
+    "wof:name":"The Works Bakery Cafe",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.534228,
+    43.201621,
+    -71.534228,
+    43.201621
+],
+  "geometry": {"coordinates":[-71.534228,43.201621],"type":"Point"}
+}

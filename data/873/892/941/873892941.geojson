@@ -1,0 +1,71 @@
+{
+  "id": 873892941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.801669,44.307458,-71.801669,44.307458",
+    "geom:latitude":44.307458,
+    "geom:longitude":-71.801669,
+    "iso:country":"US",
+    "sg:address":"556 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2321",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k95EOhtfqGJ9zPXq8e89m_44.307458_-71.801669@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299687,
+    "wof:geomhash":"e1ea46c018377d56b9ac581859e8fbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873892941
+        }
+    ],
+    "wof:id":873892941,
+    "wof:lastmodified":1464299687,
+    "wof:name":"Price Mart",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.801669,
+    44.307458,
+    -71.801669,
+    44.307458
+],
+  "geometry": {"coordinates":[-71.801669,44.307458],"type":"Point"}
+}

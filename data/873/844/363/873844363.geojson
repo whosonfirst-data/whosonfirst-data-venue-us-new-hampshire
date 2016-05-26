@@ -1,0 +1,77 @@
+{
+  "id": 873844363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198438,43.598986,-71.198438,43.598986",
+    "geom:latitude":43.598986,
+    "geom:longitude":-71.198438,
+    "iso:country":"US",
+    "sg:address":"27 Birch Rd",
+    "sg:city":"Wolfeboro Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 5221",
+    "sg:postcode":"03896",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BfIP5wRfI0iaClKNLcA1a_43.598986_-71.198438@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298668,
+    "wof:geomhash":"854eb7752f06c92782763addb3a08ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873844363
+        }
+    ],
+    "wof:id":873844363,
+    "wof:lastmodified":1464298668,
+    "wof:name":"Bill's Auto Svc",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.198438,
+    43.598986,
+    -71.198438,
+    43.598986
+],
+  "geometry": {"coordinates":[-71.198438,43.598986],"type":"Point"}
+}

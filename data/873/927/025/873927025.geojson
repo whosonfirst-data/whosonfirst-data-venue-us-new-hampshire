@@ -1,0 +1,87 @@
+{
+  "id": 873927025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45998,43.047011,-71.45998,43.047011",
+    "geom:latitude":43.047011,
+    "geom:longitude":-71.45998,
+    "iso:country":"US",
+    "sg:address":"100 Quality Dr",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 621 1451",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3crzpFHWDa2eACQ90gjApp_43.047011_-71.459980@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300346,
+    "wof:geomhash":"6fd4f88f8be26eb3739fd06e7341f180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873927025
+        }
+    ],
+    "wof:id":873927025,
+    "wof:lastmodified":1464300346,
+    "wof:name":"Target",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.45998,
+    43.047011,
+    -71.45998,
+    43.047011
+],
+  "geometry": {"coordinates":[-71.45998,43.047011],"type":"Point"}
+}

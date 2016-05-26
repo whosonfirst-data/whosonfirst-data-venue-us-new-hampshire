@@ -1,0 +1,71 @@
+{
+  "id": 873852745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19812,42.741424,-71.19812,42.741424",
+    "geom:latitude":42.741424,
+    "geom:longitude":-71.19812,
+    "iso:country":"US",
+    "sg:address":"534 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7356",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ta4awHXmQoaR9yVLYIqDX_42.741424_-71.198120@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298869,
+    "wof:geomhash":"65e9733a2058c9a5e2b5f8955845c1b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873852745
+        }
+    ],
+    "wof:id":873852745,
+    "wof:lastmodified":1464298869,
+    "wof:name":"Discount Stateline Store",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.19812,
+    42.741424,
+    -71.19812,
+    42.741424
+],
+  "geometry": {"coordinates":[-71.19812,42.741424],"type":"Point"}
+}

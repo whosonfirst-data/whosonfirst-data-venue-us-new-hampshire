@@ -1,0 +1,71 @@
+{
+  "id": 873747289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564669,44.370939,-71.564669,44.370939",
+    "geom:latitude":44.370939,
+    "geom:longitude":-71.564669,
+    "iso:country":"US",
+    "sg:address":"1 Hazen Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 846 5741",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garage",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824449,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d0zpvepsypz5bWL8le2Fe_44.370939_-71.564669@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297041,
+    "wof:geomhash":"849865c45bc9bfeea6073f76cbc293d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85824449,
+            "region_id":85688689,
+            "venue_id":873747289
+        }
+    ],
+    "wof:id":873747289,
+    "wof:lastmodified":1464297041,
+    "wof:name":"Twin Mountain Satellite Garage",
+    "wof:parent_id":85824449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "state"
+    ]
+},
+  "bbox": [
+    -71.564669,
+    44.370939,
+    -71.564669,
+    44.370939
+],
+  "geometry": {"coordinates":[-71.56466899999999,44.370939],"type":"Point"}
+}

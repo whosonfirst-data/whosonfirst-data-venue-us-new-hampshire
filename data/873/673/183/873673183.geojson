@@ -1,0 +1,71 @@
+{
+  "id": 873673183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.802509,42.83231,-71.802509,42.83231",
+    "geom:latitude":42.83231,
+    "geom:longitude":-71.802509,
+    "iso:country":"US",
+    "sg:address":"315 Marden Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 5062",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1yz3O3YV7sKIrnlMILkz_42.832310_-71.802509@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295832,
+    "wof:geomhash":"cf3aa70c46c6126af6851b0614b2face",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873673183
+        }
+    ],
+    "wof:id":873673183,
+    "wof:lastmodified":1464295832,
+    "wof:name":"Sunbow Building Contrs Inc",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.802509,
+    42.83231,
+    -71.802509,
+    42.83231
+],
+  "geometry": {"coordinates":[-71.802509,42.83231],"type":"Point"}
+}

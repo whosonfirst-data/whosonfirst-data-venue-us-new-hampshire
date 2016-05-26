@@ -1,0 +1,71 @@
+{
+  "id": 873897475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580038,43.265173,-71.580038,43.265173",
+    "geom:latitude":43.265173,
+    "geom:longitude":-71.580038,
+    "iso:country":"US",
+    "sg:address":"65 Manor Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 6124",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yHjFvxfDFDs0mIS8UngNT_43.265173_-71.580038@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299773,
+    "wof:geomhash":"ca97ac411e1b86ccf99865990c5a55d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873897475
+        }
+    ],
+    "wof:id":873897475,
+    "wof:lastmodified":1464299773,
+    "wof:name":"David Mailhot Ent Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.580038,
+    43.265173,
+    -71.580038,
+    43.265173
+],
+  "geometry": {"coordinates":[-71.580038,43.265173],"type":"Point"}
+}

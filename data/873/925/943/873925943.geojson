@@ -1,0 +1,71 @@
+{
+  "id": 873925943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244302,42.800274,-71.244302,42.800274",
+    "geom:latitude":42.800274,
+    "geom:longitude":-71.244302,
+    "iso:country":"US",
+    "sg:address":"161 N Policy St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 2175",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bulk",
+        "companies-bottled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TdgLHX1Kuo07RxoLrerH8_42.800274_-71.244302@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300325,
+    "wof:geomhash":"a80ef6c2ebc18f373944001dd56733b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925943
+        }
+    ],
+    "wof:id":873925943,
+    "wof:lastmodified":1464300325,
+    "wof:name":"Town of Salem Water Dept",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "companies-bottled"
+    ]
+},
+  "bbox": [
+    -71.244302,
+    42.800274,
+    -71.244302,
+    42.800274
+],
+  "geometry": {"coordinates":[-71.244302,42.800274],"type":"Point"}
+}

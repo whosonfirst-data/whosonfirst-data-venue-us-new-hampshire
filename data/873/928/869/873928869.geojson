@@ -1,0 +1,84 @@
+{
+  "id": 873928869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.339991,42.848701,-72.339991,42.848701",
+    "geom:latitude":42.848701,
+    "geom:longitude":-72.339991,
+    "iso:country":"US",
+    "sg:address":"23 Kempton Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 3043",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck",
+        "used",
+        "moving"
+    ],
+    "sg:website":"http://budgettruck.com/IYP_tl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CE1JcQvaX31P18XH0GgbZ_42.848701_-72.339991@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300386,
+    "wof:geomhash":"ef89563411aa39353ba6a11b52bdec6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873928869
+        }
+    ],
+    "wof:id":873928869,
+    "wof:lastmodified":1464300386,
+    "wof:name":"Green Light Auto Center Llc DBA/Budget Truck Rental",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "used",
+        "moving"
+    ]
+},
+  "bbox": [
+    -72.339991,
+    42.848701,
+    -72.339991,
+    42.848701
+],
+  "geometry": {"coordinates":[-72.339991,42.848701],"type":"Point"}
+}

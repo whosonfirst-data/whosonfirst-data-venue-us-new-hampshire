@@ -1,0 +1,71 @@
+{
+  "id": 873550123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.225003,44.39928,-71.225003,44.39928",
+    "geom:latitude":44.39928,
+    "geom:longitude":-71.225003,
+    "iso:country":"US",
+    "sg:address":"32 Jimtown Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3860",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TgoKk0MfUXKWAecqoIgpj_44.399280_-71.225003@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294380,
+    "wof:geomhash":"36ad275a1b35b0ade8980ca554c1d748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873550123
+        }
+    ],
+    "wof:id":873550123,
+    "wof:lastmodified":1464294380,
+    "wof:name":"Moose Brook State Park",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -71.225003,
+    44.39928,
+    -71.225003,
+    44.39928
+],
+  "geometry": {"coordinates":[-71.225003,44.39928],"type":"Point"}
+}

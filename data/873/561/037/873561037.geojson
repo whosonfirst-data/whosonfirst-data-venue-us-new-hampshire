@@ -1,0 +1,71 @@
+{
+  "id": 873561037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.097758,43.386497,-72.097758,43.386497",
+    "geom:latitude":43.386497,
+    "geom:longitude":-72.097758,
+    "iso:country":"US",
+    "sg:address":"110 Lower Main St",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 3000",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14SbZO2b6muMFEs6NAUCUL_43.386497_-72.097758@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294510,
+    "wof:geomhash":"6670a4448fa223dd70c42116a540ee2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873561037
+        }
+    ],
+    "wof:id":873561037,
+    "wof:lastmodified":1464294510,
+    "wof:name":"Ernest A Rowe Plumbing Svc",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.097758,
+    43.386497,
+    -72.097758,
+    43.386497
+],
+  "geometry": {"coordinates":[-72.097758,43.386497],"type":"Point"}
+}

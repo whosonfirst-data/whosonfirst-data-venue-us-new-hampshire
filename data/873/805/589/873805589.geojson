@@ -1,0 +1,69 @@
+{
+  "id": 873805589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525627,42.794334,-71.525627,42.794334",
+    "geom:latitude":42.794334,
+    "geom:longitude":-71.525627,
+    "iso:country":"US",
+    "sg:address":"518 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 1411",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uewlyVxeNKExLwrSDGIgv_42.794334_-71.525627@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297845,
+    "wof:geomhash":"b1c138385d77dcb2f272efc2c0cf1248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873805589
+        }
+    ],
+    "wof:id":873805589,
+    "wof:lastmodified":1464297845,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -71.525627,
+    42.794334,
+    -71.525627,
+    42.794334
+],
+  "geometry": {"coordinates":[-71.525627,42.794334],"type":"Point"}
+}

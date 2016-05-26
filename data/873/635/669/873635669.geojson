@@ -1,0 +1,75 @@
+{
+  "id": 873635669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.046719,44.248895,-72.046719,44.248895",
+    "geom:latitude":44.248895,
+    "geom:longitude":-72.046719,
+    "iso:country":"US",
+    "sg:address":"197 Woodsville Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 4944",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69lqWr7DFm8wQzlkAEav0p_44.248895_-72.046719@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295429,
+    "wof:geomhash":"2cf528bbeee6ad03037acef79ea37bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873635669
+        }
+    ],
+    "wof:id":873635669,
+    "wof:lastmodified":1464295429,
+    "wof:name":"Wayne D Fearon Transport",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.046719,
+    44.248895,
+    -72.046719,
+    44.248895
+],
+  "geometry": {"coordinates":[-72.046719,44.248895],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873879703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.601744,43.150775,-71.601744,43.150775",
+    "geom:latitude":43.150775,
+    "geom:longitude":-71.601744,
+    "iso:country":"US",
+    "sg:address":"5 One Stack Dr",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 8052",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840195,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oz24xMWwv9lagYpYYXptb_43.150775_-71.601744@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299427,
+    "wof:geomhash":"dda051676411493bfeb60a32a1d8c6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85840195,
+            "region_id":85688689,
+            "venue_id":873879703
+        }
+    ],
+    "wof:id":873879703,
+    "wof:lastmodified":1464299427,
+    "wof:name":"Purcell Bob Plumbing & Heating",
+    "wof:parent_id":85840195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.601744,
+    43.150775,
+    -71.601744,
+    43.150775
+],
+  "geometry": {"coordinates":[-71.601744,43.150775],"type":"Point"}
+}

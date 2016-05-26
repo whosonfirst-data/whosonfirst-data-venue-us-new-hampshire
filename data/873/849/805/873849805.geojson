@@ -1,0 +1,69 @@
+{
+  "id": 873849805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.809954,44.210073,-71.809954,44.210073",
+    "geom:latitude":44.210073,
+    "geom:longitude":-71.809954,
+    "iso:country":"US",
+    "sg:address":"622 Pearl Lake Rd",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 823 5327",
+    "sg:postcode":"03586",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qsv3SSeHqTmKzT4Hdiy6o_44.210073_-71.809954@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298807,
+    "wof:geomhash":"5e1b80bbf2c4febbcf84d1c64b6f586d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873849805
+        }
+    ],
+    "wof:id":873849805,
+    "wof:lastmodified":1464298807,
+    "wof:name":"J C Plumbing & Heating Inc",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.809954,
+    44.210073,
+    -71.809954,
+    44.210073
+],
+  "geometry": {"coordinates":[-71.809954,44.210073],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873927377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580584,43.291208,-71.580584,43.291208",
+    "geom:latitude":43.291208,
+    "geom:longitude":-71.580584,
+    "iso:country":"US",
+    "sg:address":"37 Old Boyce Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4040",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.brookwoodpetresort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40YmJPczXcIzcXhbonJwmb_43.291208_-71.580584@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300352,
+    "wof:geomhash":"bea73122b4d4134d07ef3d64ae4ae25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873927377
+        }
+    ],
+    "wof:id":873927377,
+    "wof:lastmodified":1464300352,
+    "wof:name":"Brookwood Pet Resort",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.580584,
+    43.291208,
+    -71.580584,
+    43.291208
+],
+  "geometry": {"coordinates":[-71.580584,43.291208],"type":"Point"}
+}

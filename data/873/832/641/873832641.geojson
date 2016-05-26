@@ -1,0 +1,70 @@
+{
+  "id": 873832641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.960116,42.983016,-70.960116,42.983016",
+    "geom:latitude":42.983016,
+    "geom:longitude":-70.960116,
+    "iso:country":"US",
+    "sg:address":"100 Main St",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 875 2550",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k35gTPXKX3mC8uc6K0VLQ_42.983016_-70.960116@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298391,
+    "wof:geomhash":"617bfc60f2e1c90a27652e4777c8e6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873832641
+        }
+    ],
+    "wof:id":873832641,
+    "wof:lastmodified":1464298391,
+    "wof:name":"Gilman Library",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.960116,
+    42.983016,
+    -70.960116,
+    42.983016
+],
+  "geometry": {"coordinates":[-70.960116,42.983016],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873789591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.147424,42.82134,-71.147424,42.82134",
+    "geom:latitude":42.82134,
+    "geom:longitude":-71.147424,
+    "iso:country":"US",
+    "sg:address":"11 Sleepy Hollow Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 8849",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IpBvSeio1pXjyoQApcF6f_42.821340_-71.147424@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297635,
+    "wof:geomhash":"9ceaf80cf2bd74f8b68bab524bb8e62d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873789591
+        }
+    ],
+    "wof:id":873789591,
+    "wof:lastmodified":1464297635,
+    "wof:name":"Fresh Cut Lawn & Landscaping",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.147424,
+    42.82134,
+    -71.147424,
+    42.82134
+],
+  "geometry": {"coordinates":[-71.147424,42.82134],"type":"Point"}
+}

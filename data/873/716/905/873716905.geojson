@@ -1,0 +1,71 @@
+{
+  "id": 873716905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.23256,42.786185,-71.23256,42.786185",
+    "geom:latitude":42.786185,
+    "geom:longitude":-71.23256,
+    "iso:country":"US",
+    "sg:address":"131 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 9762",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hLRS2mopGvSe740DM7Bp0_42.786185_-71.232560@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296604,
+    "wof:geomhash":"a7c91956eb95bf563d4a5037587dcf24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873716905
+        }
+    ],
+    "wof:id":873716905,
+    "wof:lastmodified":1464296604,
+    "wof:name":"Sanel Auto Parts",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.23256,
+    42.786185,
+    -71.23256,
+    42.786185
+],
+  "geometry": {"coordinates":[-71.23256000000001,42.786185],"type":"Point"}
+}

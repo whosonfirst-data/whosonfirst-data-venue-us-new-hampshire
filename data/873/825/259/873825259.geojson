@@ -1,0 +1,71 @@
+{
+  "id": 873825259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474881,43.521194,-71.474881,43.521194",
+    "geom:latitude":43.521194,
+    "geom:longitude":-71.474881,
+    "iso:country":"US",
+    "sg:address":"227 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9358",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T0nOfwa71GBWyMPkrSpjB_43.521194_-71.474881@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298236,
+    "wof:geomhash":"2af707ed3dccecb5e2f2a43eef2b9d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873825259
+        }
+    ],
+    "wof:id":873825259,
+    "wof:lastmodified":1464298236,
+    "wof:name":"Murphys Auto",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.474881,
+    43.521194,
+    -71.474881,
+    43.521194
+],
+  "geometry": {"coordinates":[-71.474881,43.521194],"type":"Point"}
+}

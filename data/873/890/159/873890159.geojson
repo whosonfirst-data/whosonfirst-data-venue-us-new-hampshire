@@ -1,0 +1,73 @@
+{
+  "id": 873890159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440449,43.528421,-71.440449,43.528421",
+    "geom:latitude":43.528421,
+    "geom:longitude":-71.440449,
+    "iso:country":"US",
+    "sg:address":"46 Country Club Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0200",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12ENX1S70ym0YOTlFm1Ell_43.528421_-71.440449@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299634,
+    "wof:geomhash":"982c860365afef79acdd2e4d98b4b340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873890159
+        }
+    ],
+    "wof:id":873890159,
+    "wof:lastmodified":1464299634,
+    "wof:name":"GMI Asphalt Corp",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.440449,
+    43.528421,
+    -71.440449,
+    43.528421
+],
+  "geometry": {"coordinates":[-71.440449,43.528421],"type":"Point"}
+}

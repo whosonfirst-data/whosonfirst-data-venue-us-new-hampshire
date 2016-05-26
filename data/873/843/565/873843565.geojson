@@ -1,0 +1,71 @@
+{
+  "id": 873843565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.539913,42.715767,-71.539913,42.715767",
+    "geom:latitude":42.715767,
+    "geom:longitude":-71.539913,
+    "iso:country":"US",
+    "sg:address":"40 Old Runnels Bridge Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 0980",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n824MoQIPkKacmSjnw0VX_42.715767_-71.539913@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298644,
+    "wof:geomhash":"f2d5daf0367024b773ace8558bb100cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873843565
+        }
+    ],
+    "wof:id":873843565,
+    "wof:lastmodified":1464298644,
+    "wof:name":"Hutchinson Entps & Gen Contg",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.539913,
+    42.715767,
+    -71.539913,
+    42.715767
+],
+  "geometry": {"coordinates":[-71.539913,42.715767],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873755209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059546,42.95467,-71.059546,42.95467",
+    "geom:latitude":42.95467,
+    "geom:longitude":-71.059546,
+    "iso:country":"US",
+    "sg:address":"255 State Rte 125",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 6101",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vSRK50Eq3VFQjA1QLoG98_42.954670_-71.059546@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297147,
+    "wof:geomhash":"ad37c7fee132d2ac1f6422880fbca7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873755209
+        }
+    ],
+    "wof:id":873755209,
+    "wof:lastmodified":1464297147,
+    "wof:name":"Mark's Auto Ctr",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.059546,
+    42.95467,
+    -71.059546,
+    42.95467
+],
+  "geometry": {"coordinates":[-71.059546,42.95467],"type":"Point"}
+}

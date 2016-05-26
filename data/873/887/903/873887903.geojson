@@ -1,0 +1,81 @@
+{
+  "id": 873887903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43332,43.57467,-71.43332,43.57467",
+    "geom:latitude":43.57467,
+    "geom:longitude":-71.43332,
+    "iso:country":"US",
+    "sg:address":"25 Waterford Pl",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6591",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1scrlvEtxRj441C2OyBdLy_43.574670_-71.433320@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299589,
+    "wof:geomhash":"de890a318c216b0713604550041959e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873887903
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873887903
+        }
+    ],
+    "wof:id":873887903,
+    "wof:lastmodified":1464299589,
+    "wof:name":"DGF Ind Innovations Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.43332,
+    43.57467,
+    -71.43332,
+    43.57467
+],
+  "geometry": {"coordinates":[-71.43331999999999,43.57467],"type":"Point"}
+}

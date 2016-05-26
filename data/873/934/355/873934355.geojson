@@ -1,0 +1,82 @@
+{
+  "id": 873934355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.879648,42.882282,-70.879648,42.882282",
+    "geom:latitude":42.882282,
+    "geom:longitude":-70.879648,
+    "iso:country":"US",
+    "sg:address":"135 Folly Mill Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 468 3000",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer",
+        "consultant",
+        "designer",
+        "integration",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UDAyeaw3XY4yqkGJN88Ni_42.882282_-70.879648@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300487,
+    "wof:geomhash":"444d4aae7ce3ccb326a50fe42794a730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873934355
+        }
+    ],
+    "wof:id":873934355,
+    "wof:lastmodified":1464300487,
+    "wof:name":"Superior Controls Incorporated",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer",
+        "consultant",
+        "designer",
+        "integration",
+        "system"
+    ]
+},
+  "bbox": [
+    -70.879648,
+    42.882282,
+    -70.879648,
+    42.882282
+],
+  "geometry": {"coordinates":[-70.879648,42.882282],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873724679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.234223,42.766458,-71.234223,42.766458",
+    "geom:latitude":42.766458,
+    "geom:longitude":-71.234223,
+    "iso:country":"US",
+    "sg:address":"9 Lowell Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 9798",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5junyAMfkYTGKk8rlZlWW6_42.766458_-71.234223@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296708,
+    "wof:geomhash":"fae5935608a4d9bd4def9a08407a5e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873724679
+        }
+    ],
+    "wof:id":873724679,
+    "wof:lastmodified":1464296708,
+    "wof:name":"Granite State Electric Company",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -71.234223,
+    42.766458,
+    -71.234223,
+    42.766458
+],
+  "geometry": {"coordinates":[-71.234223,42.766458],"type":"Point"}
+}

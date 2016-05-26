@@ -1,0 +1,83 @@
+{
+  "id": 873809665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.23905,42.775537,-71.23905,42.775537",
+    "geom:latitude":42.775537,
+    "geom:longitude":-71.23905,
+    "iso:country":"US",
+    "sg:address":"7 Raymond Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 9900",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "semiconductor",
+        "equipment",
+        "mfg",
+        "electronic",
+        "supply"
+    ],
+    "sg:website":"www.corfin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05vmj4oUrSbY8scYPUAPoU_42.775537_-71.239050@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297921,
+    "wof:geomhash":"944fed1697c937e3dd4a079429d6b0e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873809665
+        }
+    ],
+    "wof:id":873809665,
+    "wof:lastmodified":1464297921,
+    "wof:name":"Corfin Industries LLC",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "equipment",
+        "mfg",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.23905,
+    42.775537,
+    -71.23905,
+    42.775537
+],
+  "geometry": {"coordinates":[-71.23905000000001,42.775537],"type":"Point"}
+}

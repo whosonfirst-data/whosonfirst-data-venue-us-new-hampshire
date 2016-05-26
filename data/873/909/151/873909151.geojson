@@ -1,0 +1,71 @@
+{
+  "id": 873909151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.156946,43.810746,-72.156946,43.810746",
+    "geom:latitude":43.810746,
+    "geom:longitude":-72.156946,
+    "iso:country":"US",
+    "sg:address":"5 Main St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 2125",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gx57x3gWPv6J0CCONcm0q_43.810746_-72.156946@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299996,
+    "wof:geomhash":"80de5995ca8fa21bd7ec051de727a7fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873909151
+        }
+    ],
+    "wof:id":873909151,
+    "wof:lastmodified":1464299996,
+    "wof:name":"Laura Barnes Elementary School",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -72.156946,
+    43.810746,
+    -72.156946,
+    43.810746
+],
+  "geometry": {"coordinates":[-72.156946,43.810746],"type":"Point"}
+}

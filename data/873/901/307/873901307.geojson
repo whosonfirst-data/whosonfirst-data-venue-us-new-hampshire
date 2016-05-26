@@ -1,0 +1,73 @@
+{
+  "id": 873901307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831339,42.964251,-70.831339,42.964251",
+    "geom:latitude":42.964251,
+    "geom:longitude":-70.831339,
+    "iso:country":"US",
+    "sg:address":"27 Cedar Rd",
+    "sg:city":"North Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 1130",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gdQVxze34OE9kdAwo01KS_42.964251_-70.831339@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299843,
+    "wof:geomhash":"112ae3c1a29bfdf33516fb99d01e6cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873901307
+        }
+    ],
+    "wof:id":873901307,
+    "wof:lastmodified":1464299843,
+    "wof:name":"Advanced Detonics Inc",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.831339,
+    42.964251,
+    -70.831339,
+    42.964251
+],
+  "geometry": {"coordinates":[-70.831339,42.964251],"type":"Point"}
+}

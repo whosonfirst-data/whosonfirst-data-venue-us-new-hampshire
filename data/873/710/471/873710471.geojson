@@ -1,0 +1,77 @@
+{
+  "id": 873710471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.774259,43.077414,-70.774259,43.077414",
+    "geom:latitude":43.077414,
+    "geom:longitude":-70.774259,
+    "iso:country":"US",
+    "sg:address":"887 US Hwy 1 Byp",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 9570",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892307,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vqKB1f5evdyiwXcvRpAFe_43.077414_-70.774259@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296526,
+    "wof:geomhash":"d26e70bbee0ff74ad84790ebfdce8422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892307,
+            "region_id":85688689,
+            "venue_id":873710471
+        }
+    ],
+    "wof:id":873710471,
+    "wof:lastmodified":1464296526,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85892307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.774259,
+    43.077414,
+    -70.774259,
+    43.077414
+],
+  "geometry": {"coordinates":[-70.774259,43.077414],"type":"Point"}
+}

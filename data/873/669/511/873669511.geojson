@@ -1,0 +1,71 @@
+{
+  "id": 873669511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870618,42.877092,-70.870618,42.877092",
+    "geom:latitude":42.877092,
+    "geom:longitude":-70.870618,
+    "iso:country":"US",
+    "sg:address":"99 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 9811",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50R8nSr5PQoEj1O3UpXPW0_42.877092_-70.870618@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295796,
+    "wof:geomhash":"954761d7c54def31c73a3139b392e81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873669511
+        }
+    ],
+    "wof:id":873669511,
+    "wof:lastmodified":1464295796,
+    "wof:name":"Seabrook Tax Collector",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -70.870618,
+    42.877092,
+    -70.870618,
+    42.877092
+],
+  "geometry": {"coordinates":[-70.87061799999999,42.877092],"type":"Point"}
+}

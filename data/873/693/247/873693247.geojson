@@ -1,0 +1,79 @@
+{
+  "id": 873693247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421765,43.567592,-71.421765,43.567592",
+    "geom:latitude":43.567592,
+    "geom:longitude":-71.421765,
+    "iso:country":"US",
+    "sg:address":"10 Mutual Way",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1212",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "savings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i9PYf6faOj1mlGPZpzqye_43.567592_-71.421765@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296330,
+    "wof:geomhash":"6cfe59ad66bfd00ef852cc50d556080e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873693247
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873693247
+        }
+    ],
+    "wof:id":873693247,
+    "wof:lastmodified":1464296330,
+    "wof:name":"Operation Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "savings"
+    ]
+},
+  "bbox": [
+    -71.421765,
+    43.567592,
+    -71.421765,
+    43.567592
+],
+  "geometry": {"coordinates":[-71.42176499999999,43.567592],"type":"Point"}
+}

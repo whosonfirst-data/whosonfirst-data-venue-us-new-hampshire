@@ -1,0 +1,71 @@
+{
+  "id": 873807621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.887095,43.221148,-70.887095,43.221148",
+    "geom:latitude":43.221148,
+    "geom:longitude":-70.887095,
+    "iso:country":"US",
+    "sg:address":"73 Webb Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 1002",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GZWOeZFHnHmiZCWq9pF4f_43.221148_-70.887095@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297882,
+    "wof:geomhash":"0cef96621cb47429a1c46f7d789c4968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873807621
+        }
+    ],
+    "wof:id":873807621,
+    "wof:lastmodified":1464297882,
+    "wof:name":"Windshire Gardens",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.887095,
+    43.221148,
+    -70.887095,
+    43.221148
+],
+  "geometry": {"coordinates":[-70.887095,43.221148],"type":"Point"}
+}

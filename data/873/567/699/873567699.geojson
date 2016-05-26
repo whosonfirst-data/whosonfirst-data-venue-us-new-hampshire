@@ -1,0 +1,71 @@
+{
+  "id": 873567699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.788415,43.184215,-71.788415,43.184215",
+    "geom:latitude":43.184215,
+    "geom:longitude":-71.788415,
+    "iso:country":"US",
+    "sg:address":"10 Old Concord Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6552",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LRUNozskupOhmrGRufV9g_43.184215_-71.788415@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"65f32122d147b0749703420986e5bda9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873567699
+        }
+    ],
+    "wof:id":873567699,
+    "wof:lastmodified":1464294583,
+    "wof:name":"Old Concord Road Self Storage",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.788415,
+    43.184215,
+    -71.788415,
+    43.184215
+],
+  "geometry": {"coordinates":[-71.788415,43.184215],"type":"Point"}
+}

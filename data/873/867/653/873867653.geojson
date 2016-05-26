@@ -1,0 +1,71 @@
+{
+  "id": 873867653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.169198,44.48569,-71.169198,44.48569",
+    "geom:latitude":44.48569,
+    "geom:longitude":-71.169198,
+    "iso:country":"US",
+    "sg:address":"236 Sweden St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 6243",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f8HNHWFHHYkilPhpldLWo_44.485690_-71.169198@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299185,
+    "wof:geomhash":"66ee712b92368d706980988caeea98f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873867653
+        }
+    ],
+    "wof:id":873867653,
+    "wof:lastmodified":1464299185,
+    "wof:name":"Behive Apartments",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.169198,
+    44.48569,
+    -71.169198,
+    44.48569
+],
+  "geometry": {"coordinates":[-71.16919799999999,44.48569],"type":"Point"}
+}

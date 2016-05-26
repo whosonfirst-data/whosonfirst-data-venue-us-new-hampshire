@@ -1,0 +1,73 @@
+{
+  "id": 873714377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.67133,43.968957,-71.67133,43.968957",
+    "geom:latitude":43.968957,
+    "geom:longitude":-71.67133,
+    "iso:country":"US",
+    "sg:address":"18 Sellingham Hill Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 5005",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856505,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2thj5nmgKXGR1LWTsM294l_43.968957_-71.671330@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296574,
+    "wof:geomhash":"c7cff59a9e0498b072570338005f89bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856505,
+            "region_id":85688689,
+            "venue_id":873714377
+        }
+    ],
+    "wof:id":873714377,
+    "wof:lastmodified":1464296574,
+    "wof:name":"Black Diamond Auto Body",
+    "wof:parent_id":85856505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.67133,
+    43.968957,
+    -71.67133,
+    43.968957
+],
+  "geometry": {"coordinates":[-71.67133,43.968957],"type":"Point"}
+}

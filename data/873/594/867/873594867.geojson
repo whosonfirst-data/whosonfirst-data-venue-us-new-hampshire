@@ -1,0 +1,71 @@
+{
+  "id": 873594867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.733025,43.591251,-71.733025,43.591251",
+    "geom:latitude":43.591251,
+    "geom:longitude":-71.733025,
+    "iso:country":"US",
+    "sg:address":"20 Spring St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 3227",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47uvaptr4k048mWzW2hBk8_43.591251_-71.733025@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294901,
+    "wof:geomhash":"aa32353d97a44d2b411f92425ccce8d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873594867
+        }
+    ],
+    "wof:id":873594867,
+    "wof:lastmodified":1464294901,
+    "wof:name":"Pro-Tite Corp",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.733025,
+    43.591251,
+    -71.733025,
+    43.591251
+],
+  "geometry": {"coordinates":[-71.733025,43.591251],"type":"Point"}
+}

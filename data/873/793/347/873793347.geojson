@@ -1,0 +1,70 @@
+{
+  "id": 873793347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.163472,43.622745,-71.163472,43.622745",
+    "geom:latitude":43.622745,
+    "geom:longitude":-71.163472,
+    "iso:country":"US",
+    "sg:address":"33 College Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 862 1357",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.ece.unh.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sh6y5k6LTKGE4sXgTUs8H_43.622745_-71.163472@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297694,
+    "wof:geomhash":"08ca763d7575aa066b5f33b39e504fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873793347
+        }
+    ],
+    "wof:id":873793347,
+    "wof:lastmodified":1464297694,
+    "wof:name":"Univ Of Nh-Elec & Computer",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.163472,
+    43.622745,
+    -71.163472,
+    43.622745
+],
+  "geometry": {"coordinates":[-71.163472,43.622745],"type":"Point"}
+}

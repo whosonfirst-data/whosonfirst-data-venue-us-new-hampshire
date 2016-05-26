@@ -1,0 +1,82 @@
+{
+  "id": 873888933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.278037,42.937982,-72.278037,42.937982",
+    "geom:latitude":42.937982,
+    "geom:longitude":-72.278037,
+    "iso:country":"US",
+    "sg:address":"29 Union St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3195",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WBjLa9mFM9Y0Cl8t10w11_42.937982_-72.278037@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299607,
+    "wof:geomhash":"201e9589dc3da9686373d519d604edad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873888933
+        }
+    ],
+    "wof:id":873888933,
+    "wof:lastmodified":1464299607,
+    "wof:name":"Academy Town House",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -72.278037,
+    42.937982,
+    -72.278037,
+    42.937982
+],
+  "geometry": {"coordinates":[-72.278037,42.937982],"type":"Point"}
+}

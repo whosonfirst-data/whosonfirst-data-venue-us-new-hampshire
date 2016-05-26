@@ -1,0 +1,71 @@
+{
+  "id": 873649923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.036236,44.000708,-71.036236,44.000708",
+    "geom:latitude":44.000708,
+    "geom:longitude":-71.036236,
+    "iso:country":"US",
+    "sg:address":"2617 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 7500",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G2OhuwoDKjQTuz51ylNlh_44.000708_-71.036236@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295585,
+    "wof:geomhash":"ca9c785a88aacf75d5af74aa4f5f472c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":873649923
+        }
+    ],
+    "wof:id":873649923,
+    "wof:lastmodified":1464295585,
+    "wof:name":"WPKQ",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -71.036236,
+    44.000708,
+    -71.036236,
+    44.000708
+],
+  "geometry": {"coordinates":[-71.036236,44.000708],"type":"Point"}
+}

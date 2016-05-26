@@ -1,0 +1,73 @@
+{
+  "id": 873780893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.821563,43.173703,-71.821563,43.173703",
+    "geom:latitude":43.173703,
+    "geom:longitude":-71.821563,
+    "iso:country":"US",
+    "sg:address":"9 Depot Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6260",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LY3N8eUY6wPcEuuwD2sEB_43.173703_-71.821563@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297503,
+    "wof:geomhash":"35ea8838e1913ca0d3b7dcb178fa0c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873780893
+        }
+    ],
+    "wof:id":873780893,
+    "wof:lastmodified":1464297503,
+    "wof:name":"Depot Hill Garage",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.821563,
+    43.173703,
+    -71.821563,
+    43.173703
+],
+  "geometry": {"coordinates":[-71.821563,43.173703],"type":"Point"}
+}

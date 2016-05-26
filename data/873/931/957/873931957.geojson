@@ -1,0 +1,78 @@
+{
+  "id": 873931957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.825539,43.048388,-70.825539,43.048388",
+    "geom:latitude":43.048388,
+    "geom:longitude":-70.825539,
+    "iso:country":"US",
+    "sg:address":"80 Country Club Ln",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9719",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "course",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g6Vsov7xjlcTig2lLLGK0_43.048388_-70.825539@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300445,
+    "wof:geomhash":"5b12330eedbc8e47b8697eaec31bd0f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873931957
+        }
+    ],
+    "wof:id":873931957,
+    "wof:lastmodified":1464300445,
+    "wof:name":"Golf Shop",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "course",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.825539,
+    43.048388,
+    -70.825539,
+    43.048388
+],
+  "geometry": {"coordinates":[-70.82553900000001,43.048388],"type":"Point"}
+}

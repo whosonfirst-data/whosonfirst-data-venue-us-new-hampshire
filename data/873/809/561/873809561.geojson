@@ -1,0 +1,75 @@
+{
+  "id": 873809561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.021304,43.327413,-71.021304,43.327413",
+    "geom:latitude":43.327413,
+    "geom:longitude":-71.021304,
+    "iso:country":"US",
+    "sg:address":"100 Ten Rod Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 4777",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tXqDPs4KDSgTxAc20ihUN_43.327413_-71.021304@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297919,
+    "wof:geomhash":"f5abc823cdf7716a8a6cf77e87384724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873809561
+        }
+    ],
+    "wof:id":873809561,
+    "wof:lastmodified":1464297919,
+    "wof:name":"Myhre Equine Clinic",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.021304,
+    43.327413,
+    -71.021304,
+    43.327413
+],
+  "geometry": {"coordinates":[-71.021304,43.327413],"type":"Point"}
+}

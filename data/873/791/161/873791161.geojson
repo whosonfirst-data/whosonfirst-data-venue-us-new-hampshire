@@ -1,0 +1,74 @@
+{
+  "id": 873791161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442364,43.523507,-71.442364,43.523507",
+    "geom:latitude":43.523507,
+    "geom:longitude":-71.442364,
+    "iso:country":"US",
+    "sg:address":"140 Country Club Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7808",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "sg:website":"www.pheasantridgecc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZOFowGR3YoLqCR9eB1kl_43.523507_-71.442364@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297655,
+    "wof:geomhash":"f0b47015c8204ec8e98fd75d953060cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873791161
+        }
+    ],
+    "wof:id":873791161,
+    "wof:lastmodified":1464297655,
+    "wof:name":"Pheasant Ridge Country Club",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -71.442364,
+    43.523507,
+    -71.442364,
+    43.523507
+],
+  "geometry": {"coordinates":[-71.442364,43.523507],"type":"Point"}
+}

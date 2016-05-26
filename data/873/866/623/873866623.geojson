@@ -1,0 +1,73 @@
+{
+  "id": 873866623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569627,44.49003,-71.569627,44.49003",
+    "geom:latitude":44.49003,
+    "geom:longitude":-71.569627,
+    "iso:country":"US",
+    "sg:address":"109 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 9866",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OvSEjGPB8c5mpg019aOiL_44.490030_-71.569627@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299166,
+    "wof:geomhash":"e8173e4f11c0155f9e3904ac91e86e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873866623
+        }
+    ],
+    "wof:id":873866623,
+    "wof:lastmodified":1464299166,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.569627,
+    44.49003,
+    -71.569627,
+    44.49003
+],
+  "geometry": {"coordinates":[-71.569627,44.49003],"type":"Point"}
+}

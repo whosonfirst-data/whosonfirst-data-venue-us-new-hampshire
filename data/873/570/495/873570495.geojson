@@ -1,0 +1,73 @@
+{
+  "id": 873570495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241665,43.222538,-71.241665,43.222538",
+    "geom:latitude":43.222538,
+    "geom:longitude":-71.241665,
+    "iso:country":"US",
+    "sg:address":"39 Main St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8930",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZBI5oKfIXUjqOkXLqjH5_43.222538_-71.241665@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294615,
+    "wof:geomhash":"43d822f16679a08c7d933ed2b2fe20ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873570495
+        }
+    ],
+    "wof:id":873570495,
+    "wof:lastmodified":1464294615,
+    "wof:name":"Chuck's Alignment & Auto Rpr",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -71.241665,
+    43.222538,
+    -71.241665,
+    43.222538
+],
+  "geometry": {"coordinates":[-71.241665,43.222538],"type":"Point"}
+}

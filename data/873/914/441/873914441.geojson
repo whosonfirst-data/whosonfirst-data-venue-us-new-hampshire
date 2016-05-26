@@ -1,0 +1,69 @@
+{
+  "id": 873914441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.588959,42.74299,-71.588959,42.74299",
+    "geom:latitude":42.74299,
+    "geom:longitude":-71.588959,
+    "iso:country":"US",
+    "sg:address":"4 Market Pl",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2235",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f0T6UcGiYLkc4nErUZK1z_42.743473_-71.589018@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300096,
+    "wof:geomhash":"2dc500fbd7ca13f0689bfe4acc0a40bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873914441
+        }
+    ],
+    "wof:id":873914441,
+    "wof:lastmodified":1464300096,
+    "wof:name":"Hollis Family Chiropractic",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -71.588959,
+    42.74299,
+    -71.588959,
+    42.74299
+],
+  "geometry": {"coordinates":[-71.588959,42.74299],"type":"Point"}
+}

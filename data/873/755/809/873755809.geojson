@@ -1,0 +1,72 @@
+{
+  "id": 873755809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47053,43.528509,-71.47053,43.528509",
+    "geom:latitude":43.528509,
+    "geom:longitude":-71.47053,
+    "iso:country":"US",
+    "sg:address":"634 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 2662",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.christlifecenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60aC7fAbDYM3PFIAQ371lG_43.528509_-71.470530@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297154,
+    "wof:geomhash":"4a579319b79d5487771b99b3916809f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873755809
+        }
+    ],
+    "wof:id":873755809,
+    "wof:lastmodified":1464297154,
+    "wof:name":"Christ Life Center",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.47053,
+    43.528509,
+    -71.47053,
+    43.528509
+],
+  "geometry": {"coordinates":[-71.47053,43.528509],"type":"Point"}
+}

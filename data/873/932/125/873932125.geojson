@@ -1,0 +1,84 @@
+{
+  "id": 873932125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.81485,42.90078,-70.81485,42.90078",
+    "geom:latitude":42.90078,
+    "geom:longitude":-70.81485,
+    "iso:country":"US",
+    "sg:address":"1 Ocean Blvd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 1488",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood",
+        "lobster",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844975,
+        102191575,
+        404476787,
+        85633793,
+        85975135,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKlkxKfgw7zCHkBphRPRl_42.900780_-70.814850@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300448,
+    "wof:geomhash":"229a6a02c52aeafd5d4433e766fdedf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476787,
+            "locality_id":85975135,
+            "neighbourhood_id":85844975,
+            "region_id":85688689,
+            "venue_id":873932125
+        }
+    ],
+    "wof:id":873932125,
+    "wof:lastmodified":1464300448,
+    "wof:name":"State Pier Lobster Pound",
+    "wof:parent_id":85844975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "lobster",
+        "market"
+    ]
+},
+  "bbox": [
+    -70.81485,
+    42.90078,
+    -70.81485,
+    42.90078
+],
+  "geometry": {"coordinates":[-70.81485000000001,42.90078],"type":"Point"}
+}

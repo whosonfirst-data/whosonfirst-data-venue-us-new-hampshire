@@ -1,0 +1,71 @@
+{
+  "id": 873609303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.08317,43.215337,-71.08317,43.215337",
+    "geom:latitude":43.215337,
+    "geom:longitude":-71.08317,
+    "iso:country":"US",
+    "sg:address":"42 Flower Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 6029",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mTYvhvXxdk1idr3TvnA9F_43.215337_-71.083170@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295130,
+    "wof:geomhash":"9f39dadd755ef10e715479862caf759c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873609303
+        }
+    ],
+    "wof:id":873609303,
+    "wof:lastmodified":1464295130,
+    "wof:name":"Res Pro Contracting",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.08317,
+    43.215337,
+    -71.08317,
+    43.215337
+],
+  "geometry": {"coordinates":[-71.08317,43.215337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873922243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541033,42.812798,-71.541033,42.812798",
+    "geom:latitude":42.812798,
+    "geom:longitude":-71.541033,
+    "iso:country":"US",
+    "sg:address":"25 Gail Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 9014",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QycD2jK1Lz2MXyqBW7Jn7_42.812798_-71.541033@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300257,
+    "wof:geomhash":"16f5feec48cb755774c530984934db23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873922243
+        }
+    ],
+    "wof:id":873922243,
+    "wof:lastmodified":1464300257,
+    "wof:name":"Judy's Unique Boutique",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -71.541033,
+    42.812798,
+    -71.541033,
+    42.812798
+],
+  "geometry": {"coordinates":[-71.541033,42.812798],"type":"Point"}
+}

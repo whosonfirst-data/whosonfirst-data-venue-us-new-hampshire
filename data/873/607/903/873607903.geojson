@@ -1,0 +1,71 @@
+{
+  "id": 873607903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195784,42.843299,-71.195784,42.843299",
+    "geom:latitude":42.843299,
+    "geom:longitude":-71.195784,
+    "iso:country":"US",
+    "sg:address":"8 Industrial Way",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7227",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ptsbpdiZCGMbzY2laFI4B_42.843299_-71.195784@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295097,
+    "wof:geomhash":"53fa4bcc3e799a8b7df9c5b5cf89f3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873607903
+        }
+    ],
+    "wof:id":873607903,
+    "wof:lastmodified":1464295097,
+    "wof:name":"Country Auto",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.195784,
+    42.843299,
+    -71.195784,
+    42.843299
+],
+  "geometry": {"coordinates":[-71.195784,42.843299],"type":"Point"}
+}

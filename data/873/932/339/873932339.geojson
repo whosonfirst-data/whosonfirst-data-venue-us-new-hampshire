@@ -1,0 +1,82 @@
+{
+  "id": 873932339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.83223,42.95054,-70.83223,42.95054",
+    "geom:latitude":42.95054,
+    "geom:longitude":-70.83223,
+    "iso:country":"US",
+    "sg:address":"819 Lafayette Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 758 6042",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "meat-wholesale",
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LJcvKZ8mX0OMxwSRwAjxF_42.950540_-70.832230@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300452,
+    "wof:geomhash":"f4f9fe8c3f77f50185cb5abfe6fb67b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873932339
+        }
+    ],
+    "wof:id":873932339,
+    "wof:lastmodified":1464300452,
+    "wof:name":"Brimar, Ltd.",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meat-wholesale",
+        "seafood",
+        "seafood-wholesale",
+        "market"
+    ]
+},
+  "bbox": [
+    -70.83223,
+    42.95054,
+    -70.83223,
+    42.95054
+],
+  "geometry": {"coordinates":[-70.83223,42.95054],"type":"Point"}
+}

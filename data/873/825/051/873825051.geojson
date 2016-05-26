@@ -1,0 +1,71 @@
+{
+  "id": 873825051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.336049,42.747186,-71.336049,42.747186",
+    "geom:latitude":42.747186,
+    "geom:longitude":-71.336049,
+    "iso:country":"US",
+    "sg:address":"15 Washington St",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 3094",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K6Dv4pjlvAmuVqPZmAe2k_42.747186_-71.336049@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298233,
+    "wof:geomhash":"42fd893af0b0ba4cec4b2c3fcaacead3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873825051
+        }
+    ],
+    "wof:id":873825051,
+    "wof:lastmodified":1464298233,
+    "wof:name":"Stanleys Bird Creations",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.336049,
+    42.747186,
+    -71.336049,
+    42.747186
+],
+  "geometry": {"coordinates":[-71.336049,42.747186],"type":"Point"}
+}

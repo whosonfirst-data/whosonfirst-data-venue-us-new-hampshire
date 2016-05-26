@@ -1,0 +1,71 @@
+{
+  "id": 873752173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.162391,44.508471,-71.162391,44.508471",
+    "geom:latitude":44.508471,
+    "geom:longitude":-71.162391,
+    "iso:country":"US",
+    "sg:address":"364 Cates Hill Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2343",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hnnB9rIVxVwfqXgyY4HWj_44.508471_-71.162391@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297103,
+    "wof:geomhash":"10ee6e3eced28c7e4b08a04d72e1fd57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873752173
+        }
+    ],
+    "wof:id":873752173,
+    "wof:lastmodified":1464297103,
+    "wof:name":"Coos County Nursing Home",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.162391,
+    44.508471,
+    -71.162391,
+    44.508471
+],
+  "geometry": {"coordinates":[-71.162391,44.508471],"type":"Point"}
+}

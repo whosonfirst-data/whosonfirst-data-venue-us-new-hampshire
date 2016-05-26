@@ -1,0 +1,77 @@
+{
+  "id": 873852173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.99269,43.310917,-70.99269,43.310917",
+    "geom:latitude":43.310917,
+    "geom:longitude":-70.99269,
+    "iso:country":"US",
+    "sg:address":"303 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9144",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XqPhKdxa0FQLkur3uc2mv_43.310917_-70.992690@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298854,
+    "wof:geomhash":"f4f02069feda9b6596ef194aaafc4be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873852173
+        }
+    ],
+    "wof:id":873852173,
+    "wof:lastmodified":1464298854,
+    "wof:name":"Macca's Automotive",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.99269,
+    43.310917,
+    -70.99269,
+    43.310917
+],
+  "geometry": {"coordinates":[-70.99269,43.310917],"type":"Point"}
+}

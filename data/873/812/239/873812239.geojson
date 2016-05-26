@@ -1,0 +1,73 @@
+{
+  "id": 873812239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615482,42.874517,-71.615482,42.874517",
+    "geom:latitude":42.874517,
+    "geom:longitude":-71.615482,
+    "iso:country":"US",
+    "sg:address":"10 Bayberry Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 0034",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4REbSlLC6gQssGBDSpvsmB_42.874517_-71.615482@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297965,
+    "wof:geomhash":"70664d5e83cb05645ed27b6aa3d8b5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873812239
+        }
+    ],
+    "wof:id":873812239,
+    "wof:lastmodified":1464297965,
+    "wof:name":"A Cold Wet Nose",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.615482,
+    42.874517,
+    -71.615482,
+    42.874517
+],
+  "geometry": {"coordinates":[-71.615482,42.874517],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873839345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.13676,44.069931,-71.13676,44.069931",
+    "geom:latitude":44.069931,
+    "geom:longitude":-71.13676,
+    "iso:country":"US",
+    "sg:address":"34 Ash St",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6789",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831555,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36RoVPHzta2s2cSxJwzuLP_44.069931_-71.136760@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298535,
+    "wof:geomhash":"e4d56d90a8aa34a75e078b89a863e548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85831555,
+            "region_id":85688689,
+            "venue_id":873839345
+        }
+    ],
+    "wof:id":873839345,
+    "wof:lastmodified":1464298535,
+    "wof:name":"Everyday Is A Holiday",
+    "wof:parent_id":85831555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.13676,
+    44.069931,
+    -71.13676,
+    44.069931
+],
+  "geometry": {"coordinates":[-71.13676,44.069931],"type":"Point"}
+}

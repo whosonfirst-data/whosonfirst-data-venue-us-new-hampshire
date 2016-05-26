@@ -1,0 +1,71 @@
+{
+  "id": 873919801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.683505,42.706175,-71.683505,42.706175",
+    "geom:latitude":42.706175,
+    "geom:longitude":-71.683505,
+    "iso:country":"US",
+    "sg:address":"52 Laurel Crest Dr",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 769 4822",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "container",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C8xfsVu6SxE3WTU6WvE78_42.706175_-71.683505@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"e562133e68364fbef7f2af871f7805be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873919801
+        }
+    ],
+    "wof:id":873919801,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Alpha Express, Inc",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.683505,
+    42.706175,
+    -71.683505,
+    42.706175
+],
+  "geometry": {"coordinates":[-71.683505,42.706175],"type":"Point"}
+}

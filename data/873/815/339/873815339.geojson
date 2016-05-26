@@ -1,0 +1,71 @@
+{
+  "id": 873815339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463856,43.549604,-71.463856,43.549604",
+    "geom:latitude":43.549604,
+    "geom:longitude":-71.463856,
+    "iso:country":"US",
+    "sg:address":"105 Gold St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9317",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dUQyitenUGsPJs4PTxWA4_43.549604_-71.463856@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298020,
+    "wof:geomhash":"23872fc01a4423df2189cd1fbb09b01e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873815339
+        }
+    ],
+    "wof:id":873815339,
+    "wof:lastmodified":1464298020,
+    "wof:name":"Forever Young",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.463856,
+    43.549604,
+    -71.463856,
+    43.549604
+],
+  "geometry": {"coordinates":[-71.46385600000001,43.549604],"type":"Point"}
+}

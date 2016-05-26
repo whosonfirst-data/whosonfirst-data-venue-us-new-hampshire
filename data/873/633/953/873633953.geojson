@@ -1,0 +1,71 @@
+{
+  "id": 873633953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.742393,43.777209,-71.742393,43.777209",
+    "geom:latitude":43.777209,
+    "geom:longitude":-71.742393,
+    "iso:country":"US",
+    "sg:address":"147 Smith Bridge Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1900",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1beRxpwhe4aeINqnMvV9qD_43.777209_-71.742393@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295413,
+    "wof:geomhash":"4f6782f2eb8bb4882029944afd573e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873633953
+        }
+    ],
+    "wof:id":873633953,
+    "wof:lastmodified":1464295413,
+    "wof:name":"Certified Mechanics-Plymouth",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.742393,
+    43.777209,
+    -71.742393,
+    43.777209
+],
+  "geometry": {"coordinates":[-71.74239300000001,43.777209],"type":"Point"}
+}

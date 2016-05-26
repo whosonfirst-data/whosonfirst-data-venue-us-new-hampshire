@@ -1,0 +1,73 @@
+{
+  "id": 873903439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.694542,43.162882,-71.694542,43.162882",
+    "geom:latitude":43.162882,
+    "geom:longitude":-71.694542,
+    "iso:country":"US",
+    "sg:address":"590 Sugar Hill Rd",
+    "sg:city":"Hopkinton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 3140",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59esp9G4FOD7I6pFB000fY_43.162882_-71.694542@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299886,
+    "wof:geomhash":"f354434acf309ae60bf35308f2ebb509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873903439
+        }
+    ],
+    "wof:id":873903439,
+    "wof:lastmodified":1464299886,
+    "wof:name":"Green Horizon Landscaping",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.694542,
+    43.162882,
+    -71.694542,
+    43.162882
+],
+  "geometry": {"coordinates":[-71.694542,43.162882],"type":"Point"}
+}

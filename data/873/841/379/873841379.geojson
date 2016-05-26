@@ -1,0 +1,84 @@
+{
+  "id": 873841379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.280276,42.94275,-72.280276,42.94275",
+    "geom:latitude":42.94275,
+    "geom:longitude":-72.280276,
+    "iso:country":"US",
+    "sg:address":"91 Carroll St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 3330",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CExy8RmphgI0XEpneeTXO_42.942750_-72.280276@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298584,
+    "wof:geomhash":"d8b8b8bd4c912dea9faf6e649135b46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873841379
+        }
+    ],
+    "wof:id":873841379,
+    "wof:lastmodified":1464298584,
+    "wof:name":"Doug May's Woodworking",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -72.280276,
+    42.94275,
+    -72.280276,
+    42.94275
+],
+  "geometry": {"coordinates":[-72.280276,42.94275],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873847371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289132,43.707183,-72.289132,43.707183",
+    "geom:latitude":43.707183,
+    "geom:longitude":-72.289132,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 3321",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uFS6IPfJHtV3dVVNuTCLu_43.707183_-72.289132@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298747,
+    "wof:geomhash":"6e9a9528f932204dc949538d559e99cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873847371
+        }
+    ],
+    "wof:id":873847371,
+    "wof:lastmodified":1464298747,
+    "wof:name":"Lou's Restaurant",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.289132,
+    43.707183,
+    -72.289132,
+    43.707183
+],
+  "geometry": {"coordinates":[-72.289132,43.707183],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873647553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.774847,43.610769,-71.774847,43.610769",
+    "geom:latitude":43.610769,
+    "geom:longitude":-71.774847,
+    "iso:country":"US",
+    "sg:address":"278 Bailey Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 8413",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iQi1hUpuV9dtoRVd2lDMK_43.610769_-71.774847@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295562,
+    "wof:geomhash":"174c67fb3d433ee39e34bcfc4d642196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873647553
+        }
+    ],
+    "wof:id":873647553,
+    "wof:lastmodified":1464295562,
+    "wof:name":"Anair Electric",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.774847,
+    43.610769,
+    -71.774847,
+    43.610769
+],
+  "geometry": {"coordinates":[-71.77484699999999,43.610769],"type":"Point"}
+}

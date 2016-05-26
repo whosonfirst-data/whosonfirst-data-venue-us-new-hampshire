@@ -1,0 +1,77 @@
+{
+  "id": 873865005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543878,43.213636,-71.543878,43.213636",
+    "geom:latitude":43.213636,
+    "geom:longitude":-71.543878,
+    "iso:country":"US",
+    "sg:address":"19 Church St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 641 0519",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59IQzVQRQgFzZlZHZ46w3o_43.213636_-71.543878@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299139,
+    "wof:geomhash":"d0ded564cbcf7860da69f202a0734bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873865005
+        }
+    ],
+    "wof:id":873865005,
+    "wof:lastmodified":1464299139,
+    "wof:name":"Alliance Electric",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.543878,
+    43.213636,
+    -71.543878,
+    43.213636
+],
+  "geometry": {"coordinates":[-71.54387800000001,43.213636],"type":"Point"}
+}

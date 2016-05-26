@@ -1,0 +1,69 @@
+{
+  "id": 873553411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.548362,42.804604,-71.548362,42.804604",
+    "geom:latitude":42.804604,
+    "geom:longitude":-71.548362,
+    "iso:country":"US",
+    "sg:address":"736 Milford Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 7111",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3Wth9QCvnjsjE7UGPBdj_42.804604_-71.548362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294416,
+    "wof:geomhash":"33db2aaec76190d1ce72fdcf38572e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873553411
+        }
+    ],
+    "wof:id":873553411,
+    "wof:lastmodified":1464294416,
+    "wof:name":"New England Country Pies",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.548362,
+    42.804604,
+    -71.548362,
+    42.804604
+],
+  "geometry": {"coordinates":[-71.548362,42.804604],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873922063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493465,42.864765,-71.493465,42.864765",
+    "geom:latitude":42.864765,
+    "geom:longitude":-71.493465,
+    "iso:country":"US",
+    "sg:address":"456 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 8120",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07U04DWGNm5Ly9Sb65Krwx_42.864765_-71.493465@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300253,
+    "wof:geomhash":"f510c264e5427155e80488aadbcdb7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873922063
+        }
+    ],
+    "wof:id":873922063,
+    "wof:lastmodified":1464300253,
+    "wof:name":"Merrimack Vlg Fmly Practice",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.493465,
+    42.864765,
+    -71.493465,
+    42.864765
+],
+  "geometry": {"coordinates":[-71.493465,42.864765],"type":"Point"}
+}

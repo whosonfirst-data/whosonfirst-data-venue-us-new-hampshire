@@ -1,0 +1,76 @@
+{
+  "id": 873757569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.80372,42.859663,-71.80372,42.859663",
+    "geom:latitude":42.859663,
+    "geom:longitude":-71.80372,
+    "iso:country":"US",
+    "sg:address":"29 Stiles Farm Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 3870",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nJGy8kIwuH8R8PoDsSJ3e_42.859663_-71.803720@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297176,
+    "wof:geomhash":"602c7b70dfb829a3ec6f80376e1ce87c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873757569
+        }
+    ],
+    "wof:id":873757569,
+    "wof:lastmodified":1464297176,
+    "wof:name":"D H Clark Associates",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.80372,
+    42.859663,
+    -71.80372,
+    42.859663
+],
+  "geometry": {"coordinates":[-71.80372,42.859663],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873634181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975524,43.042242,-70.975524,43.042242",
+    "geom:latitude":43.042242,
+    "geom:longitude":-70.975524,
+    "iso:country":"US",
+    "sg:address":"101 Hall's Mill Rd",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5990",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MIyfJvUHoh2m1AOk5ozm3_43.042242_-70.975524@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295415,
+    "wof:geomhash":"3c77ae7be3a13e7631327c684fc05334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873634181
+        }
+    ],
+    "wof:id":873634181,
+    "wof:lastmodified":1464295415,
+    "wof:name":"Rymat Properties LLC",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -70.975524,
+    43.042242,
+    -70.975524,
+    43.042242
+],
+  "geometry": {"coordinates":[-70.97552399999999,43.042242],"type":"Point"}
+}

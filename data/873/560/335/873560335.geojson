@@ -1,0 +1,71 @@
+{
+  "id": 873560335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445785,43.578301,-71.445785,43.578301",
+    "geom:latitude":43.578301,
+    "geom:longitude":-71.445785,
+    "iso:country":"US",
+    "sg:address":"283 White Oaks Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5954",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wrXaMrmaG4NkbJInB4GIf_43.578301_-71.445785@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294503,
+    "wof:geomhash":"895babeabcf9c1fb7ae5be5701d82a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873560335
+        }
+    ],
+    "wof:id":873560335,
+    "wof:lastmodified":1464294503,
+    "wof:name":"Land N Lake Construction",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.445785,
+    43.578301,
+    -71.445785,
+    43.578301
+],
+  "geometry": {"coordinates":[-71.445785,43.578301],"type":"Point"}
+}

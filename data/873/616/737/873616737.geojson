@@ -1,0 +1,77 @@
+{
+  "id": 873616737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.03528,42.89081,-71.03528,42.89081",
+    "geom:latitude":42.89081,
+    "geom:longitude":-71.03528,
+    "iso:country":"US",
+    "sg:address":"4 Keezer Ln",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 378 0303",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "sg:website":"www.acornrecording.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SDoZrBJpFsJU6qfOKgiEC_42.890810_-71.035280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295213,
+    "wof:geomhash":"d54ecbbb085576c319d141e843b57456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873616737
+        }
+    ],
+    "wof:id":873616737,
+    "wof:lastmodified":1464295213,
+    "wof:name":"Acorn Recording Solutions Inc",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -71.03528,
+    42.89081,
+    -71.03528,
+    42.89081
+],
+  "geometry": {"coordinates":[-71.03528,42.89081],"type":"Point"}
+}

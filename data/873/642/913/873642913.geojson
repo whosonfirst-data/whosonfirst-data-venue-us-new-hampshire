@@ -1,0 +1,74 @@
+{
+  "id": 873642913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059867,43.010915,-71.059867,43.010915",
+    "geom:latitude":43.010915,
+    "geom:longitude":-71.059867,
+    "iso:country":"US",
+    "sg:address":"153 North Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 6222",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pRegWhMePFAUB2AwY9kId_43.010915_-71.059867@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295510,
+    "wof:geomhash":"67504c98ad5b6c71c11bdba0844ffc9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873642913
+        }
+    ],
+    "wof:id":873642913,
+    "wof:lastmodified":1464295510,
+    "wof:name":"Appliance Services Inc",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.059867,
+    43.010915,
+    -71.059867,
+    43.010915
+],
+  "geometry": {"coordinates":[-71.059867,43.010915],"type":"Point"}
+}

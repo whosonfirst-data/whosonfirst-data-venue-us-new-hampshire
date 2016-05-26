@@ -1,0 +1,82 @@
+{
+  "id": 873857373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.858917,43.171529,-70.858917,43.171529",
+    "geom:latitude":43.171529,
+    "geom:longitude":-70.858917,
+    "iso:country":"US",
+    "sg:address":"38 Dover Point Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 3553",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer",
+        "new"
+    ],
+    "sg:website":"www.dovercadillac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892235,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JLfOQBZN9eAm7gwcQGNCN_43.171529_-70.858917@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298960,
+    "wof:geomhash":"74a6991c1b9c38dd01611a2b2e0f8de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892235,
+            "region_id":85688689,
+            "venue_id":873857373
+        }
+    ],
+    "wof:id":873857373,
+    "wof:lastmodified":1464298960,
+    "wof:name":"Dover Cadillac Inc",
+    "wof:parent_id":85892235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer",
+        "new"
+    ]
+},
+  "bbox": [
+    -70.858917,
+    43.171529,
+    -70.858917,
+    43.171529
+],
+  "geometry": {"coordinates":[-70.85891700000001,43.171529],"type":"Point"}
+}

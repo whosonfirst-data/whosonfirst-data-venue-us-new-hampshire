@@ -1,0 +1,69 @@
+{
+  "id": 873603467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540318,43.009754,-71.540318,43.009754",
+    "geom:latitude":43.009754,
+    "geom:longitude":-71.540318,
+    "iso:country":"US",
+    "sg:address":"326 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 2900",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IW5mozkJIFjm06fwXmuGF_43.009754_-71.540318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295024,
+    "wof:geomhash":"2a71e275582bddbd8441bbf986cfa8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873603467
+        }
+    ],
+    "wof:id":873603467,
+    "wof:lastmodified":1464295024,
+    "wof:name":"Goffstown Police Records Div",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.540318,
+    43.009754,
+    -71.540318,
+    43.009754
+],
+  "geometry": {"coordinates":[-71.540318,43.009754],"type":"Point"}
+}

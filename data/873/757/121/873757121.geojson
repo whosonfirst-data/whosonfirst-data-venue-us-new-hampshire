@@ -1,0 +1,76 @@
+{
+  "id": 873757121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.990443,43.318319,-70.990443,43.318319",
+    "geom:latitude":43.318319,
+    "geom:longitude":-70.990443,
+    "iso:country":"US",
+    "sg:address":"98 Riverview Dr",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 6644",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.bookcrates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sj9FnkEsJ4zEZwrkJ6K93_43.318319_-70.990443@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297171,
+    "wof:geomhash":"fcdbc45403235dd58407a8203e973c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873757121
+        }
+    ],
+    "wof:id":873757121,
+    "wof:lastmodified":1464297171,
+    "wof:name":"Bookcrates",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.990443,
+    43.318319,
+    -70.990443,
+    43.318319
+],
+  "geometry": {"coordinates":[-70.990443,43.318319],"type":"Point"}
+}

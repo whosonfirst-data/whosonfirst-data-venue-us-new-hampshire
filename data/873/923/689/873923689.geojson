@@ -1,0 +1,76 @@
+{
+  "id": 873923689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53129,42.724233,-71.53129,42.724233",
+    "geom:latitude":42.724233,
+    "geom:longitude":-71.53129,
+    "iso:country":"US",
+    "sg:address":"1010 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 1170",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z9Yqrj3seVJnNGx7c6eg7_42.724233_-71.531290@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300283,
+    "wof:geomhash":"72c4952d568c19c2de11c5aa8bb044fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873923689
+        }
+    ],
+    "wof:id":873923689,
+    "wof:lastmodified":1464300283,
+    "wof:name":"Nashua Presbyterian Church",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-presbyterian-arp",
+        "churches-presbyterian"
+    ]
+},
+  "bbox": [
+    -71.53129,
+    42.724233,
+    -71.53129,
+    42.724233
+],
+  "geometry": {"coordinates":[-71.53129,42.724233],"type":"Point"}
+}

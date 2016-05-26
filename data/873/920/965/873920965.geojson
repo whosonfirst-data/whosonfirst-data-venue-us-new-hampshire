@@ -1,0 +1,90 @@
+{
+  "id": 873920965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.58464,42.742676,-71.58464,42.742676",
+    "geom:latitude":42.742676,
+    "geom:longitude":-71.58464,
+    "iso:country":"US",
+    "sg:address":"5 Hutchins Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 7700",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "advisory",
+        "management",
+        "broker",
+        "planner",
+        "bond",
+        "stock"
+    ],
+    "sg:website":"http://www.lumbard.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NShAfz9N4U7vu27IbSHX6_42.742676_-71.584640@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300227,
+    "wof:geomhash":"3ab1285f0e95cd52eeba4eabb3ec33ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873920965
+        }
+    ],
+    "wof:id":873920965,
+    "wof:lastmodified":1464300227,
+    "wof:name":"Lumbard Investment Counseling",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "management",
+        "broker",
+        "planner",
+        "bond",
+        "stock"
+    ]
+},
+  "bbox": [
+    -71.58464,
+    42.742676,
+    -71.58464,
+    42.742676
+],
+  "geometry": {"coordinates":[-71.58463999999999,42.742676],"type":"Point"}
+}

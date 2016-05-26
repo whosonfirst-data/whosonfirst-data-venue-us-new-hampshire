@@ -1,0 +1,71 @@
+{
+  "id": 873710049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.833411,42.955875,-70.833411,42.955875",
+    "geom:latitude":42.955875,
+    "geom:longitude":-70.833411,
+    "iso:country":"US",
+    "sg:address":"888 Lafayette Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9300",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizzeria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vp4F25g0eyVe5QhgKMq2F_42.955875_-70.833411@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296521,
+    "wof:geomhash":"2693593c587fb720b972ed2c40ce620e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873710049
+        }
+    ],
+    "wof:id":873710049,
+    "wof:lastmodified":1464296521,
+    "wof:name":"Joes New York Pizza & Brew",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria"
+    ]
+},
+  "bbox": [
+    -70.833411,
+    42.955875,
+    -70.833411,
+    42.955875
+],
+  "geometry": {"coordinates":[-70.833411,42.955875],"type":"Point"}
+}

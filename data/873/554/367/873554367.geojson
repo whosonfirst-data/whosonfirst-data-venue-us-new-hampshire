@@ -1,0 +1,71 @@
+{
+  "id": 873554367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192547,44.42733,-71.192547,44.42733",
+    "geom:latitude":44.42733,
+    "geom:longitude":-71.192547,
+    "iso:country":"US",
+    "sg:address":"584 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1880",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BuhU7Jkp2Zzbd9QDpn1Eb_44.427330_-71.192547@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294428,
+    "wof:geomhash":"14ba5ae630e6e8562c552482231748ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873554367
+        }
+    ],
+    "wof:id":873554367,
+    "wof:lastmodified":1464294428,
+    "wof:name":"Northern Paving & Constr Co",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.192547,
+    44.42733,
+    -71.192547,
+    44.42733
+],
+  "geometry": {"coordinates":[-71.192547,44.42733],"type":"Point"}
+}

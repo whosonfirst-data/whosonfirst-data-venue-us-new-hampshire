@@ -1,0 +1,71 @@
+{
+  "id": 873655199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529138,43.360916,-71.529138,43.360916",
+    "geom:latitude":43.360916,
+    "geom:longitude":-71.529138,
+    "iso:country":"US",
+    "sg:address":"139 Foster Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 9115",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rrI4hpy7DGq0vhTdPx8bo_43.360916_-71.529138@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295647,
+    "wof:geomhash":"6bd32094bdfcb3b879112199de0562ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873655199
+        }
+    ],
+    "wof:id":873655199,
+    "wof:lastmodified":1464295647,
+    "wof:name":"Meadowlark Farm",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.529138,
+    43.360916,
+    -71.529138,
+    43.360916
+],
+  "geometry": {"coordinates":[-71.529138,43.360916],"type":"Point"}
+}

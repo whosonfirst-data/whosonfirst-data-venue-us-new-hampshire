@@ -1,0 +1,71 @@
+{
+  "id": 873804059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244066,43.145413,-71.244066,43.145413",
+    "geom:latitude":43.145413,
+    "geom:longitude":-71.244066,
+    "iso:country":"US",
+    "sg:address":"31 Meeting House Hill Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 5807",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3P4RJDnjlQmcrJvaRnwL_43.145413_-71.244066@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297823,
+    "wof:geomhash":"7094404c48b20a068b4ecb89482663be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873804059
+        }
+    ],
+    "wof:id":873804059,
+    "wof:lastmodified":1464297823,
+    "wof:name":"Magic Builders",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.244066,
+    43.145413,
+    -71.244066,
+    43.145413
+],
+  "geometry": {"coordinates":[-71.244066,43.145413],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873586061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3796,42.917732,-71.3796,42.917732",
+    "geom:latitude":42.917732,
+    "geom:longitude":-71.3796,
+    "iso:country":"US",
+    "sg:address":"219 Rockingham Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 421 9525",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "warehouse",
+        "cold",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6katZR8sKJPxdHM4rkhTUL_42.917732_-71.379600@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294785,
+    "wof:geomhash":"2f38b7a2ede5661970dbc63cb02bd84c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873586061
+        }
+    ],
+    "wof:id":873586061,
+    "wof:lastmodified":1464294785,
+    "wof:name":"Londonderry Freezer Whse LLC",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "cold",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.3796,
+    42.917732,
+    -71.3796,
+    42.917732
+],
+  "geometry": {"coordinates":[-71.3796,42.917732],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873751751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.652399,43.444411,-71.652399,43.444411",
+    "geom:latitude":43.444411,
+    "geom:longitude":-71.652399,
+    "iso:country":"US",
+    "sg:address":"59 W Bow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5680",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJH1l6pRU1JnF4dR41mo5_43.444411_-71.652399@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297098,
+    "wof:geomhash":"57a94df185a5add7cdaac29f85c7349c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873751751
+        }
+    ],
+    "wof:id":873751751,
+    "wof:lastmodified":1464297098,
+    "wof:name":"Franklin Building Inspector",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.652399,
+    43.444411,
+    -71.652399,
+    43.444411
+],
+  "geometry": {"coordinates":[-71.652399,43.444411],"type":"Point"}
+}

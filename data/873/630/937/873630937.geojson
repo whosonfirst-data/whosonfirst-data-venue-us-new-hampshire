@@ -1,0 +1,69 @@
+{
+  "id": 873630937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.694219,43.752509,-71.694219,43.752509",
+    "geom:latitude":43.752509,
+    "geom:longitude":-71.694219,
+    "iso:country":"US",
+    "sg:address":"31 Prince Haven Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1265",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qj9UEv4NbDSKTmcumsPnH_43.752509_-71.694219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295374,
+    "wof:geomhash":"5823bcc8cc913341d884245cd42a7e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873630937
+        }
+    ],
+    "wof:id":873630937,
+    "wof:lastmodified":1464295374,
+    "wof:name":"Prince Haven Apartments",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.694219,
+    43.752509,
+    -71.694219,
+    43.752509
+],
+  "geometry": {"coordinates":[-71.694219,43.752509],"type":"Point"}
+}

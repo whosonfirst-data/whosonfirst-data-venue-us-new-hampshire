@@ -1,0 +1,73 @@
+{
+  "id": 873707403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.747799,43.052688,-70.747799,43.052688",
+    "geom:latitude":43.052688,
+    "geom:longitude":-70.747799,
+    "iso:country":"US",
+    "sg:address":"960 Sagamore Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 0717",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oBeaARZBj3rnh3LSCsOqX_43.052688_-70.747799@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296488,
+    "wof:geomhash":"84af17f4c0e81729852b5ed3b1701338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873707403
+        }
+    ],
+    "wof:id":873707403,
+    "wof:lastmodified":1464296488,
+    "wof:name":"Bear Paw Custom Design",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.747799,
+    43.052688,
+    -70.747799,
+    43.052688
+],
+  "geometry": {"coordinates":[-70.747799,43.052688],"type":"Point"}
+}

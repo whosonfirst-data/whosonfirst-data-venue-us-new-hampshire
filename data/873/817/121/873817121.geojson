@@ -1,0 +1,69 @@
+{
+  "id": 873817121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.688122,44.036695,-71.688122,44.036695",
+    "geom:latitude":44.036695,
+    "geom:longitude":-71.688122,
+    "iso:country":"US",
+    "sg:address":"11 Johnson Dr",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 2701",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RCHu97pDjaPD7VhpRHhfu_44.036695_-71.688122@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298063,
+    "wof:geomhash":"c105cc4cec333484c3dcda941a4e0439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873817121
+        }
+    ],
+    "wof:id":873817121,
+    "wof:lastmodified":1464298063,
+    "wof:name":"J C Cleaning",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.688122,
+    44.036695,
+    -71.688122,
+    44.036695
+],
+  "geometry": {"coordinates":[-71.68812200000001,44.036695],"type":"Point"}
+}

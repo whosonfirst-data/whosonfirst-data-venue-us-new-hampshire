@@ -1,0 +1,71 @@
+{
+  "id": 873885209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.361631,43.556132,-71.361631,43.556132",
+    "geom:latitude":43.556132,
+    "geom:longitude":-71.361631,
+    "iso:country":"US",
+    "sg:address":"74 River Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6313",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803025,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PAGzGiCBZvzaOUGVFiEkH_43.556132_-71.361631@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299542,
+    "wof:geomhash":"89035483d7b9cc0bdb4f25d937e273a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85803025,
+            "region_id":85688689,
+            "venue_id":873885209
+        }
+    ],
+    "wof:id":873885209,
+    "wof:lastmodified":1464299542,
+    "wof:name":"Zero Waste & Recycling Svc Inc",
+    "wof:parent_id":85803025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.361631,
+    43.556132,
+    -71.361631,
+    43.556132
+],
+  "geometry": {"coordinates":[-71.361631,43.556132],"type":"Point"}
+}

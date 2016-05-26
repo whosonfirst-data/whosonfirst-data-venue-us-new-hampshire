@@ -1,0 +1,73 @@
+{
+  "id": 873685933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470281,43.528145,-71.470281,43.528145",
+    "geom:latitude":43.528145,
+    "geom:longitude":-71.470281,
+    "iso:country":"US",
+    "sg:address":"612 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 1528",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parlor",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L9h2oiC69Bel9UkXLlVan_43.528145_-71.470281@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296163,
+    "wof:geomhash":"af985d26fc8a81a32e406e35aecb1c3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873685933
+        }
+    ],
+    "wof:id":873685933,
+    "wof:lastmodified":1464296163,
+    "wof:name":"LA Belles Shoe Repair",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "good"
+    ]
+},
+  "bbox": [
+    -71.470281,
+    43.528145,
+    -71.470281,
+    43.528145
+],
+  "geometry": {"coordinates":[-71.470281,43.528145],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 873920639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.323909,42.881667,-71.323909,42.881667",
+    "geom:latitude":42.881667,
+    "geom:longitude":-71.323909,
+    "iso:country":"US",
+    "sg:address":"4 Birch St Ste 15",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Kindergarten",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 1354",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "information",
+        "family",
+        "parenting-centers",
+        "planning",
+        "birth",
+        "counseling"
+    ],
+    "sg:website":"http://r.ppfa.org/hc?f=2742&a=91770",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_740kCytRCyp9twPRnkoCOy_42.881667_-71.323909@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300221,
+    "wof:geomhash":"26562325b2f8ad5013a54adf78fdd9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873920639
+        }
+    ],
+    "wof:id":873920639,
+    "wof:lastmodified":1464300221,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "information",
+        "family",
+        "parenting-centers",
+        "planning",
+        "birth",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -71.323909,
+    42.881667,
+    -71.323909,
+    42.881667
+],
+  "geometry": {"coordinates":[-71.323909,42.881667],"type":"Point"}
+}

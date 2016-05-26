@@ -1,0 +1,70 @@
+{
+  "id": 873918431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.796952,43.096666,-70.796952,43.096666",
+    "geom:latitude":43.096666,
+    "geom:longitude":-70.796952,
+    "iso:country":"US",
+    "sg:address":"2060 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/75714-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 4158",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SBt3fLVERDq0SGZjR5oSa_43.096666_-70.796952@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300185,
+    "wof:geomhash":"7207351305cd33beb8046a5304132a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873918431
+        }
+    ],
+    "wof:id":873918431,
+    "wof:lastmodified":1464300185,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.796952,
+    43.096666,
+    -70.796952,
+    43.096666
+],
+  "geometry": {"coordinates":[-70.796952,43.096666],"type":"Point"}
+}

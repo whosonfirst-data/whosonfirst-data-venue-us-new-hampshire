@@ -1,0 +1,70 @@
+{
+  "id": 873922199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490262,42.832634,-71.490262,42.832634",
+    "geom:latitude":42.832634,
+    "geom:longitude":-71.490262,
+    "iso:country":"US",
+    "sg:address":"20 Star Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 9989",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:website":"http://www.salterlabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gNCCoO4LEhQw63WVefIz1_42.832634_-71.490262@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300256,
+    "wof:geomhash":"30a5273956f38d9b8b60ecdbcec74469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873922199
+        }
+    ],
+    "wof:id":873922199,
+    "wof:lastmodified":1464300256,
+    "wof:name":"Salter Labs Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.490262,
+    42.832634,
+    -71.490262,
+    42.832634
+],
+  "geometry": {"coordinates":[-71.490262,42.832634],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873927437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2621,43.342098,-71.2621,43.342098",
+    "geom:latitude":43.342098,
+    "geom:longitude":-71.2621,
+    "iso:country":"US",
+    "sg:address":"91 Maple St",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 269 5161",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B2hAz04W90O10R7nMszw0_43.342098_-71.262100@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300354,
+    "wof:geomhash":"cd0d955e545637209ca5e575a1ac9e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873927437
+        }
+    ],
+    "wof:id":873927437,
+    "wof:lastmodified":1464300354,
+    "wof:name":"Center Barnstead Elementary School",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.2621,
+    43.342098,
+    -71.2621,
+    43.342098
+],
+  "geometry": {"coordinates":[-71.2621,43.342098],"type":"Point"}
+}

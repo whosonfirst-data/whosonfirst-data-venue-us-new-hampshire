@@ -1,0 +1,69 @@
+{
+  "id": 873842739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.966271,42.966216,-71.966271,42.966216",
+    "geom:latitude":42.966216,
+    "geom:longitude":-71.966271,
+    "iso:country":"US",
+    "sg:address":"68 Duncan Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 525 4744",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hMnIO2l7l3mXYp1uVEIob_42.966216_-71.966271@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298627,
+    "wof:geomhash":"acb46db4a705c33a4d54f039b9eeadb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873842739
+        }
+    ],
+    "wof:id":873842739,
+    "wof:lastmodified":1464298627,
+    "wof:name":"Second Nature Dental Studio",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.966271,
+    42.966216,
+    -71.966271,
+    42.966216
+],
+  "geometry": {"coordinates":[-71.96627100000001,42.966216],"type":"Point"}
+}

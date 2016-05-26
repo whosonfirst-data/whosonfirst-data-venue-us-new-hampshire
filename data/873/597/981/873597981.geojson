@@ -1,0 +1,71 @@
+{
+  "id": 873597981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.30946,42.86122,-71.30946,42.86122",
+    "geom:latitude":42.86122,
+    "geom:longitude":-71.30946,
+    "iso:country":"US",
+    "sg:address":"5 Bowers Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1888",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jwziOh2Tkx2qhGvg1IRqL_42.861220_-71.309460@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294959,
+    "wof:geomhash":"f267be36ae5d6b7ed263c5f0f183d772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873597981
+        }
+    ],
+    "wof:id":873597981,
+    "wof:lastmodified":1464294959,
+    "wof:name":"Radius Engineering Inc",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.30946,
+    42.86122,
+    -71.30946,
+    42.86122
+],
+  "geometry": {"coordinates":[-71.30946,42.86122],"type":"Point"}
+}

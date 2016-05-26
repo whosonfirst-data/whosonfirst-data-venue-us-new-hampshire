@@ -1,0 +1,71 @@
+{
+  "id": 873601345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241176,42.763059,-71.241176,42.763059",
+    "geom:latitude":42.763059,
+    "geom:longitude":-71.241176,
+    "iso:country":"US",
+    "sg:address":"9 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5835",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nWJHJxDbdqBphEWTLxVFf_42.763059_-71.241176@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295002,
+    "wof:geomhash":"748c85366c2b3ac6286349f7397fa68d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873601345
+        }
+    ],
+    "wof:id":873601345,
+    "wof:lastmodified":1464295002,
+    "wof:name":"D G Electric Co",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.241176,
+    42.763059,
+    -71.241176,
+    42.763059
+],
+  "geometry": {"coordinates":[-71.241176,42.763059],"type":"Point"}
+}

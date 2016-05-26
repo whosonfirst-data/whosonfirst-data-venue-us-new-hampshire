@@ -1,0 +1,73 @@
+{
+  "id": 873916197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.626242,42.863164,-71.626242,42.863164",
+    "geom:latitude":42.863164,
+    "geom:longitude":-71.626242,
+    "iso:country":"US",
+    "sg:address":"6 Main St",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/amherst/224961-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nPyRLS0pM4vvZfv1U7tiu_42.863164_-71.626242@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300145,
+    "wof:geomhash":"a9f4924adba0f9e16a8b39dd3bc6accc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873916197
+        }
+    ],
+    "wof:id":873916197,
+    "wof:lastmodified":1464300145,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.626242,
+    42.863164,
+    -71.626242,
+    42.863164
+],
+  "geometry": {"coordinates":[-71.626242,42.863164],"type":"Point"}
+}

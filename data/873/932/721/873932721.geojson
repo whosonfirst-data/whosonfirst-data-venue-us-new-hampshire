@@ -1,0 +1,65 @@
+{
+  "id": 873932721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.123938,44.052109,-71.123938,44.052109",
+    "geom:latitude":44.052109,
+    "geom:longitude":-71.123938,
+    "iso:country":"US",
+    "sg:address":"Seavey",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 7000",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:website":"www.bellinis.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IuFJ7IqdbMxAnI0wjYltV_44.052109_-71.123938@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300460,
+    "wof:geomhash":"49a720c34e6846099ae4489a8ba09aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932721
+        }
+    ],
+    "wof:id":873932721,
+    "wof:lastmodified":1464300460,
+    "wof:name":"Bellini's Restaurant",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.123938,
+    44.052109,
+    -71.123938,
+    44.052109
+],
+  "geometry": {"coordinates":[-71.123938,44.052109],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873901623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.041586,42.97902,-71.041586,42.97902",
+    "geom:latitude":42.97902,
+    "geom:longitude":-71.041586,
+    "iso:country":"US",
+    "sg:address":"10 Old Gordon Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 8700",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kvpt4zHKwrcOzVCZxV0a9_42.979020_-71.041586@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299850,
+    "wof:geomhash":"ade029c0c0216404b6f6a6bad88d99ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873901623
+        }
+    ],
+    "wof:id":873901623,
+    "wof:lastmodified":1464299850,
+    "wof:name":"Computer Moms",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -71.041586,
+    42.97902,
+    -71.041586,
+    42.97902
+],
+  "geometry": {"coordinates":[-71.041586,42.97902],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873850677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440355,43.529415,-71.440355,43.529415",
+    "geom:latitude":43.529415,
+    "geom:longitude":-71.440355,
+    "iso:country":"US",
+    "sg:address":"4 Country Club Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7257",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ElCazYnF5JnC4cC4z2I2D_43.529415_-71.440355@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298825,
+    "wof:geomhash":"d99f0bed612cc3d18ec1356fb627f3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873850677
+        }
+    ],
+    "wof:id":873850677,
+    "wof:lastmodified":1464298825,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.440355,
+    43.529415,
+    -71.440355,
+    43.529415
+],
+  "geometry": {"coordinates":[-71.440355,43.529415],"type":"Point"}
+}

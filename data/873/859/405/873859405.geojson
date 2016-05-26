@@ -1,0 +1,71 @@
+{
+  "id": 873859405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.18049,44.473133,-71.18049,44.473133",
+    "geom:latitude":44.473133,
+    "geom:longitude":-71.18049,
+    "iso:country":"US",
+    "sg:address":"117 Washington St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3535",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ESF0Br2DiA1t6itRufsE5_44.473133_-71.180490@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299005,
+    "wof:geomhash":"5ad2f3938895a9e3144f8140435a68d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873859405
+        }
+    ],
+    "wof:id":873859405,
+    "wof:lastmodified":1464299005,
+    "wof:name":"Classic Covering",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.18049,
+    44.473133,
+    -71.18049,
+    44.473133
+],
+  "geometry": {"coordinates":[-71.18049000000001,44.473133],"type":"Point"}
+}

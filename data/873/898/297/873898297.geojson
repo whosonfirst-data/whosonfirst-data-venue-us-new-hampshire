@@ -1,0 +1,69 @@
+{
+  "id": 873898297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.119635,44.051113,-71.119635,44.051113",
+    "geom:latitude":44.051113,
+    "geom:longitude":-71.119635,
+    "iso:country":"US",
+    "sg:address":"170 Grove St",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5577",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bbX6Q7qDrCi6nSGd0sItb_44.051113_-71.119635@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299787,
+    "wof:geomhash":"1fb1b9e2138c24ea38231f90a09f7446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873898297
+        }
+    ],
+    "wof:id":873898297,
+    "wof:lastmodified":1464299787,
+    "wof:name":"Harris Taxi",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.119635,
+    44.051113,
+    -71.119635,
+    44.051113
+],
+  "geometry": {"coordinates":[-71.119635,44.051113],"type":"Point"}
+}

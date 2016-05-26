@@ -1,0 +1,89 @@
+{
+  "id": 873836077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53692,43.239612,-71.53692,43.239612",
+    "geom:latitude":43.239612,
+    "geom:longitude":-71.53692,
+    "iso:country":"US",
+    "sg:address":"5 Mountain Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 1864",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "edition",
+        "limited",
+        "marketing",
+        "program",
+        "collectible"
+    ],
+    "sg:website":"www.porterfields.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NSUVRwrGzeEwQ8OaJHtjy_43.239612_-71.536920@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298468,
+    "wof:geomhash":"6caf820c41a110cc292ad228acc384ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873836077
+        }
+    ],
+    "wof:id":873836077,
+    "wof:lastmodified":1464298468,
+    "wof:name":"Porterfield's LLC",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "edition",
+        "limited",
+        "marketing",
+        "program",
+        "collectible"
+    ]
+},
+  "bbox": [
+    -71.53692,
+    43.239612,
+    -71.53692,
+    43.239612
+],
+  "geometry": {"coordinates":[-71.53691999999999,43.239612],"type":"Point"}
+}

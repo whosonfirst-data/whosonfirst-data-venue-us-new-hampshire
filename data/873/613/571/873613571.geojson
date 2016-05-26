@@ -1,0 +1,71 @@
+{
+  "id": 873613571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.829325,43.231838,-70.829325,43.231838",
+    "geom:latitude":43.231838,
+    "geom:longitude":-70.829325,
+    "iso:country":"US",
+    "sg:address":"434 Stockdale Cir",
+    "sg:city":"Rollinsford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 1456",
+    "sg:postcode":"03869",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wcnFvVugp8G4OefYaygBU_43.231838_-70.829325@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295181,
+    "wof:geomhash":"ecec2ca9942030f02b182376bf32724b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873613571
+        }
+    ],
+    "wof:id":873613571,
+    "wof:lastmodified":1464295181,
+    "wof:name":"Bunker Electric",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.829325,
+    43.231838,
+    -70.829325,
+    43.231838
+],
+  "geometry": {"coordinates":[-70.829325,43.231838],"type":"Point"}
+}

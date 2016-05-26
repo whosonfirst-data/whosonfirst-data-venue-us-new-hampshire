@@ -1,0 +1,73 @@
+{
+  "id": 873565091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.390207,43.29235,-72.390207,43.29235",
+    "geom:latitude":43.29235,
+    "geom:longitude":-72.390207,
+    "iso:country":"US",
+    "sg:address":"73 Scenic Hill Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 2260",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UfRaG2Sa2PPt1dgtPmQjL_43.292350_-72.390207@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294556,
+    "wof:geomhash":"3034833c73d116302099930bb2b9acae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873565091
+        }
+    ],
+    "wof:id":873565091,
+    "wof:lastmodified":1464294556,
+    "wof:name":"Morning Star Farm",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.390207,
+    43.29235,
+    -72.390207,
+    43.29235
+],
+  "geometry": {"coordinates":[-72.390207,43.29235],"type":"Point"}
+}

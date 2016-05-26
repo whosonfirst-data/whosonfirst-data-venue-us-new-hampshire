@@ -1,0 +1,69 @@
+{
+  "id": 873815389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.150191,43.225968,-71.150191,43.225968",
+    "geom:latitude":43.225968,
+    "geom:longitude":-71.150191,
+    "iso:country":"US",
+    "sg:address":"132 Whig Hill Rd",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 817 3666",
+    "sg:postcode":"03884",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hgXfcCPlT6puRVeB48igK_43.225968_-71.150191@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298021,
+    "wof:geomhash":"694b26df0109ec13d6fd4e58a5882014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873815389
+        }
+    ],
+    "wof:id":873815389,
+    "wof:lastmodified":1464298021,
+    "wof:name":"Linco Co",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.150191,
+    43.225968,
+    -71.150191,
+    43.225968
+],
+  "geometry": {"coordinates":[-71.15019100000001,43.225968],"type":"Point"}
+}

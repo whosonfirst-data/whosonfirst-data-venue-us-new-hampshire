@@ -1,0 +1,73 @@
+{
+  "id": 873630415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.115612,44.004785,-71.115612,44.004785",
+    "geom:latitude":44.004785,
+    "geom:longitude":-71.115612,
+    "iso:country":"US",
+    "sg:address":"37 Eastern Slope Ter",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 7177",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75f7xvdvXh2FBfmWQhJmhl_44.004785_-71.115612@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"d00c2ff735f267fc91b50858ab7a5531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873630415
+        }
+    ],
+    "wof:id":873630415,
+    "wof:lastmodified":1464295369,
+    "wof:name":"East Conway Collision & Repair",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.115612,
+    44.004785,
+    -71.115612,
+    44.004785
+],
+  "geometry": {"coordinates":[-71.115612,44.004785],"type":"Point"}
+}

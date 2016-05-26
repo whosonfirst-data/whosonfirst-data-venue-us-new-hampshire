@@ -1,0 +1,75 @@
+{
+  "id": 873710635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.309089,42.94358,-72.309089,42.94358",
+    "geom:latitude":42.94358,
+    "geom:longitude":-72.309089,
+    "iso:country":"US",
+    "sg:address":"12 Cedar St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3508",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892245,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3aO3SBb61akUAkNhI5lY_42.943580_-72.309089@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296528,
+    "wof:geomhash":"f728f368840422c9cd9e2318d659c687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892245,
+            "region_id":85688689,
+            "venue_id":873710635
+        }
+    ],
+    "wof:id":873710635,
+    "wof:lastmodified":1464296528,
+    "wof:name":"Creative Labor Systems",
+    "wof:parent_id":85892245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.309089,
+    42.94358,
+    -72.309089,
+    42.94358
+],
+  "geometry": {"coordinates":[-72.309089,42.94358],"type":"Point"}
+}

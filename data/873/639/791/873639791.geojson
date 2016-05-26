@@ -1,0 +1,76 @@
+{
+  "id": 873639791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549442,42.812886,-71.549442,42.812886",
+    "geom:latitude":42.812886,
+    "geom:longitude":-71.549442,
+    "iso:country":"US",
+    "sg:address":"44 Erik St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 4105",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JmPUKDvD44tlfMwfRLTq5_42.812886_-71.549442@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295471,
+    "wof:geomhash":"d5a7b6b8b130fc3c762df6542e358701",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873639791
+        }
+    ],
+    "wof:id":873639791,
+    "wof:lastmodified":1464295471,
+    "wof:name":"Marian Machinchick Photography",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -71.549442,
+    42.812886,
+    -71.549442,
+    42.812886
+],
+  "geometry": {"coordinates":[-71.549442,42.812886],"type":"Point"}
+}

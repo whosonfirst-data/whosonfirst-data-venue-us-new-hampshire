@@ -1,0 +1,77 @@
+{
+  "id": 873775649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.810017,43.039708,-70.810017,43.039708",
+    "geom:latitude":43.039708,
+    "geom:longitude":-70.810017,
+    "iso:country":"US",
+    "sg:address":"240 Buckminster Way",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 6239",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "software"
+    ],
+    "sg:website":"www.rivercitysoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JVns5EPCn8sc05kR9kUgk_43.039708_-70.810017@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297433,
+    "wof:geomhash":"8febe285d69dbc5b64999b6f2036bb66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873775649
+        }
+    ],
+    "wof:id":873775649,
+    "wof:lastmodified":1464297433,
+    "wof:name":"River City Software LLC",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "software"
+    ]
+},
+  "bbox": [
+    -70.810017,
+    43.039708,
+    -70.810017,
+    43.039708
+],
+  "geometry": {"coordinates":[-70.810017,43.039708],"type":"Point"}
+}

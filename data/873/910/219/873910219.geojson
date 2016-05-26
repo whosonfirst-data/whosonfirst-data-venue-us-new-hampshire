@@ -1,0 +1,71 @@
+{
+  "id": 873910219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035286,44.149952,-72.035286,44.149952",
+    "geom:latitude":44.149952,
+    "geom:longitude":-72.035286,
+    "iso:country":"US",
+    "sg:address":"125 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3333",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iEZnGNmZhrfj9rLORn1Gg_44.149952_-72.035286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300018,
+    "wof:geomhash":"8237346c9c2b8004cedb22939191d021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873910219
+        }
+    ],
+    "wof:id":873910219,
+    "wof:lastmodified":1464300018,
+    "wof:name":"Studio 125",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.035286,
+    44.149952,
+    -72.035286,
+    44.149952
+],
+  "geometry": {"coordinates":[-72.035286,44.149952],"type":"Point"}
+}

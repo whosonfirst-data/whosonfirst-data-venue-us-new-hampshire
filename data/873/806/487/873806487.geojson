@@ -1,0 +1,71 @@
+{
+  "id": 873806487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.744024,43.048005,-70.744024,43.048005",
+    "geom:latitude":43.048005,
+    "geom:longitude":-70.744024,
+    "iso:country":"US",
+    "sg:address":"20 Frontier Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8333",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71OHaDx9OIXUiVHzYHbFMU_43.048005_-70.744024@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297859,
+    "wof:geomhash":"18f9de041322d701e95378b37997f309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873806487
+        }
+    ],
+    "wof:id":873806487,
+    "wof:lastmodified":1464297859,
+    "wof:name":"Atlantic Polymers & Colors",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic"
+    ]
+},
+  "bbox": [
+    -70.744024,
+    43.048005,
+    -70.744024,
+    43.048005
+],
+  "geometry": {"coordinates":[-70.744024,43.048005],"type":"Point"}
+}

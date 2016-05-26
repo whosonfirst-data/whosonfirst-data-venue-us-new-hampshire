@@ -1,0 +1,71 @@
+{
+  "id": 873867845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252108,42.820342,-71.252108,42.820342",
+    "geom:latitude":42.820342,
+    "geom:longitude":-71.252108,
+    "iso:country":"US",
+    "sg:address":"60 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8541",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54eyYBd5i1kzlBnKCPonwj_42.820342_-71.252108@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299188,
+    "wof:geomhash":"b0ab8c2d658ea43ebfbb85c89e1cdd8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873867845
+        }
+    ],
+    "wof:id":873867845,
+    "wof:lastmodified":1464299188,
+    "wof:name":"Scaccia Physical Therapy",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.252108,
+    42.820342,
+    -71.252108,
+    42.820342
+],
+  "geometry": {"coordinates":[-71.25210800000001,42.820342],"type":"Point"}
+}

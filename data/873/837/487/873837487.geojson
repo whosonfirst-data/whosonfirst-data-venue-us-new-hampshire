@@ -1,0 +1,73 @@
+{
+  "id": 873837487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461362,43.522161,-71.461362,43.522161",
+    "geom:latitude":43.522161,
+    "geom:longitude":-71.461362,
+    "iso:country":"US",
+    "sg:address":"207 Baldwin St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 8511",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "specification",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tM0IKoEspLCBT2f7ibOFa_43.522161_-71.461362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298496,
+    "wof:geomhash":"d490cb53446ea60d3c309c4d8a3f4093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873837487
+        }
+    ],
+    "wof:id":873837487,
+    "wof:lastmodified":1464298496,
+    "wof:name":"Arc-Spec Consulting",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specification",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -71.461362,
+    43.522161,
+    -71.461362,
+    43.522161
+],
+  "geometry": {"coordinates":[-71.46136199999999,43.522161],"type":"Point"}
+}

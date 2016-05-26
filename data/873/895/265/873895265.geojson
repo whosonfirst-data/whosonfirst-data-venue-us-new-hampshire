@@ -1,0 +1,71 @@
+{
+  "id": 873895265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505247,43.64878,-71.505247,43.64878",
+    "geom:latitude":43.64878,
+    "geom:longitude":-71.505247,
+    "iso:country":"US",
+    "sg:address":"50 Waukewan St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 3046",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSvVoixyZ60iiEWIHcRv3_43.648780_-71.505247@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299726,
+    "wof:geomhash":"73f74da04a5270daff654965b33fb6c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873895265
+        }
+    ],
+    "wof:id":873895265,
+    "wof:lastmodified":1464299726,
+    "wof:name":"Meredith Water Treatment",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -71.505247,
+    43.64878,
+    -71.505247,
+    43.64878
+],
+  "geometry": {"coordinates":[-71.505247,43.64878],"type":"Point"}
+}

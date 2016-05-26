@@ -1,0 +1,71 @@
+{
+  "id": 873864015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885346,43.220131,-70.885346,43.220131",
+    "geom:latitude":43.220131,
+    "geom:longitude":-70.885346,
+    "iso:country":"US",
+    "sg:address":"901 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 6963",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19jeyHfWBnKcKimXzzDHHQ_43.220131_-70.885346@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299114,
+    "wof:geomhash":"ca8e4441f2da089a491e8d0937c84531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873864015
+        }
+    ],
+    "wof:id":873864015,
+    "wof:lastmodified":1464299114,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -70.885346,
+    43.220131,
+    -70.885346,
+    43.220131
+],
+  "geometry": {"coordinates":[-70.885346,43.220131],"type":"Point"}
+}

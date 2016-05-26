@@ -1,0 +1,71 @@
+{
+  "id": 873763991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522637,42.940148,-71.522637,42.940148",
+    "geom:latitude":42.940148,
+    "geom:longitude":-71.522637,
+    "iso:country":"US",
+    "sg:address":"209 State Rte 101",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 3919",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KFUiEQnGP05spGVxojGLG_42.940148_-71.522637@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297274,
+    "wof:geomhash":"8c1ffda52365d46ff60544d23734434c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873763991
+        }
+    ],
+    "wof:id":873763991,
+    "wof:lastmodified":1464297274,
+    "wof:name":"Bedford Pharmacy Inc",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.522637,
+    42.940148,
+    -71.522637,
+    42.940148
+],
+  "geometry": {"coordinates":[-71.522637,42.940148],"type":"Point"}
+}

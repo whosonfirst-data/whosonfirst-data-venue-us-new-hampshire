@@ -1,0 +1,69 @@
+{
+  "id": 873813911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.734354,43.754561,-71.734354,43.754561",
+    "geom:latitude":43.754561,
+    "geom:longitude":-71.734354,
+    "iso:country":"US",
+    "sg:address":"280 Reservoir Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3688",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PxS33dgEHDqj4vgWNr55M_43.754561_-71.734354@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297995,
+    "wof:geomhash":"208aac5b89a9166987acb2455d864fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873813911
+        }
+    ],
+    "wof:id":873813911,
+    "wof:lastmodified":1464297995,
+    "wof:name":"Beaulieu Plumbing & Htg LLC",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.734354,
+    43.754561,
+    -71.734354,
+    43.754561
+],
+  "geometry": {"coordinates":[-71.734354,43.754561],"type":"Point"}
+}

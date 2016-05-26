@@ -1,0 +1,73 @@
+{
+  "id": 873782845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.166082,44.386393,-71.166082,44.386393",
+    "geom:latitude":44.386393,
+    "geom:longitude":-71.166082,
+    "iso:country":"US",
+    "sg:address":"24 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5025",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ufmZaiyUAUGxC3o4H2BUF_44.386393_-71.166082@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297528,
+    "wof:geomhash":"04ea5311e1a3544b383b02e95b5daa9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873782845
+        }
+    ],
+    "wof:id":873782845,
+    "wof:lastmodified":1464297528,
+    "wof:name":"Gorham Public Works Dept",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.166082,
+    44.386393,
+    -71.166082,
+    44.386393
+],
+  "geometry": {"coordinates":[-71.166082,44.386393],"type":"Point"}
+}

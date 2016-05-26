@@ -1,0 +1,69 @@
+{
+  "id": 873896401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493999,42.853268,-71.493999,42.853268",
+    "geom:latitude":42.853268,
+    "geom:longitude":-71.493999,
+    "iso:country":"US",
+    "sg:address":"31 Columbia Cir",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 8245",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zPFNmedwkWDgqDfrkdBbe_42.853268_-71.493999@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299753,
+    "wof:geomhash":"e6f653140ecbfc8c83939f51c20dc7c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873896401
+        }
+    ],
+    "wof:id":873896401,
+    "wof:lastmodified":1464299753,
+    "wof:name":"Interstate Battery System",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -71.493999,
+    42.853268,
+    -71.493999,
+    42.853268
+],
+  "geometry": {"coordinates":[-71.493999,42.853268],"type":"Point"}
+}

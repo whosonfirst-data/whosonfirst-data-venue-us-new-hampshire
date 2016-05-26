@@ -1,0 +1,77 @@
+{
+  "id": 873845965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289266,43.702354,-72.289266,43.702354",
+    "geom:latitude":43.702354,
+    "geom:longitude":-72.289266,
+    "iso:country":"US",
+    "sg:address":"34 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 3143",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MxeJAUDglHpXvRYyeioYR_43.702354_-72.289266@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298702,
+    "wof:geomhash":"b1a2fe749e77234852bb3b0ec5854b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873845965
+        }
+    ],
+    "wof:id":873845965,
+    "wof:lastmodified":1464298702,
+    "wof:name":"Hanover Stringed Instruments",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "rent"
+    ]
+},
+  "bbox": [
+    -72.289266,
+    43.702354,
+    -72.289266,
+    43.702354
+],
+  "geometry": {"coordinates":[-72.289266,43.702354],"type":"Point"}
+}

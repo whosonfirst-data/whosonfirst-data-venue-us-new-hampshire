@@ -1,0 +1,82 @@
+{
+  "id": 873868071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449499,43.560674,-71.449499,43.560674",
+    "geom:latitude":43.560674,
+    "geom:longitude":-71.449499,
+    "iso:country":"US",
+    "sg:address":"45 Blaisdell Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2143",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "distance",
+        "long",
+        "ice",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JAEaSFQgiM0IZ7oddhEkt_43.560674_-71.449499@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299192,
+    "wof:geomhash":"88be79cc20d3fbf196e9c87230c7106f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873868071
+        }
+    ],
+    "wof:id":873868071,
+    "wof:lastmodified":1464299192,
+    "wof:name":"Laconia Ice Company",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "ice",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.449499,
+    43.560674,
+    -71.449499,
+    43.560674
+],
+  "geometry": {"coordinates":[-71.449499,43.560674],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873651769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.247126,42.776201,-71.247126,42.776201",
+    "geom:latitude":42.776201,
+    "geom:longitude":-71.247126,
+    "iso:country":"US",
+    "sg:address":"33 Pelham Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 5678",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "hockey"
+    ],
+    "sg:website":"www.stopthepuckinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YufJ7TnUGK4ENxirlv4YP_42.776201_-71.247126@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295610,
+    "wof:geomhash":"5399e5c9c24c1997e8f9a288e39ecebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873651769
+        }
+    ],
+    "wof:id":873651769,
+    "wof:lastmodified":1464295610,
+    "wof:name":"Stop The Puck Inc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hockey"
+    ]
+},
+  "bbox": [
+    -71.247126,
+    42.776201,
+    -71.247126,
+    42.776201
+],
+  "geometry": {"coordinates":[-71.24712599999999,42.776201],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873581763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.156666,43.810711,-72.156666,43.810711",
+    "geom:latitude":43.810711,
+    "geom:longitude":-72.156666,
+    "iso:country":"US",
+    "sg:address":"13 Main St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 4706",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kMAy5wfWaiMOMv8RtoO7t_43.810711_-72.156666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294741,
+    "wof:geomhash":"f5f919201c1cade5b3b07f3b7af3f12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873581763
+        }
+    ],
+    "wof:id":873581763,
+    "wof:lastmodified":1464294741,
+    "wof:name":"Grant Brook Cabinetry",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -72.156666,
+    43.810711,
+    -72.156666,
+    43.810711
+],
+  "geometry": {"coordinates":[-72.156666,43.810711],"type":"Point"}
+}

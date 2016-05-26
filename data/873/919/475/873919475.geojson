@@ -1,0 +1,74 @@
+{
+  "id": 873919475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885427,43.220188,-70.885427,43.220188",
+    "geom:latitude":43.220188,
+    "geom:longitude":-70.885427,
+    "iso:country":"US",
+    "sg:address":"915 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/dover/73548-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 3949",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x1K7K3vqQ62ZwhglJ6xHr_43.219865_-70.885135@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300203,
+    "wof:geomhash":"b909eb485a232cc8e0d5ed63978f245d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873919475
+        }
+    ],
+    "wof:id":873919475,
+    "wof:lastmodified":1464300203,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.885427,
+    43.220188,
+    -70.885427,
+    43.220188
+],
+  "geometry": {"coordinates":[-70.88542700000001,43.220188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873694543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.077048,43.10541,-71.077048,43.10541",
+    "geom:latitude":43.10541,
+    "geom:longitude":-71.077048,
+    "iso:country":"US",
+    "sg:address":"18 S Summer St",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 9907",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yFFpSdOFMhasqUxS3meeN_43.105410_-71.077048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296344,
+    "wof:geomhash":"20e0d15d9a5ffa19e38cb44f68b2b304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873694543
+        }
+    ],
+    "wof:id":873694543,
+    "wof:lastmodified":1464296344,
+    "wof:name":"Progressive Electrical Svc",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.077048,
+    43.10541,
+    -71.077048,
+    43.10541
+],
+  "geometry": {"coordinates":[-71.077048,43.10541],"type":"Point"}
+}

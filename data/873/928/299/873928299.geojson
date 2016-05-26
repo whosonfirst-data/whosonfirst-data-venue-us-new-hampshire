@@ -1,0 +1,100 @@
+{
+  "id": 873928299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535844,43.204686,-71.535844,43.204686",
+    "geom:latitude":43.204686,
+    "geom:longitude":-71.535844,
+    "iso:country":"US",
+    "sg:address":"15 N Main St Ste 300",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 227 2000",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "retirement",
+        "annuity",
+        "dental",
+        "benefit",
+        "plan",
+        "employee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c5yruSugSM5HIG33kXKjx_43.204686_-71.535844@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300375,
+    "wof:geomhash":"da95ecd82238ff112f9028aac7193c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873928299
+        }
+    ],
+    "wof:id":873928299,
+    "wof:lastmodified":1464300375,
+    "wof:name":"Birchtree Investment Company",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retirement",
+        "annuity",
+        "dental",
+        "benefit",
+        "plan",
+        "employee"
+    ]
+},
+  "bbox": [
+    -71.535844,
+    43.204686,
+    -71.535844,
+    43.204686
+],
+  "geometry": {"coordinates":[-71.535844,43.204686],"type":"Point"}
+}

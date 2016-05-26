@@ -1,0 +1,74 @@
+{
+  "id": 873787325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.036249,44.000709,-71.036249,44.000709",
+    "geom:latitude":44.000709,
+    "geom:longitude":-71.036249,
+    "iso:country":"US",
+    "sg:address":"2649 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 8229",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10yqEDQhGECL3ozheH93Sw_44.000709_-71.036249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297599,
+    "wof:geomhash":"0bea98c536d7f34e861a2a0861e2a5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":873787325
+        }
+    ],
+    "wof:id":873787325,
+    "wof:lastmodified":1464297599,
+    "wof:name":"Cool Jewels",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.036249,
+    44.000709,
+    -71.036249,
+    44.000709
+],
+  "geometry": {"coordinates":[-71.036249,44.000709],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873586415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482432,42.892457,-71.482432,42.892457",
+    "geom:latitude":42.892457,
+    "geom:longitude":-71.482432,
+    "iso:country":"US",
+    "sg:address":"15 Matthew Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 2170",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844207,
+        102191575,
+        404477193,
+        85633793,
+        85975251,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S69C51b8hhEDZso1xFHUD_42.892457_-71.482432@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294789,
+    "wof:geomhash":"8eb6a495d828323b015388ec58ec0ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477193,
+            "locality_id":85975251,
+            "neighbourhood_id":85844207,
+            "region_id":85688689,
+            "venue_id":873586415
+        }
+    ],
+    "wof:id":873586415,
+    "wof:lastmodified":1464294789,
+    "wof:name":"Reeds Ferry Taxi Of Merrimack",
+    "wof:parent_id":85844207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.482432,
+    42.892457,
+    -71.482432,
+    42.892457
+],
+  "geometry": {"coordinates":[-71.482432,42.892457],"type":"Point"}
+}

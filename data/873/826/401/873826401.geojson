@@ -1,0 +1,82 @@
+{
+  "id": 873826401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.232429,42.786258,-71.232429,42.786258",
+    "geom:latitude":42.786258,
+    "geom:longitude":-71.232429,
+    "iso:country":"US",
+    "sg:address":"134 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8074",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline",
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uy3ImC3TZuy228kiv1aPL_42.786258_-71.232429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298261,
+    "wof:geomhash":"937eb73b125e3f1bec0aa9a0d3f19154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873826401
+        }
+    ],
+    "wof:id":873826401,
+    "wof:lastmodified":1464298261,
+    "wof:name":"One Stop Retail Shoppe Salem",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline",
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.232429,
+    42.786258,
+    -71.232429,
+    42.786258
+],
+  "geometry": {"coordinates":[-71.232429,42.786258],"type":"Point"}
+}

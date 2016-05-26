@@ -1,0 +1,71 @@
+{
+  "id": 873768311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035389,44.150171,-72.035389,44.150171",
+    "geom:latitude":44.150171,
+    "geom:longitude":-72.035389,
+    "iso:country":"US",
+    "sg:address":"121 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 8108",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0osWczQTkZ91WhVG53f3Bk_44.150171_-72.035389@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297341,
+    "wof:geomhash":"f7d142a77bc658aa841c26811f6a1173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873768311
+        }
+    ],
+    "wof:id":873768311,
+    "wof:lastmodified":1464297341,
+    "wof:name":"Community Resources",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -72.035389,
+    44.150171,
+    -72.035389,
+    44.150171
+],
+  "geometry": {"coordinates":[-72.035389,44.150171],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873900817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.147528,43.470847,-72.147528,43.470847",
+    "geom:latitude":43.470847,
+    "geom:longitude":-72.147528,
+    "iso:country":"US",
+    "sg:address":"61 Bouldervale Rd",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 2576",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l2W3JEtoScTJuv2BP3jRI_43.470847_-72.147528@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299831,
+    "wof:geomhash":"bf264fc4fc0e6bec58fc94e06499006a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873900817
+        }
+    ],
+    "wof:id":873900817,
+    "wof:lastmodified":1464299831,
+    "wof:name":"Peterson's Concrete Pumping",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -72.147528,
+    43.470847,
+    -72.147528,
+    43.470847
+],
+  "geometry": {"coordinates":[-72.14752799999999,43.470847],"type":"Point"}
+}

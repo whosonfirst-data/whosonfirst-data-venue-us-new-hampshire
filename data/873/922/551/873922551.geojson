@@ -1,0 +1,76 @@
+{
+  "id": 873922551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.719398,42.841621,-71.719398,42.841621",
+    "geom:latitude":42.841621,
+    "geom:longitude":-71.719398,
+    "iso:country":"US",
+    "sg:address":"11 Wilton Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 5700",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "brew",
+        "grill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8R1TOWBIbbdSTuCf0HKH_42.841621_-71.719398@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300263,
+    "wof:geomhash":"6451e2abdf2b4ac0273c984e5a23f58a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873922551
+        }
+    ],
+    "wof:id":873922551,
+    "wof:lastmodified":1464300263,
+    "wof:name":"Malarkeys",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill"
+    ]
+},
+  "bbox": [
+    -71.719398,
+    42.841621,
+    -71.719398,
+    42.841621
+],
+  "geometry": {"coordinates":[-71.719398,42.841621],"type":"Point"}
+}

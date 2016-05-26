@@ -1,0 +1,73 @@
+{
+  "id": 873825395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.126794,43.689726,-71.126794,43.689726",
+    "geom:latitude":43.689726,
+    "geom:longitude":-71.126794,
+    "iso:country":"US",
+    "sg:address":"5 Water Village Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 2272",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_133KcZts7EwmGgkSQkCvHW_43.689726_-71.126794@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298244,
+    "wof:geomhash":"c97274e155c9fac514d0b22737909725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873825395
+        }
+    ],
+    "wof:id":873825395,
+    "wof:lastmodified":1464298244,
+    "wof:name":"Kindness Animal Hospital",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal",
+        "operates"
+    ]
+},
+  "bbox": [
+    -71.126794,
+    43.689726,
+    -71.126794,
+    43.689726
+],
+  "geometry": {"coordinates":[-71.126794,43.689726],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873919879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.67485,42.759701,-71.67485,42.759701",
+    "geom:latitude":42.759701,
+    "geom:longitude":-71.67485,
+    "iso:country":"US",
+    "sg:address":"244 Route 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 7617",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34vcAJQHjhmOyc3NEtVSFB_42.759701_-71.674850@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300209,
+    "wof:geomhash":"d00c1a79c87ad6e5ea078fae585a4b7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919879
+        }
+    ],
+    "wof:id":873919879,
+    "wof:lastmodified":1464300209,
+    "wof:name":"Get It Done Property Maintenance",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -71.67485,
+    42.759701,
+    -71.67485,
+    42.759701
+],
+  "geometry": {"coordinates":[-71.67485000000001,42.759701],"type":"Point"}
+}

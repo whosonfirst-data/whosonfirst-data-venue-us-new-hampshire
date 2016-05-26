@@ -1,0 +1,73 @@
+{
+  "id": 873776129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.288029,42.904708,-72.288029,42.904708",
+    "geom:latitude":42.904708,
+    "geom:longitude":-72.288029,
+    "iso:country":"US",
+    "sg:address":"119 Matthews Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 8809",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gyoCYYqrem7Ztsrhz0siu_42.904708_-72.288029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297439,
+    "wof:geomhash":"663261bc1f0355eedb62e635f3d6f92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873776129
+        }
+    ],
+    "wof:id":873776129,
+    "wof:lastmodified":1464297439,
+    "wof:name":"Mukota Kennels LLC",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.288029,
+    42.904708,
+    -72.288029,
+    42.904708
+],
+  "geometry": {"coordinates":[-72.28802899999999,42.904708],"type":"Point"}
+}

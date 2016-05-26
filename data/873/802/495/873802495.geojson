@@ -1,0 +1,75 @@
+{
+  "id": 873802495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462585,43.004475,-71.462585,43.004475",
+    "geom:latitude":43.004475,
+    "geom:longitude":-71.462585,
+    "iso:country":"US",
+    "sg:address":"721 Chestnut St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 0858",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Vt8Rcfjy6w44liS1X0V0_43.004475_-71.462585@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297804,
+    "wof:geomhash":"5e8bcb2b8e17f439897dd3083c27ad8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873802495
+        }
+    ],
+    "wof:id":873802495,
+    "wof:lastmodified":1464297804,
+    "wof:name":"Danby & Margesson",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.462585,
+    43.004475,
+    -71.462585,
+    43.004475
+],
+  "geometry": {"coordinates":[-71.462585,43.004475],"type":"Point"}
+}

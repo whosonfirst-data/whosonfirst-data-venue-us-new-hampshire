@@ -1,0 +1,73 @@
+{
+  "id": 873681665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578494,42.835184,-71.578494,42.835184",
+    "geom:latitude":42.835184,
+    "geom:longitude":-71.578494,
+    "iso:country":"US",
+    "sg:address":"29 Danbury Cir",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2382",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17zlvRZFOgvBRg1IYoCPG4_42.835184_-71.578494@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296043,
+    "wof:geomhash":"187803393ce335549619a8a6e5ba1f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873681665
+        }
+    ],
+    "wof:id":873681665,
+    "wof:lastmodified":1464296043,
+    "wof:name":"Keeler Delivery Service",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.578494,
+    42.835184,
+    -71.578494,
+    42.835184
+],
+  "geometry": {"coordinates":[-71.57849400000001,42.835184],"type":"Point"}
+}

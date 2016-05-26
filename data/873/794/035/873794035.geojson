@@ -1,0 +1,73 @@
+{
+  "id": 873794035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.063488,43.042019,-71.063488,43.042019",
+    "geom:latitude":43.042019,
+    "geom:longitude":-71.063488,
+    "iso:country":"US",
+    "sg:address":"253 Calef Hwy",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5800",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24GxYdY1vEOQPP7rLphnYb_43.042019_-71.063488@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297703,
+    "wof:geomhash":"244966b3a07db63516b5eb92cc861a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873794035
+        }
+    ],
+    "wof:id":873794035,
+    "wof:lastmodified":1464297703,
+    "wof:name":"Epping Motors Inc",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.063488,
+    43.042019,
+    -71.063488,
+    43.042019
+],
+  "geometry": {"coordinates":[-71.06348800000001,43.042019],"type":"Point"}
+}

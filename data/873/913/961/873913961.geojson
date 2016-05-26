@@ -1,0 +1,75 @@
+{
+  "id": 873913961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.6064,43.270802,-71.6064,43.270802",
+    "geom:latitude":43.270802,
+    "geom:longitude":-71.6064,
+    "iso:country":"US",
+    "sg:address":"130 Washington St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 6751",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shelter",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tiPXCbcPclhNXvzaRN9Wf_43.271207_-71.606346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300088,
+    "wof:geomhash":"5cbbd4aeae432e8805b24e63bb611b8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873913961
+        }
+    ],
+    "wof:id":873913961,
+    "wof:lastmodified":1464300088,
+    "wof:name":"Concord Spca",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shelter",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.6064,
+    43.270802,
+    -71.6064,
+    43.270802
+],
+  "geometry": {"coordinates":[-71.60639999999999,43.270802],"type":"Point"}
+}

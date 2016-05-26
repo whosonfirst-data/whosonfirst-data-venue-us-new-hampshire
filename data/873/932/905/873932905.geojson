@@ -1,0 +1,74 @@
+{
+  "id": 873932905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.108769,44.017005,-71.108769,44.017005",
+    "geom:latitude":44.017005,
+    "geom:longitude":-71.108769,
+    "iso:country":"US",
+    "sg:address":"90 North-South Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6089",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NMZI5dACSuNcx0bTAscNk_44.017005_-71.108769@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300463,
+    "wof:geomhash":"ee0afa00a01d320295c5903c259493de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873932905
+        }
+    ],
+    "wof:id":873932905,
+    "wof:lastmodified":1464300463,
+    "wof:name":"The Bike Shop",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -71.108769,
+    44.017005,
+    -71.108769,
+    44.017005
+],
+  "geometry": {"coordinates":[-71.108769,44.017005],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873605923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.657312,42.725578,-71.657312,42.725578",
+    "geom:latitude":42.725578,
+    "geom:longitude":-71.657312,
+    "iso:country":"US",
+    "sg:address":"5 S Main St",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4988",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z0SEgGKN50lw5wCKzbftx_42.725578_-71.657312@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295058,
+    "wof:geomhash":"4ce5a4c3a6dac6839e2a2c8b0ffd14b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873605923
+        }
+    ],
+    "wof:id":873605923,
+    "wof:lastmodified":1464295058,
+    "wof:name":"Brookline Motors Inc",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.657312,
+    42.725578,
+    -71.657312,
+    42.725578
+],
+  "geometry": {"coordinates":[-71.657312,42.725578],"type":"Point"}
+}

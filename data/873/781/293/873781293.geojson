@@ -1,0 +1,71 @@
+{
+  "id": 873781293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307688,42.800232,-71.307688,42.800232",
+    "geom:latitude":42.800232,
+    "geom:longitude":-71.307688,
+    "iso:country":"US",
+    "sg:address":"22 Haverhill Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 6080",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "broker",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3untRARAVGHtx1qC3oCiK9_42.800232_-71.307688@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297508,
+    "wof:geomhash":"decd56431bef8f56f91a53aa93a65fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873781293
+        }
+    ],
+    "wof:id":873781293,
+    "wof:lastmodified":1464297508,
+    "wof:name":"Capital Transportation Svc Inc",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "agent"
+    ]
+},
+  "bbox": [
+    -71.307688,
+    42.800232,
+    -71.307688,
+    42.800232
+],
+  "geometry": {"coordinates":[-71.307688,42.800232],"type":"Point"}
+}

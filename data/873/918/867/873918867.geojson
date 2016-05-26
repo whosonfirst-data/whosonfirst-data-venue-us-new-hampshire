@@ -1,0 +1,80 @@
+{
+  "id": 873918867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.90015,43.247963,-70.90015,43.247963",
+    "geom:latitude":43.247963,
+    "geom:longitude":-70.90015,
+    "iso:country":"US",
+    "sg:address":"202 Route 108",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/somersworth/83096-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 0006",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526419,
+        102191575,
+        404477061,
+        85633793,
+        85975057,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hcdrBeFnYi4uKejhIWfLT_43.247963_-70.900150@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"5948bf231e29daa36f5ddbf6bc2e74b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404477061,
+            "locality_id":85975057,
+            "neighbourhood_id":420526419,
+            "region_id":85688689,
+            "venue_id":873918867
+        }
+    ],
+    "wof:id":873918867,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420526419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.90015,
+    43.247963,
+    -70.90015,
+    43.247963
+],
+  "geometry": {"coordinates":[-70.90015,43.247963],"type":"Point"}
+}

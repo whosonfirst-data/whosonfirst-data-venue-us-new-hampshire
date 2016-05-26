@@ -1,0 +1,71 @@
+{
+  "id": 873566207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.761957,43.207581,-71.761957,43.207581",
+    "geom:latitude":43.207581,
+    "geom:longitude":-71.761957,
+    "iso:country":"US",
+    "sg:address":"50 Perch Ln",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 6119",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855701,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MCmEUya8vql8vL5mBwMDs_43.207581_-71.761957@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294568,
+    "wof:geomhash":"29a96075929fa6df365c05b7cc6f8691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85855701,
+            "region_id":85688689,
+            "venue_id":873566207
+        }
+    ],
+    "wof:id":873566207,
+    "wof:lastmodified":1464294568,
+    "wof:name":"Stoneyfield Electric",
+    "wof:parent_id":85855701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.761957,
+    43.207581,
+    -71.761957,
+    43.207581
+],
+  "geometry": {"coordinates":[-71.761957,43.207581],"type":"Point"}
+}

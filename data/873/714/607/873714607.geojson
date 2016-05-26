@@ -1,0 +1,79 @@
+{
+  "id": 873714607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454793,43.557329,-71.454793,43.557329",
+    "geom:latitude":43.557329,
+    "geom:longitude":-71.454793,
+    "iso:country":"US",
+    "sg:address":"1145 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 8588",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ypw55jgVrR9PlG9YZO7xm_43.557329_-71.454793@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296576,
+    "wof:geomhash":"7022439fc7d1b011204dda5da19191de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873714607
+        }
+    ],
+    "wof:id":873714607,
+    "wof:lastmodified":1464296576,
+    "wof:name":"Mike's Quality Car Care",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.454793,
+    43.557329,
+    -71.454793,
+    43.557329
+],
+  "geometry": {"coordinates":[-71.454793,43.557329],"type":"Point"}
+}

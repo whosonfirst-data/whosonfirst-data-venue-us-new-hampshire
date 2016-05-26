@@ -1,0 +1,78 @@
+{
+  "id": 873919041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500959,42.781318,-71.500959,42.781318",
+    "geom:latitude":42.781318,
+    "geom:longitude":-71.500959,
+    "iso:country":"US",
+    "sg:address":"313 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/73556-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 7710",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ALyjZcX6AL12yL0XrANIN_42.781354_-71.500895@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300195,
+    "wof:geomhash":"0508d638d8b18e73d37c46100286c10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873919041
+        }
+    ],
+    "wof:id":873919041,
+    "wof:lastmodified":1464300195,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.500959,
+    42.781318,
+    -71.500959,
+    42.781318
+],
+  "geometry": {"coordinates":[-71.50095899999999,42.781318],"type":"Point"}
+}

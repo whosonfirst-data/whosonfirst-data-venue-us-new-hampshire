@@ -1,0 +1,70 @@
+{
+  "id": 873916419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431456,42.75965,-71.431456,42.75965",
+    "geom:latitude":42.75965,
+    "geom:longitude":-71.431456,
+    "iso:country":"US",
+    "sg:address":"28 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/28982-donnas-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 6482",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XVpEYiFwxTJh7C77CVblY_42.759650_-71.431456@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300149,
+    "wof:geomhash":"4b380f11788137e8c979cb42e34a4e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873916419
+        }
+    ],
+    "wof:id":873916419,
+    "wof:lastmodified":1464300149,
+    "wof:name":"Donna's Place",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.431456,
+    42.75965,
+    -71.431456,
+    42.75965
+],
+  "geometry": {"coordinates":[-71.431456,42.75965],"type":"Point"}
+}

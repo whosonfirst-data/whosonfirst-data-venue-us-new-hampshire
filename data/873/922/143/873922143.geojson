@@ -1,0 +1,89 @@
+{
+  "id": 873922143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52091,42.883699,-71.52091,42.883699",
+    "geom:latitude":42.883699,
+    "geom:longitude":-71.52091,
+    "iso:country":"US",
+    "sg:address":"64 Patten Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 0955",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "downspouts",
+        "gutter",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u3BIUUEpfEq2dPKel7I3R_42.883699_-71.520910@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300255,
+    "wof:geomhash":"f98d642bf7a107308b8045e1658f944e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873922143
+        }
+    ],
+    "wof:id":873922143,
+    "wof:lastmodified":1464300255,
+    "wof:name":"All Drain Gutter Systems",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "downspouts",
+        "gutter",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -71.52091,
+    42.883699,
+    -71.52091,
+    42.883699
+],
+  "geometry": {"coordinates":[-71.52091,42.883699],"type":"Point"}
+}

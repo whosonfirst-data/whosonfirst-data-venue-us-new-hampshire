@@ -1,0 +1,71 @@
+{
+  "id": 873651669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.080234,42.997883,-71.080234,42.997883",
+    "geom:latitude":42.997883,
+    "geom:longitude":-71.080234,
+    "iso:country":"US",
+    "sg:address":"374 State Rte 125",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2988",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ras7S198vt8KJZdh8VDX_42.997883_-71.080234@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295609,
+    "wof:geomhash":"79dae4c9e658ebb425a685dc3c6d45f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873651669
+        }
+    ],
+    "wof:id":873651669,
+    "wof:lastmodified":1464295609,
+    "wof:name":"Matrix Motorsports",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.080234,
+    42.997883,
+    -71.080234,
+    42.997883
+],
+  "geometry": {"coordinates":[-71.080234,42.997883],"type":"Point"}
+}

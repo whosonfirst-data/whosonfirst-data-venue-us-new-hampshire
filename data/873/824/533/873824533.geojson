@@ -1,0 +1,69 @@
+{
+  "id": 873824533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531422,42.913028,-71.531422,42.913028",
+    "geom:latitude":42.913028,
+    "geom:longitude":-71.531422,
+    "iso:country":"US",
+    "sg:address":"58 Jenkins Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8341",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_260kF6rp3ddXnImbA77wJ9_42.913028_-71.531422@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298224,
+    "wof:geomhash":"c7a074384c3d411ab6939b7ad52512c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873824533
+        }
+    ],
+    "wof:id":873824533,
+    "wof:lastmodified":1464298224,
+    "wof:name":"Bedford Birdworks",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.531422,
+    42.913028,
+    -71.531422,
+    42.913028
+],
+  "geometry": {"coordinates":[-71.53142200000001,42.913028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873555175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510023,42.995827,-71.510023,42.995827",
+    "geom:latitude":42.995827,
+    "geom:longitude":-71.510023,
+    "iso:country":"US",
+    "sg:address":"633 S Mast Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 0310",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UbFCpwxrtzLxWu4XAFh9Q_42.995827_-71.510023@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294434,
+    "wof:geomhash":"6ba006222d776f3b2f74b20f82521fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873555175
+        }
+    ],
+    "wof:id":873555175,
+    "wof:lastmodified":1464294434,
+    "wof:name":"Eames Corp",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.510023,
+    42.995827,
+    -71.510023,
+    42.995827
+],
+  "geometry": {"coordinates":[-71.510023,42.995827],"type":"Point"}
+}

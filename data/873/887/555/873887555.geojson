@@ -1,0 +1,71 @@
+{
+  "id": 873887555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.255061,42.8491,-72.255061,42.8491",
+    "geom:latitude":42.8491,
+    "geom:longitude":-72.255061,
+    "iso:country":"US",
+    "sg:address":"81 Old Richmond Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 4826",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JUfWMPA3DWsJEn0YfaPSp_42.849100_-72.255061@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299583,
+    "wof:geomhash":"76253658b08b6594cde47c4979029fb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873887555
+        }
+    ],
+    "wof:id":873887555,
+    "wof:lastmodified":1464299583,
+    "wof:name":"Hurt Enterprises",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.255061,
+    42.8491,
+    -72.255061,
+    42.8491
+],
+  "geometry": {"coordinates":[-72.255061,42.8491],"type":"Point"}
+}

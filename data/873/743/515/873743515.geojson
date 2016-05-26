@@ -1,0 +1,77 @@
+{
+  "id": 873743515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.89718,43.230058,-70.89718,43.230058",
+    "geom:latitude":43.230058,
+    "geom:longitude":-70.89718,
+    "iso:country":"US",
+    "sg:address":"120 New Rochester Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 740 4000",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526423,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62ObvUONgVGB4AiLT5roqb_43.230058_-70.897180@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296979,
+    "wof:geomhash":"5cbcf2a25b166a0cc360227e6abfc273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":420526423,
+            "region_id":85688689,
+            "venue_id":873743515
+        }
+    ],
+    "wof:id":873743515,
+    "wof:lastmodified":1464296979,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":420526423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.89718,
+    43.230058,
+    -70.89718,
+    43.230058
+],
+  "geometry": {"coordinates":[-70.89718000000001,43.230058],"type":"Point"}
+}

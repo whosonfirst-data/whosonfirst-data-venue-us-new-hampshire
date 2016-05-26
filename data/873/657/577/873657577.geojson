@@ -1,0 +1,77 @@
+{
+  "id": 873657577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215859,43.589337,-71.215859,43.589337",
+    "geom:latitude":43.589337,
+    "geom:longitude":-71.215859,
+    "iso:country":"US",
+    "sg:address":"43 King St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3364",
+    "sg:postcode":"03896",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KFZVpBHgnHovGrQCxIk7C_43.589337_-71.215859@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295674,
+    "wof:geomhash":"f91293dbd23ecaec00e09b62a0d2397d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873657577
+        }
+    ],
+    "wof:id":873657577,
+    "wof:lastmodified":1464295674,
+    "wof:name":"Wagonwerks Bay",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.215859,
+    43.589337,
+    -71.215859,
+    43.589337
+],
+  "geometry": {"coordinates":[-71.21585899999999,43.589337],"type":"Point"}
+}

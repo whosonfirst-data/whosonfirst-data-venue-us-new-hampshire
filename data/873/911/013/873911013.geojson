@@ -1,0 +1,72 @@
+{
+  "id": 873911013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.916802,43.015225,-70.916802,43.015225",
+    "geom:latitude":43.015225,
+    "geom:longitude":-70.916802,
+    "iso:country":"US",
+    "sg:address":"98 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0900",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.strathamtravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DtzZNxpqY2mDXSLaTxhbm_43.015225_-70.916802@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300031,
+    "wof:geomhash":"368559eadc0c5b5f395511ad0a763c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873911013
+        }
+    ],
+    "wof:id":873911013,
+    "wof:lastmodified":1464300031,
+    "wof:name":"Stratham Travel",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -70.916802,
+    43.015225,
+    -70.916802,
+    43.015225
+],
+  "geometry": {"coordinates":[-70.916802,43.015225],"type":"Point"}
+}

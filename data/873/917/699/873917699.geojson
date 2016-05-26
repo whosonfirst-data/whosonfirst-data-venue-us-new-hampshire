@@ -1,0 +1,74 @@
+{
+  "id": 873917699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455748,43.555966,-71.455748,43.555966",
+    "geom:latitude":43.555966,
+    "geom:longitude":-71.455748,
+    "iso:country":"US",
+    "sg:address":"1135 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/laconia/73543-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7020",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kTHGHQngi9JdjbueZV5h3_43.555966_-71.455748@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300172,
+    "wof:geomhash":"3afbad229a0125931d9e51188ee813f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873917699
+        }
+    ],
+    "wof:id":873917699,
+    "wof:lastmodified":1464300172,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.455748,
+    43.555966,
+    -71.455748,
+    43.555966
+],
+  "geometry": {"coordinates":[-71.455748,43.555966],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873855903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524073,42.945123,-71.524073,42.945123",
+    "geom:latitude":42.945123,
+    "geom:longitude":-71.524073,
+    "iso:country":"US",
+    "sg:address":"22 Church Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 2499",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UYrSX2HFa3AfU4y1bOtpN_42.945123_-71.524073@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298932,
+    "wof:geomhash":"190ba62b4162189cc3580dae61476bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873855903
+        }
+    ],
+    "wof:id":873855903,
+    "wof:lastmodified":1464298932,
+    "wof:name":"Auto Body Specialist",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.524073,
+    42.945123,
+    -71.524073,
+    42.945123
+],
+  "geometry": {"coordinates":[-71.524073,42.945123],"type":"Point"}
+}

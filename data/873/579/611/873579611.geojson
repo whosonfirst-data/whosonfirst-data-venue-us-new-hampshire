@@ -1,0 +1,71 @@
+{
+  "id": 873579611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402118,42.704526,-71.402118,42.704526",
+    "geom:latitude":42.704526,
+    "geom:longitude":-71.402118,
+    "iso:country":"US",
+    "sg:address":"17 Williams Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 4433",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2paMmwX94IapmU1eAPOgUw_42.704526_-71.402118@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294713,
+    "wof:geomhash":"e59ba24a4a8f169b7a68f9844242e925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873579611
+        }
+    ],
+    "wof:id":873579611,
+    "wof:lastmodified":1464294713,
+    "wof:name":"Medcool Inc",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.402118,
+    42.704526,
+    -71.402118,
+    42.704526
+],
+  "geometry": {"coordinates":[-71.402118,42.704526],"type":"Point"}
+}

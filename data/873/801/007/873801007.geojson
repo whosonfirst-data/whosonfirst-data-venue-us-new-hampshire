@@ -1,0 +1,73 @@
+{
+  "id": 873801007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.37989,43.523962,-72.37989,43.523962",
+    "geom:latitude":43.523962,
+    "geom:longitude":-72.37989,
+    "iso:country":"US",
+    "sg:address":"241 Freeman Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 646 4362",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "vehicle",
+        "research",
+        "mobility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yywm5gLa1Vn2jfcPGUmdm_43.523962_-72.379890@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297785,
+    "wof:geomhash":"6c633d5f88c74a8d3030420f1c080093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873801007
+        }
+    ],
+    "wof:id":873801007,
+    "wof:lastmodified":1464297785,
+    "wof:name":"Liston Mobility Research",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vehicle",
+        "research",
+        "mobility"
+    ]
+},
+  "bbox": [
+    -72.37989,
+    43.523962,
+    -72.37989,
+    43.523962
+],
+  "geometry": {"coordinates":[-72.37989,43.523962],"type":"Point"}
+}

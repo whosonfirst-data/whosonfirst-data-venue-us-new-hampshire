@@ -1,0 +1,71 @@
+{
+  "id": 873832369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504441,42.948947,-71.504441,42.948947",
+    "geom:latitude":42.948947,
+    "geom:longitude":-71.504441,
+    "iso:country":"US",
+    "sg:address":"10 Orchard Hill Cir",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 0400",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wzh82tzLDF61G6lEDbcDl_42.948947_-71.504441@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298385,
+    "wof:geomhash":"36681f748b664e2b512f68e9682f474f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873832369
+        }
+    ],
+    "wof:id":873832369,
+    "wof:lastmodified":1464298385,
+    "wof:name":"Richard Pepin",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.504441,
+    42.948947,
+    -71.504441,
+    42.948947
+],
+  "geometry": {"coordinates":[-71.504441,42.948947],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873841295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.024273,42.833606,-72.024273,42.833606",
+    "geom:latitude":42.833606,
+    "geom:longitude":-72.024273,
+    "iso:country":"US",
+    "sg:address":"369 North St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7677",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KjWj3M11zgpdoXKSBzSlC_42.833606_-72.024273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298582,
+    "wof:geomhash":"ef2ef770af68eada0a0df7712f4a981c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873841295
+        }
+    ],
+    "wof:id":873841295,
+    "wof:lastmodified":1464298582,
+    "wof:name":"Dionne Em & Son Trucking",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.024273,
+    42.833606,
+    -72.024273,
+    42.833606
+],
+  "geometry": {"coordinates":[-72.02427299999999,42.833606],"type":"Point"}
+}

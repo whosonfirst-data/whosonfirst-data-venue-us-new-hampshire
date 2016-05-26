@@ -1,0 +1,71 @@
+{
+  "id": 873872159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.253594,43.598672,-71.253594,43.598672",
+    "geom:latitude":43.598672,
+    "geom:longitude":-71.253594,
+    "iso:country":"US",
+    "sg:address":"63 Keewaydin Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 1720",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827921,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sNO0Ap5fFYfQeHsYpC0DD_43.598672_-71.253594@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299277,
+    "wof:geomhash":"c37c79ba9a3c95c725f8116e6db6e8c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85827921,
+            "region_id":85688689,
+            "venue_id":873872159
+        }
+    ],
+    "wof:id":873872159,
+    "wof:lastmodified":1464299277,
+    "wof:name":"Mike's Lock & Key",
+    "wof:parent_id":85827921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.253594,
+    43.598672,
+    -71.253594,
+    43.598672
+],
+  "geometry": {"coordinates":[-71.25359400000001,43.598672],"type":"Point"}
+}

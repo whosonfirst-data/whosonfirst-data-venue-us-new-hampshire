@@ -1,0 +1,73 @@
+{
+  "id": 873818511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468051,43.522707,-71.468051,43.522707",
+    "geom:latitude":43.522707,
+    "geom:longitude":-71.468051,
+    "iso:country":"US",
+    "sg:address":"2 Center St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1945",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I7JUSxwJmakTHO7ny7vZX_43.522707_-71.468051@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298089,
+    "wof:geomhash":"da2ff78a51709b9b322012aa676d2526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873818511
+        }
+    ],
+    "wof:id":873818511,
+    "wof:lastmodified":1464298089,
+    "wof:name":"National Federation-The Blind",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.468051,
+    43.522707,
+    -71.468051,
+    43.522707
+],
+  "geometry": {"coordinates":[-71.468051,43.522707],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873684965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.936395,42.887497,-71.936395,42.887497",
+    "geom:latitude":42.887497,
+    "geom:longitude":-71.936395,
+    "iso:country":"US",
+    "sg:address":"458 Old Street Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 2144",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46mtn6oTlPppKqzac9XYZX_42.887497_-71.936395@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296137,
+    "wof:geomhash":"231af70291b18c05ff0f881c44bf1418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873684965
+        }
+    ],
+    "wof:id":873684965,
+    "wof:lastmodified":1464296137,
+    "wof:name":"Monadnock Orthopaedic Assoc",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.936395,
+    42.887497,
+    -71.936395,
+    42.887497
+],
+  "geometry": {"coordinates":[-71.936395,42.887497],"type":"Point"}
+}

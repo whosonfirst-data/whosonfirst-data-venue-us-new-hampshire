@@ -1,0 +1,75 @@
+{
+  "id": 873599965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403047,43.004543,-71.403047,43.004543",
+    "geom:latitude":43.004543,
+    "geom:longitude":-71.403047,
+    "iso:country":"US",
+    "sg:address":"277 Aladdin St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 0787",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832851,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZcPNj2GvxmEeI1ihxg62u_43.004543_-71.403047@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294987,
+    "wof:geomhash":"68b09b8afd5744fd57e2968d5b750f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85832851,
+            "region_id":85688689,
+            "venue_id":873599965
+        }
+    ],
+    "wof:id":873599965,
+    "wof:lastmodified":1464294987,
+    "wof:name":"Dover Technologies",
+    "wof:parent_id":85832851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.403047,
+    43.004543,
+    -71.403047,
+    43.004543
+],
+  "geometry": {"coordinates":[-71.403047,43.004543],"type":"Point"}
+}

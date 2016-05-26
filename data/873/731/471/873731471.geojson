@@ -1,0 +1,71 @@
+{
+  "id": 873731471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299514,44.589264,-71.299514,44.589264",
+    "geom:latitude":44.589264,
+    "geom:longitude":-71.299514,
+    "iso:country":"US",
+    "sg:address":"912 W Milan Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 6674",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42T1sNWhXIUKgfDIgKB534_44.589264_-71.299514@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296798,
+    "wof:geomhash":"99222137394974caa86d8f49a5ed5585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873731471
+        }
+    ],
+    "wof:id":873731471,
+    "wof:lastmodified":1464296798,
+    "wof:name":"North Wood Heating",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.299514,
+    44.589264,
+    -71.299514,
+    44.589264
+],
+  "geometry": {"coordinates":[-71.299514,44.589264],"type":"Point"}
+}

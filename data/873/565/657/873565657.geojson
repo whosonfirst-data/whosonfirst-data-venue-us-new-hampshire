@@ -1,0 +1,75 @@
+{
+  "id": 873565657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.9291,42.941277,-71.9291,42.941277",
+    "geom:latitude":42.941277,
+    "geom:longitude":-71.9291,
+    "iso:country":"US",
+    "sg:address":"99 Burke Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 2338",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "investigative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f9bsmCr4D8KbumJ036DtB_42.941277_-71.929100@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294563,
+    "wof:geomhash":"d3c99cd86a7745371c3fc7961ca30a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873565657
+        }
+    ],
+    "wof:id":873565657,
+    "wof:lastmodified":1464294563,
+    "wof:name":"Defense Investigative Service",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigative"
+    ]
+},
+  "bbox": [
+    -71.9291,
+    42.941277,
+    -71.9291,
+    42.941277
+],
+  "geometry": {"coordinates":[-71.92910000000001,42.941277],"type":"Point"}
+}

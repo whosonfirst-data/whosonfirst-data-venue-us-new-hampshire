@@ -1,0 +1,73 @@
+{
+  "id": 873828227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187872,44.474685,-71.187872,44.474685",
+    "geom:latitude":44.474685,
+    "geom:longitude":-71.187872,
+    "iso:country":"US",
+    "sg:address":"10 Wight St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1460",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ufLpWsPjbLPbsjCJlu3E_44.474685_-71.187872@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298298,
+    "wof:geomhash":"497912be646651e1a9db1a2a2f17bc92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873828227
+        }
+    ],
+    "wof:id":873828227,
+    "wof:lastmodified":1464298298,
+    "wof:name":"Public Works Dept Garage",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.187872,
+    44.474685,
+    -71.187872,
+    44.474685
+],
+  "geometry": {"coordinates":[-71.187872,44.474685],"type":"Point"}
+}

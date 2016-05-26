@@ -1,0 +1,65 @@
+{
+  "id": 873701625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79929,43.092091,-70.79929,43.092091",
+    "geom:latitude":43.092091,
+    "geom:longitude":-70.79929,
+    "iso:country":"US",
+    "sg:address":"49 Gosling Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9771",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMp9o7ZY6zMG5rcOgB3YH_43.092091_-70.799290@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296421,
+    "wof:geomhash":"aff249bf72db6a67dfee130bda851748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873701625
+        }
+    ],
+    "wof:id":873701625,
+    "wof:lastmodified":1464296421,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.79929,
+    43.092091,
+    -70.79929,
+    43.092091
+],
+  "geometry": {"coordinates":[-70.79929,43.092091],"type":"Point"}
+}

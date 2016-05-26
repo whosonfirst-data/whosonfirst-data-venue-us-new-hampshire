@@ -1,0 +1,69 @@
+{
+  "id": 873901111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488446,42.994929,-71.488446,42.994929",
+    "geom:latitude":42.994929,
+    "geom:longitude":-71.488446,
+    "iso:country":"US",
+    "sg:address":"440 Kelley St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 232 1744",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sx15NCBGRLsaocqH4Jks1_42.994929_-71.488446@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299839,
+    "wof:geomhash":"c35cef1b5f663368629d22dbd7346656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873901111
+        }
+    ],
+    "wof:id":873901111,
+    "wof:lastmodified":1464299839,
+    "wof:name":"Smellgood Fragrances",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.488446,
+    42.994929,
+    -71.488446,
+    42.994929
+],
+  "geometry": {"coordinates":[-71.488446,42.994929],"type":"Point"}
+}

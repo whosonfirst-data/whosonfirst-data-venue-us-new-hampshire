@@ -1,0 +1,73 @@
+{
+  "id": 873790583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.22603,43.854115,-71.22603,43.854115",
+    "geom:latitude":43.854115,
+    "geom:longitude":-71.22603,
+    "iso:country":"US",
+    "sg:address":"521 Turkey St",
+    "sg:city":"Tamworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 323 7555",
+    "sg:postcode":"03886",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jmmeu4JOncNtdDkSLYAPv_43.854115_-71.226030@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297648,
+    "wof:geomhash":"f7eb930e85e959e5a56657abf8f5c756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873790583
+        }
+    ],
+    "wof:id":873790583,
+    "wof:lastmodified":1464297648,
+    "wof:name":"Doc's Collision Repair",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.22603,
+    43.854115,
+    -71.22603,
+    43.854115
+],
+  "geometry": {"coordinates":[-71.22602999999999,43.854115],"type":"Point"}
+}

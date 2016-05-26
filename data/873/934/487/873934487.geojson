@@ -1,0 +1,88 @@
+{
+  "id": 873934487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870453,42.875834,-70.870453,42.875834",
+    "geom:latitude":42.875834,
+    "geom:longitude":-70.870453,
+    "iso:country":"US",
+    "sg:address":"58 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 3037",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.coopertire.com/html/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PVO1TVSnXF8hC2N6lTeaa_42.875834_-70.870453@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300489,
+    "wof:geomhash":"1fb521cbd86af303aca824d6a007f95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873934487
+        }
+    ],
+    "wof:id":873934487,
+    "wof:lastmodified":1464300489,
+    "wof:name":"Seabrook Tire",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.870453,
+    42.875834,
+    -70.870453,
+    42.875834
+],
+  "geometry": {"coordinates":[-70.870453,42.875834],"type":"Point"}
+}

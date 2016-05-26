@@ -1,0 +1,71 @@
+{
+  "id": 873604213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567153,44.488559,-71.567153,44.488559",
+    "geom:latitude":44.488559,
+    "geom:longitude":-71.567153,
+    "iso:country":"US",
+    "sg:address":"30 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4567",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YSQcrkCeGhBqXavIJjWYC_44.488559_-71.567153@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295031,
+    "wof:geomhash":"544fe52f2b7606072757ba77f3f6dc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873604213
+        }
+    ],
+    "wof:id":873604213,
+    "wof:lastmodified":1464295031,
+    "wof:name":"Kilkenny Building Center",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.567153,
+    44.488559,
+    -71.567153,
+    44.488559
+],
+  "geometry": {"coordinates":[-71.567153,44.488559],"type":"Point"}
+}

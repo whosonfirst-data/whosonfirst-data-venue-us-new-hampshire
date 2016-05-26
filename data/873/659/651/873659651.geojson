@@ -1,0 +1,80 @@
+{
+  "id": 873659651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462297,42.991015,-71.462297,42.991015",
+    "geom:latitude":42.991015,
+    "geom:longitude":-71.462297,
+    "iso:country":"US",
+    "sg:address":"26 Hanover St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 0250",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ffp9h98uiw0dgSAHTt7Ft_42.991015_-71.462297@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295695,
+    "wof:geomhash":"c5be0cde46fffdeb63a165d23a99a731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873659651
+        }
+    ],
+    "wof:id":873659651,
+    "wof:lastmodified":1464295695,
+    "wof:name":"Salon Becarre Inc",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.462297,
+    42.991015,
+    -71.462297,
+    42.991015
+],
+  "geometry": {"coordinates":[-71.46229700000001,42.991015],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873709093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.753911,43.750655,-71.753911,43.750655",
+    "geom:latitude":43.750655,
+    "geom:longitude":-71.753911,
+    "iso:country":"US",
+    "sg:address":"312 Mayhew Tpke",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 8277",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K5ut6w13ndKq9yxKp4I67_43.750655_-71.753911@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296508,
+    "wof:geomhash":"012fe3abc740a5a85d27f11b1e0742db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873709093
+        }
+    ],
+    "wof:id":873709093,
+    "wof:lastmodified":1464296508,
+    "wof:name":"Tenney Mountain Country Store",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.753911,
+    43.750655,
+    -71.753911,
+    43.750655
+],
+  "geometry": {"coordinates":[-71.753911,43.750655],"type":"Point"}
+}

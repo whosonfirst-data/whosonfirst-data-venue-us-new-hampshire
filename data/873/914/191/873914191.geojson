@@ -1,0 +1,73 @@
+{
+  "id": 873914191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018863,42.828393,-72.018863,42.828393",
+    "geom:latitude":42.828393,
+    "geom:longitude":-72.018863,
+    "iso:country":"US",
+    "sg:address":"93 Amos Fortune Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8411",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "without",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lhn1KpnlZ4RaRbegowO4A_42.828470_-72.019461@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"db5bed8222a2c800dfdc54909ba59c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873914191
+        }
+    ],
+    "wof:id":873914191,
+    "wof:lastmodified":1464300091,
+    "wof:name":"Wooster Trucking Company",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "without",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.018863,
+    42.828393,
+    -72.018863,
+    42.828393
+],
+  "geometry": {"coordinates":[-72.018863,42.828393],"type":"Point"}
+}

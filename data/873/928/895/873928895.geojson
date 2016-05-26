@@ -1,0 +1,78 @@
+{
+  "id": 873928895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.2814,42.866732,-72.2814,42.866732",
+    "geom:latitude":42.866732,
+    "geom:longitude":-72.2814,
+    "iso:country":"US",
+    "sg:address":"701 Old Homestead Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 1989",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "plumber",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oqPGTNcMAceBzBJtDHJUZ_42.866732_-72.281400@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300387,
+    "wof:geomhash":"f985e85f7b408c274286a3ee34c590e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873928895
+        }
+    ],
+    "wof:id":873928895,
+    "wof:lastmodified":1464300387,
+    "wof:name":"Bell's Septic Tank Svc",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "plumber",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.2814,
+    42.866732,
+    -72.2814,
+    42.866732
+],
+  "geometry": {"coordinates":[-72.2814,42.866732],"type":"Point"}
+}

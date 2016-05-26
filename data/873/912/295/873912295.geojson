@@ -1,0 +1,79 @@
+{
+  "id": 873912295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.799979,43.019741,-70.799979,43.019741",
+    "geom:latitude":43.019741,
+    "geom:longitude":-70.799979,
+    "iso:country":"US",
+    "sg:address":"3600 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 7606",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526349,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OzLOsPGxaz2HmcRylh7gt_43.019741_-70.799979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300055,
+    "wof:geomhash":"347f84f91fa397d104eda96bd2ad2f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526349,
+            "region_id":85688689,
+            "venue_id":873912295
+        }
+    ],
+    "wof:id":873912295,
+    "wof:lastmodified":1464300055,
+    "wof:name":"Coastal Truck and Auto Body",
+    "wof:parent_id":420526349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "truck"
+    ]
+},
+  "bbox": [
+    -70.799979,
+    43.019741,
+    -70.799979,
+    43.019741
+],
+  "geometry": {"coordinates":[-70.79997899999999,43.019741],"type":"Point"}
+}

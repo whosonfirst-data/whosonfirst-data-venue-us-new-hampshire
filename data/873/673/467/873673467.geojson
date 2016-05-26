@@ -1,0 +1,71 @@
+{
+  "id": 873673467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186537,44.470006,-71.186537,44.470006",
+    "geom:latitude":44.470006,
+    "geom:longitude":-71.186537,
+    "iso:country":"US",
+    "sg:address":"135 Green St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 8555",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vw6EV3A1z8QdNJ12nfAn7_44.470006_-71.186537@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"24b041c01ddf1a89199de20a51b67e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873673467
+        }
+    ],
+    "wof:id":873673467,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Berlin Police Department",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "dept"
+    ]
+},
+  "bbox": [
+    -71.186537,
+    44.470006,
+    -71.186537,
+    44.470006
+],
+  "geometry": {"coordinates":[-71.186537,44.470006],"type":"Point"}
+}

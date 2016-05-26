@@ -1,0 +1,75 @@
+{
+  "id": 873640569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.769224,43.060609,-70.769224,43.060609",
+    "geom:latitude":43.060609,
+    "geom:longitude":-70.769224,
+    "iso:country":"US",
+    "sg:address":"210 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 0886",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892303,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c8DEgNL8wbbqun5Fel3tc_43.060609_-70.769224@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295483,
+    "wof:geomhash":"8fd0379d161da383e799b49cf38aefdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892303,
+            "region_id":85688689,
+            "venue_id":873640569
+        }
+    ],
+    "wof:id":873640569,
+    "wof:lastmodified":1464295483,
+    "wof:name":"Pepperidge Farm Inc",
+    "wof:parent_id":85892303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -70.769224,
+    43.060609,
+    -70.769224,
+    43.060609
+],
+  "geometry": {"coordinates":[-70.76922399999999,43.060609],"type":"Point"}
+}

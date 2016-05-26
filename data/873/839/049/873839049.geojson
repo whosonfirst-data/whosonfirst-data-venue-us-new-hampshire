@@ -1,0 +1,73 @@
+{
+  "id": 873839049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.143352,43.037803,-71.143352,43.037803",
+    "geom:latitude":43.037803,
+    "geom:longitude":-71.143352,
+    "iso:country":"US",
+    "sg:address":"3 State Rte 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 4576",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63HCikV8DzcN3aEilbD1Ww_43.037803_-71.143352@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298527,
+    "wof:geomhash":"cfffc88f58ba5cf09a3cebc3d561ee50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873839049
+        }
+    ],
+    "wof:id":873839049,
+    "wof:lastmodified":1464298527,
+    "wof:name":"Felch Electric Co",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.143352,
+    43.037803,
+    -71.143352,
+    43.037803
+],
+  "geometry": {"coordinates":[-71.14335199999999,43.037803],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873851593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.033142,43.256706,-71.033142,43.256706",
+    "geom:latitude":43.256706,
+    "geom:longitude":-71.033142,
+    "iso:country":"US",
+    "sg:address":"704 US Hwy 202",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 7110",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e5bTtGADhkloBTC3Ra7Ik_43.256706_-71.033142@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298843,
+    "wof:geomhash":"2ee42311890c26776bc7f484fa034053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873851593
+        }
+    ],
+    "wof:id":873851593,
+    "wof:lastmodified":1464298843,
+    "wof:name":"G & L Framing Etc",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.033142,
+    43.256706,
+    -71.033142,
+    43.256706
+],
+  "geometry": {"coordinates":[-71.033142,43.256706],"type":"Point"}
+}

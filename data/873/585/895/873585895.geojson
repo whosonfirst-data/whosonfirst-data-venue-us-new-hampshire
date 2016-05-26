@@ -1,0 +1,69 @@
+{
+  "id": 873585895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183031,44.47248,-71.183031,44.47248",
+    "geom:latitude":44.47248,
+    "geom:longitude":-71.183031,
+    "iso:country":"US",
+    "sg:address":"132 Emery St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3140",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KqGU1LLmMvknHvVwIEz39_44.472480_-71.183031@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294783,
+    "wof:geomhash":"8862b0666dc0f23ed21a874b4f5ba79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873585895
+        }
+    ],
+    "wof:id":873585895,
+    "wof:lastmodified":1464294783,
+    "wof:name":"Peanut King",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -71.183031,
+    44.47248,
+    -71.183031,
+    44.47248
+],
+  "geometry": {"coordinates":[-71.183031,44.47248],"type":"Point"}
+}

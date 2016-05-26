@@ -1,0 +1,78 @@
+{
+  "id": 873589445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459459,43.521738,-71.459459,43.521738",
+    "geom:latitude":43.521738,
+    "geom:longitude":-71.459459,
+    "iso:country":"US",
+    "sg:address":"227 Baldwin St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0833",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34cbz73s3gD0cM7hbeUuG8_43.521738_-71.459459@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294823,
+    "wof:geomhash":"10d91a500c6e8fd061a5979bb05885d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873589445
+        }
+    ],
+    "wof:id":873589445,
+    "wof:lastmodified":1464294823,
+    "wof:name":"Vince's Fiberglass",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.459459,
+    43.521738,
+    -71.459459,
+    43.521738
+],
+  "geometry": {"coordinates":[-71.459459,43.521738],"type":"Point"}
+}

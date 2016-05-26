@@ -1,0 +1,73 @@
+{
+  "id": 873607571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510235,43.190256,-71.510235,43.190256",
+    "geom:latitude":43.190256,
+    "geom:longitude":-71.510235,
+    "iso:country":"US",
+    "sg:address":"92 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 4977",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UH993EwxUSI0GHXnc0oec_43.190256_-71.510235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295088,
+    "wof:geomhash":"8331be033291e9c0b11bb1907d7bebb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873607571
+        }
+    ],
+    "wof:id":873607571,
+    "wof:lastmodified":1464295088,
+    "wof:name":"Phoenix Auto Body",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.510235,
+    43.190256,
+    -71.510235,
+    43.190256
+],
+  "geometry": {"coordinates":[-71.51023499999999,43.190256],"type":"Point"}
+}

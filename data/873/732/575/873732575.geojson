@@ -1,0 +1,73 @@
+{
+  "id": 873732575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.161264,44.546026,-71.161264,44.546026",
+    "geom:latitude":44.546026,
+    "geom:longitude":-71.161264,
+    "iso:country":"US",
+    "sg:address":"338 Success Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 2956",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "device",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O8bFatzK0j0wotlypGCql_44.546026_-71.161264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296810,
+    "wof:geomhash":"51621010d5a58b70d2727c971784e5cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873732575
+        }
+    ],
+    "wof:id":873732575,
+    "wof:lastmodified":1464296810,
+    "wof:name":"Franks Vending Machines",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "device",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -71.161264,
+    44.546026,
+    -71.161264,
+    44.546026
+],
+  "geometry": {"coordinates":[-71.161264,44.546026],"type":"Point"}
+}

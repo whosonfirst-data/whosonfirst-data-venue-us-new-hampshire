@@ -1,0 +1,73 @@
+{
+  "id": 873564605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023605,42.814558,-72.023605,42.814558",
+    "geom:latitude":42.814558,
+    "geom:longitude":-72.023605,
+    "iso:country":"US",
+    "sg:address":"12 River St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8088",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "solid",
+        "waste",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zX65mgA8lk7NMBtvgqKbd_42.814558_-72.023605@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294550,
+    "wof:geomhash":"e52621889df8383502dcb470105b7624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873564605
+        }
+    ],
+    "wof:id":873564605,
+    "wof:lastmodified":1464294550,
+    "wof:name":"Monadnock Disposal Services",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solid",
+        "waste",
+        "removal"
+    ]
+},
+  "bbox": [
+    -72.023605,
+    42.814558,
+    -72.023605,
+    42.814558
+],
+  "geometry": {"coordinates":[-72.023605,42.814558],"type":"Point"}
+}

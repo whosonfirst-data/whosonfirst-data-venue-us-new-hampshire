@@ -1,0 +1,71 @@
+{
+  "id": 873536433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.083915,43.684868,-71.083915,43.684868",
+    "geom:latitude":43.684868,
+    "geom:longitude":-71.083915,
+    "iso:country":"US",
+    "sg:address":"11 Granite Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 1088",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HyrnM2mx4ddIngvDv9WCd_43.684868_-71.083915@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294219,
+    "wof:geomhash":"d3b6ea94823f2d73d7f1592e95a98dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873536433
+        }
+    ],
+    "wof:id":873536433,
+    "wof:lastmodified":1464294219,
+    "wof:name":"Pine River Trucking LLC",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.083915,
+    43.684868,
+    -71.083915,
+    43.684868
+],
+  "geometry": {"coordinates":[-71.083915,43.684868],"type":"Point"}
+}

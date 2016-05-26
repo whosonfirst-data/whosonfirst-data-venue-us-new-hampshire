@@ -1,0 +1,74 @@
+{
+  "id": 873912129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.335256,43.02972,-71.335256,43.02972",
+    "geom:latitude":43.02972,
+    "geom:longitude":-71.335256,
+    "iso:country":"US",
+    "sg:address":"20 Chester Tpke",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5365",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "station",
+        "radio"
+    ],
+    "sg:website":"www.technetsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_008WGqkXE0hFJWyzLWv5wU_43.029720_-71.335256@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300052,
+    "wof:geomhash":"f32389eca3be96abe5416915702f26d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873912129
+        }
+    ],
+    "wof:id":873912129,
+    "wof:lastmodified":1464300052,
+    "wof:name":"Technet Systems Group",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "station",
+        "radio"
+    ]
+},
+  "bbox": [
+    -71.335256,
+    43.02972,
+    -71.335256,
+    43.02972
+],
+  "geometry": {"coordinates":[-71.335256,43.02972],"type":"Point"}
+}

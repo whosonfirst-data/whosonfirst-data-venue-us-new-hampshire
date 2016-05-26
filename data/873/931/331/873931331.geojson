@@ -1,0 +1,73 @@
+{
+  "id": 873931331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.884528,43.219291,-70.884528,43.219291",
+    "geom:latitude":43.219291,
+    "geom:longitude":-70.884528,
+    "iso:country":"US",
+    "sg:address":"887 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 0900",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lbmIjokbV7Xqy221zu7KI_43.219291_-70.884528@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300435,
+    "wof:geomhash":"5335e60e3e10a743607cf0be5954521b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873931331
+        }
+    ],
+    "wof:id":873931331,
+    "wof:lastmodified":1464300435,
+    "wof:name":"Inferno Nightclub",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -70.884528,
+    43.219291,
+    -70.884528,
+    43.219291
+],
+  "geometry": {"coordinates":[-70.884528,43.219291],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873612107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.030613,42.818221,-72.030613,42.818221",
+    "geom:latitude":42.818221,
+    "geom:longitude":-72.030613,
+    "iso:country":"US",
+    "sg:address":"135 Main St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8268",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "prefabricated",
+        "distribution",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NlW2KfYru2rdVWPKoEwQo_42.818221_-72.030613@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295168,
+    "wof:geomhash":"81ab7c3414713f3b68576d10e4fe9f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873612107
+        }
+    ],
+    "wof:id":873612107,
+    "wof:lastmodified":1464295168,
+    "wof:name":"Wallenstein Overland Distrs",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "prefabricated",
+        "distribution",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.030613,
+    42.818221,
+    -72.030613,
+    42.818221
+],
+  "geometry": {"coordinates":[-72.030613,42.818221],"type":"Point"}
+}

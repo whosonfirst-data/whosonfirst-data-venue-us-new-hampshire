@@ -1,0 +1,71 @@
+{
+  "id": 873845457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.155202,44.50403,-71.155202,44.50403",
+    "geom:latitude":44.50403,
+    "geom:longitude":-71.155202,
+    "iso:country":"US",
+    "sg:address":"85 E Milan Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3800",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vOzjJEfi5arPgmt7cJDND_44.504030_-71.155202@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298692,
+    "wof:geomhash":"12f3657c41bc595b9691ddb5049c79c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873845457
+        }
+    ],
+    "wof:id":873845457,
+    "wof:lastmodified":1464298692,
+    "wof:name":"Berlin Water Treatment Plant",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -71.155202,
+    44.50403,
+    -71.155202,
+    44.50403
+],
+  "geometry": {"coordinates":[-71.155202,44.50403],"type":"Point"}
+}

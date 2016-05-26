@@ -1,0 +1,71 @@
+{
+  "id": 873574705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.970908,43.08289,-70.970908,43.08289",
+    "geom:latitude":43.08289,
+    "geom:longitude":-70.970908,
+    "iso:country":"US",
+    "sg:address":"1 Sewall Ln",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 8626",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50GnPvLJeLcEXTAawYBPzD_43.082890_-70.970908@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294660,
+    "wof:geomhash":"63f5461908d540423a7ed8b2ad4f7011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873574705
+        }
+    ],
+    "wof:id":873574705,
+    "wof:lastmodified":1464294660,
+    "wof:name":"Olofson's Oil Burner 24 Hour",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.970908,
+    43.08289,
+    -70.970908,
+    43.08289
+],
+  "geometry": {"coordinates":[-70.97090799999999,43.08289],"type":"Point"}
+}

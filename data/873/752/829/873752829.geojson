@@ -1,0 +1,71 @@
+{
+  "id": 873752829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.205762,42.848069,-71.205762,42.848069",
+    "geom:latitude":42.848069,
+    "geom:longitude":-71.205762,
+    "iso:country":"US",
+    "sg:address":"12 Klein Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6981",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0saDl5FpW3cJHnY8zSuAOn_42.848069_-71.205762@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297116,
+    "wof:geomhash":"61d49757529c3cca65f7cc124e5212fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873752829
+        }
+    ],
+    "wof:id":873752829,
+    "wof:lastmodified":1464297116,
+    "wof:name":"Faxon Artesian Wells & Pumps",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.205762,
+    42.848069,
+    -71.205762,
+    42.848069
+],
+  "geometry": {"coordinates":[-71.20576199999999,42.848069],"type":"Point"}
+}

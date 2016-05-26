@@ -1,0 +1,71 @@
+{
+  "id": 873836551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485732,43.181753,-71.485732,43.181753",
+    "geom:latitude":43.181753,
+    "geom:longitude":-71.485732,
+    "iso:country":"US",
+    "sg:address":"13 Sheep Davis Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 0019",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xzreMDSdYtorx3PnKG8jT_43.181753_-71.485732@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298476,
+    "wof:geomhash":"ecd30662aea721a01333e768f1114ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873836551
+        }
+    ],
+    "wof:id":873836551,
+    "wof:lastmodified":1464298476,
+    "wof:name":"Pembroke Animal Hospital Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.485732,
+    43.181753,
+    -71.485732,
+    43.181753
+],
+  "geometry": {"coordinates":[-71.485732,43.181753],"type":"Point"}
+}

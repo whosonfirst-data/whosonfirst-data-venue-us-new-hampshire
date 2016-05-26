@@ -1,0 +1,71 @@
+{
+  "id": 873583975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.223535,42.768067,-71.223535,42.768067",
+    "geom:latitude":42.768067,
+    "geom:longitude":-71.223535,
+    "iso:country":"US",
+    "sg:address":"71 Rockingham Park Blvd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4581",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fxmBFPoEusoMPIaGzeweh_42.768067_-71.223535@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294763,
+    "wof:geomhash":"aa1c803e19e5380375ccde82a7e2ea47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873583975
+        }
+    ],
+    "wof:id":873583975,
+    "wof:lastmodified":1464294763,
+    "wof:name":"Datalink Communications",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.223535,
+    42.768067,
+    -71.223535,
+    42.768067
+],
+  "geometry": {"coordinates":[-71.223535,42.768067],"type":"Point"}
+}

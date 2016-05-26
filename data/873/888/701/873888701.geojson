@@ -1,0 +1,71 @@
+{
+  "id": 873888701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.77626,43.633259,-71.77626,43.633259",
+    "geom:latitude":43.633259,
+    "geom:longitude":-71.77626,
+    "iso:country":"US",
+    "sg:address":"216 Lynn Ave",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2830",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gkHMIF6e6ff18PN2qsMts_43.633259_-71.776260@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299604,
+    "wof:geomhash":"cdd3a8f945711857c0971d72c5c919ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873888701
+        }
+    ],
+    "wof:id":873888701,
+    "wof:lastmodified":1464299604,
+    "wof:name":"Roger Bedard & Sons Excavating",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.77626,
+    43.633259,
+    -71.77626,
+    43.633259
+],
+  "geometry": {"coordinates":[-71.77625999999999,43.633259],"type":"Point"}
+}

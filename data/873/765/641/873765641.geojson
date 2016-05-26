@@ -1,0 +1,73 @@
+{
+  "id": 873765641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.180738,44.470837,-71.180738,44.470837",
+    "geom:latitude":44.470837,
+    "geom:longitude":-71.180738,
+    "iso:country":"US",
+    "sg:address":"54 Mason St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5360",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gLui9asXG1hT9yJ4n9ndC_44.470837_-71.180738@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297307,
+    "wof:geomhash":"746d75e27418f492f9d00d7b009506d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873765641
+        }
+    ],
+    "wof:id":873765641,
+    "wof:lastmodified":1464297307,
+    "wof:name":"Prim & Proper Pets",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.180738,
+    44.470837,
+    -71.180738,
+    44.470837
+],
+  "geometry": {"coordinates":[-71.18073800000001,44.470837],"type":"Point"}
+}

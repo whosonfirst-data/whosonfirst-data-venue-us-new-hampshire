@@ -1,0 +1,93 @@
+{
+  "id": 873926655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509071,42.99534,-71.509071,42.99534",
+    "geom:latitude":42.99534,
+    "geom:longitude":-71.509071,
+    "iso:country":"US",
+    "sg:address":"649 Mast Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 7716",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich",
+        "take",
+        "italian"
+    ],
+    "sg:website":"http://www.dangelos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65K3hZuG6mrlCoFaLp5qzT_42.995340_-71.509071@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300340,
+    "wof:geomhash":"af415cbdb00851c1664f80aa432d29c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873926655
+        }
+    ],
+    "wof:id":873926655,
+    "wof:lastmodified":1464300340,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich",
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.509071,
+    42.99534,
+    -71.509071,
+    42.99534
+],
+  "geometry": {"coordinates":[-71.50907100000001,42.99534],"type":"Point"}
+}

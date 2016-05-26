@@ -1,0 +1,74 @@
+{
+  "id": 873812113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470345,43.528268,-71.470345,43.528268",
+    "geom:latitude":43.528268,
+    "geom:longitude":-71.470345,
+    "iso:country":"US",
+    "sg:address":"604 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3322",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cards",
+        "greeting"
+    ],
+    "sg:website":"www.sundialshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73WpeV5RzlO9K9ae8ENO9S_43.528268_-71.470345@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297963,
+    "wof:geomhash":"8e6516ff535f7d974e26c11faa88e6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873812113
+        }
+    ],
+    "wof:id":873812113,
+    "wof:lastmodified":1464297963,
+    "wof:name":"Sundial Shop",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting"
+    ]
+},
+  "bbox": [
+    -71.470345,
+    43.528268,
+    -71.470345,
+    43.528268
+],
+  "geometry": {"coordinates":[-71.47034499999999,43.528268],"type":"Point"}
+}

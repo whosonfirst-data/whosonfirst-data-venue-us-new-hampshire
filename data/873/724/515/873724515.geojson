@@ -1,0 +1,73 @@
+{
+  "id": 873724515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534196,43.16963,-71.534196,43.16963",
+    "geom:latitude":43.16963,
+    "geom:longitude":-71.534196,
+    "iso:country":"US",
+    "sg:address":"521 South St",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 229 1602",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P6NZew8E2BzLyb4YYWsxS_43.169630_-71.534196@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296706,
+    "wof:geomhash":"81ea74018ed2675ecd4843ee2a9487ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873724515
+        }
+    ],
+    "wof:id":873724515,
+    "wof:lastmodified":1464296706,
+    "wof:name":"Dick's Service Ctr",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.534196,
+    43.16963,
+    -71.534196,
+    43.16963
+],
+  "geometry": {"coordinates":[-71.53419599999999,43.16963],"type":"Point"}
+}

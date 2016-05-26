@@ -1,0 +1,90 @@
+{
+  "id": 873925611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.218468,42.765331,-71.218468,42.765331",
+    "geom:latitude":42.765331,
+    "geom:longitude":-71.218468,
+    "iso:country":"US",
+    "sg:address":"92 Cluff Crossing Rd Ste 3",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 6922",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.petco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O7yd5QOgx7iMp12HNTqph_42.765331_-71.218468@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300319,
+    "wof:geomhash":"46628e9a189317dde7c1b55843b63d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925611
+        }
+    ],
+    "wof:id":873925611,
+    "wof:lastmodified":1464300319,
+    "wof:name":"PETCO",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.218468,
+    42.765331,
+    -71.218468,
+    42.765331
+],
+  "geometry": {"coordinates":[-71.218468,42.765331],"type":"Point"}
+}

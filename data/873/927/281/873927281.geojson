@@ -1,0 +1,82 @@
+{
+  "id": 873927281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494973,42.930464,-71.494973,42.930464",
+    "geom:latitude":42.930464,
+    "geom:longitude":-71.494973,
+    "iso:country":"US",
+    "sg:address":"50 Old Sawmill Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 0605",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer",
+        "consultant",
+        "designer",
+        "integration",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t4QgaIuRTrcS2c61XHwXU_42.930464_-71.494973@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300350,
+    "wof:geomhash":"0bd13dc18969c9a66b55ac20f330ee45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927281
+        }
+    ],
+    "wof:id":873927281,
+    "wof:lastmodified":1464300350,
+    "wof:name":"Professor Steve & Assoicates",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer",
+        "consultant",
+        "designer",
+        "integration",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.494973,
+    42.930464,
+    -71.494973,
+    42.930464
+],
+  "geometry": {"coordinates":[-71.494973,42.930464],"type":"Point"}
+}

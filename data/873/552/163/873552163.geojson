@@ -1,0 +1,69 @@
+{
+  "id": 873552163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54693,42.924392,-71.54693,42.924392",
+    "geom:latitude":42.924392,
+    "geom:longitude":-71.54693,
+    "iso:country":"US",
+    "sg:address":"58 Hardy Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 2562",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jy74AHIVgnxrBOa8DVw36_42.924392_-71.546930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294402,
+    "wof:geomhash":"b8d43eba9b2f743733e143d9278c999c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873552163
+        }
+    ],
+    "wof:id":873552163,
+    "wof:lastmodified":1464294402,
+    "wof:name":"Dave Potvin Heating & AC",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.54693,
+    42.924392,
+    -71.54693,
+    42.924392
+],
+  "geometry": {"coordinates":[-71.54693,42.924392],"type":"Point"}
+}

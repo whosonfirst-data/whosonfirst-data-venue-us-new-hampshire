@@ -1,0 +1,69 @@
+{
+  "id": 873878863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483668,42.808807,-71.483668,42.808807",
+    "geom:latitude":42.808807,
+    "geom:longitude":-71.483668,
+    "iso:country":"US",
+    "sg:address":"144 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 885 5295",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3niZ7y6yDEDlnESAbrnE6B_42.808807_-71.483668@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299412,
+    "wof:geomhash":"c49ec2c8477562a050af15cf90e0db45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873878863
+        }
+    ],
+    "wof:id":873878863,
+    "wof:lastmodified":1464299412,
+    "wof:name":"Lockheed Martin",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.483668,
+    42.808807,
+    -71.483668,
+    42.808807
+],
+  "geometry": {"coordinates":[-71.48366799999999,42.808807],"type":"Point"}
+}

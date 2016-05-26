@@ -1,0 +1,73 @@
+{
+  "id": 873686573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531559,43.47107,-71.531559,43.47107",
+    "geom:latitude":43.47107,
+    "geom:longitude":-71.531559,
+    "iso:country":"US",
+    "sg:address":"752 Union Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5180",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821087,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGak2ffVaRxMYGsc6Fv8e_43.471070_-71.531559@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296182,
+    "wof:geomhash":"e4e8fae4e4f70a79d759ce218ba36059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821087,
+            "region_id":85688689,
+            "venue_id":873686573
+        }
+    ],
+    "wof:id":873686573,
+    "wof:lastmodified":1464296182,
+    "wof:name":"Norm's Auto Body",
+    "wof:parent_id":85821087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.531559,
+    43.47107,
+    -71.531559,
+    43.47107
+],
+  "geometry": {"coordinates":[-71.531559,43.47107],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873829689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.609182,42.775558,-71.609182,42.775558",
+    "geom:latitude":42.775558,
+    "geom:longitude":-71.609182,
+    "iso:country":"US",
+    "sg:address":"74 Hayden Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 9247",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "exercising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JTERLAf7LGase5PrHKNih_42.775558_-71.609182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298326,
+    "wof:geomhash":"a738a3e7ee89406daabc81e6bc086a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873829689
+        }
+    ],
+    "wof:id":873829689,
+    "wof:lastmodified":1464298326,
+    "wof:name":"Walks 'N' Wags",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising"
+    ]
+},
+  "bbox": [
+    -71.609182,
+    42.775558,
+    -71.609182,
+    42.775558
+],
+  "geometry": {"coordinates":[-71.609182,42.775558],"type":"Point"}
+}

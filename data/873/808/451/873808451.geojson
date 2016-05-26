@@ -1,0 +1,78 @@
+{
+  "id": 873808451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.357094,42.856229,-71.357094,42.856229",
+    "geom:latitude":42.856229,
+    "geom:longitude":-71.357094,
+    "iso:country":"US",
+    "sg:address":"6 Buttrick Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 9578",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.spindeleye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526319,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bm8DHsdu7aiotNUU4DwSD_42.856229_-71.357094@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297899,
+    "wof:geomhash":"afceaba07e4177a44a728998e14dd02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526319,
+            "region_id":85688689,
+            "venue_id":873808451
+        }
+    ],
+    "wof:id":873808451,
+    "wof:lastmodified":1464297899,
+    "wof:name":"Spindel Eye Assoc",
+    "wof:parent_id":420526319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.357094,
+    42.856229,
+    -71.357094,
+    42.856229
+],
+  "geometry": {"coordinates":[-71.357094,42.856229],"type":"Point"}
+}

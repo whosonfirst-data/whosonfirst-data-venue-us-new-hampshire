@@ -1,0 +1,79 @@
+{
+  "id": 873843285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464031,42.999307,-71.464031,42.999307",
+    "geom:latitude":42.999307,
+    "geom:longitude":-71.464031,
+    "iso:country":"US",
+    "sg:address":"1525 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 6466",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ieC6pAusuAp9LdsGPHv71_42.999307_-71.464031@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298638,
+    "wof:geomhash":"6154a28255c2245529b785b314ac670f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873843285
+        }
+    ],
+    "wof:id":873843285,
+    "wof:lastmodified":1464298638,
+    "wof:name":"Manchester Health Dept",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -71.464031,
+    42.999307,
+    -71.464031,
+    42.999307
+],
+  "geometry": {"coordinates":[-71.46403100000001,42.999307],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873806035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.099265,43.027909,-71.099265,43.027909",
+    "geom:latitude":43.027909,
+    "geom:longitude":-71.099265,
+    "iso:country":"US",
+    "sg:address":"32 Jenness Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1421",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831729,
+        102086507,
+        85855449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WeV1T0tMPr004SVTIZHCB_43.027909_-71.099265@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297852,
+    "wof:geomhash":"23a08158635dd77c8e8c7c8b022cb15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85831729,
+            "region_id":85688689,
+            "venue_id":873806035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873806035
+        }
+    ],
+    "wof:id":873806035,
+    "wof:lastmodified":1464297852,
+    "wof:name":"Fern's Woodworks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.099265,
+    43.027909,
+    -71.099265,
+    43.027909
+],
+  "geometry": {"coordinates":[-71.099265,43.027909],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873645859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.172971,44.473979,-71.172971,44.473979",
+    "geom:latitude":44.473979,
+    "geom:longitude":-71.172971,
+    "iso:country":"US",
+    "sg:address":"569 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5507",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c6eBtLkuoVtI4UZzpj2Gy_44.473979_-71.172971@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295545,
+    "wof:geomhash":"c4088ddfc8a2e77d3aeb165544b2eb4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873645859
+        }
+    ],
+    "wof:id":873645859,
+    "wof:lastmodified":1464295545,
+    "wof:name":"Portland Glass Co",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -71.172971,
+    44.473979,
+    -71.172971,
+    44.473979
+],
+  "geometry": {"coordinates":[-71.172971,44.473979],"type":"Point"}
+}

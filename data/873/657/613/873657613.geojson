@@ -1,0 +1,73 @@
+{
+  "id": 873657613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565827,44.48377,-71.565827,44.48377",
+    "geom:latitude":44.48377,
+    "geom:longitude":-71.565827,
+    "iso:country":"US",
+    "sg:address":"47 Portland St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3633",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kfJTIsqe2LiBL0m13RlCV_44.483770_-71.565827@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295674,
+    "wof:geomhash":"6d6984ce80e39488af78652023a931e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873657613
+        }
+    ],
+    "wof:id":873657613,
+    "wof:lastmodified":1464295674,
+    "wof:name":"Mc Gee Co Inc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.565827,
+    44.48377,
+    -71.565827,
+    44.48377
+],
+  "geometry": {"coordinates":[-71.565827,44.48377],"type":"Point"}
+}

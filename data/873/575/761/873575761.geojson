@@ -1,0 +1,71 @@
+{
+  "id": 873575761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.352789,43.215599,-71.352789,43.215599",
+    "geom:latitude":43.215599,
+    "geom:longitude":-71.352789,
+    "iso:country":"US",
+    "sg:address":"99 Leighton Brook Dr",
+    "sg:city":"Epsom",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 736 8656",
+    "sg:postcode":"03234",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836729,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M4XYnMZT4C7LzobAiFalL_43.215599_-71.352789@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294672,
+    "wof:geomhash":"ad3dd578faccc4b2cf844cd375d9b6fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85836729,
+            "region_id":85688689,
+            "venue_id":873575761
+        }
+    ],
+    "wof:id":873575761,
+    "wof:lastmodified":1464294672,
+    "wof:name":"Circuit Masters",
+    "wof:parent_id":85836729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.352789,
+    43.215599,
+    -71.352789,
+    43.215599
+],
+  "geometry": {"coordinates":[-71.352789,43.215599],"type":"Point"}
+}

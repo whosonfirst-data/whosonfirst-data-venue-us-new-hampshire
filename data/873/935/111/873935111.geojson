@@ -1,0 +1,70 @@
+{
+  "id": 873935111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.210617,43.585831,-71.210617,43.585831",
+    "geom:latitude":43.585831,
+    "geom:longitude":-71.210617,
+    "iso:country":"US",
+    "sg:address":"29 Union St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 9681",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xZbVcz8U0AOEMCPiWRtHr_43.585831_-71.210617@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300502,
+    "wof:geomhash":"6938c1681cbb622c992e6dea2656566d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935111
+        }
+    ],
+    "wof:id":873935111,
+    "wof:lastmodified":1464300502,
+    "wof:name":"Carroll County Gastroenterology",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.210617,
+    43.585831,
+    -71.210617,
+    43.585831
+],
+  "geometry": {"coordinates":[-71.210617,43.585831],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873635417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751605,43.211452,-71.751605,43.211452",
+    "geom:latitude":43.211452,
+    "geom:longitude":-71.751605,
+    "iso:country":"US",
+    "sg:address":"604 Pine St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 6536",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855701,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YD5kW4yTJyya3cVr2EJsx_43.211452_-71.751605@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295427,
+    "wof:geomhash":"967ac947d91f908ce123d87a620cbefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85855701,
+            "region_id":85688689,
+            "venue_id":873635417
+        }
+    ],
+    "wof:id":873635417,
+    "wof:lastmodified":1464295427,
+    "wof:name":"Foster's Courier Svc",
+    "wof:parent_id":85855701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -71.751605,
+    43.211452,
+    -71.751605,
+    43.211452
+],
+  "geometry": {"coordinates":[-71.751605,43.211452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873834199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574539,42.760245,-71.574539,42.760245",
+    "geom:latitude":42.760245,
+    "geom:longitude":-71.574539,
+    "iso:country":"US",
+    "sg:address":"8 Rock Haven Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 759 9527",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wRRtc4hIgHO78Lvp5QBJY_42.760245_-71.574539@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298428,
+    "wof:geomhash":"8f810b08a5c6e1062e2a91a65ad09f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873834199
+        }
+    ],
+    "wof:id":873834199,
+    "wof:lastmodified":1464298428,
+    "wof:name":"Sound Experience",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.574539,
+    42.760245,
+    -71.574539,
+    42.760245
+],
+  "geometry": {"coordinates":[-71.574539,42.760245],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873767383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.336995,42.736898,-71.336995,42.736898",
+    "geom:latitude":42.736898,
+    "geom:longitude":-71.336995,
+    "iso:country":"US",
+    "sg:address":"24 Tenney Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 3647",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "sg:website":"www.dogtalk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13IyplT55wlxCMm3SpqBfl_42.736898_-71.336995@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297330,
+    "wof:geomhash":"b5648cd4a19164935749c98cf7b3997e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873767383
+        }
+    ],
+    "wof:id":873767383,
+    "wof:lastmodified":1464297330,
+    "wof:name":"Dog Talk & Thera Pet",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -71.336995,
+    42.736898,
+    -71.336995,
+    42.736898
+],
+  "geometry": {"coordinates":[-71.336995,42.736898],"type":"Point"}
+}

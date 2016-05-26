@@ -1,0 +1,76 @@
+{
+  "id": 873926779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451118,42.967812,-71.451118,42.967812",
+    "geom:latitude":42.967812,
+    "geom:longitude":-71.451118,
+    "iso:country":"US",
+    "sg:address":"428 S Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 8212",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "windshield"
+    ],
+    "sg:website":"http://www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eT2QlJgrMWjF21H73DmUV_42.967812_-71.451118@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300342,
+    "wof:geomhash":"b80068a039d57ef77c609488d05f474c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873926779
+        }
+    ],
+    "wof:id":873926779,
+    "wof:lastmodified":1464300342,
+    "wof:name":"Safelite AutoGlass",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield"
+    ]
+},
+  "bbox": [
+    -71.451118,
+    42.967812,
+    -71.451118,
+    42.967812
+],
+  "geometry": {"coordinates":[-71.45111799999999,42.967812],"type":"Point"}
+}

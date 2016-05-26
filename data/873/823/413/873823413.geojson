@@ -1,0 +1,73 @@
+{
+  "id": 873823413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.226887,44.388256,-71.226887,44.388256",
+    "geom:latitude":44.388256,
+    "geom:longitude":-71.226887,
+    "iso:country":"US",
+    "sg:address":"130 Lancaster Rd",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2223",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oAD6fmwPe6XdojrdKAntF_44.388256_-71.226887@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298197,
+    "wof:geomhash":"409b647f288834eab02ece7b83b94778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873823413
+        }
+    ],
+    "wof:id":873823413,
+    "wof:lastmodified":1464298197,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.226887,
+    44.388256,
+    -71.226887,
+    44.388256
+],
+  "geometry": {"coordinates":[-71.226887,44.388256],"type":"Point"}
+}

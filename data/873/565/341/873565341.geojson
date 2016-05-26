@@ -1,0 +1,69 @@
+{
+  "id": 873565341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227328,42.785343,-71.227328,42.785343",
+    "geom:latitude":42.785343,
+    "geom:longitude":-71.227328,
+    "iso:country":"US",
+    "sg:address":"2 Corliss St",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 3755",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SOW8Q9EA3NbtlNd6lgNGk_42.785343_-71.227328@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294557,
+    "wof:geomhash":"4b511c465e336d3b16bf1de01efd5c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873565341
+        }
+    ],
+    "wof:id":873565341,
+    "wof:lastmodified":1464294557,
+    "wof:name":"Auto Doctor of NH",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.227328,
+    42.785343,
+    -71.227328,
+    42.785343
+],
+  "geometry": {"coordinates":[-71.227328,42.785343],"type":"Point"}
+}

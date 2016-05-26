@@ -1,0 +1,71 @@
+{
+  "id": 873896835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.657275,43.656793,-71.657275,43.656793",
+    "geom:latitude":43.656793,
+    "geom:longitude":-71.657275,
+    "iso:country":"US",
+    "sg:address":"2695 River Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 9455",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bXU3VtF3iHqQegrMvexzK_43.656793_-71.657275@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299761,
+    "wof:geomhash":"457bb52db8547eb18ceff833c46cab6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873896835
+        }
+    ],
+    "wof:id":873896835,
+    "wof:lastmodified":1464299761,
+    "wof:name":"D & D Carpentry",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.657275,
+    43.656793,
+    -71.657275,
+    43.656793
+],
+  "geometry": {"coordinates":[-71.657275,43.656793],"type":"Point"}
+}

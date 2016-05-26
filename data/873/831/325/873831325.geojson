@@ -1,0 +1,71 @@
+{
+  "id": 873831325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.031756,43.32243,-71.031756,43.32243",
+    "geom:latitude":43.32243,
+    "geom:longitude":-71.031756,
+    "iso:country":"US",
+    "sg:address":"51 Four Rod Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 1263",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:website":"www.grandviewcamping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73MlxRoIJAdUA5FwHywWAb_43.322430_-71.031756@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298356,
+    "wof:geomhash":"4f0846327b295ce3a696a0e6149696b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873831325
+        }
+    ],
+    "wof:id":873831325,
+    "wof:lastmodified":1464298356,
+    "wof:name":"Grand View Camping Area",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.031756,
+    43.32243,
+    -71.031756,
+    43.32243
+],
+  "geometry": {"coordinates":[-71.031756,43.32243],"type":"Point"}
+}

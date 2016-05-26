@@ -1,0 +1,71 @@
+{
+  "id": 873681249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485674,43.176225,-71.485674,43.176225",
+    "geom:latitude":43.176225,
+    "geom:longitude":-71.485674,
+    "iso:country":"US",
+    "sg:address":"547 Pembroke St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 6972",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a0dw5VW8GjcxhfI0Tb0EC_43.176225_-71.485674@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296029,
+    "wof:geomhash":"bbb29aba276fe7581d6262c8501d22f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873681249
+        }
+    ],
+    "wof:id":873681249,
+    "wof:lastmodified":1464296029,
+    "wof:name":"Hillside Baptist Church",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.485674,
+    43.176225,
+    -71.485674,
+    43.176225
+],
+  "geometry": {"coordinates":[-71.485674,43.176225],"type":"Point"}
+}

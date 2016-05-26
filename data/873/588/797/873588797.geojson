@@ -1,0 +1,67 @@
+{
+  "id": 873588797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463174,43.535187,-71.463174,43.535187",
+    "geom:latitude":43.535187,
+    "geom:longitude":-71.463174,
+    "iso:country":"US",
+    "sg:address":"345 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5712",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:website":"www.laconia.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SfZ3E8JhhabrKugiMOIF1_43.535187_-71.463174@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294816,
+    "wof:geomhash":"182115e68890aeb7287fdc1c110dd37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873588797
+        }
+    ],
+    "wof:id":873588797,
+    "wof:lastmodified":1464294816,
+    "wof:name":"Adult Education Ctr",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.463174,
+    43.535187,
+    -71.463174,
+    43.535187
+],
+  "geometry": {"coordinates":[-71.463174,43.535187],"type":"Point"}
+}

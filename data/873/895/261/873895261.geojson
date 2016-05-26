@@ -1,0 +1,71 @@
+{
+  "id": 873895261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.985603,42.94668,-71.985603,42.94668",
+    "geom:latitude":42.94668,
+    "geom:longitude":-71.985603,
+    "iso:country":"US",
+    "sg:address":"11 Vatcher Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 525 4623",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iigPAtM3H8p7Mf9tUj96p_42.946680_-71.985603@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299726,
+    "wof:geomhash":"c4aa2c098da6aeaa9469d8a70b1d453a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873895261
+        }
+    ],
+    "wof:id":873895261,
+    "wof:lastmodified":1464299726,
+    "wof:name":"Roger Garland",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.985603,
+    42.94668,
+    -71.985603,
+    42.94668
+],
+  "geometry": {"coordinates":[-71.985603,42.94668],"type":"Point"}
+}

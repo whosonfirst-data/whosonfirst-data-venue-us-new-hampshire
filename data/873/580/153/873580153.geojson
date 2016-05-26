@@ -1,0 +1,71 @@
+{
+  "id": 873580153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.327816,42.736576,-71.327816,42.736576",
+    "geom:latitude":42.736576,
+    "geom:longitude":-71.327816,
+    "iso:country":"US",
+    "sg:address":"16 Nashua Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 9919",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F42aPwYJQCP5PXwsRNuzX_42.736576_-71.327816@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294720,
+    "wof:geomhash":"e5019da66ae99c6ce1c5daf27870b725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873580153
+        }
+    ],
+    "wof:id":873580153,
+    "wof:lastmodified":1464294720,
+    "wof:name":"Acme Rug Co",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -71.327816,
+    42.736576,
+    -71.327816,
+    42.736576
+],
+  "geometry": {"coordinates":[-71.327816,42.736576],"type":"Point"}
+}

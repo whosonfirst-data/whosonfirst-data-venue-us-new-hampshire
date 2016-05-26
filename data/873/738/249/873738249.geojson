@@ -1,0 +1,71 @@
+{
+  "id": 873738249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179509,44.473497,-71.179509,44.473497",
+    "geom:latitude":44.473497,
+    "geom:longitude":-71.179509,
+    "iso:country":"US",
+    "sg:address":"72 High St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1212",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23yLhh0usICovJ6qqsnJMx_44.473497_-71.179509@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296899,
+    "wof:geomhash":"502e988c16fb6dc5a0d434b35e9a5f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873738249
+        }
+    ],
+    "wof:id":873738249,
+    "wof:lastmodified":1464296899,
+    "wof:name":"Fleury-Patry Funeral Homes Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "home"
+    ]
+},
+  "bbox": [
+    -71.179509,
+    44.473497,
+    -71.179509,
+    44.473497
+],
+  "geometry": {"coordinates":[-71.179509,44.473497],"type":"Point"}
+}

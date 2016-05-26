@@ -1,0 +1,79 @@
+{
+  "id": 873663143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975396,43.298691,-70.975396,43.298691",
+    "geom:latitude":43.298691,
+    "geom:longitude":-70.975396,
+    "iso:country":"US",
+    "sg:address":"5 Spring St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 0440",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TFEs0msovlYnYFsiF6nFE_43.298691_-70.975396@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295732,
+    "wof:geomhash":"529852a6f3557c95d8c9e95be51a5f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873663143
+        }
+    ],
+    "wof:id":873663143,
+    "wof:lastmodified":1464295732,
+    "wof:name":"Rochester Youth Safe Haven",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -70.975396,
+    43.298691,
+    -70.975396,
+    43.298691
+],
+  "geometry": {"coordinates":[-70.975396,43.298691],"type":"Point"}
+}

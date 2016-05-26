@@ -1,0 +1,74 @@
+{
+  "id": 873917687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453035,43.56029,-71.453035,43.56029",
+    "geom:latitude":43.56029,
+    "geom:longitude":-71.453035,
+    "iso:country":"US",
+    "sg:address":"1315 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/laconia/183523-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2900",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1thR5rEzLfk1PpaeUdGuCB_43.560290_-71.453035@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"913300c95f9a9755dcee45c9df2ed95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873917687
+        }
+    ],
+    "wof:id":873917687,
+    "wof:lastmodified":1464300171,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -71.453035,
+    43.56029,
+    -71.453035,
+    43.56029
+],
+  "geometry": {"coordinates":[-71.453035,43.56029],"type":"Point"}
+}

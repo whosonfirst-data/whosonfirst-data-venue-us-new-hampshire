@@ -1,0 +1,71 @@
+{
+  "id": 873820183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557087,42.724272,-71.557087,42.724272",
+    "geom:latitude":42.724272,
+    "geom:longitude":-71.557087,
+    "iso:country":"US",
+    "sg:address":"154 Rideout Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 7734",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PCU7G3TR1CYK2f0papfBM_42.724272_-71.557087@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298123,
+    "wof:geomhash":"85d5ec3d06130d5c0ae05642aec813e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873820183
+        }
+    ],
+    "wof:id":873820183,
+    "wof:lastmodified":1464298123,
+    "wof:name":"Altare Technologies",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.557087,
+    42.724272,
+    -71.557087,
+    42.724272
+],
+  "geometry": {"coordinates":[-71.557087,42.724272],"type":"Point"}
+}

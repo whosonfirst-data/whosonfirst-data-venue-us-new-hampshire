@@ -1,0 +1,71 @@
+{
+  "id": 873680007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.263784,43.540168,-72.263784,43.540168",
+    "geom:latitude":43.540168,
+    "geom:longitude":-72.263784,
+    "iso:country":"US",
+    "sg:address":"90 Bonner Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 469 3486",
+    "sg:postcode":"03770",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q3QY9LvLj0J9gaJyW5NBy_43.540168_-72.263784@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295996,
+    "wof:geomhash":"daa72da8d5994b56ff7cc4e241cb55bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873680007
+        }
+    ],
+    "wof:id":873680007,
+    "wof:lastmodified":1464295996,
+    "wof:name":"Meridan Village Water Dist",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -72.263784,
+    43.540168,
+    -72.263784,
+    43.540168
+],
+  "geometry": {"coordinates":[-72.263784,43.540168],"type":"Point"}
+}

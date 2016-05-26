@@ -1,0 +1,70 @@
+{
+  "id": 873933045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.124368,44.046614,-71.124368,44.046614",
+    "geom:latitude":44.046614,
+    "geom:longitude":-71.124368,
+    "iso:country":"US",
+    "sg:address":"2483 White Mountain Hwy",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2663",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.bavarianchocolatehaus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CkgcxHDXEAarTSq3erRSv_44.046614_-71.124368@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300465,
+    "wof:geomhash":"58f49caec4da768684b9ef684fb4d2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933045
+        }
+    ],
+    "wof:id":873933045,
+    "wof:lastmodified":1464300465,
+    "wof:name":"Bavarian Chocolate Haus",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.124368,
+    44.046614,
+    -71.124368,
+    44.046614
+],
+  "geometry": {"coordinates":[-71.124368,44.046614],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873543301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50091,43.39318,-71.50091,43.39318",
+    "geom:latitude":43.39318,
+    "geom:longitude":-71.50091,
+    "iso:country":"US",
+    "sg:address":"420 Baptist Hill Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 267 7161",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OzsNNnO7HUgQT923Mvdaj_43.393180_-71.500910@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294294,
+    "wof:geomhash":"4a9943581955167bc1566c41831908b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873543301
+        }
+    ],
+    "wof:id":873543301,
+    "wof:lastmodified":1464294294,
+    "wof:name":"R&S Engines & Generators Inc",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ]
+},
+  "bbox": [
+    -71.50091,
+    43.39318,
+    -71.50091,
+    43.39318
+],
+  "geometry": {"coordinates":[-71.50091,43.39318],"type":"Point"}
+}

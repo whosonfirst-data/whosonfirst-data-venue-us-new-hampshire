@@ -1,0 +1,71 @@
+{
+  "id": 873873799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.518808,42.827637,-72.518808,42.827637",
+    "geom:latitude":42.827637,
+    "geom:longitude":-72.518808,
+    "iso:country":"US",
+    "sg:address":"15 Middle Oxbow Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 256 8246",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837733,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62g747Kgg8AA2HgWQpID3I_42.827637_-72.518808@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299311,
+    "wof:geomhash":"e688d76bf24e3974e6f348bb563ce9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85837733,
+            "region_id":85688689,
+            "venue_id":873873799
+        }
+    ],
+    "wof:id":873873799,
+    "wof:lastmodified":1464299311,
+    "wof:name":"C Z Transport Inc",
+    "wof:parent_id":85837733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.518808,
+    42.827637,
+    -72.518808,
+    42.827637
+],
+  "geometry": {"coordinates":[-72.51880800000001,42.827637],"type":"Point"}
+}

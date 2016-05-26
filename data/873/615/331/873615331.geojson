@@ -1,0 +1,73 @@
+{
+  "id": 873615331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.297809,42.905442,-72.297809,42.905442",
+    "geom:latitude":42.905442,
+    "geom:longitude":-72.297809,
+    "iso:country":"US",
+    "sg:address":"75 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 313 8898",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uhu2yPOLisoPHBWcFWTaN_42.905442_-72.297809@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295198,
+    "wof:geomhash":"e3dcf9d70ee7426ec22bbe46132db836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873615331
+        }
+    ],
+    "wof:id":873615331,
+    "wof:lastmodified":1464295198,
+    "wof:name":"R D S Trucking",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.297809,
+    42.905442,
+    -72.297809,
+    42.905442
+],
+  "geometry": {"coordinates":[-72.297809,42.905442],"type":"Point"}
+}

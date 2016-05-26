@@ -1,0 +1,69 @@
+{
+  "id": 873789843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.816623,43.28085,-71.816623,43.28085",
+    "geom:latitude":43.28085,
+    "geom:longitude":-71.816623,
+    "iso:country":"US",
+    "sg:address":"1 E Main St",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2004",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OX2bGtNyA3A8ilLETnJ0N_43.280850_-71.816623@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297638,
+    "wof:geomhash":"921ae12422520a98fb298370f2424bc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873789843
+        }
+    ],
+    "wof:id":873789843,
+    "wof:lastmodified":1464297638,
+    "wof:name":"Susan Randlett Psychotherapist",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -71.816623,
+    43.28085,
+    -71.816623,
+    43.28085
+],
+  "geometry": {"coordinates":[-71.81662300000001,43.28085],"type":"Point"}
+}

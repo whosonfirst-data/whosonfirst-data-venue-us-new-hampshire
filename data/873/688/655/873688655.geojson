@@ -1,0 +1,73 @@
+{
+  "id": 873688655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.316232,42.832639,-71.316232,42.832639",
+    "geom:latitude":42.832639,
+    "geom:longitude":-71.316232,
+    "iso:country":"US",
+    "sg:address":"100 Blueberry Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 537 1634",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E3gJxIudftO21BRTfTnjq_42.832639_-71.316232@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296239,
+    "wof:geomhash":"ef26d5757d3e8151fc4aff67a3ad16ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873688655
+        }
+    ],
+    "wof:id":873688655,
+    "wof:lastmodified":1464296239,
+    "wof:name":"Boston International Healthcr",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.316232,
+    42.832639,
+    -71.316232,
+    42.832639
+],
+  "geometry": {"coordinates":[-71.316232,42.832639],"type":"Point"}
+}

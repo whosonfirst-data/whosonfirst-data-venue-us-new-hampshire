@@ -1,0 +1,69 @@
+{
+  "id": 873605905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.300159,42.90401,-72.300159,42.90401",
+    "geom:latitude":42.90401,
+    "geom:longitude":-72.300159,
+    "iso:country":"US",
+    "sg:address":"115 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 355 4445",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqw05SQ8i16Dp4q1R4WQ3_42.904010_-72.300159@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295057,
+    "wof:geomhash":"0d778af7f9e364cc527d9527f198435f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873605905
+        }
+    ],
+    "wof:id":873605905,
+    "wof:lastmodified":1464295057,
+    "wof:name":"Studio H Hair Salon",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.300159,
+    42.90401,
+    -72.300159,
+    42.90401
+],
+  "geometry": {"coordinates":[-72.30015899999999,42.90401],"type":"Point"}
+}

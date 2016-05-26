@@ -1,0 +1,75 @@
+{
+  "id": 873822781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472577,43.522745,-71.472577,43.522745",
+    "geom:latitude":43.522745,
+    "geom:longitude":-71.472577,
+    "iso:country":"US",
+    "sg:address":"161 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 1400",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "electrical",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IdAtM7GCjuhxOEndGOhtV_43.522745_-71.472577@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298185,
+    "wof:geomhash":"93042e8c93af3109fb0f82d55d01330e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873822781
+        }
+    ],
+    "wof:id":873822781,
+    "wof:lastmodified":1464298185,
+    "wof:name":"Aubuchon Hardware",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "electrical",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.472577,
+    43.522745,
+    -71.472577,
+    43.522745
+],
+  "geometry": {"coordinates":[-71.472577,43.522745],"type":"Point"}
+}

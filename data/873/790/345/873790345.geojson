@@ -1,0 +1,71 @@
+{
+  "id": 873790345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.345251,43.08703,-71.345251,43.08703",
+    "geom:latitude":43.08703,
+    "geom:longitude":-71.345251,
+    "iso:country":"US",
+    "sg:address":"179 Horizon Ln",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5690",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SQ4Yv2AdDxxWo160YwEBS_43.087030_-71.345251@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297645,
+    "wof:geomhash":"5045f2abc13e4b465accdc4be8f065de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85830095,
+            "region_id":85688689,
+            "venue_id":873790345
+        }
+    ],
+    "wof:id":873790345,
+    "wof:lastmodified":1464297645,
+    "wof:name":"R & R Pardise Concrete",
+    "wof:parent_id":85830095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.345251,
+    43.08703,
+    -71.345251,
+    43.08703
+],
+  "geometry": {"coordinates":[-71.345251,43.08703],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873594965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885377,43.220169,-70.885377,43.220169",
+    "geom:latitude":43.220169,
+    "geom:longitude":-70.885377,
+    "iso:country":"US",
+    "sg:address":"899 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 740 2916",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TFXdHs5Lq0VmqldjxLD9d_43.220169_-70.885377@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294903,
+    "wof:geomhash":"039fe3aabc709b45c7409b79823dd728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873594965
+        }
+    ],
+    "wof:id":873594965,
+    "wof:lastmodified":1464294903,
+    "wof:name":"Sinon's Automotive",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "oil"
+    ]
+},
+  "bbox": [
+    -70.885377,
+    43.220169,
+    -70.885377,
+    43.220169
+],
+  "geometry": {"coordinates":[-70.88537700000001,43.220169],"type":"Point"}
+}

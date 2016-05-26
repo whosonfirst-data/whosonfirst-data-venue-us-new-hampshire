@@ -1,0 +1,78 @@
+{
+  "id": 873918773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.015093,43.338769,-71.015093,43.338769",
+    "geom:latitude":43.338769,
+    "geom:longitude":-71.015093,
+    "iso:country":"US",
+    "sg:address":"116 Farmington Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/194431-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 6923",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HXvRE06y1Zm75ElaGx3eU_43.338769_-71.015093@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"3fe790df2ec0bafe9dbc3068ef7b1d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873918773
+        }
+    ],
+    "wof:id":873918773,
+    "wof:lastmodified":1464300191,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.015093,
+    43.338769,
+    -71.015093,
+    43.338769
+],
+  "geometry": {"coordinates":[-71.01509299999999,43.338769],"type":"Point"}
+}

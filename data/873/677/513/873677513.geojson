@@ -1,0 +1,71 @@
+{
+  "id": 873677513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.060651,43.499135,-72.060651,43.499135",
+    "geom:latitude":43.499135,
+    "geom:longitude":-72.060651,
+    "iso:country":"US",
+    "sg:address":"394 Main St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 8888",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kIpTbhIYVX00XI5k5yZhg_43.499135_-72.060651@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295923,
+    "wof:geomhash":"9c45dbd0256d15f52100a4606034bc97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873677513
+        }
+    ],
+    "wof:id":873677513,
+    "wof:lastmodified":1464295923,
+    "wof:name":"W S Hunter Inc",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -72.060651,
+    43.499135,
+    -72.060651,
+    43.499135
+],
+  "geometry": {"coordinates":[-72.06065099999999,43.499135],"type":"Point"}
+}

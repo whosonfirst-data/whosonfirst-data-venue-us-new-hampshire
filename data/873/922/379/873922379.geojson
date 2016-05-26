@@ -1,0 +1,79 @@
+{
+  "id": 873922379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.718842,42.84156,-71.718842,42.84156",
+    "geom:latitude":42.84156,
+    "geom:longitude":-71.718842,
+    "iso:country":"US",
+    "sg:address":"799 Elm St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 7314",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "consultant",
+        "broker"
+    ],
+    "sg:website":"http://www.proctorandgreene.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z4hddBNhG7Kh28wEXiBGx_42.841560_-71.718842@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300259,
+    "wof:geomhash":"05dc2072aa8ec2748077381f2aa87e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873922379
+        }
+    ],
+    "wof:id":873922379,
+    "wof:lastmodified":1464300259,
+    "wof:name":"Proctor & Greene Real Estate",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "consultant",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.718842,
+    42.84156,
+    -71.718842,
+    42.84156
+],
+  "geometry": {"coordinates":[-71.718842,42.84156],"type":"Point"}
+}

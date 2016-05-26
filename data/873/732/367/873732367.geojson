@@ -1,0 +1,71 @@
+{
+  "id": 873732367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441925,43.642618,-71.441925,43.642618",
+    "geom:latitude":43.642618,
+    "geom:longitude":-71.441925,
+    "iso:country":"US",
+    "sg:address":"36 Stonedam Cir",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 677 2209",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831511,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oz6HM4dvZTLUJVrYAa1aF_43.642618_-71.441925@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296807,
+    "wof:geomhash":"797e9ab60a324f8826cd22e07dec2c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85831511,
+            "region_id":85688689,
+            "venue_id":873732367
+        }
+    ],
+    "wof:id":873732367,
+    "wof:lastmodified":1464296807,
+    "wof:name":"Popek Property",
+    "wof:parent_id":85831511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.441925,
+    43.642618,
+    -71.441925,
+    43.642618
+],
+  "geometry": {"coordinates":[-71.441925,43.642618],"type":"Point"}
+}

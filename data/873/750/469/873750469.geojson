@@ -1,0 +1,73 @@
+{
+  "id": 873750469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438068,43.564589,-71.438068,43.564589",
+    "geom:latitude":43.564589,
+    "geom:longitude":-71.438068,
+    "iso:country":"US",
+    "sg:address":"29 Liscomb Cir",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7327",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rkthtqj0GNiHkczHRmhOP_43.564589_-71.438068@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297080,
+    "wof:geomhash":"e99735d2f43db844d049eae8d904d593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873750469
+        }
+    ],
+    "wof:id":873750469,
+    "wof:lastmodified":1464297080,
+    "wof:name":"Bolduc's Electric",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.438068,
+    43.564589,
+    -71.438068,
+    43.564589
+],
+  "geometry": {"coordinates":[-71.438068,43.564589],"type":"Point"}
+}

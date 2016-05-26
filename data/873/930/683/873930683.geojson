@@ -1,0 +1,70 @@
+{
+  "id": 873930683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249322,43.656566,-71.249322,43.656566",
+    "geom:latitude":43.656566,
+    "geom:longitude":-71.249322,
+    "iso:country":"US",
+    "sg:address":"150 Middle Road Route 109A",
+    "sg:city":"Center Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 9859",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:website":"www.tuftonborogeneralstore.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aIIAGA8uCakPlbGxP5X0f_43.656566_-71.249322@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300424,
+    "wof:geomhash":"83c7ef743098a875eae28134dad082d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873930683
+        }
+    ],
+    "wof:id":873930683,
+    "wof:lastmodified":1464300424,
+    "wof:name":"Tuftonboro General Store & Post Office",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.249322,
+    43.656566,
+    -71.249322,
+    43.656566
+],
+  "geometry": {"coordinates":[-71.24932200000001,43.656566],"type":"Point"}
+}

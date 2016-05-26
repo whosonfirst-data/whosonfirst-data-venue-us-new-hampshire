@@ -1,0 +1,70 @@
+{
+  "id": 873926263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197433,42.795792,-71.197433,42.795792",
+    "geom:latitude":42.795792,
+    "geom:longitude":-71.197433,
+    "iso:country":"US",
+    "sg:address":"1 Kimball Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2950",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "perfume"
+    ],
+    "sg:website":"http://www.perfumania.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nikm0HU2kPOYncVJrkgM5_42.795792_-71.197433@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300332,
+    "wof:geomhash":"4002fc6518ff514e7c3781f074af9faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873926263
+        }
+    ],
+    "wof:id":873926263,
+    "wof:lastmodified":1464300332,
+    "wof:name":"Perfumania",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume"
+    ]
+},
+  "bbox": [
+    -71.197433,
+    42.795792,
+    -71.197433,
+    42.795792
+],
+  "geometry": {"coordinates":[-71.197433,42.795792],"type":"Point"}
+}

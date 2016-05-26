@@ -1,0 +1,69 @@
+{
+  "id": 873894255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541297,42.928112,-71.541297,42.928112",
+    "geom:latitude":42.928112,
+    "geom:longitude":-71.541297,
+    "iso:country":"US",
+    "sg:address":"160 Hitching Post Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8780",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PJygtFe5PtQDAVbrWq04u_42.928112_-71.541297@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299709,
+    "wof:geomhash":"889b651edfa7c3cfba3c321581d9c5b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873894255
+        }
+    ],
+    "wof:id":873894255,
+    "wof:lastmodified":1464299709,
+    "wof:name":"Kerners",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -71.541297,
+    42.928112,
+    -71.541297,
+    42.928112
+],
+  "geometry": {"coordinates":[-71.541297,42.928112],"type":"Point"}
+}

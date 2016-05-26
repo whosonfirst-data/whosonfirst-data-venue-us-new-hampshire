@@ -1,0 +1,71 @@
+{
+  "id": 873685689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463343,43.535319,-71.463343,43.535319",
+    "geom:latitude":43.535319,
+    "geom:longitude":-71.463343,
+    "iso:country":"US",
+    "sg:address":"368 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3026",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AHKEtKZT0OPNQs1NXtn9H_43.535319_-71.463343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296156,
+    "wof:geomhash":"adb7464ca4581076dc459b7ae4b4cced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873685689
+        }
+    ],
+    "wof:id":873685689,
+    "wof:lastmodified":1464296156,
+    "wof:name":"Joann's Electrology",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -71.463343,
+    43.535319,
+    -71.463343,
+    43.535319
+],
+  "geometry": {"coordinates":[-71.46334299999999,43.535319],"type":"Point"}
+}

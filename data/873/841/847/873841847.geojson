@@ -1,0 +1,71 @@
+{
+  "id": 873841847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.855999,42.872201,-70.855999,42.872201",
+    "geom:latitude":42.872201,
+    "geom:longitude":-70.855999,
+    "iso:country":"US",
+    "sg:address":"33 Washington St",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 2898",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bTaxosMjTCazjvrATNynx_42.872201_-70.855999@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298597,
+    "wof:geomhash":"5d01d19537b52cf9e92fb89eec1f3319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873841847
+        }
+    ],
+    "wof:id":873841847,
+    "wof:lastmodified":1464298597,
+    "wof:name":"Oceanview Concrete",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.855999,
+    42.872201,
+    -70.855999,
+    42.872201
+],
+  "geometry": {"coordinates":[-70.855999,42.872201],"type":"Point"}
+}

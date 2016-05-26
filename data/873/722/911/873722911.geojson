@@ -1,0 +1,69 @@
+{
+  "id": 873722911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.015309,43.195162,-71.015309,43.195162",
+    "geom:latitude":43.195162,
+    "geom:longitude":-71.015309,
+    "iso:country":"US",
+    "sg:address":"150 Beauty Hill Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2806",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k42iBHJUfCQD9am1ogHQD_43.195162_-71.015309@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296686,
+    "wof:geomhash":"8a31cfd0a6e324d92859eaab16d8f424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873722911
+        }
+    ],
+    "wof:id":873722911,
+    "wof:lastmodified":1464296686,
+    "wof:name":"Juniper Hill Landscaping",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.015309,
+    43.195162,
+    -71.015309,
+    43.195162
+],
+  "geometry": {"coordinates":[-71.015309,43.195162],"type":"Point"}
+}

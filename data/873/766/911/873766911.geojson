@@ -1,0 +1,71 @@
+{
+  "id": 873766911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.703307,43.317169,-71.703307,43.317169",
+    "geom:latitude":43.317169,
+    "geom:longitude":-71.703307,
+    "iso:country":"US",
+    "sg:address":"1231 Pleasant St",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 648 2755",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QJR4FasDiW8oq9UPdg7ya_43.317169_-71.703307@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297324,
+    "wof:geomhash":"0b8c588262a6db469628b0e2487d9ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873766911
+        }
+    ],
+    "wof:id":873766911,
+    "wof:lastmodified":1464297324,
+    "wof:name":"Antifreeze Recycling-New Engl",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.703307,
+    43.317169,
+    -71.703307,
+    43.317169
+],
+  "geometry": {"coordinates":[-71.703307,43.317169],"type":"Point"}
+}

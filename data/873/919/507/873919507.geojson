@@ -1,0 +1,84 @@
+{
+  "id": 873919507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.806848,42.915889,-70.806848,42.915889",
+    "geom:latitude":42.915889,
+    "geom:longitude":-70.806848,
+    "iso:country":"US",
+    "sg:address":"367 Ocean Blvd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hampton/217772-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822667,
+        102191575,
+        404476755,
+        85633793,
+        85975133,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AT2DQwsD2LjtLqnqazqn8_42.915862_-70.807175@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300203,
+    "wof:geomhash":"81662b779cf80fd08f7e981c662926c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975133,
+            "neighbourhood_id":85822667,
+            "region_id":85688689,
+            "venue_id":873919507
+        }
+    ],
+    "wof:id":873919507,
+    "wof:lastmodified":1464300203,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85822667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -70.806848,
+    42.915889,
+    -70.806848,
+    42.915889
+],
+  "geometry": {"coordinates":[-70.806848,42.915889],"type":"Point"}
+}

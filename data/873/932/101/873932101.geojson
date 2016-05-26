@@ -1,0 +1,80 @@
+{
+  "id": 873932101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.850615,42.926171,-70.850615,42.926171",
+    "geom:latitude":42.926171,
+    "geom:longitude":-70.850615,
+    "iso:country":"US",
+    "sg:address":"160 Lafayette Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 5474",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lodging",
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ipEieQU2aDZevUvXWsVO_42.926171_-70.850615@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300448,
+    "wof:geomhash":"4e98f84a0f1282214b02e58ba3d6b468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823769,
+            "region_id":85688689,
+            "venue_id":873932101
+        }
+    ],
+    "wof:id":873932101,
+    "wof:lastmodified":1464300448,
+    "wof:name":"Tidewater Campground",
+    "wof:parent_id":85823769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging",
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -70.850615,
+    42.926171,
+    -70.850615,
+    42.926171
+],
+  "geometry": {"coordinates":[-70.850615,42.926171],"type":"Point"}
+}

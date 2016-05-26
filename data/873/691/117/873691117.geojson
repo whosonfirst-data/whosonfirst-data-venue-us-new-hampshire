@@ -1,0 +1,71 @@
+{
+  "id": 873691117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.861811,42.942268,-70.861811,42.942268",
+    "geom:latitude":42.942268,
+    "geom:longitude":-70.861811,
+    "iso:country":"US",
+    "sg:address":"278 Towle Farm Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 7735",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811635,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eVErpdyjAGwuui71tB2PA_42.942268_-70.861811@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296302,
+    "wof:geomhash":"b157945be159cb32a3e984e1ce29a194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811635,
+            "region_id":85688689,
+            "venue_id":873691117
+        }
+    ],
+    "wof:id":873691117,
+    "wof:lastmodified":1464296302,
+    "wof:name":"Kimball Finish Carpentry",
+    "wof:parent_id":85811635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.861811,
+    42.942268,
+    -70.861811,
+    42.942268
+],
+  "geometry": {"coordinates":[-70.861811,42.942268],"type":"Point"}
+}

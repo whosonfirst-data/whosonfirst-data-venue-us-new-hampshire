@@ -1,0 +1,71 @@
+{
+  "id": 873790159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.385115,43.314751,-72.385115,43.314751",
+    "geom:latitude":43.314751,
+    "geom:longitude":-72.385115,
+    "iso:country":"US",
+    "sg:address":"78 Judland Hts",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 0075",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bjmU3XsSwplYvEh3LqflQ_43.314751_-72.385115@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297642,
+    "wof:geomhash":"33d97907676f98ab5222ea9ccbc1f153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873790159
+        }
+    ],
+    "wof:id":873790159,
+    "wof:lastmodified":1464297642,
+    "wof:name":"Judd Electric LLC",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.385115,
+    43.314751,
+    -72.385115,
+    43.314751
+],
+  "geometry": {"coordinates":[-72.385115,43.314751],"type":"Point"}
+}

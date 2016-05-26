@@ -1,0 +1,71 @@
+{
+  "id": 873718963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471434,43.529917,-71.471434,43.529917",
+    "geom:latitude":43.529917,
+    "geom:longitude":-71.471434,
+    "iso:country":"US",
+    "sg:address":"719 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7474",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MvD5WLo9mDXZdTNnotHUl_43.529917_-71.471434@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296631,
+    "wof:geomhash":"1702ac66261d53b9410df35bc8c23aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873718963
+        }
+    ],
+    "wof:id":873718963,
+    "wof:lastmodified":1464296631,
+    "wof:name":"CMC Maintenance",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.471434,
+    43.529917,
+    -71.471434,
+    43.529917
+],
+  "geometry": {"coordinates":[-71.471434,43.529917],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873559227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475281,44.631893,-71.475281,44.631893",
+    "geom:latitude":44.631893,
+    "geom:longitude":-71.475281,
+    "iso:country":"US",
+    "sg:address":"83 Cloutier Dr",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2021",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3alsjgKvZr5JNoq1fpJHWe_44.631893_-71.475281@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294491,
+    "wof:geomhash":"97207e32685a97875506be1557c7e34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873559227
+        }
+    ],
+    "wof:id":873559227,
+    "wof:lastmodified":1464294491,
+    "wof:name":"George Caron Construction",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.475281,
+    44.631893,
+    -71.475281,
+    44.631893
+],
+  "geometry": {"coordinates":[-71.475281,44.631893],"type":"Point"}
+}

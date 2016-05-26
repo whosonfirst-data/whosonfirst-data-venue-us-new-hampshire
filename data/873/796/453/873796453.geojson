@@ -1,0 +1,71 @@
+{
+  "id": 873796453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509417,43.653794,-71.509417,43.653794",
+    "geom:latitude":43.653794,
+    "geom:longitude":-71.509417,
+    "iso:country":"US",
+    "sg:address":"45 Water St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8329",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LBLqL8ZKqDUQO2cMmpqw0_43.653794_-71.509417@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297731,
+    "wof:geomhash":"fdb3817301982f52eae32b563346d756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873796453
+        }
+    ],
+    "wof:id":873796453,
+    "wof:lastmodified":1464297731,
+    "wof:name":"Area Building Permit Lists",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -71.509417,
+    43.653794,
+    -71.509417,
+    43.653794
+],
+  "geometry": {"coordinates":[-71.509417,43.653794],"type":"Point"}
+}

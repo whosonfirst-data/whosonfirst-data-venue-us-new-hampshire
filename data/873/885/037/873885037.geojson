@@ -1,0 +1,71 @@
+{
+  "id": 873885037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170786,43.04024,-71.170786,43.04024",
+    "geom:latitude":43.04024,
+    "geom:longitude":-71.170786,
+    "iso:country":"US",
+    "sg:address":"53 Epping St",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 3511",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iDXvx1gyfaDijgPUGGqZZ_43.040240_-71.170786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299539,
+    "wof:geomhash":"81120ec8362a175e00fd67ce6e837b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873885037
+        }
+    ],
+    "wof:id":873885037,
+    "wof:lastmodified":1464299539,
+    "wof:name":"Sandown Auto Sales",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.170786,
+    43.04024,
+    -71.170786,
+    43.04024
+],
+  "geometry": {"coordinates":[-71.17078600000001,43.04024],"type":"Point"}
+}

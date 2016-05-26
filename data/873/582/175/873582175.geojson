@@ -1,0 +1,71 @@
+{
+  "id": 873582175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43228,43.555709,-71.43228,43.555709",
+    "geom:latitude":43.555709,
+    "geom:longitude":-71.43228,
+    "iso:country":"US",
+    "sg:address":"27 Beacon Hill Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4525",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GCGjP3oPQZwgJw377LN4S_43.555709_-71.432280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294744,
+    "wof:geomhash":"a9377091bc37d99912495fd303abfb33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873582175
+        }
+    ],
+    "wof:id":873582175,
+    "wof:lastmodified":1464294744,
+    "wof:name":"Bbs LLC",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.43228,
+    43.555709,
+    -71.43228,
+    43.555709
+],
+  "geometry": {"coordinates":[-71.43228000000001,43.555709],"type":"Point"}
+}

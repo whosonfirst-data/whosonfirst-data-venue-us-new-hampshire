@@ -1,0 +1,71 @@
+{
+  "id": 873539593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.321925,42.816474,-71.321925,42.816474",
+    "geom:latitude":42.816474,
+    "geom:longitude":-71.321925,
+    "iso:country":"US",
+    "sg:address":"12 Hawthorne Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 537 0053",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cf14k02yPZIUIvlfrBsQd_42.816474_-71.321925@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294256,
+    "wof:geomhash":"35b53bddf634919bd7fd479ccf3bb63e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873539593
+        }
+    ],
+    "wof:id":873539593,
+    "wof:lastmodified":1464294256,
+    "wof:name":"Alcon Laboratories Inc",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.321925,
+    42.816474,
+    -71.321925,
+    42.816474
+],
+  "geometry": {"coordinates":[-71.32192499999999,42.816474],"type":"Point"}
+}

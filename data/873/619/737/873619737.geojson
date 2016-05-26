@@ -1,0 +1,80 @@
+{
+  "id": 873619737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.038466,43.316455,-71.038466,43.316455",
+    "geom:latitude":43.316455,
+    "geom:longitude":-71.038466,
+    "iso:country":"US",
+    "sg:address":"157 Four Rod Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 3176",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q2LY0MtxhHhH1wVQskB7f_43.316455_-71.038466@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295248,
+    "wof:geomhash":"15e7d92eb33739889a8deda893bf4d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873619737
+        }
+    ],
+    "wof:id":873619737,
+    "wof:lastmodified":1464295248,
+    "wof:name":"Cartier Appliance Service",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.038466,
+    43.316455,
+    -71.038466,
+    43.316455
+],
+  "geometry": {"coordinates":[-71.038466,43.316455],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873834679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976562,43.306672,-70.976562,43.306672",
+    "geom:latitude":43.306672,
+    "geom:longitude":-70.976562,
+    "iso:country":"US",
+    "sg:address":"50 Wakefield St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2572",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4swbsDVns2tEOG3tM7kzFE_43.306672_-70.976562@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298437,
+    "wof:geomhash":"068288973ea76ddbda2e8d5cefa2055e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873834679
+        }
+    ],
+    "wof:id":873834679,
+    "wof:lastmodified":1464298437,
+    "wof:name":"Leducs Texaco",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -70.976562,
+    43.306672,
+    -70.976562,
+    43.306672
+],
+  "geometry": {"coordinates":[-70.976562,43.306672],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873924493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543549,42.800541,-71.543549,42.800541",
+    "geom:latitude":42.800541,
+    "geom:longitude":-71.543549,
+    "iso:country":"US",
+    "sg:address":"34 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 5570",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealers-used",
+        "rare",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42M2se0eYUYXrpBxc11y4t_42.800541_-71.543549@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300296,
+    "wof:geomhash":"81d90a534ad7c4c18130e24921b7698d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873924493
+        }
+    ],
+    "wof:id":873924493,
+    "wof:lastmodified":1464300296,
+    "wof:name":"The Book Cellar",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "rare",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.543549,
+    42.800541,
+    -71.543549,
+    42.800541
+],
+  "geometry": {"coordinates":[-71.543549,42.800541],"type":"Point"}
+}

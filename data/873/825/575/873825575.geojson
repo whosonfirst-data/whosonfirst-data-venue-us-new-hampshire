@@ -1,0 +1,71 @@
+{
+  "id": 873825575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.91537,43.077405,-70.91537,43.077405",
+    "geom:latitude":43.077405,
+    "geom:longitude":-70.91537,
+    "iso:country":"US",
+    "sg:address":"168 Bay Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 755 3787",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CvvHDjxxHqSWXlWxyOkiK_43.077405_-70.915370@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298247,
+    "wof:geomhash":"64da00c3e8949ab0ba7ee70851848324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873825575
+        }
+    ],
+    "wof:id":873825575,
+    "wof:lastmodified":1464298247,
+    "wof:name":"De Julio Electric",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.91537,
+    43.077405,
+    -70.91537,
+    43.077405
+],
+  "geometry": {"coordinates":[-70.91537,43.077405],"type":"Point"}
+}

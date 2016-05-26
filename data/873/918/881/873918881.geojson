@@ -1,0 +1,72 @@
+{
+  "id": 873918881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.920938,42.998136,-70.920938,42.998136",
+    "geom:latitude":42.998136,
+    "geom:longitude":-70.920938,
+    "iso:country":"US",
+    "sg:address":"28 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/stratham/191328-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 6304",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cz1zpfGxexb1uoGBLkUrS_42.998136_-70.920938@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"be5612ba48ab00ec796f214c99e61846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873918881
+        }
+    ],
+    "wof:id":873918881,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Burger King",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.920938,
+    42.998136,
+    -70.920938,
+    42.998136
+],
+  "geometry": {"coordinates":[-70.92093800000001,42.998136],"type":"Point"}
+}

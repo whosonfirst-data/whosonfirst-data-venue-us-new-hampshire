@@ -1,0 +1,71 @@
+{
+  "id": 873899963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497909,43.187045,-71.497909,43.187045",
+    "geom:latitude":43.187045,
+    "geom:longitude":-71.497909,
+    "iso:country":"US",
+    "sg:address":"8 Broken Bridge Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 5041",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crematorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EcRzbTq2Lq0S2UlzddSgb_43.187045_-71.497909@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299816,
+    "wof:geomhash":"3223cdb1a9c14a15892b530160393bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873899963
+        }
+    ],
+    "wof:id":873899963,
+    "wof:lastmodified":1464299816,
+    "wof:name":"Concord Crematorium",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematorium"
+    ]
+},
+  "bbox": [
+    -71.497909,
+    43.187045,
+    -71.497909,
+    43.187045
+],
+  "geometry": {"coordinates":[-71.49790900000001,43.187045],"type":"Point"}
+}

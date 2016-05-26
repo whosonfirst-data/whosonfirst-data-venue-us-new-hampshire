@@ -1,0 +1,71 @@
+{
+  "id": 873662687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.199015,42.835799,-71.199015,42.835799",
+    "geom:latitude":42.835799,
+    "geom:longitude":-71.199015,
+    "iso:country":"US",
+    "sg:address":"16 Fox Run Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 9647",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17EyhXSiqzESCaiyVD7Ujx_42.835799_-71.199015@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295727,
+    "wof:geomhash":"7db63940fe7fe9f63fc2d9c2c543afaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873662687
+        }
+    ],
+    "wof:id":873662687,
+    "wof:lastmodified":1464295727,
+    "wof:name":"Gagnon Masonry Inc",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.199015,
+    42.835799,
+    -71.199015,
+    42.835799
+],
+  "geometry": {"coordinates":[-71.199015,42.835799],"type":"Point"}
+}

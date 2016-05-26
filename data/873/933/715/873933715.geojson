@@ -1,0 +1,69 @@
+{
+  "id": 873933715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.13374,44.027495,-71.13374,44.027495",
+    "geom:latitude":44.027495,
+    "geom:longitude":-71.13374,
+    "iso:country":"US",
+    "sg:address":"2555 W Side Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2694",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PTc1vh6imGDBrr7uOHjwV_44.027495_-71.133740@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300476,
+    "wof:geomhash":"15e670fd83ae89ba33f85823239ab964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933715
+        }
+    ],
+    "wof:id":873933715,
+    "wof:lastmodified":1464300476,
+    "wof:name":"Davis Richard R",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13374,
+    44.027495,
+    -71.13374,
+    44.027495
+],
+  "geometry": {"coordinates":[-71.13374,44.027495],"type":"Point"}
+}

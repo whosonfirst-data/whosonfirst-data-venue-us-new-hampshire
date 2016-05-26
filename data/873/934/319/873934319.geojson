@@ -1,0 +1,87 @@
+{
+  "id": 873934319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.734589,43.01445,-70.734589,43.01445",
+    "geom:latitude":43.01445,
+    "geom:longitude":-70.734589,
+    "iso:country":"US",
+    "sg:address":"1381 Ocean Blvd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8923",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cottage",
+        "chalet",
+        "cabin",
+        "camps-recreational",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846523,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kkOmlRn2tYVRaydScZouv_43.014450_-70.734589@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300486,
+    "wof:geomhash":"a81436019d29dd3809467b1780a3569b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846523,
+            "region_id":85688689,
+            "venue_id":873934319
+        }
+    ],
+    "wof:id":873934319,
+    "wof:lastmodified":1464300486,
+    "wof:name":"Crown Colony Cottages",
+    "wof:parent_id":85846523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cottage",
+        "chalet",
+        "cabin",
+        "camps-recreational",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -70.734589,
+    43.01445,
+    -70.734589,
+    43.01445
+],
+  "geometry": {"coordinates":[-70.734589,43.01445],"type":"Point"}
+}

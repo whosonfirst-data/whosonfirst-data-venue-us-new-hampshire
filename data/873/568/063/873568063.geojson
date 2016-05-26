@@ -1,0 +1,69 @@
+{
+  "id": 873568063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.924258,42.996587,-70.924258,42.996587",
+    "geom:latitude":42.996587,
+    "geom:longitude":-70.924258,
+    "iso:country":"US",
+    "sg:address":"27 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 2952",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRrBCq2XOHqXJ6XcNBGJX_42.996587_-70.924258@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294586,
+    "wof:geomhash":"099dd36fa4a09e8a2d82ea5aff6116af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873568063
+        }
+    ],
+    "wof:id":873568063,
+    "wof:lastmodified":1464294586,
+    "wof:name":"Market Basket",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -70.924258,
+    42.996587,
+    -70.924258,
+    42.996587
+],
+  "geometry": {"coordinates":[-70.92425799999999,42.996587],"type":"Point"}
+}

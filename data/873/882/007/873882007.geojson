@@ -1,0 +1,69 @@
+{
+  "id": 873882007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367592,42.916049,-71.367592,42.916049",
+    "geom:latitude":42.916049,
+    "geom:longitude":-71.367592,
+    "iso:country":"US",
+    "sg:address":"162 Rockingham Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 0479",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858085,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IA94pX4NlTmyZiCpGA9qv_42.916049_-71.367592@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299470,
+    "wof:geomhash":"b7efe1c08532cc36cbc2215fe836d994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858085,
+            "region_id":85688689,
+            "venue_id":873882007
+        }
+    ],
+    "wof:id":873882007,
+    "wof:lastmodified":1464299470,
+    "wof:name":"T D's Deli",
+    "wof:parent_id":85858085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -71.367592,
+    42.916049,
+    -71.367592,
+    42.916049
+],
+  "geometry": {"coordinates":[-71.367592,42.916049],"type":"Point"}
+}

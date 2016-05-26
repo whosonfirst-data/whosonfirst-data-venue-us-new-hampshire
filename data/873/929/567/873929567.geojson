@@ -1,0 +1,83 @@
+{
+  "id": 873929567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.354134,42.839352,-72.354134,42.839352",
+    "geom:latitude":42.839352,
+    "geom:longitude":-72.354134,
+    "iso:country":"US",
+    "sg:address":"990 Keene Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 2434",
+    "sg:postcode":"03470",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://toyboxkustoms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mJxQSO0c5fzgwRz5TEYbR_42.839352_-72.354134@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300400,
+    "wof:geomhash":"f5ed1a073f9a716cb105fdf9f8eca0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873929567
+        }
+    ],
+    "wof:id":873929567,
+    "wof:lastmodified":1464300400,
+    "wof:name":"Toy Box Kustoms",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "truck",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -72.354134,
+    42.839352,
+    -72.354134,
+    42.839352
+],
+  "geometry": {"coordinates":[-72.354134,42.839352],"type":"Point"}
+}

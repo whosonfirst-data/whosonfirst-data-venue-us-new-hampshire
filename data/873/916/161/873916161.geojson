@@ -1,0 +1,73 @@
+{
+  "id": 873916161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.330498,43.040199,-71.330498,43.040199",
+    "geom:latitude":43.040199,
+    "geom:longitude":-71.330498,
+    "iso:country":"US",
+    "sg:address":"64 Pine Ridge Dr",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 0555",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor",
+        "heating",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XNBKk6iKCtQzJbVJpQUmO_43.039950_-71.330273@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300144,
+    "wof:geomhash":"2287e240294908bf562c7c68195714dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873916161
+        }
+    ],
+    "wof:id":873916161,
+    "wof:lastmodified":1464300144,
+    "wof:name":"Mechanical Concepts Inc",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "heating",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.330498,
+    43.040199,
+    -71.330498,
+    43.040199
+],
+  "geometry": {"coordinates":[-71.33049800000001,43.040199],"type":"Point"}
+}

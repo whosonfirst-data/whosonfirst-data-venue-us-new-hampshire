@@ -1,0 +1,71 @@
+{
+  "id": 873885331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.825968,43.104701,-70.825968,43.104701",
+    "geom:latitude":43.104701,
+    "geom:longitude":-70.825968,
+    "iso:country":"US",
+    "sg:address":"80 Fox Point Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9441",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836823,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nxPvJYZvXmRmU43sKtzPq_43.104701_-70.825968@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299545,
+    "wof:geomhash":"2a51c08b0a259124be74bc12ace2c5a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85836823,
+            "region_id":85688689,
+            "venue_id":873885331
+        }
+    ],
+    "wof:id":873885331,
+    "wof:lastmodified":1464299545,
+    "wof:name":"Newington Fire Department",
+    "wof:parent_id":85836823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -70.825968,
+    43.104701,
+    -70.825968,
+    43.104701
+],
+  "geometry": {"coordinates":[-70.825968,43.104701],"type":"Point"}
+}

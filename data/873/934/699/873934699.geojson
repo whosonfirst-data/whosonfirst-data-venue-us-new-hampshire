@@ -1,0 +1,110 @@
+{
+  "id": 873934699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.923418,42.998108,-70.923418,42.998108",
+    "geom:latitude":42.998108,
+    "geom:longitude":-70.923418,
+    "iso:country":"US",
+    "sg:address":"28 Portsmouth Ave Ste 10",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4019",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sound",
+        "television",
+        "theater",
+        "supply",
+        "system",
+        "equipment",
+        "radio",
+        "cellular",
+        "telecommunications-equipment",
+        "consumer",
+        "store"
+    ],
+    "sg:website":"http://www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m5D2MwzNdWpTK3EVdWm63_42.998108_-70.923418@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300492,
+    "wof:geomhash":"7621f4223d4b39a91a8e9611c326aaf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873934699
+        }
+    ],
+    "wof:id":873934699,
+    "wof:lastmodified":1464300492,
+    "wof:name":"RadioShack",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "television",
+        "theater",
+        "supply",
+        "system",
+        "equipment",
+        "radio",
+        "cellular",
+        "telecommunications-equipment",
+        "consumer",
+        "store"
+    ]
+},
+  "bbox": [
+    -70.923418,
+    42.998108,
+    -70.923418,
+    42.998108
+],
+  "geometry": {"coordinates":[-70.923418,42.998108],"type":"Point"}
+}

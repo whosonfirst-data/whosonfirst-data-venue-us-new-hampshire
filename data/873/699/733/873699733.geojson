@@ -1,0 +1,73 @@
+{
+  "id": 873699733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541967,42.802536,-71.541967,42.802536",
+    "geom:latitude":42.802536,
+    "geom:longitude":-71.541967,
+    "iso:country":"US",
+    "sg:address":"15 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 4199",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lnsFYcsEoT2MrIdNCribS_42.802536_-71.541967@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296403,
+    "wof:geomhash":"dbae57ee02d5f70f98c052e09618fc50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873699733
+        }
+    ],
+    "wof:id":873699733,
+    "wof:lastmodified":1464296403,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.541967,
+    42.802536,
+    -71.541967,
+    42.802536
+],
+  "geometry": {"coordinates":[-71.541967,42.802536],"type":"Point"}
+}

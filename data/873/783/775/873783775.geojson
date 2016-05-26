@@ -1,0 +1,75 @@
+{
+  "id": 873783775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885521,43.220109,-70.885521,43.220109",
+    "geom:latitude":43.220109,
+    "geom:longitude":-70.885521,
+    "iso:country":"US",
+    "sg:address":"900 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 7600",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BgkXfLzec7SlgRl85WAgj_43.220109_-70.885521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297541,
+    "wof:geomhash":"248dcb173b9e1414a1bb26188b995ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873783775
+        }
+    ],
+    "wof:id":873783775,
+    "wof:lastmodified":1464297541,
+    "wof:name":"Sanel Auto Parts",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.885521,
+    43.220109,
+    -70.885521,
+    43.220109
+],
+  "geometry": {"coordinates":[-70.885521,43.220109],"type":"Point"}
+}

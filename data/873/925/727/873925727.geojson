@@ -1,0 +1,79 @@
+{
+  "id": 873925727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227028,42.766499,-71.227028,42.766499",
+    "geom:latitude":42.766499,
+    "geom:longitude":-71.227028,
+    "iso:country":"US",
+    "sg:address":"99 Rockingham Park Blvd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Baby Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8518",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "children's",
+        "infant",
+        "wear"
+    ],
+    "sg:website":"http://www.kidsfootlocker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CWFucsAoqqENrFzpVkt5u_42.766499_-71.227028@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300321,
+    "wof:geomhash":"eba10238c933c3eed5f0813c55d78be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925727
+        }
+    ],
+    "wof:id":873925727,
+    "wof:lastmodified":1464300321,
+    "wof:name":"Kids Foot Locker",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "infant",
+        "wear"
+    ]
+},
+  "bbox": [
+    -71.227028,
+    42.766499,
+    -71.227028,
+    42.766499
+],
+  "geometry": {"coordinates":[-71.227028,42.766499],"type":"Point"}
+}

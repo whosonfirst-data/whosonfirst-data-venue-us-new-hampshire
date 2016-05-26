@@ -1,0 +1,75 @@
+{
+  "id": 873685263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885316,43.220093,-70.885316,43.220093",
+    "geom:latitude":43.220093,
+    "geom:longitude":-70.885316,
+    "iso:country":"US",
+    "sg:address":"903 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 4400",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KZyH21ik0cn8drmavJrhj_43.220093_-70.885316@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296144,
+    "wof:geomhash":"91c11034d9ad2de39e63d80818927a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873685263
+        }
+    ],
+    "wof:id":873685263,
+    "wof:lastmodified":1464296144,
+    "wof:name":"Unimed Supply",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "uniform"
+    ]
+},
+  "bbox": [
+    -70.885316,
+    43.220093,
+    -70.885316,
+    43.220093
+],
+  "geometry": {"coordinates":[-70.885316,43.220093],"type":"Point"}
+}

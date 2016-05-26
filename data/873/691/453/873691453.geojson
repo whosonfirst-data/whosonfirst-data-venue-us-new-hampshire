@@ -1,0 +1,73 @@
+{
+  "id": 873691453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454702,43.536449,-71.454702,43.536449",
+    "geom:latitude":43.536449,
+    "geom:longitude":-71.454702,
+    "iso:country":"US",
+    "sg:address":"135 Morrill St",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6628",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zhSJSAd3l1B9xORzxTR1o_43.536449_-71.454702@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296309,
+    "wof:geomhash":"b2e206fd719d0ed1453e8d0aa36fa43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873691453
+        }
+    ],
+    "wof:id":873691453,
+    "wof:lastmodified":1464296309,
+    "wof:name":"Brulotte Builders",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.454702,
+    43.536449,
+    -71.454702,
+    43.536449
+],
+  "geometry": {"coordinates":[-71.454702,43.536449],"type":"Point"}
+}

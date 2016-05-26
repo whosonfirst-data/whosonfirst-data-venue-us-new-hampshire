@@ -1,0 +1,71 @@
+{
+  "id": 873607785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.664273,43.038517,-71.664273,43.038517",
+    "geom:latitude":43.038517,
+    "geom:longitude":-71.664273,
+    "iso:country":"US",
+    "sg:address":"174 S Stark Hwy",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 1003",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844859,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e3y0Z7RyH2Cst4iC8Zwro_43.038517_-71.664273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295094,
+    "wof:geomhash":"fde3500cb5e46a4dd53c3b18e98b76c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85844859,
+            "region_id":85688689,
+            "venue_id":873607785
+        }
+    ],
+    "wof:id":873607785,
+    "wof:lastmodified":1464295094,
+    "wof:name":"Hammar Electric",
+    "wof:parent_id":85844859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.664273,
+    43.038517,
+    -71.664273,
+    43.038517
+],
+  "geometry": {"coordinates":[-71.66427299999999,43.038517],"type":"Point"}
+}

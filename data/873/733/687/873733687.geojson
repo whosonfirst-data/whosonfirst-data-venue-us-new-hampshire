@@ -1,0 +1,71 @@
+{
+  "id": 873733687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.731212,43.024178,-71.731212,43.024178",
+    "geom:latitude":43.024178,
+    "geom:longitude":-71.731212,
+    "iso:country":"US",
+    "sg:address":"71 Old Francestown Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 0023",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mlqL6y3udK2lF0GP46Aw2_43.024178_-71.731212@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296823,
+    "wof:geomhash":"a919a8d0ba752130251b24b0c7b0039d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873733687
+        }
+    ],
+    "wof:id":873733687,
+    "wof:lastmodified":1464296823,
+    "wof:name":"Charjess Construction",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.731212,
+    43.024178,
+    -71.731212,
+    43.024178
+],
+  "geometry": {"coordinates":[-71.731212,43.024178],"type":"Point"}
+}

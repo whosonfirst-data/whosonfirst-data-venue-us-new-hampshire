@@ -1,0 +1,71 @@
+{
+  "id": 873648943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567758,44.494758,-71.567758,44.494758",
+    "geom:latitude":44.494758,
+    "geom:longitude":-71.567758,
+    "iso:country":"US",
+    "sg:address":"3 Cemetery St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4005",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pCgeDQofdzt2wOf4VJD4k_44.494758_-71.567758@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295576,
+    "wof:geomhash":"b26901f9317e6eb1acc89eda5ea98a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873648943
+        }
+    ],
+    "wof:id":873648943,
+    "wof:lastmodified":1464295576,
+    "wof:name":"Lancaster Day Care Ctr",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.567758,
+    44.494758,
+    -71.567758,
+    44.494758
+],
+  "geometry": {"coordinates":[-71.567758,44.494758],"type":"Point"}
+}

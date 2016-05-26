@@ -1,0 +1,71 @@
+{
+  "id": 873620751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.787886,44.304452,-71.787886,44.304452",
+    "geom:latitude":44.304452,
+    "geom:longitude":-71.787886,
+    "iso:country":"US",
+    "sg:address":"480 South St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 4056",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PBvoRjChN2h4AYqFURrgm_44.304452_-71.787886@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295258,
+    "wof:geomhash":"84eceac29af6b0e5c006e974a03b2fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873620751
+        }
+    ],
+    "wof:id":873620751,
+    "wof:lastmodified":1464295258,
+    "wof:name":"Nute Excavating Inc",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.787886,
+    44.304452,
+    -71.787886,
+    44.304452
+],
+  "geometry": {"coordinates":[-71.787886,44.304452],"type":"Point"}
+}

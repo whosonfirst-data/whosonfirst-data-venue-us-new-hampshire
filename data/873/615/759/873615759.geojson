@@ -1,0 +1,75 @@
+{
+  "id": 873615759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.810296,43.190311,-71.810296,43.190311",
+    "geom:latitude":43.190311,
+    "geom:longitude":-71.810296,
+    "iso:country":"US",
+    "sg:address":"33 Foster Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7114",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MIwZA7GXgQQ3cc1UZilfh_43.190311_-71.810296@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295203,
+    "wof:geomhash":"28eef40aa4137672bae51547400a1ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873615759
+        }
+    ],
+    "wof:id":873615759,
+    "wof:lastmodified":1464295203,
+    "wof:name":"M E C Trucking",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.810296,
+    43.190311,
+    -71.810296,
+    43.190311
+],
+  "geometry": {"coordinates":[-71.81029599999999,43.190311],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873881609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054912,44.261103,-72.054912,44.261103",
+    "geom:latitude":44.261103,
+    "geom:longitude":-72.054912,
+    "iso:country":"US",
+    "sg:address":"495 Main St",
+    "sg:city":"Haverhill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 634 4400",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cQhAgJUIKR9sl9yFxvIYK_44.261103_-72.054912@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299462,
+    "wof:geomhash":"3687863b1d385da1673d391033472179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873881609
+        }
+    ],
+    "wof:id":873881609,
+    "wof:lastmodified":1464299462,
+    "wof:name":"Ferrick Brothers Moving Co",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -72.054912,
+    44.261103,
+    -72.054912,
+    44.261103
+],
+  "geometry": {"coordinates":[-72.054912,44.261103],"type":"Point"}
+}

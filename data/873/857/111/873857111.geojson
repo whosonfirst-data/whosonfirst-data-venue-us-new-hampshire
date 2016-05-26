@@ -1,0 +1,69 @@
+{
+  "id": 873857111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.589869,42.811671,-71.589869,42.811671",
+    "geom:latitude":42.811671,
+    "geom:longitude":-71.589869,
+    "iso:country":"US",
+    "sg:address":"67 State Rte 101A",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 1199",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fjiJfySRsIvuZL9NDrTEN_42.811671_-71.589869@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298955,
+    "wof:geomhash":"159192b48d50fff5df45ad1a5732c8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873857111
+        }
+    ],
+    "wof:id":873857111,
+    "wof:lastmodified":1464298955,
+    "wof:name":"Kidds Inn",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.589869,
+    42.811671,
+    -71.589869,
+    42.811671
+],
+  "geometry": {"coordinates":[-71.58986899999999,42.811671],"type":"Point"}
+}

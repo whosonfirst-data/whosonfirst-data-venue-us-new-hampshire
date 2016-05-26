@@ -1,0 +1,106 @@
+{
+  "id": 873921271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440063,42.766426,-71.440063,42.766426",
+    "geom:latitude":42.766426,
+    "geom:longitude":-71.440063,
+    "iso:country":"US",
+    "sg:address":"12 Derry St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 9532",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "attorney",
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "renter"
+    ],
+    "sg:website":"http://www.frenchinsagency.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07VuW0VscRtlbHCpMi2WHk_42.766426_-71.440063@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300232,
+    "wof:geomhash":"6a262151e2dd6401125e649c00dc8dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873921271
+        }
+    ],
+    "wof:id":873921271,
+    "wof:lastmodified":1464300232,
+    "wof:name":"French Insurance Agency",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "renter"
+    ]
+},
+  "bbox": [
+    -71.440063,
+    42.766426,
+    -71.440063,
+    42.766426
+],
+  "geometry": {"coordinates":[-71.44006299999999,42.766426],"type":"Point"}
+}

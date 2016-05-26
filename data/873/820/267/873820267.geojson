@@ -1,0 +1,69 @@
+{
+  "id": 873820267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770057,43.151883,-71.770057,43.151883",
+    "geom:latitude":43.151883,
+    "geom:longitude":-71.770057,
+    "iso:country":"US",
+    "sg:address":"69 Weare Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7604",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DO1YXjc9hLsQeJsmf87EI_43.151883_-71.770057@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298125,
+    "wof:geomhash":"f10d7a3f457f98cdf0135bea3f9f514d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873820267
+        }
+    ],
+    "wof:id":873820267,
+    "wof:lastmodified":1464298125,
+    "wof:name":"Henniker Transfer Station",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.770057,
+    43.151883,
+    -71.770057,
+    43.151883
+],
+  "geometry": {"coordinates":[-71.77005699999999,43.151883],"type":"Point"}
+}

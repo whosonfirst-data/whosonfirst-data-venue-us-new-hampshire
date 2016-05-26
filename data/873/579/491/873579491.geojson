@@ -1,0 +1,71 @@
+{
+  "id": 873579491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.952931,43.039932,-70.952931,43.039932",
+    "geom:latitude":43.039932,
+    "geom:longitude":-70.952931,
+    "iso:country":"US",
+    "sg:address":"28 Old Lee Rd",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 9504",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7chPxNIyAhxdHyqHMFSr9H_43.039932_-70.952931@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294711,
+    "wof:geomhash":"41880d310d1163135e44f15b0c846a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873579491
+        }
+    ],
+    "wof:id":873579491,
+    "wof:lastmodified":1464294711,
+    "wof:name":"Sandbox Excavating",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.952931,
+    43.039932,
+    -70.952931,
+    43.039932
+],
+  "geometry": {"coordinates":[-70.95293100000001,43.039932],"type":"Point"}
+}

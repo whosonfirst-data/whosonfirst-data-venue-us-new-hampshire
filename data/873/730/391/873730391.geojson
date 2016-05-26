@@ -1,0 +1,71 @@
+{
+  "id": 873730391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118036,43.014289,-71.118036,43.014289",
+    "geom:latitude":43.014289,
+    "geom:longitude":-71.118036,
+    "iso:country":"US",
+    "sg:address":"442 Beede Hill Rd",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8485",
+    "sg:postcode":"03044",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ulVL0vCfFEbEGGxLxATT_43.014289_-71.118036@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296784,
+    "wof:geomhash":"de57ed296113160b75630cef7c9415e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873730391
+        }
+    ],
+    "wof:id":873730391,
+    "wof:lastmodified":1464296784,
+    "wof:name":"Steve Russell",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.118036,
+    43.014289,
+    -71.118036,
+    43.014289
+],
+  "geometry": {"coordinates":[-71.118036,43.014289],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873820891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469854,43.527808,-71.469854,43.527808",
+    "geom:latitude":43.527808,
+    "geom:longitude":-71.469854,
+    "iso:country":"US",
+    "sg:address":"587 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 3000",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IrRTaL8gX6fXBSQKTiVgX_43.527808_-71.469854@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298136,
+    "wof:geomhash":"5311c0bc1c390d01fb4b51761582fb35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873820891
+        }
+    ],
+    "wof:id":873820891,
+    "wof:lastmodified":1464298136,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.469854,
+    43.527808,
+    -71.469854,
+    43.527808
+],
+  "geometry": {"coordinates":[-71.469854,43.527808],"type":"Point"}
+}

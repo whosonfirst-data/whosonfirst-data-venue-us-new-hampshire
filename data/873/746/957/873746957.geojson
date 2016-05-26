@@ -1,0 +1,71 @@
+{
+  "id": 873746957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.217697,42.765851,-71.217697,42.765851",
+    "geom:latitude":42.765851,
+    "geom:longitude":-71.217697,
+    "iso:country":"US",
+    "sg:address":"193 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 3565",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P1K45cHZw2zGblo0vXYF8_42.765851_-71.217697@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297037,
+    "wof:geomhash":"b460ff1c38d4cd830933a3c879dea8b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873746957
+        }
+    ],
+    "wof:id":873746957,
+    "wof:lastmodified":1464297037,
+    "wof:name":"Salem Animal Hospital PA",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.217697,
+    42.765851,
+    -71.217697,
+    42.765851
+],
+  "geometry": {"coordinates":[-71.217697,42.765851],"type":"Point"}
+}

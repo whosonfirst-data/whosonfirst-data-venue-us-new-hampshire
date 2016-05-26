@@ -1,0 +1,71 @@
+{
+  "id": 873808679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560591,44.367597,-71.560591,44.367597",
+    "geom:latitude":44.367597,
+    "geom:longitude":-71.560591,
+    "iso:country":"US",
+    "sg:address":"20 Airport Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 3103",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824449,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hXk5dCcBE6ZBY6qTxREC9_44.367597_-71.560591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297903,
+    "wof:geomhash":"1337fa0fdd9b705cedc5991e7613f421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85824449,
+            "region_id":85688689,
+            "venue_id":873808679
+        }
+    ],
+    "wof:id":873808679,
+    "wof:lastmodified":1464297903,
+    "wof:name":"Roll-In Aero",
+    "wof:parent_id":85824449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.560591,
+    44.367597,
+    -71.560591,
+    44.367597
+],
+  "geometry": {"coordinates":[-71.560591,44.367597],"type":"Point"}
+}

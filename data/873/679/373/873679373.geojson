@@ -1,0 +1,71 @@
+{
+  "id": 873679373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580786,43.265986,-71.580786,43.265986",
+    "geom:latitude":43.265986,
+    "geom:longitude":-71.580786,
+    "iso:country":"US",
+    "sg:address":"64 Snow St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4421",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QB427STsX0SzThO6LVfTi_43.265986_-71.580786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295977,
+    "wof:geomhash":"293f01f32195431374713bd9a3e14117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873679373
+        }
+    ],
+    "wof:id":873679373,
+    "wof:lastmodified":1464295977,
+    "wof:name":"John S Milliken",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -71.580786,
+    43.265986,
+    -71.580786,
+    43.265986
+],
+  "geometry": {"coordinates":[-71.580786,43.265986],"type":"Point"}
+}

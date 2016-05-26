@@ -1,0 +1,73 @@
+{
+  "id": 873705319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47572,43.533378,-71.47572,43.533378",
+    "geom:latitude":43.533378,
+    "geom:longitude":-71.47572,
+    "iso:country":"US",
+    "sg:address":"95 Dartmouth St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8461",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yN6TlUGzM3F9zKFMjrvXz_43.533378_-71.475720@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296461,
+    "wof:geomhash":"9ab525bb4541381984314eab81a1ec1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873705319
+        }
+    ],
+    "wof:id":873705319,
+    "wof:lastmodified":1464296461,
+    "wof:name":"Little League Baseball Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -71.47572,
+    43.533378,
+    -71.47572,
+    43.533378
+],
+  "geometry": {"coordinates":[-71.47572,43.533378],"type":"Point"}
+}

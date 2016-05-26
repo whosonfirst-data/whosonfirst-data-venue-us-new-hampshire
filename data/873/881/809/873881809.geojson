@@ -1,0 +1,71 @@
+{
+  "id": 873881809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499014,42.960994,-71.499014,42.960994",
+    "geom:latitude":42.960994,
+    "geom:longitude":-71.499014,
+    "iso:country":"US",
+    "sg:address":"1 Wayside Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 8487",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CsL354kgnz1L71SBTO6Kc_42.960994_-71.499014@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299466,
+    "wof:geomhash":"2bcb9329f104a5c82764ddd42f42391c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873881809
+        }
+    ],
+    "wof:id":873881809,
+    "wof:lastmodified":1464299466,
+    "wof:name":"Home Safety Locksmith",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.499014,
+    42.960994,
+    -71.499014,
+    42.960994
+],
+  "geometry": {"coordinates":[-71.499014,42.960994],"type":"Point"}
+}

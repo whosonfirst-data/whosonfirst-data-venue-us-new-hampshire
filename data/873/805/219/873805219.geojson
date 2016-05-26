@@ -1,0 +1,73 @@
+{
+  "id": 873805219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.287582,42.924272,-71.287582,42.924272",
+    "geom:latitude":42.924272,
+    "geom:longitude":-71.287582,
+    "iso:country":"US",
+    "sg:address":"38 Old Auburn Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 6171",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42gfOHRt6XT1WrpDdljGip_42.924272_-71.287582@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297838,
+    "wof:geomhash":"d511c06e83b6ff49460b0cb2280bd04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873805219
+        }
+    ],
+    "wof:id":873805219,
+    "wof:lastmodified":1464297838,
+    "wof:name":"Larson Trucking Inc",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.287582,
+    42.924272,
+    -71.287582,
+    42.924272
+],
+  "geometry": {"coordinates":[-71.287582,42.924272],"type":"Point"}
+}

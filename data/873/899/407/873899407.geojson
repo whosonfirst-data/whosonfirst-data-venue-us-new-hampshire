@@ -1,0 +1,69 @@
+{
+  "id": 873899407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.704202,42.84026,-71.704202,42.84026",
+    "geom:latitude":42.84026,
+    "geom:longitude":-71.704202,
+    "iso:country":"US",
+    "sg:address":"10 Jones Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 7600",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AC6mgPr5WjJMMIDtMNauc_42.840260_-71.704202@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299807,
+    "wof:geomhash":"b17d406777b42cd9819b989481ed04ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873899407
+        }
+    ],
+    "wof:id":873899407,
+    "wof:lastmodified":1464299807,
+    "wof:name":"Primary Care Of Milford",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.704202,
+    42.84026,
+    -71.704202,
+    42.84026
+],
+  "geometry": {"coordinates":[-71.704202,42.84026],"type":"Point"}
+}

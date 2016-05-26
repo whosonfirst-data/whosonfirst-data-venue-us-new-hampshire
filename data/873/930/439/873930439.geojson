@@ -1,0 +1,71 @@
+{
+  "id": 873930439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.189171,42.823891,-71.189171,42.823891",
+    "geom:latitude":42.823891,
+    "geom:longitude":-71.189171,
+    "iso:country":"US",
+    "sg:address":"100 Shannon Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4043",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "removal",
+        "dent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qUjyLv7TwT5ln0ma2sM9P_42.823891_-71.189171@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300419,
+    "wof:geomhash":"3fec196c39ac6bf68789a8b20828fb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873930439
+        }
+    ],
+    "wof:id":873930439,
+    "wof:lastmodified":1464300419,
+    "wof:name":"S & A Battis",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "removal",
+        "dent"
+    ]
+},
+  "bbox": [
+    -71.189171,
+    42.823891,
+    -71.189171,
+    42.823891
+],
+  "geometry": {"coordinates":[-71.189171,42.823891],"type":"Point"}
+}

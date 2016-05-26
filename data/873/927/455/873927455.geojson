@@ -1,0 +1,71 @@
+{
+  "id": 873927455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.256942,43.379471,-71.256942,43.379471",
+    "geom:latitude":43.379471,
+    "geom:longitude":-71.256942,
+    "iso:country":"US",
+    "sg:address":"2 Ripple Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 1700",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IpBggYH8s263wzAgODGbq_43.379471_-71.256942@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300354,
+    "wof:geomhash":"bfb8fbc421836d3a4d8fd50b01378d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873927455
+        }
+    ],
+    "wof:id":873927455,
+    "wof:lastmodified":1464300354,
+    "wof:name":"Shakes To Shingles",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -71.256942,
+    43.379471,
+    -71.256942,
+    43.379471
+],
+  "geometry": {"coordinates":[-71.256942,43.379471],"type":"Point"}
+}

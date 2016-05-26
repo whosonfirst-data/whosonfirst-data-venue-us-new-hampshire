@@ -1,0 +1,110 @@
+{
+  "id": 873919401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.309239,43.64526,-72.309239,43.64526",
+    "geom:latitude":43.64526,
+    "geom:longitude":-72.309239,
+    "iso:country":"US",
+    "sg:address":"12 Main St",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/lebanon/149282-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 8302",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23CxfN2uu8wbBSGSonflQm_43.644880_-72.309405@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"842ab900042d554072ea5e6743340414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873919401
+        }
+    ],
+    "wof:id":873919401,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -72.309239,
+    43.64526,
+    -72.309239,
+    43.64526
+],
+  "geometry": {"coordinates":[-72.30923900000001,43.64526],"type":"Point"}
+}

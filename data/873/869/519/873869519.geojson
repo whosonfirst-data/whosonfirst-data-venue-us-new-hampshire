@@ -1,0 +1,73 @@
+{
+  "id": 873869519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452132,43.56141,-71.452132,43.56141",
+    "geom:latitude":43.56141,
+    "geom:longitude":-71.452132,
+    "iso:country":"US",
+    "sg:address":"1266 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8387",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RVIl5TIATtuY7DeoRPZck_43.561410_-71.452132@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299216,
+    "wof:geomhash":"cf11468474e4b1df0ec8adbeeee8fed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873869519
+        }
+    ],
+    "wof:id":873869519,
+    "wof:lastmodified":1464299216,
+    "wof:name":"Lakes Region Veterinary Hosp",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.452132,
+    43.56141,
+    -71.452132,
+    43.56141
+],
+  "geometry": {"coordinates":[-71.45213200000001,43.56141],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873609091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475773,42.859516,-71.475773,42.859516",
+    "geom:latitude":42.859516,
+    "geom:longitude":-71.475773,
+    "iso:country":"US",
+    "sg:address":"349 Charles Bancroft Hwy",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 498 9061",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25Jai5FSOlu3TUMN9UJKOc_42.859516_-71.475773@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295125,
+    "wof:geomhash":"609e0f78ff8f40cb124efc28612386d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873609091
+        }
+    ],
+    "wof:id":873609091,
+    "wof:lastmodified":1464295125,
+    "wof:name":"Randy Fogarty",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.475773,
+    42.859516,
+    -71.475773,
+    42.859516
+],
+  "geometry": {"coordinates":[-71.475773,42.859516],"type":"Point"}
+}

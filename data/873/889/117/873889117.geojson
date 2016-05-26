@@ -1,0 +1,71 @@
+{
+  "id": 873889117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.591098,42.858237,-71.591098,42.858237",
+    "geom:latitude":42.858237,
+    "geom:longitude":-71.591098,
+    "iso:country":"US",
+    "sg:address":"55 Spring Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 3717",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40T8519sMjDgiFvF6SxZgq_42.858237_-71.591098@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299610,
+    "wof:geomhash":"a26a3bfcc22192a2f32362c2595ede5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873889117
+        }
+    ],
+    "wof:id":873889117,
+    "wof:lastmodified":1464299610,
+    "wof:name":"Fox Hill Remodeling",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.591098,
+    42.858237,
+    -71.591098,
+    42.858237
+],
+  "geometry": {"coordinates":[-71.591098,42.858237],"type":"Point"}
+}

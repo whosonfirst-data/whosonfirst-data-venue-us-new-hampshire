@@ -1,0 +1,69 @@
+{
+  "id": 873865777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939645,43.070721,-70.939645,43.070721",
+    "geom:latitude":43.070721,
+    "geom:longitude":-70.939645,
+    "iso:country":"US",
+    "sg:address":"78 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 6477",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QP3yInBWN8SZ3B80RYdED_43.070721_-70.939645@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299152,
+    "wof:geomhash":"bc01b86d079407c6ceca0946e65e1247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873865777
+        }
+    ],
+    "wof:id":873865777,
+    "wof:lastmodified":1464299152,
+    "wof:name":"Newmarket Irving Mainway Deli",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.939645,
+    43.070721,
+    -70.939645,
+    43.070721
+],
+  "geometry": {"coordinates":[-70.939645,43.070721],"type":"Point"}
+}

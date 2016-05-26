@@ -1,0 +1,71 @@
+{
+  "id": 873589223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.731127,43.599916,-71.731127,43.599916",
+    "geom:latitude":43.599916,
+    "geom:longitude":-71.731127,
+    "iso:country":"US",
+    "sg:address":"15 Sugar Hill Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 0242",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QGKJZap1gktS2SbA6lbRh_43.599916_-71.731127@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294820,
+    "wof:geomhash":"00cf3424e298b809a78a803eae817731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873589223
+        }
+    ],
+    "wof:id":873589223,
+    "wof:lastmodified":1464294820,
+    "wof:name":"S E Lutazzi",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.731127,
+    43.599916,
+    -71.731127,
+    43.599916
+],
+  "geometry": {"coordinates":[-71.731127,43.599916],"type":"Point"}
+}

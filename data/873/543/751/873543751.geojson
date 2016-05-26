@@ -1,0 +1,71 @@
+{
+  "id": 873543751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503984,43.671873,-71.503984,43.671873",
+    "geom:latitude":43.671873,
+    "geom:longitude":-71.503984,
+    "iso:country":"US",
+    "sg:address":"405 Daniel Webster Hwy",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4444",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816433,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pY7k0gUJJGAsYoFrGHb7C_43.671873_-71.503984@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294299,
+    "wof:geomhash":"29f08fbaf2c14208185fc4252f529aa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85816433,
+            "region_id":85688689,
+            "venue_id":873543751
+        }
+    ],
+    "wof:id":873543751,
+    "wof:lastmodified":1464294299,
+    "wof:name":"Ambrose Brothers Inc",
+    "wof:parent_id":85816433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.503984,
+    43.671873,
+    -71.503984,
+    43.671873
+],
+  "geometry": {"coordinates":[-71.503984,43.671873],"type":"Point"}
+}

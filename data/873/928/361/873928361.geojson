@@ -1,0 +1,80 @@
+{
+  "id": 873928361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604401,43.288601,-71.604401,43.288601",
+    "geom:latitude":43.288601,
+    "geom:longitude":-71.604401,
+    "iso:country":"US",
+    "sg:address":"201 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 5615",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mbMPC7q4OnTbjNskxbw35_43.288601_-71.604401@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300376,
+    "wof:geomhash":"7693f9ef39114e42199a42c8c400da8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928361
+        }
+    ],
+    "wof:id":873928361,
+    "wof:lastmodified":1464300376,
+    "wof:name":"Taylor Brad DVM",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.604401,
+    43.288601,
+    -71.604401,
+    43.288601
+],
+  "geometry": {"coordinates":[-71.604401,43.288601],"type":"Point"}
+}

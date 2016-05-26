@@ -1,0 +1,69 @@
+{
+  "id": 873932561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.163924,43.930099,-71.163924,43.930099",
+    "geom:latitude":43.930099,
+    "geom:longitude":-71.163924,
+    "iso:country":"US",
+    "sg:address":"39 Common Ln",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 0968",
+    "sg:postcode":"03849",
+    "sg:province":"NH",
+    "sg:tags":[
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50pkaKHNH0d16P9z4DpziB_43.930099_-71.163924@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300456,
+    "wof:geomhash":"f2f0271e69e33e16963892c501c8f7b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873932561
+        }
+    ],
+    "wof:id":873932561,
+    "wof:lastmodified":1464300456,
+    "wof:name":"Adidas Retail Outlet",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outlet"
+    ]
+},
+  "bbox": [
+    -71.163924,
+    43.930099,
+    -71.163924,
+    43.930099
+],
+  "geometry": {"coordinates":[-71.16392399999999,43.930099],"type":"Point"}
+}

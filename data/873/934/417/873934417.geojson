@@ -1,0 +1,104 @@
+{
+  "id": 873934417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.866009,42.903251,-70.866009,42.903251",
+    "geom:latitude":42.903251,
+    "geom:longitude":-70.866009,
+    "iso:country":"US",
+    "sg:address":"48 B St",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Fishing",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 3461",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tour",
+        "promoter",
+        "fishing-charters",
+        "boat-rental",
+        "tours-operators",
+        "party",
+        "guide",
+        "sightseeing"
+    ],
+    "sg:website":"http://www.eastmansdocks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qWLoGuDkhYremPrnmwWlR_42.903251_-70.866009@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300488,
+    "wof:geomhash":"b7a6a8e5f98659f77ff9b19d5ea16797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873934417
+        }
+    ],
+    "wof:id":873934417,
+    "wof:lastmodified":1464300488,
+    "wof:name":"Eastman's Fishing Fleet",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "promoter",
+        "fishing-charters",
+        "boat-rental",
+        "tours-operators",
+        "party",
+        "guide",
+        "sightseeing"
+    ]
+},
+  "bbox": [
+    -70.866009,
+    42.903251,
+    -70.866009,
+    42.903251
+],
+  "geometry": {"coordinates":[-70.86600900000001,42.903251],"type":"Point"}
+}

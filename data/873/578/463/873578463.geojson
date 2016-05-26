@@ -1,0 +1,71 @@
+{
+  "id": 873578463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.05285,44.258268,-72.05285,44.258268",
+    "geom:latitude":44.258268,
+    "geom:longitude":-72.05285,
+    "iso:country":"US",
+    "sg:address":"106 Woodsville Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2130",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KbkStldCg6AdWZqD2sOtx_44.258268_-72.052850@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294699,
+    "wof:geomhash":"2d3ae5028043ff7cfa42766764ff864f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873578463
+        }
+    ],
+    "wof:id":873578463,
+    "wof:lastmodified":1464294699,
+    "wof:name":"Monroe Tax Service",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -72.05285,
+    44.258268,
+    -72.05285,
+    44.258268
+],
+  "geometry": {"coordinates":[-72.05285000000001,44.258268],"type":"Point"}
+}

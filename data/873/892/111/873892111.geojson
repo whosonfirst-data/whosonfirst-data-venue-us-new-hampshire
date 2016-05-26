@@ -1,0 +1,86 @@
+{
+  "id": 873892111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472458,42.72717,-71.472458,42.72717",
+    "geom:latitude":42.72717,
+    "geom:longitude":-71.472458,
+    "iso:country":"US",
+    "sg:address":"12 Jensen St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 7266",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manufacturer",
+        "metal",
+        "center",
+        "representative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75LEItvwHm6wVxDRGvjk19_42.727170_-71.472458@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299668,
+    "wof:geomhash":"aa6142d97f9e16cd513f3752ad6f160d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873892111
+        }
+    ],
+    "wof:id":873892111,
+    "wof:lastmodified":1464299668,
+    "wof:name":"Tiger Sales Associates",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "metal",
+        "center",
+        "representative"
+    ]
+},
+  "bbox": [
+    -71.472458,
+    42.72717,
+    -71.472458,
+    42.72717
+],
+  "geometry": {"coordinates":[-71.472458,42.72717],"type":"Point"}
+}

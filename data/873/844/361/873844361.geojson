@@ -1,0 +1,71 @@
+{
+  "id": 873844361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.228352,44.386975,-71.228352,44.386975",
+    "geom:latitude":44.386975,
+    "geom:longitude":-71.228352,
+    "iso:country":"US",
+    "sg:address":"180 Lancaster Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3375",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RAe89DjHCcDJo22kjHK4F_44.386975_-71.228352@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298668,
+    "wof:geomhash":"3a59628573dffff0c19f676fb946e3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873844361
+        }
+    ],
+    "wof:id":873844361,
+    "wof:lastmodified":1464298668,
+    "wof:name":"Mountain Tire Corp",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.228352,
+    44.386975,
+    -71.228352,
+    44.386975
+],
+  "geometry": {"coordinates":[-71.228352,44.386975],"type":"Point"}
+}

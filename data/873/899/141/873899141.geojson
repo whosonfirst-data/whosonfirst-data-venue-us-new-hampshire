@@ -1,0 +1,73 @@
+{
+  "id": 873899141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.064933,43.507769,-72.064933,43.507769",
+    "geom:latitude":43.507769,
+    "geom:longitude":-72.064933,
+    "iso:country":"US",
+    "sg:address":"2637 George Hill Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 9776",
+    "sg:postcode":"03284",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46EZBw1u5G85dCRtJfao9Z_43.507769_-72.064933@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299802,
+    "wof:geomhash":"bc02597228b551abf749bd136f26b930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873899141
+        }
+    ],
+    "wof:id":873899141,
+    "wof:lastmodified":1464299802,
+    "wof:name":"Brookside Storage",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.064933,
+    43.507769,
+    -72.064933,
+    43.507769
+],
+  "geometry": {"coordinates":[-72.064933,43.507769],"type":"Point"}
+}

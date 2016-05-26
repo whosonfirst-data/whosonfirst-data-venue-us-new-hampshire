@@ -1,0 +1,82 @@
+{
+  "id": 873935207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.216841,43.585353,-71.216841,43.585353",
+    "geom:latitude":43.585353,
+    "geom:longitude":-71.216841,
+    "iso:country":"US",
+    "sg:address":"5 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 2997",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NYspBN2wHtlsF6fqjjooO_43.585353_-71.216841@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300504,
+    "wof:geomhash":"2320fe413c43f94ec37362017ba7160e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935207
+        }
+    ],
+    "wof:id":873935207,
+    "wof:lastmodified":1464300504,
+    "wof:name":"The Wolfeborough Diner",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "diner"
+    ]
+},
+  "bbox": [
+    -71.216841,
+    43.585353,
+    -71.216841,
+    43.585353
+],
+  "geometry": {"coordinates":[-71.216841,43.585353],"type":"Point"}
+}

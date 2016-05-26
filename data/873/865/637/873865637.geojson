@@ -1,0 +1,71 @@
+{
+  "id": 873865637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.230843,42.783915,-71.230843,42.783915",
+    "geom:latitude":42.783915,
+    "geom:longitude":-71.230843,
+    "iso:country":"US",
+    "sg:address":"20 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 446 4462",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TrMYOuF27dRAbVphiDsBV_42.783915_-71.230843@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299149,
+    "wof:geomhash":"389f943c45c9b7b7566708b6b5fa8450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873865637
+        }
+    ],
+    "wof:id":873865637,
+    "wof:lastmodified":1464299149,
+    "wof:name":"Fleet",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.230843,
+    42.783915,
+    -71.230843,
+    42.783915
+],
+  "geometry": {"coordinates":[-71.23084299999999,42.783915],"type":"Point"}
+}

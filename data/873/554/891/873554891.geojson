@@ -1,0 +1,73 @@
+{
+  "id": 873554891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.611828,44.431494,-71.611828,44.431494",
+    "geom:latitude":44.431494,
+    "geom:longitude":-71.611828,
+    "iso:country":"US",
+    "sg:address":"224 Martin Meadow Pond Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2637",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7msY0byuU3NBDfjvOuvMcN_44.431494_-71.611828@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294434,
+    "wof:geomhash":"7474acd63781c371975959e7c49d0de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873554891
+        }
+    ],
+    "wof:id":873554891,
+    "wof:lastmodified":1464294434,
+    "wof:name":"Kc's Meadow Kennel",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.611828,
+    44.431494,
+    -71.611828,
+    44.431494
+],
+  "geometry": {"coordinates":[-71.611828,44.431494],"type":"Point"}
+}

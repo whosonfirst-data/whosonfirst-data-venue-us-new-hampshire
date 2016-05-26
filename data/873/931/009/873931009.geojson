@@ -1,0 +1,71 @@
+{
+  "id": 873931009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.117897,43.9772,-71.117897,43.9772",
+    "geom:latitude":43.9772,
+    "geom:longitude":-71.117897,
+    "iso:country":"US",
+    "sg:address":"30 Pleasant St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2239",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HHGypOT9Gakz3D114ySK4_43.977200_-71.117897@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300430,
+    "wof:geomhash":"e09a176cb2819cd104149e210f769d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931009
+        }
+    ],
+    "wof:id":873931009,
+    "wof:lastmodified":1464300430,
+    "wof:name":"Johnson Diane W",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.117897,
+    43.9772,
+    -71.117897,
+    43.9772
+],
+  "geometry": {"coordinates":[-71.117897,43.9772],"type":"Point"}
+}

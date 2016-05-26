@@ -1,0 +1,69 @@
+{
+  "id": 873731789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.336394,42.808698,-71.336394,42.808698",
+    "geom:latitude":42.808698,
+    "geom:longitude":-71.336394,
+    "iso:country":"US",
+    "sg:address":"12 Balmorra Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 579 6919",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Iv4kjHywR1ljyrWK3ojw_42.808698_-71.336394@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296801,
+    "wof:geomhash":"d65d1eaab19c62ce0c0e5de93c9db22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873731789
+        }
+    ],
+    "wof:id":873731789,
+    "wof:lastmodified":1464296801,
+    "wof:name":"Malone Property Service",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.336394,
+    42.808698,
+    -71.336394,
+    42.808698
+],
+  "geometry": {"coordinates":[-71.336394,42.808698],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873926369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.256016,42.832941,-71.256016,42.832941",
+    "geom:latitude":42.832941,
+    "geom:longitude":-71.256016,
+    "iso:country":"US",
+    "sg:address":"117 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0067",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e8Z7GI03U3i3jWuI3Ll0k_42.832941_-71.256016@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300334,
+    "wof:geomhash":"265ed92fe16ce7c721d14b4e667c9a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873926369
+        }
+    ],
+    "wof:id":873926369,
+    "wof:lastmodified":1464300334,
+    "wof:name":"Rockingham Cycle",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.256016,
+    42.832941,
+    -71.256016,
+    42.832941
+],
+  "geometry": {"coordinates":[-71.256016,42.832941],"type":"Point"}
+}

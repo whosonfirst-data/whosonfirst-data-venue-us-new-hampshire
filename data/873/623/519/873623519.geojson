@@ -1,0 +1,69 @@
+{
+  "id": 873623519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499506,42.928455,-71.499506,42.928455",
+    "geom:latitude":42.928455,
+    "geom:longitude":-71.499506,
+    "iso:country":"US",
+    "sg:address":"31 Highland Farms Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 3287",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n6vUti6cuS0YCLvuwNG7P_42.928455_-71.499506@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295291,
+    "wof:geomhash":"b383b317794ea2972df319ddfa658ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873623519
+        }
+    ],
+    "wof:id":873623519,
+    "wof:lastmodified":1464295291,
+    "wof:name":"Dr Robert Lavery",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.499506,
+    42.928455,
+    -71.499506,
+    42.928455
+],
+  "geometry": {"coordinates":[-71.499506,42.928455],"type":"Point"}
+}

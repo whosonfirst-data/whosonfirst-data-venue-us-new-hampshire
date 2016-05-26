@@ -1,0 +1,71 @@
+{
+  "id": 873813811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.131744,43.37717,-72.131744,43.37717",
+    "geom:latitude":43.37717,
+    "geom:longitude":-72.131744,
+    "iso:country":"US",
+    "sg:address":"7 Hickory Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 6111",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TljQ5E7ksmw9gxcALg1eY_43.377170_-72.131744@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297993,
+    "wof:geomhash":"5f3c8fbda086d7947a05832b610f850b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873813811
+        }
+    ],
+    "wof:id":873813811,
+    "wof:lastmodified":1464297993,
+    "wof:name":"Eric Pollari Construction",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.131744,
+    43.37717,
+    -72.131744,
+    43.37717
+],
+  "geometry": {"coordinates":[-72.131744,43.37717],"type":"Point"}
+}

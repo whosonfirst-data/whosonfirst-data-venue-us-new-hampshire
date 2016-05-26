@@ -1,0 +1,69 @@
+{
+  "id": 873655709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.12327,43.406366,-72.12327,43.406366",
+    "geom:latitude":43.406366,
+    "geom:longitude":-72.12327,
+    "iso:country":"US",
+    "sg:address":"28 Melody Ln",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3108",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eKdEL8Cz59T3WdqXuxYJO_43.406366_-72.123270@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295653,
+    "wof:geomhash":"550915d3ff51448e01f6e97d4c4a4095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873655709
+        }
+    ],
+    "wof:id":873655709,
+    "wof:lastmodified":1464295653,
+    "wof:name":"Kidder Welding & Fabrication",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.12327,
+    43.406366,
+    -72.12327,
+    43.406366
+],
+  "geometry": {"coordinates":[-72.12327000000001,43.406366],"type":"Point"}
+}

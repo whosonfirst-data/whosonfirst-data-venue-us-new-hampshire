@@ -1,0 +1,72 @@
+{
+  "id": 873932701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.126592,44.053032,-71.126592,44.053032",
+    "geom:latitude":44.053032,
+    "geom:longitude":-71.126592,
+    "iso:country":"US",
+    "sg:address":"47 Kearsarge Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6004",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.moviegallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QraZZJn9GO3yJCLENXg0V_44.053032_-71.126592@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300460,
+    "wof:geomhash":"2778a7b74f5b47dea953d81bd0637951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932701
+        }
+    ],
+    "wof:id":873932701,
+    "wof:lastmodified":1464300460,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.126592,
+    44.053032,
+    -71.126592,
+    44.053032
+],
+  "geometry": {"coordinates":[-71.126592,44.053032],"type":"Point"}
+}

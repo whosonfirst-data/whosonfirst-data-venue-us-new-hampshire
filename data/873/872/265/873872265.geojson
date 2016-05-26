@@ -1,0 +1,71 @@
+{
+  "id": 873872265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484853,43.175006,-71.484853,43.175006",
+    "geom:latitude":43.175006,
+    "geom:longitude":-71.484853,
+    "iso:country":"US",
+    "sg:address":"557 Pembroke St",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 5204",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52oFFC0rODAXE4SAxnDdzL_43.175006_-71.484853@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299280,
+    "wof:geomhash":"dcadf151adc1a102d9ec6d16640fe5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873872265
+        }
+    ],
+    "wof:id":873872265,
+    "wof:lastmodified":1464299280,
+    "wof:name":"Donnelly James Plumbing & Htg",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.484853,
+    43.175006,
+    -71.484853,
+    43.175006
+],
+  "geometry": {"coordinates":[-71.484853,43.175006],"type":"Point"}
+}

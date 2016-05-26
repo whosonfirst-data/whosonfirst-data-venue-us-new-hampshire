@@ -1,0 +1,76 @@
+{
+  "id": 873562313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497828,43.651886,-71.497828,43.651886",
+    "geom:latitude":43.651886,
+    "geom:longitude":-71.497828,
+    "iso:country":"US",
+    "sg:address":"5 Mill St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 7443",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gXhCLM3ctzerp9ZuhFx8A_43.651886_-71.497828@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294524,
+    "wof:geomhash":"e5079cbd30d8b24a3a50f1fc2b1cf0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873562313
+        }
+    ],
+    "wof:id":873562313,
+    "wof:lastmodified":1464294524,
+    "wof:name":"Case N Keg",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -71.497828,
+    43.651886,
+    -71.497828,
+    43.651886
+],
+  "geometry": {"coordinates":[-71.497828,43.651886],"type":"Point"}
+}

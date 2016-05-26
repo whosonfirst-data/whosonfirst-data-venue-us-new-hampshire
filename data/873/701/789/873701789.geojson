@@ -1,0 +1,73 @@
+{
+  "id": 873701789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.662048,43.743942,-71.662048,43.743942",
+    "geom:latitude":43.743942,
+    "geom:longitude":-71.662048,
+    "iso:country":"US",
+    "sg:address":"617 N Ashland Rd",
+    "sg:city":"Ashland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3132",
+    "sg:postcode":"03217",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53V8VNztPFqj7zI2aUP6Px_43.743942_-71.662048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296423,
+    "wof:geomhash":"17bb763c610c1a924d94780aac99e375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873701789
+        }
+    ],
+    "wof:id":873701789,
+    "wof:lastmodified":1464296423,
+    "wof:name":"Elwood S Trucking",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.662048,
+    43.743942,
+    -71.662048,
+    43.743942
+],
+  "geometry": {"coordinates":[-71.662048,43.743942],"type":"Point"}
+}

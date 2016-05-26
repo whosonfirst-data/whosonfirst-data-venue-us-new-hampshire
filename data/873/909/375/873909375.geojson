@@ -1,0 +1,73 @@
+{
+  "id": 873909375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541797,42.802271,-71.541797,42.802271",
+    "geom:latitude":42.802271,
+    "geom:longitude":-71.541797,
+    "iso:country":"US",
+    "sg:address":"32 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 7856",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "prescription",
+        "proprietary",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l5UHSm3GJvBV0UGsFnGvx_42.802271_-71.541797@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300000,
+    "wof:geomhash":"fd4f6d7defcceb3483043398ea715bbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873909375
+        }
+    ],
+    "wof:id":873909375,
+    "wof:lastmodified":1464300000,
+    "wof:name":"CVS",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prescription",
+        "proprietary",
+        "drug"
+    ]
+},
+  "bbox": [
+    -71.541797,
+    42.802271,
+    -71.541797,
+    42.802271
+],
+  "geometry": {"coordinates":[-71.541797,42.802271],"type":"Point"}
+}

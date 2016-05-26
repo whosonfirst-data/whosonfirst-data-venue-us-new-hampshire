@@ -1,0 +1,71 @@
+{
+  "id": 873852641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.550742,43.022883,-71.550742,43.022883",
+    "geom:latitude":43.022883,
+    "geom:longitude":-71.550742,
+    "iso:country":"US",
+    "sg:address":"41 Center St",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 8346",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NsFek9AsIftXjo3pOUNZa_43.022883_-71.550742@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298865,
+    "wof:geomhash":"983a9330f2361c4f99c3cfbb8c95f5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873852641
+        }
+    ],
+    "wof:id":873852641,
+    "wof:lastmodified":1464298865,
+    "wof:name":"Grasmere Village Water Prcnct",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.550742,
+    43.022883,
+    -71.550742,
+    43.022883
+],
+  "geometry": {"coordinates":[-71.550742,43.022883],"type":"Point"}
+}

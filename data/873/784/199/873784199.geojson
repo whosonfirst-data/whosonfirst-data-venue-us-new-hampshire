@@ -1,0 +1,73 @@
+{
+  "id": 873784199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224533,44.399111,-71.224533,44.399111",
+    "geom:latitude":44.399111,
+    "geom:longitude":-71.224533,
+    "iso:country":"US",
+    "sg:address":"19 Jimtown Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5357",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6veAxZGhCZQ9wkDRKNeQSr_44.399111_-71.224533@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297547,
+    "wof:geomhash":"7e419bef5cfbcc1a2eaf15399cba83b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873784199
+        }
+    ],
+    "wof:id":873784199,
+    "wof:lastmodified":1464297547,
+    "wof:name":"David M Holt",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.224533,
+    44.399111,
+    -71.224533,
+    44.399111
+],
+  "geometry": {"coordinates":[-71.22453299999999,44.399111],"type":"Point"}
+}

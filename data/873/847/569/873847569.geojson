@@ -1,0 +1,69 @@
+{
+  "id": 873847569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.310065,42.760572,-71.310065,42.760572",
+    "geom:latitude":42.760572,
+    "geom:longitude":-71.310065,
+    "iso:country":"US",
+    "sg:address":"34 Arlene Dr",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 8591",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sNXUItRuaPWaSHE8P1mGo_42.760572_-71.310065@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298754,
+    "wof:geomhash":"ed0b4c5148595b80938be05a92e7e8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873847569
+        }
+    ],
+    "wof:id":873847569,
+    "wof:lastmodified":1464298754,
+    "wof:name":"Tg Construction",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.310065,
+    42.760572,
+    -71.310065,
+    42.760572
+],
+  "geometry": {"coordinates":[-71.31006499999999,42.760572],"type":"Point"}
+}

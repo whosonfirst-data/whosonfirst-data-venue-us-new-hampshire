@@ -1,0 +1,81 @@
+{
+  "id": 873926059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.213356,42.783978,-71.213356,42.783978",
+    "geom:latitude":42.783978,
+    "geom:longitude":-71.213356,
+    "iso:country":"US",
+    "sg:address":"224 Main St Ste 2D",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8550",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pathologist",
+        "occupational",
+        "therapist",
+        "speech-language"
+    ],
+    "sg:website":"http://www.speechtherapysolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jv6uzRy0N3vyUP6gcxRvb_42.783978_-71.213356@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300328,
+    "wof:geomhash":"dad14a6d226bce9e391dd7acef59c8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873926059
+        }
+    ],
+    "wof:id":873926059,
+    "wof:lastmodified":1464300328,
+    "wof:name":"Speech Therapy Solutions, Inc.",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "occupational",
+        "therapist",
+        "speech-language"
+    ]
+},
+  "bbox": [
+    -71.213356,
+    42.783978,
+    -71.213356,
+    42.783978
+],
+  "geometry": {"coordinates":[-71.213356,42.783978],"type":"Point"}
+}

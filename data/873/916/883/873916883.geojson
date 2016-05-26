@@ -1,0 +1,78 @@
+{
+  "id": 873916883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537731,42.801232,-71.537731,42.801232",
+    "geom:latitude":42.801232,
+    "geom:longitude":-71.537731,
+    "iso:country":"US",
+    "sg:address":"610 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/110374-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 578 0400",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EuPiflrjaqMuYt8yGWyhV_42.801232_-71.537731@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300156,
+    "wof:geomhash":"63168fffc2ee22fa2c7419f9fb7b2a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873916883
+        }
+    ],
+    "wof:id":873916883,
+    "wof:lastmodified":1464300156,
+    "wof:name":"Chili's",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.537731,
+    42.801232,
+    -71.537731,
+    42.801232
+],
+  "geometry": {"coordinates":[-71.53773099999999,42.801232],"type":"Point"}
+}

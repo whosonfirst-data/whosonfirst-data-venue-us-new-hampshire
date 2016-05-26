@@ -1,0 +1,69 @@
+{
+  "id": 873632983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97291,43.080293,-70.97291,43.080293",
+    "geom:latitude":43.080293,
+    "geom:longitude":-70.97291,
+    "iso:country":"US",
+    "sg:address":"10 Candice Ln",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 4781",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fdlu9PzEQqjoNwLSgwJZy_43.080293_-70.972910@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295400,
+    "wof:geomhash":"116f98fca12121fb0227a3a49240b103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873632983
+        }
+    ],
+    "wof:id":873632983,
+    "wof:lastmodified":1464295400,
+    "wof:name":"Joseph M Bailey",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -70.97291,
+    43.080293,
+    -70.97291,
+    43.080293
+],
+  "geometry": {"coordinates":[-70.97291,43.080293],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873832481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.17861,44.472363,-71.17861,44.472363",
+    "geom:latitude":44.472363,
+    "geom:longitude":-71.17861,
+    "iso:country":"US",
+    "sg:address":"301 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2013",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uk18lUxh7cKCB2rtj4Q0L_44.472363_-71.178610@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298388,
+    "wof:geomhash":"c08d7ff33542f1d63abf32e2c99e1454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873832481
+        }
+    ],
+    "wof:id":873832481,
+    "wof:lastmodified":1464298388,
+    "wof:name":"Eugene M Kruysman DDS",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.17861,
+    44.472363,
+    -71.17861,
+    44.472363
+],
+  "geometry": {"coordinates":[-71.17861000000001,44.472363],"type":"Point"}
+}

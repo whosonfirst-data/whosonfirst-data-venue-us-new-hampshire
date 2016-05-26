@@ -1,0 +1,69 @@
+{
+  "id": 873901813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.867395,42.881074,-70.867395,42.881074",
+    "geom:latitude":42.881074,
+    "geom:longitude":-70.867395,
+    "iso:country":"US",
+    "sg:address":"248 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 8884",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ut0XsC9cEpcDF8PFFd6de_42.881074_-70.867395@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299853,
+    "wof:geomhash":"8ae078a93cacf455ba0ea3eeaa597800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873901813
+        }
+    ],
+    "wof:id":873901813,
+    "wof:lastmodified":1464299853,
+    "wof:name":"Meineke Discount Mufflers",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -70.867395,
+    42.881074,
+    -70.867395,
+    42.881074
+],
+  "geometry": {"coordinates":[-70.867395,42.881074],"type":"Point"}
+}

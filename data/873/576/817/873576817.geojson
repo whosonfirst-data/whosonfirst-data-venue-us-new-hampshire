@@ -1,0 +1,73 @@
+{
+  "id": 873576817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871993,42.877449,-70.871993,42.877449",
+    "geom:latitude":42.877449,
+    "geom:longitude":-70.871993,
+    "iso:country":"US",
+    "sg:address":"33 Folly Mill Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 9629",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66htGTXnEWAfH4plZK3EiU_42.877449_-70.871993@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294682,
+    "wof:geomhash":"a48330d76168b2a53bd10c324d64dfb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873576817
+        }
+    ],
+    "wof:id":873576817,
+    "wof:lastmodified":1464294682,
+    "wof:name":"Dana S Auto Repair",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.871993,
+    42.877449,
+    -70.871993,
+    42.877449
+],
+  "geometry": {"coordinates":[-70.871993,42.877449],"type":"Point"}
+}

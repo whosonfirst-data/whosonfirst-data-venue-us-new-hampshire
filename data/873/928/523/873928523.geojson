@@ -1,0 +1,67 @@
+{
+  "id": 873928523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615521,43.310938,-71.615521,43.310938",
+    "geom:latitude":43.310938,
+    "geom:longitude":-71.615521,
+    "iso:country":"US",
+    "sg:address":"154 King St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2364",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ltgjjgfMLq8GQDfWOie66_43.310938_-71.615521@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300380,
+    "wof:geomhash":"6149bec68bf82409618052a54e0047db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928523
+        }
+    ],
+    "wof:id":873928523,
+    "wof:lastmodified":1464300380,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.615521,
+    43.310938,
+    -71.615521,
+    43.310938
+],
+  "geometry": {"coordinates":[-71.615521,43.310938],"type":"Point"}
+}

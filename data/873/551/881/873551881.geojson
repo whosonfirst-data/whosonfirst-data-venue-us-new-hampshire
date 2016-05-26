@@ -1,0 +1,71 @@
+{
+  "id": 873551881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.613217,44.373695,-71.613217,44.373695",
+    "geom:latitude":44.373695,
+    "geom:longitude":-71.613217,
+    "iso:country":"US",
+    "sg:address":"8 Main St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 3003",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "creamery",
+        "butter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A4MgGDGiJeKZch7u6EB8V_44.373695_-71.613217@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294399,
+    "wof:geomhash":"74cdda917c964d44adeef875a06a52d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873551881
+        }
+    ],
+    "wof:id":873551881,
+    "wof:lastmodified":1464294399,
+    "wof:name":"Uncommon Creamery",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "creamery",
+        "butter"
+    ]
+},
+  "bbox": [
+    -71.613217,
+    44.373695,
+    -71.613217,
+    44.373695
+],
+  "geometry": {"coordinates":[-71.61321700000001,44.373695],"type":"Point"}
+}

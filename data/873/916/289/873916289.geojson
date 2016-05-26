@@ -1,0 +1,72 @@
+{
+  "id": 873916289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073679,43.027983,-71.073679,43.027983",
+    "geom:latitude":43.027983,
+    "geom:longitude":-71.073679,
+    "iso:country":"US",
+    "sg:address":"50 Calef Hwy",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/epping/194645-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8544",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TpUvitY8QPYzrigw2Ci9m_43.027983_-71.073679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300146,
+    "wof:geomhash":"077b685da9c70da50b9efde5a1db8843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873916289
+        }
+    ],
+    "wof:id":873916289,
+    "wof:lastmodified":1464300146,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.073679,
+    43.027983,
+    -71.073679,
+    43.027983
+],
+  "geometry": {"coordinates":[-71.073679,43.027983],"type":"Point"}
+}

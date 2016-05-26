@@ -1,0 +1,77 @@
+{
+  "id": 873879555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939665,42.983327,-70.939665,42.983327",
+    "geom:latitude":42.983327,
+    "geom:longitude":-70.939665,
+    "iso:country":"US",
+    "sg:address":"34 Portsmouth Ave",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 2233",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07GpXACNOQFzzNmpozjpqP_42.983327_-70.939665@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299423,
+    "wof:geomhash":"c656849e176040df7473bf433db32bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873879555
+        }
+    ],
+    "wof:id":873879555,
+    "wof:lastmodified":1464299423,
+    "wof:name":"Exeter Television Svc",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -70.939665,
+    42.983327,
+    -70.939665,
+    42.983327
+],
+  "geometry": {"coordinates":[-70.93966500000001,42.983327],"type":"Point"}
+}

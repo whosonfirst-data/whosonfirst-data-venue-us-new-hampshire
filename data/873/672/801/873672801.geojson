@@ -1,0 +1,73 @@
+{
+  "id": 873672801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503114,43.184799,-71.503114,43.184799",
+    "geom:latitude":43.184799,
+    "geom:longitude":-71.503114,
+    "iso:country":"US",
+    "sg:address":"5 Integra Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 1124",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Poy7RT03rHysbe8EnUz7X_43.184799_-71.503114@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295828,
+    "wof:geomhash":"05eecc11e6d4ecbcb18d40ca1bb1d43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873672801
+        }
+    ],
+    "wof:id":873672801,
+    "wof:lastmodified":1464295828,
+    "wof:name":"Integra Car Wash",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.503114,
+    43.184799,
+    -71.503114,
+    43.184799
+],
+  "geometry": {"coordinates":[-71.503114,43.184799],"type":"Point"}
+}

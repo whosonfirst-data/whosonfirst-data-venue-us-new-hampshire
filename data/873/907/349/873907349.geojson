@@ -1,0 +1,71 @@
+{
+  "id": 873907349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473786,43.521763,-71.473786,43.521763",
+    "geom:latitude":43.521763,
+    "geom:longitude":-71.473786,
+    "iso:country":"US",
+    "sg:address":"200 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3100",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ntNyXZDmAN7bRkNJNy5x4_43.521763_-71.473786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299965,
+    "wof:geomhash":"9d4d86bdb065379142704e24f1ea8497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873907349
+        }
+    ],
+    "wof:id":873907349,
+    "wof:lastmodified":1464299965,
+    "wof:name":"A F Armano",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -71.473786,
+    43.521763,
+    -71.473786,
+    43.521763
+],
+  "geometry": {"coordinates":[-71.473786,43.521763],"type":"Point"}
+}

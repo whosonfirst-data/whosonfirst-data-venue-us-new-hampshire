@@ -1,0 +1,74 @@
+{
+  "id": 873914777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515433,42.94637,-71.515433,42.94637",
+    "geom:latitude":42.94637,
+    "geom:longitude":-71.515433,
+    "iso:country":"US",
+    "sg:address":"3 Meetinghouse Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 2300",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.bedford.lib.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FLvc6uO3AFp9BEFPErusv_42.946400_-71.515220@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300102,
+    "wof:geomhash":"ca30722d01a80cae4bb024cfb00282cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873914777
+        }
+    ],
+    "wof:id":873914777,
+    "wof:lastmodified":1464300102,
+    "wof:name":"Bedford Public Library",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.515433,
+    42.94637,
+    -71.515433,
+    42.94637
+],
+  "geometry": {"coordinates":[-71.515433,42.94637],"type":"Point"}
+}

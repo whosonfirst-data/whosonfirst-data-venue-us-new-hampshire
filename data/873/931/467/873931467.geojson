@@ -1,0 +1,72 @@
+{
+  "id": 873931467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.095026,43.205796,-71.095026,43.205796",
+    "geom:latitude":43.205796,
+    "geom:longitude":-71.095026,
+    "iso:country":"US",
+    "sg:address":"174 Rte 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Chocolate",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 664 9410",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "chocolatiers"
+    ],
+    "sg:website":"worldwidechocolate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wFdxA7LNVCvwILj2aEJrw_43.205796_-71.095026@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300437,
+    "wof:geomhash":"e157a2d0922d62b1c849745e13f6a17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873931467
+        }
+    ],
+    "wof:id":873931467,
+    "wof:lastmodified":1464300437,
+    "wof:name":"World Wide Chocolate",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "chocolatiers"
+    ]
+},
+  "bbox": [
+    -71.095026,
+    43.205796,
+    -71.095026,
+    43.205796
+],
+  "geometry": {"coordinates":[-71.095026,43.205796],"type":"Point"}
+}

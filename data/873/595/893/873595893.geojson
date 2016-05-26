@@ -1,0 +1,78 @@
+{
+  "id": 873595893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.19829,42.90599,-72.19829,42.90599",
+    "geom:latitude":42.90599,
+    "geom:longitude":-72.19829,
+    "iso:country":"US",
+    "sg:address":"301 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3400",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DrXOwqCCoVAWEHRPOXv12_42.905990_-72.198290@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294923,
+    "wof:geomhash":"808cf9e19681a9aeb089653023c73d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873595893
+        }
+    ],
+    "wof:id":873595893,
+    "wof:lastmodified":1464294923,
+    "wof:name":"Cheshire Fence Co",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.19829,
+    42.90599,
+    -72.19829,
+    42.90599
+],
+  "geometry": {"coordinates":[-72.19829,42.90599],"type":"Point"}
+}

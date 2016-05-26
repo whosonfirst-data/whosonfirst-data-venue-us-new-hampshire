@@ -1,0 +1,71 @@
+{
+  "id": 873753717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.927881,43.085367,-70.927881,43.085367",
+    "geom:latitude":43.085367,
+    "geom:longitude":-70.927881,
+    "iso:country":"US",
+    "sg:address":"41 Dame Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 4989",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Y7FQHeAkrZGYLizvVRBo_43.085367_-70.927881@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297130,
+    "wof:geomhash":"721159888247729fb1249c5342b7e507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873753717
+        }
+    ],
+    "wof:id":873753717,
+    "wof:lastmodified":1464297130,
+    "wof:name":"Good Grub Foods Inc",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.927881,
+    43.085367,
+    -70.927881,
+    43.085367
+],
+  "geometry": {"coordinates":[-70.927881,43.085367],"type":"Point"}
+}

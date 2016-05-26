@@ -1,0 +1,71 @@
+{
+  "id": 873817233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45107,43.531256,-71.45107,43.531256",
+    "geom:latitude":43.531256,
+    "geom:longitude":-71.45107,
+    "iso:country":"US",
+    "sg:address":"267 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3667",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4VYXOFM68V7KfOwTl7Nc_43.531256_-71.451070@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298065,
+    "wof:geomhash":"d4d11f348286a8ccee7b8a514d775199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873817233
+        }
+    ],
+    "wof:id":873817233,
+    "wof:lastmodified":1464298065,
+    "wof:name":"Ray G Vercoe Builder",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.45107,
+    43.531256,
+    -71.45107,
+    43.531256
+],
+  "geometry": {"coordinates":[-71.45107,43.531256],"type":"Point"}
+}

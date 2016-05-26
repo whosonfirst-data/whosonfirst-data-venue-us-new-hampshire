@@ -1,0 +1,69 @@
+{
+  "id": 873848293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.750792,43.28366,-71.750792,43.28366",
+    "geom:latitude":43.28366,
+    "geom:longitude":-71.750792,
+    "iso:country":"US",
+    "sg:address":"150 Roby Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 3543",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_772K6Ojqgx8DMlUADKMQF0_43.283660_-71.750792@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298778,
+    "wof:geomhash":"5e63bfc149d613afc9ed08f2e337e240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873848293
+        }
+    ],
+    "wof:id":873848293,
+    "wof:lastmodified":1464298778,
+    "wof:name":"Mock Farm",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.750792,
+    43.28366,
+    -71.750792,
+    43.28366
+],
+  "geometry": {"coordinates":[-71.750792,43.28366],"type":"Point"}
+}

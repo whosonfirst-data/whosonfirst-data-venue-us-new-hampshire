@@ -1,0 +1,77 @@
+{
+  "id": 873834173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468003,43.524839,-71.468003,43.524839",
+    "geom:latitude":43.524839,
+    "geom:longitude":-71.468003,
+    "iso:country":"US",
+    "sg:address":"401 S Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5678",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garment",
+        "pressing",
+        "family",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xX2gE1rPWsbbFY3dThCWP_43.524839_-71.468003@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298427,
+    "wof:geomhash":"b0bc3ae96815832105b0d7dd1ce5278f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873834173
+        }
+    ],
+    "wof:id":873834173,
+    "wof:lastmodified":1464298427,
+    "wof:name":"Apparel Master of The Lakes",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "pressing",
+        "family",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.468003,
+    43.524839,
+    -71.468003,
+    43.524839
+],
+  "geometry": {"coordinates":[-71.468003,43.524839],"type":"Point"}
+}

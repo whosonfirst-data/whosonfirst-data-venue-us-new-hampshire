@@ -1,0 +1,75 @@
+{
+  "id": 873611965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.271513,42.946692,-72.271513,42.946692",
+    "geom:latitude":42.946692,
+    "geom:longitude":-72.271513,
+    "iso:country":"US",
+    "sg:address":"510 Washington St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 0813",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892243,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71D3MP8X0xxTGGxWrp5HjN_42.946692_-72.271513@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295166,
+    "wof:geomhash":"8325749e7e7608233d3135060399412d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892243,
+            "region_id":85688689,
+            "venue_id":873611965
+        }
+    ],
+    "wof:id":873611965,
+    "wof:lastmodified":1464295166,
+    "wof:name":"Keen Klean Laundry",
+    "wof:parent_id":85892243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -72.271513,
+    42.946692,
+    -72.271513,
+    42.946692
+],
+  "geometry": {"coordinates":[-72.271513,42.946692],"type":"Point"}
+}

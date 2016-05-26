@@ -1,0 +1,75 @@
+{
+  "id": 873601109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.81892,43.279613,-71.81892,43.279613",
+    "geom:latitude":43.279613,
+    "geom:longitude":-71.81892,
+    "iso:country":"US",
+    "sg:address":"49 Depot St",
+    "sg:city":"Campton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 726 8861",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYfwvW6dDVagMYrc0Jynv_43.279613_-71.818920@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294999,
+    "wof:geomhash":"0509623945883baa1cbe6522fd9e9cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873601109
+        }
+    ],
+    "wof:id":873601109,
+    "wof:lastmodified":1464294999,
+    "wof:name":"Campton Video Tyme",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.81892,
+    43.279613,
+    -71.81892,
+    43.279613
+],
+  "geometry": {"coordinates":[-71.81892000000001,43.279613],"type":"Point"}
+}

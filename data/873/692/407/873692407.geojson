@@ -1,0 +1,71 @@
+{
+  "id": 873692407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.083066,43.045458,-71.083066,43.045458",
+    "geom:latitude":43.045458,
+    "geom:longitude":-71.083066,
+    "iso:country":"US",
+    "sg:address":"7 Prescott Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2668",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SoHCcxOPMj11ovuidMz4L_43.045458_-71.083066@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296320,
+    "wof:geomhash":"4b6cfcca6abd594af0401a3b2795c046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873692407
+        }
+    ],
+    "wof:id":873692407,
+    "wof:lastmodified":1464296320,
+    "wof:name":"Gatchell Excavation Inc",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.083066,
+    43.045458,
+    -71.083066,
+    43.045458
+],
+  "geometry": {"coordinates":[-71.083066,43.045458],"type":"Point"}
+}

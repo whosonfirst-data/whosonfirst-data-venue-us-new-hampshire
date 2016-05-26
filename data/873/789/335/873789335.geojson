@@ -1,0 +1,73 @@
+{
+  "id": 873789335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.260506,43.219969,-71.260506,43.219969",
+    "geom:latitude":43.219969,
+    "geom:longitude":-71.260506,
+    "iso:country":"US",
+    "sg:address":"16 Pinehurst",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7406",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wut8uxxwHWFySOV9GDzYP_43.219969_-71.260506@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297633,
+    "wof:geomhash":"b7429730af20d80e53ffe8fcc7d42add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873789335
+        }
+    ],
+    "wof:id":873789335,
+    "wof:lastmodified":1464297633,
+    "wof:name":"Tps Trucking",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.260506,
+    43.219969,
+    -71.260506,
+    43.219969
+],
+  "geometry": {"coordinates":[-71.26050600000001,43.219969],"type":"Point"}
+}

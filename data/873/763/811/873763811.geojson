@@ -1,0 +1,69 @@
+{
+  "id": 873763811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502708,43.665461,-71.502708,43.665461",
+    "geom:latitude":43.665461,
+    "geom:longitude":-71.502708,
+    "iso:country":"US",
+    "sg:address":"10 Plymouth St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8723",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dKupn0mOYrGYwL4nAu96m_43.665461_-71.502708@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297271,
+    "wof:geomhash":"6f86113b33c760e8304df251259f4296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873763811
+        }
+    ],
+    "wof:id":873763811,
+    "wof:lastmodified":1464297271,
+    "wof:name":"George's Diner",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.502708,
+    43.665461,
+    -71.502708,
+    43.665461
+],
+  "geometry": {"coordinates":[-71.502708,43.665461],"type":"Point"}
+}

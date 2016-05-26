@@ -1,0 +1,75 @@
+{
+  "id": 873715675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.921013,43.216363,-70.921013,43.216363",
+    "geom:latitude":43.216363,
+    "geom:longitude":-70.921013,
+    "iso:country":"US",
+    "sg:address":"187 Watson Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 6369",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526421,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pWOEyW6eytNTtAH1zuUbl_43.216363_-70.921013@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296589,
+    "wof:geomhash":"57fceb8ebfaf92225cf9cbd697e1dd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":420526421,
+            "region_id":85688689,
+            "venue_id":873715675
+        }
+    ],
+    "wof:id":873715675,
+    "wof:lastmodified":1464296589,
+    "wof:name":"Cat Doctor Inc",
+    "wof:parent_id":420526421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -70.921013,
+    43.216363,
+    -70.921013,
+    43.216363
+],
+  "geometry": {"coordinates":[-70.921013,43.216363],"type":"Point"}
+}

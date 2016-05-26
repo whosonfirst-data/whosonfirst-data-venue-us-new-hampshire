@@ -1,0 +1,69 @@
+{
+  "id": 873933187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.155984,44.061634,-71.155984,44.061634",
+    "geom:latitude":44.061634,
+    "geom:longitude":-71.155984,
+    "iso:country":"US",
+    "sg:address":"22 W Side Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5538",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831555,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PnoBdFhfW5FmXyoGJq3cD_44.061634_-71.155984@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300467,
+    "wof:geomhash":"951375b55cf4a90889d8d047c1110ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85831555,
+            "region_id":85688689,
+            "venue_id":873933187
+        }
+    ],
+    "wof:id":873933187,
+    "wof:lastmodified":1464300467,
+    "wof:name":"Hussey Veterinary Hospital",
+    "wof:parent_id":85831555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.155984,
+    44.061634,
+    -71.155984,
+    44.061634
+],
+  "geometry": {"coordinates":[-71.155984,44.061634],"type":"Point"}
+}

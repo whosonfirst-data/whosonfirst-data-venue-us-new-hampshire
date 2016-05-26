@@ -1,0 +1,72 @@
+{
+  "id": 873565577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.824022,43.182474,-71.824022,43.182474",
+    "geom:latitude":43.182474,
+    "geom:longitude":-71.824022,
+    "iso:country":"US",
+    "sg:address":"5 Maple St",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6267",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "historical"
+    ],
+    "sg:website":"www.hennikerhistory.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L9KbVzjknDPE5ldv3IUaB_43.182474_-71.824022@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294562,
+    "wof:geomhash":"7de1119df7778bc514ca6a4e6bb2399b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873565577
+        }
+    ],
+    "wof:id":873565577,
+    "wof:lastmodified":1464294562,
+    "wof:name":"Henniker Historical Society",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.824022,
+    43.182474,
+    -71.824022,
+    43.182474
+],
+  "geometry": {"coordinates":[-71.824022,43.182474],"type":"Point"}
+}

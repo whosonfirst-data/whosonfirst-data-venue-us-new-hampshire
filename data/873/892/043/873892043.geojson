@@ -1,0 +1,71 @@
+{
+  "id": 873892043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569835,44.489645,-71.569835,44.489645",
+    "geom:latitude":44.489645,
+    "geom:longitude":-71.569835,
+    "iso:country":"US",
+    "sg:address":"16 Park St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3018",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DqSE6RYe2Cx3ryqvcUmFh_44.489645_-71.569835@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299667,
+    "wof:geomhash":"a75ab6cd2f467195bc1b1c38f098607f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873892043
+        }
+    ],
+    "wof:id":873892043,
+    "wof:lastmodified":1464299667,
+    "wof:name":"Sisti Law Offices",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.569835,
+    44.489645,
+    -71.569835,
+    44.489645
+],
+  "geometry": {"coordinates":[-71.569835,44.489645],"type":"Point"}
+}

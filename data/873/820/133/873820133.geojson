@@ -1,0 +1,71 @@
+{
+  "id": 873820133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.590728,42.740101,-71.590728,42.740101",
+    "geom:latitude":42.740101,
+    "geom:longitude":-71.590728,
+    "iso:country":"US",
+    "sg:address":"4 Main St",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 321 8899",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pjpD4jtkT13uvGk48kXLN_42.740101_-71.590728@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298122,
+    "wof:geomhash":"c341857b5e05a9fa1557a98f58cf4c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873820133
+        }
+    ],
+    "wof:id":873820133,
+    "wof:lastmodified":1464298122,
+    "wof:name":"Skin Is In",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -71.590728,
+    42.740101,
+    -71.590728,
+    42.740101
+],
+  "geometry": {"coordinates":[-71.590728,42.740101],"type":"Point"}
+}

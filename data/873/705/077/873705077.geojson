@@ -1,0 +1,71 @@
+{
+  "id": 873705077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.696184,43.762778,-71.696184,43.762778",
+    "geom:latitude":43.762778,
+    "geom:longitude":-71.696184,
+    "iso:country":"US",
+    "sg:address":"52 Merrill St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4066",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sckn9aTsSzZ0oYWal7Ead_43.762778_-71.696184@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296457,
+    "wof:geomhash":"00edb6a8a3da516dee10ed1a08b22195",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873705077
+        }
+    ],
+    "wof:id":873705077,
+    "wof:lastmodified":1464296457,
+    "wof:name":"Mastercraft Plumbing & Heating",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.696184,
+    43.762778,
+    -71.696184,
+    43.762778
+],
+  "geometry": {"coordinates":[-71.696184,43.762778],"type":"Point"}
+}

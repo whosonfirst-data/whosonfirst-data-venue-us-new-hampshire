@@ -1,0 +1,69 @@
+{
+  "id": 873903229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.114896,43.181654,-71.114896,43.181654",
+    "geom:latitude":43.181654,
+    "geom:longitude":-71.114896,
+    "iso:country":"US",
+    "sg:address":"187 Old Turnpike Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5768",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837873,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MpiFZQtpYBJ5SsHau7Fiw_43.181654_-71.114896@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299883,
+    "wof:geomhash":"f802d151fe955f725633825139b1bb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837873,
+            "region_id":85688689,
+            "venue_id":873903229
+        }
+    ],
+    "wof:id":873903229,
+    "wof:lastmodified":1464299883,
+    "wof:name":"HLR Trucking",
+    "wof:parent_id":85837873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.114896,
+    43.181654,
+    -71.114896,
+    43.181654
+],
+  "geometry": {"coordinates":[-71.114896,43.181654],"type":"Point"}
+}

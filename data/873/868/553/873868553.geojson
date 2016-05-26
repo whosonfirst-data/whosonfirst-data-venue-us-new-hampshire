@@ -1,0 +1,69 @@
+{
+  "id": 873868553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.136567,43.974828,-71.136567,43.974828",
+    "geom:latitude":43.974828,
+    "geom:longitude":-71.136567,
+    "iso:country":"US",
+    "sg:address":"20 W Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 3077",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mDRw77wpkeHrnq2Oqr7O5_43.974828_-71.136567@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299200,
+    "wof:geomhash":"0309fa65d5b85693277c7a5473df9196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873868553
+        }
+    ],
+    "wof:id":873868553,
+    "wof:lastmodified":1464299200,
+    "wof:name":"Conway Sunoco",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.136567,
+    43.974828,
+    -71.136567,
+    43.974828
+],
+  "geometry": {"coordinates":[-71.136567,43.974828],"type":"Point"}
+}

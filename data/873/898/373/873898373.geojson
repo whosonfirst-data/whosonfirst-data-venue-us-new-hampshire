@@ -1,0 +1,73 @@
+{
+  "id": 873898373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.053633,42.995776,-71.053633,42.995776",
+    "geom:latitude":42.995776,
+    "geom:longitude":-71.053633,
+    "iso:country":"US",
+    "sg:address":"15 Scrabble Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4049",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Za1gVkjVyVfEnXi41VBO_42.995776_-71.053633@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299788,
+    "wof:geomhash":"24b77ffbab9bee2394eda010ea033530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873898373
+        }
+    ],
+    "wof:id":873898373,
+    "wof:lastmodified":1464299788,
+    "wof:name":"Country Road Kennels Ctr",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.053633,
+    42.995776,
+    -71.053633,
+    42.995776
+],
+  "geometry": {"coordinates":[-71.053633,42.995776],"type":"Point"}
+}

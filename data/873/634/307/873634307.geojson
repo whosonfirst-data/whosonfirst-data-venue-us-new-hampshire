@@ -1,0 +1,73 @@
+{
+  "id": 873634307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542967,42.79986,-71.542967,42.79986",
+    "geom:latitude":42.79986,
+    "geom:longitude":-71.542967,
+    "iso:country":"US",
+    "sg:address":"18 Celina Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5100",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "connector",
+        "electronic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dfn0PZ2iy05EURPckIvT8_42.799860_-71.542967@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295416,
+    "wof:geomhash":"660f6c11a76d504e4681adf6b05b5b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873634307
+        }
+    ],
+    "wof:id":873634307,
+    "wof:lastmodified":1464295416,
+    "wof:name":"Backplane Systems",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "connector",
+        "electronic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.542967,
+    42.79986,
+    -71.542967,
+    42.79986
+],
+  "geometry": {"coordinates":[-71.542967,42.79986],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873919209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451734,42.96821,-71.451734,42.96821",
+    "geom:latitude":42.96821,
+    "geom:longitude":-71.451734,
+    "iso:country":"US",
+    "sg:address":"401 S Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/91174-dangelo-sandwich-shops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 9980",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vL0ErzW1fRIef0PF4ZUBO_42.967718_-71.450963@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300198,
+    "wof:geomhash":"30ac703c356680325c896386c5d8a46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873919209
+        }
+    ],
+    "wof:id":873919209,
+    "wof:lastmodified":1464300198,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -71.451734,
+    42.96821,
+    -71.451734,
+    42.96821
+],
+  "geometry": {"coordinates":[-71.451734,42.96821],"type":"Point"}
+}

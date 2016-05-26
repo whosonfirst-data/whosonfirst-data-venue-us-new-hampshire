@@ -1,0 +1,75 @@
+{
+  "id": 873860329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435755,42.767858,-71.435755,42.767858",
+    "geom:latitude":42.767858,
+    "geom:longitude":-71.435755,
+    "iso:country":"US",
+    "sg:address":"59 Ferry St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2515",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tipkNjuE244hkpeswebDX_42.767858_-71.435755@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299043,
+    "wof:geomhash":"11afa6cd69e14609a1bd764fc2b7f344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873860329
+        }
+    ],
+    "wof:id":873860329,
+    "wof:lastmodified":1464299043,
+    "wof:name":"Richard W Cuff DDS",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.435755,
+    42.767858,
+    -71.435755,
+    42.767858
+],
+  "geometry": {"coordinates":[-71.435755,42.767858],"type":"Point"}
+}

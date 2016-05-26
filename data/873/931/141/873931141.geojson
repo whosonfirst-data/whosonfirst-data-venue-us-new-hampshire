@@ -1,0 +1,70 @@
+{
+  "id": 873931141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.125995,43.978686,-71.125995,43.978686",
+    "geom:latitude":43.978686,
+    "geom:longitude":-71.125995,
+    "iso:country":"US",
+    "sg:address":"147 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5050",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"cafenoche.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FmtZXwPR2vKQZSPkNTH9Y_43.978686_-71.125995@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300432,
+    "wof:geomhash":"db4e034ee7ab63f9cc05ae1b371c4697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931141
+        }
+    ],
+    "wof:id":873931141,
+    "wof:lastmodified":1464300432,
+    "wof:name":"Cafe Noche",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.125995,
+    43.978686,
+    -71.125995,
+    43.978686
+],
+  "geometry": {"coordinates":[-71.125995,43.978686],"type":"Point"}
+}

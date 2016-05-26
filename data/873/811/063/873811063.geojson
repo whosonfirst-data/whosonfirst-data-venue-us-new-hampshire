@@ -1,0 +1,71 @@
+{
+  "id": 873811063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.249802,42.896578,-72.249802,42.896578",
+    "geom:latitude":42.896578,
+    "geom:longitude":-72.249802,
+    "iso:country":"US",
+    "sg:address":"77 Monadnock Hwy",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3486",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MDRncCSA6uSyukJdLk1iJ_42.896578_-72.249802@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297945,
+    "wof:geomhash":"550ccfc49a6faa001edaf8ed4409e3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873811063
+        }
+    ],
+    "wof:id":873811063,
+    "wof:lastmodified":1464297945,
+    "wof:name":"Halltree Thrift Shop",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -72.249802,
+    42.896578,
+    -72.249802,
+    42.896578
+],
+  "geometry": {"coordinates":[-72.249802,42.896578],"type":"Point"}
+}

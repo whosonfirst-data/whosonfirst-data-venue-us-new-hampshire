@@ -1,0 +1,75 @@
+{
+  "id": 873628577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.327106,42.88169,-71.327106,42.88169",
+    "geom:latitude":42.88169,
+    "geom:longitude":-71.327106,
+    "iso:country":"US",
+    "sg:address":"14 Manning St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 6100",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_686E8C3tV6hU8ah2zSWx6u_42.881690_-71.327106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295346,
+    "wof:geomhash":"e342ac2ed6bf2bbdcfa374d2b32a6aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873628577
+        }
+    ],
+    "wof:id":873628577,
+    "wof:lastmodified":1464295346,
+    "wof:name":"Derry Administrator's Office",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.327106,
+    42.88169,
+    -71.327106,
+    42.88169
+],
+  "geometry": {"coordinates":[-71.327106,42.88169],"type":"Point"}
+}

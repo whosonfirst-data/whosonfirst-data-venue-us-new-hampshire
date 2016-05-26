@@ -1,0 +1,71 @@
+{
+  "id": 873587117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463164,43.545991,-71.463164,43.545991",
+    "geom:latitude":43.545991,
+    "geom:longitude":-71.463164,
+    "iso:country":"US",
+    "sg:address":"789 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3090",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3aqfek3Y0lZTh0X1ci0F_43.545991_-71.463164@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294798,
+    "wof:geomhash":"2053d5d3bb59ff9a93b914d3e9057fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873587117
+        }
+    ],
+    "wof:id":873587117,
+    "wof:lastmodified":1464294798,
+    "wof:name":"M C Nails",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -71.463164,
+    43.545991,
+    -71.463164,
+    43.545991
+],
+  "geometry": {"coordinates":[-71.46316400000001,43.545991],"type":"Point"}
+}

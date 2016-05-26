@@ -1,0 +1,87 @@
+{
+  "id": 873923631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483725,42.702179,-71.483725,42.702179",
+    "geom:latitude":42.702179,
+    "geom:longitude":-71.483725,
+    "iso:country":"US",
+    "sg:address":"10 Crestwood Ln",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 2352",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "cardiology",
+        "thoracic",
+        "surgeons",
+        "surgery",
+        "surgeon",
+        "cardiovascular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892285,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e4PkatWjOJMRr5Rm4Piu9_42.702179_-71.483725@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300282,
+    "wof:geomhash":"8795e4e82681bbb2e818b65be418c32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892285,
+            "region_id":85688689,
+            "venue_id":873923631
+        }
+    ],
+    "wof:id":873923631,
+    "wof:lastmodified":1464300282,
+    "wof:name":"Cardiovascular Mobile Imaging Inc",
+    "wof:parent_id":85892285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "cardiology",
+        "thoracic",
+        "surgeons",
+        "surgery",
+        "surgeon",
+        "cardiovascular"
+    ]
+},
+  "bbox": [
+    -71.483725,
+    42.702179,
+    -71.483725,
+    42.702179
+],
+  "geometry": {"coordinates":[-71.48372500000001,42.702179],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873906343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.650756,43.442213,-71.650756,43.442213",
+    "geom:latitude":43.442213,
+    "geom:longitude":-71.650756,
+    "iso:country":"US",
+    "sg:address":"115 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5441",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational",
+        "administrative"
+    ],
+    "sg:website":"www.franklin.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ap5KfmtdpVBOfTXSJxvTX_43.442213_-71.650756@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299946,
+    "wof:geomhash":"d9095e700d7ae50bd47e71007c7b8673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873906343
+        }
+    ],
+    "wof:id":873906343,
+    "wof:lastmodified":1464299946,
+    "wof:name":"Franklin High School",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -71.650756,
+    43.442213,
+    -71.650756,
+    43.442213
+],
+  "geometry": {"coordinates":[-71.650756,43.442213],"type":"Point"}
+}

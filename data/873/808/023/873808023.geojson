@@ -1,0 +1,75 @@
+{
+  "id": 873808023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447608,43.003314,-71.447608,43.003314",
+    "geom:latitude":43.003314,
+    "geom:longitude":-71.447608,
+    "iso:country":"US",
+    "sg:address":"1100 Hall St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 2994",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526217,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11NulqLiJHfHrcTXPp7BAt_43.003314_-71.447608@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297891,
+    "wof:geomhash":"7d2d13aed302f332c83a6da03802dc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526217,
+            "region_id":85688689,
+            "venue_id":873808023
+        }
+    ],
+    "wof:id":873808023,
+    "wof:lastmodified":1464297891,
+    "wof:name":"Rays Refrigeration Service",
+    "wof:parent_id":420526217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -71.447608,
+    43.003314,
+    -71.447608,
+    43.003314
+],
+  "geometry": {"coordinates":[-71.447608,43.003314],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873685801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.098855,43.114213,-71.098855,43.114213",
+    "geom:latitude":43.114213,
+    "geom:longitude":-71.098855,
+    "iso:country":"US",
+    "sg:address":"115 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 6791",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KKk2Mfo3yIwMclPHrosXN_43.114213_-71.098855@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296160,
+    "wof:geomhash":"a0f8ae48479cbd7e81465ad36c509ae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873685801
+        }
+    ],
+    "wof:id":873685801,
+    "wof:lastmodified":1464296160,
+    "wof:name":"Dearborn Tool & Die",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.098855,
+    43.114213,
+    -71.098855,
+    43.114213
+],
+  "geometry": {"coordinates":[-71.098855,43.114213],"type":"Point"}
+}

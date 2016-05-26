@@ -1,0 +1,83 @@
+{
+  "id": 873919453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.759848,43.07589,-70.759848,43.07589",
+    "geom:latitude":43.07589,
+    "geom:longitude":-70.759848,
+    "iso:country":"US",
+    "sg:address":"150 Congress St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/268102-jumpin-jays-fish-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 766 3474",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sPRzjN8RrI8axnPFTBEhL_43.075926_-70.760267@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300202,
+    "wof:geomhash":"1ad406ac677e1c3973e4396b86a20cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873919453
+        }
+    ],
+    "wof:id":873919453,
+    "wof:lastmodified":1464300202,
+    "wof:name":"Jumpin Jays Fish Cafe",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.759848,
+    43.07589,
+    -70.759848,
+    43.07589
+],
+  "geometry": {"coordinates":[-70.75984800000001,43.07589],"type":"Point"}
+}

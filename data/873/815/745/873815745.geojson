@@ -1,0 +1,71 @@
+{
+  "id": 873815745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460401,42.852693,-71.460401,42.852693",
+    "geom:latitude":42.852693,
+    "geom:longitude":-71.460401,
+    "iso:country":"US",
+    "sg:address":"18 Shirley Way",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 759 1779",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14CLav3oaSKpeYurTXpErW_42.852693_-71.460401@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298028,
+    "wof:geomhash":"4de491aef3b8c1aae9f7d8fb6f8f200e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892255,
+            "region_id":85688689,
+            "venue_id":873815745
+        }
+    ],
+    "wof:id":873815745,
+    "wof:lastmodified":1464298028,
+    "wof:name":"Cari Properties LLC",
+    "wof:parent_id":85892255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.460401,
+    42.852693,
+    -71.460401,
+    42.852693
+],
+  "geometry": {"coordinates":[-71.460401,42.852693],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873880395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283618,43.068245,-71.283618,43.068245",
+    "geom:latitude":43.068245,
+    "geom:longitude":-71.283618,
+    "iso:country":"US",
+    "sg:address":"43 Deerfield Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 0319",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ktZxVk7Aw25Q8tqS43y10_43.068245_-71.283618@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299441,
+    "wof:geomhash":"e3e4bc436bf284210b59045eadd5f42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873880395
+        }
+    ],
+    "wof:id":873880395,
+    "wof:lastmodified":1464299441,
+    "wof:name":"Dan's Septic Inspection",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.283618,
+    43.068245,
+    -71.283618,
+    43.068245
+],
+  "geometry": {"coordinates":[-71.283618,43.068245],"type":"Point"}
+}

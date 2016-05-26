@@ -1,0 +1,71 @@
+{
+  "id": 873761771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.8878,42.729886,-71.8878,42.729886",
+    "geom:latitude":42.729886,
+    "geom:longitude":-71.8878,
+    "iso:country":"US",
+    "sg:address":"181 Binney Hill Rd",
+    "sg:city":"New Ipswich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 878 4454",
+    "sg:postcode":"03071",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849133,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FbtJkDW8CLLTnP28r9vZU_42.729886_-71.887800@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297233,
+    "wof:geomhash":"4cc4773159de03448f43efc24828cee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849133,
+            "region_id":85688689,
+            "venue_id":873761771
+        }
+    ],
+    "wof:id":873761771,
+    "wof:lastmodified":1464297233,
+    "wof:name":"Jet Concrete LLC",
+    "wof:parent_id":85849133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.8878,
+    42.729886,
+    -71.8878,
+    42.729886
+],
+  "geometry": {"coordinates":[-71.8878,42.729886],"type":"Point"}
+}

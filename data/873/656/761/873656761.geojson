@@ -1,0 +1,73 @@
+{
+  "id": 873656761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.631407,43.446913,-71.631407,43.446913",
+    "geom:latitude":43.446913,
+    "geom:longitude":-71.631407,
+    "iso:country":"US",
+    "sg:address":"785 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 4500",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n2hcUdUuuVC7OnKaoV24u_43.446913_-71.631407@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295665,
+    "wof:geomhash":"472cb7c49d98ae46f4f7faab529cb147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873656761
+        }
+    ],
+    "wof:id":873656761,
+    "wof:lastmodified":1464295665,
+    "wof:name":"Power Stroke",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.631407,
+    43.446913,
+    -71.631407,
+    43.446913
+],
+  "geometry": {"coordinates":[-71.631407,43.446913],"type":"Point"}
+}

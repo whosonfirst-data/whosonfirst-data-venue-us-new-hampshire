@@ -1,0 +1,71 @@
+{
+  "id": 873867365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.371402,43.326461,-72.371402,43.326461",
+    "geom:latitude":43.326461,
+    "geom:longitude":-72.371402,
+    "iso:country":"US",
+    "sg:address":"131 Morningside Ln",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 7772",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MypkJSbfIibClxW32uwPW_43.326461_-72.371402@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299179,
+    "wof:geomhash":"5cbe9875918c746902221077c3444fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873867365
+        }
+    ],
+    "wof:id":873867365,
+    "wof:lastmodified":1464299179,
+    "wof:name":"J & M Holdings Inc",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -72.371402,
+    43.326461,
+    -72.371402,
+    43.326461
+],
+  "geometry": {"coordinates":[-72.371402,43.326461],"type":"Point"}
+}

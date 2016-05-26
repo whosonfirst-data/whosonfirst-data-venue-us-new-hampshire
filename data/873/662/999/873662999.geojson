@@ -1,0 +1,69 @@
+{
+  "id": 873662999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.024056,42.814924,-72.024056,42.814924",
+    "geom:latitude":42.814924,
+    "geom:longitude":-72.024056,
+    "iso:country":"US",
+    "sg:address":"26 Main St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7865",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qz1PBNGQ9uUXif7VsSs0w_42.814924_-72.024056@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295731,
+    "wof:geomhash":"1cc1ffcd8fb0d0f0b714e1ae734be3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873662999
+        }
+    ],
+    "wof:id":873662999,
+    "wof:lastmodified":1464295731,
+    "wof:name":"Jaffrey Police Deptartment",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.024056,
+    42.814924,
+    -72.024056,
+    42.814924
+],
+  "geometry": {"coordinates":[-72.024056,42.814924],"type":"Point"}
+}

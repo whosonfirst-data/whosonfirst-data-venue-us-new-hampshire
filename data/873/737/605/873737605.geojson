@@ -1,0 +1,77 @@
+{
+  "id": 873737605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.205468,43.628244,-71.205468,43.628244",
+    "geom:latitude":43.628244,
+    "geom:longitude":-71.205468,
+    "iso:country":"US",
+    "sg:address":"404 Beach Pond Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 5826",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4egcgIPovvdtwQCwtjcSYR_43.628244_-71.205468@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296890,
+    "wof:geomhash":"d6d601d886be47e168eeb17ea3061179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873737605
+        }
+    ],
+    "wof:id":873737605,
+    "wof:lastmodified":1464296890,
+    "wof:name":"Wolfeboro Hazardous Waste",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.205468,
+    43.628244,
+    -71.205468,
+    43.628244
+],
+  "geometry": {"coordinates":[-71.205468,43.628244],"type":"Point"}
+}

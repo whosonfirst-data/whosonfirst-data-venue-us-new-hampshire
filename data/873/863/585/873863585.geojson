@@ -1,0 +1,88 @@
+{
+  "id": 873863585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.758355,43.075362,-70.758355,43.075362",
+    "geom:latitude":43.075362,
+    "geom:longitude":-70.758355,
+    "iso:country":"US",
+    "sg:address":"12 Fleet St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 3377",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "granite",
+        "monument",
+        "site",
+        "grave",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17uZeYmE0P1MGrkYM4HPQZ_43.075362_-70.758355@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299106,
+    "wof:geomhash":"81795df7fcc09029ced84536829757f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873863585
+        }
+    ],
+    "wof:id":873863585,
+    "wof:lastmodified":1464299106,
+    "wof:name":"Sibson Monument Company",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "monument",
+        "site",
+        "grave",
+        "for"
+    ]
+},
+  "bbox": [
+    -70.758355,
+    43.075362,
+    -70.758355,
+    43.075362
+],
+  "geometry": {"coordinates":[-70.75835499999999,43.075362],"type":"Point"}
+}

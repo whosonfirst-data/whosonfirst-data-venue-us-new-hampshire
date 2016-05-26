@@ -1,0 +1,73 @@
+{
+  "id": 873699139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443382,43.548887,-71.443382,43.548887",
+    "geom:latitude":43.548887,
+    "geom:longitude":-71.443382,
+    "iso:country":"US",
+    "sg:address":"238 Stark St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 7745",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Wk3XEIgt8NDcvEBXWKVe_43.548887_-71.443382@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296395,
+    "wof:geomhash":"e7817c37286f92be4ae712a3fd0ce1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873699139
+        }
+    ],
+    "wof:id":873699139,
+    "wof:lastmodified":1464296395,
+    "wof:name":"Tfe Plumbing & Heating Inc",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating"
+    ]
+},
+  "bbox": [
+    -71.443382,
+    43.548887,
+    -71.443382,
+    43.548887
+],
+  "geometry": {"coordinates":[-71.443382,43.548887],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873885423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461773,42.99406,-71.461773,42.99406",
+    "geom:latitude":42.99406,
+    "geom:longitude":-71.461773,
+    "iso:country":"US",
+    "sg:address":"29 Kosiuszko St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 5748",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mxeWVUsfJjGEqSP7f1v0V_42.994060_-71.461773@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299547,
+    "wof:geomhash":"97a24f629294c92bf81eac0c44e9f425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873885423
+        }
+    ],
+    "wof:id":873885423,
+    "wof:lastmodified":1464299547,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.461773,
+    42.99406,
+    -71.461773,
+    42.99406
+],
+  "geometry": {"coordinates":[-71.46177299999999,42.99406],"type":"Point"}
+}

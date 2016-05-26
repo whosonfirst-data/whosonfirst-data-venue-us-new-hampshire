@@ -1,0 +1,92 @@
+{
+  "id": 873925487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.229096,42.79926,-71.229096,42.79926",
+    "geom:latitude":42.79926,
+    "geom:longitude":-71.229096,
+    "iso:country":"US",
+    "sg:address":"37 Lake St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5858",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nurseries-plants",
+        "tree",
+        "nursery-wholesale",
+        "equipment",
+        "bamboo",
+        "grower",
+        "landscaping"
+    ],
+    "sg:website":"http://www.lakestreet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gFw5g6p0frFwFgYqAQ9eC_42.799260_-71.229096@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300316,
+    "wof:geomhash":"99ba6bb43e266777c123caf2ed918527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925487
+        }
+    ],
+    "wof:id":873925487,
+    "wof:lastmodified":1464300316,
+    "wof:name":"Lake Street Garden Center",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseries-plants",
+        "tree",
+        "nursery-wholesale",
+        "equipment",
+        "bamboo",
+        "grower",
+        "landscaping"
+    ]
+},
+  "bbox": [
+    -71.229096,
+    42.79926,
+    -71.229096,
+    42.79926
+],
+  "geometry": {"coordinates":[-71.229096,42.79926],"type":"Point"}
+}

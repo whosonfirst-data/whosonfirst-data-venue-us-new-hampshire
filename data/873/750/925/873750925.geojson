@@ -1,0 +1,72 @@
+{
+  "id": 873750925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.606763,43.298883,-71.606763,43.298883",
+    "geom:latitude":43.298883,
+    "geom:longitude":-71.606763,
+    "iso:country":"US",
+    "sg:address":"195 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4176",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.rossexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02AImqBxZkJtTVRNUg9Y2m_43.298883_-71.606763@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297087,
+    "wof:geomhash":"9dfc3de7a514a0fcf33db1d886d4ce3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873750925
+        }
+    ],
+    "wof:id":873750925,
+    "wof:lastmodified":1464297087,
+    "wof:name":"Ross Express Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.606763,
+    43.298883,
+    -71.606763,
+    43.298883
+],
+  "geometry": {"coordinates":[-71.606763,43.298883],"type":"Point"}
+}

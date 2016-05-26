@@ -1,0 +1,71 @@
+{
+  "id": 873565829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.833955,42.959196,-70.833955,42.959196",
+    "geom:latitude":42.959196,
+    "geom:longitude":-70.833955,
+    "iso:country":"US",
+    "sg:address":"8 Lafayette Rd",
+    "sg:city":"North Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 7577",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dg4lWzcnhHOAY01hrl3FU_42.959196_-70.833955@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294564,
+    "wof:geomhash":"a505d4fca5c1d2026724e337d97d96f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873565829
+        }
+    ],
+    "wof:id":873565829,
+    "wof:lastmodified":1464294564,
+    "wof:name":"Steve's Truck & Auto",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -70.833955,
+    42.959196,
+    -70.833955,
+    42.959196
+],
+  "geometry": {"coordinates":[-70.833955,42.959196],"type":"Point"}
+}

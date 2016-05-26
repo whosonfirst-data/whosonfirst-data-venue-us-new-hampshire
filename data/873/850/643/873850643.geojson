@@ -1,0 +1,75 @@
+{
+  "id": 873850643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455607,42.977289,-71.455607,42.977289",
+    "geom:latitude":42.977289,
+    "geom:longitude":-71.455607,
+    "iso:country":"US",
+    "sg:address":"225 Silver St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 8645",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j9NxZX727RG8iLxv4gCV5_42.977289_-71.455607@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298825,
+    "wof:geomhash":"f0dadba0a263f3b680d15ebc1d6366fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873850643
+        }
+    ],
+    "wof:id":873850643,
+    "wof:lastmodified":1464298825,
+    "wof:name":"L & W Industries",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.455607,
+    42.977289,
+    -71.455607,
+    42.977289
+],
+  "geometry": {"coordinates":[-71.455607,42.977289],"type":"Point"}
+}

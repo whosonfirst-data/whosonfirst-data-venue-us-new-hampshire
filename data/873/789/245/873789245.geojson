@@ -1,0 +1,75 @@
+{
+  "id": 873789245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.814748,42.910162,-70.814748,42.910162",
+    "geom:latitude":42.910162,
+    "geom:longitude":-70.814748,
+    "iso:country":"US",
+    "sg:address":"83 Brown Ave",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 3938",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852121,
+        102191575,
+        404476755,
+        85633793,
+        85975133,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0prkM4sddPxgN0gEnI0vUK_42.910162_-70.814748@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297632,
+    "wof:geomhash":"de0e2ae34d42caf8b89b7a781eb34cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975133,
+            "neighbourhood_id":85852121,
+            "region_id":85688689,
+            "venue_id":873789245
+        }
+    ],
+    "wof:id":873789245,
+    "wof:lastmodified":1464297632,
+    "wof:name":"Brown Avenue Apartments",
+    "wof:parent_id":85852121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.814748,
+    42.910162,
+    -70.814748,
+    42.910162
+],
+  "geometry": {"coordinates":[-70.81474799999999,42.910162],"type":"Point"}
+}

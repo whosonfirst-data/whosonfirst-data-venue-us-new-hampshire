@@ -1,0 +1,71 @@
+{
+  "id": 873877823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510793,43.67252,-71.510793,43.67252",
+    "geom:latitude":43.67252,
+    "geom:longitude":-71.510793,
+    "iso:country":"US",
+    "sg:address":"11 Jenness Hill Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6352",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "works"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816433,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPwsF8r7PxhrpDXUmdQV6_43.672520_-71.510793@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299392,
+    "wof:geomhash":"45e0d250d63442c829dbba136f8f0d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85816433,
+            "region_id":85688689,
+            "venue_id":873877823
+        }
+    ],
+    "wof:id":873877823,
+    "wof:lastmodified":1464299392,
+    "wof:name":"Public Works",
+    "wof:parent_id":85816433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "works"
+    ]
+},
+  "bbox": [
+    -71.510793,
+    43.67252,
+    -71.510793,
+    43.67252
+],
+  "geometry": {"coordinates":[-71.51079300000001,43.67252],"type":"Point"}
+}

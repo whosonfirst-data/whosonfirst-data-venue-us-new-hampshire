@@ -1,0 +1,84 @@
+{
+  "id": 873934359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870512,42.899493,-70.870512,42.899493",
+    "geom:latitude":42.899493,
+    "geom:longitude":-70.870512,
+    "iso:country":"US",
+    "sg:address":"823 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 2119",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NAjXIVjtOy65bvQTV4cIr_42.899493_-70.870512@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300487,
+    "wof:geomhash":"75f44f45e16ccf410544b877fe3b19f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873934359
+        }
+    ],
+    "wof:id":873934359,
+    "wof:lastmodified":1464300487,
+    "wof:name":"Seabrookhealth",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.870512,
+    42.899493,
+    -70.870512,
+    42.899493
+],
+  "geometry": {"coordinates":[-70.87051200000001,42.899493],"type":"Point"}
+}

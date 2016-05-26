@@ -1,0 +1,71 @@
+{
+  "id": 873789667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.038499,43.208081,-71.038499,43.208081",
+    "geom:latitude":43.208081,
+    "geom:longitude":-71.038499,
+    "iso:country":"US",
+    "sg:address":"127 Young Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 9949",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ic4FQ3FjAge5yGEJe7Wg_43.208081_-71.038499@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297636,
+    "wof:geomhash":"14d6660002a448b77931f444626e4bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873789667
+        }
+    ],
+    "wof:id":873789667,
+    "wof:lastmodified":1464297636,
+    "wof:name":"L R Caverly Construction",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.038499,
+    43.208081,
+    -71.038499,
+    43.208081
+],
+  "geometry": {"coordinates":[-71.038499,43.208081],"type":"Point"}
+}

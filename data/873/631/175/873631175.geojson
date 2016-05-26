@@ -1,0 +1,71 @@
+{
+  "id": 873631175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.828223,43.286626,-71.828223,43.286626",
+    "geom:latitude":43.286626,
+    "geom:longitude":-71.828223,
+    "iso:country":"US",
+    "sg:address":"49 W Main St",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 9200",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VGiP1cM4H4wCt8QCl5k7g_43.286626_-71.828223@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"1e62560aba8cfae9ecd5d270bff534be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873631175
+        }
+    ],
+    "wof:id":873631175,
+    "wof:lastmodified":1464295376,
+    "wof:name":"Warner Senior Ctr",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.828223,
+    43.286626,
+    -71.828223,
+    43.286626
+],
+  "geometry": {"coordinates":[-71.82822299999999,43.286626],"type":"Point"}
+}

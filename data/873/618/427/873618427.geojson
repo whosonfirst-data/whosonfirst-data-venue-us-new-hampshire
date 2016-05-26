@@ -1,0 +1,76 @@
+{
+  "id": 873618427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.16262,43.622858,-71.16262,43.622858",
+    "geom:latitude":43.622858,
+    "geom:longitude":-71.16262,
+    "iso:country":"US",
+    "sg:address":"47 College Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 862 3674",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VoOsZytV79wNFsnVrBSQo_43.622858_-71.162620@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295234,
+    "wof:geomhash":"4b567c7d10dfe9d0bd806033bdc4c006",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873618427
+        }
+    ],
+    "wof:id":873618427,
+    "wof:lastmodified":1464295234,
+    "wof:name":"Durham Ambulance Svc",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.16262,
+    43.622858,
+    -71.16262,
+    43.622858
+],
+  "geometry": {"coordinates":[-71.16262,43.622858],"type":"Point"}
+}

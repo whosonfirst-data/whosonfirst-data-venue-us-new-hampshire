@@ -1,0 +1,71 @@
+{
+  "id": 873646111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458695,42.932201,-71.458695,42.932201",
+    "geom:latitude":42.932201,
+    "geom:longitude":-71.458695,
+    "iso:country":"US",
+    "sg:address":"21 Commerce Park N",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 0099",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AS20eGCnymwCmvt62Jyj8_42.932201_-71.458695@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295548,
+    "wof:geomhash":"1fa800a5fd514e1c7cd0a2b0a3b15c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873646111
+        }
+    ],
+    "wof:id":873646111,
+    "wof:lastmodified":1464295548,
+    "wof:name":"Silver Spoon Salads Inc",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.458695,
+    42.932201,
+    -71.458695,
+    42.932201
+],
+  "geometry": {"coordinates":[-71.45869500000001,42.932201],"type":"Point"}
+}

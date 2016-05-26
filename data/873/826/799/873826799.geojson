@@ -1,0 +1,71 @@
+{
+  "id": 873826799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1083,43.133326,-71.1083,43.133326",
+    "geom:latitude":43.133326,
+    "geom:longitude":-71.1083,
+    "iso:country":"US",
+    "sg:address":"189 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8385",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22z8oEiyUTMBzwn3WM4WxV_43.133326_-71.108300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298272,
+    "wof:geomhash":"1586c826bf3f2fa080aa8998ca34b378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873826799
+        }
+    ],
+    "wof:id":873826799,
+    "wof:lastmodified":1464298272,
+    "wof:name":"Mustard Seed",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.1083,
+    43.133326,
+    -71.1083,
+    43.133326
+],
+  "geometry": {"coordinates":[-71.1083,43.133326],"type":"Point"}
+}

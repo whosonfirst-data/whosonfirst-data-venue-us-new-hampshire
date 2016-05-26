@@ -1,0 +1,80 @@
+{
+  "id": 873916607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442873,42.710331,-71.442873,42.710331",
+    "geom:latitude":42.710331,
+    "geom:longitude":-71.442873,
+    "iso:country":"US",
+    "sg:address":"8 Spit Brook Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/26354-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 2133",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eOpZ6Io6UkiZ0srngsrrF_42.710331_-71.442873@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300152,
+    "wof:geomhash":"e3cdc416bab42a8c4d26786645cf489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873916607
+        }
+    ],
+    "wof:id":873916607,
+    "wof:lastmodified":1464300152,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.442873,
+    42.710331,
+    -71.442873,
+    42.710331
+],
+  "geometry": {"coordinates":[-71.44287300000001,42.710331],"type":"Point"}
+}

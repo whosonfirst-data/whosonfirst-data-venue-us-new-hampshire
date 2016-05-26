@@ -1,0 +1,75 @@
+{
+  "id": 873750405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468772,43.530159,-71.468772,43.530159",
+    "geom:latitude":43.530159,
+    "geom:longitude":-71.468772,
+    "iso:country":"US",
+    "sg:address":"50 Church St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3156",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62iu43TKRKhNNqw6wo71Lr_43.530159_-71.468772@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297079,
+    "wof:geomhash":"df74379b91e7ed60b1a3bc874b128ca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873750405
+        }
+    ],
+    "wof:id":873750405,
+    "wof:lastmodified":1464297079,
+    "wof:name":"Holy Trinity School",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -71.468772,
+    43.530159,
+    -71.468772,
+    43.530159
+],
+  "geometry": {"coordinates":[-71.468772,43.530159],"type":"Point"}
+}

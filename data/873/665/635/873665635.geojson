@@ -1,0 +1,71 @@
+{
+  "id": 873665635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.749248,43.757881,-71.749248,43.757881",
+    "geom:latitude":43.757881,
+    "geom:longitude":-71.749248,
+    "iso:country":"US",
+    "sg:address":"210 Yeaton Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 2738",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69EFXkn3k6jHWmzMOnaGIg_43.757881_-71.749248@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295756,
+    "wof:geomhash":"e2b71f84f73c11a9103ea04487079221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873665635
+        }
+    ],
+    "wof:id":873665635,
+    "wof:lastmodified":1464295756,
+    "wof:name":"Dean H Yeaton Inc",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.749248,
+    43.757881,
+    -71.749248,
+    43.757881
+],
+  "geometry": {"coordinates":[-71.74924799999999,43.757881],"type":"Point"}
+}

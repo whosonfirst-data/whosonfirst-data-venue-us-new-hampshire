@@ -1,0 +1,77 @@
+{
+  "id": 873919853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.663124,42.714555,-71.663124,42.714555",
+    "geom:latitude":42.714555,
+    "geom:longitude":-71.663124,
+    "iso:country":"US",
+    "sg:address":"55 Route 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 3009",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fix-it",
+        "handyman"
+    ],
+    "sg:website":"http://SouthernNH.handymanmatters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76OWpW0qjUDx5dYDvxDkTG_42.714555_-71.663124@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300209,
+    "wof:geomhash":"d6393ac5b6eb14e714fbd4a973f538f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873919853
+        }
+    ],
+    "wof:id":873919853,
+    "wof:lastmodified":1464300209,
+    "wof:name":"Handyman Matters",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fix-it",
+        "handyman"
+    ]
+},
+  "bbox": [
+    -71.663124,
+    42.714555,
+    -71.663124,
+    42.714555
+],
+  "geometry": {"coordinates":[-71.663124,42.714555],"type":"Point"}
+}

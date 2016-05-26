@@ -1,0 +1,71 @@
+{
+  "id": 873760001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541576,43.258529,-71.541576,43.258529",
+    "geom:latitude":43.258529,
+    "geom:longitude":-71.541576,
+    "iso:country":"US",
+    "sg:address":"22 Country Club Ln",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 0232",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16TnSzdhmzUW1iAStGviIg_43.258529_-71.541576@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297206,
+    "wof:geomhash":"56457bf858591ae1950ff8db6ffc72f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873760001
+        }
+    ],
+    "wof:id":873760001,
+    "wof:lastmodified":1464297206,
+    "wof:name":"Concord Country Club",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.541576,
+    43.258529,
+    -71.541576,
+    43.258529
+],
+  "geometry": {"coordinates":[-71.54157600000001,43.258529],"type":"Point"}
+}

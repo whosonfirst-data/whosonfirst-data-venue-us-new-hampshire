@@ -1,0 +1,77 @@
+{
+  "id": 873846363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.306975,42.934572,-72.306975,42.934572",
+    "geom:latitude":42.934572,
+    "geom:longitude":-72.306975,
+    "iso:country":"US",
+    "sg:address":"44 Hanover St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 2127",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "generation",
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892245,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fxPEkuqAMolpuMHNE1hGY_42.934572_-72.306975@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298709,
+    "wof:geomhash":"8ba417a3483faf9001f0ca006aa37327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892245,
+            "region_id":85688689,
+            "venue_id":873846363
+        }
+    ],
+    "wof:id":873846363,
+    "wof:lastmodified":1464298709,
+    "wof:name":"Nash Mill",
+    "wof:parent_id":85892245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generation",
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.306975,
+    42.934572,
+    -72.306975,
+    42.934572
+],
+  "geometry": {"coordinates":[-72.30697499999999,42.934572],"type":"Point"}
+}

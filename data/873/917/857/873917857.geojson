@@ -1,0 +1,91 @@
+{
+  "id": 873917857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.817722,43.281094,-71.817722,43.281094",
+    "geom:latitude":43.281094,
+    "geom:longitude":-71.817722,
+    "iso:country":"US",
+    "sg:address":"32 Route 103 W",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/warner/149245-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2080",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mrxGbfQPBWEYllUZJSw14_43.281094_-71.817722@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300174,
+    "wof:geomhash":"f7119dcbbf1b438874838936af6c62ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873917857
+        }
+    ],
+    "wof:id":873917857,
+    "wof:lastmodified":1464300174,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.817722,
+    43.281094,
+    -71.817722,
+    43.281094
+],
+  "geometry": {"coordinates":[-71.817722,43.281094],"type":"Point"}
+}

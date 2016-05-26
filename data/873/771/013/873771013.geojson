@@ -1,0 +1,73 @@
+{
+  "id": 873771013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.593159,43.275488,-71.593159,43.275488",
+    "geom:latitude":43.275488,
+    "geom:longitude":-71.593159,
+    "iso:country":"US",
+    "sg:address":"101 Community Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4402",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58mh2oevTEGuFHa640Lb6N_43.275488_-71.593159@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297377,
+    "wof:geomhash":"60d51cd8015de7226c9a35d7e3a3c836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873771013
+        }
+    ],
+    "wof:id":873771013,
+    "wof:lastmodified":1464297377,
+    "wof:name":"Hooked On Salmon",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -71.593159,
+    43.275488,
+    -71.593159,
+    43.275488
+],
+  "geometry": {"coordinates":[-71.593159,43.275488],"type":"Point"}
+}

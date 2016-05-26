@@ -1,0 +1,74 @@
+{
+  "id": 873925365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.23838,42.782009,-71.23838,42.782009",
+    "geom:latitude":42.782009,
+    "geom:longitude":-71.23838,
+    "iso:country":"US",
+    "sg:address":"2 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0044",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aircraft-charter",
+        "leasing",
+        "rental"
+    ],
+    "sg:website":"http://www.airplanning.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zqr25PuJjiGF9Q1e3zHKo_42.782009_-71.238380@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300311,
+    "wof:geomhash":"2c4c1f8607d2af786b92776a808e518f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925365
+        }
+    ],
+    "wof:id":873925365,
+    "wof:lastmodified":1464300311,
+    "wof:name":"Air Planning",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft-charter",
+        "leasing",
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.23838,
+    42.782009,
+    -71.23838,
+    42.782009
+],
+  "geometry": {"coordinates":[-71.23838000000001,42.782009],"type":"Point"}
+}

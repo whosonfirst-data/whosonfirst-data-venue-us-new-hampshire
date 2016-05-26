@@ -1,0 +1,69 @@
+{
+  "id": 873621487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.356726,42.825918,-71.356726,42.825918",
+    "geom:latitude":42.825918,
+    "geom:longitude":-71.356726,
+    "iso:country":"US",
+    "sg:address":"4 Morningside Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 2198",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18lqZ4tzb1okPUWwwtcU1r_42.825918_-71.356726@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"87bc8a30f64d35fded169ba8858f72dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873621487
+        }
+    ],
+    "wof:id":873621487,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Tiers Of Joy",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.356726,
+    42.825918,
+    -71.356726,
+    42.825918
+],
+  "geometry": {"coordinates":[-71.35672599999999,42.825918],"type":"Point"}
+}

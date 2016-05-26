@@ -1,0 +1,80 @@
+{
+  "id": 873671793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54534,44.469659,-71.54534,44.469659",
+    "geom:latitude":44.469659,
+    "geom:longitude":-71.54534,
+    "iso:country":"US",
+    "sg:address":"200 Portland St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3346",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.cabotmotorinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199,
+        85822519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z4xkXySotQi2e3WX8nhiq_44.469659_-71.545340@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295819,
+    "wof:geomhash":"a4985ad015e69a5a9e70d3fe9c724651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873671793
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85822519,
+            "region_id":85688689,
+            "venue_id":873671793
+        }
+    ],
+    "wof:id":873671793,
+    "wof:lastmodified":1464295819,
+    "wof:name":"Cabot Motor Inn Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.54534,
+    44.469659,
+    -71.54534,
+    44.469659
+],
+  "geometry": {"coordinates":[-71.54534,44.469659],"type":"Point"}
+}

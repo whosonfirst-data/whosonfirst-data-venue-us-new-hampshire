@@ -1,0 +1,71 @@
+{
+  "id": 873818951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498834,42.973555,-71.498834,42.973555",
+    "geom:latitude":42.973555,
+    "geom:longitude":-71.498834,
+    "iso:country":"US",
+    "sg:address":"18 Savoie St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 0383",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uCywadzOAN6IhbOYVwtl7_42.973555_-71.498834@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298100,
+    "wof:geomhash":"fb65433acb2c0a3025e10bee6c662be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873818951
+        }
+    ],
+    "wof:id":873818951,
+    "wof:lastmodified":1464298100,
+    "wof:name":"Rays Bouvier Electrical Svcs",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.498834,
+    42.973555,
+    -71.498834,
+    42.973555
+],
+  "geometry": {"coordinates":[-71.498834,42.973555],"type":"Point"}
+}

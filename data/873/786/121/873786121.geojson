@@ -1,0 +1,71 @@
+{
+  "id": 873786121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035837,44.15069,-72.035837,44.15069",
+    "geom:latitude":44.15069,
+    "geom:longitude":-72.035837,
+    "iso:country":"US",
+    "sg:address":"111 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 2505",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eG9svgovowkRkQiGwqBwa_44.150690_-72.035837@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297572,
+    "wof:geomhash":"d72d4038652d1d8f02d729b3ca2872f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873786121
+        }
+    ],
+    "wof:id":873786121,
+    "wof:lastmodified":1464297572,
+    "wof:name":"Tuck Press",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -72.035837,
+    44.15069,
+    -72.035837,
+    44.15069
+],
+  "geometry": {"coordinates":[-72.035837,44.15069],"type":"Point"}
+}

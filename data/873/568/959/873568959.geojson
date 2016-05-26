@@ -1,0 +1,71 @@
+{
+  "id": 873568959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667794,44.044913,-71.667794,44.044913",
+    "geom:latitude":44.044913,
+    "geom:longitude":-71.667794,
+    "iso:country":"US",
+    "sg:address":"117 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 5040",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yRgQzN4g4PPF1mKsKdMvJ_44.044913_-71.667794@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294595,
+    "wof:geomhash":"c3fcd3c37010a53394ab8e12d59c613e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873568959
+        }
+    ],
+    "wof:id":873568959,
+    "wof:lastmodified":1464294595,
+    "wof:name":"Mountain Wheels Scooter Rntls",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.667794,
+    44.044913,
+    -71.667794,
+    44.044913
+],
+  "geometry": {"coordinates":[-71.667794,44.044913],"type":"Point"}
+}

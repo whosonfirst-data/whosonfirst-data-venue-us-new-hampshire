@@ -1,0 +1,71 @@
+{
+  "id": 873930935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.117401,43.973,-71.117401,43.973",
+    "geom:latitude":43.973,
+    "geom:longitude":-71.117401,
+    "iso:country":"US",
+    "sg:address":"333 Tasker Hill Rd",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 4251",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bF0RoFHBzah0EI1j4bYkp_43.973000_-71.117401@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300429,
+    "wof:geomhash":"b588ca54a9531a47c5590396659d5936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930935
+        }
+    ],
+    "wof:id":873930935,
+    "wof:lastmodified":1464300429,
+    "wof:name":"Racin'paper",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -71.117401,
+    43.973,
+    -71.117401,
+    43.973
+],
+  "geometry": {"coordinates":[-71.117401,43.973],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873672823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481141,42.965106,-71.481141,42.965106",
+    "geom:latitude":42.965106,
+    "geom:longitude":-71.481141,
+    "iso:country":"US",
+    "sg:address":"1 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 1369",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nCsWI5DlPTHhiI8hAvnLQ_42.965106_-71.481141@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295829,
+    "wof:geomhash":"db8f2ceeeaf4756066d6818933b4cf2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873672823
+        }
+    ],
+    "wof:id":873672823,
+    "wof:lastmodified":1464295829,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.481141,
+    42.965106,
+    -71.481141,
+    42.965106
+],
+  "geometry": {"coordinates":[-71.48114099999999,42.965106],"type":"Point"}
+}

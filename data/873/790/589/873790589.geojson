@@ -1,0 +1,77 @@
+{
+  "id": 873790589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.281217,43.699416,-72.281217,43.699416",
+    "geom:latitude":43.699416,
+    "geom:longitude":-72.281217,
+    "iso:country":"US",
+    "sg:address":"51 S Park St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 6650",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bDVadrrmWSmGL1gbf8jIB_43.699416_-72.281217@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297648,
+    "wof:geomhash":"6a42c8820f54be913e3210c58c290f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873790589
+        }
+    ],
+    "wof:id":873790589,
+    "wof:lastmodified":1464297648,
+    "wof:name":"Co-Op Service Ctr",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.281217,
+    43.699416,
+    -72.281217,
+    43.699416
+],
+  "geometry": {"coordinates":[-72.281217,43.699416],"type":"Point"}
+}

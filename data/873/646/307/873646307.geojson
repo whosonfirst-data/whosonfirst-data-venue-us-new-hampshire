@@ -1,0 +1,73 @@
+{
+  "id": 873646307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537596,44.460854,-71.537596,44.460854",
+    "geom:latitude":44.460854,
+    "geom:longitude":-71.537596,
+    "iso:country":"US",
+    "sg:address":"309 Portland St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4461",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m9EP3Sw7wXVbCiPYksACa_44.460854_-71.537596@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295550,
+    "wof:geomhash":"29a0816a7df08dfc731bc1640f86189f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873646307
+        }
+    ],
+    "wof:id":873646307,
+    "wof:lastmodified":1464295550,
+    "wof:name":"Portland Pipe Line Corporation",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.537596,
+    44.460854,
+    -71.537596,
+    44.460854
+],
+  "geometry": {"coordinates":[-71.53759599999999,44.460854],"type":"Point"}
+}

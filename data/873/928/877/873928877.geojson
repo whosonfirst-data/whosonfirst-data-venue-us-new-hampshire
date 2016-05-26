@@ -1,0 +1,80 @@
+{
+  "id": 873928877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.28264,42.868987,-72.28264,42.868987",
+    "geom:latitude":42.868987,
+    "geom:longitude":-72.28264,
+    "iso:country":"US",
+    "sg:address":"679 Old Homestead Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 8550",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Y6vXub3xGQdGTBT1lB1H_42.868987_-72.282640@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300386,
+    "wof:geomhash":"470c671c97675eb9efa2ebfc3f748817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873928877
+        }
+    ],
+    "wof:id":873928877,
+    "wof:lastmodified":1464300386,
+    "wof:name":"Jack & Jill Nursery School",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.28264,
+    42.868987,
+    -72.28264,
+    42.868987
+],
+  "geometry": {"coordinates":[-72.28264,42.868987],"type":"Point"}
+}

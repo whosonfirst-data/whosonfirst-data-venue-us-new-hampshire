@@ -1,0 +1,66 @@
+{
+  "id": 873823697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592377,43.282171,-71.592377,43.282171",
+    "geom:latitude":43.282171,
+    "geom:longitude":-71.592377,
+    "iso:country":"US",
+    "sg:address":"43 Rolfe St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4849",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ijCFIXOxEKEsTgnz0N3jl_43.282171_-71.592377@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298205,
+    "wof:geomhash":"88b5905974d5f8d596ea422d1c08b0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873823697
+        }
+    ],
+    "wof:id":873823697,
+    "wof:lastmodified":1464298205,
+    "wof:name":"Concord Farmers Market",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.592377,
+    43.282171,
+    -71.592377,
+    43.282171
+],
+  "geometry": {"coordinates":[-71.592377,43.282171],"type":"Point"}
+}

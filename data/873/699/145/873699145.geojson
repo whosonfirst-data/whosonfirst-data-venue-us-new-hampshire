@@ -1,0 +1,75 @@
+{
+  "id": 873699145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.655165,43.435707,-71.655165,43.435707",
+    "geom:latitude":43.435707,
+    "geom:longitude":-71.655165,
+    "iso:country":"US",
+    "sg:address":"270 S Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 2789",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "warehouse",
+        "management",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QksCokZOIGVSQ7J2WXFiz_43.435707_-71.655165@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296395,
+    "wof:geomhash":"43554c43616b3f4df4e3617db13ddb02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873699145
+        }
+    ],
+    "wof:id":873699145,
+    "wof:lastmodified":1464296395,
+    "wof:name":"Franklin Storage Co",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "management",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -71.655165,
+    43.435707,
+    -71.655165,
+    43.435707
+],
+  "geometry": {"coordinates":[-71.655165,43.435707],"type":"Point"}
+}

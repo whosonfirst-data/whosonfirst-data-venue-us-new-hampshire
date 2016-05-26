@@ -1,0 +1,83 @@
+{
+  "id": 873935231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.229727,43.592166,-71.229727,43.592166",
+    "geom:latitude":43.592166,
+    "geom:longitude":-71.229727,
+    "iso:country":"US",
+    "sg:address":"40 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 1771",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bookstore",
+        "flower"
+    ],
+    "sg:website":"wolfeborocamelot.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WyiCvOeN5EWpRPW0Efd9J_43.592166_-71.229727@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300504,
+    "wof:geomhash":"ab73ebfc862bb1b7d1de2b5e0063dfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935231
+        }
+    ],
+    "wof:id":873935231,
+    "wof:lastmodified":1464300504,
+    "wof:name":"Camelot Book-Gift Shop",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "flower"
+    ]
+},
+  "bbox": [
+    -71.229727,
+    43.592166,
+    -71.229727,
+    43.592166
+],
+  "geometry": {"coordinates":[-71.229727,43.592166],"type":"Point"}
+}

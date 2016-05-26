@@ -1,0 +1,71 @@
+{
+  "id": 873827285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.026457,43.493846,-71.026457,43.493846",
+    "geom:latitude":43.493846,
+    "geom:longitude":-71.026457,
+    "iso:country":"US",
+    "sg:address":"143 Main St",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 473 8975",
+    "sg:postcode":"03887",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yDHn1ZiUfmxtffI3LOsQt_43.493846_-71.026457@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298282,
+    "wof:geomhash":"20cc78f5ef5ca8562ea231a03b3ee4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873827285
+        }
+    ],
+    "wof:id":873827285,
+    "wof:lastmodified":1464298282,
+    "wof:name":"2 John's Auto",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.026457,
+    43.493846,
+    -71.026457,
+    43.493846
+],
+  "geometry": {"coordinates":[-71.02645699999999,43.493846],"type":"Point"}
+}

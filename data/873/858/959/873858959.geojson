@@ -1,0 +1,71 @@
+{
+  "id": 873858959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.735621,43.639479,-71.735621,43.639479",
+    "geom:latitude":43.639479,
+    "geom:longitude":-71.735621,
+    "iso:country":"US",
+    "sg:address":"442 Mayhew Tpke",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 5454",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hGkpx5X9Laf5hmlhB1LaY_43.639479_-71.735621@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298996,
+    "wof:geomhash":"679703a4a883a6434d9de2b5addbd221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873858959
+        }
+    ],
+    "wof:id":873858959,
+    "wof:lastmodified":1464298996,
+    "wof:name":"Woolner Corp",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.735621,
+    43.639479,
+    -71.735621,
+    43.639479
+],
+  "geometry": {"coordinates":[-71.73562099999999,43.639479],"type":"Point"}
+}

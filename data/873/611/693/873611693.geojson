@@ -1,0 +1,69 @@
+{
+  "id": 873611693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.180425,44.46976,-71.180425,44.46976",
+    "geom:latitude":44.46976,
+    "geom:longitude":-71.180425,
+    "iso:country":"US",
+    "sg:address":"168 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7532",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67HHRzFSF5ineEdCaGEp9d_44.469760_-71.180425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295158,
+    "wof:geomhash":"aa22efeac1526ad92e94f40f84f3072c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873611693
+        }
+    ],
+    "wof:id":873611693,
+    "wof:lastmodified":1464295158,
+    "wof:name":"Berlin City Manager",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.180425,
+    44.46976,
+    -71.180425,
+    44.46976
+],
+  "geometry": {"coordinates":[-71.180425,44.46976],"type":"Point"}
+}

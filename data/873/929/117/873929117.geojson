@@ -1,0 +1,79 @@
+{
+  "id": 873929117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.032006,42.796188,-72.032006,42.796188",
+    "geom:latitude":42.796188,
+    "geom:longitude":-72.032006,
+    "iso:country":"US",
+    "sg:address":"350 River St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8577",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "management",
+        "metal",
+        "contractor"
+    ],
+    "sg:website":"http://www.wrb.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856251,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24avLRdg8ntqS81Hsz3g13_42.796188_-72.032006@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300391,
+    "wof:geomhash":"b274c29d0022ec3c2f0a1a6570525193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85856251,
+            "region_id":85688689,
+            "venue_id":873929117
+        }
+    ],
+    "wof:id":873929117,
+    "wof:lastmodified":1464300391,
+    "wof:name":"W Rindge Builders",
+    "wof:parent_id":85856251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "metal",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.032006,
+    42.796188,
+    -72.032006,
+    42.796188
+],
+  "geometry": {"coordinates":[-72.032006,42.796188],"type":"Point"}
+}

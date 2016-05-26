@@ -1,0 +1,91 @@
+{
+  "id": 873916315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522184,43.026204,-71.522184,43.026204",
+    "geom:latitude":43.026204,
+    "geom:longitude":-71.522184,
+    "iso:country":"US",
+    "sg:address":"2 MO-SETT Ave",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/goffstown/149156-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 5338",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMizTUMzcqYkhvcgdtHl6_43.026204_-71.522184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300147,
+    "wof:geomhash":"e9fc3c1924f150b02de748ad80f9ab6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873916315
+        }
+    ],
+    "wof:id":873916315,
+    "wof:lastmodified":1464300147,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.522184,
+    43.026204,
+    -71.522184,
+    43.026204
+],
+  "geometry": {"coordinates":[-71.522184,43.026204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873835027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233462,42.782287,-71.233462,42.782287",
+    "geom:latitude":42.782287,
+    "geom:longitude":-71.233462,
+    "iso:country":"US",
+    "sg:address":"42 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2181",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNdFVhbOi1tESY5xlYouw_42.782287_-71.233462@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298446,
+    "wof:geomhash":"ecc8b7dbc67e7a07a18e4111c26af602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873835027
+        }
+    ],
+    "wof:id":873835027,
+    "wof:lastmodified":1464298446,
+    "wof:name":"Goundrey-Mundry Funeral Home",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "home"
+    ]
+},
+  "bbox": [
+    -71.233462,
+    42.782287,
+    -71.233462,
+    42.782287
+],
+  "geometry": {"coordinates":[-71.233462,42.782287],"type":"Point"}
+}

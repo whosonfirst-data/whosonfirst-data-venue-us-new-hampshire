@@ -1,0 +1,69 @@
+{
+  "id": 873661823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534889,42.871254,-71.534889,42.871254",
+    "geom:latitude":42.871254,
+    "geom:longitude":-71.534889,
+    "iso:country":"US",
+    "sg:address":"15 Danbury Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 3766",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yw31OC7O6DWVqoNTCbG3B_42.871254_-71.534889@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295717,
+    "wof:geomhash":"a2fec7915a1f723846b367b0c5012a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873661823
+        }
+    ],
+    "wof:id":873661823,
+    "wof:lastmodified":1464295717,
+    "wof:name":"Gilson Refrigeration",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -71.534889,
+    42.871254,
+    -71.534889,
+    42.871254
+],
+  "geometry": {"coordinates":[-71.53488900000001,42.871254],"type":"Point"}
+}

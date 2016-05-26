@@ -1,0 +1,69 @@
+{
+  "id": 873902801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.610353,44.374755,-71.610353,44.374755",
+    "geom:latitude":44.374755,
+    "geom:longitude":-71.610353,
+    "iso:country":"US",
+    "sg:address":"38 Lancaster Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 9611",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IK8Gq5CutWsRueuW38Lw3_44.374755_-71.610353@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299875,
+    "wof:geomhash":"96d79fe8b5cf720e1415b9ee349c97d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873902801
+        }
+    ],
+    "wof:id":873902801,
+    "wof:lastmodified":1464299875,
+    "wof:name":"Whitefield Animal Hospital",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.610353,
+    44.374755,
+    -71.610353,
+    44.374755
+],
+  "geometry": {"coordinates":[-71.610353,44.374755],"type":"Point"}
+}

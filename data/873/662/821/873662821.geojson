@@ -1,0 +1,71 @@
+{
+  "id": 873662821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57188,44.49341,-71.57188,44.49341",
+    "geom:latitude":44.49341,
+    "geom:longitude":-71.57188,
+    "iso:country":"US",
+    "sg:address":"147 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4501",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UPbOfN9tRfbrCMYm5ScUV_44.493410_-71.571880@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295729,
+    "wof:geomhash":"05ca4308edeb61a1b2a14105ea59beea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873662821
+        }
+    ],
+    "wof:id":873662821,
+    "wof:lastmodified":1464295729,
+    "wof:name":"Church Of Christ Scientist",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.57188,
+    44.49341,
+    -71.57188,
+    44.49341
+],
+  "geometry": {"coordinates":[-71.57187999999999,44.49341],"type":"Point"}
+}

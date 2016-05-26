@@ -1,0 +1,73 @@
+{
+  "id": 873718385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535075,42.847181,-71.535075,42.847181",
+    "geom:latitude":42.847181,
+    "geom:longitude":-71.535075,
+    "iso:country":"US",
+    "sg:address":"106 Amherst Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 423 5949",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "module",
+        "unit",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DEHQoXp1inc1J6lAYM1MW_42.847181_-71.535075@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296625,
+    "wof:geomhash":"b933daa723447a0e3c451e8ef2c8c2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873718385
+        }
+    ],
+    "wof:id":873718385,
+    "wof:lastmodified":1464296625,
+    "wof:name":"Azco Corporation",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "module",
+        "unit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.535075,
+    42.847181,
+    -71.535075,
+    42.847181
+],
+  "geometry": {"coordinates":[-71.53507500000001,42.847181],"type":"Point"}
+}

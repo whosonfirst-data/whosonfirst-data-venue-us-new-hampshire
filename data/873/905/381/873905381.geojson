@@ -1,0 +1,71 @@
+{
+  "id": 873905381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.100622,44.015558,-71.100622,44.015558",
+    "geom:latitude":44.015558,
+    "geom:longitude":-71.100622,
+    "iso:country":"US",
+    "sg:address":"52 Mountain St",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5593",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65uAQjIzOSk1pSnYkZixYb_44.015558_-71.100622@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299930,
+    "wof:geomhash":"93b28102ecf0a1012d9b72b4e0dbb56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873905381
+        }
+    ],
+    "wof:id":873905381,
+    "wof:lastmodified":1464299930,
+    "wof:name":"Sir Lines-A-Lot Pavement Maint",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -71.100622,
+    44.015558,
+    -71.100622,
+    44.015558
+],
+  "geometry": {"coordinates":[-71.100622,44.015558],"type":"Point"}
+}

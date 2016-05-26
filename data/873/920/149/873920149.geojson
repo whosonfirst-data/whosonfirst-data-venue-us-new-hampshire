@@ -1,0 +1,74 @@
+{
+  "id": 873920149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254284,43.145471,-71.254284,43.145471",
+    "geom:latitude":43.145471,
+    "geom:longitude":-71.254284,
+    "iso:country":"US",
+    "sg:address":"5 Old Center Rd N",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7353",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_582mT4hV6gU4ouCskXPY1a_43.145471_-71.254284@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300214,
+    "wof:geomhash":"766c42e456f488c7e0e0bcf1e0db4b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873920149
+        }
+    ],
+    "wof:id":873920149,
+    "wof:lastmodified":1464300214,
+    "wof:name":"Deerfield Cooperative Preschool",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.254284,
+    43.145471,
+    -71.254284,
+    43.145471
+],
+  "geometry": {"coordinates":[-71.254284,43.145471],"type":"Point"}
+}

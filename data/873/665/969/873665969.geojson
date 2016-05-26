@@ -1,0 +1,71 @@
+{
+  "id": 873665969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.703484,43.043621,-71.703484,43.043621",
+    "geom:latitude":43.043621,
+    "geom:longitude":-71.703484,
+    "iso:country":"US",
+    "sg:address":"59 Ridgeview Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 5529",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "uniform",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kCfdyrWe7z5uKpDv0Xsds_43.043621_-71.703484@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295760,
+    "wof:geomhash":"9e930fc28e9a3bd540a9735bb1fd2e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873665969
+        }
+    ],
+    "wof:id":873665969,
+    "wof:lastmodified":1464295760,
+    "wof:name":"W T Supply Co Inc",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniform",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.703484,
+    43.043621,
+    -71.703484,
+    43.043621
+],
+  "geometry": {"coordinates":[-71.703484,43.043621],"type":"Point"}
+}

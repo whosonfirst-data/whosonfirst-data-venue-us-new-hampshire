@@ -1,0 +1,71 @@
+{
+  "id": 873685289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511201,43.701638,-71.511201,43.701638",
+    "geom:latitude":43.701638,
+    "geom:longitude":-71.511201,
+    "iso:country":"US",
+    "sg:address":"19 College Rd",
+    "sg:city":"Center Harbor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 5211",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816433,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xtfra71PAEWpZ5LKikcRP_43.701638_-71.511201@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296145,
+    "wof:geomhash":"ef3f8ec3b03a49ad21f5c6ece40cf763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85816433,
+            "region_id":85688689,
+            "venue_id":873685289
+        }
+    ],
+    "wof:id":873685289,
+    "wof:lastmodified":1464296145,
+    "wof:name":"J R Dionne Electric",
+    "wof:parent_id":85816433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.511201,
+    43.701638,
+    -71.511201,
+    43.701638
+],
+  "geometry": {"coordinates":[-71.511201,43.701638],"type":"Point"}
+}

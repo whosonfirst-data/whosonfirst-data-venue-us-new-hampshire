@@ -1,0 +1,76 @@
+{
+  "id": 873635953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139238,43.311424,-72.139238,43.311424",
+    "geom:latitude":43.311424,
+    "geom:longitude":-72.139238,
+    "iso:country":"US",
+    "sg:address":"79 Province Rd",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 5500",
+    "sg:postcode":"03752",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MLTfAS4KilBATPxL1qbCk_43.311424_-72.139238@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295431,
+    "wof:geomhash":"387abce315f4d139b72ed2e598d95b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873635953
+        }
+    ],
+    "wof:id":873635953,
+    "wof:lastmodified":1464295431,
+    "wof:name":"Horse Shoe Pines",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.139238,
+    43.311424,
+    -72.139238,
+    43.311424
+],
+  "geometry": {"coordinates":[-72.13923800000001,43.311424],"type":"Point"}
+}

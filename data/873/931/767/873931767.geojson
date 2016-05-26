@@ -1,0 +1,80 @@
+{
+  "id": 873931767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.96048,42.978378,-70.96048,42.978378",
+    "geom:latitude":42.978378,
+    "geom:longitude":-70.96048,
+    "iso:country":"US",
+    "sg:address":"1 Mill St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 1828",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wta4yI5wX2ZtKhE2fWxJx_42.978378_-70.960480@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300442,
+    "wof:geomhash":"9426606b3d969f58055b14d7f1bd0646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873931767
+        }
+    ],
+    "wof:id":873931767,
+    "wof:lastmodified":1464300442,
+    "wof:name":"Cam's Antiques",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    -70.96048,
+    42.978378,
+    -70.96048,
+    42.978378
+],
+  "geometry": {"coordinates":[-70.96048,42.978378],"type":"Point"}
+}

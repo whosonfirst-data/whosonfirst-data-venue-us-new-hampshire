@@ -1,0 +1,79 @@
+{
+  "id": 873922103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472752,42.798397,-71.472752,42.798397",
+    "geom:latitude":42.798397,
+    "geom:longitude":-71.472752,
+    "iso:country":"US",
+    "sg:address":"32 Daniel Webster Hwy # 8",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 0130",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "abstracter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o1fZfsJtkeFAYvirJHJxs_42.798397_-71.472752@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300254,
+    "wof:geomhash":"e109accd681d0ce45d6ebedb058a35fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873922103
+        }
+    ],
+    "wof:id":873922103,
+    "wof:lastmodified":1464300254,
+    "wof:name":"Access Closing & Title Services",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstracter"
+    ]
+},
+  "bbox": [
+    -71.472752,
+    42.798397,
+    -71.472752,
+    42.798397
+],
+  "geometry": {"coordinates":[-71.472752,42.798397],"type":"Point"}
+}

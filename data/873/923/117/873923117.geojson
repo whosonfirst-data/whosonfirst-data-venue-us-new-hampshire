@@ -1,0 +1,85 @@
+{
+  "id": 873923117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463966,42.757851,-71.463966,42.757851",
+    "geom:latitude":42.757851,
+    "geom:longitude":-71.463966,
+    "iso:country":"US",
+    "sg:address":"240 Main St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 8555",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "used",
+        "truck"
+    ],
+    "sg:website":"http://www.bargainrentacar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20KbfSKfEazCjpchlTgAiQ_42.757851_-71.463966@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300273,
+    "wof:geomhash":"479fd2a3a10c3aa7c24680ce5b3083c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923117
+        }
+    ],
+    "wof:id":873923117,
+    "wof:lastmodified":1464300273,
+    "wof:name":"EconoSave Automobile Leasing & Rentals",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.463966,
+    42.757851,
+    -71.463966,
+    42.757851
+],
+  "geometry": {"coordinates":[-71.463966,42.757851],"type":"Point"}
+}

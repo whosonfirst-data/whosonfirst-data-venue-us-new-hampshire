@@ -1,0 +1,73 @@
+{
+  "id": 873556597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.656603,43.441785,-71.656603,43.441785",
+    "geom:latitude":43.441785,
+    "geom:longitude":-71.656603,
+    "iso:country":"US",
+    "sg:address":"32 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 4936",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XCqlbaLTXmreG0H7EAeja_43.441785_-71.656603@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294454,
+    "wof:geomhash":"eaf85b169a9a222bfa6ba5cda85b407b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873556597
+        }
+    ],
+    "wof:id":873556597,
+    "wof:lastmodified":1464294454,
+    "wof:name":"Adams Auto",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.656603,
+    43.441785,
+    -71.656603,
+    43.441785
+],
+  "geometry": {"coordinates":[-71.656603,43.441785],"type":"Point"}
+}

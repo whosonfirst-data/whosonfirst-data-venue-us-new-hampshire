@@ -1,0 +1,75 @@
+{
+  "id": 873687431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476522,43.522937,-71.476522,43.522937",
+    "geom:latitude":43.522937,
+    "geom:longitude":-71.476522,
+    "iso:country":"US",
+    "sg:address":"54 Bay St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4275",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rrR0r7iXxAYpZ0E4whTVc_43.522937_-71.476522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296203,
+    "wof:geomhash":"eb1a618dad1d6fe78802bbfcdb412908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873687431
+        }
+    ],
+    "wof:id":873687431,
+    "wof:lastmodified":1464296203,
+    "wof:name":"Tom's Tops N' Trim",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -71.476522,
+    43.522937,
+    -71.476522,
+    43.522937
+],
+  "geometry": {"coordinates":[-71.476522,43.522937],"type":"Point"}
+}

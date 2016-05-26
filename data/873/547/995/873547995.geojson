@@ -1,0 +1,71 @@
+{
+  "id": 873547995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687768,43.753524,-71.687768,43.753524",
+    "geom:latitude":43.753524,
+    "geom:longitude":-71.687768,
+    "iso:country":"US",
+    "sg:address":"6 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4377",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g8uoRPvC8SqsMp4xdexT2_43.753524_-71.687768@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294356,
+    "wof:geomhash":"d885a46a3bd7a7c86298e70841c82617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873547995
+        }
+    ],
+    "wof:id":873547995,
+    "wof:lastmodified":1464294356,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.687768,
+    43.753524,
+    -71.687768,
+    43.753524
+],
+  "geometry": {"coordinates":[-71.68776800000001,43.753524],"type":"Point"}
+}

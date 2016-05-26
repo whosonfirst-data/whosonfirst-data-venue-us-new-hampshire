@@ -1,0 +1,80 @@
+{
+  "id": 873774039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471045,43.523947,-71.471045,43.523947",
+    "geom:latitude":43.523947,
+    "geom:longitude":-71.471045,
+    "iso:country":"US",
+    "sg:address":"109 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1484",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nonphysical",
+        "commercial",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sLaBNOh6tmKmbmB8aoxOc_43.523947_-71.471045@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297413,
+    "wof:geomhash":"a9f6d1e664ab7e63a238de275263385a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873774039
+        }
+    ],
+    "wof:id":873774039,
+    "wof:lastmodified":1464297413,
+    "wof:name":"Applied Economic Research Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.471045,
+    43.523947,
+    -71.471045,
+    43.523947
+],
+  "geometry": {"coordinates":[-71.471045,43.523947],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873578099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.637819,43.335701,-71.637819,43.335701",
+    "geom:latitude":43.335701,
+    "geom:longitude":-71.637819,
+    "iso:country":"US",
+    "sg:address":"85 Daniel Webster Hwy",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 6097",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76DqzsxJza1KsPIjMwnfm3_43.335701_-71.637819@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294695,
+    "wof:geomhash":"f1d2b1ac5f6b82f55c17b5a24ed1a93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873578099
+        }
+    ],
+    "wof:id":873578099,
+    "wof:lastmodified":1464294695,
+    "wof:name":"U-Haul Co Independent Dealers",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.637819,
+    43.335701,
+    -71.637819,
+    43.335701
+],
+  "geometry": {"coordinates":[-71.63781899999999,43.335701],"type":"Point"}
+}

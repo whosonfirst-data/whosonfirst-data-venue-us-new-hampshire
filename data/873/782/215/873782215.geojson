@@ -1,0 +1,71 @@
+{
+  "id": 873782215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.028692,42.885188,-71.028692,42.885188",
+    "geom:latitude":42.885188,
+    "geom:longitude":-71.028692,
+    "iso:country":"US",
+    "sg:address":"82 N Main St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 1276",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22yUFarVgDqpVmXJEzm2ks_42.885188_-71.028692@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297521,
+    "wof:geomhash":"ac9cc4dbd032c521077ad07612f44bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873782215
+        }
+    ],
+    "wof:id":873782215,
+    "wof:lastmodified":1464297521,
+    "wof:name":"Gardella Electric",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.028692,
+    42.885188,
+    -71.028692,
+    42.885188
+],
+  "geometry": {"coordinates":[-71.02869200000001,42.885188],"type":"Point"}
+}

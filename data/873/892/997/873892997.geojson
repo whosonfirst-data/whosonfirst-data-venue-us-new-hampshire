@@ -1,0 +1,73 @@
+{
+  "id": 873892997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549448,43.121258,-71.549448,43.121258",
+    "geom:latitude":43.121258,
+    "geom:longitude":-71.549448,
+    "iso:country":"US",
+    "sg:address":"31 Dunbarton Center Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 774 2966",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SnZVBkImEu1PWgBzGgvU6_43.121258_-71.549448@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299688,
+    "wof:geomhash":"0576ce5cf64238ef426dc25f0f888dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873892997
+        }
+    ],
+    "wof:id":873892997,
+    "wof:lastmodified":1464299688,
+    "wof:name":"Fournier Trucking Inc",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.549448,
+    43.121258,
+    -71.549448,
+    43.121258
+],
+  "geometry": {"coordinates":[-71.549448,43.121258],"type":"Point"}
+}

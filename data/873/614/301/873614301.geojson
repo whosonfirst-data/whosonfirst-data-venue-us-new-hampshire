@@ -1,0 +1,71 @@
+{
+  "id": 873614301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540273,43.009897,-71.540273,43.009897",
+    "geom:latitude":43.009897,
+    "geom:longitude":-71.540273,
+    "iso:country":"US",
+    "sg:address":"329 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 7881",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XglVMkL4sADGSgRnzyuLe_43.009897_-71.540273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295188,
+    "wof:geomhash":"fcb69cd75072c467ec2c8d5e3ccb3eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873614301
+        }
+    ],
+    "wof:id":873614301,
+    "wof:lastmodified":1464295188,
+    "wof:name":"Enviro-Tech Post & Beam",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.540273,
+    43.009897,
+    -71.540273,
+    43.009897
+],
+  "geometry": {"coordinates":[-71.540273,43.009897],"type":"Point"}
+}

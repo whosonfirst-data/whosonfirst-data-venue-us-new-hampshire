@@ -1,0 +1,77 @@
+{
+  "id": 873690411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460225,42.757425,-71.460225,42.757425",
+    "geom:latitude":42.757425,
+    "geom:longitude":-71.460225,
+    "iso:country":"US",
+    "sg:address":"2 Tyler St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4129",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z3sLzzsue1WaVJM2Xcn6a_42.757425_-71.460225@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296284,
+    "wof:geomhash":"3fc59d0fee26a4d2a45cfe106baa3f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873690411
+        }
+    ],
+    "wof:id":873690411,
+    "wof:lastmodified":1464296284,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.460225,
+    42.757425,
+    -71.460225,
+    42.757425
+],
+  "geometry": {"coordinates":[-71.46022499999999,42.757425],"type":"Point"}
+}

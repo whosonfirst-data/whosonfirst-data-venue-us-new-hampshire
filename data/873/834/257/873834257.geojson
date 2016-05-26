@@ -1,0 +1,74 @@
+{
+  "id": 873834257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43249,43.57307,-71.43249,43.57307",
+    "geom:latitude":43.57307,
+    "geom:longitude":-71.43249,
+    "iso:country":"US",
+    "sg:address":"104 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3128",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.woodandclay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Isr48D8qJrLGNcHsLG91O_43.573070_-71.432490@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298429,
+    "wof:geomhash":"d0cb1a9f7b0a232830be06fe525d9414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873834257
+        }
+    ],
+    "wof:id":873834257,
+    "wof:lastmodified":1464298429,
+    "wof:name":"Wood & Clay Inc",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.43249,
+    43.57307,
+    -71.43249,
+    43.57307
+],
+  "geometry": {"coordinates":[-71.43249,43.57307],"type":"Point"}
+}

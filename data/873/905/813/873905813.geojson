@@ -1,0 +1,71 @@
+{
+  "id": 873905813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.318092,42.769424,-71.318092,42.769424",
+    "geom:latitude":42.769424,
+    "geom:longitude":-71.318092,
+    "iso:country":"US",
+    "sg:address":"2 Rock Pond Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8562",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lcaII9cOVH5m32q28FBWS_42.769424_-71.318092@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299937,
+    "wof:geomhash":"e3cc43e2b12d8264a5905eb0224c4ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873905813
+        }
+    ],
+    "wof:id":873905813,
+    "wof:lastmodified":1464299937,
+    "wof:name":"Pesaturo Electric",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.318092,
+    42.769424,
+    -71.318092,
+    42.769424
+],
+  "geometry": {"coordinates":[-71.31809199999999,42.769424],"type":"Point"}
+}

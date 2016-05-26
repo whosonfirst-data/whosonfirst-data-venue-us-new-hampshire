@@ -1,0 +1,71 @@
+{
+  "id": 873935637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.229654,43.592169,-71.229654,43.592169",
+    "geom:latitude":43.592169,
+    "geom:longitude":-71.229654,
+    "iso:country":"US",
+    "sg:address":"37 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3000",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:website":"www.therestaurant03894.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JbJtjQ9QdIXL88A29lybD_43.592169_-71.229654@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300512,
+    "wof:geomhash":"d77da6f4eaea8c9c637b8141ee10e393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935637
+        }
+    ],
+    "wof:id":873935637,
+    "wof:lastmodified":1464300512,
+    "wof:name":"The Restaurant",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.229654,
+    43.592169,
+    -71.229654,
+    43.592169
+],
+  "geometry": {"coordinates":[-71.229654,43.592169],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873727159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413813,43.532807,-71.413813,43.532807",
+    "geom:latitude":43.532807,
+    "geom:longitude":-71.413813,
+    "iso:country":"US",
+    "sg:address":"120 Saltmarsh Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3138",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15vtNNmREqEGqskxMfIbE9_43.532807_-71.413813@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296742,
+    "wof:geomhash":"b47a7b2d586148391cc2f85646280703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873727159
+        }
+    ],
+    "wof:id":873727159,
+    "wof:lastmodified":1464296742,
+    "wof:name":"John Ferguson Plumbing & Htg",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.413813,
+    43.532807,
+    -71.413813,
+    43.532807
+],
+  "geometry": {"coordinates":[-71.413813,43.532807],"type":"Point"}
+}

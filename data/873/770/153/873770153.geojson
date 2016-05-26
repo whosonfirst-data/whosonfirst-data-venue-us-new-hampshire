@@ -1,0 +1,74 @@
+{
+  "id": 873770153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453282,43.576921,-71.453282,43.576921",
+    "geom:latitude":43.576921,
+    "geom:longitude":-71.453282,
+    "iso:country":"US",
+    "sg:address":"1025 Weirs Blvd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 366 2225",
+    "sg:postcode":"03247",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cottage",
+        "operates"
+    ],
+    "sg:website":"www.baytop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gK9zde3YNaFkl6ryMTAAO_43.576921_-71.453282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297368,
+    "wof:geomhash":"8299bb4b096899802dde24df3de2ea2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873770153
+        }
+    ],
+    "wof:id":873770153,
+    "wof:lastmodified":1464297368,
+    "wof:name":"Bay Top Motel",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cottage",
+        "operates"
+    ]
+},
+  "bbox": [
+    -71.453282,
+    43.576921,
+    -71.453282,
+    43.576921
+],
+  "geometry": {"coordinates":[-71.453282,43.576921],"type":"Point"}
+}

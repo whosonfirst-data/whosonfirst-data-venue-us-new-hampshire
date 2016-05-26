@@ -1,0 +1,70 @@
+{
+  "id": 873921517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424393,42.749161,-71.424393,42.749161",
+    "geom:latitude":42.749161,
+    "geom:longitude":-71.424393,
+    "iso:country":"US",
+    "sg:address":"10 Pelham Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 1570",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.hudsonpd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66feRFTCz0fb9S1Ywz6j9X_42.749161_-71.424393@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300236,
+    "wof:geomhash":"74d9d21ede683540fd45fa2e7375bef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921517
+        }
+    ],
+    "wof:id":873921517,
+    "wof:lastmodified":1464300236,
+    "wof:name":"Nottingham West Elementary School",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.424393,
+    42.749161,
+    -71.424393,
+    42.749161
+],
+  "geometry": {"coordinates":[-71.42439299999999,42.749161],"type":"Point"}
+}

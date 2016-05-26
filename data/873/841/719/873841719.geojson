@@ -1,0 +1,71 @@
+{
+  "id": 873841719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4702,43.527991,-71.4702,43.527991",
+    "geom:latitude":43.527991,
+    "geom:longitude":-71.4702,
+    "iso:country":"US",
+    "sg:address":"622 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9337",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hLtZyW5chvU9KSfUHtA3C_43.527991_-71.470200@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298593,
+    "wof:geomhash":"12e7de737c5604a78e9f5249a303af4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873841719
+        }
+    ],
+    "wof:id":873841719,
+    "wof:lastmodified":1464298593,
+    "wof:name":"Hackett & Hills Jewelers",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.4702,
+    43.527991,
+    -71.4702,
+    43.527991
+],
+  "geometry": {"coordinates":[-71.47020000000001,43.527991],"type":"Point"}
+}

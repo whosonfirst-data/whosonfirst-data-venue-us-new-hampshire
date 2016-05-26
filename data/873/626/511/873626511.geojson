@@ -1,0 +1,71 @@
+{
+  "id": 873626511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.053918,42.928368,-72.053918,42.928368",
+    "geom:latitude":42.928368,
+    "geom:longitude":-72.053918,
+    "iso:country":"US",
+    "sg:address":"233 Bonds Corner Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 2536",
+    "sg:postcode":"03450",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806629,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t6lJ9Clwhrgg1YBLTTG7f_42.928368_-72.053918@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"df657eaa6d9d8f216241cf3372192e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85806629,
+            "region_id":85688689,
+            "venue_id":873626511
+        }
+    ],
+    "wof:id":873626511,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Eastview Rental",
+    "wof:parent_id":85806629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.053918,
+    42.928368,
+    -72.053918,
+    42.928368
+],
+  "geometry": {"coordinates":[-72.053918,42.928368],"type":"Point"}
+}

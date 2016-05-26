@@ -1,0 +1,81 @@
+{
+  "id": 873669673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45138,42.76367,-71.45138,42.76367",
+    "geom:latitude":42.76367,
+    "geom:longitude":-71.45138,
+    "iso:country":"US",
+    "sg:address":"22 Bridge St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 7487",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "bodywork",
+        "painting",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c0a7AnUGGdc6lKCUX6E4i_42.763670_-71.451380@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295797,
+    "wof:geomhash":"8780dacb4a2c0b14ffdac5550a6082a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873669673
+        }
+    ],
+    "wof:id":873669673,
+    "wof:lastmodified":1464295797,
+    "wof:name":"St Lawrence Collision Centers",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "bodywork",
+        "painting",
+        "related"
+    ]
+},
+  "bbox": [
+    -71.45138,
+    42.76367,
+    -71.45138,
+    42.76367
+],
+  "geometry": {"coordinates":[-71.45138,42.76367],"type":"Point"}
+}

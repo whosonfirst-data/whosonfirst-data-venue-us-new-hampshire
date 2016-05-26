@@ -1,0 +1,71 @@
+{
+  "id": 873842221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475826,43.52705,-71.475826,43.52705",
+    "geom:latitude":43.52705,
+    "geom:longitude":-71.475826,
+    "iso:country":"US",
+    "sg:address":"13 Cross St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4477",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Ay8CYU5nEsN3yTarrLeV_43.527050_-71.475826@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298609,
+    "wof:geomhash":"a1aa6d4b5d393466b201a9635dce7b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873842221
+        }
+    ],
+    "wof:id":873842221,
+    "wof:lastmodified":1464298609,
+    "wof:name":"Lakes Region Striping Co",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.475826,
+    43.52705,
+    -71.475826,
+    43.52705
+],
+  "geometry": {"coordinates":[-71.475826,43.52705],"type":"Point"}
+}

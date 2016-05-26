@@ -1,0 +1,71 @@
+{
+  "id": 873747571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.034894,44.147814,-72.034894,44.147814",
+    "geom:latitude":44.147814,
+    "geom:longitude":-72.034894,
+    "iso:country":"US",
+    "sg:address":"5 Smith St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 2259",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "forester"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qIwlLt3fZA2meSW5sTuF9_44.147814_-72.034894@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297045,
+    "wof:geomhash":"2c68a60dec48f80904ac2e44814a2271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873747571
+        }
+    ],
+    "wof:id":873747571,
+    "wof:lastmodified":1464297045,
+    "wof:name":"Andrew Alexander Forester",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forester"
+    ]
+},
+  "bbox": [
+    -72.034894,
+    44.147814,
+    -72.034894,
+    44.147814
+],
+  "geometry": {"coordinates":[-72.03489399999999,44.147814],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873928453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.638926,43.325767,-71.638926,43.325767",
+    "geom:latitude":43.325767,
+    "geom:longitude":-71.638926,
+    "iso:country":"US",
+    "sg:address":"107 High St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2484",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qHBN5LYX2h8ezLD67s7aq_43.325767_-71.638926@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300378,
+    "wof:geomhash":"c26fac3217b0c4b4c1c7e59e824470de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928453
+        }
+    ],
+    "wof:id":873928453,
+    "wof:lastmodified":1464300378,
+    "wof:name":"Kenney's Garage",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [
+    -71.638926,
+    43.325767,
+    -71.638926,
+    43.325767
+],
+  "geometry": {"coordinates":[-71.638926,43.325767],"type":"Point"}
+}

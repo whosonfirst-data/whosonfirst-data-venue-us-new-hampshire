@@ -1,0 +1,82 @@
+{
+  "id": 873918541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.889982,43.223604,-70.889982,43.223604",
+    "geom:latitude":43.223604,
+    "geom:longitude":-70.889982,
+    "iso:country":"US",
+    "sg:address":"8 Hotel Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/dover/222731-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 9992",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wRPnUKg1ZQ1kAQweQVviF_43.223604_-70.889982@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300187,
+    "wof:geomhash":"be6f044d6762c8241e376b204d0fb82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873918541
+        }
+    ],
+    "wof:id":873918541,
+    "wof:lastmodified":1464300187,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -70.889982,
+    43.223604,
+    -70.889982,
+    43.223604
+],
+  "geometry": {"coordinates":[-70.889982,43.223604],"type":"Point"}
+}

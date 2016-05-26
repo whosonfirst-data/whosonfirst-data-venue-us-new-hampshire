@@ -1,0 +1,89 @@
+{
+  "id": 873935257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186542,43.624791,-71.186542,43.624791",
+    "geom:latitude":43.624791,
+    "geom:longitude":-71.186542,
+    "iso:country":"US",
+    "sg:address":"56 Knox Pasture Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3189",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NT5id3tNo0NMpuHMmuRs1_43.624791_-71.186542@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300505,
+    "wof:geomhash":"ff0b5f194b199b7b9bc0b2df1ee8232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935257
+        }
+    ],
+    "wof:id":873935257,
+    "wof:lastmodified":1464300505,
+    "wof:name":"Winnipesaukee Livery Llc",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -71.186542,
+    43.624791,
+    -71.186542,
+    43.624791
+],
+  "geometry": {"coordinates":[-71.186542,43.624791],"type":"Point"}
+}

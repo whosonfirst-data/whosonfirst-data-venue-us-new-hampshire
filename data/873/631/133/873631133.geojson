@@ -1,0 +1,73 @@
+{
+  "id": 873631133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463828,43.536653,-71.463828,43.536653",
+    "geom:latitude":43.536653,
+    "geom:longitude":-71.463828,
+    "iso:country":"US",
+    "sg:address":"408 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1831",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dwK81R9fCEliM4PMnvO0G_43.536653_-71.463828@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"943549d96c48730de223fe8fc97b0865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873631133
+        }
+    ],
+    "wof:id":873631133,
+    "wof:lastmodified":1464295376,
+    "wof:name":"Public Defender",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -71.463828,
+    43.536653,
+    -71.463828,
+    43.536653
+],
+  "geometry": {"coordinates":[-71.46382800000001,43.536653],"type":"Point"}
+}

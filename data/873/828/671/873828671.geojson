@@ -1,0 +1,71 @@
+{
+  "id": 873828671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.771554,43.581232,-71.771554,43.581232",
+    "geom:latitude":43.581232,
+    "geom:longitude":-71.771554,
+    "iso:country":"US",
+    "sg:address":"264 Gordon Hill Rd",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2365",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ay2LPhsrslSjvZEBRSEJS_43.581232_-71.771554@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298307,
+    "wof:geomhash":"8e6f9e06c6e07fc30b04b4c631ba41b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873828671
+        }
+    ],
+    "wof:id":873828671,
+    "wof:lastmodified":1464298307,
+    "wof:name":"Barney's Electric",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.771554,
+    43.581232,
+    -71.771554,
+    43.581232
+],
+  "geometry": {"coordinates":[-71.77155399999999,43.581232],"type":"Point"}
+}

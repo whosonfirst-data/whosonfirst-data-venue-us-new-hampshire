@@ -1,0 +1,69 @@
+{
+  "id": 873711377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.627096,42.863175,-71.627096,42.863175",
+    "geom:latitude":42.863175,
+    "geom:longitude":-71.627096,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2404",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JbjVuuhbEieCrqYijLEdM_42.863175_-71.627096@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296537,
+    "wof:geomhash":"85f0bfcb35cf85fc59145cde91ff07aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873711377
+        }
+    ],
+    "wof:id":873711377,
+    "wof:lastmodified":1464296537,
+    "wof:name":"Moulton's Market",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.627096,
+    42.863175,
+    -71.627096,
+    42.863175
+],
+  "geometry": {"coordinates":[-71.62709599999999,42.863175],"type":"Point"}
+}

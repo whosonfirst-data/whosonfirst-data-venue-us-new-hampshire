@@ -1,0 +1,76 @@
+{
+  "id": 873846089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595774,42.715644,-71.595774,42.715644",
+    "geom:latitude":42.715644,
+    "geom:longitude":-71.595774,
+    "iso:country":"US",
+    "sg:address":"26 Black Oak Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 9600",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h3VOR54DriXex2PC0Frpz_42.715644_-71.595774@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298704,
+    "wof:geomhash":"d342ebefb7189733dbb096eaef0c8d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873846089
+        }
+    ],
+    "wof:id":873846089,
+    "wof:lastmodified":1464298704,
+    "wof:name":"National Service Group Inc",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.595774,
+    42.715644,
+    -71.595774,
+    42.715644
+],
+  "geometry": {"coordinates":[-71.59577400000001,42.715644],"type":"Point"}
+}

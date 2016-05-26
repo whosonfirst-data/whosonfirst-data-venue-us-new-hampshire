@@ -1,0 +1,71 @@
+{
+  "id": 873630897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.113998,43.978928,-71.113998,43.978928",
+    "geom:latitude":43.978928,
+    "geom:longitude":-71.113998,
+    "iso:country":"US",
+    "sg:address":"145 E Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2240",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23sExJ3NwKfaiKWL9aLbVg_43.978928_-71.113998@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295374,
+    "wof:geomhash":"1f8c800476e96164ff5985e187834ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873630897
+        }
+    ],
+    "wof:id":873630897,
+    "wof:lastmodified":1464295374,
+    "wof:name":"Lucy Marketing",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -71.113998,
+    43.978928,
+    -71.113998,
+    43.978928
+],
+  "geometry": {"coordinates":[-71.113998,43.978928],"type":"Point"}
+}

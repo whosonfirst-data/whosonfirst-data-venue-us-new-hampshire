@@ -1,0 +1,79 @@
+{
+  "id": 873910947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460217,42.76151,-71.460217,42.76151",
+    "geom:latitude":42.76151,
+    "geom:longitude":-71.460217,
+    "iso:country":"US",
+    "sg:address":"8 E Pearl St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 4636",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RqH7fX8WW57bDpAhClf9P_42.761510_-71.460217@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300030,
+    "wof:geomhash":"210cfaa4ddf57d3ef98785425f36add8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873910947
+        }
+    ],
+    "wof:id":873910947,
+    "wof:lastmodified":1464300030,
+    "wof:name":"Associated Radiologists PA",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.460217,
+    42.76151,
+    -71.460217,
+    42.76151
+],
+  "geometry": {"coordinates":[-71.460217,42.76151],"type":"Point"}
+}

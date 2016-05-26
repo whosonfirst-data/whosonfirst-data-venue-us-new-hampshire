@@ -1,0 +1,71 @@
+{
+  "id": 873810859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.306325,43.659313,-72.306325,43.659313",
+    "geom:latitude":43.659313,
+    "geom:longitude":-72.306325,
+    "iso:country":"US",
+    "sg:address":"197 Main St",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 7034",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:website":"www.kfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zVd1Q5jVOfGnGdiwSSUbG_43.659313_-72.306325@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297941,
+    "wof:geomhash":"7ebf2ec7b614f8d9bde7147114857528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873810859
+        }
+    ],
+    "wof:id":873810859,
+    "wof:lastmodified":1464297941,
+    "wof:name":"KFC",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.306325,
+    43.659313,
+    -72.306325,
+    43.659313
+],
+  "geometry": {"coordinates":[-72.306325,43.659313],"type":"Point"}
+}

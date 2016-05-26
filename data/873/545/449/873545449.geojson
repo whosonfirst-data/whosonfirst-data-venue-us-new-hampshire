@@ -1,0 +1,71 @@
+{
+  "id": 873545449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.073587,43.39033,-72.073587,43.39033",
+    "geom:latitude":43.39033,
+    "geom:longitude":-72.073587,
+    "iso:country":"US",
+    "sg:address":"163 Lake Ave",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5118",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SP1YAcsKSa1CwXRaYrkcZ_43.390330_-72.073587@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294321,
+    "wof:geomhash":"ca3604331711969a4ef8f411599e14ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873545449
+        }
+    ],
+    "wof:id":873545449,
+    "wof:lastmodified":1464294321,
+    "wof:name":"Mattila Kaino U",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.073587,
+    43.39033,
+    -72.073587,
+    43.39033
+],
+  "geometry": {"coordinates":[-72.073587,43.39033],"type":"Point"}
+}

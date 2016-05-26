@@ -1,0 +1,78 @@
+{
+  "id": 873915665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209415,42.755524,-71.209415,42.755524",
+    "geom:latitude":42.755524,
+    "geom:longitude":-71.209415,
+    "iso:country":"US",
+    "sg:address":"323 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 8866",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "oil",
+        "center",
+        "change",
+        "lubrication"
+    ],
+    "sg:website":"http://www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65GWiEKlsDGfJa00JPMMXn_42.755924_-71.209783@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300132,
+    "wof:geomhash":"b265467f86b6e5848f03b65aa58d84d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873915665
+        }
+    ],
+    "wof:id":873915665,
+    "wof:lastmodified":1464300132,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "oil",
+        "center",
+        "change",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.209415,
+    42.755524,
+    -71.209415,
+    42.755524
+],
+  "geometry": {"coordinates":[-71.20941500000001,42.755524],"type":"Point"}
+}

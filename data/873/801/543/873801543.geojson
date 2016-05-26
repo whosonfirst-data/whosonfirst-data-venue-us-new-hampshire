@@ -1,0 +1,77 @@
+{
+  "id": 873801543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.320591,42.94832,-72.320591,42.94832",
+    "geom:latitude":42.94832,
+    "geom:longitude":-72.320591,
+    "iso:country":"US",
+    "sg:address":"17 Summit Rd",
+    "sg:city":"Surry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 9501",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892245,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jsMOl2Zn5Ub6IBsoOO5eB_42.948320_-72.320591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297792,
+    "wof:geomhash":"39add6a09616943db7c1406098e4318d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892245,
+            "region_id":85688689,
+            "venue_id":873801543
+        }
+    ],
+    "wof:id":873801543,
+    "wof:lastmodified":1464297792,
+    "wof:name":"Bemis Auto Svc",
+    "wof:parent_id":85892245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.320591,
+    42.94832,
+    -72.320591,
+    42.94832
+],
+  "geometry": {"coordinates":[-72.32059099999999,42.94832],"type":"Point"}
+}

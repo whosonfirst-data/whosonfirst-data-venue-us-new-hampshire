@@ -1,0 +1,71 @@
+{
+  "id": 873865057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.728878,43.226207,-71.728878,43.226207",
+    "geom:latitude":43.226207,
+    "geom:longitude":-71.728878,
+    "iso:country":"US",
+    "sg:address":"284 Spring St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 6240",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FqP9MsZcgwydoF6CxtYlv_43.226207_-71.728878@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299139,
+    "wof:geomhash":"53f1c49db1849f207adc314e1bf60589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873865057
+        }
+    ],
+    "wof:id":873865057,
+    "wof:lastmodified":1464299139,
+    "wof:name":"Spring Street Laundry",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.728878,
+    43.226207,
+    -71.728878,
+    43.226207
+],
+  "geometry": {"coordinates":[-71.72887799999999,43.226207],"type":"Point"}
+}

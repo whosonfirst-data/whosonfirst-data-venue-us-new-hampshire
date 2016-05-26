@@ -1,0 +1,75 @@
+{
+  "id": 873825479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.232035,42.748373,-71.232035,42.748373",
+    "geom:latitude":42.748373,
+    "geom:longitude":-71.232035,
+    "iso:country":"US",
+    "sg:address":"19 Salem St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 1200",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "outdoor",
+        "spec",
+        "advertising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rP6tbt0ScXf4BKUuHtiUf_42.748373_-71.232035@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298246,
+    "wof:geomhash":"a7bb152f6be50e9239ea7556b2dc1b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873825479
+        }
+    ],
+    "wof:id":873825479,
+    "wof:lastmodified":1464298246,
+    "wof:name":"Metro Salem",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "outdoor",
+        "spec",
+        "advertising"
+    ]
+},
+  "bbox": [
+    -71.232035,
+    42.748373,
+    -71.232035,
+    42.748373
+],
+  "geometry": {"coordinates":[-71.232035,42.748373],"type":"Point"}
+}

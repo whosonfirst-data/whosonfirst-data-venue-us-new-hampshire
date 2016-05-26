@@ -1,0 +1,77 @@
+{
+  "id": 873535929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.798001,43.064226,-70.798001,43.064226",
+    "geom:latitude":43.064226,
+    "geom:longitude":-70.798001,
+    "iso:country":"US",
+    "sg:address":"355 Colonial Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 3993",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526351,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pMkzSfGUFnE4vnvjAt0GL_43.064226_-70.798001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294214,
+    "wof:geomhash":"e48c0a17a2a7a7217d51fd6ce8fefcee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526351,
+            "region_id":85688689,
+            "venue_id":873535929
+        }
+    ],
+    "wof:id":873535929,
+    "wof:lastmodified":1464294214,
+    "wof:name":"Colonial Electrical Svc",
+    "wof:parent_id":420526351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.798001,
+    43.064226,
+    -70.798001,
+    43.064226
+],
+  "geometry": {"coordinates":[-70.798001,43.064226],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873905037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.196258,42.921386,-72.196258,42.921386",
+    "geom:latitude":42.921386,
+    "geom:longitude":-72.196258,
+    "iso:country":"US",
+    "sg:address":"60 Richardson Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3838",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dfDknrXSBPm50Y6IoiRSw_42.921386_-72.196258@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299923,
+    "wof:geomhash":"9dfe73ad8b0e9d9bd431ab16a241f51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873905037
+        }
+    ],
+    "wof:id":873905037,
+    "wof:lastmodified":1464299923,
+    "wof:name":"Maple Homestead Farm",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.196258,
+    42.921386,
+    -72.196258,
+    42.921386
+],
+  "geometry": {"coordinates":[-72.196258,42.921386],"type":"Point"}
+}

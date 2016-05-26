@@ -1,0 +1,69 @@
+{
+  "id": 873838873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.365298,43.281053,-71.365298,43.281053",
+    "geom:latitude":43.281053,
+    "geom:longitude":-71.365298,
+    "iso:country":"US",
+    "sg:address":"63 Swiggey Brook Rd",
+    "sg:city":"Chichester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 736 9762",
+    "sg:postcode":"03258",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827943,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bbP9TmDfu4yxRmQjEBSm2_43.281053_-71.365298@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298522,
+    "wof:geomhash":"81de3b5542195ca8d242b180461dca16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85827943,
+            "region_id":85688689,
+            "venue_id":873838873
+        }
+    ],
+    "wof:id":873838873,
+    "wof:lastmodified":1464298522,
+    "wof:name":"Rockingham County Towing",
+    "wof:parent_id":85827943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.365298,
+    43.281053,
+    -71.365298,
+    43.281053
+],
+  "geometry": {"coordinates":[-71.365298,43.281053],"type":"Point"}
+}

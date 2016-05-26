@@ -1,0 +1,71 @@
+{
+  "id": 873859603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.376883,43.570753,-71.376883,43.570753",
+    "geom:latitude":43.570753,
+    "geom:longitude":-71.376883,
+    "iso:country":"US",
+    "sg:address":"174 Chestnut Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 8055",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nnWE1VRN58FgiMjsrjcvQ_43.570753_-71.376883@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299008,
+    "wof:geomhash":"0a7e23f8eed9079c24a6d0578738dd1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873859603
+        }
+    ],
+    "wof:id":873859603,
+    "wof:lastmodified":1464299008,
+    "wof:name":"James Drouin Carpentry",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.376883,
+    43.570753,
+    -71.376883,
+    43.570753
+],
+  "geometry": {"coordinates":[-71.37688300000001,43.570753],"type":"Point"}
+}

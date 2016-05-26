@@ -1,0 +1,77 @@
+{
+  "id": 873680539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.78081,43.082768,-70.78081,43.082768",
+    "geom:latitude":43.082768,
+    "geom:longitude":-70.78081,
+    "iso:country":"US",
+    "sg:address":"801 McGee Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 7426",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812791,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19P9U3HQVE6Y87hDzBj4Hm_43.082768_-70.780810@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296011,
+    "wof:geomhash":"552a74dc00768b76a7fcb924907aab77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85812791,
+            "region_id":85688689,
+            "venue_id":873680539
+        }
+    ],
+    "wof:id":873680539,
+    "wof:lastmodified":1464296011,
+    "wof:name":"US Army National Guard Recruit",
+    "wof:parent_id":85812791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -70.78081,
+    43.082768,
+    -70.78081,
+    43.082768
+],
+  "geometry": {"coordinates":[-70.78081,43.082768],"type":"Point"}
+}

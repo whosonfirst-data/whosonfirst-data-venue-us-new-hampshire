@@ -1,0 +1,71 @@
+{
+  "id": 873813475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.172275,42.91044,-72.172275,42.91044",
+    "geom:latitude":42.91044,
+    "geom:longitude":-72.172275,
+    "iso:country":"US",
+    "sg:address":"505 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 2277",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MzYqB4ZZ4yp01Je8y5PqX_42.910440_-72.172275@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297986,
+    "wof:geomhash":"5a1fe38fbedad1278a5fd9789d7d385a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873813475
+        }
+    ],
+    "wof:id":873813475,
+    "wof:lastmodified":1464297986,
+    "wof:name":"Marlborough Auto Sales",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.172275,
+    42.91044,
+    -72.172275,
+    42.91044
+],
+  "geometry": {"coordinates":[-72.172275,42.91044],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873640005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509751,44.601645,-71.509751,44.601645",
+    "geom:latitude":44.601645,
+    "geom:longitude":-71.509751,
+    "iso:country":"US",
+    "sg:address":"5 Hillside Ave",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 1743",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kci4jkWk2YsNp51o4IDLW_44.601645_-71.509751@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295473,
+    "wof:geomhash":"f0488f43b64d55de9873ac6e18d28e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873640005
+        }
+    ],
+    "wof:id":873640005,
+    "wof:lastmodified":1464295473,
+    "wof:name":"Grenier Heating Svc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.509751,
+    44.601645,
+    -71.509751,
+    44.601645
+],
+  "geometry": {"coordinates":[-71.50975099999999,44.601645],"type":"Point"}
+}

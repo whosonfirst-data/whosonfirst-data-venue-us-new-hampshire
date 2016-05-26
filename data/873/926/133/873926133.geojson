@@ -1,0 +1,88 @@
+{
+  "id": 873926133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244939,42.765205,-71.244939,42.765205",
+    "geom:latitude":42.765205,
+    "geom:longitude":-71.244939,
+    "iso:country":"US",
+    "sg:address":"52 Lowell Rd Ste 1",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0011",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tropical",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "sg:website":"http://www.aquaaddicts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73QWTiWsaT4si5x0DXR6qG_42.765205_-71.244939@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300329,
+    "wof:geomhash":"db0c29cee146215d32210929b49b9f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873926133
+        }
+    ],
+    "wof:id":873926133,
+    "wof:lastmodified":1464300329,
+    "wof:name":"Aqua Addicts",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tropical",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -71.244939,
+    42.765205,
+    -71.244939,
+    42.765205
+],
+  "geometry": {"coordinates":[-71.244939,42.765205],"type":"Point"}
+}

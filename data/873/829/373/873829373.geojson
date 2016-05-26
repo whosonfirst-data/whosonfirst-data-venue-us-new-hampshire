@@ -1,0 +1,71 @@
+{
+  "id": 873829373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.643407,43.445312,-71.643407,43.445312",
+    "geom:latitude":43.445312,
+    "geom:longitude":-71.643407,
+    "iso:country":"US",
+    "sg:address":"436 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 2550",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vbFIyrt7V7N1qXWHQ8OT9_43.445312_-71.643407@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298320,
+    "wof:geomhash":"5304c0017142782c0aa214301566b27e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873829373
+        }
+    ],
+    "wof:id":873829373,
+    "wof:lastmodified":1464298320,
+    "wof:name":"Dan's Pharmacy",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.643407,
+    43.445312,
+    -71.643407,
+    43.445312
+],
+  "geometry": {"coordinates":[-71.643407,43.445312],"type":"Point"}
+}

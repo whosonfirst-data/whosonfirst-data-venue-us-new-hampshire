@@ -1,0 +1,75 @@
+{
+  "id": 873709445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.991306,43.357054,-70.991306,43.357054",
+    "geom:latitude":43.357054,
+    "geom:longitude":-70.991306,
+    "iso:country":"US",
+    "sg:address":"110 Cross Rd",
+    "sg:city":"Tamworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 3100",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30uFrvTsWN3AMneS2SXre3_43.357054_-70.991306@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296513,
+    "wof:geomhash":"75fae8d516f00f7b27cb63b00418f203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873709445
+        }
+    ],
+    "wof:id":873709445,
+    "wof:lastmodified":1464296513,
+    "wof:name":"Cross Way Repair",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -70.991306,
+    43.357054,
+    -70.991306,
+    43.357054
+],
+  "geometry": {"coordinates":[-70.99130599999999,43.357054],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873649585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.760702,43.080622,-70.760702,43.080622",
+    "geom:latitude":43.080622,
+    "geom:longitude":-70.760702,
+    "iso:country":"US",
+    "sg:address":"250 Market St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 2300",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:website":"www.sheratonportsmouth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CauAFfZOPrwhuYzs3UMi1_43.080622_-70.760702@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295582,
+    "wof:geomhash":"cdc8ab69f211151cc7107a0820be1d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873649585
+        }
+    ],
+    "wof:id":873649585,
+    "wof:lastmodified":1464295582,
+    "wof:name":"Sheraton",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.760702,
+    43.080622,
+    -70.760702,
+    43.080622
+],
+  "geometry": {"coordinates":[-70.76070199999999,43.080622],"type":"Point"}
+}

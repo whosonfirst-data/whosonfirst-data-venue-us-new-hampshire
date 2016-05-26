@@ -1,0 +1,71 @@
+{
+  "id": 873644483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.13329,42.85523,-71.13329,42.85523",
+    "geom:latitude":42.85523,
+    "geom:longitude":-71.13329,
+    "iso:country":"US",
+    "sg:address":"23 Crown Hill Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 9729",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qcO1FYsGUR2BpKMOKRaDP_42.855230_-71.133290@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295530,
+    "wof:geomhash":"6a859490855d2b08bd3f1075583289e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873644483
+        }
+    ],
+    "wof:id":873644483,
+    "wof:lastmodified":1464295530,
+    "wof:name":"J W Enterprises",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.13329,
+    42.85523,
+    -71.13329,
+    42.85523
+],
+  "geometry": {"coordinates":[-71.13329,42.85523],"type":"Point"}
+}

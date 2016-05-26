@@ -1,0 +1,71 @@
+{
+  "id": 873559109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.247769,43.216491,-71.247769,43.216491",
+    "geom:latitude":43.216491,
+    "geom:longitude":-71.247769,
+    "iso:country":"US",
+    "sg:address":"44 Denmark Dr",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7377",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TnVrq2D0SqGXwYLmsvXsv_43.216491_-71.247769@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294490,
+    "wof:geomhash":"9a98f1edb056cb4cd8f818cda07d131c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873559109
+        }
+    ],
+    "wof:id":873559109,
+    "wof:lastmodified":1464294490,
+    "wof:name":"Rescue Plumbing and Heating",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.247769,
+    43.216491,
+    -71.247769,
+    43.216491
+],
+  "geometry": {"coordinates":[-71.24776900000001,43.216491],"type":"Point"}
+}

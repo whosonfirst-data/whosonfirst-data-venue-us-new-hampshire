@@ -1,0 +1,69 @@
+{
+  "id": 873920017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284203,43.067699,-71.284203,43.067699",
+    "geom:latitude":43.067699,
+    "geom:longitude":-71.284203,
+    "iso:country":"US",
+    "sg:address":"Business Rt 101",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 435 8630",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1caGPU24NGBRmqLEyOBO9S_43.067699_-71.284203@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300212,
+    "wof:geomhash":"8facbc7a17d098c8e114c54d9660323f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873920017
+        }
+    ],
+    "wof:id":873920017,
+    "wof:lastmodified":1464300212,
+    "wof:name":"Candray Pet Care Center",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.284203,
+    43.067699,
+    -71.284203,
+    43.067699
+],
+  "geometry": {"coordinates":[-71.28420300000001,43.067699],"type":"Point"}
+}

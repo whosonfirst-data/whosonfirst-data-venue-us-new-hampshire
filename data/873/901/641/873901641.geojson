@@ -1,0 +1,69 @@
+{
+  "id": 873901641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389067,42.903808,-71.389067,42.903808",
+    "geom:latitude":42.903808,
+    "geom:longitude":-71.389067,
+    "iso:country":"US",
+    "sg:address":"501 Mammoth Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 7600",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Njm4PDjG1Tug4LLhshcML_42.903808_-71.389067@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299851,
+    "wof:geomhash":"144a0bc6b59261a4c8a0a22816e0f160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873901641
+        }
+    ],
+    "wof:id":873901641,
+    "wof:lastmodified":1464299851,
+    "wof:name":"Guarracino's Pizza",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.389067,
+    42.903808,
+    -71.389067,
+    42.903808
+],
+  "geometry": {"coordinates":[-71.389067,42.903808],"type":"Point"}
+}

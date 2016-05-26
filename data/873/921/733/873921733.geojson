@@ -1,0 +1,73 @@
+{
+  "id": 873921733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384986,42.897371,-71.384986,42.897371",
+    "geom:latitude":42.897371,
+    "geom:longitude":-71.384986,
+    "iso:country":"US",
+    "sg:address":"7 Stonehenge Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 9028",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07aelCKdIUfGv9sGZTG53p_42.897371_-71.384986@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300242,
+    "wof:geomhash":"df7d398fec94bcaa387148205eb43122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873921733
+        }
+    ],
+    "wof:id":873921733,
+    "wof:lastmodified":1464300242,
+    "wof:name":"Back Lake Campground",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -71.384986,
+    42.897371,
+    -71.384986,
+    42.897371
+],
+  "geometry": {"coordinates":[-71.384986,42.897371],"type":"Point"}
+}

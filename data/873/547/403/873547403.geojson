@@ -1,0 +1,71 @@
+{
+  "id": 873547403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604301,44.373207,-71.604301,44.373207",
+    "geom:latitude":44.373207,
+    "geom:longitude":-71.604301,
+    "iso:country":"US",
+    "sg:address":"17 Park St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 9285",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "justice",
+        "peace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ljyk6DRc50rgh5YMbJhBt_44.373207_-71.604301@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294344,
+    "wof:geomhash":"3b0d12131d2e899f639246561c5a298c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873547403
+        }
+    ],
+    "wof:id":873547403,
+    "wof:lastmodified":1464294344,
+    "wof:name":"D P Goodwin",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "peace"
+    ]
+},
+  "bbox": [
+    -71.604301,
+    44.373207,
+    -71.604301,
+    44.373207
+],
+  "geometry": {"coordinates":[-71.60430100000001,44.373207],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 873922389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.668954,42.865999,-71.668954,42.865999",
+    "geom:latitude":42.865999,
+    "geom:longitude":-71.668954,
+    "iso:country":"US",
+    "sg:address":"495 Mont Vernon Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2545",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "materials-wholesale",
+        "lumber-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.wilkinslumber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s7sWChJemjZ09ula2ezMU_42.865999_-71.668954@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300260,
+    "wof:geomhash":"c3d8fdb22406e276535d2b0ba4be1c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873922389
+        }
+    ],
+    "wof:id":873922389,
+    "wof:lastmodified":1464300260,
+    "wof:name":"Wilkins Lumber Co Inc",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "materials-wholesale",
+        "lumber-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.668954,
+    42.865999,
+    -71.668954,
+    42.865999
+],
+  "geometry": {"coordinates":[-71.668954,42.865999],"type":"Point"}
+}

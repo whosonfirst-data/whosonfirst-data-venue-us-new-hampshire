@@ -1,0 +1,90 @@
+{
+  "id": 873892309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.87311,43.212306,-70.87311,43.212306",
+    "geom:latitude":43.212306,
+    "geom:longitude":-70.87311,
+    "iso:country":"US",
+    "sg:address":"15 Old Rollinsford Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 1641",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical",
+        "state",
+        "program",
+        "health",
+        "peer",
+        "review"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmqkFZVpWuRLGJTNtrGZ1_43.212306_-70.873110@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299672,
+    "wof:geomhash":"514158041880d31786ffd4a6bceed812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873892309
+        }
+    ],
+    "wof:id":873892309,
+    "wof:lastmodified":1464299672,
+    "wof:name":"Northeast Health Care Quality",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "state",
+        "program",
+        "health",
+        "peer",
+        "review"
+    ]
+},
+  "bbox": [
+    -70.87311,
+    43.212306,
+    -70.87311,
+    43.212306
+],
+  "geometry": {"coordinates":[-70.87311,43.212306],"type":"Point"}
+}

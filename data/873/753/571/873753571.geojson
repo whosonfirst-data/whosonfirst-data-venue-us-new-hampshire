@@ -1,0 +1,80 @@
+{
+  "id": 873753571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241008,42.765234,-71.241008,42.765234",
+    "geom:latitude":42.765234,
+    "geom:longitude":-71.241008,
+    "iso:country":"US",
+    "sg:address":"37 Lowell Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 0470",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "merchandise",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SQ8hpw7BQIFi3uAwkvWO5_42.765234_-71.241008@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297128,
+    "wof:geomhash":"655309ab073497e055d98672a4fb8bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873753571
+        }
+    ],
+    "wof:id":873753571,
+    "wof:lastmodified":1464297128,
+    "wof:name":"Discount Pool Supply Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "merchandise",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -71.241008,
+    42.765234,
+    -71.241008,
+    42.765234
+],
+  "geometry": {"coordinates":[-71.24100799999999,42.765234],"type":"Point"}
+}

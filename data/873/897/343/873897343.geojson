@@ -1,0 +1,71 @@
+{
+  "id": 873897343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.216196,42.805999,-71.216196,42.805999",
+    "geom:latitude":42.805999,
+    "geom:longitude":-71.216196,
+    "iso:country":"US",
+    "sg:address":"88 Bluff St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4474",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UtTJsH3tzThgELvLxNnYv_42.805999_-71.216196@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299771,
+    "wof:geomhash":"9ee07bf9211d0518a3836c84e1a57639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873897343
+        }
+    ],
+    "wof:id":873897343,
+    "wof:lastmodified":1464299771,
+    "wof:name":"Ross Concrete Pumping Inc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -71.216196,
+    42.805999,
+    -71.216196,
+    42.805999
+],
+  "geometry": {"coordinates":[-71.216196,42.805999],"type":"Point"}
+}

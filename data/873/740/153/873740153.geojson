@@ -1,0 +1,73 @@
+{
+  "id": 873740153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461588,43.533183,-71.461588,43.533183",
+    "geom:latitude":43.533183,
+    "geom:longitude":-71.461588,
+    "iso:country":"US",
+    "sg:address":"11 Dewey St",
+    "sg:city":"Campton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 7651",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OgHtnQVi2ktk5GhIfGyJi_43.533183_-71.461588@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296922,
+    "wof:geomhash":"7dc1e044318e48fc9328e5ac0a2aa850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873740153
+        }
+    ],
+    "wof:id":873740153,
+    "wof:lastmodified":1464296922,
+    "wof:name":"Donahue Electric",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.461588,
+    43.533183,
+    -71.461588,
+    43.533183
+],
+  "geometry": {"coordinates":[-71.46158800000001,43.533183],"type":"Point"}
+}

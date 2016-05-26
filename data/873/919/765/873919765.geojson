@@ -1,0 +1,74 @@
+{
+  "id": 873919765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.345001,43.005299,-71.345001,43.005299",
+    "geom:latitude":43.005299,
+    "geom:longitude":-71.345001,
+    "iso:country":"US",
+    "sg:address":"Wilson Xing",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 0200",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vEzUt0zpHjsnUefIOAzq_43.005299_-71.345001@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"f8e5b88fc4ab5b5d304f78a509b93818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873919765
+        }
+    ],
+    "wof:id":873919765,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Tiny Tots Preschool & Kindergarten",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.345001,
+    43.005299,
+    -71.345001,
+    43.005299
+],
+  "geometry": {"coordinates":[-71.345001,43.005299],"type":"Point"}
+}

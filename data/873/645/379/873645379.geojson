@@ -1,0 +1,71 @@
+{
+  "id": 873645379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.036031,44.000686,-71.036031,44.000686",
+    "geom:latitude":44.000686,
+    "geom:longitude":-71.036031,
+    "iso:country":"US",
+    "sg:address":"2129 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2899",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T19VKWBYsfpKpKiqdxzao_44.000686_-71.036031@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295540,
+    "wof:geomhash":"19ada9c469e5b7b95e46cbf91d218dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":873645379
+        }
+    ],
+    "wof:id":873645379,
+    "wof:lastmodified":1464295540,
+    "wof:name":"Banana Village",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.036031,
+    44.000686,
+    -71.036031,
+    44.000686
+],
+  "geometry": {"coordinates":[-71.03603099999999,44.000686],"type":"Point"}
+}

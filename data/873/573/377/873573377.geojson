@@ -1,0 +1,75 @@
+{
+  "id": 873573377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564225,44.488382,-71.564225,44.488382",
+    "geom:latitude":44.488382,
+    "geom:longitude":-71.564225,
+    "iso:country":"US",
+    "sg:address":"75 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4119",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zPbf8Jf566R2q6YRiu5Il_44.488382_-71.564225@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294646,
+    "wof:geomhash":"9aebc73e78e470e13e0fc0d6f33479dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873573377
+        }
+    ],
+    "wof:id":873573377,
+    "wof:lastmodified":1464294646,
+    "wof:name":"Great North Wood Flooring",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.564225,
+    44.488382,
+    -71.564225,
+    44.488382
+],
+  "geometry": {"coordinates":[-71.56422499999999,44.488382],"type":"Point"}
+}

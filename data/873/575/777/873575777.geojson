@@ -1,0 +1,69 @@
+{
+  "id": 873575777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519624,42.989524,-71.519624,42.989524",
+    "geom:latitude":42.989524,
+    "geom:longitude":-71.519624,
+    "iso:country":"US",
+    "sg:address":"215 Saint Anselm Dr",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 8484",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manufacture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KbuqSlyjBgS0UoXhq6bng_42.989524_-71.519624@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294672,
+    "wof:geomhash":"c7c01b812cb97502c8ccf58592348e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873575777
+        }
+    ],
+    "wof:id":873575777,
+    "wof:lastmodified":1464294672,
+    "wof:name":"Ubi",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture"
+    ]
+},
+  "bbox": [
+    -71.519624,
+    42.989524,
+    -71.519624,
+    42.989524
+],
+  "geometry": {"coordinates":[-71.51962399999999,42.989524],"type":"Point"}
+}

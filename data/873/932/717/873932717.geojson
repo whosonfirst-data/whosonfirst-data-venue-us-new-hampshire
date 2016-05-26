@@ -1,0 +1,74 @@
+{
+  "id": 873932717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118624,44.027617,-71.118624,44.027617",
+    "geom:latitude":44.027617,
+    "geom:longitude":-71.118624,
+    "iso:country":"US",
+    "sg:address":"1675 White Mountain Hwy",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 4410",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NV9QrgFJxLfj6qhv4PlzV_44.027617_-71.118624@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300460,
+    "wof:geomhash":"6aeb7fc305773c7ec1d9ac986b09f46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932717
+        }
+    ],
+    "wof:id":873932717,
+    "wof:lastmodified":1464300460,
+    "wof:name":"Belly Stuffers Deli",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.118624,
+    44.027617,
+    -71.118624,
+    44.027617
+],
+  "geometry": {"coordinates":[-71.118624,44.027617],"type":"Point"}
+}

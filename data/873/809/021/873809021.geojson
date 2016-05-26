@@ -1,0 +1,74 @@
+{
+  "id": 873809021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432219,43.556249,-71.432219,43.556249",
+    "geom:latitude":43.556249,
+    "geom:longitude":-71.432219,
+    "iso:country":"US",
+    "sg:address":"43 Beacon Hill Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 0500",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "model",
+        "maker"
+    ],
+    "sg:website":"www.oneofftech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wUbCYAtGdXM8p8ox2v64_43.556249_-71.432219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297909,
+    "wof:geomhash":"cbef7d91835c45a28db0c23ea0df2f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873809021
+        }
+    ],
+    "wof:id":873809021,
+    "wof:lastmodified":1464297909,
+    "wof:name":"One Off Technologies",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "maker"
+    ]
+},
+  "bbox": [
+    -71.432219,
+    43.556249,
+    -71.432219,
+    43.556249
+],
+  "geometry": {"coordinates":[-71.432219,43.556249],"type":"Point"}
+}

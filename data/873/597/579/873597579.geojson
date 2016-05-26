@@ -1,0 +1,74 @@
+{
+  "id": 873597579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.194286,44.421478,-71.194286,44.421478",
+    "geom:latitude":44.421478,
+    "geom:longitude":-71.194286,
+    "iso:country":"US",
+    "sg:address":"429 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3811",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pdRFrs1fI09BWBeT9jvl3_44.421478_-71.194286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294955,
+    "wof:geomhash":"1979f91531b749cb2e31f91a1b065758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873597579
+        }
+    ],
+    "wof:id":873597579,
+    "wof:lastmodified":1464294955,
+    "wof:name":"Lydia's Golden Touch",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.194286,
+    44.421478,
+    -71.194286,
+    44.421478
+],
+  "geometry": {"coordinates":[-71.19428600000001,44.421478],"type":"Point"}
+}

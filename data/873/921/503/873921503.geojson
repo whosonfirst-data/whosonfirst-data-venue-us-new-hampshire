@@ -1,0 +1,74 @@
+{
+  "id": 873921503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420941,42.700553,-71.420941,42.700553",
+    "geom:latitude":42.700553,
+    "geom:longitude":-71.420941,
+    "iso:country":"US",
+    "sg:address":"100 River Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5235",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XIMbHk0NfwckQKIBRrqsz_42.700553_-71.420941@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300236,
+    "wof:geomhash":"07365e73a11ec83e39b382ee84bbea5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873921503
+        }
+    ],
+    "wof:id":873921503,
+    "wof:lastmodified":1464300236,
+    "wof:name":"Ayotte's Stateline Smokin' Joe",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -71.420941,
+    42.700553,
+    -71.420941,
+    42.700553
+],
+  "geometry": {"coordinates":[-71.420941,42.700553],"type":"Point"}
+}

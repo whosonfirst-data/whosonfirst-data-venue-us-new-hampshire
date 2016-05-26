@@ -1,0 +1,79 @@
+{
+  "id": 873924315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542229,42.801825,-71.542229,42.801825",
+    "geom:latitude":42.801825,
+    "geom:longitude":-71.542229,
+    "iso:country":"US",
+    "sg:address":"18 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 7170",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "toys-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.delta-edu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f4x6scuPfOvxqhNvbYLCu_42.801825_-71.542229@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300293,
+    "wof:geomhash":"7053e84f89af7a0b7a09b4383cf7b403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873924315
+        }
+    ],
+    "wof:id":873924315,
+    "wof:lastmodified":1464300293,
+    "wof:name":"Delta Education",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toys-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.542229,
+    42.801825,
+    -71.542229,
+    42.801825
+],
+  "geometry": {"coordinates":[-71.54222900000001,42.801825],"type":"Point"}
+}

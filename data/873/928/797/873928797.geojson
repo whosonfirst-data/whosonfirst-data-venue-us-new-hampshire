@@ -1,0 +1,71 @@
+{
+  "id": 873928797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.230484,42.874698,-72.230484,42.874698",
+    "geom:latitude":42.874698,
+    "geom:longitude":-72.230484,
+    "iso:country":"US",
+    "sg:address":"577 Monadnock Hwy",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 355 8899",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bVXfxVAUspqpo1RazagtN_42.874698_-72.230484@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300385,
+    "wof:geomhash":"87e520526d57a08fe88690dad7cfbd0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873928797
+        }
+    ],
+    "wof:id":873928797,
+    "wof:lastmodified":1464300385,
+    "wof:name":"Hyundai Of Keene",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.230484,
+    42.874698,
+    -72.230484,
+    42.874698
+],
+  "geometry": {"coordinates":[-72.230484,42.874698],"type":"Point"}
+}

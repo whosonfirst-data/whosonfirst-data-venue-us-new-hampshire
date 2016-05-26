@@ -1,0 +1,69 @@
+{
+  "id": 873701673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557082,42.807156,-71.557082,42.807156",
+    "geom:latitude":42.807156,
+    "geom:longitude":-71.557082,
+    "iso:country":"US",
+    "sg:address":"506 Boston Post Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4711",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zYgmhPGFR7S27F4iQ1Xr2_42.807156_-71.557082@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296422,
+    "wof:geomhash":"01d0ca88648f5bea75fb18787915cc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873701673
+        }
+    ],
+    "wof:id":873701673,
+    "wof:lastmodified":1464296422,
+    "wof:name":"Breezy Knoll Studio",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.557082,
+    42.807156,
+    -71.557082,
+    42.807156
+],
+  "geometry": {"coordinates":[-71.55708199999999,42.807156],"type":"Point"}
+}

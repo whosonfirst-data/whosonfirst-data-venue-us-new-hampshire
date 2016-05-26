@@ -1,0 +1,73 @@
+{
+  "id": 873758261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465185,43.543548,-71.465185,43.543548",
+    "geom:latitude":43.543548,
+    "geom:longitude":-71.465185,
+    "iso:country":"US",
+    "sg:address":"628 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9360",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1phLkrtPrmSd08X5mN3F9Z_43.543548_-71.465185@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297185,
+    "wof:geomhash":"08bc52cbff4fd2337b87ac0bca4d2e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873758261
+        }
+    ],
+    "wof:id":873758261,
+    "wof:lastmodified":1464297185,
+    "wof:name":"Bayside Service",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.465185,
+    43.543548,
+    -71.465185,
+    43.543548
+],
+  "geometry": {"coordinates":[-71.46518500000001,43.543548],"type":"Point"}
+}

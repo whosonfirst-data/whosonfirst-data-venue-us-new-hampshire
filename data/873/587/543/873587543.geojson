@@ -1,0 +1,69 @@
+{
+  "id": 873587543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.060577,43.044788,-71.060577,43.044788",
+    "geom:latitude":43.044788,
+    "geom:longitude":-71.060577,
+    "iso:country":"US",
+    "sg:address":"299 Calef Hwy",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 4339",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31t0sH4JfXJQoaGBDwzaaL_43.044788_-71.060577@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"c7737f5125a5b4aabb1e449957898427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873587543
+        }
+    ],
+    "wof:id":873587543,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Cornerstone Veterinary Hosp",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.060577,
+    43.044788,
+    -71.060577,
+    43.044788
+],
+  "geometry": {"coordinates":[-71.06057699999999,43.044788],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873666501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.392668,43.324164,-72.392668,43.324164",
+    "geom:latitude":43.324164,
+    "geom:longitude":-72.392668,
+    "iso:country":"US",
+    "sg:address":"806 River Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 8768",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.merriamgraves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M2TlkWOZbikG15xC96Ftq_43.324164_-72.392668@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295764,
+    "wof:geomhash":"9c51b4d3eb6488a3ed11f76c68e6ac0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873666501
+        }
+    ],
+    "wof:id":873666501,
+    "wof:lastmodified":1464295764,
+    "wof:name":"Merriam Graves Inc",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.392668,
+    43.324164,
+    -72.392668,
+    43.324164
+],
+  "geometry": {"coordinates":[-72.392668,43.324164],"type":"Point"}
+}

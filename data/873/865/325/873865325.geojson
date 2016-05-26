@@ -1,0 +1,71 @@
+{
+  "id": 873865325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.639102,43.454994,-71.639102,43.454994",
+    "geom:latitude":43.454994,
+    "geom:longitude":-71.639102,
+    "iso:country":"US",
+    "sg:address":"200 Sanborn St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3170",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RZ7jS6YQ0BGp8VawVSyM7_43.454994_-71.639102@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299144,
+    "wof:geomhash":"59d5576a0b53071a768a24c94ad54d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873865325
+        }
+    ],
+    "wof:id":873865325,
+    "wof:lastmodified":1464299144,
+    "wof:name":"Casey Family Svc",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.639102,
+    43.454994,
+    -71.639102,
+    43.454994
+],
+  "geometry": {"coordinates":[-71.63910199999999,43.454994],"type":"Point"}
+}

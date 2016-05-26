@@ -1,0 +1,69 @@
+{
+  "id": 873810373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551274,42.883623,-71.551274,42.883623",
+    "geom:latitude":42.883623,
+    "geom:longitude":-71.551274,
+    "iso:country":"US",
+    "sg:address":"18 Greatstone Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 3556",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W4K1pKlz1ZFfiQCmdl89v_42.883623_-71.551274@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297933,
+    "wof:geomhash":"591944c78562a870ae27b4aeac59b3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873810373
+        }
+    ],
+    "wof:id":873810373,
+    "wof:lastmodified":1464297933,
+    "wof:name":"Cindy's Decorative Painting",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.551274,
+    42.883623,
+    -71.551274,
+    42.883623
+],
+  "geometry": {"coordinates":[-71.55127400000001,42.883623],"type":"Point"}
+}

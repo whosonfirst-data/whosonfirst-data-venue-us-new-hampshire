@@ -1,0 +1,79 @@
+{
+  "id": 873564135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451927,42.701938,-71.451927,42.701938",
+    "geom:latitude":42.701938,
+    "geom:longitude":-71.451927,
+    "iso:country":"US",
+    "sg:address":"310 Brook Village Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 1234",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t4qZR36l7E4JHBjcqIRM0_42.701938_-71.451927@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294545,
+    "wof:geomhash":"846128fb5563a7f3a103a352f7ae8c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873564135
+        }
+    ],
+    "wof:id":873564135,
+    "wof:lastmodified":1464294545,
+    "wof:name":"A Call Carrier Trucking Inc",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.451927,
+    42.701938,
+    -71.451927,
+    42.701938
+],
+  "geometry": {"coordinates":[-71.451927,42.701938],"type":"Point"}
+}

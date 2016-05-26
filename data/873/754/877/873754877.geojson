@@ -1,0 +1,73 @@
+{
+  "id": 873754877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574946,44.495796,-71.574946,44.495796",
+    "geom:latitude":44.495796,
+    "geom:longitude":-71.574946,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4445",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hardware",
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fUmYPoinpoG5y4xk1QNtQ_44.495796_-71.574946@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"e2e3025ae0bfd008f20a05fecc6cb7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873754877
+        }
+    ],
+    "wof:id":873754877,
+    "wof:lastmodified":1464297143,
+    "wof:name":"Lancaster Hardware",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "sporting"
+    ]
+},
+  "bbox": [
+    -71.574946,
+    44.495796,
+    -71.574946,
+    44.495796
+],
+  "geometry": {"coordinates":[-71.574946,44.495796],"type":"Point"}
+}

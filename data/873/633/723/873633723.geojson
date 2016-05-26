@@ -1,0 +1,73 @@
+{
+  "id": 873633723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.357942,42.781213,-71.357942,42.781213",
+    "geom:latitude":42.781213,
+    "geom:longitude":-71.357942,
+    "iso:country":"US",
+    "sg:address":"1 Industrial Dr",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 0489",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "screw",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W4YdNpi5a7yQyNjbC4sHS_42.781213_-71.357942@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295410,
+    "wof:geomhash":"568b351750c94a581086f0f49aa2eae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873633723
+        }
+    ],
+    "wof:id":873633723,
+    "wof:lastmodified":1464295410,
+    "wof:name":"Pelham Automatix",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "screw",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.357942,
+    42.781213,
+    -71.357942,
+    42.781213
+],
+  "geometry": {"coordinates":[-71.35794199999999,42.781213],"type":"Point"}
+}

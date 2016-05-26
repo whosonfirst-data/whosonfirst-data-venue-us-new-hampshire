@@ -1,0 +1,77 @@
+{
+  "id": 873846455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549901,43.221683,-71.549901,43.221683",
+    "geom:latitude":43.221683,
+    "geom:longitude":-71.549901,
+    "iso:country":"US",
+    "sg:address":"22 Brook St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 1111",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "phone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JwoWd4ZAIQiN3EnAf7mEP_43.221683_-71.549901@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298712,
+    "wof:geomhash":"fe632dfb839bfdfd1f841c61335bfbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873846455
+        }
+    ],
+    "wof:id":873846455,
+    "wof:lastmodified":1464298712,
+    "wof:name":"Verizon",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "phone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.549901,
+    43.221683,
+    -71.549901,
+    43.221683
+],
+  "geometry": {"coordinates":[-71.54990100000001,43.221683],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873743917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073351,43.038371,-71.073351,43.038371",
+    "geom:latitude":43.038371,
+    "geom:longitude":-71.073351,
+    "iso:country":"US",
+    "sg:address":"37 Pleasant St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5122",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gzd0AZPgbBIZh7BtnPOjj_43.038371_-71.073351@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296990,
+    "wof:geomhash":"c8f650957cccc26b34c310eaed78d672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873743917
+        }
+    ],
+    "wof:id":873743917,
+    "wof:lastmodified":1464296990,
+    "wof:name":"Epping Police Department",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.073351,
+    43.038371,
+    -71.073351,
+    43.038371
+],
+  "geometry": {"coordinates":[-71.073351,43.038371],"type":"Point"}
+}

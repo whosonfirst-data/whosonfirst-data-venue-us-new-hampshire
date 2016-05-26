@@ -1,0 +1,77 @@
+{
+  "id": 873787353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461097,42.99588,-71.461097,42.99588",
+    "geom:latitude":42.99588,
+    "geom:longitude":-71.461097,
+    "iso:country":"US",
+    "sg:address":"510 Chestnut St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 6484",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PxN9cR7E67dEz85gahbGy_42.995880_-71.461097@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297599,
+    "wof:geomhash":"59953606448abcb146d48adb3f6d33e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873787353
+        }
+    ],
+    "wof:id":873787353,
+    "wof:lastmodified":1464297599,
+    "wof:name":"Manchester Welfare Department",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -71.461097,
+    42.99588,
+    -71.461097,
+    42.99588
+],
+  "geometry": {"coordinates":[-71.461097,42.99588],"type":"Point"}
+}

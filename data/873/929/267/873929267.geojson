@@ -1,0 +1,82 @@
+{
+  "id": 873929267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.934412,42.864509,-71.934412,42.864509",
+    "geom:latitude":42.864509,
+    "geom:longitude":-71.934412,
+    "iso:country":"US",
+    "sg:address":"3 Elm Hill Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 3224",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ICn4JspCh3QlIzHjHs2nw_42.864509_-71.934412@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300394,
+    "wof:geomhash":"2d98b44af5bcb83435a2c4e59a78dc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873929267
+        }
+    ],
+    "wof:id":873929267,
+    "wof:lastmodified":1464300394,
+    "wof:name":"North Gallery At Tewksbury's",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.934412,
+    42.864509,
+    -71.934412,
+    42.864509
+],
+  "geometry": {"coordinates":[-71.93441199999999,42.864509],"type":"Point"}
+}

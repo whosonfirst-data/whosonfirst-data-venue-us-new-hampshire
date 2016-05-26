@@ -1,0 +1,71 @@
+{
+  "id": 873537555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.086755,43.791963,-71.086755,43.791963",
+    "geom:latitude":43.791963,
+    "geom:longitude":-71.086755,
+    "iso:country":"US",
+    "sg:address":"20 Remle Rd",
+    "sg:city":"Center Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 9056",
+    "sg:postcode":"03814",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TDl1w1jnySKweGB3lDi2X_43.791963_-71.086755@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294234,
+    "wof:geomhash":"ccf8ed4a49c851a7771e8fa1989d8ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873537555
+        }
+    ],
+    "wof:id":873537555,
+    "wof:lastmodified":1464294234,
+    "wof:name":"Watts Up Electric",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.086755,
+    43.791963,
+    -71.086755,
+    43.791963
+],
+  "geometry": {"coordinates":[-71.086755,43.791963],"type":"Point"}
+}

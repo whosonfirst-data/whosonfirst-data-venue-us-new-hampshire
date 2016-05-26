@@ -1,0 +1,71 @@
+{
+  "id": 873769449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.979905,43.201798,-70.979905,43.201798",
+    "geom:latitude":43.201798,
+    "geom:longitude":-70.979905,
+    "iso:country":"US",
+    "sg:address":"76 Ham Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2247",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZDPhcAAve39KVYQobdcL8_43.201798_-70.979905@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297355,
+    "wof:geomhash":"a42f155dac8316dfd0b9aebe02f3f0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873769449
+        }
+    ],
+    "wof:id":873769449,
+    "wof:lastmodified":1464297355,
+    "wof:name":"Northwind Electric Inc",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.979905,
+    43.201798,
+    -70.979905,
+    43.201798
+],
+  "geometry": {"coordinates":[-70.979905,43.201798],"type":"Point"}
+}

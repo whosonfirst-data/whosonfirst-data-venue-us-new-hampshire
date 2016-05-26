@@ -1,0 +1,73 @@
+{
+  "id": 873864235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.93374,43.088406,-70.93374,43.088406",
+    "geom:latitude":43.088406,
+    "geom:longitude":-70.93374,
+    "iso:country":"US",
+    "sg:address":"2 N Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 0278",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_700fFyMAH2eO9ht5LcqYVf_43.088406_-70.933740@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299123,
+    "wof:geomhash":"d817b38ed4f09560a2a528cfd7e6a9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873864235
+        }
+    ],
+    "wof:id":873864235,
+    "wof:lastmodified":1464299123,
+    "wof:name":"Just Wood Flooring",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.93374,
+    43.088406,
+    -70.93374,
+    43.088406
+],
+  "geometry": {"coordinates":[-70.93374,43.088406],"type":"Point"}
+}

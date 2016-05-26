@@ -1,0 +1,83 @@
+{
+  "id": 873928885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.231958,42.876173,-72.231958,42.876173",
+    "geom:latitude":42.876173,
+    "geom:longitude":-72.231958,
+    "iso:country":"US",
+    "sg:address":"544 Monadnock Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 7945",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.nissanofkeene.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_641qTFb1PpS1h5uFEJU1De_42.876173_-72.231958@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300386,
+    "wof:geomhash":"b70da677de4bbe920de888baa71d3d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873928885
+        }
+    ],
+    "wof:id":873928885,
+    "wof:lastmodified":1464300386,
+    "wof:name":"Nissan Of Keene",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [
+    -72.231958,
+    42.876173,
+    -72.231958,
+    42.876173
+],
+  "geometry": {"coordinates":[-72.23195800000001,42.876173],"type":"Point"}
+}

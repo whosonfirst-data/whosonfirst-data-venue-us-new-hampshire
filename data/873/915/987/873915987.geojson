@@ -1,0 +1,83 @@
+{
+  "id": 873915987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470325,42.746411,-71.470325,42.746411",
+    "geom:latitude":42.746411,
+    "geom:longitude":-71.470325,
+    "iso:country":"US",
+    "sg:address":"22 Hunt St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 5450",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"http://www.courvillecommunities.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7adVURKMlDjy4fXVNnnf4c_42.745792_-71.469838@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300141,
+    "wof:geomhash":"d93f37d8c7600c9d5f53f18bbfdda40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873915987
+        }
+    ],
+    "wof:id":873915987,
+    "wof:lastmodified":1464300141,
+    "wof:name":"Courville At Nashua",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.470325,
+    42.746411,
+    -71.470325,
+    42.746411
+],
+  "geometry": {"coordinates":[-71.470325,42.746411],"type":"Point"}
+}

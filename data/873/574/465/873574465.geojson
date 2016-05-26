@@ -1,0 +1,77 @@
+{
+  "id": 873574465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.818235,42.877896,-70.818235,42.877896",
+    "geom:latitude":42.877896,
+    "geom:longitude":-70.818235,
+    "iso:country":"US",
+    "sg:address":"186 Ocean Blvd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 2328",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950807,
+        102084463,
+        85847549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ozf8s53FBsq8wBVEObbIX_42.877896_-70.818235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294657,
+    "wof:geomhash":"90e8ab550dd529738454f327f1a90ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950807,
+            "neighbourhood_id":85847549,
+            "region_id":85688645,
+            "venue_id":873574465
+        }
+    ],
+    "wof:id":873574465,
+    "wof:lastmodified":1464294657,
+    "wof:name":"Screen Gems",
+    "wof:parent_id":85847549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -70.818235,
+    42.877896,
+    -70.818235,
+    42.877896
+],
+  "geometry": {"coordinates":[-70.818235,42.877896],"type":"Point"}
+}

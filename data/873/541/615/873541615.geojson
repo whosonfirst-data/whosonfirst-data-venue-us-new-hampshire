@@ -1,0 +1,71 @@
+{
+  "id": 873541615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.303386,44.597327,-71.303386,44.597327",
+    "geom:latitude":44.597327,
+    "geom:longitude":-71.303386,
+    "iso:country":"US",
+    "sg:address":"47 W Village Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 2900",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TV2EWkLyvCMl6rGJV58dl_44.597327_-71.303386@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294276,
+    "wof:geomhash":"0b2fa7f93654867d2d735d1c2109a457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873541615
+        }
+    ],
+    "wof:id":873541615,
+    "wof:lastmodified":1464294276,
+    "wof:name":"West Milan Town Hall",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -71.303386,
+    44.597327,
+    -71.303386,
+    44.597327
+],
+  "geometry": {"coordinates":[-71.303386,44.597327],"type":"Point"}
+}

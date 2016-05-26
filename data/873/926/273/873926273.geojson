@@ -1,0 +1,88 @@
+{
+  "id": 873926273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249036,42.764372,-71.249036,42.764372",
+    "geom:latitude":42.764372,
+    "geom:longitude":-71.249036,
+    "iso:country":"US",
+    "sg:address":"71 Lowell Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 1313",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mover",
+        "material",
+        "moving",
+        "labeling",
+        "services-labor"
+    ],
+    "sg:website":"http://www.taylormoving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ore4IlRqwoYRn20KsVmva_42.764372_-71.249036@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300332,
+    "wof:geomhash":"084ec632cb57500a2b11fe46653b6e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873926273
+        }
+    ],
+    "wof:id":873926273,
+    "wof:lastmodified":1464300332,
+    "wof:name":"Paul W Taylor Co Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover",
+        "material",
+        "moving",
+        "labeling",
+        "services-labor"
+    ]
+},
+  "bbox": [
+    -71.249036,
+    42.764372,
+    -71.249036,
+    42.764372
+],
+  "geometry": {"coordinates":[-71.249036,42.764372],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873747061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.66085,42.716113,-71.66085,42.716113",
+    "geom:latitude":42.716113,
+    "geom:longitude":-71.66085,
+    "iso:country":"US",
+    "sg:address":"12 Oak Hill Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 5900",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v5jiQXAHBTX8Nfqbg8T5w_42.716113_-71.660850@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297039,
+    "wof:geomhash":"b94c8811d48dcb890c8ca43cbeeecdef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873747061
+        }
+    ],
+    "wof:id":873747061,
+    "wof:lastmodified":1464297039,
+    "wof:name":"Stoney Ledge Self Storage",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.66085,
+    42.716113,
+    -71.66085,
+    42.716113
+],
+  "geometry": {"coordinates":[-71.66085,42.716113],"type":"Point"}
+}

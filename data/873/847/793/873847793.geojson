@@ -1,0 +1,73 @@
+{
+  "id": 873847793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45329,43.141131,-71.45329,43.141131",
+    "geom:latitude":43.141131,
+    "geom:longitude":-71.45329,
+    "iso:country":"US",
+    "sg:address":"94 Broadway",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 7145",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "justice",
+        "peace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VpXS7RHpvRpOcdWGI7mto_43.141131_-71.453290@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298764,
+    "wof:geomhash":"aa92fc5dd4f834c6875768c81d8207ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873847793
+        }
+    ],
+    "wof:id":873847793,
+    "wof:lastmodified":1464298764,
+    "wof:name":"Mary Ann Gross",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "peace"
+    ]
+},
+  "bbox": [
+    -71.45329,
+    43.141131,
+    -71.45329,
+    43.141131
+],
+  "geometry": {"coordinates":[-71.45329,43.141131],"type":"Point"}
+}

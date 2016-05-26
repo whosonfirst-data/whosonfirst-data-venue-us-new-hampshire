@@ -1,0 +1,69 @@
+{
+  "id": 873813423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831767,42.925356,-70.831767,42.925356",
+    "geom:latitude":42.925356,
+    "geom:longitude":-70.831767,
+    "iso:country":"US",
+    "sg:address":"6 Fogg Ln",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 0693",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qqVJSbW0NReCs3j9dBQTH_42.925356_-70.831767@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297985,
+    "wof:geomhash":"ee8d4db7a5cf6c52778f188dd1b7cd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823769,
+            "region_id":85688689,
+            "venue_id":873813423
+        }
+    ],
+    "wof:id":873813423,
+    "wof:lastmodified":1464297985,
+    "wof:name":"Gary P Dupuis",
+    "wof:parent_id":85823769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -70.831767,
+    42.925356,
+    -70.831767,
+    42.925356
+],
+  "geometry": {"coordinates":[-70.831767,42.925356],"type":"Point"}
+}

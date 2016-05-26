@@ -1,0 +1,71 @@
+{
+  "id": 873777551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.688642,43.764371,-71.688642,43.764371",
+    "geom:latitude":43.764371,
+    "geom:longitude":-71.688642,
+    "iso:country":"US",
+    "sg:address":"19 Armory Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3648",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MnSAFAYq9k5kF8g7smir2_43.764371_-71.688642@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297457,
+    "wof:geomhash":"b763a530df0324c36b37ff7e0d2b1f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873777551
+        }
+    ],
+    "wof:id":873777551,
+    "wof:lastmodified":1464297457,
+    "wof:name":"Recruiting Office",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.688642,
+    43.764371,
+    -71.688642,
+    43.764371
+],
+  "geometry": {"coordinates":[-71.688642,43.764371],"type":"Point"}
+}

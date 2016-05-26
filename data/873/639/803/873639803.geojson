@@ -1,0 +1,71 @@
+{
+  "id": 873639803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186304,42.7455,-71.186304,42.7455",
+    "geom:latitude":42.7455,
+    "geom:longitude":-71.186304,
+    "iso:country":"US",
+    "sg:address":"45 Twinbrook Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 1257",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vBTguqfDyRcV2e5WNUj4X_42.745500_-71.186304@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295471,
+    "wof:geomhash":"10d23755ec0251e95af16cbbce53f57b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873639803
+        }
+    ],
+    "wof:id":873639803,
+    "wof:lastmodified":1464295471,
+    "wof:name":"Gaffney Plumbing Inc",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.186304,
+    42.7455,
+    -71.186304,
+    42.7455
+],
+  "geometry": {"coordinates":[-71.18630400000001,42.7455],"type":"Point"}
+}

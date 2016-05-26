@@ -1,0 +1,73 @@
+{
+  "id": 873877337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432546,43.50895,-71.432546,43.50895",
+    "geom:latitude":43.50895,
+    "geom:longitude":-71.432546,
+    "iso:country":"US",
+    "sg:address":"5 Young Rd",
+    "sg:city":"Allenstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 4603",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vEDaizAR0OitOlPlIRN77_43.508950_-71.432546@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299383,
+    "wof:geomhash":"b65ad0dde8c610f96881c969ac60ed7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873877337
+        }
+    ],
+    "wof:id":873877337,
+    "wof:lastmodified":1464299383,
+    "wof:name":"RCS Maintenance & Remodeling",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.432546,
+    43.50895,
+    -71.432546,
+    43.50895
+],
+  "geometry": {"coordinates":[-71.432546,43.50895],"type":"Point"}
+}

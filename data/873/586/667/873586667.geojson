@@ -1,0 +1,86 @@
+{
+  "id": 873586667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465722,43.532817,-71.465722,43.532817",
+    "geom:latitude":43.532817,
+    "geom:longitude":-71.465722,
+    "iso:country":"US",
+    "sg:address":"53 Davis Pl",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6766",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "jobbing",
+        "wire",
+        "repair",
+        "precision",
+        "machine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yvnt71dsAJfs8j1k7HbVd_43.532817_-71.465722@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294791,
+    "wof:geomhash":"62d92d5e5e2592b7c3c6cd922fd8dc4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873586667
+        }
+    ],
+    "wof:id":873586667,
+    "wof:lastmodified":1464294791,
+    "wof:name":"Levasseur Precision Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "jobbing",
+        "wire",
+        "repair",
+        "precision",
+        "machine"
+    ]
+},
+  "bbox": [
+    -71.465722,
+    43.532817,
+    -71.465722,
+    43.532817
+],
+  "geometry": {"coordinates":[-71.465722,43.532817],"type":"Point"}
+}

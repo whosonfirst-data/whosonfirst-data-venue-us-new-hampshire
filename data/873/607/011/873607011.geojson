@@ -1,0 +1,75 @@
+{
+  "id": 873607011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.786924,44.169371,-71.786924,44.169371",
+    "geom:latitude":44.169371,
+    "geom:longitude":-71.786924,
+    "iso:country":"US",
+    "sg:address":"111 Easton Valley Rd",
+    "sg:city":"Franconia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 823 5656",
+    "sg:postcode":"03580",
+    "sg:province":"NH",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.tamaracktennis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Teq9ceT1T1Af8lTLiUicl_44.169371_-71.786924@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295077,
+    "wof:geomhash":"7cf1ac604247e1c68c03586eb7c75d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873607011
+        }
+    ],
+    "wof:id":873607011,
+    "wof:lastmodified":1464295077,
+    "wof:name":"Tamarack Tennis Camps",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -71.786924,
+    44.169371,
+    -71.786924,
+    44.169371
+],
+  "geometry": {"coordinates":[-71.786924,44.169371],"type":"Point"}
+}

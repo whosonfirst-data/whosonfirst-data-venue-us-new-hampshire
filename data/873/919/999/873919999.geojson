@@ -1,0 +1,71 @@
+{
+  "id": 873919999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276163,43.059878,-71.276163,43.059878",
+    "geom:latitude":43.059878,
+    "geom:longitude":-71.276163,
+    "iso:country":"US",
+    "sg:address":"143 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 3355",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Ti2HSiphj9TF7zDbZlAl_43.059878_-71.276163@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300211,
+    "wof:geomhash":"fcf26f37b3fa578cc1335900662d3d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873919999
+        }
+    ],
+    "wof:id":873919999,
+    "wof:lastmodified":1464300211,
+    "wof:name":"Coppola Physical Therapy and Fitness Gym",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.276163,
+    43.059878,
+    -71.276163,
+    43.059878
+],
+  "geometry": {"coordinates":[-71.276163,43.059878],"type":"Point"}
+}

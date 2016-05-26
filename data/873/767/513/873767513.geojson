@@ -1,0 +1,73 @@
+{
+  "id": 873767513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420136,42.709982,-71.420136,42.709982",
+    "geom:latitude":42.709982,
+    "geom:longitude":-71.420136,
+    "iso:country":"US",
+    "sg:address":"22 River Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 7843",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CWj6252Pu1UZGPxLbQn7f_42.709982_-71.420136@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297332,
+    "wof:geomhash":"2f6a2e73b81fcd304fcbc459ca93de45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873767513
+        }
+    ],
+    "wof:id":873767513,
+    "wof:lastmodified":1464297332,
+    "wof:name":"Eagle Eyed One Sales & Svc",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    -71.420136,
+    42.709982,
+    -71.420136,
+    42.709982
+],
+  "geometry": {"coordinates":[-71.420136,42.709982],"type":"Point"}
+}

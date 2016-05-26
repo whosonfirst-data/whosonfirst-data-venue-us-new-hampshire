@@ -1,0 +1,71 @@
+{
+  "id": 873612615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.878166,43.054589,-70.878166,43.054589",
+    "geom:latitude":43.054589,
+    "geom:longitude":-70.878166,
+    "iso:country":"US",
+    "sg:address":"5 Bayridge Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 373 0472",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "devices",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19uMXfuSyHt6Scq9131UEq_43.054589_-70.878166@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295172,
+    "wof:geomhash":"654190cf37926aff6d119bce8fbf71ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873612615
+        }
+    ],
+    "wof:id":873612615,
+    "wof:lastmodified":1464295172,
+    "wof:name":"Wireless Sensors LLC",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "devices",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.878166,
+    43.054589,
+    -70.878166,
+    43.054589
+],
+  "geometry": {"coordinates":[-70.87816599999999,43.054589],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873577821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.232703,42.828192,-71.232703,42.828192",
+    "geom:latitude":42.828192,
+    "geom:longitude":-71.232703,
+    "iso:country":"US",
+    "sg:address":"53 E Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 3431",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zsiSMcfpXCI9HublX7Csm_42.828192_-71.232703@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294692,
+    "wof:geomhash":"df8ff793094ad3ef5c6b4a2810b05f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873577821
+        }
+    ],
+    "wof:id":873577821,
+    "wof:lastmodified":1464294692,
+    "wof:name":"Hamilton-Wood Inc",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.232703,
+    42.828192,
+    -71.232703,
+    42.828192
+],
+  "geometry": {"coordinates":[-71.232703,42.828192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873827791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.041595,43.37299,-72.041595,43.37299",
+    "geom:latitude":43.37299,
+    "geom:longitude":-72.041595,
+    "iso:country":"US",
+    "sg:address":"6 Post Office St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4733",
+    "sg:postcode":"03255",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806431,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WeIhvb78jY6VjrHs58HcG_43.372990_-72.041595@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298291,
+    "wof:geomhash":"a6004cada962d22d0377bbe631510083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806431,
+            "region_id":85688689,
+            "venue_id":873827791
+        }
+    ],
+    "wof:id":873827791,
+    "wof:lastmodified":1464298291,
+    "wof:name":"Plymouth Tax Collector",
+    "wof:parent_id":85806431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -72.041595,
+    43.37299,
+    -72.041595,
+    43.37299
+],
+  "geometry": {"coordinates":[-72.041595,43.37299],"type":"Point"}
+}

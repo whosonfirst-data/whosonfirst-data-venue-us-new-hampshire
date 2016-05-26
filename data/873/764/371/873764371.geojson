@@ -1,0 +1,71 @@
+{
+  "id": 873764371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488851,42.978778,-71.488851,42.978778",
+    "geom:latitude":42.978778,
+    "geom:longitude":-71.488851,
+    "iso:country":"US",
+    "sg:address":"3 Forest St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8603",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eWtT6sXXixPKfqF8DHEhz_42.978778_-71.488851@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297282,
+    "wof:geomhash":"e6f82223a75f9a96930cd23bbc599663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873764371
+        }
+    ],
+    "wof:id":873764371,
+    "wof:lastmodified":1464297282,
+    "wof:name":"Sensible Plumbing & Heating",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.488851,
+    42.978778,
+    -71.488851,
+    42.978778
+],
+  "geometry": {"coordinates":[-71.488851,42.978778],"type":"Point"}
+}

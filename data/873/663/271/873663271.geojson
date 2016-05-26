@@ -1,0 +1,71 @@
+{
+  "id": 873663271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.150166,43.809878,-72.150166,43.809878",
+    "geom:latitude":43.809878,
+    "geom:longitude":-72.150166,
+    "iso:country":"US",
+    "sg:address":"1 High St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 2111",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W3dQokuTE5svrbhAlK9zl_43.809878_-72.150166@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295733,
+    "wof:geomhash":"a237c427ed5f93dad75b51f972d1b20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873663271
+        }
+    ],
+    "wof:id":873663271,
+    "wof:lastmodified":1464295733,
+    "wof:name":"Recreate Inc",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.150166,
+    43.809878,
+    -72.150166,
+    43.809878
+],
+  "geometry": {"coordinates":[-72.150166,43.809878],"type":"Point"}
+}

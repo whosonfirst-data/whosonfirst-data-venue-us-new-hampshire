@@ -1,0 +1,75 @@
+{
+  "id": 873928379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.60703,43.299755,-71.60703,43.299755",
+    "geom:latitude":43.299755,
+    "geom:longitude":-71.60703,
+    "iso:country":"US",
+    "sg:address":"197 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 2728",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oj0wEL2vV2TcbN0SR2KTF_43.299755_-71.607030@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300376,
+    "wof:geomhash":"9fd380aa4a37105455dbbec0ade25ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928379
+        }
+    ],
+    "wof:id":873928379,
+    "wof:lastmodified":1464300376,
+    "wof:name":"Total Climate Control",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [
+    -71.60703,
+    43.299755,
+    -71.60703,
+    43.299755
+],
+  "geometry": {"coordinates":[-71.60702999999999,43.299755],"type":"Point"}
+}

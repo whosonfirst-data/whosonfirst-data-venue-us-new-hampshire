@@ -1,0 +1,71 @@
+{
+  "id": 873920973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555385,42.710176,-71.555385,42.710176",
+    "geom:latitude":42.710176,
+    "geom:longitude":-71.555385,
+    "iso:country":"US",
+    "sg:address":"22 Clinton Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 7799",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "semiconductor",
+        "device"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30GxwnVjzmqSrI1Xg637wt_42.710176_-71.555385@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300227,
+    "wof:geomhash":"08060bb1e45fccc68fbad9bd8ce5cd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873920973
+        }
+    ],
+    "wof:id":873920973,
+    "wof:lastmodified":1464300227,
+    "wof:name":"Ultrasource, Inc.",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "device"
+    ]
+},
+  "bbox": [
+    -71.555385,
+    42.710176,
+    -71.555385,
+    42.710176
+],
+  "geometry": {"coordinates":[-71.555385,42.710176],"type":"Point"}
+}

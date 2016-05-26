@@ -1,0 +1,77 @@
+{
+  "id": 873724377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.131156,43.183792,-71.131156,43.183792",
+    "geom:latitude":43.183792,
+    "geom:longitude":-71.131156,
+    "iso:country":"US",
+    "sg:address":"59 Garland Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5588",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837873,
+        102086507,
+        85838565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wwuAQfBXHw4GKTdgExvXi_43.183792_-71.131156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296704,
+    "wof:geomhash":"f143529b51b4fc13dbc430de1651dd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837873,
+            "region_id":85688689,
+            "venue_id":873724377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873724377
+        }
+    ],
+    "wof:id":873724377,
+    "wof:lastmodified":1464296704,
+    "wof:name":"Garland Farm Wool",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.131156,
+    43.183792,
+    -71.131156,
+    43.183792
+],
+  "geometry": {"coordinates":[-71.131156,43.183792],"type":"Point"}
+}

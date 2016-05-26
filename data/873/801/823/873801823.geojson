@@ -1,0 +1,73 @@
+{
+  "id": 873801823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.149501,42.823696,-71.149501,42.823696",
+    "geom:latitude":42.823696,
+    "geom:longitude":-71.149501,
+    "iso:country":"US",
+    "sg:address":"4 Meadow Ln",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 4490",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCC9O56S2EixAo6UViCdD_42.823696_-71.149501@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297795,
+    "wof:geomhash":"252cce0420774e8e8a256200ef5a6de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873801823
+        }
+    ],
+    "wof:id":873801823,
+    "wof:lastmodified":1464297795,
+    "wof:name":"AAA Flooring Inc",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.149501,
+    42.823696,
+    -71.149501,
+    42.823696
+],
+  "geometry": {"coordinates":[-71.149501,42.823696],"type":"Point"}
+}

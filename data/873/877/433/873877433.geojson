@@ -1,0 +1,75 @@
+{
+  "id": 873877433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182313,44.468689,-71.182313,44.468689",
+    "geom:latitude":44.468689,
+    "geom:longitude":-71.182313,
+    "iso:country":"US",
+    "sg:address":"74 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2212",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m2FWakPS31bsYhVXqVb8p_44.468689_-71.182313@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299385,
+    "wof:geomhash":"5ee0f9e32d7107edce9d95c827df93f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873877433
+        }
+    ],
+    "wof:id":873877433,
+    "wof:lastmodified":1464299385,
+    "wof:name":"Dave's Music",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.182313,
+    44.468689,
+    -71.182313,
+    44.468689
+],
+  "geometry": {"coordinates":[-71.18231299999999,44.468689],"type":"Point"}
+}

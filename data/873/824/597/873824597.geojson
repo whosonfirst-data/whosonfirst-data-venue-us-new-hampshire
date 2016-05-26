@@ -1,0 +1,70 @@
+{
+  "id": 873824597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.249932,43.64061,-72.249932,43.64061",
+    "geom:latitude":43.64061,
+    "geom:longitude":-72.249932,
+    "iso:country":"US",
+    "sg:address":"22 School St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 4536",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49PgScegcVmlHKkjvIDC6v_43.640610_-72.249932@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298225,
+    "wof:geomhash":"66c5692d3d10feb53fd676bd9338036f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873824597
+        }
+    ],
+    "wof:id":873824597,
+    "wof:lastmodified":1464298225,
+    "wof:name":"School Street School",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.249932,
+    43.64061,
+    -72.249932,
+    43.64061
+],
+  "geometry": {"coordinates":[-72.249932,43.64061],"type":"Point"}
+}

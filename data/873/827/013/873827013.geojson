@@ -1,0 +1,73 @@
+{
+  "id": 873827013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653405,42.714269,-71.653405,42.714269",
+    "geom:latitude":42.714269,
+    "geom:longitude":-71.653405,
+    "iso:country":"US",
+    "sg:address":"43 Parker Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 6810",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dxbTGQsKpNkRyoxvYELy0_42.714269_-71.653405@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298277,
+    "wof:geomhash":"32d5b415e2eb15da351d9719b52f16f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873827013
+        }
+    ],
+    "wof:id":873827013,
+    "wof:lastmodified":1464298277,
+    "wof:name":"Tavela Mechanical",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.653405,
+    42.714269,
+    -71.653405,
+    42.714269
+],
+  "geometry": {"coordinates":[-71.65340500000001,42.714269],"type":"Point"}
+}

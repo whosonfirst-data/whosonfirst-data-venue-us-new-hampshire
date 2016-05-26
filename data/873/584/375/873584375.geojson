@@ -1,0 +1,71 @@
+{
+  "id": 873584375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.040106,44.153831,-72.040106,44.153831",
+    "geom:latitude":44.153831,
+    "geom:longitude":-72.040106,
+    "iso:country":"US",
+    "sg:address":"17 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 8117",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N0pF6NgNoXKahTed5O5rf_44.153831_-72.040106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294767,
+    "wof:geomhash":"9c84cdaee830fc1eef2c6b3334d015ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873584375
+        }
+    ],
+    "wof:id":873584375,
+    "wof:lastmodified":1464294767,
+    "wof:name":"Grace Assembly Of God",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.040106,
+    44.153831,
+    -72.040106,
+    44.153831
+],
+  "geometry": {"coordinates":[-72.04010599999999,44.153831],"type":"Point"}
+}

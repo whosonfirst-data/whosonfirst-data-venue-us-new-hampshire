@@ -1,0 +1,75 @@
+{
+  "id": 873875893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529742,43.176216,-71.529742,43.176216",
+    "geom:latitude":43.176216,
+    "geom:longitude":-71.529742,
+    "iso:country":"US",
+    "sg:address":"500 State Rte 3a",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 6175",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZzpHgklUyv35STRef0WM_43.176216_-71.529742@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299351,
+    "wof:geomhash":"563d2f769135984c6821ac9e2feabb48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873875893
+        }
+    ],
+    "wof:id":873875893,
+    "wof:lastmodified":1464299351,
+    "wof:name":"Irving Oil",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.529742,
+    43.176216,
+    -71.529742,
+    43.176216
+],
+  "geometry": {"coordinates":[-71.529742,43.176216],"type":"Point"}
+}

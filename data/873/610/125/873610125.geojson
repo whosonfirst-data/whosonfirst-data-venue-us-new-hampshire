@@ -1,0 +1,71 @@
+{
+  "id": 873610125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.026689,43.086643,-71.026689,43.086643",
+    "geom:latitude":43.086643,
+    "geom:longitude":-71.026689,
+    "iso:country":"US",
+    "sg:address":"297 N River Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2949",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849819,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uc6xWVVpgisakIMBHrp3a_43.086643_-71.026689@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295145,
+    "wof:geomhash":"c2b1c3d328e3697556d43519b9b5ba44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85849819,
+            "region_id":85688689,
+            "venue_id":873610125
+        }
+    ],
+    "wof:id":873610125,
+    "wof:lastmodified":1464295145,
+    "wof:name":"Flag Hill Winery & Vineyard",
+    "wof:parent_id":85849819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.026689,
+    43.086643,
+    -71.026689,
+    43.086643
+],
+  "geometry": {"coordinates":[-71.026689,43.086643],"type":"Point"}
+}

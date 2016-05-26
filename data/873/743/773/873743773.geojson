@@ -1,0 +1,71 @@
+{
+  "id": 873743773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.87117,42.89516,-70.87117,42.89516",
+    "geom:latitude":42.89516,
+    "geom:longitude":-70.87117,
+    "iso:country":"US",
+    "sg:address":"692 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 4102",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YqRbzorZ3KsVM43Lrdg83_42.895160_-70.871170@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296987,
+    "wof:geomhash":"83c158d989744308d0ca2ea7ed83764b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873743773
+        }
+    ],
+    "wof:id":873743773,
+    "wof:lastmodified":1464296987,
+    "wof:name":"JCL Performance",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.87117,
+    42.89516,
+    -70.87117,
+    42.89516
+],
+  "geometry": {"coordinates":[-70.87117000000001,42.89516],"type":"Point"}
+}

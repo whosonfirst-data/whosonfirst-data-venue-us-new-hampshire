@@ -1,0 +1,91 @@
+{
+  "id": 873916593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.625896,42.824047,-71.625896,42.824047",
+    "geom:latitude":42.824047,
+    "geom:longitude":-71.625896,
+    "iso:country":"US",
+    "sg:address":"556 Nashua St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/milford/149170-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 3744",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RUA3swjgfU5lqjxEQTtVp_42.824047_-71.625896@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300152,
+    "wof:geomhash":"7a6927d51cdc9e14a2d5e002d4d3ab45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873916593
+        }
+    ],
+    "wof:id":873916593,
+    "wof:lastmodified":1464300152,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.625896,
+    42.824047,
+    -71.625896,
+    42.824047
+],
+  "geometry": {"coordinates":[-71.625896,42.824047],"type":"Point"}
+}

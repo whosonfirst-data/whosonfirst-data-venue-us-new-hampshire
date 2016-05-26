@@ -1,0 +1,71 @@
+{
+  "id": 873545405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417335,43.482262,-71.417335,43.482262",
+    "geom:latitude":43.482262,
+    "geom:longitude":-71.417335,
+    "iso:country":"US",
+    "sg:address":"185 Hoadley Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1700",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fkDuwHnRmSmsn7QPOFfSI_43.482262_-71.417335@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294321,
+    "wof:geomhash":"b949fbdaac9453f3d8ab521c9f3b580d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873545405
+        }
+    ],
+    "wof:id":873545405,
+    "wof:lastmodified":1464294321,
+    "wof:name":"Wheeler Surveying & Mapping PC",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -71.417335,
+    43.482262,
+    -71.417335,
+    43.482262
+],
+  "geometry": {"coordinates":[-71.41733499999999,43.482262],"type":"Point"}
+}

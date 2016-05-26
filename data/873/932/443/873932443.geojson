@@ -1,0 +1,72 @@
+{
+  "id": 873932443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.057673,42.946042,-71.057673,42.946042",
+    "geom:latitude":42.946042,
+    "geom:longitude":-71.057673,
+    "iso:country":"US",
+    "sg:address":"53 Church Street",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 9425",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"http://www.exeterhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vzyKV6fsJrw4OYuriAK6f_42.946042_-71.057673@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300455,
+    "wof:geomhash":"78e42806324631f3096d6aefa367f70b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873932443
+        }
+    ],
+    "wof:id":873932443,
+    "wof:lastmodified":1464300455,
+    "wof:name":"Exeter Hospital Rehabilitation Services of Kingston",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.057673,
+    42.946042,
+    -71.057673,
+    42.946042
+],
+  "geometry": {"coordinates":[-71.05767299999999,42.946042],"type":"Point"}
+}

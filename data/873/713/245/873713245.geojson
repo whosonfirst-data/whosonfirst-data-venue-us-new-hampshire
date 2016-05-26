@@ -1,0 +1,69 @@
+{
+  "id": 873713245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.926095,42.996317,-71.926095,42.996317",
+    "geom:latitude":42.996317,
+    "geom:longitude":-71.926095,
+    "iso:country":"US",
+    "sg:address":"172 US Hwy 202",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 588 6699",
+    "sg:postcode":"03442",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwrvxCCWiaCYoqNXFAVVh_42.996317_-71.926095@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296559,
+    "wof:geomhash":"f1a200eab0f5e1da0286598db0910a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873713245
+        }
+    ],
+    "wof:id":873713245,
+    "wof:lastmodified":1464296559,
+    "wof:name":"Plants Alive Inc",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.926095,
+    42.996317,
+    -71.926095,
+    42.996317
+],
+  "geometry": {"coordinates":[-71.926095,42.996317],"type":"Point"}
+}

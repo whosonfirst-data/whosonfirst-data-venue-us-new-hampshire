@@ -1,0 +1,71 @@
+{
+  "id": 873919783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3563,43.015301,-71.3563,43.015301",
+    "geom:latitude":43.015301,
+    "geom:longitude":-71.3563,
+    "iso:country":"US",
+    "sg:address":"54 Wood Hill Dr",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 4646",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y9JVXcCA97X7Z1ArILV7h_43.015301_-71.356300@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"0859abab62970233f1422a5f302e76c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873919783
+        }
+    ],
+    "wof:id":873919783,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Massabesic Mortgage Corp",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.3563,
+    43.015301,
+    -71.3563,
+    43.015301
+],
+  "geometry": {"coordinates":[-71.3563,43.015301],"type":"Point"}
+}

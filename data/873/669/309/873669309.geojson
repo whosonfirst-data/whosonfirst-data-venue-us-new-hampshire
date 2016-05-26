@@ -1,0 +1,75 @@
+{
+  "id": 873669309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.157019,43.197873,-71.157019,43.197873",
+    "geom:latitude":43.197873,
+    "geom:longitude":-71.157019,
+    "iso:country":"US",
+    "sg:address":"256 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8415",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D7ckv8UEC8ZMQXWmdy2Yn_43.197873_-71.157019@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295793,
+    "wof:geomhash":"9c0360f03aa5d9fa90134f369099f5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873669309
+        }
+    ],
+    "wof:id":873669309,
+    "wof:lastmodified":1464295793,
+    "wof:name":"Videos 4 U",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.157019,
+    43.197873,
+    -71.157019,
+    43.197873
+],
+  "geometry": {"coordinates":[-71.15701900000001,43.197873],"type":"Point"}
+}

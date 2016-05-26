@@ -1,0 +1,84 @@
+{
+  "id": 873934989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.216705,43.585246,-71.216705,43.585246",
+    "geom:latitude":43.585246,
+    "geom:longitude":-71.216705,
+    "iso:country":"US",
+    "sg:address":"8 South Main Street",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4444",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "art",
+        "card",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dGEmH2Fv7YGI6TBtIMcl3_43.585246_-71.216705@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300500,
+    "wof:geomhash":"947ccbd2448856029b86e7edac12e481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873934989
+        }
+    ],
+    "wof:id":873934989,
+    "wof:lastmodified":1464300500,
+    "wof:name":"Black's Gift Shop & Paper Store",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "card",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.216705,
+    43.585246,
+    -71.216705,
+    43.585246
+],
+  "geometry": {"coordinates":[-71.216705,43.585246],"type":"Point"}
+}

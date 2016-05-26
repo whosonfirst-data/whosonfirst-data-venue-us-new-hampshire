@@ -1,0 +1,73 @@
+{
+  "id": 873688317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.665696,42.731358,-71.665696,42.731358",
+    "geom:latitude":42.731358,
+    "geom:longitude":-71.665696,
+    "iso:country":"US",
+    "sg:address":"103 State Rte 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 5309",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "farm",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mV87jSxWtsKWQXSqPIOFc_42.731358_-71.665696@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296228,
+    "wof:geomhash":"b4d84ede9a1b26d43639597133c1b75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873688317
+        }
+    ],
+    "wof:id":873688317,
+    "wof:lastmodified":1464296228,
+    "wof:name":"Country Dreams Farm Stand",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.665696,
+    42.731358,
+    -71.665696,
+    42.731358
+],
+  "geometry": {"coordinates":[-71.665696,42.731358],"type":"Point"}
+}

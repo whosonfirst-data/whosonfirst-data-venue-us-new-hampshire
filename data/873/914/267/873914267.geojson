@@ -1,0 +1,78 @@
+{
+  "id": 873914267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595703,43.2883,-71.595703,43.2883",
+    "geom:latitude":43.2883,
+    "geom:longitude":-71.595703,
+    "iso:country":"US",
+    "sg:address":"15 Fisher Ave",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 0122",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "live",
+        "dj"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R94VMNKoCw7BaxQceud4g_43.288282_-71.595518@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300093,
+    "wof:geomhash":"c7ecab7ac6968414927dd10aa4a3316b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873914267
+        }
+    ],
+    "wof:id":873914267,
+    "wof:lastmodified":1464300093,
+    "wof:name":"Sound Garden",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "dj"
+    ]
+},
+  "bbox": [
+    -71.595703,
+    43.2883,
+    -71.595703,
+    43.2883
+],
+  "geometry": {"coordinates":[-71.595703,43.2883],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873929401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.030472,42.75108,-72.030472,42.75108",
+    "geom:latitude":42.75108,
+    "geom:longitude":-72.030472,
+    "iso:country":"US",
+    "sg:address":"83 Hunt Hill Rd",
+    "sg:city":"Rindge",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 899 6594",
+    "sg:postcode":"03461",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856251,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yUNdAoChHSrGnxLRIxvCY_42.751080_-72.030472@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300396,
+    "wof:geomhash":"ab1fb3c70448d80c397bab938153d37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85856251,
+            "region_id":85688689,
+            "venue_id":873929401
+        }
+    ],
+    "wof:id":873929401,
+    "wof:lastmodified":1464300396,
+    "wof:name":"Massage For Wellness",
+    "wof:parent_id":85856251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -72.030472,
+    42.75108,
+    -72.030472,
+    42.75108
+],
+  "geometry": {"coordinates":[-72.030472,42.75108],"type":"Point"}
+}

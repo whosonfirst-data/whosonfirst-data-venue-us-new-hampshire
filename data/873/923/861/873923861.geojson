@@ -1,0 +1,83 @@
+{
+  "id": 873923861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461807,42.708038,-71.461807,42.708038",
+    "geom:latitude":42.708038,
+    "geom:longitude":-71.461807,
+    "iso:country":"US",
+    "sg:address":"138 Spit Brook Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 1982",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "elementary"
+    ],
+    "sg:website":"http://www.theworldschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fNIKvFCQUWxjusjrqmfDv_42.708038_-71.461807@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300286,
+    "wof:geomhash":"0684a650439bfb6163831b32bb78a5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873923861
+        }
+    ],
+    "wof:id":873923861,
+    "wof:lastmodified":1464300286,
+    "wof:name":"World Elementary & Small World Country Day School",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.461807,
+    42.708038,
+    -71.461807,
+    42.708038
+],
+  "geometry": {"coordinates":[-71.46180699999999,42.708038],"type":"Point"}
+}

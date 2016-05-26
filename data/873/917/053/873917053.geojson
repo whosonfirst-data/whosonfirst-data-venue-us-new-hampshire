@@ -1,0 +1,80 @@
+{
+  "id": 873917053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200916,42.744959,-71.200916,42.744959",
+    "geom:latitude":42.744959,
+    "geom:longitude":-71.200916,
+    "iso:country":"US",
+    "sg:address":"481 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/151697-aw-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6500",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XhBF29DKYZaKtIQo0e9Wg_42.744959_-71.200916@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300159,
+    "wof:geomhash":"9fbe3ad7bfc15d6c3c3903753c304e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873917053
+        }
+    ],
+    "wof:id":873917053,
+    "wof:lastmodified":1464300159,
+    "wof:name":"A&W Restaurant",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ]
+},
+  "bbox": [
+    -71.200916,
+    42.744959,
+    -71.200916,
+    42.744959
+],
+  "geometry": {"coordinates":[-71.20091600000001,42.744959],"type":"Point"}
+}

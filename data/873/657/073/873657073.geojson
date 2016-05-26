@@ -1,0 +1,75 @@
+{
+  "id": 873657073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512441,43.190931,-71.512441,43.190931",
+    "geom:latitude":43.190931,
+    "geom:longitude":-71.512441,
+    "iso:country":"US",
+    "sg:address":"73 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 3751",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_536fFK9IiKa8PO0sniGxPQ_43.190931_-71.512441@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295667,
+    "wof:geomhash":"5cdf75d8c654995509724215e46d1724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873657073
+        }
+    ],
+    "wof:id":873657073,
+    "wof:lastmodified":1464295667,
+    "wof:name":"Guimond's Auto Body Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.512441,
+    43.190931,
+    -71.512441,
+    43.190931
+],
+  "geometry": {"coordinates":[-71.512441,43.190931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873580021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564581,43.290363,-71.564581,43.290363",
+    "geom:latitude":43.290363,
+    "geom:longitude":-71.564581,
+    "iso:country":"US",
+    "sg:address":"27 Freedom Acres Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 8212",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jISVlvyJDBmpK1t40guHi_43.290363_-71.564581@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294718,
+    "wof:geomhash":"62f151dfbe54f3023590c00ec24fba44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873580021
+        }
+    ],
+    "wof:id":873580021,
+    "wof:lastmodified":1464294718,
+    "wof:name":"James R Desjardins Holdings",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -71.564581,
+    43.290363,
+    -71.564581,
+    43.290363
+],
+  "geometry": {"coordinates":[-71.564581,43.290363],"type":"Point"}
+}

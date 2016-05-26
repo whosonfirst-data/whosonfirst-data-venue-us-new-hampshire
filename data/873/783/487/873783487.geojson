@@ -1,0 +1,73 @@
+{
+  "id": 873783487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481122,42.96527,-71.481122,42.96527",
+    "geom:latitude":42.96527,
+    "geom:longitude":-71.481122,
+    "iso:country":"US",
+    "sg:address":"3 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 6199",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "prescription",
+        "proprietary",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ze0cGRMA5xYtXfccWjX6c_42.965270_-71.481122@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"9edf9f38b3a4ed2ddf68affa898b6452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873783487
+        }
+    ],
+    "wof:id":873783487,
+    "wof:lastmodified":1464297537,
+    "wof:name":"CVS",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prescription",
+        "proprietary",
+        "drug"
+    ]
+},
+  "bbox": [
+    -71.481122,
+    42.96527,
+    -71.481122,
+    42.96527
+],
+  "geometry": {"coordinates":[-71.481122,42.96527],"type":"Point"}
+}

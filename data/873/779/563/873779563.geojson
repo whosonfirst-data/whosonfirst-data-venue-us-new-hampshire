@@ -1,0 +1,72 @@
+{
+  "id": 873779563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.862538,42.903714,-70.862538,42.903714",
+    "geom:latitude":42.903714,
+    "geom:longitude":-70.862538,
+    "iso:country":"US",
+    "sg:address":"9 A St",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 6003",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.mackenzieheatcool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gjl26UzS7D0xA6qxlYbOr_42.903714_-70.862538@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297484,
+    "wof:geomhash":"f94f30f5986a9137e0d6dadbd74b82a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873779563
+        }
+    ],
+    "wof:id":873779563,
+    "wof:lastmodified":1464297484,
+    "wof:name":"Mackenzie Heating & Cooling",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.862538,
+    42.903714,
+    -70.862538,
+    42.903714
+],
+  "geometry": {"coordinates":[-70.862538,42.903714],"type":"Point"}
+}

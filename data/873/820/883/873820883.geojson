@@ -1,0 +1,71 @@
+{
+  "id": 873820883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492148,42.871437,-71.492148,42.871437",
+    "geom:latitude":42.871437,
+    "geom:longitude":-71.492148,
+    "iso:country":"US",
+    "sg:address":"515 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 3260",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jNy3pxgNLuBhXUMchzx4r_42.871437_-71.492148@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298136,
+    "wof:geomhash":"4061fa8d0af6bb3781cb0d3d34ffc03c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873820883
+        }
+    ],
+    "wof:id":873820883,
+    "wof:lastmodified":1464298136,
+    "wof:name":"Spirit Mechanical Contr Inc",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.492148,
+    42.871437,
+    -71.492148,
+    42.871437
+],
+  "geometry": {"coordinates":[-71.492148,42.871437],"type":"Point"}
+}

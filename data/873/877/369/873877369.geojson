@@ -1,0 +1,80 @@
+{
+  "id": 873877369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.12971,43.975242,-71.12971,43.975242",
+    "geom:latitude":43.975242,
+    "geom:longitude":-71.12971,
+    "iso:country":"US",
+    "sg:address":"64 Hobbs St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 6400",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "heating",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CKc4P8yZR0ttxh02FSp88_43.975242_-71.129710@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299384,
+    "wof:geomhash":"3f0a224746ac12287d5f55bfd4a3066b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873877369
+        }
+    ],
+    "wof:id":873877369,
+    "wof:lastmodified":1464299384,
+    "wof:name":"North Conway Winnelson Co",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "heating",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.12971,
+    43.975242,
+    -71.12971,
+    43.975242
+],
+  "geometry": {"coordinates":[-71.12971,43.975242],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873928635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525103,43.177346,-71.525103,43.177346",
+    "geom:latitude":43.177346,
+    "geom:longitude":-71.525103,
+    "iso:country":"US",
+    "sg:address":"510 Hall St",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 2086",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "brew",
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vYeETvsg2kQcEITQeLjAq_43.177346_-71.525103@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300381,
+    "wof:geomhash":"d349cd4348ac20e070e8c23dcbc17ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873928635
+        }
+    ],
+    "wof:id":873928635,
+    "wof:lastmodified":1464300381,
+    "wof:name":"Capitol Distributors, Inc.",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -71.525103,
+    43.177346,
+    -71.525103,
+    43.177346
+],
+  "geometry": {"coordinates":[-71.525103,43.177346],"type":"Point"}
+}

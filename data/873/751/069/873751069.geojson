@@ -1,0 +1,73 @@
+{
+  "id": 873751069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400239,42.715058,-71.400239,42.715058",
+    "geom:latitude":42.715058,
+    "geom:longitude":-71.400239,
+    "iso:country":"US",
+    "sg:address":"112 Musquash Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 9042",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "facility",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nD1CVnHH06dfpmAKcRrPw_42.715058_-71.400239@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297088,
+    "wof:geomhash":"1d197ae1bc1e51dd4378e3e15ca34274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873751069
+        }
+    ],
+    "wof:id":873751069,
+    "wof:lastmodified":1464297088,
+    "wof:name":"Hudson House",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "facility",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.400239,
+    42.715058,
+    -71.400239,
+    42.715058
+],
+  "geometry": {"coordinates":[-71.400239,42.715058],"type":"Point"}
+}

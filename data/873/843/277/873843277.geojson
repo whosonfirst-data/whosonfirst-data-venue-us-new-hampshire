@@ -1,0 +1,71 @@
+{
+  "id": 873843277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465992,43.549347,-71.465992,43.549347",
+    "geom:latitude":43.549347,
+    "geom:longitude":-71.465992,
+    "iso:country":"US",
+    "sg:address":"151 Elm St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2590",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "antenna"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VG2JszEsuZ0Bdcm0va5n4_43.549347_-71.465992@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298638,
+    "wof:geomhash":"dfb04b6003cb84fbb783914cdb748503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873843277
+        }
+    ],
+    "wof:id":873843277,
+    "wof:lastmodified":1464298638,
+    "wof:name":"Metz Communications Corp",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antenna"
+    ]
+},
+  "bbox": [
+    -71.465992,
+    43.549347,
+    -71.465992,
+    43.549347
+],
+  "geometry": {"coordinates":[-71.465992,43.549347],"type":"Point"}
+}

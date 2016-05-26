@@ -1,0 +1,75 @@
+{
+  "id": 873870101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462951,42.990039,-71.462951,42.990039",
+    "geom:latitude":42.990039,
+    "geom:longitude":-71.462951,
+    "iso:country":"US",
+    "sg:address":"795 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 6189",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZfJhGIBOz3fl8gzScoxj_42.990039_-71.462951@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299226,
+    "wof:geomhash":"06016aa64b722875550a89fa1040b321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873870101
+        }
+    ],
+    "wof:id":873870101,
+    "wof:lastmodified":1464299226,
+    "wof:name":"Guardian Property Management",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.462951,
+    42.990039,
+    -71.462951,
+    42.990039
+],
+  "geometry": {"coordinates":[-71.462951,42.990039],"type":"Point"}
+}

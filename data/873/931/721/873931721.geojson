@@ -1,0 +1,90 @@
+{
+  "id": 873931721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.965657,42.988143,-70.965657,42.988143",
+    "geom:latitude":42.988143,
+    "geom:longitude":-70.965657,
+    "iso:country":"US",
+    "sg:address":"97 Epping Rd Unit C",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 7800",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plate",
+        "glass-auto",
+        "glass-wholesale",
+        "window",
+        "windshield",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQoT73rKkzyUg38COmT3i_42.988143_-70.965657@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300441,
+    "wof:geomhash":"1749e3c6c101a5b1b5c882b8fc06234c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873931721
+        }
+    ],
+    "wof:id":873931721,
+    "wof:lastmodified":1464300441,
+    "wof:name":"B & M Glass Company",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glass-auto",
+        "glass-wholesale",
+        "window",
+        "windshield",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.965657,
+    42.988143,
+    -70.965657,
+    42.988143
+],
+  "geometry": {"coordinates":[-70.96565699999999,42.988143],"type":"Point"}
+}

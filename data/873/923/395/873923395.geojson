@@ -1,0 +1,102 @@
+{
+  "id": 873923395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441054,42.70353,-71.441054,42.70353",
+    "geom:latitude":42.70353,
+    "geom:longitude":-71.441054,
+    "iso:country":"US",
+    "sg:address":"298 Daniel Webster Hwy",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 1202",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.ntb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SrJ9zQLiL3lYxNHlkf6XD_42.703530_-71.441054@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300278,
+    "wof:geomhash":"ffeffdca22bb5d21783edec5912d56bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873923395
+        }
+    ],
+    "wof:id":873923395,
+    "wof:lastmodified":1464300278,
+    "wof:name":"NTB - National Tire & Battery",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.441054,
+    42.70353,
+    -71.441054,
+    42.70353
+],
+  "geometry": {"coordinates":[-71.44105399999999,42.70353],"type":"Point"}
+}

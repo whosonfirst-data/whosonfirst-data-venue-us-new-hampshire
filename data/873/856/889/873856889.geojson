@@ -1,0 +1,71 @@
+{
+  "id": 873856889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.833866,42.948307,-70.833866,42.948307",
+    "geom:latitude":42.948307,
+    "geom:longitude":-70.833866,
+    "iso:country":"US",
+    "sg:address":"5 Ruth Ln",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 9313",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nVWLSInFLw1LTtAd1hyEs_42.948307_-70.833866@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298950,
+    "wof:geomhash":"f0cb019f91ff74ba0283f8e993d7da69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873856889
+        }
+    ],
+    "wof:id":873856889,
+    "wof:lastmodified":1464298950,
+    "wof:name":"Buckley Associates Photography",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography"
+    ]
+},
+  "bbox": [
+    -70.833866,
+    42.948307,
+    -70.833866,
+    42.948307
+],
+  "geometry": {"coordinates":[-70.833866,42.948307],"type":"Point"}
+}

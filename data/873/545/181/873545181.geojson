@@ -1,0 +1,69 @@
+{
+  "id": 873545181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491007,42.834241,-71.491007,42.834241",
+    "geom:latitude":42.834241,
+    "geom:longitude":-71.491007,
+    "iso:country":"US",
+    "sg:address":"111 Herrick St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 8552",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BgANlRQmgy4WC9JxSUY1Q_42.834241_-71.491007@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294318,
+    "wof:geomhash":"8cf3cbc5c7c62eddd7724889786b981d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873545181
+        }
+    ],
+    "wof:id":873545181,
+    "wof:lastmodified":1464294318,
+    "wof:name":"Northwood Research Corp",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.491007,
+    42.834241,
+    -71.491007,
+    42.834241
+],
+  "geometry": {"coordinates":[-71.491007,42.834241],"type":"Point"}
+}

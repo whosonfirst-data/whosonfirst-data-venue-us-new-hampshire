@@ -1,0 +1,81 @@
+{
+  "id": 873758405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491561,42.749173,-71.491561,42.749173",
+    "geom:latitude":42.749173,
+    "geom:longitude":-71.491561,
+    "iso:country":"US",
+    "sg:address":"375 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 1999",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "equipment",
+        "electrical",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892277,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07EbGRg2jXsQPXNIlGqL8d_42.749173_-71.491561@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297187,
+    "wof:geomhash":"05fbc07c0a70e5bf8a8279a8f742d662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892277,
+            "region_id":85688689,
+            "venue_id":873758405
+        }
+    ],
+    "wof:id":873758405,
+    "wof:lastmodified":1464297187,
+    "wof:name":"Harris Equipment Repair Svc",
+    "wof:parent_id":85892277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "equipment",
+        "electrical",
+        "floor"
+    ]
+},
+  "bbox": [
+    -71.491561,
+    42.749173,
+    -71.491561,
+    42.749173
+],
+  "geometry": {"coordinates":[-71.491561,42.749173],"type":"Point"}
+}

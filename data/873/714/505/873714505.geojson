@@ -1,0 +1,71 @@
+{
+  "id": 873714505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46823,43.53039,-71.46823,43.53039",
+    "geom:latitude":43.53039,
+    "geom:longitude":-71.46823,
+    "iso:country":"US",
+    "sg:address":"74 Church St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2044",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aJR1e9zf46p5RNNuJCrmg_43.530390_-71.468230@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296575,
+    "wof:geomhash":"edd9bcbb6eb992dbd4a92e192c428f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873714505
+        }
+    ],
+    "wof:id":873714505,
+    "wof:lastmodified":1464296575,
+    "wof:name":"Nu-Dos Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.46823,
+    43.53039,
+    -71.46823,
+    43.53039
+],
+  "geometry": {"coordinates":[-71.46823000000001,43.53039],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873666363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.142364,43.531952,-72.142364,43.531952",
+    "geom:latitude":43.531952,
+    "geom:longitude":-72.142364,
+    "iso:country":"US",
+    "sg:address":"1 Miller Pond Rd",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 5393",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837659,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HEbVZjIJ0ad9tDQG1c91B_43.531952_-72.142364@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295763,
+    "wof:geomhash":"e7dee34d0a33b973856e11f60878752b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837659,
+            "region_id":85688689,
+            "venue_id":873666363
+        }
+    ],
+    "wof:id":873666363,
+    "wof:lastmodified":1464295763,
+    "wof:name":"OHallorans Shamrock Homes LLC",
+    "wof:parent_id":85837659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.142364,
+    43.531952,
+    -72.142364,
+    43.531952
+],
+  "geometry": {"coordinates":[-72.142364,43.531952],"type":"Point"}
+}

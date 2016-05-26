@@ -1,0 +1,80 @@
+{
+  "id": 873663825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.334376,42.727362,-71.334376,42.727362",
+    "geom:latitude":42.727362,
+    "geom:longitude":-71.334376,
+    "iso:country":"US",
+    "sg:address":"4 Economou Ln",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 978 458 9911",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "maintenance",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TH89dy3GWp4k0EvGzrwK4_42.727362_-71.334376@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"eec9a35d35011b2ed7f60191158e9d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873663825
+        }
+    ],
+    "wof:id":873663825,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Universal Cleaning Systems",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "maintenance",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.334376,
+    42.727362,
+    -71.334376,
+    42.727362
+],
+  "geometry": {"coordinates":[-71.33437600000001,42.727362],"type":"Point"}
+}

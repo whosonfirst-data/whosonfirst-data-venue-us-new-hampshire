@@ -1,0 +1,69 @@
+{
+  "id": 873921601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437523,42.851822,-71.437523,42.851822",
+    "geom:latitude":42.851822,
+    "geom:longitude":-71.437523,
+    "iso:country":"US",
+    "sg:address":"3 Rookery Way",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 2279",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M60lF4T0zh90kl7HVL7dl_42.851822_-71.437523@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300239,
+    "wof:geomhash":"1a81a729edf03cbb01b03b96bf7d8d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892255,
+            "region_id":85688689,
+            "venue_id":873921601
+        }
+    ],
+    "wof:id":873921601,
+    "wof:lastmodified":1464300239,
+    "wof:name":"Peoples Bicycle",
+    "wof:parent_id":85892255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.437523,
+    42.851822,
+    -71.437523,
+    42.851822
+],
+  "geometry": {"coordinates":[-71.437523,42.851822],"type":"Point"}
+}

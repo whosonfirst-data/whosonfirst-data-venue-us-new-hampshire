@@ -1,0 +1,71 @@
+{
+  "id": 873926483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.288101,42.81131,-71.288101,42.81131",
+    "geom:latitude":42.81131,
+    "geom:longitude":-71.288101,
+    "iso:country":"US",
+    "sg:address":"7 Wall St Ste 101",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 552 1200",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hardware",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HhFA1LAJnLfMJureH0aOz_42.811310_-71.288101@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300337,
+    "wof:geomhash":"1ea994aadb2dcc5bfd9c58fbb7b31e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873926483
+        }
+    ],
+    "wof:id":873926483,
+    "wof:lastmodified":1464300337,
+    "wof:name":"Emc Corp",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.288101,
+    42.81131,
+    -71.288101,
+    42.81131
+],
+  "geometry": {"coordinates":[-71.288101,42.81131],"type":"Point"}
+}

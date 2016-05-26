@@ -1,0 +1,77 @@
+{
+  "id": 873781181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41757,42.912867,-71.41757,42.912867",
+    "geom:latitude":42.912867,
+    "geom:longitude":-71.41757,
+    "iso:country":"US",
+    "sg:address":"1 Delta Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 421 0841",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "overhaul",
+        "aircraft",
+        "parts",
+        "component",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MhkDWPpqqZEFl31mRhABy_42.912867_-71.417570@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297507,
+    "wof:geomhash":"a910d8aa6fddbe000d4ce0714f51ae22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873781181
+        }
+    ],
+    "wof:id":873781181,
+    "wof:lastmodified":1464297507,
+    "wof:name":"Aerorepair",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "overhaul",
+        "aircraft",
+        "parts",
+        "component",
+        "air"
+    ]
+},
+  "bbox": [
+    -71.41757,
+    42.912867,
+    -71.41757,
+    42.912867
+],
+  "geometry": {"coordinates":[-71.41757,42.912867],"type":"Point"}
+}

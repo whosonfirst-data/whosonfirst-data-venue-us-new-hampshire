@@ -1,0 +1,66 @@
+{
+  "id": 873756075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466892,43.156501,-71.466892,43.156501",
+    "geom:latitude":43.156501,
+    "geom:longitude":-71.466892,
+    "iso:country":"US",
+    "sg:address":"351 Pembroke St",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 7777",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tyhFx12KyQQAYaBnUEtR8_43.156501_-71.466892@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297157,
+    "wof:geomhash":"f376da9277caff8f04fa36d476b9655b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873756075
+        }
+    ],
+    "wof:id":873756075,
+    "wof:lastmodified":1464297157,
+    "wof:name":"Kimballs Market",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.466892,
+    43.156501,
+    -71.466892,
+    43.156501
+],
+  "geometry": {"coordinates":[-71.466892,43.156501],"type":"Point"}
+}

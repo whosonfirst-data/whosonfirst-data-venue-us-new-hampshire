@@ -1,0 +1,73 @@
+{
+  "id": 873628193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470247,43.526807,-71.470247,43.526807",
+    "geom:latitude":43.526807,
+    "geom:longitude":-71.470247,
+    "iso:country":"US",
+    "sg:address":"41 Beacon St W",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1000",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hstgTUpArve4UuT59Nwpr_43.526807_-71.470247@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295342,
+    "wof:geomhash":"3546e6785c83b9814d6a538bbe1899f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873628193
+        }
+    ],
+    "wof:id":873628193,
+    "wof:lastmodified":1464295342,
+    "wof:name":"Warranty Title",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -71.470247,
+    43.526807,
+    -71.470247,
+    43.526807
+],
+  "geometry": {"coordinates":[-71.470247,43.526807],"type":"Point"}
+}

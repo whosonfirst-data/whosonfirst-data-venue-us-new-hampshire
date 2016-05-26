@@ -1,0 +1,75 @@
+{
+  "id": 873928981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.014621,42.815032,-72.014621,42.815032",
+    "geom:latitude":42.815032,
+    "geom:longitude":-72.014621,
+    "iso:country":"US",
+    "sg:address":"75 Webster St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6260",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62R6TKNAeclItCMhwfowEJ_42.815032_-72.014621@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300389,
+    "wof:geomhash":"d41de7c90b57029f55c304ae9cc2a30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873928981
+        }
+    ],
+    "wof:id":873928981,
+    "wof:lastmodified":1464300389,
+    "wof:name":"Cliff's Auto Body & Repair",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -72.014621,
+    42.815032,
+    -72.014621,
+    42.815032
+],
+  "geometry": {"coordinates":[-72.01462100000001,42.815032],"type":"Point"}
+}

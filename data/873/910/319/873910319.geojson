@@ -1,0 +1,70 @@
+{
+  "id": 873910319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.189345,43.210498,-71.189345,43.210498",
+    "geom:latitude":43.210498,
+    "geom:longitude":-71.189345,
+    "iso:country":"US",
+    "sg:address":"546 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8568",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fMrOuZSpMK8cvdHZB3IRr_43.210498_-71.189345@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300019,
+    "wof:geomhash":"6ec197edd8ed410abac6763d61afd2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873910319
+        }
+    ],
+    "wof:id":873910319,
+    "wof:lastmodified":1464300019,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.189345,
+    43.210498,
+    -71.189345,
+    43.210498
+],
+  "geometry": {"coordinates":[-71.189345,43.210498],"type":"Point"}
+}

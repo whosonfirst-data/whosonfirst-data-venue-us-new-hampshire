@@ -1,0 +1,75 @@
+{
+  "id": 873599853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457128,43.524758,-71.457128,43.524758",
+    "geom:latitude":43.524758,
+    "geom:longitude":-71.457128,
+    "iso:country":"US",
+    "sg:address":"115 Lafayette St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 5668",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R99rUhofuzPLHTAT8wtmv_43.524758_-71.457128@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294985,
+    "wof:geomhash":"7a1b192a66ddf842474b34559e54b335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873599853
+        }
+    ],
+    "wof:id":873599853,
+    "wof:lastmodified":1464294985,
+    "wof:name":"Gluyas Construction",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.457128,
+    43.524758,
+    -71.457128,
+    43.524758
+],
+  "geometry": {"coordinates":[-71.457128,43.524758],"type":"Point"}
+}

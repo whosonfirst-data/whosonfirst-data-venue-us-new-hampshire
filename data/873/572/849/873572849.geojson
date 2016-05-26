@@ -1,0 +1,71 @@
+{
+  "id": 873572849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.246641,42.805001,-71.246641,42.805001",
+    "geom:latitude":42.805001,
+    "geom:longitude":-71.246641,
+    "iso:country":"US",
+    "sg:address":"28 Mason Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8584",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rs6OSmcWOLE6SI6eojjrV_42.805001_-71.246641@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294640,
+    "wof:geomhash":"27a54c22ce714c1afbd869d334dc05f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873572849
+        }
+    ],
+    "wof:id":873572849,
+    "wof:lastmodified":1464294640,
+    "wof:name":"Superior Electric",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.246641,
+    42.805001,
+    -71.246641,
+    42.805001
+],
+  "geometry": {"coordinates":[-71.246641,42.805001],"type":"Point"}
+}

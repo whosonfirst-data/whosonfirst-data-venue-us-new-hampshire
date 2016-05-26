@@ -1,0 +1,71 @@
+{
+  "id": 873672587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192394,44.429687,-71.192394,44.429687",
+    "geom:latitude":44.429687,
+    "geom:longitude":-71.192394,
+    "iso:country":"US",
+    "sg:address":"545 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3700",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y36hbPKKJOOivfMjL2BdW_44.429687_-71.192394@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295827,
+    "wof:geomhash":"6e15a11c3f94547c32dbafa2373701f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873672587
+        }
+    ],
+    "wof:id":873672587,
+    "wof:lastmodified":1464295827,
+    "wof:name":"Berlin City Chevrolet",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.192394,
+    44.429687,
+    -71.192394,
+    44.429687
+],
+  "geometry": {"coordinates":[-71.19239399999999,44.429687],"type":"Point"}
+}

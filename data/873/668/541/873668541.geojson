@@ -1,0 +1,75 @@
+{
+  "id": 873668541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275299,43.059697,-71.275299,43.059697",
+    "geom:latitude":43.059697,
+    "geom:longitude":-71.275299,
+    "iso:country":"US",
+    "sg:address":"162 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5473",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M4y4pEC8T7K66M26bGnur_43.059697_-71.275299@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295786,
+    "wof:geomhash":"5aeac2421274fafed0bb979502b1128e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873668541
+        }
+    ],
+    "wof:id":873668541,
+    "wof:lastmodified":1464295786,
+    "wof:name":"Beebe Transport",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -71.275299,
+    43.059697,
+    -71.275299,
+    43.059697
+],
+  "geometry": {"coordinates":[-71.275299,43.059697],"type":"Point"}
+}

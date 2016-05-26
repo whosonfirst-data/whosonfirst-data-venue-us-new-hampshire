@@ -1,0 +1,71 @@
+{
+  "id": 873865253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.033758,42.788234,-72.033758,42.788234",
+    "geom:latitude":42.788234,
+    "geom:longitude":-72.033758,
+    "iso:country":"US",
+    "sg:address":"603 US Hwy 202",
+    "sg:city":"Rindge",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6337",
+    "sg:postcode":"03461",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856251,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i20mjSOZJc38ZoHhVGFgq_42.788234_-72.033758@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299143,
+    "wof:geomhash":"b2308fa9c5cdbc435a2c129d1b4ba343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85856251,
+            "region_id":85688689,
+            "venue_id":873865253
+        }
+    ],
+    "wof:id":873865253,
+    "wof:lastmodified":1464299143,
+    "wof:name":"Alpine Motor Co",
+    "wof:parent_id":85856251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.033758,
+    42.788234,
+    -72.033758,
+    42.788234
+],
+  "geometry": {"coordinates":[-72.03375800000001,42.788234],"type":"Point"}
+}

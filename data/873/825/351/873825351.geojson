@@ -1,0 +1,73 @@
+{
+  "id": 873825351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500727,42.955729,-71.500727,42.955729",
+    "geom:latitude":42.955729,
+    "geom:longitude":-71.500727,
+    "iso:country":"US",
+    "sg:address":"55 Constitution Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 3838",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "fire",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ILqPiT9wqVE5my4oohczf_42.955729_-71.500727@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298243,
+    "wof:geomhash":"c120c39ad548fd99284bbdbb0a5d812b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873825351
+        }
+    ],
+    "wof:id":873825351,
+    "wof:lastmodified":1464298243,
+    "wof:name":"Bedford Police Department",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "fire",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.500727,
+    42.955729,
+    -71.500727,
+    42.955729
+],
+  "geometry": {"coordinates":[-71.500727,42.955729],"type":"Point"}
+}

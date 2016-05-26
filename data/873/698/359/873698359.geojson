@@ -1,0 +1,79 @@
+{
+  "id": 873698359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.499819,42.806873,-72.499819,42.806873",
+    "geom:latitude":42.806873,
+    "geom:longitude":-72.499819,
+    "iso:country":"US",
+    "sg:address":"47 Fox Run Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 336 5162",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526073,
+        102191575,
+        404477025,
+        85633793,
+        85975167,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ga9fqthL7Sm8uYNDp2qTm_42.806873_-72.499819@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"394f7ff182926d055962a940b6cf2afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477025,
+            "locality_id":85975167,
+            "neighbourhood_id":420526073,
+            "region_id":85688689,
+            "venue_id":873698359
+        }
+    ],
+    "wof:id":873698359,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Bogis Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.499819,
+    42.806873,
+    -72.499819,
+    42.806873
+],
+  "geometry": {"coordinates":[-72.499819,42.806873],"type":"Point"}
+}

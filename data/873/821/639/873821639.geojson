@@ -1,0 +1,82 @@
+{
+  "id": 873821639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485003,43.194749,-71.485003,43.194749",
+    "geom:latitude":43.194749,
+    "geom:longitude":-71.485003,
+    "iso:country":"US",
+    "sg:address":"711 Riverwood St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8148",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z2N39nEQQ4bhIeCO5rz4A_43.194749_-71.485003@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298150,
+    "wof:geomhash":"dd4fa50f599a258f1a75debf96f3b1f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873821639
+        }
+    ],
+    "wof:id":873821639,
+    "wof:lastmodified":1464298150,
+    "wof:name":"Wright Communications Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system",
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.485003,
+    43.194749,
+    -71.485003,
+    43.194749
+],
+  "geometry": {"coordinates":[-71.48500300000001,43.194749],"type":"Point"}
+}

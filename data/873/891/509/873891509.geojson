@@ -1,0 +1,71 @@
+{
+  "id": 873891509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.126395,43.038253,-71.126395,43.038253",
+    "geom:latitude":43.038253,
+    "geom:longitude":-71.126395,
+    "iso:country":"US",
+    "sg:address":"320 Pleasant St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5089",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CjsUhqpoQPcDvSG5K9D1h_43.038253_-71.126395@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299657,
+    "wof:geomhash":"1c4f0214d25f364f3356ebf5ba92d0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873891509
+        }
+    ],
+    "wof:id":873891509,
+    "wof:lastmodified":1464299657,
+    "wof:name":"Garside Construction",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.126395,
+    43.038253,
+    -71.126395,
+    43.038253
+],
+  "geometry": {"coordinates":[-71.126395,43.038253],"type":"Point"}
+}

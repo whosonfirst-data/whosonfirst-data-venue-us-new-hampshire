@@ -1,0 +1,81 @@
+{
+  "id": 873925781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249876,42.774395,-71.249876,42.774395",
+    "geom:latitude":42.774395,
+    "geom:longitude":-71.249876,
+    "iso:country":"US",
+    "sg:address":"32 Stiles Rd Ste 207",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 8611",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentists-cosmetic",
+        "denture",
+        "dentists-prosthodontists",
+        "dentists-pediatric",
+        "dentistry",
+        "implant",
+        "dentists-implantology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oRpQcTEA8OqHRkr7cJCsr_42.774395_-71.249876@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300322,
+    "wof:geomhash":"ca1ca9c6e1b8ed6b2951f479111d15a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925781
+        }
+    ],
+    "wof:id":873925781,
+    "wof:lastmodified":1464300322,
+    "wof:name":"All Smiles Dental Center",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-cosmetic",
+        "denture",
+        "dentists-prosthodontists",
+        "dentists-pediatric",
+        "dentistry",
+        "implant",
+        "dentists-implantology"
+    ]
+},
+  "bbox": [
+    -71.249876,
+    42.774395,
+    -71.249876,
+    42.774395
+],
+  "geometry": {"coordinates":[-71.249876,42.774395],"type":"Point"}
+}

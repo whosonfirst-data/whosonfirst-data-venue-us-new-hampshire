@@ -1,0 +1,75 @@
+{
+  "id": 873551983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289277,43.70194,-72.289277,43.70194",
+    "geom:latitude":43.70194,
+    "geom:longitude":-72.289277,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 0100",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pszUgVHHbYJiq4QlD7BOD_43.701940_-72.289277@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294400,
+    "wof:geomhash":"0bba8a20bbf74e0f2263d3744cd575d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873551983
+        }
+    ],
+    "wof:id":873551983,
+    "wof:lastmodified":1464294400,
+    "wof:name":"Simon Pearce",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.289277,
+    43.70194,
+    -72.289277,
+    43.70194
+],
+  "geometry": {"coordinates":[-72.289277,43.70194],"type":"Point"}
+}

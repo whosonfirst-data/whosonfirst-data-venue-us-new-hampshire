@@ -1,0 +1,77 @@
+{
+  "id": 873599465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.098837,43.015907,-71.098837,43.015907",
+    "geom:latitude":43.015907,
+    "geom:longitude":-71.098837,
+    "iso:country":"US",
+    "sg:address":"58 Sleeper Cir",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 734 2767",
+    "sg:postcode":"03044",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831729,
+        102086507,
+        85807255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IttFHkc3cQxZrojs4H6B7_43.015907_-71.098837@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"553fde4a0d2886b90c55d6dd2478224c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85831729,
+            "region_id":85688689,
+            "venue_id":873599465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873599465
+        }
+    ],
+    "wof:id":873599465,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Dukes Plumming and Heating LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.098837,
+    43.015907,
+    -71.098837,
+    43.015907
+],
+  "geometry": {"coordinates":[-71.098837,43.015907],"type":"Point"}
+}

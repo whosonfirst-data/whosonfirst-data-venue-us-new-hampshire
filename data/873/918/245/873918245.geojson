@@ -1,0 +1,72 @@
+{
+  "id": 873918245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170073,44.387345,-71.170073,44.387345",
+    "geom:latitude":44.387345,
+    "geom:longitude":-71.170073,
+    "iso:country":"US",
+    "sg:address":"60 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/gorham/129619-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5200",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KXu5Lq3Svnk33Z4TMCUAl_44.387345_-71.170073@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300181,
+    "wof:geomhash":"9f81d951eafba5265838bbb6022356d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873918245
+        }
+    ],
+    "wof:id":873918245,
+    "wof:lastmodified":1464300181,
+    "wof:name":"Subway",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.170073,
+    44.387345,
+    -71.170073,
+    44.387345
+],
+  "geometry": {"coordinates":[-71.170073,44.387345],"type":"Point"}
+}

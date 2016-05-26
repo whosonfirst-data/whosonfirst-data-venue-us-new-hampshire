@@ -1,0 +1,71 @@
+{
+  "id": 873882147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.789679,44.309136,-71.789679,44.309136",
+    "geom:latitude":44.309136,
+    "geom:longitude":-71.789679,
+    "iso:country":"US",
+    "sg:address":"350 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 0932",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09KCglXB2D0NxFKefcn76j_44.309136_-71.789679@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299472,
+    "wof:geomhash":"7ad4b4e8c578d5ad2af1b539fe7805c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873882147
+        }
+    ],
+    "wof:id":873882147,
+    "wof:lastmodified":1464299472,
+    "wof:name":"US Army National Guard",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.789679,
+    44.309136,
+    -71.789679,
+    44.309136
+],
+  "geometry": {"coordinates":[-71.78967900000001,44.309136],"type":"Point"}
+}

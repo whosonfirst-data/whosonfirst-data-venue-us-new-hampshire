@@ -1,0 +1,75 @@
+{
+  "id": 873738057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.792473,43.199602,-71.792473,43.199602",
+    "geom:latitude":43.199602,
+    "geom:longitude":-71.792473,
+    "iso:country":"US",
+    "sg:address":"5 Ray Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3341",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d4uVORTdo0goQ8ENuuL6R_43.199602_-71.792473@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296897,
+    "wof:geomhash":"8928d7801af04370c32a2778c2e730ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873738057
+        }
+    ],
+    "wof:id":873738057,
+    "wof:lastmodified":1464296897,
+    "wof:name":"Robert J Duclos & Son",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.792473,
+    43.199602,
+    -71.792473,
+    43.199602
+],
+  "geometry": {"coordinates":[-71.792473,43.199602],"type":"Point"}
+}

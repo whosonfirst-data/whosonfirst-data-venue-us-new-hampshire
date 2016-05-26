@@ -1,0 +1,85 @@
+{
+  "id": 873924083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518591,42.790556,-71.518591,42.790556",
+    "geom:latitude":42.790556,
+    "geom:longitude":-71.518591,
+    "iso:country":"US",
+    "sg:address":"475 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1787",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ],
+    "sg:website":"http://www.firestonecompleteautocare.com/?s_kwcid=IYP_NTL",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54d1nkubkyYThz7vZXXBJF_42.790556_-71.518591@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300289,
+    "wof:geomhash":"c76b991914032e305c8d0d97fc031990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873924083
+        }
+    ],
+    "wof:id":873924083,
+    "wof:lastmodified":1464300289,
+    "wof:name":"Firestone Complete Auto Care Store",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.518591,
+    42.790556,
+    -71.518591,
+    42.790556
+],
+  "geometry": {"coordinates":[-71.518591,42.790556],"type":"Point"}
+}

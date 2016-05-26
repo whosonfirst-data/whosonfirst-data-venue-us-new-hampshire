@@ -1,0 +1,71 @@
+{
+  "id": 873545313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.145823,43.965606,-71.145823,43.965606",
+    "geom:latitude":43.965606,
+    "geom:longitude":-71.145823,
+    "iso:country":"US",
+    "sg:address":"1343 State Rte 16",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 4348",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "weather",
+        "vane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79r0xrLYtKd5pkVYz20ZUV_43.965606_-71.145823@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294320,
+    "wof:geomhash":"68b4720686ad6a1128813f084c446ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873545313
+        }
+    ],
+    "wof:id":873545313,
+    "wof:lastmodified":1464294320,
+    "wof:name":"Copper Tops",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weather",
+        "vane"
+    ]
+},
+  "bbox": [
+    -71.145823,
+    43.965606,
+    -71.145823,
+    43.965606
+],
+  "geometry": {"coordinates":[-71.14582299999999,43.965606],"type":"Point"}
+}

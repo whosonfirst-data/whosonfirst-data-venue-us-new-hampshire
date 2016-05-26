@@ -1,0 +1,71 @@
+{
+  "id": 873889123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42393,42.759997,-71.42393,42.759997",
+    "geom:latitude":42.759997,
+    "geom:longitude":-71.42393,
+    "iso:country":"US",
+    "sg:address":"43 Melendy Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 3280",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qDF45e7NBBbOvwifAN3Nr_42.759997_-71.423930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299611,
+    "wof:geomhash":"8fb97610ac966ef3b990b0c7b7ea4f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873889123
+        }
+    ],
+    "wof:id":873889123,
+    "wof:lastmodified":1464299611,
+    "wof:name":"Payge Roofing",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.42393,
+    42.759997,
+    -71.42393,
+    42.759997
+],
+  "geometry": {"coordinates":[-71.42393,42.759997],"type":"Point"}
+}

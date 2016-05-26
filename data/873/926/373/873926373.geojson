@@ -1,0 +1,82 @@
+{
+  "id": 873926373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.351761,42.80212,-71.351761,42.80212",
+    "geom:latitude":42.80212,
+    "geom:longitude":-71.351761,
+    "iso:country":"US",
+    "sg:address":"18 Mammoth Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 577 9535",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "restaurant"
+    ],
+    "sg:website":"http://www.honeydewdonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q9lfe53UXa1xugFK4xLfo_42.802120_-71.351761@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300335,
+    "wof:geomhash":"a673cf451613d1e8d6b365381e6724ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873926373
+        }
+    ],
+    "wof:id":873926373,
+    "wof:lastmodified":1464300335,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.351761,
+    42.80212,
+    -71.351761,
+    42.80212
+],
+  "geometry": {"coordinates":[-71.351761,42.80212],"type":"Point"}
+}

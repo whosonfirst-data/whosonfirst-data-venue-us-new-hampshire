@@ -1,0 +1,72 @@
+{
+  "id": 873914155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219445,42.767983,-71.219445,42.767983",
+    "geom:latitude":42.767983,
+    "geom:longitude":-71.219445,
+    "iso:country":"US",
+    "sg:address":"161 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6181",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "super",
+        "supermarket"
+    ],
+    "sg:website":"http://www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IqqZK20rsweXVFTvA6d1q_42.768370_-71.219653@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"4a56632fa68fa5f8a4b1c264050da27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873914155
+        }
+    ],
+    "wof:id":873914155,
+    "wof:lastmodified":1464300091,
+    "wof:name":"Kmart",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -71.219445,
+    42.767983,
+    -71.219445,
+    42.767983
+],
+  "geometry": {"coordinates":[-71.21944499999999,42.767983],"type":"Point"}
+}

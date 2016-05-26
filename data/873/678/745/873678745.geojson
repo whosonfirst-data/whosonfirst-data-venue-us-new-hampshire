@@ -1,0 +1,81 @@
+{
+  "id": 873678745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427826,43.567765,-71.427826,43.567765",
+    "geom:latitude":43.567765,
+    "geom:longitude":-71.427826,
+    "iso:country":"US",
+    "sg:address":"2 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 9100",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tZaAAL4xL7GOY4lzihgLl_43.567765_-71.427826@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295960,
+    "wof:geomhash":"1cc9959a058b6843b8769a596dd180f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873678745
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873678745
+        }
+    ],
+    "wof:id":873678745,
+    "wof:lastmodified":1464295960,
+    "wof:name":"Freshwater Boats & Outfitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.427826,
+    43.567765,
+    -71.427826,
+    43.567765
+],
+  "geometry": {"coordinates":[-71.427826,43.567765],"type":"Point"}
+}

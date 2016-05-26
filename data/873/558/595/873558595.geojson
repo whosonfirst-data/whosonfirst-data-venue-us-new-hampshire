@@ -1,0 +1,69 @@
+{
+  "id": 873558595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.589998,44.476293,-71.589998,44.476293",
+    "geom:latitude":44.476293,
+    "geom:longitude":-71.589998,
+    "iso:country":"US",
+    "sg:address":"213 Elm St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4568",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849321,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25MqZSkVdgjJXRT2o2nn9q_44.476293_-71.589998@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294483,
+    "wof:geomhash":"c58815909fed49d16616d3b4762a6479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85849321,
+            "region_id":85688689,
+            "venue_id":873558595
+        }
+    ],
+    "wof:id":873558595,
+    "wof:lastmodified":1464294483,
+    "wof:name":"North Country Ford Auto Body",
+    "wof:parent_id":85849321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.589998,
+    44.476293,
+    -71.589998,
+    44.476293
+],
+  "geometry": {"coordinates":[-71.58999799999999,44.476293],"type":"Point"}
+}

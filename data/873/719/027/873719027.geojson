@@ -1,0 +1,71 @@
+{
+  "id": 873719027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.936618,43.062901,-70.936618,43.062901",
+    "geom:latitude":43.062901,
+    "geom:longitude":-70.936618,
+    "iso:country":"US",
+    "sg:address":"133 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 7959",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cmlDUmCX5yJy8IoqzT6Mz_43.062901_-70.936618@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296632,
+    "wof:geomhash":"e67893d20ef07ce69e4404000064fe5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873719027
+        }
+    ],
+    "wof:id":873719027,
+    "wof:lastmodified":1464296632,
+    "wof:name":"Newmarket Storage Co LLC",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -70.936618,
+    43.062901,
+    -70.936618,
+    43.062901
+],
+  "geometry": {"coordinates":[-70.936618,43.062901],"type":"Point"}
+}

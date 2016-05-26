@@ -1,0 +1,71 @@
+{
+  "id": 873883403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448765,43.224987,-71.448765,43.224987",
+    "geom:latitude":43.224987,
+    "geom:longitude":-71.448765,
+    "iso:country":"US",
+    "sg:address":"935 Borough Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 3920",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IIeFDyvggPKhRRWCW89EV_43.224987_-71.448765@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299502,
+    "wof:geomhash":"5830e6f38c298b7ccc1b8e3f64f1b398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873883403
+        }
+    ],
+    "wof:id":873883403,
+    "wof:lastmodified":1464299502,
+    "wof:name":"Gagne Plumbing Heating & AC",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.448765,
+    43.224987,
+    -71.448765,
+    43.224987
+],
+  "geometry": {"coordinates":[-71.44876499999999,43.224987],"type":"Point"}
+}

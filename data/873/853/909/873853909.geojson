@@ -1,0 +1,69 @@
+{
+  "id": 873853909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412945,42.774478,-71.412945,42.774478",
+    "geom:latitude":42.774478,
+    "geom:longitude":-71.412945,
+    "iso:country":"US",
+    "sg:address":"16 Greeley St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 5008",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wMhgZPkil2zYEJHreReOa_42.774478_-71.412945@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298895,
+    "wof:geomhash":"c81bbd3b3c5b8a8d92c3ace542ecafbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873853909
+        }
+    ],
+    "wof:id":873853909,
+    "wof:lastmodified":1464298895,
+    "wof:name":"Joslins Mechanical Service",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.412945,
+    42.774478,
+    -71.412945,
+    42.774478
+],
+  "geometry": {"coordinates":[-71.41294499999999,42.774478],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873855769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417525,42.760585,-71.417525,42.760585",
+    "geom:latitude":42.760585,
+    "geom:longitude":-71.417525,
+    "iso:country":"US",
+    "sg:address":"108 Belknap Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 577 9697",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y49hbRgl1sDQjTnZj6O3z_42.760585_-71.417525@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298930,
+    "wof:geomhash":"c702799dc208d5a5c967a8bc441b68f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873855769
+        }
+    ],
+    "wof:id":873855769,
+    "wof:lastmodified":1464298930,
+    "wof:name":"Knight Site",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.417525,
+    42.760585,
+    -71.417525,
+    42.760585
+],
+  "geometry": {"coordinates":[-71.417525,42.760585],"type":"Point"}
+}

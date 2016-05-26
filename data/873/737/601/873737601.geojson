@@ -1,0 +1,77 @@
+{
+  "id": 873737601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.877751,43.180496,-70.877751,43.180496",
+    "geom:latitude":43.180496,
+    "geom:longitude":-70.877751,
+    "iso:country":"US",
+    "sg:address":"7 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 5054",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892231,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k3ZEkogDPM7Nr4tRRmYLA_43.180496_-70.877751@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296890,
+    "wof:geomhash":"82de6dc50b6f6be30fbbd48af2530c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892231,
+            "region_id":85688689,
+            "venue_id":873737601
+        }
+    ],
+    "wof:id":873737601,
+    "wof:lastmodified":1464296890,
+    "wof:name":"Sullivan Tire",
+    "wof:parent_id":85892231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -70.877751,
+    43.180496,
+    -70.877751,
+    43.180496
+],
+  "geometry": {"coordinates":[-70.877751,43.180496],"type":"Point"}
+}

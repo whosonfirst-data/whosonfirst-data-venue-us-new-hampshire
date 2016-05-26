@@ -1,0 +1,110 @@
+{
+  "id": 873918921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.324157,42.883194,-71.324157,42.883194",
+    "geom:latitude":42.883194,
+    "geom:longitude":-71.324157,
+    "iso:country":"US",
+    "sg:address":"5 Crystal Ave",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/derry/149151-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 9797",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zsEqqYZzk0m94DCcFXSDu_42.882746_-71.324393@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"523052fd433b5774f750b4ea44b9dfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873918921
+        }
+    ],
+    "wof:id":873918921,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -71.324157,
+    42.883194,
+    -71.324157,
+    42.883194
+],
+  "geometry": {"coordinates":[-71.324157,42.883194],"type":"Point"}
+}

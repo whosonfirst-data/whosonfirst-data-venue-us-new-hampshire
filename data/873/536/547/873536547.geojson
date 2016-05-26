@@ -1,0 +1,71 @@
+{
+  "id": 873536547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569884,44.490781,-71.569884,44.490781",
+    "geom:latitude":44.490781,
+    "geom:longitude":-71.569884,
+    "iso:country":"US",
+    "sg:address":"129 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2274",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fDeBtvguJj55doScWDIj7_44.490781_-71.569884@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294220,
+    "wof:geomhash":"3485e61e445fd1ee01c897e875301023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873536547
+        }
+    ],
+    "wof:id":873536547,
+    "wof:lastmodified":1464294220,
+    "wof:name":"Sunnybrook Montessori School",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.569884,
+    44.490781,
+    -71.569884,
+    44.490781
+],
+  "geometry": {"coordinates":[-71.569884,44.490781],"type":"Point"}
+}

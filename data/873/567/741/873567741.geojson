@@ -1,0 +1,71 @@
+{
+  "id": 873567741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224896,42.775461,-71.224896,42.775461",
+    "geom:latitude":42.775461,
+    "geom:longitude":-71.224896,
+    "iso:country":"US",
+    "sg:address":"67 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2253",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ERNY4tbrFytdCpFqn2nL3_42.775461_-71.224896@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294583,
+    "wof:geomhash":"be52e85e3520f70585409acbc9f80ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873567741
+        }
+    ],
+    "wof:id":873567741,
+    "wof:lastmodified":1464294583,
+    "wof:name":"Chandlers Service Inc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.224896,
+    42.775461,
+    -71.224896,
+    42.775461
+],
+  "geometry": {"coordinates":[-71.224896,42.775461],"type":"Point"}
+}

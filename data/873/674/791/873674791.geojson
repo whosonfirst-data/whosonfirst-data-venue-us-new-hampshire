@@ -1,0 +1,67 @@
+{
+  "id": 873674791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567895,44.488465,-71.567895,44.488465",
+    "geom:latitude":44.488465,
+    "geom:longitude":-71.567895,
+    "iso:country":"US",
+    "sg:address":"1 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4973",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:website":"www.lancasternationalbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c99AEIDyxJlB5vnR50bO2_44.488465_-71.567895@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295864,
+    "wof:geomhash":"995c348bd003a9dd636bdc344eb38958",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873674791
+        }
+    ],
+    "wof:id":873674791,
+    "wof:lastmodified":1464295864,
+    "wof:name":"Lancaster National Bank",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.567895,
+    44.488465,
+    -71.567895,
+    44.488465
+],
+  "geometry": {"coordinates":[-71.56789499999999,44.488465],"type":"Point"}
+}

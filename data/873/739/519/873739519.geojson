@@ -1,0 +1,71 @@
+{
+  "id": 873739519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605035,42.811212,-71.605035,42.811212",
+    "geom:latitude":42.811212,
+    "geom:longitude":-71.605035,
+    "iso:country":"US",
+    "sg:address":"15 Patricia Ln",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2158",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZMDCJr3PjsmIt4a8XUhT_42.811212_-71.605035@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296914,
+    "wof:geomhash":"355836864c1b16afc3899a773f6fefd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873739519
+        }
+    ],
+    "wof:id":873739519,
+    "wof:lastmodified":1464296914,
+    "wof:name":"Richard A Carpenter Inc",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.605035,
+    42.811212,
+    -71.605035,
+    42.811212
+],
+  "geometry": {"coordinates":[-71.605035,42.811212],"type":"Point"}
+}

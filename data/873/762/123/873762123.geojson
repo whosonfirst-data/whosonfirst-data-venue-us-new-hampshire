@@ -1,0 +1,71 @@
+{
+  "id": 873762123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193616,42.746494,-71.193616,42.746494",
+    "geom:latitude":42.746494,
+    "geom:longitude":-71.193616,
+    "iso:country":"US",
+    "sg:address":"11 Copper Beech Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0036",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_456cJURl0Fl6xznUmNVKel_42.746494_-71.193616@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297240,
+    "wof:geomhash":"c91ee63e4f72a7077d509ba8b8668c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873762123
+        }
+    ],
+    "wof:id":873762123,
+    "wof:lastmodified":1464297240,
+    "wof:name":"Copper Beech Technology Svc",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.193616,
+    42.746494,
+    -71.193616,
+    42.746494
+],
+  "geometry": {"coordinates":[-71.19361600000001,42.746494],"type":"Point"}
+}

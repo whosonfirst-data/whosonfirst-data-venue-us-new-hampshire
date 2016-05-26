@@ -1,0 +1,77 @@
+{
+  "id": 873788619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289407,43.703303,-72.289407,43.703303",
+    "geom:latitude":43.703303,
+    "geom:longitude":-72.289407,
+    "iso:country":"US",
+    "sg:address":"22 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 4112",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jCP4FhnTKCWA13WxHNKOw_43.703303_-72.289407@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297624,
+    "wof:geomhash":"0a86a60170173d52da967208b9606a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873788619
+        }
+    ],
+    "wof:id":873788619,
+    "wof:lastmodified":1464297624,
+    "wof:name":"Eastman's Pharmacy",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.289407,
+    43.703303,
+    -72.289407,
+    43.703303
+],
+  "geometry": {"coordinates":[-72.289407,43.703303],"type":"Point"}
+}

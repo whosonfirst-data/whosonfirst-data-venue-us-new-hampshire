@@ -1,0 +1,73 @@
+{
+  "id": 873651947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.538154,42.8249,-72.538154,42.8249",
+    "geom:latitude":42.8249,
+    "geom:longitude":-72.538154,
+    "iso:country":"US",
+    "sg:address":"75 Old Brattleboro Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 256 8520",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837733,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ifT9IAJiszKDlCvy09fvj_42.824900_-72.538154@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295612,
+    "wof:geomhash":"951c4d70a87f0486aeb29eefc4bca2c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85837733,
+            "region_id":85688689,
+            "venue_id":873651947
+        }
+    ],
+    "wof:id":873651947,
+    "wof:lastmodified":1464295612,
+    "wof:name":"John's Auto Body Shop Inc",
+    "wof:parent_id":85837733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.538154,
+    42.8249,
+    -72.538154,
+    42.8249
+],
+  "geometry": {"coordinates":[-72.53815400000001,42.8249],"type":"Point"}
+}

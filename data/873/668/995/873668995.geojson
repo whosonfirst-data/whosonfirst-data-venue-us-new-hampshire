@@ -1,0 +1,69 @@
+{
+  "id": 873668995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.198644,42.906099,-72.198644,42.906099",
+    "geom:latitude":42.906099,
+    "geom:longitude":-72.198644,
+    "iso:country":"US",
+    "sg:address":"276 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3311",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_504VRWjFw8UCl7vkIK3epY_42.906099_-72.198644@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295790,
+    "wof:geomhash":"987c5b1f4f9fdaf33f7a5e814c3a1e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873668995
+        }
+    ],
+    "wof:id":873668995,
+    "wof:lastmodified":1464295790,
+    "wof:name":"Marlborough Town Police Dept",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.198644,
+    42.906099,
+    -72.198644,
+    42.906099
+],
+  "geometry": {"coordinates":[-72.198644,42.906099],"type":"Point"}
+}

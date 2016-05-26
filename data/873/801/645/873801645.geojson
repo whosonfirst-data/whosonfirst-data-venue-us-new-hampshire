@@ -1,0 +1,69 @@
+{
+  "id": 873801645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.919029,43.007558,-70.919029,43.007558",
+    "geom:latitude":43.007558,
+    "geom:longitude":-70.919029,
+    "iso:country":"US",
+    "sg:address":"62 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 1775",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mmY7cMFlRyGgGoBeeIREQ_43.007558_-70.919029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297793,
+    "wof:geomhash":"a5c3c7f7a71c904ad7d95bed928460fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873801645
+        }
+    ],
+    "wof:id":873801645,
+    "wof:lastmodified":1464297793,
+    "wof:name":"Chalpin Dental Assoc",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -70.919029,
+    43.007558,
+    -70.919029,
+    43.007558
+],
+  "geometry": {"coordinates":[-70.91902899999999,43.007558],"type":"Point"}
+}

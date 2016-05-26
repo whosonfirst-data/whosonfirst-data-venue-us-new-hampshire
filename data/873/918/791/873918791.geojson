@@ -1,0 +1,78 @@
+{
+  "id": 873918791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.985113,43.305961,-70.985113,43.305961",
+    "geom:latitude":43.305961,
+    "geom:longitude":-70.985113,
+    "iso:country":"US",
+    "sg:address":"250 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/191324-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 8341",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AObnNnRyQTIyTlcImvfrv_43.305961_-70.985113@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"61ff7f0be2d2ab6ad4502cc9146af085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873918791
+        }
+    ],
+    "wof:id":873918791,
+    "wof:lastmodified":1464300191,
+    "wof:name":"Burger King",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.985113,
+    43.305961,
+    -70.985113,
+    43.305961
+],
+  "geometry": {"coordinates":[-70.985113,43.305961],"type":"Point"}
+}

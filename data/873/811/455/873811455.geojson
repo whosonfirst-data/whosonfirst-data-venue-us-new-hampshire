@@ -1,0 +1,69 @@
+{
+  "id": 873811455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.917071,43.0147,-70.917071,43.0147",
+    "geom:latitude":43.0147,
+    "geom:longitude":-70.917071,
+    "iso:country":"US",
+    "sg:address":"100 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 8432",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W65aSzftx8UDaoC7FVhnE_43.014700_-70.917071@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297951,
+    "wof:geomhash":"bc358baefa9ff806b6623283e219ea7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873811455
+        }
+    ],
+    "wof:id":873811455,
+    "wof:lastmodified":1464297951,
+    "wof:name":"Sweet Dreams Bakery",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -70.917071,
+    43.0147,
+    -70.917071,
+    43.0147
+],
+  "geometry": {"coordinates":[-70.91707100000001,43.0147],"type":"Point"}
+}

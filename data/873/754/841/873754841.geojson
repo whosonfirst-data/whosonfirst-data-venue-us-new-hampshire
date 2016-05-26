@@ -1,0 +1,71 @@
+{
+  "id": 873754841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.062608,43.129532,-71.062608,43.129532",
+    "geom:latitude":43.129532,
+    "geom:longitude":-71.062608,
+    "iso:country":"US",
+    "sg:address":"24 Smoke St",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8526",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604KR6maTnirmpm6BpN2sy_43.129532_-71.062608@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"55a53f499f677ee5bfe38b1834922fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873754841
+        }
+    ],
+    "wof:id":873754841,
+    "wof:lastmodified":1464297143,
+    "wof:name":"LLC Nugent Brothers",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.062608,
+    43.129532,
+    -71.062608,
+    43.129532
+],
+  "geometry": {"coordinates":[-71.062608,43.129532],"type":"Point"}
+}

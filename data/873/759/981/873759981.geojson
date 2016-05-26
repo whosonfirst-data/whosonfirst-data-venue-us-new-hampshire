@@ -1,0 +1,71 @@
+{
+  "id": 873759981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.165299,43.394256,-71.165299,43.394256",
+    "geom:latitude":43.394256,
+    "geom:longitude":-71.165299,
+    "iso:country":"US",
+    "sg:address":"21 Ragged Mountain Rd",
+    "sg:city":"New Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 859 2956",
+    "sg:postcode":"03855",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813637,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CWGVxmacdEnGDZ8jMfGsp_43.394256_-71.165299@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297206,
+    "wof:geomhash":"b59db838386cab3232898b1be24f4b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85813637,
+            "region_id":85688689,
+            "venue_id":873759981
+        }
+    ],
+    "wof:id":873759981,
+    "wof:lastmodified":1464297206,
+    "wof:name":"David C Marsters Excavation",
+    "wof:parent_id":85813637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "work"
+    ]
+},
+  "bbox": [
+    -71.165299,
+    43.394256,
+    -71.165299,
+    43.394256
+],
+  "geometry": {"coordinates":[-71.165299,43.394256],"type":"Point"}
+}

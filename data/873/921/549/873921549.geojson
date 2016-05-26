@@ -1,0 +1,71 @@
+{
+  "id": 873921549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.371577,42.770686,-71.371577,42.770686",
+    "geom:latitude":42.770686,
+    "geom:longitude":-71.371577,
+    "iso:country":"US",
+    "sg:address":"131 Kimball Hill Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 4032",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "vegetable",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vr25GkWkzsPVYFFAXLnwi_42.770686_-71.371577@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300237,
+    "wof:geomhash":"e8be87898bedb468f93b1deb24065173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873921549
+        }
+    ],
+    "wof:id":873921549,
+    "wof:lastmodified":1464300237,
+    "wof:name":"Smith Farm",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -71.371577,
+    42.770686,
+    -71.371577,
+    42.770686
+],
+  "geometry": {"coordinates":[-71.371577,42.770686],"type":"Point"}
+}

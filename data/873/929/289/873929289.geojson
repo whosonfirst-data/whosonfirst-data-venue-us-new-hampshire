@@ -1,0 +1,94 @@
+{
+  "id": 873929289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.950364,42.873392,-71.950364,42.873392",
+    "geom:latitude":42.873392,
+    "geom:longitude":-71.950364,
+    "iso:country":"US",
+    "sg:address":"42 Grove St",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 3321",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "investing",
+        "consultant",
+        "commercial",
+        "broker",
+        "buyer"
+    ],
+    "sg:website":"http://www.petersonsrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TYo5gsa2K0qcLJX0FK1CF_42.873392_-71.950364@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300394,
+    "wof:geomhash":"4606f3e14edf826142677d51e268a329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873929289
+        }
+    ],
+    "wof:id":873929289,
+    "wof:lastmodified":1464300394,
+    "wof:name":"Petersons Inc., The",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing",
+        "consultant",
+        "commercial",
+        "broker",
+        "buyer"
+    ]
+},
+  "bbox": [
+    -71.950364,
+    42.873392,
+    -71.950364,
+    42.873392
+],
+  "geometry": {"coordinates":[-71.95036399999999,42.873392],"type":"Point"}
+}

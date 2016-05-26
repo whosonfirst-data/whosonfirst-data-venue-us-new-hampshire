@@ -1,0 +1,71 @@
+{
+  "id": 873891689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469605,43.529099,-71.469605,43.529099",
+    "geom:latitude":43.529099,
+    "geom:longitude":-71.469605,
+    "iso:country":"US",
+    "sg:address":"20 Canal St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2610",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3plHqZvH1lUR8oaVPJ9C7L_43.529099_-71.469605@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299660,
+    "wof:geomhash":"cb758dcbf552864597f934efd34cbfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873891689
+        }
+    ],
+    "wof:id":873891689,
+    "wof:lastmodified":1464299660,
+    "wof:name":"Giggles & Grins",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.469605,
+    43.529099,
+    -71.469605,
+    43.529099
+],
+  "geometry": {"coordinates":[-71.469605,43.529099],"type":"Point"}
+}

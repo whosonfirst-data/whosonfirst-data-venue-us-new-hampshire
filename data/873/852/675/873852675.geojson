@@ -1,0 +1,69 @@
+{
+  "id": 873852675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.322515,42.730779,-71.322515,42.730779",
+    "geom:latitude":42.730779,
+    "geom:longitude":-71.322515,
+    "iso:country":"US",
+    "sg:address":"52 Old Bridge St N",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 3131",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YR1yYG33NfMUQytpCaiOw_42.730779_-71.322515@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298867,
+    "wof:geomhash":"98c5e7d5135ab22253da005c47ecfec8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873852675
+        }
+    ],
+    "wof:id":873852675,
+    "wof:lastmodified":1464298867,
+    "wof:name":"Laurents Auto Service",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.322515,
+    42.730779,
+    -71.322515,
+    42.730779
+],
+  "geometry": {"coordinates":[-71.322515,42.730779],"type":"Point"}
+}

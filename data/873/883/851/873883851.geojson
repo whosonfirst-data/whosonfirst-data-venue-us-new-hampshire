@@ -1,0 +1,73 @@
+{
+  "id": 873883851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448295,43.549779,-71.448295,43.549779",
+    "geom:latitude":43.549779,
+    "geom:longitude":-71.448295,
+    "iso:country":"US",
+    "sg:address":"180 Stark St",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6363",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64QlEyDRGl0X7o9ZboYclD_43.549779_-71.448295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299512,
+    "wof:geomhash":"7ab29690561a8eba2d3fd8d7ed8ed0f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873883851
+        }
+    ],
+    "wof:id":873883851,
+    "wof:lastmodified":1464299512,
+    "wof:name":"Native Sun Studio",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -71.448295,
+    43.549779,
+    -71.448295,
+    43.549779
+],
+  "geometry": {"coordinates":[-71.448295,43.549779],"type":"Point"}
+}

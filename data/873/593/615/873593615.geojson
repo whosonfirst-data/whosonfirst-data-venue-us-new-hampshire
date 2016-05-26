@@ -1,0 +1,77 @@
+{
+  "id": 873593615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.959543,42.979497,-70.959543,42.979497",
+    "geom:latitude":42.979497,
+    "geom:longitude":-70.959543,
+    "iso:country":"US",
+    "sg:address":"27 Garfield St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 3778",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X7bHiMFmy32xZ5bpKryNf_42.979497_-70.959543@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294877,
+    "wof:geomhash":"379555f0529d67e8f278cbf917c63ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873593615
+        }
+    ],
+    "wof:id":873593615,
+    "wof:lastmodified":1464294877,
+    "wof:name":"Exeter Storage Depot",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -70.959543,
+    42.979497,
+    -70.959543,
+    42.979497
+],
+  "geometry": {"coordinates":[-70.959543,42.979497],"type":"Point"}
+}

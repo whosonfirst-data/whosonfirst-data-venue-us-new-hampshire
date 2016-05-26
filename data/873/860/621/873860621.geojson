@@ -1,0 +1,73 @@
+{
+  "id": 873860621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.16425,44.501568,-71.16425,44.501568",
+    "geom:latitude":44.501568,
+    "geom:longitude":-71.16425,
+    "iso:country":"US",
+    "sg:address":"2525 Howard St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4767",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jLSspXgTZ240ogytDlAJI_44.501568_-71.164250@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299051,
+    "wof:geomhash":"1b60b43e7dbb4b0e3adde47fbae164fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873860621
+        }
+    ],
+    "wof:id":873860621,
+    "wof:lastmodified":1464299051,
+    "wof:name":"Mikes Auto Service",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.16425,
+    44.501568,
+    -71.16425,
+    44.501568
+],
+  "geometry": {"coordinates":[-71.16425,44.501568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873910951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.101372,42.815847,-72.101372,42.815847",
+    "geom:latitude":42.815847,
+    "geom:longitude":-72.101372,
+    "iso:country":"US",
+    "sg:address":"474 Great Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8356",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p4APmzo78bljaxv4Gp4pj_42.815847_-72.101372@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300030,
+    "wof:geomhash":"149a2330c27f19b16b74451763757519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873910951
+        }
+    ],
+    "wof:id":873910951,
+    "wof:lastmodified":1464300030,
+    "wof:name":"Shattuck Farm",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.101372,
+    42.815847,
+    -72.101372,
+    42.815847
+],
+  "geometry": {"coordinates":[-72.101372,42.815847],"type":"Point"}
+}

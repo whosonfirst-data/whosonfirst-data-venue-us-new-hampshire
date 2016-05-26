@@ -1,0 +1,69 @@
+{
+  "id": 873867081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193262,43.900024,-71.193262,43.900024",
+    "geom:latitude":43.900024,
+    "geom:longitude":-71.193262,
+    "iso:country":"US",
+    "sg:address":"66 High St",
+    "sg:city":"Silver Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 367 9945",
+    "sg:postcode":"03875",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b8hTM8x8BbftlToX6bO4o_43.900024_-71.193262@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299174,
+    "wof:geomhash":"9992fae5f7fe34f108c738b9c5e12de0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873867081
+        }
+    ],
+    "wof:id":873867081,
+    "wof:lastmodified":1464299174,
+    "wof:name":"Silver Lake Auto Body",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.193262,
+    43.900024,
+    -71.193262,
+    43.900024
+],
+  "geometry": {"coordinates":[-71.193262,43.900024],"type":"Point"}
+}

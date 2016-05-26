@@ -1,0 +1,77 @@
+{
+  "id": 873922039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491459,42.855916,-71.491459,42.855916",
+    "geom:latitude":42.855916,
+    "geom:longitude":-71.491459,
+    "iso:country":"US",
+    "sg:address":"399 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 1271",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "allergy",
+        "immunology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hJvaiREiSUKK7fNJodFOt_42.855916_-71.491459@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300253,
+    "wof:geomhash":"2bdb7fe9ca393a832bcfe3638ad0d53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873922039
+        }
+    ],
+    "wof:id":873922039,
+    "wof:lastmodified":1464300253,
+    "wof:name":"Infectious Disease Associates Travel Medicine",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "allergy",
+        "immunology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -71.491459,
+    42.855916,
+    -71.491459,
+    42.855916
+],
+  "geometry": {"coordinates":[-71.49145900000001,42.855916],"type":"Point"}
+}

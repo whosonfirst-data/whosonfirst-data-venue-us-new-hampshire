@@ -1,0 +1,71 @@
+{
+  "id": 873887005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308726,42.861039,-71.308726,42.861039",
+    "geom:latitude":42.861039,
+    "geom:longitude":-71.308726,
+    "iso:country":"US",
+    "sg:address":"47 Windham Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 8056",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f7VAXKV30Dt12wSG9FfRa_42.861039_-71.308726@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299573,
+    "wof:geomhash":"dfd14d4d0f1e8d571f71d10c9d0a90e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873887005
+        }
+    ],
+    "wof:id":873887005,
+    "wof:lastmodified":1464299573,
+    "wof:name":"New England Supreme Svc",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.308726,
+    42.861039,
+    -71.308726,
+    42.861039
+],
+  "geometry": {"coordinates":[-71.30872599999999,42.861039],"type":"Point"}
+}

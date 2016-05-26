@@ -1,0 +1,89 @@
+{
+  "id": 873626867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499225,42.778923,-71.499225,42.778923",
+    "geom:latitude":42.778923,
+    "geom:longitude":-71.499225,
+    "iso:country":"US",
+    "sg:address":"15 Charron Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 577 8958",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "p",
+        "industrial",
+        "representative",
+        "equipment"
+    ],
+    "sg:website":"www.hollis-tech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b2XzcgBbs9u4bsTH2PtMV_42.778923_-71.499225@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295329,
+    "wof:geomhash":"9febe31a6647e26ffde09236fb6e4580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873626867
+        }
+    ],
+    "wof:id":873626867,
+    "wof:lastmodified":1464295329,
+    "wof:name":"Hollis Technologies Inc",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "p",
+        "industrial",
+        "representative",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -71.499225,
+    42.778923,
+    -71.499225,
+    42.778923
+],
+  "geometry": {"coordinates":[-71.499225,42.778923],"type":"Point"}
+}

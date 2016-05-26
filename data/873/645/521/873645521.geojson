@@ -1,0 +1,73 @@
+{
+  "id": 873645521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.582833,43.266223,-71.582833,43.266223",
+    "geom:latitude":43.266223,
+    "geom:longitude":-71.582833,
+    "iso:country":"US",
+    "sg:address":"42 Snow St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9014",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hSX2Rj3IZO2qQCMzbaY4L_43.266223_-71.582833@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295541,
+    "wof:geomhash":"9250f2b7cd874a35cd859c73bb16d612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873645521
+        }
+    ],
+    "wof:id":873645521,
+    "wof:lastmodified":1464295541,
+    "wof:name":"Gallien Builders",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.582833,
+    43.266223,
+    -71.582833,
+    43.266223
+],
+  "geometry": {"coordinates":[-71.58283299999999,43.266223],"type":"Point"}
+}

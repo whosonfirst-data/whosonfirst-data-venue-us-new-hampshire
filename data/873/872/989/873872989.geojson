@@ -1,0 +1,77 @@
+{
+  "id": 873872989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435412,42.985192,-71.435412,42.985192",
+    "geom:latitude":42.985192,
+    "geom:longitude":-71.435412,
+    "iso:country":"US",
+    "sg:address":"190 Tarrytown Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 5113",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70o16SS26Tg6qB6X4J8sia_42.985192_-71.435412@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299298,
+    "wof:geomhash":"d684921ad7eed52a6270a5f4e0e7ba37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873872989
+        }
+    ],
+    "wof:id":873872989,
+    "wof:lastmodified":1464299298,
+    "wof:name":"Granite State Medical Ctr",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.435412,
+    42.985192,
+    -71.435412,
+    42.985192
+],
+  "geometry": {"coordinates":[-71.435412,42.985192],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873566401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.96044,43.312189,-70.96044,43.312189",
+    "geom:latitude":43.312189,
+    "geom:longitude":-70.96044,
+    "iso:country":"US",
+    "sg:address":"400 Portland St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 1699",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816725,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jvPiE6YwGxFbtUdRqbe7d_43.312189_-70.960440@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"3a3b0c236998aaeee12ae78047fa33a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":873566401
+        }
+    ],
+    "wof:id":873566401,
+    "wof:lastmodified":1464294570,
+    "wof:name":"M Y Photography",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -70.96044,
+    43.312189,
+    -70.96044,
+    43.312189
+],
+  "geometry": {"coordinates":[-70.96044000000001,43.312189],"type":"Point"}
+}

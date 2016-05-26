@@ -1,0 +1,71 @@
+{
+  "id": 873839539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.186082,42.905774,-72.186082,42.905774",
+    "geom:latitude":42.905774,
+    "geom:longitude":-72.186082,
+    "iso:country":"US",
+    "sg:address":"441 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4509",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6frTozSFMuLjScQqdQZrQc_42.905774_-72.186082@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298541,
+    "wof:geomhash":"6154cfc2c95207980107ef7c0123f102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873839539
+        }
+    ],
+    "wof:id":873839539,
+    "wof:lastmodified":1464298541,
+    "wof:name":"Firearms Unlimited",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -72.186082,
+    42.905774,
+    -72.186082,
+    42.905774
+],
+  "geometry": {"coordinates":[-72.186082,42.905774],"type":"Point"}
+}

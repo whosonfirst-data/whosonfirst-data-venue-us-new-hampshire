@@ -1,0 +1,71 @@
+{
+  "id": 873793601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.238918,43.06258,-71.238918,43.06258",
+    "geom:latitude":43.06258,
+    "geom:longitude":-71.238918,
+    "iso:country":"US",
+    "sg:address":"317 State Rte 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 3803",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lift",
+        "hydraulic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gRbxIrP0wyuV1FmEAXlYT_43.062580_-71.238918@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297698,
+    "wof:geomhash":"946104787218d65762ac7cbd091093a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873793601
+        }
+    ],
+    "wof:id":873793601,
+    "wof:lastmodified":1464297698,
+    "wof:name":"RBG Inc",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lift",
+        "hydraulic"
+    ]
+},
+  "bbox": [
+    -71.238918,
+    43.06258,
+    -71.238918,
+    43.06258
+],
+  "geometry": {"coordinates":[-71.238918,43.06258],"type":"Point"}
+}

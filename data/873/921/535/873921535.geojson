@@ -1,0 +1,90 @@
+{
+  "id": 873921535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42614,42.73584,-71.42614,42.73584",
+    "geom:latitude":42.73584,
+    "geom:longitude":-71.42614,
+    "iso:country":"US",
+    "sg:address":"203 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2419",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "convalescent",
+        "centers-adult",
+        "day"
+    ],
+    "sg:website":"http://www.fairviewhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SL1mPuPT4afbXoGIWx1Am_42.735840_-71.426140@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300237,
+    "wof:geomhash":"51f825b62935f374800e9be1d1a4c1a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921535
+        }
+    ],
+    "wof:id":873921535,
+    "wof:lastmodified":1464300237,
+    "wof:name":"Laurel Place Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "convalescent",
+        "centers-adult",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.42614,
+    42.73584,
+    -71.42614,
+    42.73584
+],
+  "geometry": {"coordinates":[-71.42614,42.73584],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873538837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.933682,43.130111,-70.933682,43.130111",
+    "geom:latitude":43.130111,
+    "geom:longitude":-70.933682,
+    "iso:country":"US",
+    "sg:address":"62 Mill Rd",
+    "sg:city":"Lee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 7799",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZaGDsfuitT44550gYIPwg_43.130111_-70.933682@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294248,
+    "wof:geomhash":"8a7630056c423debca1b8e183de5b230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873538837
+        }
+    ],
+    "wof:id":873538837,
+    "wof:lastmodified":1464294248,
+    "wof:name":"Arbor Veterinary Svc",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -70.933682,
+    43.130111,
+    -70.933682,
+    43.130111
+],
+  "geometry": {"coordinates":[-70.933682,43.130111],"type":"Point"}
+}

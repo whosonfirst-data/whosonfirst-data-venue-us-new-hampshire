@@ -1,0 +1,71 @@
+{
+  "id": 873888279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.069299,43.034494,-71.069299,43.034494",
+    "geom:latitude":43.034494,
+    "geom:longitude":-71.069299,
+    "iso:country":"US",
+    "sg:address":"23 Railroad Ave",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2493",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IyJ376Y8xB9K0EzbiDVcm_43.034494_-71.069299@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299595,
+    "wof:geomhash":"41a49177306f8d92b10459ba25ef52f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873888279
+        }
+    ],
+    "wof:id":873888279,
+    "wof:lastmodified":1464299595,
+    "wof:name":"Brown's Garage",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.069299,
+    43.034494,
+    -71.069299,
+    43.034494
+],
+  "geometry": {"coordinates":[-71.069299,43.034494],"type":"Point"}
+}

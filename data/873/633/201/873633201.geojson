@@ -1,0 +1,71 @@
+{
+  "id": 873633201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.036457,44.268427,-72.036457,44.268427",
+    "geom:latitude":44.268427,
+    "geom:longitude":-72.036457,
+    "iso:country":"US",
+    "sg:address":"1417 Coppermine Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 4402",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FNh3PwLxrcxToYDdDd2Dc_44.268427_-72.036457@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295403,
+    "wof:geomhash":"6adcb45c6a825df2d4c1fc32dd826842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873633201
+        }
+    ],
+    "wof:id":873633201,
+    "wof:lastmodified":1464295403,
+    "wof:name":"Elite Custom Counters",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.036457,
+    44.268427,
+    -72.036457,
+    44.268427
+],
+  "geometry": {"coordinates":[-72.036457,44.268427],"type":"Point"}
+}

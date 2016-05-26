@@ -1,0 +1,69 @@
+{
+  "id": 873821291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.563099,43.435091,-71.563099,43.435091",
+    "geom:latitude":43.435091,
+    "geom:longitude":-71.563099,
+    "iso:country":"US",
+    "sg:address":"135 Bay Hill Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 8923",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EbFglTkuq3nOOVxLnm8th_43.435091_-71.563099@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298143,
+    "wof:geomhash":"0ce8bf4601a13d7cd9628182cd22b470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873821291
+        }
+    ],
+    "wof:id":873821291,
+    "wof:lastmodified":1464298143,
+    "wof:name":"Bay Hill Hair Salon",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.563099,
+    43.435091,
+    -71.563099,
+    43.435091
+],
+  "geometry": {"coordinates":[-71.56309899999999,43.435091],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873720525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.376144,42.769545,-71.376144,42.769545",
+    "geom:latitude":42.769545,
+    "geom:longitude":-71.376144,
+    "iso:country":"US",
+    "sg:address":"134 Kimball Hill Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 578 9106",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ogXuYGoujEEk7TH8sYUjr_42.769545_-71.376144@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296658,
+    "wof:geomhash":"09605955119d3aaf1974d5fb9786eb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873720525
+        }
+    ],
+    "wof:id":873720525,
+    "wof:lastmodified":1464296658,
+    "wof:name":"Tri State Truck & Diesel Maint",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.376144,
+    42.769545,
+    -71.376144,
+    42.769545
+],
+  "geometry": {"coordinates":[-71.376144,42.769545],"type":"Point"}
+}

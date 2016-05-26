@@ -1,0 +1,80 @@
+{
+  "id": 873596531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568094,44.502692,-71.568094,44.502692",
+    "geom:latitude":44.502692,
+    "geom:longitude":-71.568094,
+    "iso:country":"US",
+    "sg:address":"162 Summer St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4299",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uP248H23MNLTXgfohAONL_44.502692_-71.568094@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294937,
+    "wof:geomhash":"cce4add61331cf4b21d071f0937a1111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873596531
+        }
+    ],
+    "wof:id":873596531,
+    "wof:lastmodified":1464294937,
+    "wof:name":"Portland Natural Gas Transmiss",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -71.568094,
+    44.502692,
+    -71.568094,
+    44.502692
+],
+  "geometry": {"coordinates":[-71.568094,44.502692],"type":"Point"}
+}

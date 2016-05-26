@@ -1,0 +1,71 @@
+{
+  "id": 873870689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.166758,44.486598,-71.166758,44.486598",
+    "geom:latitude":44.486598,
+    "geom:longitude":-71.166758,
+    "iso:country":"US",
+    "sg:address":"1551 Main St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 538 6513",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60FMpDSn88WBO77YAMjjUp_44.486598_-71.166758@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299236,
+    "wof:geomhash":"80ddb33931c4149e58d127cd09131eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873870689
+        }
+    ],
+    "wof:id":873870689,
+    "wof:lastmodified":1464299236,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.166758,
+    44.486598,
+    -71.166758,
+    44.486598
+],
+  "geometry": {"coordinates":[-71.166758,44.486598],"type":"Point"}
+}

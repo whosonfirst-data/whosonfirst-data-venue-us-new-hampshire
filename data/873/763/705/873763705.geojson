@@ -1,0 +1,75 @@
+{
+  "id": 873763705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.27816,42.931519,-72.27816,42.931519",
+    "geom:latitude":42.931519,
+    "geom:longitude":-72.27816,
+    "iso:country":"US",
+    "sg:address":"99 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 4553",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lq4VB7qZkgMdbui784KMm_42.931519_-72.278160@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297269,
+    "wof:geomhash":"319f95a48bb88d14ef16b68e8993d7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873763705
+        }
+    ],
+    "wof:id":873763705,
+    "wof:lastmodified":1464297269,
+    "wof:name":"Robert Miller DDS",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.27816,
+    42.931519,
+    -72.27816,
+    42.931519
+],
+  "geometry": {"coordinates":[-72.27816,42.931519],"type":"Point"}
+}

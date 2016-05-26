@@ -1,0 +1,71 @@
+{
+  "id": 873733967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479844,42.914479,-71.479844,42.914479",
+    "geom:latitude":42.914479,
+    "geom:longitude":-71.479844,
+    "iso:country":"US",
+    "sg:address":"102 Smith Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 2791",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22aFrgP11LDuP1kixNrRYp_42.914479_-71.479844@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296831,
+    "wof:geomhash":"1e225c2c1dc57a3a4fecc7c83fd14536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873733967
+        }
+    ],
+    "wof:id":873733967,
+    "wof:lastmodified":1464296831,
+    "wof:name":"Dodwell Enterprises LLC",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -71.479844,
+    42.914479,
+    -71.479844,
+    42.914479
+],
+  "geometry": {"coordinates":[-71.479844,42.914479],"type":"Point"}
+}

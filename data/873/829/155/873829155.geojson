@@ -1,0 +1,69 @@
+{
+  "id": 873829155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.178295,44.389278,-71.178295,44.389278",
+    "geom:latitude":44.389278,
+    "geom:longitude":-71.178295,
+    "iso:country":"US",
+    "sg:address":"139 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5208",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VGe75isvaFXufQf5G0yBS_44.389278_-71.178295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298316,
+    "wof:geomhash":"3077c7a3075efaf79f711384bf1c0e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873829155
+        }
+    ],
+    "wof:id":873829155,
+    "wof:lastmodified":1464298316,
+    "wof:name":"Moose's Antler",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.178295,
+    44.389278,
+    -71.178295,
+    44.389278
+],
+  "geometry": {"coordinates":[-71.17829500000001,44.389278],"type":"Point"}
+}

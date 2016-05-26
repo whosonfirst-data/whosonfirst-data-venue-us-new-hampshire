@@ -1,0 +1,82 @@
+{
+  "id": 873541997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.390979,43.319547,-72.390979,43.319547",
+    "geom:latitude":43.319547,
+    "geom:longitude":-72.390979,
+    "iso:country":"US",
+    "sg:address":"1 Sunnyside Cir",
+    "sg:city":"Alstead",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 835 2282",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "general",
+        "local",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GJZX5MeIP0qXKwHjimMmI_43.319547_-72.390979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"c31104cf2d2a966329ec3bfeeef7f04e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873541997
+        }
+    ],
+    "wof:id":873541997,
+    "wof:lastmodified":1464294281,
+    "wof:name":"Holley's Hoe & Hauling",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "general",
+        "local",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.390979,
+    43.319547,
+    -72.390979,
+    43.319547
+],
+  "geometry": {"coordinates":[-72.390979,43.319547],"type":"Point"}
+}

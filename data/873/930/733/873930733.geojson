@@ -1,0 +1,70 @@
+{
+  "id": 873930733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.238197,43.683498,-71.238197,43.683498",
+    "geom:latitude":43.683498,
+    "geom:longitude":-71.238197,
+    "iso:country":"US",
+    "sg:address":"Brown Rd",
+    "sg:city":"Center Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4515",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.daleyelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42fyQMDKnpb85zCt2OALa5_43.683498_-71.238197@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300425,
+    "wof:geomhash":"a16d7104bcb0112ef7dc93734d7ce3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873930733
+        }
+    ],
+    "wof:id":873930733,
+    "wof:lastmodified":1464300425,
+    "wof:name":"Daley Stanley Electric",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.238197,
+    43.683498,
+    -71.238197,
+    43.683498
+],
+  "geometry": {"coordinates":[-71.238197,43.683498],"type":"Point"}
+}

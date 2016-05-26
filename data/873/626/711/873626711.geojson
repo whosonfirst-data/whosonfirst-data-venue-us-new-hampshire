@@ -1,0 +1,69 @@
+{
+  "id": 873626711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.34309,43.527165,-72.34309,43.527165",
+    "geom:latitude":43.527165,
+    "geom:longitude":-72.34309,
+    "iso:country":"US",
+    "sg:address":"199 Westgate Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 675 2001",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ydUuZqAkQcex6CmzbsyH6_43.527165_-72.343090@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295327,
+    "wof:geomhash":"2e8f456ea8131527a83d132390a8eae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873626711
+        }
+    ],
+    "wof:id":873626711,
+    "wof:lastmodified":1464295327,
+    "wof:name":"Dan La Pan Welding & Svcs",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.34309,
+    43.527165,
+    -72.34309,
+    43.527165
+],
+  "geometry": {"coordinates":[-72.34309,43.527165],"type":"Point"}
+}

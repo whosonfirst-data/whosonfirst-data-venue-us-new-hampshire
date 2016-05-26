@@ -1,0 +1,73 @@
+{
+  "id": 873858725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575859,44.497346,-71.575859,44.497346",
+    "geom:latitude":44.497346,
+    "geom:longitude":-71.575859,
+    "iso:country":"US",
+    "sg:address":"80 N Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 838 2881",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W9Ej0mZFq2jEoLyrUfzaE_44.497346_-71.575859@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298986,
+    "wof:geomhash":"41086b9f99137d8c45e83d515a38f65d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873858725
+        }
+    ],
+    "wof:id":873858725,
+    "wof:lastmodified":1464298986,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.575859,
+    44.497346,
+    -71.575859,
+    44.497346
+],
+  "geometry": {"coordinates":[-71.57585899999999,44.497346],"type":"Point"}
+}

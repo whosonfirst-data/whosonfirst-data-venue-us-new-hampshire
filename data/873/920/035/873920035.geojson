@@ -1,0 +1,70 @@
+{
+  "id": 873920035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277058,43.059885,-71.277058,43.059885",
+    "geom:latitude":43.059885,
+    "geom:longitude":-71.277058,
+    "iso:country":"US",
+    "sg:address":"145 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5005",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.pasqualeincandia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33XriSwrQkCTNARWfiZk20_43.059885_-71.277058@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300212,
+    "wof:geomhash":"599d5982d5c5263a2d1915c1812335f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873920035
+        }
+    ],
+    "wof:id":873920035,
+    "wof:lastmodified":1464300212,
+    "wof:name":"Pasquale's Ristorante",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.277058,
+    43.059885,
+    -71.277058,
+    43.059885
+],
+  "geometry": {"coordinates":[-71.277058,43.059885],"type":"Point"}
+}

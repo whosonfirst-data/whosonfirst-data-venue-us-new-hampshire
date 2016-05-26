@@ -1,0 +1,71 @@
+{
+  "id": 873599181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.824844,43.040458,-70.824844,43.040458",
+    "geom:latitude":43.040458,
+    "geom:longitude":-70.824844,
+    "iso:country":"US",
+    "sg:address":"10 Autumn Pond Park",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9860",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SSFff7iwY2rDGjsm74rmp_43.040458_-70.824844@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294975,
+    "wof:geomhash":"e40815f159fa9f51f4edc2281fea8d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873599181
+        }
+    ],
+    "wof:id":873599181,
+    "wof:lastmodified":1464294975,
+    "wof:name":"Stalker Electric Inc",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.824844,
+    43.040458,
+    -70.824844,
+    43.040458
+],
+  "geometry": {"coordinates":[-70.824844,43.040458],"type":"Point"}
+}

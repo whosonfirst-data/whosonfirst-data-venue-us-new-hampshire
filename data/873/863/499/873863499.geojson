@@ -1,0 +1,75 @@
+{
+  "id": 873863499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456206,42.708664,-71.456206,42.708664",
+    "geom:latitude":42.708664,
+    "geom:longitude":-71.456206,
+    "iso:country":"US",
+    "sg:address":"10 Tara Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6700",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hE5SSu9sOwh0uLO6ABAv3_42.708664_-71.456206@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299105,
+    "wof:geomhash":"8818521fa8f4820117a547e7576da791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873863499
+        }
+    ],
+    "wof:id":873863499,
+    "wof:lastmodified":1464299105,
+    "wof:name":"Donald McDonah",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.456206,
+    42.708664,
+    -71.456206,
+    42.708664
+],
+  "geometry": {"coordinates":[-71.45620599999999,42.708664],"type":"Point"}
+}

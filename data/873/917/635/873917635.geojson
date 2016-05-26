@@ -1,0 +1,72 @@
+{
+  "id": 873917635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484862,42.964071,-71.484862,42.964071",
+    "geom:latitude":42.964071,
+    "geom:longitude":-71.484862,
+    "iso:country":"US",
+    "sg:address":"17 Colby Ct",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bedford/129599-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 4544",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PLQHqg8h1ACM1Z9EzpSKV_42.964071_-71.484862@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"7bfe2360dd64481015ea09bc88e7feb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873917635
+        }
+    ],
+    "wof:id":873917635,
+    "wof:lastmodified":1464300171,
+    "wof:name":"Subway",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.484862,
+    42.964071,
+    -71.484862,
+    42.964071
+],
+  "geometry": {"coordinates":[-71.48486200000001,42.964071],"type":"Point"}
+}

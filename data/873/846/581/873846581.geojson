@@ -1,0 +1,71 @@
+{
+  "id": 873846581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51856,43.192197,-71.51856,43.192197",
+    "geom:latitude":43.192197,
+    "geom:longitude":-71.51856,
+    "iso:country":"US",
+    "sg:address":"28 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2122",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2suNO5nZbDPpGvQk7XfH_43.192197_-71.518560@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298714,
+    "wof:geomhash":"be86cca4b65d4735a2b29e56f55ea442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873846581
+        }
+    ],
+    "wof:id":873846581,
+    "wof:lastmodified":1464298714,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.51856,
+    43.192197,
+    -71.51856,
+    43.192197
+],
+  "geometry": {"coordinates":[-71.51855999999999,43.192197],"type":"Point"}
+}

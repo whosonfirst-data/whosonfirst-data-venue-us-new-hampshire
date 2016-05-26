@@ -1,0 +1,73 @@
+{
+  "id": 873885151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.958514,43.269354,-71.958514,43.269354",
+    "geom:latitude":43.269354,
+    "geom:longitude":-71.958514,
+    "iso:country":"US",
+    "sg:address":"102 E Main St",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2258",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "self",
+        "merchandise",
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DwIs8ZfBgSRwPZmQHh0mD_43.269354_-71.958514@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299542,
+    "wof:geomhash":"0df5a7cc88c58992802044b0eb9e386e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873885151
+        }
+    ],
+    "wof:id":873885151,
+    "wof:lastmodified":1464299542,
+    "wof:name":"Bradford General Store",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "merchandise",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -71.958514,
+    43.269354,
+    -71.958514,
+    43.269354
+],
+  "geometry": {"coordinates":[-71.95851399999999,43.269354],"type":"Point"}
+}

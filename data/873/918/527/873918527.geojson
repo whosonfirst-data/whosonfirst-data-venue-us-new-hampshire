@@ -1,0 +1,72 @@
+{
+  "id": 873918527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.887204,43.220912,-70.887204,43.220912",
+    "geom:latitude":43.220912,
+    "geom:longitude":-70.887204,
+    "iso:country":"US",
+    "sg:address":"11 Webb Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/dover/125104-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 1867",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WYbUcGjx08ZXrKmu31KoA_43.220912_-70.887204@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300187,
+    "wof:geomhash":"8aa10240fcb5f1a708bc4e6fbd69d696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873918527
+        }
+    ],
+    "wof:id":873918527,
+    "wof:lastmodified":1464300187,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.887204,
+    43.220912,
+    -70.887204,
+    43.220912
+],
+  "geometry": {"coordinates":[-70.887204,43.220912],"type":"Point"}
+}

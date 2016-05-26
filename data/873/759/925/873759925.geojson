@@ -1,0 +1,71 @@
+{
+  "id": 873759925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.834229,43.178629,-71.834229,43.178629",
+    "geom:latitude":43.178629,
+    "geom:longitude":-71.834229,
+    "iso:country":"US",
+    "sg:address":"64 Western Ave",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3213",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H7xNzI63x1OLl4Ru0kw7p_43.178629_-71.834229@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297205,
+    "wof:geomhash":"f6b30cbf100729a01c530f3a47dcc54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873759925
+        }
+    ],
+    "wof:id":873759925,
+    "wof:lastmodified":1464297205,
+    "wof:name":"Henniker Police Dept",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.834229,
+    43.178629,
+    -71.834229,
+    43.178629
+],
+  "geometry": {"coordinates":[-71.83422899999999,43.178629],"type":"Point"}
+}

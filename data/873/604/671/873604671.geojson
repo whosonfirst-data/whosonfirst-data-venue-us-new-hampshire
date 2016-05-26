@@ -1,0 +1,78 @@
+{
+  "id": 873604671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.872019,42.901025,-70.872019,42.901025",
+    "geom:latitude":42.901025,
+    "geom:longitude":-70.872019,
+    "iso:country":"US",
+    "sg:address":"51 Gove Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 7550",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L6jSNbFp7714lZnnxjKos_42.901025_-70.872019@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295036,
+    "wof:geomhash":"40b83c2e8f8a9dc3c8fd3c3d7bc6a04e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873604671
+        }
+    ],
+    "wof:id":873604671,
+    "wof:lastmodified":1464295036,
+    "wof:name":"Seacoast Medical Training Assc",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ]
+},
+  "bbox": [
+    -70.872019,
+    42.901025,
+    -70.872019,
+    42.901025
+],
+  "geometry": {"coordinates":[-70.87201899999999,42.901025],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 873932213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.83786,42.941841,-70.83786,42.941841",
+    "geom:latitude":42.941841,
+    "geom:longitude":-70.83786,
+    "iso:country":"US",
+    "sg:address":"1 High St",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 5503",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "stone",
+        "designer",
+        "jewelers-wholesale",
+        "clock",
+        "watch",
+        "jeweler",
+        "precious",
+        "semi-precious",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817949,
+        102191575,
+        404476755,
+        85633793,
+        85975123,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JSvw2y3wgbgljbFur5QC2_42.941841_-70.837860@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300450,
+    "wof:geomhash":"a6f6a419c14b36aca17f11b0a1bb3d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975123,
+            "neighbourhood_id":85817949,
+            "region_id":85688689,
+            "venue_id":873932213
+        }
+    ],
+    "wof:id":873932213,
+    "wof:lastmodified":1464300450,
+    "wof:name":"Cohen's Jewelers",
+    "wof:parent_id":85817949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "stone",
+        "designer",
+        "jewelers-wholesale",
+        "clock",
+        "watch",
+        "jeweler",
+        "precious",
+        "semi-precious",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.83786,
+    42.941841,
+    -70.83786,
+    42.941841
+],
+  "geometry": {"coordinates":[-70.83786000000001,42.941841],"type":"Point"}
+}

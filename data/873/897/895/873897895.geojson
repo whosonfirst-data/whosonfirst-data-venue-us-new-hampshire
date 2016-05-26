@@ -1,0 +1,71 @@
+{
+  "id": 873897895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.935276,43.03942,-70.935276,43.03942",
+    "geom:latitude":43.03942,
+    "geom:longitude":-70.935276,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 473 8400",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v7orDqz0Mx7bVkWY9VO6m_43.039420_-70.935276@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299780,
+    "wof:geomhash":"f554ebe165346317bbe5eafa359a4321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873897895
+        }
+    ],
+    "wof:id":873897895,
+    "wof:lastmodified":1464299780,
+    "wof:name":"Tri Town Auto & Mrne Elec",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -70.935276,
+    43.03942,
+    -70.935276,
+    43.03942
+],
+  "geometry": {"coordinates":[-70.935276,43.03942],"type":"Point"}
+}

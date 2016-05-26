@@ -1,0 +1,71 @@
+{
+  "id": 873914165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19083,42.79317,-71.19083,42.79317",
+    "geom:latitude":42.79317,
+    "geom:longitude":-71.19083,
+    "iso:country":"US",
+    "sg:address":"373 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5786",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "attorney",
+        "practice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jm73B7cxAc7ymNACLmAqP_42.793228_-71.190587@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"8e940af75dc60f81ae498427b26a8943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873914165
+        }
+    ],
+    "wof:id":873914165,
+    "wof:lastmodified":1464300091,
+    "wof:name":"John A Macoul",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "practice"
+    ]
+},
+  "bbox": [
+    -71.19083,
+    42.79317,
+    -71.19083,
+    42.79317
+],
+  "geometry": {"coordinates":[-71.19083000000001,42.79317],"type":"Point"}
+}

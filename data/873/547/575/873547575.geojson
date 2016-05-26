@@ -1,0 +1,71 @@
+{
+  "id": 873547575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.913215,43.26895,-71.913215,43.26895",
+    "geom:latitude":43.26895,
+    "geom:longitude":-71.913215,
+    "iso:country":"US",
+    "sg:address":"50 Melvin Mills Rd",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2194",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RU0oQpPDZvtEu12Ud6DA1_43.268950_-71.913215@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294346,
+    "wof:geomhash":"80117c306d64804ca66a8535252ee5e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873547575
+        }
+    ],
+    "wof:id":873547575,
+    "wof:lastmodified":1464294346,
+    "wof:name":"Northeast Demolition",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.913215,
+    43.26895,
+    -71.913215,
+    43.26895
+],
+  "geometry": {"coordinates":[-71.91321499999999,43.26895],"type":"Point"}
+}

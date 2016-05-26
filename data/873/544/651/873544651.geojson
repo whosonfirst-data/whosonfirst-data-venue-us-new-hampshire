@@ -1,0 +1,71 @@
+{
+  "id": 873544651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648502,43.447749,-71.648502,43.447749",
+    "geom:latitude":43.447749,
+    "geom:longitude":-71.648502,
+    "iso:country":"US",
+    "sg:address":"32 E Bow St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 2630",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZ66TlhLpcxWctEN0gyud_43.447749_-71.648502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294313,
+    "wof:geomhash":"80703a26cc82add8720b8673ecc78df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873544651
+        }
+    ],
+    "wof:id":873544651,
+    "wof:lastmodified":1464294313,
+    "wof:name":"AMP Electrical Services I",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.648502,
+    43.447749,
+    -71.648502,
+    43.447749
+],
+  "geometry": {"coordinates":[-71.64850199999999,43.447749],"type":"Point"}
+}

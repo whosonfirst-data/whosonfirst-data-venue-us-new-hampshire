@@ -1,0 +1,69 @@
+{
+  "id": 873779259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.160611,44.489053,-71.160611,44.489053",
+    "geom:latitude":44.489053,
+    "geom:longitude":-71.160611,
+    "iso:country":"US",
+    "sg:address":"2001 Hutchins St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7467",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jhzo7rc0d0MznbLZ6Vgn9_44.489053_-71.160611@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297479,
+    "wof:geomhash":"95e61b14d5d26f006c6556e9aeec65b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873779259
+        }
+    ],
+    "wof:id":873779259,
+    "wof:lastmodified":1464297479,
+    "wof:name":"Knik Tent Rentals",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camping"
+    ]
+},
+  "bbox": [
+    -71.160611,
+    44.489053,
+    -71.160611,
+    44.489053
+],
+  "geometry": {"coordinates":[-71.160611,44.489053],"type":"Point"}
+}

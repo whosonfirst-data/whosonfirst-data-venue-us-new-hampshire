@@ -1,0 +1,71 @@
+{
+  "id": 873587535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511497,43.003187,-71.511497,43.003187",
+    "geom:latitude":43.003187,
+    "geom:longitude":-71.511497,
+    "iso:country":"US",
+    "sg:address":"30 Shore Dr",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 1342",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_292Hg1fjTKc8oEf1KFys3M_43.003187_-71.511497@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"b7492235d644987162fda8e324764ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873587535
+        }
+    ],
+    "wof:id":873587535,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Super Systems",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.511497,
+    43.003187,
+    -71.511497,
+    43.003187
+],
+  "geometry": {"coordinates":[-71.51149700000001,43.003187],"type":"Point"}
+}

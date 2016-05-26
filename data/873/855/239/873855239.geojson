@@ -1,0 +1,69 @@
+{
+  "id": 873855239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.049105,43.18764,-71.049105,43.18764",
+    "geom:latitude":43.18764,
+    "geom:longitude":-71.049105,
+    "iso:country":"US",
+    "sg:address":"26 Mica Point Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 7538",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849433,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gPT3nubHKBHWfu4pPVHGY_43.187640_-71.049105@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298918,
+    "wof:geomhash":"a8a3ad26d4feb744550b2e4908ef8556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85849433,
+            "region_id":85688689,
+            "venue_id":873855239
+        }
+    ],
+    "wof:id":873855239,
+    "wof:lastmodified":1464298918,
+    "wof:name":"D & S Drywall",
+    "wof:parent_id":85849433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.049105,
+    43.18764,
+    -71.049105,
+    43.18764
+],
+  "geometry": {"coordinates":[-71.049105,43.18764],"type":"Point"}
+}

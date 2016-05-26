@@ -1,0 +1,71 @@
+{
+  "id": 873769727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.017707,42.881786,-71.017707,42.881786",
+    "geom:latitude":42.881786,
+    "geom:longitude":-71.017707,
+    "iso:country":"US",
+    "sg:address":"35 Maple Ave",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 1771",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jZEHxnbDIR6sbhVaflAfX_42.881786_-71.017707@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297358,
+    "wof:geomhash":"4ed4c8f3002e028fb4cbd2c5755b1752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873769727
+        }
+    ],
+    "wof:id":873769727,
+    "wof:lastmodified":1464297358,
+    "wof:name":"Modern Dynamics",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.017707,
+    42.881786,
+    -71.017707,
+    42.881786
+],
+  "geometry": {"coordinates":[-71.017707,42.881786],"type":"Point"}
+}

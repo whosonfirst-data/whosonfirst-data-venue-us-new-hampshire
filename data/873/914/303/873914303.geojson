@@ -1,0 +1,74 @@
+{
+  "id": 873914303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545966,43.342243,-71.545966,43.342243",
+    "geom:latitude":43.342243,
+    "geom:longitude":-71.545966,
+    "iso:country":"US",
+    "sg:address":"115 Baptist Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4782",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "health",
+        "market"
+    ],
+    "sg:website":"www.essenceofthings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vh1zsQmIAsb4WG7H8SJ6j_43.342525_-71.545259@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300094,
+    "wof:geomhash":"ad5bed201d442111a6fa0a64bbb2118d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873914303
+        }
+    ],
+    "wof:id":873914303,
+    "wof:lastmodified":1464300094,
+    "wof:name":"Essence of Things",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "health",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.545966,
+    43.342243,
+    -71.545966,
+    43.342243
+],
+  "geometry": {"coordinates":[-71.54596600000001,43.342243],"type":"Point"}
+}

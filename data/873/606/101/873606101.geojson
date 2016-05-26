@@ -1,0 +1,76 @@
+{
+  "id": 873606101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.325772,43.369839,-72.325772,43.369839",
+    "geom:latitude":43.369839,
+    "geom:longitude":-72.325772,
+    "iso:country":"US",
+    "sg:address":"220 Washington St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 1681",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.hanniford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OymZSY3mKVdIAAdsRhvYV_43.369839_-72.325772@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295060,
+    "wof:geomhash":"c84e7de8613e4a71293605800a8f4453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873606101
+        }
+    ],
+    "wof:id":873606101,
+    "wof:lastmodified":1464295060,
+    "wof:name":"Hannaford",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.325772,
+    43.369839,
+    -72.325772,
+    43.369839
+],
+  "geometry": {"coordinates":[-72.325772,43.369839],"type":"Point"}
+}

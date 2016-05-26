@@ -1,0 +1,69 @@
+{
+  "id": 873672899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562342,44.364852,-71.562342,44.364852",
+    "geom:latitude":44.364852,
+    "geom:longitude":-71.562342,
+    "iso:country":"US",
+    "sg:address":"183 Colby Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 9459",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824449,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yq8Iy9kG2AEYGwD6h2B57_44.364852_-71.562342@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295829,
+    "wof:geomhash":"d392d01afcc105eaee14f8ab9c3af6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85824449,
+            "region_id":85688689,
+            "venue_id":873672899
+        }
+    ],
+    "wof:id":873672899,
+    "wof:lastmodified":1464295829,
+    "wof:name":"Mc Devitt Trucks Inc",
+    "wof:parent_id":85824449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.562342,
+    44.364852,
+    -71.562342,
+    44.364852
+],
+  "geometry": {"coordinates":[-71.562342,44.364852],"type":"Point"}
+}

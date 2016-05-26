@@ -1,0 +1,71 @@
+{
+  "id": 873603221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252429,43.601102,-71.252429,43.601102",
+    "geom:latitude":43.601102,
+    "geom:longitude":-71.252429,
+    "iso:country":"US",
+    "sg:address":"10 Piper Ln",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4422",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827921,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fznYtjyecHfsVLtcCjrPa_43.601102_-71.252429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295021,
+    "wof:geomhash":"76e789adaecc3e69c5df86be79b696e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85827921,
+            "region_id":85688689,
+            "venue_id":873603221
+        }
+    ],
+    "wof:id":873603221,
+    "wof:lastmodified":1464295021,
+    "wof:name":"Wildwood Improvement Co",
+    "wof:parent_id":85827921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.252429,
+    43.601102,
+    -71.252429,
+    43.601102
+],
+  "geometry": {"coordinates":[-71.25242900000001,43.601102],"type":"Point"}
+}

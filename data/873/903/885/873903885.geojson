@@ -1,0 +1,71 @@
+{
+  "id": 873903885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463753,43.533368,-71.463753,43.533368",
+    "geom:latitude":43.533368,
+    "geom:longitude":-71.463753,
+    "iso:country":"US",
+    "sg:address":"11 Wilson Ct",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4160",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zSp4YtVbFaywGW588zv7F_43.533368_-71.463753@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299894,
+    "wof:geomhash":"b8a3f576f8e23eed3ce13c51b9e0ac89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873903885
+        }
+    ],
+    "wof:id":873903885,
+    "wof:lastmodified":1464299894,
+    "wof:name":"Chassis Masters Auto Body",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.463753,
+    43.533368,
+    -71.463753,
+    43.533368
+],
+  "geometry": {"coordinates":[-71.463753,43.533368],"type":"Point"}
+}

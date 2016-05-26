@@ -1,0 +1,71 @@
+{
+  "id": 873629395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.296267,42.907306,-72.296267,42.907306",
+    "geom:latitude":42.907306,
+    "geom:longitude":-72.296267,
+    "iso:country":"US",
+    "sg:address":"44 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 3308",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ftBErRFzz5dYxs0RymaCh_42.907306_-72.296267@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295359,
+    "wof:geomhash":"c711451c0b2ebb9e15282f4bd1405460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873629395
+        }
+    ],
+    "wof:id":873629395,
+    "wof:lastmodified":1464295359,
+    "wof:name":"Amazing Storm Inc",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -72.296267,
+    42.907306,
+    -72.296267,
+    42.907306
+],
+  "geometry": {"coordinates":[-72.296267,42.907306],"type":"Point"}
+}

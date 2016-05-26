@@ -1,0 +1,71 @@
+{
+  "id": 873784619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.866629,43.138475,-71.866629,43.138475",
+    "geom:latitude":43.138475,
+    "geom:longitude":-71.866629,
+    "iso:country":"US",
+    "sg:address":"66 Bear Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3051",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kysiIjc53HIih95VtLPM8_43.138475_-71.866629@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297552,
+    "wof:geomhash":"967a27a887adf445fad87d62563f86c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873784619
+        }
+    ],
+    "wof:id":873784619,
+    "wof:lastmodified":1464297552,
+    "wof:name":"Broas Structural Design",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -71.866629,
+    43.138475,
+    -71.866629,
+    43.138475
+],
+  "geometry": {"coordinates":[-71.866629,43.138475],"type":"Point"}
+}

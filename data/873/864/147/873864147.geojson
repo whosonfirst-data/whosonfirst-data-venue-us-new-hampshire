@@ -1,0 +1,73 @@
+{
+  "id": 873864147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.873477,43.04887,-70.873477,43.04887",
+    "geom:latitude":43.04887,
+    "geom:longitude":-70.873477,
+    "iso:country":"US",
+    "sg:address":"411 Great Bay Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8573",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804915,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54vMzfikKw3lpf1gLrxJZA_43.048870_-70.873477@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299122,
+    "wof:geomhash":"2c0896f121834dbc2bbed080b4d50f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85804915,
+            "region_id":85688689,
+            "venue_id":873864147
+        }
+    ],
+    "wof:id":873864147,
+    "wof:lastmodified":1464299122,
+    "wof:name":"F H Bourassa Trucking",
+    "wof:parent_id":85804915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.873477,
+    43.04887,
+    -70.873477,
+    43.04887
+],
+  "geometry": {"coordinates":[-70.87347699999999,43.04887],"type":"Point"}
+}

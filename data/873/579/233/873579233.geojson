@@ -1,0 +1,71 @@
+{
+  "id": 873579233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.825318,43.045868,-70.825318,43.045868",
+    "geom:latitude":43.045868,
+    "geom:longitude":-70.825318,
+    "iso:country":"US",
+    "sg:address":"41 Fairway Dr",
+    "sg:city":"Hales Location",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6667",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20m7uj7yvi78pP1sjICO8v_43.045868_-70.825318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294708,
+    "wof:geomhash":"ad442a7e85ec466def3279e21eb4feaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873579233
+        }
+    ],
+    "wof:id":873579233,
+    "wof:lastmodified":1464294708,
+    "wof:name":"N H Aluminum Co Inc",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.825318,
+    43.045868,
+    -70.825318,
+    43.045868
+],
+  "geometry": {"coordinates":[-70.825318,43.045868],"type":"Point"}
+}

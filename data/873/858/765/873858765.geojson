@@ -1,0 +1,72 @@
+{
+  "id": 873858765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.872396,43.025245,-70.872396,43.025245",
+    "geom:latitude":43.025245,
+    "geom:longitude":-70.872396,
+    "iso:country":"US",
+    "sg:address":"9 Whittaker Dr",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 5174",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.mackenzieheatcool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGFnx6INYsf6Mo8pJghos_43.025245_-70.872396@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298987,
+    "wof:geomhash":"34d93f3daaa01e002eee46ce968e8614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873858765
+        }
+    ],
+    "wof:id":873858765,
+    "wof:lastmodified":1464298987,
+    "wof:name":"Mac Kenzie Heating & Cooling",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.872396,
+    43.025245,
+    -70.872396,
+    43.025245
+],
+  "geometry": {"coordinates":[-70.87239599999999,43.025245],"type":"Point"}
+}

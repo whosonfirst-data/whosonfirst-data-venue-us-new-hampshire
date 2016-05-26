@@ -1,0 +1,71 @@
+{
+  "id": 873595529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.711686,43.222178,-71.711686,43.222178",
+    "geom:latitude":43.222178,
+    "geom:longitude":-71.711686,
+    "iso:country":"US",
+    "sg:address":"815 Main St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 4043",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z5ihtknhjvnr4BI1gKEDM_43.222178_-71.711686@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294917,
+    "wof:geomhash":"3cce53d9ad90e141df05e5783f31c5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873595529
+        }
+    ],
+    "wof:id":873595529,
+    "wof:lastmodified":1464294917,
+    "wof:name":"Countryside Community Church",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.711686,
+    43.222178,
+    -71.711686,
+    43.222178
+],
+  "geometry": {"coordinates":[-71.711686,43.222178],"type":"Point"}
+}

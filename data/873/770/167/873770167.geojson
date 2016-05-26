@@ -1,0 +1,71 @@
+{
+  "id": 873770167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.320202,43.035042,-71.320202,43.035042",
+    "geom:latitude":43.035042,
+    "geom:longitude":-71.320202,
+    "iso:country":"US",
+    "sg:address":"92 Hook Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8884",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BK6B4vt0K4MYU8W77XD7a_43.035042_-71.320202@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297368,
+    "wof:geomhash":"04870a7d866e81eefaa83deb438eee13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873770167
+        }
+    ],
+    "wof:id":873770167,
+    "wof:lastmodified":1464297368,
+    "wof:name":"Action Well Svc",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.320202,
+    43.035042,
+    -71.320202,
+    43.035042
+],
+  "geometry": {"coordinates":[-71.32020199999999,43.035042],"type":"Point"}
+}

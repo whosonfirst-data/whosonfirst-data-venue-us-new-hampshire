@@ -1,0 +1,72 @@
+{
+  "id": 873929149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023766,42.814986,-72.023766,42.814986",
+    "geom:latitude":42.814986,
+    "geom:longitude":-72.023766,
+    "iso:country":"US",
+    "sg:address":"19 Main St Fl 1",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8800",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "seafood"
+    ],
+    "sg:website":"http://www.roysrestaurant.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EFQK9YrDGmVxP5UWGGRmf_42.814986_-72.023766@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300392,
+    "wof:geomhash":"0d9ac42e5950f1e07a4143d62a7edee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929149
+        }
+    ],
+    "wof:id":873929149,
+    "wof:lastmodified":1464300392,
+    "wof:name":"Roy's",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "seafood"
+    ]
+},
+  "bbox": [
+    -72.023766,
+    42.814986,
+    -72.023766,
+    42.814986
+],
+  "geometry": {"coordinates":[-72.02376599999999,42.814986],"type":"Point"}
+}

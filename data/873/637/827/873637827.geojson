@@ -1,0 +1,69 @@
+{
+  "id": 873637827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.266106,42.845683,-72.266106,42.845683",
+    "geom:latitude":42.845683,
+    "geom:longitude":-72.266106,
+    "iso:country":"US",
+    "sg:address":"160 South Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 1755",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GqDDgvMIN3KqdY4CNWA5O_42.845683_-72.266106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295453,
+    "wof:geomhash":"197a06723508690704aa0e1d846223d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873637827
+        }
+    ],
+    "wof:id":873637827,
+    "wof:lastmodified":1464295453,
+    "wof:name":"PJD Septic Svc",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.266106,
+    42.845683,
+    -72.266106,
+    42.845683
+],
+  "geometry": {"coordinates":[-72.26610599999999,42.845683],"type":"Point"}
+}

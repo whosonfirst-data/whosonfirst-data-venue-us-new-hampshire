@@ -1,0 +1,71 @@
+{
+  "id": 873640579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460232,43.548059,-71.460232,43.548059",
+    "geom:latitude":43.548059,
+    "geom:longitude":-71.460232,
+    "iso:country":"US",
+    "sg:address":"8 Manchester St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4239",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tBRPtvvtHNhpT6EApBI0y_43.548059_-71.460232@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295483,
+    "wof:geomhash":"2d1604c4f603f6883558b9841d7510a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873640579
+        }
+    ],
+    "wof:id":873640579,
+    "wof:lastmodified":1464295483,
+    "wof:name":"Dicks Mechanical & Elec Repr",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.460232,
+    43.548059,
+    -71.460232,
+    43.548059
+],
+  "geometry": {"coordinates":[-71.460232,43.548059],"type":"Point"}
+}

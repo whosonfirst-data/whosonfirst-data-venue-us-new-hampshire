@@ -1,0 +1,70 @@
+{
+  "id": 873872427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19413,44.396181,-71.19413,44.396181",
+    "geom:latitude":44.396181,
+    "geom:longitude":-71.19413,
+    "iso:country":"US",
+    "sg:address":"347 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5611",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.gorhamems.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gYboBOCcnIaZW75my8pWq_44.396181_-71.194130@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299284,
+    "wof:geomhash":"df3909155b368b30c70d4ae77fd39429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873872427
+        }
+    ],
+    "wof:id":873872427,
+    "wof:lastmodified":1464299284,
+    "wof:name":"Gorham Ambulance",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.19413,
+    44.396181,
+    -71.19413,
+    44.396181
+],
+  "geometry": {"coordinates":[-71.19413,44.396181],"type":"Point"}
+}

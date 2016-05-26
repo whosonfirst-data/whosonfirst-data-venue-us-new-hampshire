@@ -1,0 +1,73 @@
+{
+  "id": 873617361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.922716,42.989517,-71.922716,42.989517",
+    "geom:latitude":42.989517,
+    "geom:longitude":-71.922716,
+    "iso:country":"US",
+    "sg:address":"186 S Bennington Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 588 3215",
+    "sg:postcode":"03442",
+    "sg:province":"NH",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VY9NnrNWG7GJzRTMfaQO3_42.989517_-71.922716@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295218,
+    "wof:geomhash":"d1d59703a6c14ca35d7a9983b1933f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873617361
+        }
+    ],
+    "wof:id":873617361,
+    "wof:lastmodified":1464295218,
+    "wof:name":"Avery Well Drilling",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.922716,
+    42.989517,
+    -71.922716,
+    42.989517
+],
+  "geometry": {"coordinates":[-71.92271599999999,42.989517],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873886735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.890442,42.964002,-70.890442,42.964002",
+    "geom:latitude":42.964002,
+    "geom:longitude":-70.890442,
+    "iso:country":"US",
+    "sg:address":"1 Morrill St",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 758 1400",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85810127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ce4UqJxUMuYwKy3A7412y_42.964002_-70.890442@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299569,
+    "wof:geomhash":"deac3e5f5aef3dc65666a6602656fde4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85810127,
+            "region_id":85688689,
+            "venue_id":873886735
+        }
+    ],
+    "wof:id":873886735,
+    "wof:lastmodified":1464299569,
+    "wof:name":"Physician's Healthy Weight Ctr",
+    "wof:parent_id":85810127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -70.890442,
+    42.964002,
+    -70.890442,
+    42.964002
+],
+  "geometry": {"coordinates":[-70.89044199999999,42.964002],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873747305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.168419,43.040191,-71.168419,43.040191",
+    "geom:latitude":43.040191,
+    "geom:longitude":-71.168419,
+    "iso:country":"US",
+    "sg:address":"65 State Rte 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 9284",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4piN6Ot5iAFbv7TNH2mHhw_43.040191_-71.168419@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297042,
+    "wof:geomhash":"379d3727ab40c929352eff892a3a664c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873747305
+        }
+    ],
+    "wof:id":873747305,
+    "wof:lastmodified":1464297042,
+    "wof:name":"J & C Auto & Truck Repair",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.168419,
+    43.040191,
+    -71.168419,
+    43.040191
+],
+  "geometry": {"coordinates":[-71.168419,43.040191],"type":"Point"}
+}

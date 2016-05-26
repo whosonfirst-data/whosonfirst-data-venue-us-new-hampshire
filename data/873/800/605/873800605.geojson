@@ -1,0 +1,79 @@
+{
+  "id": 873800605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.042903,43.306764,-71.042903,43.306764",
+    "geom:latitude":43.306764,
+    "geom:longitude":-71.042903,
+    "iso:country":"US",
+    "sg:address":"100 Meaderboro Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 6424",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Eo3iJs5C8dgIBcAXD7FNf_43.306764_-71.042903@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297780,
+    "wof:geomhash":"4a58c7ac0988d0039241649c1eaba51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873800605
+        }
+    ],
+    "wof:id":873800605,
+    "wof:lastmodified":1464297780,
+    "wof:name":"Stillwater Kennels Inc",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.042903,
+    43.306764,
+    -71.042903,
+    43.306764
+],
+  "geometry": {"coordinates":[-71.042903,43.306764],"type":"Point"}
+}

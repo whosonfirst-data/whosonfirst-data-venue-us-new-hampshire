@@ -1,0 +1,75 @@
+{
+  "id": 873818575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687502,43.758811,-71.687502,43.758811",
+    "geom:latitude":43.758811,
+    "geom:longitude":-71.687502,
+    "iso:country":"US",
+    "sg:address":"117 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 5364",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BXQTXP4JodM5D1bEChLSm_43.758811_-71.687502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298090,
+    "wof:geomhash":"dc8d8c7dfcf6192f1d7d2778a0031a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873818575
+        }
+    ],
+    "wof:id":873818575,
+    "wof:lastmodified":1464298090,
+    "wof:name":"Moonlight Video",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.687502,
+    43.758811,
+    -71.687502,
+    43.758811
+],
+  "geometry": {"coordinates":[-71.68750199999999,43.758811],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873761685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.142562,43.812073,-71.142562,43.812073",
+    "geom:latitude":43.812073,
+    "geom:longitude":-71.142562,
+    "iso:country":"US",
+    "sg:address":"46 Gailan Dr",
+    "sg:city":"Freedom",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 226 4389",
+    "sg:postcode":"03836",
+    "sg:province":"NH",
+    "sg:tags":[
+        "camp",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AA2nS3BYPP4hWLqxkEHxh_43.812073_-71.142562@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297231,
+    "wof:geomhash":"29c3c0f7562bef25b55b3fa17fb80e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873761685
+        }
+    ],
+    "wof:id":873761685,
+    "wof:lastmodified":1464297231,
+    "wof:name":"Camp Cody For Boys",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.142562,
+    43.812073,
+    -71.142562,
+    43.812073
+],
+  "geometry": {"coordinates":[-71.142562,43.812073],"type":"Point"}
+}

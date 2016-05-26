@@ -1,0 +1,71 @@
+{
+  "id": 873563233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.235154,42.782331,-71.235154,42.782331",
+    "geom:latitude":42.782331,
+    "geom:longitude":-71.235154,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 0506",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ICwQHG0l8rbAPjgjwTTDw_42.782331_-71.235154@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294534,
+    "wof:geomhash":"7fe44821015585dc28c40cb3452f2428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873563233
+        }
+    ],
+    "wof:id":873563233,
+    "wof:lastmodified":1464294534,
+    "wof:name":"Kotzen & Sohl Pllc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -71.235154,
+    42.782331,
+    -71.235154,
+    42.782331
+],
+  "geometry": {"coordinates":[-71.23515399999999,42.782331],"type":"Point"}
+}

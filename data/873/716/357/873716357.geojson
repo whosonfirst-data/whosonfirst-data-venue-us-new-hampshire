@@ -1,0 +1,71 @@
+{
+  "id": 873716357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511772,43.190816,-71.511772,43.190816",
+    "geom:latitude":43.190816,
+    "geom:longitude":-71.511772,
+    "iso:country":"US",
+    "sg:address":"75 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 5181",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BX13IXZYBCECbMa1gxWWG_43.190816_-71.511772@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296598,
+    "wof:geomhash":"15cc229cbd780dec91c5e8bdf05934bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873716357
+        }
+    ],
+    "wof:id":873716357,
+    "wof:lastmodified":1464296598,
+    "wof:name":"Star Brake Service",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.511772,
+    43.190816,
+    -71.511772,
+    43.190816
+],
+  "geometry": {"coordinates":[-71.51177199999999,43.190816],"type":"Point"}
+}

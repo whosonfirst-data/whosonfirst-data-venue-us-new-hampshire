@@ -1,0 +1,71 @@
+{
+  "id": 873907931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450472,42.813835,-71.450472,42.813835",
+    "geom:latitude":42.813835,
+    "geom:longitude":-71.450472,
+    "iso:country":"US",
+    "sg:address":"100 Page Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 3446",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RdkORIebd7Nb1eVqrlSXK_42.813835_-71.450472@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299975,
+    "wof:geomhash":"3330ecaf8c6780ed0684bce15df0ffcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873907931
+        }
+    ],
+    "wof:id":873907931,
+    "wof:lastmodified":1464299975,
+    "wof:name":"Jackson Insulators Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.450472,
+    42.813835,
+    -71.450472,
+    42.813835
+],
+  "geometry": {"coordinates":[-71.450472,42.813835],"type":"Point"}
+}

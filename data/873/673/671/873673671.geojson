@@ -1,0 +1,71 @@
+{
+  "id": 873673671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.180589,42.910277,-72.180589,42.910277",
+    "geom:latitude":42.910277,
+    "geom:longitude":-72.180589,
+    "iso:country":"US",
+    "sg:address":"127 Old Chesham Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4442",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85810705,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c1runYykGyualpcwXzflM_42.910277_-72.180589@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295837,
+    "wof:geomhash":"cdcf62f88b621e5c3c06699504c7a522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85810705,
+            "region_id":85688689,
+            "venue_id":873673671
+        }
+    ],
+    "wof:id":873673671,
+    "wof:lastmodified":1464295837,
+    "wof:name":"Alex Electric Alarm",
+    "wof:parent_id":85810705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.180589,
+    42.910277,
+    -72.180589,
+    42.910277
+],
+  "geometry": {"coordinates":[-72.180589,42.910277],"type":"Point"}
+}

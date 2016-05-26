@@ -1,0 +1,73 @@
+{
+  "id": 873903787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.623362,43.399329,-71.623362,43.399329",
+    "geom:latitude":43.399329,
+    "geom:longitude":-71.623362,
+    "iso:country":"US",
+    "sg:address":"68 Shaw Rd",
+    "sg:city":"Tilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 4239",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "snowplowing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JM4OclFpAZ2dEAGjN4ISF_43.399329_-71.623362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299892,
+    "wof:geomhash":"4f33a6790c3bf2ba2cb94590523f96dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873903787
+        }
+    ],
+    "wof:id":873903787,
+    "wof:lastmodified":1464299892,
+    "wof:name":"Don Sarette Excavation Co",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "snowplowing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.623362,
+    43.399329,
+    -71.623362,
+    43.399329
+],
+  "geometry": {"coordinates":[-71.623362,43.399329],"type":"Point"}
+}

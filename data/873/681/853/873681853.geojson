@@ -1,0 +1,77 @@
+{
+  "id": 873681853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.989164,43.311081,-70.989164,43.311081",
+    "geom:latitude":43.311081,
+    "geom:longitude":-70.989164,
+    "iso:country":"US",
+    "sg:address":"8 McDuffee St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2447",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wveKqP3q29Y3VWX1ahpsw_43.311081_-70.989164@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296048,
+    "wof:geomhash":"17e35f3f195aac8d277c354c2f3cb45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873681853
+        }
+    ],
+    "wof:id":873681853,
+    "wof:lastmodified":1464296048,
+    "wof:name":"Gammon Plumbing & Heating",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.989164,
+    43.311081,
+    -70.989164,
+    43.311081
+],
+  "geometry": {"coordinates":[-70.989164,43.311081],"type":"Point"}
+}

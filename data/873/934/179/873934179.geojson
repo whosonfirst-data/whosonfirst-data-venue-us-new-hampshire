@@ -1,0 +1,95 @@
+{
+  "id": 873934179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.985087,43.303004,-70.985087,43.303004",
+    "geom:latitude":43.303004,
+    "geom:longitude":-70.985087,
+    "iso:country":"US",
+    "sg:address":"18 Sylvain St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 1575",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "fence",
+        "work",
+        "contractor",
+        "iron",
+        "fence-sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ovd5oYrOpz53WPBCjPXvZ_43.303004_-70.985087@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300483,
+    "wof:geomhash":"b3327e149c2ca984e76957927630ddc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873934179
+        }
+    ],
+    "wof:id":873934179,
+    "wof:lastmodified":1464300483,
+    "wof:name":"Supstair Falls Fence",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence",
+        "work",
+        "contractor",
+        "iron",
+        "fence-sales"
+    ]
+},
+  "bbox": [
+    -70.985087,
+    43.303004,
+    -70.985087,
+    43.303004
+],
+  "geometry": {"coordinates":[-70.98508699999999,43.303004],"type":"Point"}
+}

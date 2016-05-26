@@ -1,0 +1,71 @@
+{
+  "id": 873930605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.076218,43.996289,-71.076218,43.996289",
+    "geom:latitude":43.996289,
+    "geom:longitude":-71.076218,
+    "iso:country":"US",
+    "sg:address":"1590 E Main St",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 3211",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ta0TOere2nWYyKBMRmwGe_43.996289_-71.076218@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300422,
+    "wof:geomhash":"2c910f0b7347e235af06695b84edd4b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930605
+        }
+    ],
+    "wof:id":873930605,
+    "wof:lastmodified":1464300422,
+    "wof:name":"Conway Pet Boarding & Grooming",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.076218,
+    43.996289,
+    -71.076218,
+    43.996289
+],
+  "geometry": {"coordinates":[-71.076218,43.996289],"type":"Point"}
+}

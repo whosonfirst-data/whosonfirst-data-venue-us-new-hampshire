@@ -1,0 +1,75 @@
+{
+  "id": 873831095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462051,42.982449,-71.462051,42.982449",
+    "geom:latitude":42.982449,
+    "geom:longitude":-71.462051,
+    "iso:country":"US",
+    "sg:address":"512 Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 8222",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DPNdSRL0ij3ZUegQrbM44_42.982449_-71.462051@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298352,
+    "wof:geomhash":"bbce3f6b4738ccdfffe95272d0b9173b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873831095
+        }
+    ],
+    "wof:id":873831095,
+    "wof:lastmodified":1464298352,
+    "wof:name":"Import Connections",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.462051,
+    42.982449,
+    -71.462051,
+    42.982449
+],
+  "geometry": {"coordinates":[-71.462051,42.982449],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873830419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261486,43.220562,-71.261486,43.220562",
+    "geom:latitude":43.220562,
+    "geom:longitude":-71.261486,
+    "iso:country":"US",
+    "sg:address":"12 Sawyer Ln",
+    "sg:city":"Wentworth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 786 2757",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manufacture",
+        "system",
+        "high",
+        "bike",
+        "motorcycle",
+        "security",
+        "rack"
+    ],
+    "sg:website":"www.bikeracks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LMONbHOiviRdkEva8kVXu_43.220562_-71.261486@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298338,
+    "wof:geomhash":"7d9d0f9a6ffb774f4156a980164146bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873830419
+        }
+    ],
+    "wof:id":873830419,
+    "wof:lastmodified":1464298338,
+    "wof:name":"Bike Security Racks Company",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "system",
+        "high",
+        "bike",
+        "motorcycle",
+        "security",
+        "rack"
+    ]
+},
+  "bbox": [
+    -71.261486,
+    43.220562,
+    -71.261486,
+    43.220562
+],
+  "geometry": {"coordinates":[-71.261486,43.220562],"type":"Point"}
+}

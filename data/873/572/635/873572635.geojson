@@ -1,0 +1,75 @@
+{
+  "id": 873572635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.938439,43.074183,-70.938439,43.074183",
+    "geom:latitude":43.074183,
+    "geom:longitude":-70.938439,
+    "iso:country":"US",
+    "sg:address":"44 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 5013",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OODxlGH3A2kKjts7lEcdD_43.074183_-70.938439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294638,
+    "wof:geomhash":"ebb2f48d757a70c963c8434ff8eb7e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873572635
+        }
+    ],
+    "wof:id":873572635,
+    "wof:lastmodified":1464294638,
+    "wof:name":"Movie Stop",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -70.938439,
+    43.074183,
+    -70.938439,
+    43.074183
+],
+  "geometry": {"coordinates":[-70.938439,43.074183],"type":"Point"}
+}

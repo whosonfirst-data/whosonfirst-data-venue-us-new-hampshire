@@ -1,0 +1,78 @@
+{
+  "id": 873919105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459639,42.990953,-71.459639,42.990953",
+    "geom:latitude":42.990953,
+    "geom:longitude":-71.459639,
+    "iso:country":"US",
+    "sg:address":"149 Hanover St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39811-hanover-street-chophouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 2467",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5adSv9IbcFtfuWnlymA4ER_42.990881_-71.460002@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300196,
+    "wof:geomhash":"a4005f3e2fa4ccacb2ccb79c5528e62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873919105
+        }
+    ],
+    "wof:id":873919105,
+    "wof:lastmodified":1464300196,
+    "wof:name":"Hanover Street Chophouse",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.459639,
+    42.990953,
+    -71.459639,
+    42.990953
+],
+  "geometry": {"coordinates":[-71.459639,42.990953],"type":"Point"}
+}

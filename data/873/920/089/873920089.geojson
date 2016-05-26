@@ -1,0 +1,71 @@
+{
+  "id": 873920089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.255501,43.074402,-71.255501,43.074402",
+    "geom:latitude":43.074402,
+    "geom:longitude":-71.255501,
+    "iso:country":"US",
+    "sg:address":"13 Deer Run Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5097",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M5nfMA1I70Y4zZWOR3Xbo_43.074402_-71.255501@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300213,
+    "wof:geomhash":"5c4ed73cfc673c719c879eb35d625f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873920089
+        }
+    ],
+    "wof:id":873920089,
+    "wof:lastmodified":1464300213,
+    "wof:name":"Cuttingedge Industries",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.255501,
+    43.074402,
+    -71.255501,
+    43.074402
+],
+  "geometry": {"coordinates":[-71.255501,43.074402],"type":"Point"}
+}

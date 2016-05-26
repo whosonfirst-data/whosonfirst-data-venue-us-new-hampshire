@@ -1,0 +1,88 @@
+{
+  "id": 873625357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252187,42.779759,-71.252187,42.779759",
+    "geom:latitude":42.779759,
+    "geom:longitude":-71.252187,
+    "iso:country":"US",
+    "sg:address":"12 Industrial Way",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 6170",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consulting",
+        "mfg",
+        "component",
+        "re",
+        "frequency",
+        "radio",
+        "establishment",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48PRxMONsX8NkVlj4Ct15q_42.779759_-71.252187@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295314,
+    "wof:geomhash":"6592b53024cb64c4517ca46f284a19e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873625357
+        }
+    ],
+    "wof:id":873625357,
+    "wof:lastmodified":1464295314,
+    "wof:name":"Haigh-Farr Inc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "mfg",
+        "component",
+        "re",
+        "frequency",
+        "radio",
+        "establishment",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.252187,
+    42.779759,
+    -71.252187,
+    42.779759
+],
+  "geometry": {"coordinates":[-71.25218700000001,42.779759],"type":"Point"}
+}

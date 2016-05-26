@@ -1,0 +1,99 @@
+{
+  "id": 873930083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.793884,43.094039,-70.793884,43.094039",
+    "geom:latitude":43.094039,
+    "geom:longitude":-70.793884,
+    "iso:country":"US",
+    "sg:address":"1981 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 427 6866",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kq75QCyj3oepLEWcYin59_43.094039_-70.793884@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300411,
+    "wof:geomhash":"cf4a3402384daf679825fdd36c706821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873930083
+        }
+    ],
+    "wof:id":873930083,
+    "wof:lastmodified":1464300411,
+    "wof:name":"AT&T",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ]
+},
+  "bbox": [
+    -70.793884,
+    43.094039,
+    -70.793884,
+    43.094039
+],
+  "geometry": {"coordinates":[-70.79388400000001,43.094039],"type":"Point"}
+}

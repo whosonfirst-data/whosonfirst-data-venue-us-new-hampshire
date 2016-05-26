@@ -1,0 +1,73 @@
+{
+  "id": 873870539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.809937,43.201253,-71.809937,43.201253",
+    "geom:latitude":43.201253,
+    "geom:longitude":-71.809937,
+    "iso:country":"US",
+    "sg:address":"31 Shore Dr",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 4258",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20XkAyeIzAsTjVkIg3J7tK_43.201253_-71.809937@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299234,
+    "wof:geomhash":"87d59fd736f34b517ae90f87664720cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873870539
+        }
+    ],
+    "wof:id":873870539,
+    "wof:lastmodified":1464299234,
+    "wof:name":"Terra Design",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.809937,
+    43.201253,
+    -71.809937,
+    43.201253
+],
+  "geometry": {"coordinates":[-71.80993700000001,43.201253],"type":"Point"}
+}

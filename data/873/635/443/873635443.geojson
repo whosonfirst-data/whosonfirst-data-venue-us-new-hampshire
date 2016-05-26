@@ -1,0 +1,79 @@
+{
+  "id": 873635443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.654295,42.803925,-71.654295,42.803925",
+    "geom:latitude":42.803925,
+    "geom:longitude":-71.654295,
+    "iso:country":"US",
+    "sg:address":"375 Melendy Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 5365",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w2oaXy32o2lcO3OGR9vuM_42.803925_-71.654295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295427,
+    "wof:geomhash":"a9d1d32407fad981bd0263eb0ae7c7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873635443
+        }
+    ],
+    "wof:id":873635443,
+    "wof:lastmodified":1464295427,
+    "wof:name":"Albert G Hart",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.654295,
+    42.803925,
+    -71.654295,
+    42.803925
+],
+  "geometry": {"coordinates":[-71.654295,42.803925],"type":"Point"}
+}

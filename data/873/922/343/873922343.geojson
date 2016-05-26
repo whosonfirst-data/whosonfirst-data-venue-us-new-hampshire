@@ -1,0 +1,82 @@
+{
+  "id": 873922343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527133,42.876869,-71.527133,42.876869",
+    "geom:latitude":42.876869,
+    "geom:longitude":-71.527133,
+    "iso:country":"US",
+    "sg:address":"29 Patten Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3812",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "supply",
+        "tanks-treatment",
+        "septic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35MzdDXtk643aBnQhG7aeC_42.876869_-71.527133@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300259,
+    "wof:geomhash":"39dc6fbf44d53a774423ae325787567b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873922343
+        }
+    ],
+    "wof:id":873922343,
+    "wof:lastmodified":1464300259,
+    "wof:name":"Tom Howe Septic Systems",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "supply",
+        "tanks-treatment",
+        "septic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.527133,
+    42.876869,
+    -71.527133,
+    42.876869
+],
+  "geometry": {"coordinates":[-71.52713300000001,42.876869],"type":"Point"}
+}

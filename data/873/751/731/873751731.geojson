@@ -1,0 +1,75 @@
+{
+  "id": 873751731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475359,42.986455,-71.475359,42.986455",
+    "geom:latitude":42.986455,
+    "geom:longitude":-71.475359,
+    "iso:country":"US",
+    "sg:address":"70 Notre Dame Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 621 9879",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ifjqyvy8XMfmFXIX90EYa_42.986455_-71.475359@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297097,
+    "wof:geomhash":"8549017cb9b99d3baf32b787145e28a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873751731
+        }
+    ],
+    "wof:id":873751731,
+    "wof:lastmodified":1464297097,
+    "wof:name":"B2 Cleaning Service",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.475359,
+    42.986455,
+    -71.475359,
+    42.986455
+],
+  "geometry": {"coordinates":[-71.475359,42.986455],"type":"Point"}
+}

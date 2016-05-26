@@ -1,0 +1,87 @@
+{
+  "id": 873923331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445375,42.762819,-71.445375,42.762819",
+    "geom:latitude":42.762819,
+    "geom:longitude":-71.445375,
+    "iso:country":"US",
+    "sg:address":"171 E Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 1550",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "system",
+        "equipment",
+        "heating",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.totalairsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32po7S8KVx1or5H398azuE_42.762819_-71.445375@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300277,
+    "wof:geomhash":"977a266b707f601856e6bc3a6e28d96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873923331
+        }
+    ],
+    "wof:id":873923331,
+    "wof:lastmodified":1464300277,
+    "wof:name":"Total Air Supply",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "equipment",
+        "heating",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.445375,
+    42.762819,
+    -71.445375,
+    42.762819
+],
+  "geometry": {"coordinates":[-71.445375,42.762819],"type":"Point"}
+}

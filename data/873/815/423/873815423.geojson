@@ -1,0 +1,71 @@
+{
+  "id": 873815423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.927799,42.991627,-70.927799,42.991627",
+    "geom:latitude":42.991627,
+    "geom:longitude":-70.927799,
+    "iso:country":"US",
+    "sg:address":"3 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 3132",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FGwfFYakne4IzhIGHiTHb_42.991627_-70.927799@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298021,
+    "wof:geomhash":"855a6930f09ec114b0b95eb98296faec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873815423
+        }
+    ],
+    "wof:id":873815423,
+    "wof:lastmodified":1464298021,
+    "wof:name":"Automobile Super Store",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.927799,
+    42.991627,
+    -70.927799,
+    42.991627
+],
+  "geometry": {"coordinates":[-70.92779899999999,42.991627],"type":"Point"}
+}

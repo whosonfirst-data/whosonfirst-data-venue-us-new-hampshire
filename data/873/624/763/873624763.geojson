@@ -1,0 +1,73 @@
+{
+  "id": 873624763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.707432,43.204623,-71.707432,43.204623",
+    "geom:latitude":43.204623,
+    "geom:longitude":-71.707432,
+    "iso:country":"US",
+    "sg:address":"662 Maple St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 5050",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bhAd0uybWXV0KBpSJybVH_43.204623_-71.707432@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295309,
+    "wof:geomhash":"4a636c2dcd59f769141502090c8f82d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873624763
+        }
+    ],
+    "wof:id":873624763,
+    "wof:lastmodified":1464295309,
+    "wof:name":"Apple Tree Animal Hospital",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.707432,
+    43.204623,
+    -71.707432,
+    43.204623
+],
+  "geometry": {"coordinates":[-71.707432,43.204623],"type":"Point"}
+}

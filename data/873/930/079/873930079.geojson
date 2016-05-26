@@ -1,0 +1,83 @@
+{
+  "id": 873930079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.793241,43.074224,-70.793241,43.074224",
+    "geom:latitude":43.074224,
+    "geom:longitude":-70.793241,
+    "iso:country":"US",
+    "sg:address":"231 Corporate Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 2831",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational",
+        "college"
+    ],
+    "sg:website":"http://snhu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833399,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_270gBFNNHf3aRnvkWfZaWw_43.074224_-70.793241@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300411,
+    "wof:geomhash":"83c1dd178949af7bdcaca4ccc3d8d3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85833399,
+            "region_id":85688689,
+            "venue_id":873930079
+        }
+    ],
+    "wof:id":873930079,
+    "wof:lastmodified":1464300411,
+    "wof:name":"Southern New Hampshire University",
+    "wof:parent_id":85833399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "college"
+    ]
+},
+  "bbox": [
+    -70.793241,
+    43.074224,
+    -70.793241,
+    43.074224
+],
+  "geometry": {"coordinates":[-70.79324099999999,43.074224],"type":"Point"}
+}

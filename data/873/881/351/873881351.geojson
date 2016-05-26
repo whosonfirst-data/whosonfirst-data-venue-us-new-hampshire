@@ -1,0 +1,73 @@
+{
+  "id": 873881351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.824601,43.040037,-70.824601,43.040037",
+    "geom:latitude":43.040037,
+    "geom:longitude":-70.824601,
+    "iso:country":"US",
+    "sg:address":"43 Alden Ave",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 427 1055",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gUG8VOyTkU33C61vVJpdD_43.040037_-70.824601@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299457,
+    "wof:geomhash":"1d7b93394ff1b95fdf60c5876bb1b2af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873881351
+        }
+    ],
+    "wof:id":873881351,
+    "wof:lastmodified":1464299457,
+    "wof:name":"Greenland Auto Body",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.824601,
+    43.040037,
+    -70.824601,
+    43.040037
+],
+  "geometry": {"coordinates":[-70.824601,43.040037],"type":"Point"}
+}

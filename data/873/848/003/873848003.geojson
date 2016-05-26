@@ -1,0 +1,71 @@
+{
+  "id": 873848003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.146974,42.836438,-71.146974,42.836438",
+    "geom:latitude":42.836438,
+    "geom:longitude":-71.146974,
+    "iso:country":"US",
+    "sg:address":"88 Main St",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5613",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sn3bZ0ykPmGgG6iSSGQu7_42.836438_-71.146974@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298770,
+    "wof:geomhash":"1c2a3349e21e49db8f51e337dc3654ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873848003
+        }
+    ],
+    "wof:id":873848003,
+    "wof:lastmodified":1464298770,
+    "wof:name":"Dan Kimball",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -71.146974,
+    42.836438,
+    -71.146974,
+    42.836438
+],
+  "geometry": {"coordinates":[-71.146974,42.836438],"type":"Point"}
+}

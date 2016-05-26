@@ -1,0 +1,69 @@
+{
+  "id": 873844347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.923951,42.993786,-70.923951,42.993786",
+    "geom:latitude":42.993786,
+    "geom:longitude":-70.923951,
+    "iso:country":"US",
+    "sg:address":"10 Stratham Heights Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 9335",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27loBraRtIIWQZzdGv6UU9_42.993786_-70.923951@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298667,
+    "wof:geomhash":"cd04a2d18f6424d4d96182886922cb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873844347
+        }
+    ],
+    "wof:id":873844347,
+    "wof:lastmodified":1464298667,
+    "wof:name":"Exeter Veterinary Hospital",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -70.923951,
+    42.993786,
+    -70.923951,
+    42.993786
+],
+  "geometry": {"coordinates":[-70.923951,42.993786],"type":"Point"}
+}

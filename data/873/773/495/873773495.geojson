@@ -1,0 +1,69 @@
+{
+  "id": 873773495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.150703,43.047096,-71.150703,43.047096",
+    "geom:latitude":43.047096,
+    "geom:longitude":-71.150703,
+    "iso:country":"US",
+    "sg:address":"20 Ham Rd",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2061",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h0C3ZSTSbYAoEcid7Ljb4_43.047096_-71.150703@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297407,
+    "wof:geomhash":"8cdceb156bc4ce6dfcbee861803dafb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873773495
+        }
+    ],
+    "wof:id":873773495,
+    "wof:lastmodified":1464297407,
+    "wof:name":"Willette Welding & Fabrication",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.150703,
+    43.047096,
+    -71.150703,
+    43.047096
+],
+  "geometry": {"coordinates":[-71.15070299999999,43.047096],"type":"Point"}
+}

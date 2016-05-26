@@ -1,0 +1,71 @@
+{
+  "id": 873712129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535333,43.182783,-71.535333,43.182783",
+    "geom:latitude":43.182783,
+    "geom:longitude":-71.535333,
+    "iso:country":"US",
+    "sg:address":"26 Rockingham St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 9138",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zocFQOQ2Ir5eM7UjQ6QTt_43.182783_-71.535333@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296546,
+    "wof:geomhash":"8ea1fc85c49836afcdf954c863c66dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873712129
+        }
+    ],
+    "wof:id":873712129,
+    "wof:lastmodified":1464296546,
+    "wof:name":"CMH Gymnastics",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -71.535333,
+    43.182783,
+    -71.535333,
+    43.182783
+],
+  "geometry": {"coordinates":[-71.53533299999999,43.182783],"type":"Point"}
+}

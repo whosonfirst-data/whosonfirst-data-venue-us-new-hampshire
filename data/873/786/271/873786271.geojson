@@ -1,0 +1,71 @@
+{
+  "id": 873786271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517106,42.932721,-71.517106,42.932721",
+    "geom:latitude":42.932721,
+    "geom:longitude":-71.517106,
+    "iso:country":"US",
+    "sg:address":"16 Jefferson Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 9273",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YcRz4loubLvFrXZlaVu1z_42.932721_-71.517106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297575,
+    "wof:geomhash":"b11a8ae958ebeb6b944c150c60dec8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873786271
+        }
+    ],
+    "wof:id":873786271,
+    "wof:lastmodified":1464297575,
+    "wof:name":"Champion Property Svc",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.517106,
+    42.932721,
+    -71.517106,
+    42.932721
+],
+  "geometry": {"coordinates":[-71.517106,42.932721],"type":"Point"}
+}

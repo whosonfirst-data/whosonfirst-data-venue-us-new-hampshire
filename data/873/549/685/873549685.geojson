@@ -1,0 +1,71 @@
+{
+  "id": 873549685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532886,43.264633,-71.532886,43.264633",
+    "geom:latitude":43.264633,
+    "geom:longitude":-71.532886,
+    "iso:country":"US",
+    "sg:address":"131 Shaker Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 3886",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dMsUipztiQwBDKHAMUgk0_43.264633_-71.532886@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294374,
+    "wof:geomhash":"8dff6e0a9eec92a56b7b49c799fe62e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873549685
+        }
+    ],
+    "wof:id":873549685,
+    "wof:lastmodified":1464294374,
+    "wof:name":"Hicks Properties LLC",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.532886,
+    43.264633,
+    -71.532886,
+    43.264633
+],
+  "geometry": {"coordinates":[-71.532886,43.264633],"type":"Point"}
+}

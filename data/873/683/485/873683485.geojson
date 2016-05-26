@@ -1,0 +1,75 @@
+{
+  "id": 873683485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.833604,42.956534,-70.833604,42.956534",
+    "geom:latitude":42.956534,
+    "geom:longitude":-70.833604,
+    "iso:country":"US",
+    "sg:address":"892 Lafayette Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 9111",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Gf7eCtD5ZWfhqJjYnBVq_42.956534_-70.833604@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296094,
+    "wof:geomhash":"8bd01f578f17e6626eeb7da8705938be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873683485
+        }
+    ],
+    "wof:id":873683485,
+    "wof:lastmodified":1464296094,
+    "wof:name":"Seaside Grooming",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -70.833604,
+    42.956534,
+    -70.833604,
+    42.956534
+],
+  "geometry": {"coordinates":[-70.83360399999999,42.956534],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873839021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47019,43.525513,-71.47019,43.525513",
+    "geom:latitude":43.525513,
+    "geom:longitude":-71.47019,
+    "iso:country":"US",
+    "sg:address":"36 Rowe Ct",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3031",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mCEy3lu3Vd2ztBmQVNFQQ_43.525513_-71.470190@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298526,
+    "wof:geomhash":"03f983861a759d4d26b56bdd6b96f7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873839021
+        }
+    ],
+    "wof:id":873839021,
+    "wof:lastmodified":1464298526,
+    "wof:name":"Goulet Supply",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.47019,
+    43.525513,
+    -71.47019,
+    43.525513
+],
+  "geometry": {"coordinates":[-71.47019,43.525513],"type":"Point"}
+}

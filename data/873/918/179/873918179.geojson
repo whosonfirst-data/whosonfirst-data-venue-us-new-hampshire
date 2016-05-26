@@ -1,0 +1,80 @@
+{
+  "id": 873918179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.80387,44.304258,-71.80387,44.304258",
+    "geom:latitude":44.304258,
+    "geom:longitude":-71.80387,
+    "iso:country":"US",
+    "sg:address":"687 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/littleton/222734-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 7999",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eZpwTOrZcfimWZQSNW5E3_44.304258_-71.803870@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300180,
+    "wof:geomhash":"19ef257647d8f7e9530b392bdc2fd845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873918179
+        }
+    ],
+    "wof:id":873918179,
+    "wof:lastmodified":1464300180,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -71.80387,
+    44.304258,
+    -71.80387,
+    44.304258
+],
+  "geometry": {"coordinates":[-71.80387,44.304258],"type":"Point"}
+}

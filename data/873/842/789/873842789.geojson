@@ -1,0 +1,77 @@
+{
+  "id": 873842789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.65157,42.833848,-71.65157,42.833848",
+    "geom:latitude":42.833848,
+    "geom:longitude":-71.65157,
+    "iso:country":"US",
+    "sg:address":"5 Union St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 1521",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LDutO6q9lzenqnzXUKdsH_42.833848_-71.651570@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298628,
+    "wof:geomhash":"8793eaaa6b42dc55a5011d39eb09cfd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873842789
+        }
+    ],
+    "wof:id":873842789,
+    "wof:lastmodified":1464298628,
+    "wof:name":"Community House",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.65157,
+    42.833848,
+    -71.65157,
+    42.833848
+],
+  "geometry": {"coordinates":[-71.65157000000001,42.833848],"type":"Point"}
+}

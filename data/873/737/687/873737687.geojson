@@ -1,0 +1,73 @@
+{
+  "id": 873737687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404088,43.167996,-71.404088,43.167996",
+    "geom:latitude":43.167996,
+    "geom:longitude":-71.404088,
+    "iso:country":"US",
+    "sg:address":"734 State Rte 28",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 1010",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DNLlZ0NiUOeZCVgIw0yxM_43.167996_-71.404088@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296891,
+    "wof:geomhash":"18c7636a9d99d84dc413732223787301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873737687
+        }
+    ],
+    "wof:id":873737687,
+    "wof:lastmodified":1464296891,
+    "wof:name":"Phillips Brothers Contractors",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.404088,
+    43.167996,
+    -71.404088,
+    43.167996
+],
+  "geometry": {"coordinates":[-71.404088,43.167996],"type":"Point"}
+}

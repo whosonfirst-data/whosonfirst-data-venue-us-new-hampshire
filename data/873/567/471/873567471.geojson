@@ -1,0 +1,71 @@
+{
+  "id": 873567471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.576964,42.803657,-71.576964,42.803657",
+    "geom:latitude":42.803657,
+    "geom:longitude":-71.576964,
+    "iso:country":"US",
+    "sg:address":"6 Manhattan Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 0916",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39TJjcqQ8MgKN3jjk34Vij_42.803657_-71.576964@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294581,
+    "wof:geomhash":"8b79c32668715c0ee992f91458039253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873567471
+        }
+    ],
+    "wof:id":873567471,
+    "wof:lastmodified":1464294581,
+    "wof:name":"Gauthier Brothers Concrete",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.576964,
+    42.803657,
+    -71.576964,
+    42.803657
+],
+  "geometry": {"coordinates":[-71.576964,42.803657],"type":"Point"}
+}

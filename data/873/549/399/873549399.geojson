@@ -1,0 +1,69 @@
+{
+  "id": 873549399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.210045,42.905626,-72.210045,42.905626",
+    "geom:latitude":42.905626,
+    "geom:longitude":-72.210045,
+    "iso:country":"US",
+    "sg:address":"149 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3382",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32hUrhi20rNKt5BPXcokob_42.905626_-72.210045@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294371,
+    "wof:geomhash":"c9094acb6595b890491308a256e4194a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873549399
+        }
+    ],
+    "wof:id":873549399,
+    "wof:lastmodified":1464294371,
+    "wof:name":"Marl-Harris Ambulance Squad",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -72.210045,
+    42.905626,
+    -72.210045,
+    42.905626
+],
+  "geometry": {"coordinates":[-72.21004499999999,42.905626],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873834601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471434,43.529917,-71.471434,43.529917",
+    "geom:latitude":43.529917,
+    "geom:longitude":-71.471434,
+    "iso:country":"US",
+    "sg:address":"719 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 8721",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XOFJphtxAih8yiVy4drhC_43.529917_-71.471434@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298435,
+    "wof:geomhash":"1702ac66261d53b9410df35bc8c23aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873834601
+        }
+    ],
+    "wof:id":873834601,
+    "wof:lastmodified":1464298435,
+    "wof:name":"US Forestry Dept",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -71.471434,
+    43.529917,
+    -71.471434,
+    43.529917
+],
+  "geometry": {"coordinates":[-71.471434,43.529917],"type":"Point"}
+}

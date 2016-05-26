@@ -1,0 +1,69 @@
+{
+  "id": 873802949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.24474,42.810221,-71.24474,42.810221",
+    "geom:latitude":42.810221,
+    "geom:longitude":-71.24474,
+    "iso:country":"US",
+    "sg:address":"31 Harris Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 7720",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdDbcga0uFDmgRlt7TwSu_42.810221_-71.244740@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297809,
+    "wof:geomhash":"87964dc8eff0fd6c96bb8039b99b6b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873802949
+        }
+    ],
+    "wof:id":873802949,
+    "wof:lastmodified":1464297809,
+    "wof:name":"Myette Plumbing & Heating",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.24474,
+    42.810221,
+    -71.24474,
+    42.810221
+],
+  "geometry": {"coordinates":[-71.24473999999999,42.810221],"type":"Point"}
+}

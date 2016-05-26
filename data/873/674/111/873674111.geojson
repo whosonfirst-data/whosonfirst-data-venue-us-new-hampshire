@@ -1,0 +1,69 @@
+{
+  "id": 873674111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.735617,43.639575,-71.735617,43.639575",
+    "geom:latitude":43.639575,
+    "geom:longitude":-71.735617,
+    "iso:country":"US",
+    "sg:address":"408 Mayhew Tpke",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 8616",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UsBK6tk88wrITIViBsRS9_43.639575_-71.735617@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295844,
+    "wof:geomhash":"c4a2d2e3687fe09ea688a8ec9db1adfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873674111
+        }
+    ],
+    "wof:id":873674111,
+    "wof:lastmodified":1464295844,
+    "wof:name":"Newfound Grocery",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.735617,
+    43.639575,
+    -71.735617,
+    43.639575
+],
+  "geometry": {"coordinates":[-71.735617,43.639575],"type":"Point"}
+}

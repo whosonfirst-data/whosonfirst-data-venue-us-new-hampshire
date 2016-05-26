@@ -1,0 +1,72 @@
+{
+  "id": 873917737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543374,43.62368,-71.543374,43.62368",
+    "geom:latitude":43.62368,
+    "geom:longitude":-71.543374,
+    "iso:country":"US",
+    "sg:address":"325 Nh Route 104",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/meredith/129604-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 5300",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4njkVq75kH1BuuVa7iDYpz_43.623680_-71.543374@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300173,
+    "wof:geomhash":"0c4b91727266aad6995ca4adf68bb01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873917737
+        }
+    ],
+    "wof:id":873917737,
+    "wof:lastmodified":1464300173,
+    "wof:name":"Subway",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.543374,
+    43.62368,
+    -71.543374,
+    43.62368
+],
+  "geometry": {"coordinates":[-71.543374,43.62368],"type":"Point"}
+}

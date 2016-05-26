@@ -1,0 +1,73 @@
+{
+  "id": 873874425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.180148,44.469976,-71.180148,44.469976",
+    "geom:latitude":44.469976,
+    "geom:longitude":-71.180148,
+    "iso:country":"US",
+    "sg:address":"156 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4743",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "material",
+        "artist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gyibQ0exc6Xe08LJ7nhoI_44.469976_-71.180148@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299324,
+    "wof:geomhash":"185c3915e5f5fc577add2ca193379309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873874425
+        }
+    ],
+    "wof:id":873874425,
+    "wof:lastmodified":1464299324,
+    "wof:name":"David Lee Mountain Art Studio",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "artist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.180148,
+    44.469976,
+    -71.180148,
+    44.469976
+],
+  "geometry": {"coordinates":[-71.180148,44.469976],"type":"Point"}
+}

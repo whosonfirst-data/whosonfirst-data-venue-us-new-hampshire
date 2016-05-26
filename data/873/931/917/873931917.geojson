@@ -1,0 +1,85 @@
+{
+  "id": 873931917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.812067,43.009052,-70.812067,43.009052",
+    "geom:latitude":43.009052,
+    "geom:longitude":-70.812067,
+    "iso:country":"US",
+    "sg:address":"463 Breakfast Hill Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 2250",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "mental",
+        "surgeons",
+        "psychologist",
+        "neurology",
+        "surgeon"
+    ],
+    "sg:website":"http://www.seacoastmentalhealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yPwT65GvmHTDKwFiPKOHm_43.009052_-70.812067@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300445,
+    "wof:geomhash":"b5827ca34d4695a982e592fb04fc0a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873931917
+        }
+    ],
+    "wof:id":873931917,
+    "wof:lastmodified":1464300445,
+    "wof:name":"Fairweather Lodge",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "mental",
+        "surgeons",
+        "psychologist",
+        "neurology",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.812067,
+    43.009052,
+    -70.812067,
+    43.009052
+],
+  "geometry": {"coordinates":[-70.812067,43.009052],"type":"Point"}
+}

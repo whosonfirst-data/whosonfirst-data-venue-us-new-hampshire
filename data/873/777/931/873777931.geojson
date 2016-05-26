@@ -1,0 +1,73 @@
+{
+  "id": 873777931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460575,43.53354,-71.460575,43.53354",
+    "geom:latitude":43.53354,
+    "geom:longitude":-71.460575,
+    "iso:country":"US",
+    "sg:address":"9 Isabella St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3317",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AtYcj0gsTtGV380YWotKs_43.533540_-71.460575@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297463,
+    "wof:geomhash":"555535155d9bc87f9bbaa342e25fb1fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873777931
+        }
+    ],
+    "wof:id":873777931,
+    "wof:lastmodified":1464297463,
+    "wof:name":"C & J Drywall & Plaster LLC",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.460575,
+    43.53354,
+    -71.460575,
+    43.53354
+],
+  "geometry": {"coordinates":[-71.46057500000001,43.53354],"type":"Point"}
+}

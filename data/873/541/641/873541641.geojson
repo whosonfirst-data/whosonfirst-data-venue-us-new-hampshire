@@ -1,0 +1,75 @@
+{
+  "id": 873541641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545037,44.469312,-71.545037,44.469312",
+    "geom:latitude":44.469312,
+    "geom:longitude":-71.545037,
+    "iso:country":"US",
+    "sg:address":"10 Roger's Campground Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4885",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:website":"www.rogerscampground.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199,
+        85822519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lfu9p6iXRbBGhsdNYMw2b_44.469312_-71.545037@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294277,
+    "wof:geomhash":"3f08f2d49a2f180f6ce0288d348f53fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873541641
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85822519,
+            "region_id":85688689,
+            "venue_id":873541641
+        }
+    ],
+    "wof:id":873541641,
+    "wof:lastmodified":1464294277,
+    "wof:name":"Roger's Campground",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.545037,
+    44.469312,
+    -71.545037,
+    44.469312
+],
+  "geometry": {"coordinates":[-71.54503699999999,44.469312],"type":"Point"}
+}

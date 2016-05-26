@@ -1,0 +1,71 @@
+{
+  "id": 873866067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.72854,43.233667,-71.72854,43.233667",
+    "geom:latitude":43.233667,
+    "geom:longitude":-71.72854,
+    "iso:country":"US",
+    "sg:address":"525 Kearsarge Ave",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 927 4583",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TQ9prObg1rNXxI21tnRBR_43.233667_-71.728540@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299157,
+    "wof:geomhash":"0398715bae14967d0af3cec4c80a708f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873866067
+        }
+    ],
+    "wof:id":873866067,
+    "wof:lastmodified":1464299157,
+    "wof:name":"Dan's Painting Systems",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.72854,
+    43.233667,
+    -71.72854,
+    43.233667
+],
+  "geometry": {"coordinates":[-71.72854,43.233667],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873921563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431295,42.756336,-71.431295,42.756336",
+    "geom:latitude":42.756336,
+    "geom:longitude":-71.431295,
+    "iso:country":"US",
+    "sg:address":"3 Winnhaven Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 821 2100",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"http://www.stmarysbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WJ5UYse7YzoqcWnmwHnLb_42.756336_-71.431295@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300238,
+    "wof:geomhash":"a1d4479ee2837707f9e2a32d39b884d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873921563
+        }
+    ],
+    "wof:id":873921563,
+    "wof:lastmodified":1464300238,
+    "wof:name":"St Marys Bank",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.431295,
+    42.756336,
+    -71.431295,
+    42.756336
+],
+  "geometry": {"coordinates":[-71.43129500000001,42.756336],"type":"Point"}
+}

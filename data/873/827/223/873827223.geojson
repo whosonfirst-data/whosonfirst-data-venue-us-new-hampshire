@@ -1,0 +1,73 @@
+{
+  "id": 873827223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51138,43.153413,-71.51138,43.153413",
+    "geom:latitude":43.153413,
+    "geom:longitude":-71.51138,
+    "iso:country":"US",
+    "sg:address":"17 Dow Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 2858",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "construction",
+        "architecture",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NPtr2DgRIGYqtJyQShAUh_43.153413_-71.511380@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298281,
+    "wof:geomhash":"8db149eb4127f778badce8c44fe9b6b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873827223
+        }
+    ],
+    "wof:id":873827223,
+    "wof:lastmodified":1464298281,
+    "wof:name":"Landforms Ltd",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "architecture",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.51138,
+    43.153413,
+    -71.51138,
+    43.153413
+],
+  "geometry": {"coordinates":[-71.51138,43.153413],"type":"Point"}
+}

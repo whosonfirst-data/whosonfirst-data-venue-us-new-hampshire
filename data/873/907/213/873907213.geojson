@@ -1,0 +1,71 @@
+{
+  "id": 873907213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549009,42.734388,-71.549009,42.734388",
+    "geom:latitude":42.734388,
+    "geom:longitude":-71.549009,
+    "iso:country":"US",
+    "sg:address":"29 Sumner Ln",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 6421",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W8lWia0p19Vd3CoThgiML_42.734388_-71.549009@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299962,
+    "wof:geomhash":"69cef7bbb42fa88c94082c43537cb5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873907213
+        }
+    ],
+    "wof:id":873907213,
+    "wof:lastmodified":1464299962,
+    "wof:name":"Affordable Tree Svc",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -71.549009,
+    42.734388,
+    -71.549009,
+    42.734388
+],
+  "geometry": {"coordinates":[-71.549009,42.734388],"type":"Point"}
+}

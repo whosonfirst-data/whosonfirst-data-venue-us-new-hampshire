@@ -1,0 +1,69 @@
+{
+  "id": 873791223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.62996,43.447329,-71.62996,43.447329",
+    "geom:latitude":43.447329,
+    "geom:longitude":-71.62996,
+    "iso:country":"US",
+    "sg:address":"835 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3742",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AZahg1dEWkBPojrhU8nRh_43.447329_-71.629960@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297656,
+    "wof:geomhash":"d1c4ad6d8f5c806e2cfe7182b894ebd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873791223
+        }
+    ],
+    "wof:id":873791223,
+    "wof:lastmodified":1464297656,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.62996,
+    43.447329,
+    -71.62996,
+    43.447329
+],
+  "geometry": {"coordinates":[-71.62996,43.447329],"type":"Point"}
+}

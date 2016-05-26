@@ -1,0 +1,69 @@
+{
+  "id": 873735601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495417,42.984596,-71.495417,42.984596",
+    "geom:latitude":42.984596,
+    "geom:longitude":-71.495417,
+    "iso:country":"US",
+    "sg:address":"314 Rockland Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 9877",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I6dVdiXNy7JCFkwQZ6RM1_42.984596_-71.495417@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296865,
+    "wof:geomhash":"26c4379f4fb3e35bcf7bfff388457b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873735601
+        }
+    ],
+    "wof:id":873735601,
+    "wof:lastmodified":1464296865,
+    "wof:name":"Ultimate Coach Limousine Svc",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -71.495417,
+    42.984596,
+    -71.495417,
+    42.984596
+],
+  "geometry": {"coordinates":[-71.495417,42.984596],"type":"Point"}
+}

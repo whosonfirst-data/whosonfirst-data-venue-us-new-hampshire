@@ -1,0 +1,71 @@
+{
+  "id": 873886261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.741523,43.607611,-71.741523,43.607611",
+    "geom:latitude":43.607611,
+    "geom:longitude":-71.741523,
+    "iso:country":"US",
+    "sg:address":"859 Lake St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 6200",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Klj91A2TtvJF71f3hWAyb_43.607611_-71.741523@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299561,
+    "wof:geomhash":"11a00b186acb7a61127f4855a596c788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873886261
+        }
+    ],
+    "wof:id":873886261,
+    "wof:lastmodified":1464299561,
+    "wof:name":"Speare Medical Associates",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.741523,
+    43.607611,
+    -71.741523,
+    43.607611
+],
+  "geometry": {"coordinates":[-71.741523,43.607611],"type":"Point"}
+}

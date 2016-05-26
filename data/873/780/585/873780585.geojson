@@ -1,0 +1,75 @@
+{
+  "id": 873780585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.776401,43.04831,-70.776401,43.04831",
+    "geom:latitude":43.04831,
+    "geom:longitude":-70.776401,
+    "iso:country":"US",
+    "sg:address":"4 Mirona Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 8991",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892303,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zKhz0IlGfYoqwHjw9YC0_43.048310_-70.776401@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297499,
+    "wof:geomhash":"23deb75b99c401516d834226616d85cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892303,
+            "region_id":85688689,
+            "venue_id":873780585
+        }
+    ],
+    "wof:id":873780585,
+    "wof:lastmodified":1464297499,
+    "wof:name":"Francois Auto Body",
+    "wof:parent_id":85892303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -70.776401,
+    43.04831,
+    -70.776401,
+    43.04831
+],
+  "geometry": {"coordinates":[-70.77640100000001,43.04831],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873895577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252991,42.96357,-71.252991,42.96357",
+    "geom:latitude":42.96357,
+    "geom:longitude":-71.252991,
+    "iso:country":"US",
+    "sg:address":"90 Raymond Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 505 5766",
+    "sg:postcode":"03036",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PFe6zn8FnGiDJughwILCY_42.963570_-71.252991@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299731,
+    "wof:geomhash":"8921d79d76e06a39e60405854d90cfba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873895577
+        }
+    ],
+    "wof:id":873895577,
+    "wof:lastmodified":1464299731,
+    "wof:name":"BRC Construction",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.252991,
+    42.96357,
+    -71.252991,
+    42.96357
+],
+  "geometry": {"coordinates":[-71.25299099999999,42.96357],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873908161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471019,42.860427,-71.471019,42.860427",
+    "geom:latitude":42.860427,
+    "geom:longitude":-71.471019,
+    "iso:country":"US",
+    "sg:address":"158 Hillcrest Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 6080",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "construction",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TuTqhfu1XJvKNHyjiKtjp_42.860427_-71.471019@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299979,
+    "wof:geomhash":"6b4492aa7294e0074708e15aaf59dd74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873908161
+        }
+    ],
+    "wof:id":873908161,
+    "wof:lastmodified":1464299979,
+    "wof:name":"Litchfield Highway Garage",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.471019,
+    42.860427,
+    -71.471019,
+    42.860427
+],
+  "geometry": {"coordinates":[-71.471019,42.860427],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873890039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.189718,44.395326,-71.189718,44.395326",
+    "geom:latitude":44.395326,
+    "geom:longitude":-71.189718,
+    "iso:country":"US",
+    "sg:address":"2 Broadway Ave",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2741",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IpJzcn2HWVeXCXa6qnGLD_44.395326_-71.189718@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299632,
+    "wof:geomhash":"16e828688fe4998837862b3dbc874412",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873890039
+        }
+    ],
+    "wof:id":873890039,
+    "wof:lastmodified":1464299632,
+    "wof:name":"Mountain Health Svc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.189718,
+    44.395326,
+    -71.189718,
+    44.395326
+],
+  "geometry": {"coordinates":[-71.189718,44.395326],"type":"Point"}
+}

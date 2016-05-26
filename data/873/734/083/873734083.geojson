@@ -1,0 +1,69 @@
+{
+  "id": 873734083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.05931,42.956399,-71.05931,42.956399",
+    "geom:latitude":42.956399,
+    "geom:longitude":-71.05931,
+    "iso:country":"US",
+    "sg:address":"261 State Rte 125",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 5578",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IqPNAscuNgEGF4P25qowD_42.956399_-71.059310@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296833,
+    "wof:geomhash":"be5236796946e8a5d9bd35531cb825f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873734083
+        }
+    ],
+    "wof:id":873734083,
+    "wof:lastmodified":1464296833,
+    "wof:name":"Magnusson Farm LLC",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.05931,
+    42.956399,
+    -71.05931,
+    42.956399
+],
+  "geometry": {"coordinates":[-71.05931,42.956399],"type":"Point"}
+}

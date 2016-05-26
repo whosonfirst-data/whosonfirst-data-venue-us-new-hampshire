@@ -1,0 +1,71 @@
+{
+  "id": 873599487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.754886,43.305797,-71.754886,43.305797",
+    "geom:latitude":43.305797,
+    "geom:longitude":-71.754886,
+    "iso:country":"US",
+    "sg:address":"662 White Plains Rd",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2109",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vqpg7Vsf3mvkrnewrMRar_43.305797_-71.754886@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294982,
+    "wof:geomhash":"7f0e6b6719001cb66543b78fa7ffeb4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873599487
+        }
+    ],
+    "wof:id":873599487,
+    "wof:lastmodified":1464294982,
+    "wof:name":"Steel Umbrella",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.754886,
+    43.305797,
+    -71.754886,
+    43.305797
+],
+  "geometry": {"coordinates":[-71.754886,43.305797],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873802005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.804819,44.300641,-71.804819,44.300641",
+    "geom:latitude":44.300641,
+    "geom:longitude":-71.804819,
+    "iso:country":"US",
+    "sg:address":"804 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 4446",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55JCEGMDB2IgTwMGGVNMUw_44.300641_-71.804819@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297797,
+    "wof:geomhash":"f62059a74ce661e5f623276e6d710ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873802005
+        }
+    ],
+    "wof:id":873802005,
+    "wof:lastmodified":1464297797,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.804819,
+    44.300641,
+    -71.804819,
+    44.300641
+],
+  "geometry": {"coordinates":[-71.80481899999999,44.300641],"type":"Point"}
+}

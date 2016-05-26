@@ -1,0 +1,75 @@
+{
+  "id": 873676747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.825348,43.184435,-71.825348,43.184435",
+    "geom:latitude":43.184435,
+    "geom:longitude":-71.825348,
+    "iso:country":"US",
+    "sg:address":"60 Maple St",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3235",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "savings",
+        "loan",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TtTQ2940sfoJDTwEXErK4_43.184435_-71.825348@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295906,
+    "wof:geomhash":"28fda642b1875655e1ac3328dda6972b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873676747
+        }
+    ],
+    "wof:id":873676747,
+    "wof:lastmodified":1464295906,
+    "wof:name":"Bank Of New Hampshire",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "loan",
+        "association"
+    ]
+},
+  "bbox": [
+    -71.825348,
+    43.184435,
+    -71.825348,
+    43.184435
+],
+  "geometry": {"coordinates":[-71.82534800000001,43.184435],"type":"Point"}
+}

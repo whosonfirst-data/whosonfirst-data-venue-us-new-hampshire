@@ -1,0 +1,71 @@
+{
+  "id": 873714859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.747299,43.048282,-70.747299,43.048282",
+    "geom:latitude":43.048282,
+    "geom:longitude":-70.747299,
+    "iso:country":"US",
+    "sg:address":"14 Sagamore Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 5912",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gcLXybc0pq3xlyOIUc07S_43.048282_-70.747299@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296580,
+    "wof:geomhash":"2024b24a64fd9bc8eda4b3a5b9921ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873714859
+        }
+    ],
+    "wof:id":873714859,
+    "wof:lastmodified":1464296580,
+    "wof:name":"We Care Cleaners",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -70.747299,
+    43.048282,
+    -70.747299,
+    43.048282
+],
+  "geometry": {"coordinates":[-70.747299,43.048282],"type":"Point"}
+}

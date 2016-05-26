@@ -1,0 +1,73 @@
+{
+  "id": 873639275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481481,43.171093,-71.481481,43.171093",
+    "geom:latitude":43.171093,
+    "geom:longitude":-71.481481,
+    "iso:country":"US",
+    "sg:address":"530 Pembroke St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 6879",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LwqOrV0qqEVDsLgqrKrLh_43.171093_-71.481481@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295466,
+    "wof:geomhash":"9912f00f02b3a2c7d8c0ca7a2d739da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873639275
+        }
+    ],
+    "wof:id":873639275,
+    "wof:lastmodified":1464295466,
+    "wof:name":"Roger's Pembroke Mobile",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.481481,
+    43.171093,
+    -71.481481,
+    43.171093
+],
+  "geometry": {"coordinates":[-71.481481,43.171093],"type":"Point"}
+}

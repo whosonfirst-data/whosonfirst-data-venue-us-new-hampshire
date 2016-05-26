@@ -1,0 +1,72 @@
+{
+  "id": 873917801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.731163,43.771242,-71.731163,43.771242",
+    "geom:latitude":43.771242,
+    "geom:longitude":-71.731163,
+    "iso:country":"US",
+    "sg:address":"683 Tenney Mountain Hwy",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/plymouth/129608-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4755",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F5GNr9s1kq1p884kmSlAG_43.771242_-71.731163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300174,
+    "wof:geomhash":"13348ca254c64965b56fee696359b01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873917801
+        }
+    ],
+    "wof:id":873917801,
+    "wof:lastmodified":1464300174,
+    "wof:name":"Subway",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.731163,
+    43.771242,
+    -71.731163,
+    43.771242
+],
+  "geometry": {"coordinates":[-71.731163,43.771242],"type":"Point"}
+}

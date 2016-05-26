@@ -1,0 +1,74 @@
+{
+  "id": 873928977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.552513,42.857371,-72.552513,42.857371",
+    "geom:latitude":42.857371,
+    "geom:longitude":-72.552513,
+    "iso:country":"US",
+    "sg:address":"6 Mountain Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 336 0000",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837733,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wDs8gghxdbZ9usGlPVuQG_42.857371_-72.552513@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300389,
+    "wof:geomhash":"d24cc3d4339b06bbfb5f5d9592ff3c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85837733,
+            "region_id":85688689,
+            "venue_id":873928977
+        }
+    ],
+    "wof:id":873928977,
+    "wof:lastmodified":1464300389,
+    "wof:name":"The Masiello Group",
+    "wof:parent_id":85837733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.552513,
+    42.857371,
+    -72.552513,
+    42.857371
+],
+  "geometry": {"coordinates":[-72.552513,42.857371],"type":"Point"}
+}

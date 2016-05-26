@@ -1,0 +1,71 @@
+{
+  "id": 873773151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.767724,43.627537,-71.767724,43.627537",
+    "geom:latitude":43.627537,
+    "geom:longitude":-71.767724,
+    "iso:country":"US",
+    "sg:address":"315 W Shore Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2900",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fi2PoPmdHhE9ASUJfeq0c_43.627537_-71.767724@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297403,
+    "wof:geomhash":"817d81084a155cf67a5e9bf134bb2da3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873773151
+        }
+    ],
+    "wof:id":873773151,
+    "wof:lastmodified":1464297403,
+    "wof:name":"West Shore Marine",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.767724,
+    43.627537,
+    -71.767724,
+    43.627537
+],
+  "geometry": {"coordinates":[-71.767724,43.627537],"type":"Point"}
+}

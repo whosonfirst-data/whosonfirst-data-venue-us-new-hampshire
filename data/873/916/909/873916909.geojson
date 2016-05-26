@@ -1,0 +1,76 @@
+{
+  "id": 873916909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516846,42.789605,-71.516846,42.789605",
+    "geom:latitude":42.789605,
+    "geom:longitude":-71.516846,
+    "iso:country":"US",
+    "sg:address":"452 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/26805-the-country-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 5871",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19YYahkRbeSCefkHYmFUdG_42.789605_-71.516846@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300157,
+    "wof:geomhash":"9d0afd9b69336daa9e4984513da2e7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873916909
+        }
+    ],
+    "wof:id":873916909,
+    "wof:lastmodified":1464300157,
+    "wof:name":"The Country Tavern",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.516846,
+    42.789605,
+    -71.516846,
+    42.789605
+],
+  "geometry": {"coordinates":[-71.516846,42.789605],"type":"Point"}
+}

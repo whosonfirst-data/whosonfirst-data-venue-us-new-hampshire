@@ -1,0 +1,71 @@
+{
+  "id": 873854399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241682,42.798671,-71.241682,42.798671",
+    "geom:latitude":42.798671,
+    "geom:longitude":-71.241682,
+    "iso:country":"US",
+    "sg:address":"8 Pumping Station Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5353",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37uyzgyApWFXh9O4NLvqww_42.798671_-71.241682@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298903,
+    "wof:geomhash":"714a4876f3c6e8843d9a9d8de28f6a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873854399
+        }
+    ],
+    "wof:id":873854399,
+    "wof:lastmodified":1464298903,
+    "wof:name":"Ray Lanes Repair and Towing",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.241682,
+    42.798671,
+    -71.241682,
+    42.798671
+],
+  "geometry": {"coordinates":[-71.241682,42.798671],"type":"Point"}
+}

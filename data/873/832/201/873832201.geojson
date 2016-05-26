@@ -1,0 +1,82 @@
+{
+  "id": 873832201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.340282,43.374395,-72.340282,43.374395",
+    "geom:latitude":43.374395,
+    "geom:longitude":-72.340282,
+    "iso:country":"US",
+    "sg:address":"30 Main St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 5331",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JTM9YeUKktIGD1a2nYP30_43.374395_-72.340282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298381,
+    "wof:geomhash":"2a4cce511d174d4a7d59ae3a4cc0b21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873832201
+        }
+    ],
+    "wof:id":873832201,
+    "wof:lastmodified":1464298381,
+    "wof:name":"City Cab & A1 Limo",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -72.340282,
+    43.374395,
+    -72.340282,
+    43.374395
+],
+  "geometry": {"coordinates":[-72.340282,43.374395],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873935341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209297,43.593601,-71.209297,43.593601",
+    "geom:latitude":43.593601,
+    "geom:longitude":-71.209297,
+    "iso:country":"US",
+    "sg:address":"70 Bay St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5461",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18LxCMa1tX8rQZFXmT8YAr_43.593601_-71.209297@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300506,
+    "wof:geomhash":"cafc67c83e75d9980934570b055d579c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935341
+        }
+    ],
+    "wof:id":873935341,
+    "wof:lastmodified":1464300506,
+    "wof:name":"Carroll County Mental Health Service",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.209297,
+    43.593601,
+    -71.209297,
+    43.593601
+],
+  "geometry": {"coordinates":[-71.20929700000001,43.593601],"type":"Point"}
+}

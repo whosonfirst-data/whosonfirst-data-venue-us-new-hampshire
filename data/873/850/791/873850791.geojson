@@ -1,0 +1,78 @@
+{
+  "id": 873850791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.886134,43.222883,-70.886134,43.222883",
+    "geom:latitude":43.222883,
+    "geom:longitude":-70.886134,
+    "iso:country":"US",
+    "sg:address":"23 Weeks Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 5848",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jj8a2zS2HwcwmRALVFrHC_43.222883_-70.886134@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298828,
+    "wof:geomhash":"fb2148ae76ceae5dbb1a9cbde7b7b338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873850791
+        }
+    ],
+    "wof:id":873850791,
+    "wof:lastmodified":1464298828,
+    "wof:name":"Varney's Cleaners",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "coin"
+    ]
+},
+  "bbox": [
+    -70.886134,
+    43.222883,
+    -70.886134,
+    43.222883
+],
+  "geometry": {"coordinates":[-70.886134,43.222883],"type":"Point"}
+}

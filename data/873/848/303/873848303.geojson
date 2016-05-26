@@ -1,0 +1,73 @@
+{
+  "id": 873848303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465989,43.521421,-71.465989,43.521421",
+    "geom:latitude":43.521421,
+    "geom:longitude":-71.465989,
+    "iso:country":"US",
+    "sg:address":"256 S Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9684",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1He6aoPYV0RDUtdNCrV2c3_43.521421_-71.465989@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298778,
+    "wof:geomhash":"a97c229af854efdd0b3bf68bec4be917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873848303
+        }
+    ],
+    "wof:id":873848303,
+    "wof:lastmodified":1464298778,
+    "wof:name":"Novastar HOME Mortgage",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.465989,
+    43.521421,
+    -71.465989,
+    43.521421
+],
+  "geometry": {"coordinates":[-71.46598899999999,43.521421],"type":"Point"}
+}

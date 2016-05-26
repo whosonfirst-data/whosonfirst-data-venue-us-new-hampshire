@@ -1,0 +1,71 @@
+{
+  "id": 873599241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.190074,42.811374,-71.190074,42.811374",
+    "geom:latitude":42.811374,
+    "geom:longitude":-71.190074,
+    "iso:country":"US",
+    "sg:address":"4 Don Roulston Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 6282",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6POUQdU1VfIU6jjHO38i5V_42.811374_-71.190074@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294975,
+    "wof:geomhash":"87e8b1e678482affaa917db35695d774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873599241
+        }
+    ],
+    "wof:id":873599241,
+    "wof:lastmodified":1464294975,
+    "wof:name":"O'Brien Construction",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.190074,
+    42.811374,
+    -71.190074,
+    42.811374
+],
+  "geometry": {"coordinates":[-71.190074,42.811374],"type":"Point"}
+}

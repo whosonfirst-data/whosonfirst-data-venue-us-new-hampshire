@@ -1,0 +1,80 @@
+{
+  "id": 873916657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46167,42.752916,-71.46167,42.752916",
+    "geom:latitude":42.752916,
+    "geom:longitude":-71.46167,
+    "iso:country":"US",
+    "sg:address":"304 Daniel Webster Hwy",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/28197-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 6980",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r8LuOX6HEY4BN4bvK9yYe_42.752916_-71.461670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300153,
+    "wof:geomhash":"14adaed13f21e5530cb49576a4c31ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873916657
+        }
+    ],
+    "wof:id":873916657,
+    "wof:lastmodified":1464300153,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.46167,
+    42.752916,
+    -71.46167,
+    42.752916
+],
+  "geometry": {"coordinates":[-71.46167,42.752916],"type":"Point"}
+}

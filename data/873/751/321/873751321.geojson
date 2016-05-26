@@ -1,0 +1,69 @@
+{
+  "id": 873751321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.886496,43.015709,-70.886496,43.015709",
+    "geom:latitude":43.015709,
+    "geom:longitude":-70.886496,
+    "iso:country":"US",
+    "sg:address":"107 Winnicutt Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0996",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858307,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v2xnx27JRpUYdOj9Y1cjR_43.015709_-70.886496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297092,
+    "wof:geomhash":"cce420c7cd5d4da84b1a287d59ecf2cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858307,
+            "region_id":85688689,
+            "venue_id":873751321
+        }
+    ],
+    "wof:id":873751321,
+    "wof:lastmodified":1464297092,
+    "wof:name":"Gelinas Property Maintenance",
+    "wof:parent_id":85858307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -70.886496,
+    43.015709,
+    -70.886496,
+    43.015709
+],
+  "geometry": {"coordinates":[-70.88649599999999,43.015709],"type":"Point"}
+}

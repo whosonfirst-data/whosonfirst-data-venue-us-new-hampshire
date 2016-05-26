@@ -1,0 +1,69 @@
+{
+  "id": 873844657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.313922,42.720803,-71.313922,42.720803",
+    "geom:latitude":42.720803,
+    "geom:longitude":-71.313922,
+    "iso:country":"US",
+    "sg:address":"5 Stevens Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2466",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_510LG13dLr59zuPfu02aT1_42.720803_-71.313922@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298676,
+    "wof:geomhash":"85f737b3a4c3edd0f106a4342b2802f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873844657
+        }
+    ],
+    "wof:id":873844657,
+    "wof:lastmodified":1464298676,
+    "wof:name":"Dracut Cntr Autobody",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.313922,
+    42.720803,
+    -71.313922,
+    42.720803
+],
+  "geometry": {"coordinates":[-71.31392200000001,42.720803],"type":"Point"}
+}

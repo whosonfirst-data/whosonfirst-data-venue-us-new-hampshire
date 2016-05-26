@@ -1,0 +1,71 @@
+{
+  "id": 873773467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397174,43.566188,-71.397174,43.566188",
+    "geom:latitude":43.566188,
+    "geom:longitude":-71.397174,
+    "iso:country":"US",
+    "sg:address":"73 Cat Path",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 9390",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M9kpFKYTrOoLXc606yIyz_43.566188_-71.397174@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297406,
+    "wof:geomhash":"a0c124e1526b94ad46f369596c8c4be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873773467
+        }
+    ],
+    "wof:id":873773467,
+    "wof:lastmodified":1464297406,
+    "wof:name":"Sentinel Properties",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.397174,
+    43.566188,
+    -71.397174,
+    43.566188
+],
+  "geometry": {"coordinates":[-71.39717400000001,43.566188],"type":"Point"}
+}

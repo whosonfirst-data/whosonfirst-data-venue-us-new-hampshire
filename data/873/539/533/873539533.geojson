@@ -1,0 +1,79 @@
+{
+  "id": 873539533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.876215,43.198544,-70.876215,43.198544",
+    "geom:latitude":43.198544,
+    "geom:longitude":-70.876215,
+    "iso:country":"US",
+    "sg:address":"6 3rd St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 9777",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YM1zVoXxpLhGzLjn3lbt1_43.198544_-70.876215@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294255,
+    "wof:geomhash":"8fe5b1b116a77167123d2430ac3516f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873539533
+        }
+    ],
+    "wof:id":873539533,
+    "wof:lastmodified":1464294255,
+    "wof:name":"Dover Shoe Hospital",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -70.876215,
+    43.198544,
+    -70.876215,
+    43.198544
+],
+  "geometry": {"coordinates":[-70.876215,43.198544],"type":"Point"}
+}

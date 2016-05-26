@@ -1,0 +1,71 @@
+{
+  "id": 873921383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429413,42.75489,-71.429413,42.75489",
+    "geom:latitude":42.75489,
+    "geom:longitude":-71.429413,
+    "iso:country":"US",
+    "sg:address":"1 A St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 2096",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cEVWoHhl47KUmaQJSiYCu_42.754890_-71.429413@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300234,
+    "wof:geomhash":"c6289e309fbc5cf0560d9e3e4442af13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921383
+        }
+    ],
+    "wof:id":873921383,
+    "wof:lastmodified":1464300234,
+    "wof:name":"Touch Therapies",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.429413,
+    42.75489,
+    -71.429413,
+    42.75489
+],
+  "geometry": {"coordinates":[-71.429413,42.75489],"type":"Point"}
+}

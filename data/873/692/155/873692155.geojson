@@ -1,0 +1,79 @@
+{
+  "id": 873692155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46569,42.761878,-71.46569,42.761878",
+    "geom:latitude":42.761878,
+    "geom:longitude":-71.46569,
+    "iso:country":"US",
+    "sg:address":"100 Main St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 617 457 0888",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QkM5iw6HdWKb2FfdaG7IF_42.761878_-71.465690@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296318,
+    "wof:geomhash":"d4c3a597a2e4e87035fdedf9bc009d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873692155
+        }
+    ],
+    "wof:id":873692155,
+    "wof:lastmodified":1464296318,
+    "wof:name":"Time Couriers",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.46569,
+    42.761878,
+    -71.46569,
+    42.761878
+],
+  "geometry": {"coordinates":[-71.46569,42.761878],"type":"Point"}
+}

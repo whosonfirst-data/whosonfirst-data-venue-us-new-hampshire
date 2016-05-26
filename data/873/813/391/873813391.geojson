@@ -1,0 +1,71 @@
+{
+  "id": 873813391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.749261,43.601252,-71.749261,43.601252",
+    "geom:latitude":43.601252,
+    "geom:longitude":-71.749261,
+    "iso:country":"US",
+    "sg:address":"265 Crescent St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 6674",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4468sLJKcBuEX3TDQbfcBO_43.601252_-71.749261@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297985,
+    "wof:geomhash":"23215ad3256112621d81ff792231e48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873813391
+        }
+    ],
+    "wof:id":873813391,
+    "wof:lastmodified":1464297985,
+    "wof:name":"Aldrichs Painting",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.749261,
+    43.601252,
+    -71.749261,
+    43.601252
+],
+  "geometry": {"coordinates":[-71.749261,43.601252],"type":"Point"}
+}

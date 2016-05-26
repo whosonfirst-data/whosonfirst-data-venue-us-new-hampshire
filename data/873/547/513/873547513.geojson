@@ -1,0 +1,70 @@
+{
+  "id": 873547513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.977553,43.249444,-70.977553,43.249444",
+    "geom:latitude":43.249444,
+    "geom:longitude":-70.977553,
+    "iso:country":"US",
+    "sg:address":"3 Rochester Neck Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 5893",
+    "sg:postcode":"03839",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526457,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KBaxyvr6VDjjwqjjrRA3p_43.249444_-70.977553@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294346,
+    "wof:geomhash":"ef800c90a399019ff7582d6ed5125978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":420526457,
+            "region_id":85688689,
+            "venue_id":873547513
+        }
+    ],
+    "wof:id":873547513,
+    "wof:lastmodified":1464294346,
+    "wof:name":"Rochester Veterinary Clinic",
+    "wof:parent_id":420526457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.977553,
+    43.249444,
+    -70.977553,
+    43.249444
+],
+  "geometry": {"coordinates":[-70.977553,43.249444],"type":"Point"}
+}

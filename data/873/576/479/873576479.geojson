@@ -1,0 +1,73 @@
+{
+  "id": 873576479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.60945,43.274394,-71.60945,43.274394",
+    "geom:latitude":43.274394,
+    "geom:longitude":-71.60945,
+    "iso:country":"US",
+    "sg:address":"2 Look Out Cir",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4783",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UsGCerlJr0Uzf3UOJIikR_43.274394_-71.609450@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294678,
+    "wof:geomhash":"fc84678c478bb4ebf02c701f35fd2cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873576479
+        }
+    ],
+    "wof:id":873576479,
+    "wof:lastmodified":1464294678,
+    "wof:name":"Leclerc Electric Co",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.60945,
+    43.274394,
+    -71.60945,
+    43.274394
+],
+  "geometry": {"coordinates":[-71.60945,43.274394],"type":"Point"}
+}

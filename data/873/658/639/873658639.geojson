@@ -1,0 +1,71 @@
+{
+  "id": 873658639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.854723,43.289309,-71.854723,43.289309",
+    "geom:latitude":43.289309,
+    "geom:longitude":-71.854723,
+    "iso:country":"US",
+    "sg:address":"33 Newmarket Rd",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3236",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOzplpKV3GxNV1vuZoxlF_43.289309_-71.854723@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295685,
+    "wof:geomhash":"7d582d1938e6ff082569b000c3985671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873658639
+        }
+    ],
+    "wof:id":873658639,
+    "wof:lastmodified":1464295685,
+    "wof:name":"Kearsarge Excavating",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.854723,
+    43.289309,
+    -71.854723,
+    43.289309
+],
+  "geometry": {"coordinates":[-71.85472300000001,43.289309],"type":"Point"}
+}

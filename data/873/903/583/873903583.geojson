@@ -1,0 +1,78 @@
+{
+  "id": 873903583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483632,42.961331,-71.483632,42.961331",
+    "geom:latitude":42.961331,
+    "geom:longitude":-71.483632,
+    "iso:country":"US",
+    "sg:address":"80 Palomino Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 2486",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "company",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QqFPDL5DBOwX3bqUkaUYb_42.961331_-71.483632@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299889,
+    "wof:geomhash":"832a56e68b12b70299c490ee36cfed32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873903583
+        }
+    ],
+    "wof:id":873903583,
+    "wof:lastmodified":1464299889,
+    "wof:name":"Hospitality Communications Grp",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "company",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.483632,
+    42.961331,
+    -71.483632,
+    42.961331
+],
+  "geometry": {"coordinates":[-71.483632,42.961331],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873591581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427804,43.567358,-71.427804,43.567358",
+    "geom:latitude":43.567358,
+    "geom:longitude":-71.427804,
+    "iso:country":"US",
+    "sg:address":"6 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 0700",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mVi5sYRHF8hCNiN8HJYA3_43.567358_-71.427804@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294850,
+    "wof:geomhash":"1ef4fadd7d5073133516fc6a905a261c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873591581
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873591581
+        }
+    ],
+    "wof:id":873591581,
+    "wof:lastmodified":1464294850,
+    "wof:name":"Lori Currier Interiors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -71.427804,
+    43.567358,
+    -71.427804,
+    43.567358
+],
+  "geometry": {"coordinates":[-71.42780399999999,43.567358],"type":"Point"}
+}

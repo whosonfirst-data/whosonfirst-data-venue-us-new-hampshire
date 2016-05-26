@@ -1,0 +1,80 @@
+{
+  "id": 873752851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.281032,42.935247,-72.281032,42.935247",
+    "geom:latitude":42.935247,
+    "geom:longitude":-72.281032,
+    "iso:country":"US",
+    "sg:address":"39 Summer St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 2911",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "for",
+        "provider"
+    ],
+    "sg:website":"www.resresources.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55d2XdgpMWBhtSqqN0MvWE_42.935247_-72.281032@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297116,
+    "wof:geomhash":"fc26d8e8720ce9d7ad3c42b98bf37271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873752851
+        }
+    ],
+    "wof:id":873752851,
+    "wof:lastmodified":1464297116,
+    "wof:name":"Residential Resources Inc",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "for",
+        "provider"
+    ]
+},
+  "bbox": [
+    -72.281032,
+    42.935247,
+    -72.281032,
+    42.935247
+],
+  "geometry": {"coordinates":[-72.281032,42.935247],"type":"Point"}
+}

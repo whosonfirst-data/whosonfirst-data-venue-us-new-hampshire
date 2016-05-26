@@ -1,0 +1,73 @@
+{
+  "id": 873562917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595264,44.463361,-71.595264,44.463361",
+    "geom:latitude":44.463361,
+    "geom:longitude":-71.595264,
+    "iso:country":"US",
+    "sg:address":"17 Buffalo Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4719",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849321,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vQxskVUCzxGa9213eLhRC_44.463361_-71.595264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294530,
+    "wof:geomhash":"ca1b4c389aa91952b3380e28d3f322a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85849321,
+            "region_id":85688689,
+            "venue_id":873562917
+        }
+    ],
+    "wof:id":873562917,
+    "wof:lastmodified":1464294530,
+    "wof:name":"Lufkin Auto Body",
+    "wof:parent_id":85849321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.595264,
+    44.463361,
+    -71.595264,
+    44.463361
+],
+  "geometry": {"coordinates":[-71.595264,44.463361],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873833179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.597447,44.399623,-71.597447,44.399623",
+    "geom:latitude":44.399623,
+    "geom:longitude":-71.597447,
+    "iso:country":"US",
+    "sg:address":"466 Lancaster Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 3000",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11qCSjS48tdN4IpgV1DgOf_44.399623_-71.597447@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298407,
+    "wof:geomhash":"04b1985de2f29e2f5d90a58f7c8dc03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873833179
+        }
+    ],
+    "wof:id":873833179,
+    "wof:lastmodified":1464298407,
+    "wof:name":"White Mountain Auto Broker",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.597447,
+    44.399623,
+    -71.597447,
+    44.399623
+],
+  "geometry": {"coordinates":[-71.597447,44.399623],"type":"Point"}
+}

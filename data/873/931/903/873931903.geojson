@@ -1,0 +1,75 @@
+{
+  "id": 873931903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.881889,43.05653,-70.881889,43.05653",
+    "geom:latitude":43.05653,
+    "geom:longitude":-70.881889,
+    "iso:country":"US",
+    "sg:address":"2 Carlton Dr",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 373 8780",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychiatry",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWkfG2ZTLX11Ej0rsojZ1_43.056530_-70.881889@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300445,
+    "wof:geomhash":"802da8e4f00c9358a6ebfbbc3ceb6a90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873931903
+        }
+    ],
+    "wof:id":873931903,
+    "wof:lastmodified":1464300445,
+    "wof:name":"Cary L Hamlin Md",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatry",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -70.881889,
+    43.05653,
+    -70.881889,
+    43.05653
+],
+  "geometry": {"coordinates":[-70.881889,43.05653],"type":"Point"}
+}

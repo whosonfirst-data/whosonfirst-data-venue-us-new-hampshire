@@ -1,0 +1,72 @@
+{
+  "id": 873916527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491813,42.83256,-71.491813,42.83256",
+    "geom:latitude":42.83256,
+    "geom:longitude":-71.491813,
+    "iso:country":"US",
+    "sg:address":"256 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/merrimack/194539-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 0885",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ILXOoZXslLrRsF2QShcBT_42.832560_-71.491813@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300151,
+    "wof:geomhash":"00b183ebcf7fa0781dc5bff59f7dacc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873916527
+        }
+    ],
+    "wof:id":873916527,
+    "wof:lastmodified":1464300151,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.491813,
+    42.83256,
+    -71.491813,
+    42.83256
+],
+  "geometry": {"coordinates":[-71.49181299999999,42.83256],"type":"Point"}
+}

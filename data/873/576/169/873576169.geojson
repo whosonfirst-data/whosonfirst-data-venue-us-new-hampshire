@@ -1,0 +1,69 @@
+{
+  "id": 873576169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.344513,43.005383,-71.344513,43.005383",
+    "geom:latitude":43.005383,
+    "geom:longitude":-71.344513,
+    "iso:country":"US",
+    "sg:address":"114 Raymond Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5084",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QsmkKzGX0BVWwRLDKZExE_43.005383_-71.344513@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294675,
+    "wof:geomhash":"42fa90fa8a51d516491a0c4ee56e3670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873576169
+        }
+    ],
+    "wof:id":873576169,
+    "wof:lastmodified":1464294675,
+    "wof:name":"Southern New Hampshire Garage",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -71.344513,
+    43.005383,
+    -71.344513,
+    43.005383
+],
+  "geometry": {"coordinates":[-71.34451300000001,43.005383],"type":"Point"}
+}

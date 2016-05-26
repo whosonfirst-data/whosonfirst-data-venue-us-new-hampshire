@@ -1,0 +1,73 @@
+{
+  "id": 873841233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502909,43.185069,-71.502909,43.185069",
+    "geom:latitude":43.185069,
+    "geom:longitude":-71.502909,
+    "iso:country":"US",
+    "sg:address":"12 Integra Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 6266",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51C9NCoVfKrrBZdcLUTGBg_43.185069_-71.502909@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298581,
+    "wof:geomhash":"6a8587f72ade2de9d530e2349a204ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873841233
+        }
+    ],
+    "wof:id":873841233,
+    "wof:lastmodified":1464298581,
+    "wof:name":"John's Auto Lock-Out Svc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.502909,
+    43.185069,
+    -71.502909,
+    43.185069
+],
+  "geometry": {"coordinates":[-71.502909,43.185069],"type":"Point"}
+}

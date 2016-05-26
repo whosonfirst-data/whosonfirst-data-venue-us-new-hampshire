@@ -1,0 +1,69 @@
+{
+  "id": 873618781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1733,44.38427,-71.1733,44.38427",
+    "geom:latitude":44.38427,
+    "geom:longitude":-71.1733,
+    "iso:country":"US",
+    "sg:address":"16 Promenade St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5654",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oYG2SnllIMHOFy1r0pIxQ_44.384270_-71.173300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295238,
+    "wof:geomhash":"c7cfaaeb40c9dbfac36285ff89a51a3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873618781
+        }
+    ],
+    "wof:id":873618781,
+    "wof:lastmodified":1464295238,
+    "wof:name":"Clermont Trucking Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.1733,
+    44.38427,
+    -71.1733,
+    44.38427
+],
+  "geometry": {"coordinates":[-71.1733,44.38427],"type":"Point"}
+}

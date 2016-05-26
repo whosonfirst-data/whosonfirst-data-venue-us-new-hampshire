@@ -1,0 +1,71 @@
+{
+  "id": 873747143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.696405,43.751873,-71.696405,43.751873",
+    "geom:latitude":43.751873,
+    "geom:longitude":-71.696405,
+    "iso:country":"US",
+    "sg:address":"58 Prince Haven Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1589",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iNu5K4p04q2dvRMtchdzG_43.751873_-71.696405@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297040,
+    "wof:geomhash":"88adc762f5b85ca386cfa7e77f430cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873747143
+        }
+    ],
+    "wof:id":873747143,
+    "wof:lastmodified":1464297040,
+    "wof:name":"PHS Plumbing & Heating",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.696405,
+    43.751873,
+    -71.696405,
+    43.751873
+],
+  "geometry": {"coordinates":[-71.696405,43.751873],"type":"Point"}
+}

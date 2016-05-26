@@ -1,0 +1,73 @@
+{
+  "id": 873583205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.07683,43.005658,-71.07683,43.005658",
+    "geom:latitude":43.005658,
+    "geom:longitude":-71.07683,
+    "iso:country":"US",
+    "sg:address":"321 State Rte 125",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8080",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jtBq3m1qzDKOgyL4PlO8N_43.005658_-71.076830@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294754,
+    "wof:geomhash":"9fb015f9c66164937f1d8e1987c20943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873583205
+        }
+    ],
+    "wof:id":873583205,
+    "wof:lastmodified":1464294754,
+    "wof:name":"Creative Self Storage",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -71.07683,
+    43.005658,
+    -71.07683,
+    43.005658
+],
+  "geometry": {"coordinates":[-71.07683,43.005658],"type":"Point"}
+}

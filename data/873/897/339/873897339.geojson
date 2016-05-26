@@ -1,0 +1,79 @@
+{
+  "id": 873897339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442993,42.73338,-71.442993,42.73338",
+    "geom:latitude":42.73338,
+    "geom:longitude":-71.442993,
+    "iso:country":"US",
+    "sg:address":"36 Linton St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 2400",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dnAIOVUTKgNILS2lCnzaM_42.733380_-71.442993@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299771,
+    "wof:geomhash":"d636d885d3350c57549cdd866f62d1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873897339
+        }
+    ],
+    "wof:id":873897339,
+    "wof:lastmodified":1464299771,
+    "wof:name":"Rocky Moreau Electrical Contrs",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.442993,
+    42.73338,
+    -71.442993,
+    42.73338
+],
+  "geometry": {"coordinates":[-71.442993,42.73338],"type":"Point"}
+}

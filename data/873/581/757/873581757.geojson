@@ -1,0 +1,75 @@
+{
+  "id": 873581757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.774487,43.040876,-70.774487,43.040876",
+    "geom:latitude":43.040876,
+    "geom:longitude":-70.774487,
+    "iso:country":"US",
+    "sg:address":"2059 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 0020",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eqjYvhN3hThLefIC5z2e8_43.040876_-70.774487@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294740,
+    "wof:geomhash":"b77c420c0b8d4b928ac8dc2f17bbae81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873581757
+        }
+    ],
+    "wof:id":873581757,
+    "wof:lastmodified":1464294740,
+    "wof:name":"Lafayette Animal Hospital",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -70.774487,
+    43.040876,
+    -70.774487,
+    43.040876
+],
+  "geometry": {"coordinates":[-70.77448699999999,43.040876],"type":"Point"}
+}

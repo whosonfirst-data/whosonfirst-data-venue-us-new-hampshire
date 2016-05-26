@@ -1,0 +1,71 @@
+{
+  "id": 873691091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.098524,43.388302,-72.098524,43.388302",
+    "geom:latitude":43.388302,
+    "geom:longitude":-72.098524,
+    "iso:country":"US",
+    "sg:address":"21 North Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5678",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I5oZrxhzeWvvRL1Fl6XWe_43.388302_-72.098524@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296301,
+    "wof:geomhash":"681f46946f00562e3cdd337d9c651d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873691091
+        }
+    ],
+    "wof:id":873691091,
+    "wof:lastmodified":1464296301,
+    "wof:name":"Mark Usko's Contracting & Prop",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.098524,
+    43.388302,
+    -72.098524,
+    43.388302
+],
+  "geometry": {"coordinates":[-72.098524,43.388302],"type":"Point"}
+}

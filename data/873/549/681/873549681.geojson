@@ -1,0 +1,69 @@
+{
+  "id": 873549681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486567,42.832535,-71.486567,42.832535",
+    "geom:latitude":42.832535,
+    "geom:longitude":-71.486567,
+    "iso:country":"US",
+    "sg:address":"17 Star Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 1405",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DDfK1Hapo2AY0RBAsojp5_42.832535_-71.486567@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294374,
+    "wof:geomhash":"f7fa9535e990a1c107fdd65867a0e32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873549681
+        }
+    ],
+    "wof:id":873549681,
+    "wof:lastmodified":1464294374,
+    "wof:name":"BJT Truck Repair Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.486567,
+    42.832535,
+    -71.486567,
+    42.832535
+],
+  "geometry": {"coordinates":[-71.48656699999999,42.832535],"type":"Point"}
+}

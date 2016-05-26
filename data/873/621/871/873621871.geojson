@@ -1,0 +1,73 @@
+{
+  "id": 873621871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.827328,44.320311,-71.827328,44.320311",
+    "geom:latitude":44.320311,
+    "geom:longitude":-71.827328,
+    "iso:country":"US",
+    "sg:address":"788 Hilltop Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2204",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "campsite",
+        "trailer",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lzahzN6Z3HfjuecNTFji2_44.320311_-71.827328@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"46310dcc3a5220da5726d76faeeb3ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873621871
+        }
+    ],
+    "wof:id":873621871,
+    "wof:lastmodified":1464295269,
+    "wof:name":"Crazy Horse Campground",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "campsite",
+        "trailer",
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.827328,
+    44.320311,
+    -71.827328,
+    44.320311
+],
+  "geometry": {"coordinates":[-71.82732799999999,44.320311],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873856415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538354,42.934436,-71.538354,42.934436",
+    "geom:latitude":42.934436,
+    "geom:longitude":-71.538354,
+    "iso:country":"US",
+    "sg:address":"23 Westview Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 0554",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W9a2wMOlOVaYAWLzl68ET_42.934436_-71.538354@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298942,
+    "wof:geomhash":"85efb9872f0b5f580b72abc8c7ef68b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873856415
+        }
+    ],
+    "wof:id":873856415,
+    "wof:lastmodified":1464298942,
+    "wof:name":"O'Regan Construction Bldg",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.538354,
+    42.934436,
+    -71.538354,
+    42.934436
+],
+  "geometry": {"coordinates":[-71.538354,42.934436],"type":"Point"}
+}

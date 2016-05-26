@@ -1,0 +1,69 @@
+{
+  "id": 873863977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.144277,42.778213,-72.144277,42.778213",
+    "geom:latitude":42.778213,
+    "geom:longitude":-72.144277,
+    "iso:country":"US",
+    "sg:address":"13 Templeton Tpke",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 7791",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v7IcR7YO76QPiQGSh5vL1_42.778213_-72.144277@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299114,
+    "wof:geomhash":"c8c74d0fd1004bcf1ac67349873dec38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873863977
+        }
+    ],
+    "wof:id":873863977,
+    "wof:lastmodified":1464299114,
+    "wof:name":"Fitzwilliam Town Clerk",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.144277,
+    42.778213,
+    -72.144277,
+    42.778213
+],
+  "geometry": {"coordinates":[-72.144277,42.778213],"type":"Point"}
+}

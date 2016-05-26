@@ -1,0 +1,78 @@
+{
+  "id": 873821555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.697835,43.247759,-71.697835,43.247759",
+    "geom:latitude":43.247759,
+    "geom:longitude":-71.697835,
+    "iso:country":"US",
+    "sg:address":"78 Tyler Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 6511",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SY2qKupkqSJwsg6YiMzT8_43.247759_-71.697835@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298148,
+    "wof:geomhash":"7993661f26e23dcd50a3afe36b672ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873821555
+        }
+    ],
+    "wof:id":873821555,
+    "wof:lastmodified":1464298148,
+    "wof:name":"Rose's Garage",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.697835,
+    43.247759,
+    -71.697835,
+    43.247759
+],
+  "geometry": {"coordinates":[-71.697835,43.247759],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873701291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.265336,43.639213,-72.265336,43.639213",
+    "geom:latitude":43.639213,
+    "geom:longitude":-72.265336,
+    "iso:country":"US",
+    "sg:address":"123 Mascoma St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 7411",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3agXAEZB9Q2yZBQKSLbmJ3_43.639213_-72.265336@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296418,
+    "wof:geomhash":"b2a9db6d53bf2b69c18595f227028b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873701291
+        }
+    ],
+    "wof:id":873701291,
+    "wof:lastmodified":1464296418,
+    "wof:name":"Birthing Center",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.265336,
+    43.639213,
+    -72.265336,
+    43.639213
+],
+  "geometry": {"coordinates":[-72.265336,43.639213],"type":"Point"}
+}

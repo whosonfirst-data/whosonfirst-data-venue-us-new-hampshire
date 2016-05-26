@@ -1,0 +1,76 @@
+{
+  "id": 873926211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.212051,42.758018,-71.212051,42.758018",
+    "geom:latitude":42.758018,
+    "geom:longitude":-71.212051,
+    "iso:country":"US",
+    "sg:address":"290 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 3744",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sl1nYj2kGgzP8731XPVcF_42.758018_-71.212051@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300331,
+    "wof:geomhash":"14093cc7549e422587e333a1a89eb77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873926211
+        }
+    ],
+    "wof:id":873926211,
+    "wof:lastmodified":1464300331,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.212051,
+    42.758018,
+    -71.212051,
+    42.758018
+],
+  "geometry": {"coordinates":[-71.212051,42.758018],"type":"Point"}
+}

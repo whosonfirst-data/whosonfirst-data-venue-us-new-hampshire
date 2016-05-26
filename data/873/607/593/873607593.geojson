@@ -1,0 +1,75 @@
+{
+  "id": 873607593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.875216,43.207844,-70.875216,43.207844",
+    "geom:latitude":43.207844,
+    "geom:longitude":-70.875216,
+    "iso:country":"US",
+    "sg:address":"700 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 2900",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aiY7sO1ksxJiJoKsmF5XX_43.207844_-70.875216@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295089,
+    "wof:geomhash":"c161d08b1eddb814a3b6ffb1329aa1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873607593
+        }
+    ],
+    "wof:id":873607593,
+    "wof:lastmodified":1464295089,
+    "wof:name":"Seacoast Pediatric Dentistry",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -70.875216,
+    43.207844,
+    -70.875216,
+    43.207844
+],
+  "geometry": {"coordinates":[-70.87521599999999,43.207844],"type":"Point"}
+}

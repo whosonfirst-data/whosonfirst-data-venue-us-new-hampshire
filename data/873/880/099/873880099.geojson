@@ -1,0 +1,75 @@
+{
+  "id": 873880099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46814,43.530434,-71.46814,43.530434",
+    "geom:latitude":43.530434,
+    "geom:longitude":-71.46814,
+    "iso:country":"US",
+    "sg:address":"70 Church St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1282",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jp5afcYhM6D6fbljERmwK_43.530434_-71.468140@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299436,
+    "wof:geomhash":"b5c1d968a37809acc8b1574606245f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873880099
+        }
+    ],
+    "wof:id":873880099,
+    "wof:lastmodified":1464299436,
+    "wof:name":"Pet's Preference",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.46814,
+    43.530434,
+    -71.46814,
+    43.530434
+],
+  "geometry": {"coordinates":[-71.46814000000001,43.530434],"type":"Point"}
+}

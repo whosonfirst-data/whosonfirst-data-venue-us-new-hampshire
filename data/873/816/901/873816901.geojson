@@ -1,0 +1,71 @@
+{
+  "id": 873816901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471966,43.53067,-71.471966,43.53067",
+    "geom:latitude":43.53067,
+    "geom:longitude":-71.471966,
+    "iso:country":"US",
+    "sg:address":"735 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4200",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LYPP6A20XaU7IgysmHd4t_43.530670_-71.471966@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298051,
+    "wof:geomhash":"4bb315487430832606b9e7f03cb19faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873816901
+        }
+    ],
+    "wof:id":873816901,
+    "wof:lastmodified":1464298051,
+    "wof:name":"TMS Cleaning",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.471966,
+    43.53067,
+    -71.471966,
+    43.53067
+],
+  "geometry": {"coordinates":[-71.47196599999999,43.53067],"type":"Point"}
+}

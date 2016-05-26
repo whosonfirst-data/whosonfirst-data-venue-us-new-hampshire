@@ -1,0 +1,71 @@
+{
+  "id": 873855037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521132,43.166735,-71.521132,43.166735",
+    "geom:latitude":43.166735,
+    "geom:longitude":-71.521132,
+    "iso:country":"US",
+    "sg:address":"533 State Rte 3a",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 6570",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rQ84tg9nr8LBa8vupZK2R_43.166735_-71.521132@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298914,
+    "wof:geomhash":"c23ebd2719cdf6aa7cb799b34c72e514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873855037
+        }
+    ],
+    "wof:id":873855037,
+    "wof:lastmodified":1464298914,
+    "wof:name":"N Financial Svc",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.521132,
+    43.166735,
+    -71.521132,
+    43.166735
+],
+  "geometry": {"coordinates":[-71.52113199999999,43.166735],"type":"Point"}
+}

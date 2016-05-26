@@ -1,0 +1,77 @@
+{
+  "id": 873825377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.142511,43.398201,-71.142511,43.398201",
+    "geom:latitude":43.398201,
+    "geom:longitude":-71.142511,
+    "iso:country":"US",
+    "sg:address":"151 Ridge Road Top",
+    "sg:city":"New Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 859 7113",
+    "sg:postcode":"03855",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "industrial",
+        "commercial",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813637,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dV1utV4ZpcyvlTQgHQE1D_43.398201_-71.142511@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298244,
+    "wof:geomhash":"4cfd609b5f8c2478466b719d070ed5fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85813637,
+            "region_id":85688689,
+            "venue_id":873825377
+        }
+    ],
+    "wof:id":873825377,
+    "wof:lastmodified":1464298244,
+    "wof:name":"Santoro Plumbing & Heating",
+    "wof:parent_id":85813637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "industrial",
+        "commercial",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.142511,
+    43.398201,
+    -71.142511,
+    43.398201
+],
+  "geometry": {"coordinates":[-71.142511,43.398201],"type":"Point"}
+}

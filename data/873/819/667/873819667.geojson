@@ -1,0 +1,71 @@
+{
+  "id": 873819667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.010362,43.142182,-71.010362,43.142182",
+    "geom:latitude":43.142182,
+    "geom:longitude":-71.010362,
+    "iso:country":"US",
+    "sg:address":"157 Calef Hwy",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2827",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25PXfAjNMEEAnSW2lm00Ib_43.142182_-71.010362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298114,
+    "wof:geomhash":"f28d35d047716195978369ce8e53faeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873819667
+        }
+    ],
+    "wof:id":873819667,
+    "wof:lastmodified":1464298114,
+    "wof:name":"Oyster River Veterinary Hosp",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.010362,
+    43.142182,
+    -71.010362,
+    43.142182
+],
+  "geometry": {"coordinates":[-71.010362,43.142182],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873710341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555949,42.714947,-71.555949,42.714947",
+    "geom:latitude":42.714947,
+    "geom:longitude":-71.555949,
+    "iso:country":"US",
+    "sg:address":"15 Twiss Ln",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2802",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mXkOWexuxmRETT8q8QPOO_42.714947_-71.555949@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296525,
+    "wof:geomhash":"2151f48215b5e98e40880837a95abbaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873710341
+        }
+    ],
+    "wof:id":873710341,
+    "wof:lastmodified":1464296525,
+    "wof:name":"Anderson Cw Excavation",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.555949,
+    42.714947,
+    -71.555949,
+    42.714947
+],
+  "geometry": {"coordinates":[-71.555949,42.714947],"type":"Point"}
+}

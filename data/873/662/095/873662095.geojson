@@ -1,0 +1,71 @@
+{
+  "id": 873662095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.994452,43.189008,-70.994452,43.189008",
+    "geom:latitude":43.189008,
+    "geom:longitude":-70.994452,
+    "iso:country":"US",
+    "sg:address":"64 Hayes Rd",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 5891",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PYagwvpkHj0TwbOd7Anlo_43.189008_-70.994452@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295720,
+    "wof:geomhash":"b3435687d2db9bf6694440bf883b9186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873662095
+        }
+    ],
+    "wof:id":873662095,
+    "wof:lastmodified":1464295720,
+    "wof:name":"Towne Heating",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.994452,
+    43.189008,
+    -70.994452,
+    43.189008
+],
+  "geometry": {"coordinates":[-70.994452,43.189008],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873796259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.591026,42.842874,-71.591026,42.842874",
+    "geom:latitude":42.842874,
+    "geom:longitude":-71.591026,
+    "iso:country":"US",
+    "sg:address":"21 Cricket Corner Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 0908",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jZLtbLOvNcvhW4CRBrGXH_42.842874_-71.591026@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297729,
+    "wof:geomhash":"fef05f277dc2ceb69d962e870f46311b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873796259
+        }
+    ],
+    "wof:id":873796259,
+    "wof:lastmodified":1464297729,
+    "wof:name":"D O S Dental Lab",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.591026,
+    42.842874,
+    -71.591026,
+    42.842874
+],
+  "geometry": {"coordinates":[-71.591026,42.842874],"type":"Point"}
+}

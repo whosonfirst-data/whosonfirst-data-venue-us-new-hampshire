@@ -1,0 +1,71 @@
+{
+  "id": 873656053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379171,42.917631,-71.379171,42.917631",
+    "geom:latitude":42.917631,
+    "geom:longitude":-71.379171,
+    "iso:country":"US",
+    "sg:address":"214 Rockingham Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 5155",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qk93HO0ODztnjaM50s0uc_42.917631_-71.379171@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295657,
+    "wof:geomhash":"03d2152165d874cb212e3693642884b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873656053
+        }
+    ],
+    "wof:id":873656053,
+    "wof:lastmodified":1464295657,
+    "wof:name":"Personal Auto Sales USA",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.379171,
+    42.917631,
+    -71.379171,
+    42.917631
+],
+  "geometry": {"coordinates":[-71.379171,42.917631],"type":"Point"}
+}

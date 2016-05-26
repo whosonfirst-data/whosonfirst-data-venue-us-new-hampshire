@@ -1,0 +1,72 @@
+{
+  "id": 873891473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471409,43.039983,-71.471409,43.039983",
+    "geom:latitude":43.039983,
+    "geom:longitude":-71.471409,
+    "iso:country":"US",
+    "sg:address":"28 W River Rd",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 656 5600",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "maintenance"
+    ],
+    "sg:website":"www.oxfordhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gxUaK6p65r07PME02nhPn_43.039983_-71.471409@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299656,
+    "wof:geomhash":"d77a7aa63725346eff5a03e043e548d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873891473
+        }
+    ],
+    "wof:id":873891473,
+    "wof:lastmodified":1464299656,
+    "wof:name":"Oxford Health Plan",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.471409,
+    43.039983,
+    -71.471409,
+    43.039983
+],
+  "geometry": {"coordinates":[-71.47140899999999,43.039983],"type":"Point"}
+}

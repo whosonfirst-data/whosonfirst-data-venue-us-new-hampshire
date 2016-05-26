@@ -1,0 +1,71 @@
+{
+  "id": 873901705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.749173,43.736349,-71.749173,43.736349",
+    "geom:latitude":43.736349,
+    "geom:longitude":-71.749173,
+    "iso:country":"US",
+    "sg:address":"159 Bell Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3071",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ftQjGOO6BxWWdRsilHGj8_43.736349_-71.749173@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299852,
+    "wof:geomhash":"3803dcc75fae02113d1b89569caea295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873901705
+        }
+    ],
+    "wof:id":873901705,
+    "wof:lastmodified":1464299852,
+    "wof:name":"J S Adams Locksmithing",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.749173,
+    43.736349,
+    -71.749173,
+    43.736349
+],
+  "geometry": {"coordinates":[-71.749173,43.736349],"type":"Point"}
+}

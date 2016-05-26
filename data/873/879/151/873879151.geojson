@@ -1,0 +1,71 @@
+{
+  "id": 873879151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059432,43.265317,-71.059432,43.265317",
+    "geom:latitude":43.265317,
+    "geom:longitude":-71.059432,
+    "iso:country":"US",
+    "sg:address":"76 Long Shore Dr",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 5377",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XnKMWj53TRCCwbO0nA8z6_43.265317_-71.059432@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299417,
+    "wof:geomhash":"2cb1288f0763d569eca2773336cb405d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873879151
+        }
+    ],
+    "wof:id":873879151,
+    "wof:lastmodified":1464299417,
+    "wof:name":"Houle Construction",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.059432,
+    43.265317,
+    -71.059432,
+    43.265317
+],
+  "geometry": {"coordinates":[-71.059432,43.265317],"type":"Point"}
+}

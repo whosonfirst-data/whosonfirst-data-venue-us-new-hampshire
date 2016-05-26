@@ -1,0 +1,71 @@
+{
+  "id": 873693497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.832085,43.15369,-71.832085,43.15369",
+    "geom:latitude":43.15369,
+    "geom:longitude":-71.832085,
+    "iso:country":"US",
+    "sg:address":"1 Bear Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 8427",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20hecYRmty2YLkwF5yn74M_43.153690_-71.832085@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296333,
+    "wof:geomhash":"9569ddb3e07a0726aac3ce9e1ba68fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873693497
+        }
+    ],
+    "wof:id":873693497,
+    "wof:lastmodified":1464296333,
+    "wof:name":"S Squared",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.832085,
+    43.15369,
+    -71.832085,
+    43.15369
+],
+  "geometry": {"coordinates":[-71.83208500000001,43.15369],"type":"Point"}
+}

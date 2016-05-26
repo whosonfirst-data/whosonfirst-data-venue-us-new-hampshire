@@ -1,0 +1,78 @@
+{
+  "id": 873855157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.338977,42.834964,-71.338977,42.834964",
+    "geom:latitude":42.834964,
+    "geom:longitude":-71.338977,
+    "iso:country":"US",
+    "sg:address":"171 Londonderry Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 9683",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sB9kmjiudg8F2F2Hw8NGg_42.834964_-71.338977@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298917,
+    "wof:geomhash":"34785676e6aefc447cd30344ef63b61d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873855157
+        }
+    ],
+    "wof:id":873855157,
+    "wof:lastmodified":1464298917,
+    "wof:name":"HLA Registry Foundation Inc",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -71.338977,
+    42.834964,
+    -71.338977,
+    42.834964
+],
+  "geometry": {"coordinates":[-71.338977,42.834964],"type":"Point"}
+}

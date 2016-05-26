@@ -1,0 +1,72 @@
+{
+  "id": 873928277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.563103,43.272598,-71.563103,43.272598",
+    "geom:latitude":43.272598,
+    "geom:longitude":-71.563103,
+    "iso:country":"US",
+    "sg:address":"1 Monitor Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7777",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "sg:website":"www.concordmonitor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w5jAr00oJEGXAqLt47RzY_43.272598_-71.563103@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300374,
+    "wof:geomhash":"a452ad943fb24e16e826f54a05971849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873928277
+        }
+    ],
+    "wof:id":873928277,
+    "wof:lastmodified":1464300374,
+    "wof:name":"Concord Monitor",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -71.563103,
+    43.272598,
+    -71.563103,
+    43.272598
+],
+  "geometry": {"coordinates":[-71.563103,43.272598],"type":"Point"}
+}

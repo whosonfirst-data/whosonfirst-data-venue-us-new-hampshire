@@ -1,0 +1,78 @@
+{
+  "id": 873833857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.971708,43.116228,-70.971708,43.116228",
+    "geom:latitude":43.116228,
+    "geom:longitude":-70.971708,
+    "iso:country":"US",
+    "sg:address":"185 Wednesday Hill Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 7211",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "herb",
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dAkDfpb6wGLubrBDtWeO5_43.116228_-70.971708@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298422,
+    "wof:geomhash":"7a37fc6385c8f81b4e17b6c9e227ce30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873833857
+        }
+    ],
+    "wof:id":873833857,
+    "wof:lastmodified":1464298422,
+    "wof:name":"Misty Meadows Farm",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb",
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [
+    -70.971708,
+    43.116228,
+    -70.971708,
+    43.116228
+],
+  "geometry": {"coordinates":[-70.97170800000001,43.116228],"type":"Point"}
+}

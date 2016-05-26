@@ -1,0 +1,76 @@
+{
+  "id": 873881777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439786,42.984979,-71.439786,42.984979",
+    "geom:latitude":42.984979,
+    "geom:longitude":-71.439786,
+    "iso:country":"US",
+    "sg:address":"401 Cypress St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 4111",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.mhcgm.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ohIwjQ6yuT79elfytyVlb_42.984979_-71.439786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299465,
+    "wof:geomhash":"fb36dd921e9e46fd80e18b21bee54a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873881777
+        }
+    ],
+    "wof:id":873881777,
+    "wof:lastmodified":1464299465,
+    "wof:name":"Mental Health Ctr",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.439786,
+    42.984979,
+    -71.439786,
+    42.984979
+],
+  "geometry": {"coordinates":[-71.439786,42.984979],"type":"Point"}
+}

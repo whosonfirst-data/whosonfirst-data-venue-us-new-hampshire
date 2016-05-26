@@ -1,0 +1,73 @@
+{
+  "id": 873794215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464371,43.544794,-71.464371,43.544794",
+    "geom:latitude":43.544794,
+    "geom:longitude":-71.464371,
+    "iso:country":"US",
+    "sg:address":"670 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2126",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28eWejuhFpt2kaFb58tUQA_43.544794_-71.464371@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297705,
+    "wof:geomhash":"9f052546cf941b75bae87dad18b64d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873794215
+        }
+    ],
+    "wof:id":873794215,
+    "wof:lastmodified":1464297705,
+    "wof:name":"Ouellette Plumbing & Heating",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.464371,
+    43.544794,
+    -71.464371,
+    43.544794
+],
+  "geometry": {"coordinates":[-71.464371,43.544794],"type":"Point"}
+}

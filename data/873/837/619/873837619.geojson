@@ -1,0 +1,70 @@
+{
+  "id": 873837619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448328,43.06778,-71.448328,43.06778",
+    "geom:latitude":43.06778,
+    "geom:longitude":-71.448328,
+    "iso:country":"US",
+    "sg:address":"1397 Hooksett Rd",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 0801",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "airport"
+    ],
+    "sg:website":"www.evergreenmata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AJsHg96sBff92gUJwJG3S_43.067780_-71.448328@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298498,
+    "wof:geomhash":"705a9ee4d20bb4bff2318e50ca748906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873837619
+        }
+    ],
+    "wof:id":873837619,
+    "wof:lastmodified":1464298498,
+    "wof:name":"Manchester Limousine",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.448328,
+    43.06778,
+    -71.448328,
+    43.06778
+],
+  "geometry": {"coordinates":[-71.448328,43.06778],"type":"Point"}
+}

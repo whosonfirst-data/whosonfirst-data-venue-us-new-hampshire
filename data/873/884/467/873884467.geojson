@@ -1,0 +1,71 @@
+{
+  "id": 873884467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.628875,43.44735,-71.628875,43.44735",
+    "geom:latitude":43.44735,
+    "geom:longitude":-71.628875,
+    "iso:country":"US",
+    "sg:address":"880 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 0001",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nHjQftFkb3v0657UBvzpA_43.447350_-71.628875@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299528,
+    "wof:geomhash":"1815a2e8a875c62c334b12645f853cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873884467
+        }
+    ],
+    "wof:id":873884467,
+    "wof:lastmodified":1464299528,
+    "wof:name":"Rent Way",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.628875,
+    43.44735,
+    -71.628875,
+    43.44735
+],
+  "geometry": {"coordinates":[-71.62887499999999,43.44735],"type":"Point"}
+}

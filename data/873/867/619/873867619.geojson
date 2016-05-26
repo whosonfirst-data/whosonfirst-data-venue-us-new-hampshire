@@ -1,0 +1,71 @@
+{
+  "id": 873867619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.673206,42.754487,-71.673206,42.754487",
+    "geom:latitude":42.754487,
+    "geom:longitude":-71.673206,
+    "iso:country":"US",
+    "sg:address":"195 State Rte 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 4113",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "blacksmith",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wzoSyvVGydl2hcMy97po6_42.754487_-71.673206@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299184,
+    "wof:geomhash":"adb5405649356d4ab3396d9c5fe73fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873867619
+        }
+    ],
+    "wof:id":873867619,
+    "wof:lastmodified":1464299184,
+    "wof:name":"Old Smithy Shop",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.673206,
+    42.754487,
+    -71.673206,
+    42.754487
+],
+  "geometry": {"coordinates":[-71.67320599999999,42.754487],"type":"Point"}
+}

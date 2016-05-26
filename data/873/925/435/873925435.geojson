@@ -1,0 +1,81 @@
+{
+  "id": 873925435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.255674,42.773099,-71.255674,42.773099",
+    "geom:latitude":42.773099,
+    "geom:longitude":-71.255674,
+    "iso:country":"US",
+    "sg:address":"4 Commercial Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6888",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "goods-wholesale",
+        "manufacturer",
+        "optometrists'",
+        "machinery"
+    ],
+    "sg:website":"http://www.andcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_419DY8iygsaGXk3CaSBmlu_42.773099_-71.255674@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300316,
+    "wof:geomhash":"2088e2c0fcaf8b8d4548000c9580da4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925435
+        }
+    ],
+    "wof:id":873925435,
+    "wof:lastmodified":1464300316,
+    "wof:name":"Andover Corporation",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "goods-wholesale",
+        "manufacturer",
+        "optometrists'",
+        "machinery"
+    ]
+},
+  "bbox": [
+    -71.255674,
+    42.773099,
+    -71.255674,
+    42.773099
+],
+  "geometry": {"coordinates":[-71.255674,42.773099],"type":"Point"}
+}

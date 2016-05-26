@@ -1,0 +1,69 @@
+{
+  "id": 873760451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.783793,42.851987,-71.783793,42.851987",
+    "geom:latitude":42.851987,
+    "geom:longitude":-71.783793,
+    "iso:country":"US",
+    "sg:address":"67 Davisville Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 6248",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_482yGk7vySgL74uodjTTT4_42.851987_-71.783793@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297213,
+    "wof:geomhash":"dc0890f468490c990b8e3db5bc142150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873760451
+        }
+    ],
+    "wof:id":873760451,
+    "wof:lastmodified":1464297213,
+    "wof:name":"B & D Septic Svc",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.783793,
+    42.851987,
+    -71.783793,
+    42.851987
+],
+  "geometry": {"coordinates":[-71.783793,42.851987],"type":"Point"}
+}

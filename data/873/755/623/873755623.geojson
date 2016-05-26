@@ -1,0 +1,64 @@
+{
+  "id": 873755623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175329,44.38869,-71.175329,44.38869",
+    "geom:latitude":44.38869,
+    "geom:longitude":-71.175329,
+    "iso:country":"US",
+    "sg:address":"78 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5003",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lHgAqFJynrgaRmPz1yY06_44.388690_-71.175329@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297152,
+    "wof:geomhash":"dec33fe5b171d56519180129ea79a0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873755623
+        }
+    ],
+    "wof:id":873755623,
+    "wof:lastmodified":1464297152,
+    "wof:name":"Gorham Deli Mart",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.175329,
+    44.38869,
+    -71.175329,
+    44.38869
+],
+  "geometry": {"coordinates":[-71.175329,44.38869],"type":"Point"}
+}

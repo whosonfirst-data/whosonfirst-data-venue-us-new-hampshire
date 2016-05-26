@@ -1,0 +1,75 @@
+{
+  "id": 873790863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426754,42.773483,-71.426754,42.773483",
+    "geom:latitude":42.773483,
+    "geom:longitude":-71.426754,
+    "iso:country":"US",
+    "sg:address":"108 Highland St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 1302",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop",
+        "top",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bSzZt8IB4d7SPGHiHVIhj_42.773483_-71.426754@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297651,
+    "wof:geomhash":"36615a8cbca04a1d06d7983258c51321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873790863
+        }
+    ],
+    "wof:id":873790863,
+    "wof:lastmodified":1464297651,
+    "wof:name":"Theberge Auto",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "top",
+        "paint"
+    ]
+},
+  "bbox": [
+    -71.426754,
+    42.773483,
+    -71.426754,
+    42.773483
+],
+  "geometry": {"coordinates":[-71.426754,42.773483],"type":"Point"}
+}

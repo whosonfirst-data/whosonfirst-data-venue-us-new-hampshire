@@ -1,0 +1,73 @@
+{
+  "id": 873665447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831551,43.227718,-70.831551,43.227718",
+    "geom:latitude":43.227718,
+    "geom:longitude":-70.831551,
+    "iso:country":"US",
+    "sg:address":"472 Silver St",
+    "sg:city":"Rollinsford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 0831",
+    "sg:postcode":"03869",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hOionOtLMNMytjqB2e42k_43.227718_-70.831551@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295755,
+    "wof:geomhash":"f5cd6c0e2c82adc3b420083c7c606e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873665447
+        }
+    ],
+    "wof:id":873665447,
+    "wof:lastmodified":1464295755,
+    "wof:name":"Rollinsford Highway Dept",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -70.831551,
+    43.227718,
+    -70.831551,
+    43.227718
+],
+  "geometry": {"coordinates":[-70.831551,43.227718],"type":"Point"}
+}

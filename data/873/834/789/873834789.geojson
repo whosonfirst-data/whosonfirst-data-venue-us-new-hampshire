@@ -1,0 +1,69 @@
+{
+  "id": 873834789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.942091,43.084134,-70.942091,43.084134",
+    "geom:latitude":43.084134,
+    "geom:longitude":-70.942091,
+    "iso:country":"US",
+    "sg:address":"7 Grape St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 9009",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59SqCFWsKjEZUGcw6HWBg0_43.084134_-70.942091@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298439,
+    "wof:geomhash":"50a93f02ec2d8c9d971d26d0dc2d21d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873834789
+        }
+    ],
+    "wof:id":873834789,
+    "wof:lastmodified":1464298439,
+    "wof:name":"Exeter Taxi",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -70.942091,
+    43.084134,
+    -70.942091,
+    43.084134
+],
+  "geometry": {"coordinates":[-70.942091,43.084134],"type":"Point"}
+}

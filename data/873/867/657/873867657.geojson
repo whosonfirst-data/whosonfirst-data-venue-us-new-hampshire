@@ -1,0 +1,71 @@
+{
+  "id": 873867657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.754573,43.753434,-71.754573,43.753434",
+    "geom:latitude":43.753434,
+    "geom:longitude":-71.754573,
+    "iso:country":"US",
+    "sg:address":"251 Mayhew Tpke",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 6355",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843507,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ppUaqyaCd1NmWpGt8H3n_43.753434_-71.754573@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299185,
+    "wof:geomhash":"5b6f81d52c58dabd1be1b11a18def500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85843507,
+            "region_id":85688689,
+            "venue_id":873867657
+        }
+    ],
+    "wof:id":873867657,
+    "wof:lastmodified":1464299185,
+    "wof:name":"Tenney Mountain Internal Med",
+    "wof:parent_id":85843507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.754573,
+    43.753434,
+    -71.754573,
+    43.753434
+],
+  "geometry": {"coordinates":[-71.75457299999999,43.753434],"type":"Point"}
+}

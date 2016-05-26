@@ -1,0 +1,71 @@
+{
+  "id": 873619445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.099831,43.39285,-72.099831,43.39285",
+    "geom:latitude":43.39285,
+    "geom:longitude":-72.099831,
+    "iso:country":"US",
+    "sg:address":"132 North Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 2169",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CgQkKU9alw52x0WLKYLRH_43.392850_-72.099831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295245,
+    "wof:geomhash":"cab803c19dc64167bb6c4b6f416acee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873619445
+        }
+    ],
+    "wof:id":873619445,
+    "wof:lastmodified":1464295245,
+    "wof:name":"Creative Carpentry",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.099831,
+    43.39285,
+    -72.099831,
+    43.39285
+],
+  "geometry": {"coordinates":[-72.09983099999999,43.39285],"type":"Point"}
+}

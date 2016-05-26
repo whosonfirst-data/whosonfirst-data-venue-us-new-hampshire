@@ -1,0 +1,71 @@
+{
+  "id": 873705373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.664925,42.709846,-71.664925,42.709846",
+    "geom:latitude":42.709846,
+    "geom:longitude":-71.664925,
+    "iso:country":"US",
+    "sg:address":"12 Townsend Hill Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 5330",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "occupational",
+        "therapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EFiXBARvdTqIm3KEKCMax_42.709846_-71.664925@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296462,
+    "wof:geomhash":"84eaa9b13dd2f080860557ec29dad94d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873705373
+        }
+    ],
+    "wof:id":873705373,
+    "wof:lastmodified":1464296462,
+    "wof:name":"HTCS",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "therapist"
+    ]
+},
+  "bbox": [
+    -71.664925,
+    42.709846,
+    -71.664925,
+    42.709846
+],
+  "geometry": {"coordinates":[-71.664925,42.709846],"type":"Point"}
+}

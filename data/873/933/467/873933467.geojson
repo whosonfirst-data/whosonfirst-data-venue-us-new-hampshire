@@ -1,0 +1,80 @@
+{
+  "id": 873933467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.123754,44.040478,-71.123754,44.040478",
+    "geom:latitude":44.040478,
+    "geom:longitude":-71.123754,
+    "iso:country":"US",
+    "sg:address":"2129 White Mountain Hwy",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2899",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mini"
+    ],
+    "sg:website":"www.bananavillage.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kdSFeOUYukNz9UiLgWzXm_44.040478_-71.123754@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300472,
+    "wof:geomhash":"5b0bb8f4971bbc07c84657971f3888e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933467
+        }
+    ],
+    "wof:id":873933467,
+    "wof:lastmodified":1464300472,
+    "wof:name":"Banana Village",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mini"
+    ]
+},
+  "bbox": [
+    -71.123754,
+    44.040478,
+    -71.123754,
+    44.040478
+],
+  "geometry": {"coordinates":[-71.12375400000001,44.040478],"type":"Point"}
+}

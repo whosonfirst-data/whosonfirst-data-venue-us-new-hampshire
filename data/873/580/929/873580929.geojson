@@ -1,0 +1,69 @@
+{
+  "id": 873580929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.380494,42.849449,-71.380494,42.849449",
+    "geom:latitude":42.849449,
+    "geom:longitude":-71.380494,
+    "iso:country":"US",
+    "sg:address":"6 Fiddler's Ridge Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 537 9600",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892259,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28d1ggJXpYFt52wuwQtsS4_42.849449_-71.380494@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294732,
+    "wof:geomhash":"851b2c71f5ef269a57ae955ba9e7b37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892259,
+            "region_id":85688689,
+            "venue_id":873580929
+        }
+    ],
+    "wof:id":873580929,
+    "wof:lastmodified":1464294732,
+    "wof:name":"Veterinary Homecare Svc",
+    "wof:parent_id":85892259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.380494,
+    42.849449,
+    -71.380494,
+    42.849449
+],
+  "geometry": {"coordinates":[-71.380494,42.849449],"type":"Point"}
+}

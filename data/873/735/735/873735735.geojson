@@ -1,0 +1,71 @@
+{
+  "id": 873735735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.791569,43.191024,-71.791569,43.191024",
+    "geom:latitude":43.191024,
+    "geom:longitude":-71.791569,
+    "iso:country":"US",
+    "sg:address":"9 Foster Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7830",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "yarn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VU7ZhCUPVCAhMVsr6xGbq_43.191024_-71.791569@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296867,
+    "wof:geomhash":"6491ea680a019e2c2473bbbfcabc63ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873735735
+        }
+    ],
+    "wof:id":873735735,
+    "wof:lastmodified":1464296867,
+    "wof:name":"Fiber Studio",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yarn"
+    ]
+},
+  "bbox": [
+    -71.791569,
+    43.191024,
+    -71.791569,
+    43.191024
+],
+  "geometry": {"coordinates":[-71.791569,43.191024],"type":"Point"}
+}

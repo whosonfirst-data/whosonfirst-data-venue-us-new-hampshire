@@ -1,0 +1,71 @@
+{
+  "id": 873685813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.054673,43.048258,-71.054673,43.048258",
+    "geom:latitude":43.048258,
+    "geom:longitude":-71.054673,
+    "iso:country":"US",
+    "sg:address":"73 Old Hedding Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5314",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RHgPRcjeTRwYsIVd8ECdL_43.048258_-71.054673@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296160,
+    "wof:geomhash":"4dab9a800d53c6cbf0a6e80f6015aad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873685813
+        }
+    ],
+    "wof:id":873685813,
+    "wof:lastmodified":1464296160,
+    "wof:name":"Transportation Public",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "local"
+    ]
+},
+  "bbox": [
+    -71.054673,
+    43.048258,
+    -71.054673,
+    43.048258
+],
+  "geometry": {"coordinates":[-71.05467299999999,43.048258],"type":"Point"}
+}

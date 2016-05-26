@@ -1,0 +1,70 @@
+{
+  "id": 873842903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.780054,44.308256,-71.780054,44.308256",
+    "geom:latitude":44.308256,
+    "geom:longitude":-71.780054,
+    "iso:country":"US",
+    "sg:address":"282 Main St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 5377",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director"
+    ],
+    "sg:website":"www.rossfuneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MBt136RmH91PY9oJhV99O_44.308256_-71.780054@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298630,
+    "wof:geomhash":"1e3dbd5c5c1e2377d548b8702d853b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873842903
+        }
+    ],
+    "wof:id":873842903,
+    "wof:lastmodified":1464298630,
+    "wof:name":"Ross Funeral Home",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -71.780054,
+    44.308256,
+    -71.780054,
+    44.308256
+],
+  "geometry": {"coordinates":[-71.78005400000001,44.308256],"type":"Point"}
+}

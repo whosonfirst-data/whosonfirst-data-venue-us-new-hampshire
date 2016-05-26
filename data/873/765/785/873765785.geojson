@@ -1,0 +1,75 @@
+{
+  "id": 873765785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.583033,43.256426,-71.583033,43.256426",
+    "geom:latitude":43.256426,
+    "geom:longitude":-71.583033,
+    "iso:country":"US",
+    "sg:address":"30 N Emperor Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7730",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844917,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fNFP7UGOsilasrCpgrpQr_43.256426_-71.583033@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297309,
+    "wof:geomhash":"d4410fda1c3836e6e6163198cd2bd85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85844917,
+            "region_id":85688689,
+            "venue_id":873765785
+        }
+    ],
+    "wof:id":873765785,
+    "wof:lastmodified":1464297309,
+    "wof:name":"C & D's Market",
+    "wof:parent_id":85844917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.583033,
+    43.256426,
+    -71.583033,
+    43.256426
+],
+  "geometry": {"coordinates":[-71.583033,43.256426],"type":"Point"}
+}

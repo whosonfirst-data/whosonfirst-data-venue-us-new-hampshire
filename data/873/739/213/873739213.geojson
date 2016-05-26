@@ -1,0 +1,69 @@
+{
+  "id": 873739213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.390174,43.292544,-72.390174,43.292544",
+    "geom:latitude":43.292544,
+    "geom:longitude":-72.390174,
+    "iso:country":"US",
+    "sg:address":"220 Scenic Hill Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 7736",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g8Lh2nEmvahEXj2KFhgXn_43.292544_-72.390174@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296910,
+    "wof:geomhash":"f2fed9d506f4bf3b76872fcd77e4a219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873739213
+        }
+    ],
+    "wof:id":873739213,
+    "wof:lastmodified":1464296910,
+    "wof:name":"Decker's Tent Rental",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camping"
+    ]
+},
+  "bbox": [
+    -72.390174,
+    43.292544,
+    -72.390174,
+    43.292544
+],
+  "geometry": {"coordinates":[-72.390174,43.292544],"type":"Point"}
+}

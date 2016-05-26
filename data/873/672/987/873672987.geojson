@@ -1,0 +1,71 @@
+{
+  "id": 873672987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.143614,42.84009,-71.143614,42.84009",
+    "geom:latitude":42.84009,
+    "geom:longitude":-71.143614,
+    "iso:country":"US",
+    "sg:address":"22 Academy Ave",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 8373",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "brake",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yfP98tFSh2qIJ67B2njWA_42.840090_-71.143614@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295830,
+    "wof:geomhash":"7e95ea948fb66f8b067606cb487b358a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873672987
+        }
+    ],
+    "wof:id":873672987,
+    "wof:lastmodified":1464295830,
+    "wof:name":"C & D Auto Clinic",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.143614,
+    42.84009,
+    -71.143614,
+    42.84009
+],
+  "geometry": {"coordinates":[-71.143614,42.84009],"type":"Point"}
+}

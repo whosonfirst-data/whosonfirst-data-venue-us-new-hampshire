@@ -1,0 +1,71 @@
+{
+  "id": 873581173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469393,43.524916,-71.469393,43.524916",
+    "geom:latitude":43.524916,
+    "geom:longitude":-71.469393,
+    "iso:country":"US",
+    "sg:address":"64 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 000 1111",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ao3kcW7ZxC840AqHsI1gl_43.524916_-71.469393@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294734,
+    "wof:geomhash":"ac804b13765a3a411829253602938e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873581173
+        }
+    ],
+    "wof:id":873581173,
+    "wof:lastmodified":1464294734,
+    "wof:name":"Franklin Fire Dept",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.469393,
+    43.524916,
+    -71.469393,
+    43.524916
+],
+  "geometry": {"coordinates":[-71.469393,43.524916],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873833735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.881565,43.225342,-70.881565,43.225342",
+    "geom:latitude":43.225342,
+    "geom:longitude":-70.881565,
+    "iso:country":"US",
+    "sg:address":"44 Kelwyn Dr",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 5768",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UrwBEYx53wYsAGGhp6qkZ_43.225342_-70.881565@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298420,
+    "wof:geomhash":"ea4527086cf45b54f213691201503fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873833735
+        }
+    ],
+    "wof:id":873833735,
+    "wof:lastmodified":1464298420,
+    "wof:name":"Commercial Maintenance & Ldscp",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -70.881565,
+    43.225342,
+    -70.881565,
+    43.225342
+],
+  "geometry": {"coordinates":[-70.88156499999999,43.225342],"type":"Point"}
+}

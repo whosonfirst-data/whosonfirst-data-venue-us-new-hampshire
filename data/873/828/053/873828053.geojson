@@ -1,0 +1,77 @@
+{
+  "id": 873828053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473994,42.98451,-71.473994,42.98451",
+    "geom:latitude":42.98451,
+    "geom:longitude":-71.473994,
+    "iso:country":"US",
+    "sg:address":"18 Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 5854",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ni4taVuB6vDb1LfHEKYTH_42.984510_-71.473994@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298296,
+    "wof:geomhash":"2a577ddd013c78268e239d3dae60b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873828053
+        }
+    ],
+    "wof:id":873828053,
+    "wof:lastmodified":1464298296,
+    "wof:name":"Douglas Automotive",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.473994,
+    42.98451,
+    -71.473994,
+    42.98451
+],
+  "geometry": {"coordinates":[-71.473994,42.98451],"type":"Point"}
+}

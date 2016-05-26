@@ -1,0 +1,73 @@
+{
+  "id": 873625249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.116378,42.783961,-72.116378,42.783961",
+    "geom:latitude":42.783961,
+    "geom:longitude":-72.116378,
+    "iso:country":"US",
+    "sg:address":"117 Scott Pond Rd",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 9246",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nJ9FKGNEz5ezsaPjm2DMy_42.783961_-72.116378@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295313,
+    "wof:geomhash":"0cedf4357c8a929c9395f0ded70bf6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873625249
+        }
+    ],
+    "wof:id":873625249,
+    "wof:lastmodified":1464295313,
+    "wof:name":"North Coast Technologies",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -72.116378,
+    42.783961,
+    -72.116378,
+    42.783961
+],
+  "geometry": {"coordinates":[-72.116378,42.783961],"type":"Point"}
+}

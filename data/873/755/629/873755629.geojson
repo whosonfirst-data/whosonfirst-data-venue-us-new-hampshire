@@ -1,0 +1,78 @@
+{
+  "id": 873755629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.899496,42.990574,-70.899496,42.990574",
+    "geom:latitude":42.990574,
+    "geom:longitude":-70.899496,
+    "iso:country":"US",
+    "sg:address":"133 Stratham Heights Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 9352",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "field",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858307,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qL9PNdCxfqoamQFk1nV40_42.990574_-70.899496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297152,
+    "wof:geomhash":"e38b8bb90496668fae6454602315300f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858307,
+            "region_id":85688689,
+            "venue_id":873755629
+        }
+    ],
+    "wof:id":873755629,
+    "wof:lastmodified":1464297152,
+    "wof:name":"Stratham Excavators Inc",
+    "wof:parent_id":85858307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.899496,
+    42.990574,
+    -70.899496,
+    42.990574
+],
+  "geometry": {"coordinates":[-70.899496,42.990574],"type":"Point"}
+}

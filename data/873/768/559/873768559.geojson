@@ -1,0 +1,69 @@
+{
+  "id": 873768559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751545,42.830813,-71.751545,42.830813",
+    "geom:latitude":42.830813,
+    "geom:longitude":-71.751545,
+    "iso:country":"US",
+    "sg:address":"361 Gibbons Hwy",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 9888",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jDBfY8MHx2kx2peuf8ll5_42.830813_-71.751545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297344,
+    "wof:geomhash":"c6c2ea975ec84cb7ee01c1bdd99f7570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873768559
+        }
+    ],
+    "wof:id":873768559,
+    "wof:lastmodified":1464297344,
+    "wof:name":"House By The Side Of The Road",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.751545,
+    42.830813,
+    -71.751545,
+    42.830813
+],
+  "geometry": {"coordinates":[-71.75154499999999,42.830813],"type":"Point"}
+}

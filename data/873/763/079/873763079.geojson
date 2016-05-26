@@ -1,0 +1,71 @@
+{
+  "id": 873763079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.152734,43.806542,-72.152734,43.806542",
+    "geom:latitude":43.806542,
+    "geom:longitude":-72.152734,
+    "iso:country":"US",
+    "sg:address":"7 Market St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 646 2099",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ILmxhRh4XikUXe3HqIISy_43.806542_-72.152734@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297259,
+    "wof:geomhash":"0685cb147f392f15a8d8a31a0cf48e5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873763079
+        }
+    ],
+    "wof:id":873763079,
+    "wof:lastmodified":1464297259,
+    "wof:name":"Lusardi Anamaria",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "research"
+    ]
+},
+  "bbox": [
+    -72.152734,
+    43.806542,
+    -72.152734,
+    43.806542
+],
+  "geometry": {"coordinates":[-72.152734,43.806542],"type":"Point"}
+}

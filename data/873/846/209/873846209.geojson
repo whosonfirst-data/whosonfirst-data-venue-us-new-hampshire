@@ -1,0 +1,75 @@
+{
+  "id": 873846209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.96414,43.298376,-70.96414,43.298376",
+    "geom:latitude":43.298376,
+    "geom:longitude":-70.96414,
+    "iso:country":"US",
+    "sg:address":"207 S Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 7777",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AxCD6xWUY9YCWQxPvuH9I_43.298376_-70.964140@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298707,
+    "wof:geomhash":"fc269169f64a9cb9742037f07fd8812e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873846209
+        }
+    ],
+    "wof:id":873846209,
+    "wof:lastmodified":1464298707,
+    "wof:name":"A Array Of Flowers & Gifts",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.96414,
+    43.298376,
+    -70.96414,
+    43.298376
+],
+  "geometry": {"coordinates":[-70.96414,43.298376],"type":"Point"}
+}

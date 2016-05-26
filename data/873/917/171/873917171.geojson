@@ -1,0 +1,91 @@
+{
+  "id": 873917171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252727,42.819282,-71.252727,42.819282",
+    "geom:latitude":42.819282,
+    "geom:longitude":-71.252727,
+    "iso:country":"US",
+    "sg:address":"57 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/windham/149196-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0828",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RwhrnOHcuq9lNxavuk8KI_42.819282_-71.252727@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300161,
+    "wof:geomhash":"bd3d608ca6065c19b66b793f81882e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873917171
+        }
+    ],
+    "wof:id":873917171,
+    "wof:lastmodified":1464300161,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.252727,
+    42.819282,
+    -71.252727,
+    42.819282
+],
+  "geometry": {"coordinates":[-71.25272699999999,42.819282],"type":"Point"}
+}

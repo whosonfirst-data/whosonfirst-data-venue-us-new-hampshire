@@ -1,0 +1,71 @@
+{
+  "id": 873822257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43051,44.599935,-71.43051,44.599935",
+    "geom:latitude":44.599935,
+    "geom:longitude":-71.43051,
+    "iso:country":"US",
+    "sg:address":"1192 Stark Hwy",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 1092",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UOJVTcrVV5UU91b9XiJzD_44.599935_-71.430510@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298167,
+    "wof:geomhash":"329895e8add5ea2eb3413ff2d8f8a44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873822257
+        }
+    ],
+    "wof:id":873822257,
+    "wof:lastmodified":1464298167,
+    "wof:name":"Stark Village School",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.43051,
+    44.599935,
+    -71.43051,
+    44.599935
+],
+  "geometry": {"coordinates":[-71.43051,44.599935],"type":"Point"}
+}

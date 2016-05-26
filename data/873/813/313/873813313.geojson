@@ -1,0 +1,71 @@
+{
+  "id": 873813313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073267,43.03844,-71.073267,43.03844",
+    "geom:latitude":43.03844,
+    "geom:longitude":-71.073267,
+    "iso:country":"US",
+    "sg:address":"4 Water St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5220",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUROSwiLB9g9DnfcbXUnV_43.038440_-71.073267@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297983,
+    "wof:geomhash":"0e36501a5904ede9cfbf3a3b96dc41e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873813313
+        }
+    ],
+    "wof:id":873813313,
+    "wof:lastmodified":1464297983,
+    "wof:name":"Deluxe Cleaners",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.073267,
+    43.03844,
+    -71.073267,
+    43.03844
+],
+  "geometry": {"coordinates":[-71.073267,43.03844],"type":"Point"}
+}

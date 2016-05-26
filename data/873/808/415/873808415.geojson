@@ -1,0 +1,71 @@
+{
+  "id": 873808415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.907331,43.131824,-71.907331,43.131824",
+    "geom:latitude":43.131824,
+    "geom:longitude":-71.907331,
+    "iso:country":"US",
+    "sg:address":"213 Center Rd",
+    "sg:city":"Hillsborough",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 6555",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30k9GvrXmfZSTaRcjeFkIy_43.131824_-71.907331@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297898,
+    "wof:geomhash":"d8dd5d8ce2b24881af3fd1dcbcca525f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873808415
+        }
+    ],
+    "wof:id":873808415,
+    "wof:lastmodified":1464297898,
+    "wof:name":"Rosewald Farm",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -71.907331,
+    43.131824,
+    -71.907331,
+    43.131824
+],
+  "geometry": {"coordinates":[-71.907331,43.131824],"type":"Point"}
+}

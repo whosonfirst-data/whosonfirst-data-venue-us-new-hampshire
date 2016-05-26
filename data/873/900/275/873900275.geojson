@@ -1,0 +1,78 @@
+{
+  "id": 873900275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46306,42.977607,-71.46306,42.977607",
+    "geom:latitude":42.977607,
+    "geom:longitude":-71.46306,
+    "iso:country":"US",
+    "sg:address":"110 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8801",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "transit",
+        "authority"
+    ],
+    "sg:website":"www.mtabus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z8kNHEvU4RRNuKoSC7YqZ_42.977607_-71.463060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299822,
+    "wof:geomhash":"49765ae915463e80b6e57184d7c1b683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873900275
+        }
+    ],
+    "wof:id":873900275,
+    "wof:lastmodified":1464299822,
+    "wof:name":"Manchester Transit Authority",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transit",
+        "authority"
+    ]
+},
+  "bbox": [
+    -71.46306,
+    42.977607,
+    -71.46306,
+    42.977607
+],
+  "geometry": {"coordinates":[-71.46306,42.977607],"type":"Point"}
+}

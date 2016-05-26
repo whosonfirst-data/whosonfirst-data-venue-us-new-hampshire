@@ -1,0 +1,77 @@
+{
+  "id": 873907077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.822429,43.184431,-71.822429,43.184431",
+    "geom:latitude":43.184431,
+    "geom:longitude":-71.822429,
+    "iso:country":"US",
+    "sg:address":"27 Rush Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7950",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xeOTpQw3AyJFmAulC9ZK3_43.184431_-71.822429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299960,
+    "wof:geomhash":"17fc0d58a524a5542a4bf76b2c486d15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873907077
+        }
+    ],
+    "wof:id":873907077,
+    "wof:lastmodified":1464299960,
+    "wof:name":"Rush Square Elderly Complex",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.822429,
+    43.184431,
+    -71.822429,
+    43.184431
+],
+  "geometry": {"coordinates":[-71.822429,43.184431],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873813045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.242629,42.792909,-71.242629,42.792909",
+    "geom:latitude":42.792909,
+    "geom:longitude":-71.242629,
+    "iso:country":"US",
+    "sg:address":"16 Dyson Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 1849",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HoXvwEvpD1pihUaTJ7yoR_42.792909_-71.242629@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297979,
+    "wof:geomhash":"504645d77d750dee857e8491b8606998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873813045
+        }
+    ],
+    "wof:id":873813045,
+    "wof:lastmodified":1464297979,
+    "wof:name":"Jam Carpentry",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.242629,
+    42.792909,
+    -71.242629,
+    42.792909
+],
+  "geometry": {"coordinates":[-71.24262899999999,42.792909],"type":"Point"}
+}

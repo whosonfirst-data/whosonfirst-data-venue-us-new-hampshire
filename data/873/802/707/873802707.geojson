@@ -1,0 +1,69 @@
+{
+  "id": 873802707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244559,43.638413,-71.244559,43.638413",
+    "geom:latitude":43.638413,
+    "geom:longitude":-71.244559,
+    "iso:country":"US",
+    "sg:address":"67 Middle Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 5286",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FiW1GbsRzpXSo66Rfvuir_43.638413_-71.244559@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297806,
+    "wof:geomhash":"fbfcf84d86ff2a7544571cd6d7be125f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873802707
+        }
+    ],
+    "wof:id":873802707,
+    "wof:lastmodified":1464297806,
+    "wof:name":"D J's Septic Pumping Svc",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.244559,
+    43.638413,
+    -71.244559,
+    43.638413
+],
+  "geometry": {"coordinates":[-71.244559,43.638413],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873820453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.218801,42.759783,-71.218801,42.759783",
+    "geom:latitude":42.759783,
+    "geom:longitude":-71.218801,
+    "iso:country":"US",
+    "sg:address":"28 Chatham Cir",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 0966",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5leQEtrHPVin8f6ZaDzVYd_42.759783_-71.218801@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298128,
+    "wof:geomhash":"a57c61d75445201fa7980d3d1d71bea4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873820453
+        }
+    ],
+    "wof:id":873820453,
+    "wof:lastmodified":1464298128,
+    "wof:name":"O'Donnell's Plumbing Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.218801,
+    42.759783,
+    -71.218801,
+    42.759783
+],
+  "geometry": {"coordinates":[-71.218801,42.759783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873868217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.103031,43.119145,-71.103031,43.119145",
+    "geom:latitude":43.119145,
+    "geom:longitude":-71.103031,
+    "iso:country":"US",
+    "sg:address":"139 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 9597",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7deEWJYgy9d5kkItbBf7h3_43.119145_-71.103031@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299194,
+    "wof:geomhash":"12a64153cbc93fb1061e40f4d03fcde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873868217
+        }
+    ],
+    "wof:id":873868217,
+    "wof:lastmodified":1464299194,
+    "wof:name":"Nottingham Planning Zoning",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -71.103031,
+    43.119145,
+    -71.103031,
+    43.119145
+],
+  "geometry": {"coordinates":[-71.103031,43.119145],"type":"Point"}
+}

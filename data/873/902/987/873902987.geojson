@@ -1,0 +1,71 @@
+{
+  "id": 873902987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170189,43.205632,-71.170189,43.205632",
+    "geom:latitude":43.205632,
+    "geom:longitude":-71.170189,
+    "iso:country":"US",
+    "sg:address":"301 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7142",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QaRnNyqWWolqFL9y3Nh8A_43.205632_-71.170189@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299879,
+    "wof:geomhash":"3347739a94243779ca302284637ae053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873902987
+        }
+    ],
+    "wof:id":873902987,
+    "wof:lastmodified":1464299879,
+    "wof:name":"Northwood Forge",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -71.170189,
+    43.205632,
+    -71.170189,
+    43.205632
+],
+  "geometry": {"coordinates":[-71.17018899999999,43.205632],"type":"Point"}
+}

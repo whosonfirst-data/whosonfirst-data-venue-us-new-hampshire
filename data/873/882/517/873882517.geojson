@@ -1,0 +1,69 @@
+{
+  "id": 873882517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.060808,43.499319,-72.060808,43.499319",
+    "geom:latitude":43.499319,
+    "geom:longitude":-72.060808,
+    "iso:country":"US",
+    "sg:address":"299 Main St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 6655",
+    "sg:postcode":"03284",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JpQyicUtzDOnTM9bS4z7c_43.499319_-72.060808@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299479,
+    "wof:geomhash":"86bf96963c1731e164055b77265de99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873882517
+        }
+    ],
+    "wof:id":873882517,
+    "wof:lastmodified":1464299479,
+    "wof:name":"Gutgsell & Thipps",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.060808,
+    43.499319,
+    -72.060808,
+    43.499319
+],
+  "geometry": {"coordinates":[-72.06080799999999,43.499319],"type":"Point"}
+}

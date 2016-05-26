@@ -1,0 +1,71 @@
+{
+  "id": 873558033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.143588,43.065041,-71.143588,43.065041",
+    "geom:latitude":43.065041,
+    "geom:longitude":-71.143588,
+    "iso:country":"US",
+    "sg:address":"226 Raymond Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 6551",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fa8LvZ2PFqCAnWNHPStPP_43.065041_-71.143588@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294471,
+    "wof:geomhash":"87db1768da45cbde29413ab8d9b3b50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873558033
+        }
+    ],
+    "wof:id":873558033,
+    "wof:lastmodified":1464294471,
+    "wof:name":"Robert J Wise DO",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.143588,
+    43.065041,
+    -71.143588,
+    43.065041
+],
+  "geometry": {"coordinates":[-71.14358799999999,43.065041],"type":"Point"}
+}

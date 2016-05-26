@@ -1,0 +1,77 @@
+{
+  "id": 873730333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975579,43.31225,-70.975579,43.31225",
+    "geom:latitude":43.31225,
+    "geom:longitude":-70.975579,
+    "iso:country":"US",
+    "sg:address":"45 Allen St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 5011",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ae6abplAQKjy68SYesQuX_43.312250_-70.975579@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296783,
+    "wof:geomhash":"44aaee0aec5a57efdc4919a1379288d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873730333
+        }
+    ],
+    "wof:id":873730333,
+    "wof:lastmodified":1464296783,
+    "wof:name":"Scarponi Electric LLC",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.975579,
+    43.31225,
+    -70.975579,
+    43.31225
+],
+  "geometry": {"coordinates":[-70.975579,43.31225],"type":"Point"}
+}

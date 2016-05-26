@@ -1,0 +1,71 @@
+{
+  "id": 873802473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363456,43.55473,-71.363456,43.55473",
+    "geom:latitude":43.55473,
+    "geom:longitude":-71.363456,
+    "iso:country":"US",
+    "sg:address":"645 Cherry Valley Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 0807",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803025,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dvkDISQDzi0C245Glr6Lw_43.554730_-71.363456@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297804,
+    "wof:geomhash":"673021e3b6c8a7a3977a7ee7ec66dfcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85803025,
+            "region_id":85688689,
+            "venue_id":873802473
+        }
+    ],
+    "wof:id":873802473,
+    "wof:lastmodified":1464297804,
+    "wof:name":"Netters Inc",
+    "wof:parent_id":85803025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.363456,
+    43.55473,
+    -71.363456,
+    43.55473
+],
+  "geometry": {"coordinates":[-71.363456,43.55473],"type":"Point"}
+}

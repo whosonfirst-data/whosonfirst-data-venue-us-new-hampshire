@@ -1,0 +1,71 @@
+{
+  "id": 873845475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.242029,43.224825,-71.242029,43.224825",
+    "geom:latitude":43.224825,
+    "geom:longitude":-71.242029,
+    "iso:country":"US",
+    "sg:address":"52 Olde Canterbury Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8777",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MzTXrj4b9uZxJsybR9Uf7_43.224825_-71.242029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298692,
+    "wof:geomhash":"7aa5522a82770ff9d4a1bd2ff201d4f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873845475
+        }
+    ],
+    "wof:id":873845475,
+    "wof:lastmodified":1464298692,
+    "wof:name":"Least Way Auto Sales & Svc",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.242029,
+    43.224825,
+    -71.242029,
+    43.224825
+],
+  "geometry": {"coordinates":[-71.242029,43.224825],"type":"Point"}
+}

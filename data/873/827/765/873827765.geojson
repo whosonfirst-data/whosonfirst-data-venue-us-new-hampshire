@@ -1,0 +1,71 @@
+{
+  "id": 873827765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.085027,43.212514,-71.085027,43.212514",
+    "geom:latitude":43.212514,
+    "geom:longitude":-71.085027,
+    "iso:country":"US",
+    "sg:address":"269 State Rte 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 9341",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aoLTRXpGF5e9ZwcPvfEVs_43.212514_-71.085027@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298291,
+    "wof:geomhash":"6224ad957e72813705dca2743dbaa25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873827765
+        }
+    ],
+    "wof:id":873827765,
+    "wof:lastmodified":1464298291,
+    "wof:name":"LCG LTD",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.085027,
+    43.212514,
+    -71.085027,
+    43.212514
+],
+  "geometry": {"coordinates":[-71.085027,43.212514],"type":"Point"}
+}

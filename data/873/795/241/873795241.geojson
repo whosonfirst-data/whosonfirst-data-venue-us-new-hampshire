@@ -1,0 +1,74 @@
+{
+  "id": 873795241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565117,43.621157,-71.565117,43.621157",
+    "geom:latitude":43.621157,
+    "geom:longitude":-71.565117,
+    "iso:country":"US",
+    "sg:address":"405 State Rte 104",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4063",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Se1comRTUh21ooeYGaGls_43.621157_-71.565117@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297718,
+    "wof:geomhash":"e7fb6ac28d595028be63b88a0525b092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873795241
+        }
+    ],
+    "wof:id":873795241,
+    "wof:lastmodified":1464297718,
+    "wof:name":"Brunt Septic Pumping Inc",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.565117,
+    43.621157,
+    -71.565117,
+    43.621157
+],
+  "geometry": {"coordinates":[-71.565117,43.621157],"type":"Point"}
+}

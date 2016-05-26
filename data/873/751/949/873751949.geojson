@@ -1,0 +1,71 @@
+{
+  "id": 873751949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.740542,43.019813,-71.740542,43.019813",
+    "geom:latitude":43.019813,
+    "geom:longitude":-71.740542,
+    "iso:country":"US",
+    "sg:address":"52 Poor Farm Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 2170",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jH5Tp98d5lpZrmblRNF5O_43.019813_-71.740542@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297100,
+    "wof:geomhash":"c86f18abbf98a207846bba374e0f2cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873751949
+        }
+    ],
+    "wof:id":873751949,
+    "wof:lastmodified":1464297100,
+    "wof:name":"Good Earth Farm",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.740542,
+    43.019813,
+    -71.740542,
+    43.019813
+],
+  "geometry": {"coordinates":[-71.740542,43.019813],"type":"Point"}
+}

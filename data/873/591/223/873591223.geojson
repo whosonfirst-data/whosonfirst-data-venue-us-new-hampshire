@@ -1,0 +1,74 @@
+{
+  "id": 873591223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418161,42.912894,-71.418161,42.912894",
+    "geom:latitude":42.912894,
+    "geom:longitude":-71.418161,
+    "iso:country":"US",
+    "sg:address":"7 Delta Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 3833",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ],
+    "sg:website":"www.electropac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ktWKYPeYkAXxeM8xbxhmp_42.912894_-71.418161@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294846,
+    "wof:geomhash":"042690e7c502acbab610f6a0d121fd90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873591223
+        }
+    ],
+    "wof:id":873591223,
+    "wof:lastmodified":1464294846,
+    "wof:name":"Electropac Protoype",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ]
+},
+  "bbox": [
+    -71.418161,
+    42.912894,
+    -71.418161,
+    42.912894
+],
+  "geometry": {"coordinates":[-71.418161,42.912894],"type":"Point"}
+}

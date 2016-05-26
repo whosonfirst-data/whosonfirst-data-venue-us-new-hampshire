@@ -1,0 +1,79 @@
+{
+  "id": 873704877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976913,43.304248,-70.976913,43.304248",
+    "geom:latitude":43.304248,
+    "geom:longitude":-70.976913,
+    "iso:country":"US",
+    "sg:address":"56 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 0333",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h7XDUyFnMMru5Iu3cClqF_43.304248_-70.976913@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296455,
+    "wof:geomhash":"873462e8c78be5309345ddc31418edd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873704877
+        }
+    ],
+    "wof:id":873704877,
+    "wof:lastmodified":1464296455,
+    "wof:name":"Artstream",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -70.976913,
+    43.304248,
+    -70.976913,
+    43.304248
+],
+  "geometry": {"coordinates":[-70.976913,43.304248],"type":"Point"}
+}

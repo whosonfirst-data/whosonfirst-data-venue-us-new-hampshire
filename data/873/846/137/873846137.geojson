@@ -1,0 +1,71 @@
+{
+  "id": 873846137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462539,43.526337,-71.462539,43.526337",
+    "geom:latitude":43.526337,
+    "geom:longitude":-71.462539,
+    "iso:country":"US",
+    "sg:address":"33 Rowell St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 1089",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w4PxniqRcUZrKpGfRsLPR_43.526337_-71.462539@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298705,
+    "wof:geomhash":"790473f452ecf77af724a48b826d919a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873846137
+        }
+    ],
+    "wof:id":873846137,
+    "wof:lastmodified":1464298705,
+    "wof:name":"Dave Gammon Contractor",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.462539,
+    43.526337,
+    -71.462539,
+    43.526337
+],
+  "geometry": {"coordinates":[-71.46253900000001,43.526337],"type":"Point"}
+}

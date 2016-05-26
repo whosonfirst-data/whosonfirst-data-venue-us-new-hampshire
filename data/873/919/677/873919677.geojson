@@ -1,0 +1,83 @@
+{
+  "id": 873919677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574384,42.806213,-71.574384,42.806213",
+    "geom:latitude":42.806213,
+    "geom:longitude":-71.574384,
+    "iso:country":"US",
+    "sg:address":"11 Caldwell Dr Ste 7",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 2489",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KCH18lpMKf1lXv0aYDr1H_42.806213_-71.574384@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300206,
+    "wof:geomhash":"4e41f0937df5a456ddd958f745abc31d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873919677
+        }
+    ],
+    "wof:id":873919677,
+    "wof:lastmodified":1464300206,
+    "wof:name":"Nelson Custom Machine",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.574384,
+    42.806213,
+    -71.574384,
+    42.806213
+],
+  "geometry": {"coordinates":[-71.57438399999999,42.806213],"type":"Point"}
+}

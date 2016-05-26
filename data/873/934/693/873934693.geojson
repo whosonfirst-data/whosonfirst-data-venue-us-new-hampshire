@@ -1,0 +1,80 @@
+{
+  "id": 873934693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.919266,43.007328,-70.919266,43.007328",
+    "geom:latitude":43.007328,
+    "geom:longitude":-70.919266,
+    "iso:country":"US",
+    "sg:address":"70 Portsmouth Ave Ste 2",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 583 4860",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "civil",
+        "surveyor",
+        "land",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QuSQcFeItBaHQ3PukXzKg_43.007328_-70.919266@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300492,
+    "wof:geomhash":"db08e0879d22ff1c69556cdb6a374ff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873934693
+        }
+    ],
+    "wof:id":873934693,
+    "wof:lastmodified":1464300492,
+    "wof:name":"Beals Associates, P",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "surveyor",
+        "land",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -70.919266,
+    43.007328,
+    -70.919266,
+    43.007328
+],
+  "geometry": {"coordinates":[-70.91926599999999,43.007328],"type":"Point"}
+}

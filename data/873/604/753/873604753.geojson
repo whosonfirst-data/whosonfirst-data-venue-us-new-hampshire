@@ -1,0 +1,71 @@
+{
+  "id": 873604753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.018479,42.823569,-72.018479,42.823569",
+    "geom:latitude":42.823569,
+    "geom:longitude":-72.018479,
+    "iso:country":"US",
+    "sg:address":"4 Memory Ln",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7448",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nnur16b33s0SDhlbsARzm_42.823569_-72.018479@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"42d2a47b0fcba99c6e1de2a7b7d28882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873604753
+        }
+    ],
+    "wof:id":873604753,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Hagstrom Lock & Key Svc",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -72.018479,
+    42.823569,
+    -72.018479,
+    42.823569
+],
+  "geometry": {"coordinates":[-72.018479,42.823569],"type":"Point"}
+}

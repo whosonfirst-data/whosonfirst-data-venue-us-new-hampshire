@@ -1,0 +1,79 @@
+{
+  "id": 873711239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506417,43.189386,-71.506417,43.189386",
+    "geom:latitude":43.189386,
+    "geom:longitude":-71.506417,
+    "iso:country":"US",
+    "sg:address":"117 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 271 2131",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "funds",
+        "safety",
+        "administers",
+        "hwy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wLvj1L0Cz17HlTRSv6TRk_43.189386_-71.506417@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296536,
+    "wof:geomhash":"027bbc2c2a8b920cd5f36c20f33aab02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873711239
+        }
+    ],
+    "wof:id":873711239,
+    "wof:lastmodified":1464296536,
+    "wof:name":"Highway Safety Agency NH",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "funds",
+        "safety",
+        "administers",
+        "hwy"
+    ]
+},
+  "bbox": [
+    -71.506417,
+    43.189386,
+    -71.506417,
+    43.189386
+],
+  "geometry": {"coordinates":[-71.506417,43.189386],"type":"Point"}
+}

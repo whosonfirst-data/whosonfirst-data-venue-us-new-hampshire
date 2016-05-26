@@ -1,0 +1,69 @@
+{
+  "id": 873885557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.391872,43.291511,-72.391872,43.291511",
+    "geom:latitude":43.291511,
+    "geom:longitude":-72.391872,
+    "iso:country":"US",
+    "sg:address":"85 Wheeler Rand Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 3979",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6navh2zCepUULp4SwIG9nu_43.291511_-72.391872@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299549,
+    "wof:geomhash":"0775438d1b34737656ac30e0562ffaa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873885557
+        }
+    ],
+    "wof:id":873885557,
+    "wof:lastmodified":1464299549,
+    "wof:name":"Charlestown Foursquare Church",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.391872,
+    43.291511,
+    -72.391872,
+    43.291511
+],
+  "geometry": {"coordinates":[-72.39187200000001,43.291511],"type":"Point"}
+}

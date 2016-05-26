@@ -1,0 +1,73 @@
+{
+  "id": 873539907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.003765,42.868738,-71.003765,42.868738",
+    "geom:latitude":42.868738,
+    "geom:longitude":-71.003765,
+    "iso:country":"US",
+    "sg:address":"97 Amesbury Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 394 7751",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beer",
+        "ale",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B5ahrITtuOAu3btP7xp77_42.868738_-71.003765@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294259,
+    "wof:geomhash":"5f22ca8c657626484194019e606087e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873539907
+        }
+    ],
+    "wof:id":873539907,
+    "wof:lastmodified":1464294259,
+    "wof:name":"Duke's State Line Store",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.003765,
+    42.868738,
+    -71.003765,
+    42.868738
+],
+  "geometry": {"coordinates":[-71.003765,42.868738],"type":"Point"}
+}

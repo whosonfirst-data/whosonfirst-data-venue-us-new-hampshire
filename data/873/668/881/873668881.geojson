@@ -1,0 +1,73 @@
+{
+  "id": 873668881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444722,43.516596,-71.444722,43.516596",
+    "geom:latitude":43.516596,
+    "geom:longitude":-71.444722,
+    "iso:country":"US",
+    "sg:address":"200 Country Club Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3455",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kUzn5QieHFPiFVfEpEp1F_43.516596_-71.444722@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295789,
+    "wof:geomhash":"baf1f2be866cb93825f1f64e8e87df21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873668881
+        }
+    ],
+    "wof:id":873668881,
+    "wof:lastmodified":1464295789,
+    "wof:name":"Simoneau Foundation Co",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.444722,
+    43.516596,
+    -71.444722,
+    43.516596
+],
+  "geometry": {"coordinates":[-71.444722,43.516596],"type":"Point"}
+}

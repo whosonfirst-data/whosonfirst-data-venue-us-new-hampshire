@@ -1,0 +1,71 @@
+{
+  "id": 873750085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.720197,43.071101,-70.720197,43.071101",
+    "geom:latitude":43.071101,
+    "geom:longitude":-70.720197,
+    "iso:country":"US",
+    "sg:address":"80 Cranfield St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 1800",
+    "sg:postcode":"03854",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tool",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85848091,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73iQBGpdPzkjc1xphjA8nz_43.071101_-70.720197@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297075,
+    "wof:geomhash":"a5dadb83938378d4d901ed18411f8fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85848091,
+            "region_id":85688689,
+            "venue_id":873750085
+        }
+    ],
+    "wof:id":873750085,
+    "wof:lastmodified":1464297075,
+    "wof:name":"Road Tools",
+    "wof:parent_id":85848091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "used"
+    ]
+},
+  "bbox": [
+    -70.720197,
+    43.071101,
+    -70.720197,
+    43.071101
+],
+  "geometry": {"coordinates":[-70.720197,43.071101],"type":"Point"}
+}

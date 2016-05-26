@@ -1,0 +1,70 @@
+{
+  "id": 873870603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241314,42.762983,-71.241314,42.762983",
+    "geom:latitude":42.762983,
+    "geom:longitude":-71.241314,
+    "iso:country":"US",
+    "sg:address":"8 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2500",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "sg:website":"www.telnetsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76xXZ3i4WMq67hpM359PNt_42.762983_-71.241314@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299235,
+    "wof:geomhash":"5052989ac5da475e7709762e3823a507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873870603
+        }
+    ],
+    "wof:id":873870603,
+    "wof:lastmodified":1464299235,
+    "wof:name":"Tel-Net Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.241314,
+    42.762983,
+    -71.241314,
+    42.762983
+],
+  "geometry": {"coordinates":[-71.241314,42.762983],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873933719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.003784,43.148743,-71.003784,43.148743",
+    "geom:latitude":43.148743,
+    "geom:longitude":-71.003784,
+    "iso:country":"US",
+    "sg:address":"48 Concord Rd",
+    "sg:city":"Lee",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 5330",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ohrq02uz7U7wzHVmANK2k_43.148743_-71.003784@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300476,
+    "wof:geomhash":"c2cfeb127e309b54430ada76ba838752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873933719
+        }
+    ],
+    "wof:id":873933719,
+    "wof:lastmodified":1464300476,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.003784,
+    43.148743,
+    -71.003784,
+    43.148743
+],
+  "geometry": {"coordinates":[-71.003784,43.148743],"type":"Point"}
+}

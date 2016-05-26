@@ -1,0 +1,71 @@
+{
+  "id": 873555709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.149058,44.538361,-71.149058,44.538361",
+    "geom:latitude":44.538361,
+    "geom:longitude":-71.149058,
+    "iso:country":"US",
+    "sg:address":"75 Success Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1450",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hV1IJhKOl1KWkUlEAMH7p_44.538361_-71.149058@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294446,
+    "wof:geomhash":"f42af4c1f88e16b34889d8f64e2690d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873555709
+        }
+    ],
+    "wof:id":873555709,
+    "wof:lastmodified":1464294446,
+    "wof:name":"Gosselin Plumbing & Heating",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.149058,
+    44.538361,
+    -71.149058,
+    44.538361
+],
+  "geometry": {"coordinates":[-71.149058,44.538361],"type":"Point"}
+}

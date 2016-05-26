@@ -1,0 +1,69 @@
+{
+  "id": 873842637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.220497,43.454096,-71.220497,43.454096",
+    "geom:latitude":43.454096,
+    "geom:longitude":-71.220497,
+    "iso:country":"US",
+    "sg:address":"5 School St",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 875 5555",
+    "sg:postcode":"03809",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831399,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52EafFN6dEVn1jpqI37zPy_43.454096_-71.220497@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298623,
+    "wof:geomhash":"9160737761de32a393bcba1baee11f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85831399,
+            "region_id":85688689,
+            "venue_id":873842637
+        }
+    ],
+    "wof:id":873842637,
+    "wof:lastmodified":1464298623,
+    "wof:name":"Alton Veterinary Clinic",
+    "wof:parent_id":85831399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.220497,
+    43.454096,
+    -71.220497,
+    43.454096
+],
+  "geometry": {"coordinates":[-71.22049699999999,43.454096],"type":"Point"}
+}

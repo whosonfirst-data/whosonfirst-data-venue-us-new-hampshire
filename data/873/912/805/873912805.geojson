@@ -1,0 +1,71 @@
+{
+  "id": 873912805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.781001,44.30833,-71.781001,44.30833",
+    "geom:latitude":44.30833,
+    "geom:longitude":-71.781001,
+    "iso:country":"US",
+    "sg:address":"251 Main St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 0003",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6X8petoTuILEjSvMomFn_44.308330_-71.781001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300066,
+    "wof:geomhash":"def75fbb05523e431bf923908ed2a557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873912805
+        }
+    ],
+    "wof:id":873912805,
+    "wof:lastmodified":1464300066,
+    "wof:name":"J L Mailhot General Contractor",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.781001,
+    44.30833,
+    -71.781001,
+    44.30833
+],
+  "geometry": {"coordinates":[-71.781001,44.30833],"type":"Point"}
+}

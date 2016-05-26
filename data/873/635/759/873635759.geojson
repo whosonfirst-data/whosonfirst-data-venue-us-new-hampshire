@@ -1,0 +1,78 @@
+{
+  "id": 873635759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485372,43.183291,-71.485372,43.183291",
+    "geom:latitude":43.183291,
+    "geom:longitude":-71.485372,
+    "iso:country":"US",
+    "sg:address":"68 Sheep Davis Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 9698",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRkJts8Si8JZuhcWRC3pM_43.183291_-71.485372@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"f7f0c3e9ef817a85f956300317b0ffcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873635759
+        }
+    ],
+    "wof:id":873635759,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Kodiak Tree & Landscape",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.485372,
+    43.183291,
+    -71.485372,
+    43.183291
+],
+  "geometry": {"coordinates":[-71.485372,43.183291],"type":"Point"}
+}

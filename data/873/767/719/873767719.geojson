@@ -1,0 +1,82 @@
+{
+  "id": 873767719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.973719,43.319199,-70.973719,43.319199",
+    "geom:latitude":43.319199,
+    "geom:longitude":-70.973719,
+    "iso:country":"US",
+    "sg:address":"32 Lilac Mall Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 6463",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RIE38qJpGvl6631vMs1Vm_43.319199_-70.973719@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297334,
+    "wof:geomhash":"73206b98e7b1b3b9433a66a5dfc1c6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873767719
+        }
+    ],
+    "wof:id":873767719,
+    "wof:lastmodified":1464297334,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -70.973719,
+    43.319199,
+    -70.973719,
+    43.319199
+],
+  "geometry": {"coordinates":[-70.973719,43.319199],"type":"Point"}
+}

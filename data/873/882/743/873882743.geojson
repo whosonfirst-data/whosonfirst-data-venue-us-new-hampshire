@@ -1,0 +1,74 @@
+{
+  "id": 873882743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.801869,42.79487,-71.801869,42.79487",
+    "geom:latitude":42.79487,
+    "geom:longitude":-71.801869,
+    "iso:country":"US",
+    "sg:address":"311 Kimball Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 878 1616",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instrument",
+        "scientific",
+        "apparatus"
+    ],
+    "sg:website":"www.kimballphysics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56NaYK42MMXSG4mCIpaURO_42.794870_-71.801869@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299485,
+    "wof:geomhash":"8864de851ee0effbc9015f3d13a473a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873882743
+        }
+    ],
+    "wof:id":873882743,
+    "wof:lastmodified":1464299485,
+    "wof:name":"Kimball Physics Inc",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "scientific",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -71.801869,
+    42.79487,
+    -71.801869,
+    42.79487
+],
+  "geometry": {"coordinates":[-71.801869,42.79487],"type":"Point"}
+}

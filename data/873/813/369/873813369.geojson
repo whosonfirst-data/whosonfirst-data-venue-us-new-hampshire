@@ -1,0 +1,69 @@
+{
+  "id": 873813369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.228587,42.782085,-71.228587,42.782085",
+    "geom:latitude":42.782085,
+    "geom:longitude":-71.228587,
+    "iso:country":"US",
+    "sg:address":"113 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6621",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XO3KG3MI3DHR0iDVAa3ZN_42.782085_-71.228587@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297984,
+    "wof:geomhash":"0384d87c2c79924c7149d2550772b6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873813369
+        }
+    ],
+    "wof:id":873813369,
+    "wof:lastmodified":1464297984,
+    "wof:name":"Depot Barber Shop",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.228587,
+    42.782085,
+    -71.228587,
+    42.782085
+],
+  "geometry": {"coordinates":[-71.228587,42.782085],"type":"Point"}
+}

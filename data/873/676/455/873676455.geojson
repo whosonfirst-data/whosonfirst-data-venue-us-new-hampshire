@@ -1,0 +1,77 @@
+{
+  "id": 873676455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541839,42.802219,-71.541839,42.802219",
+    "geom:latitude":42.802219,
+    "geom:longitude":-71.541839,
+    "iso:country":"US",
+    "sg:address":"34 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 0616",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "processing",
+        "commercial",
+        "film"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D2VDsJ78tTOpFpyDQLJF7_42.802219_-71.541839@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295899,
+    "wof:geomhash":"fb29901d188184630f73dc6db6e2aef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873676455
+        }
+    ],
+    "wof:id":873676455,
+    "wof:lastmodified":1464295899,
+    "wof:name":"Martin's Photographix",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "processing",
+        "commercial",
+        "film"
+    ]
+},
+  "bbox": [
+    -71.541839,
+    42.802219,
+    -71.541839,
+    42.802219
+],
+  "geometry": {"coordinates":[-71.541839,42.802219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873537071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.208413,42.904063,-72.208413,42.904063",
+    "geom:latitude":42.904063,
+    "geom:longitude":-72.208413,
+    "iso:country":"US",
+    "sg:address":"174 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3441",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wiku32YOqFrBawJm3NsCA_42.904063_-72.208413@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294229,
+    "wof:geomhash":"0ed683f7bc83604e383cf1b0269d797e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873537071
+        }
+    ],
+    "wof:id":873537071,
+    "wof:lastmodified":1464294229,
+    "wof:name":"Jitter Beans Internet Cafe",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -72.208413,
+    42.904063,
+    -72.208413,
+    42.904063
+],
+  "geometry": {"coordinates":[-72.20841299999999,42.904063],"type":"Point"}
+}

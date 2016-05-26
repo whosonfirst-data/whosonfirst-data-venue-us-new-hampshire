@@ -1,0 +1,71 @@
+{
+  "id": 873775551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.014124,43.999615,-71.014124,43.999615",
+    "geom:latitude":43.999615,
+    "geom:longitude":-71.014124,
+    "iso:country":"US",
+    "sg:address":"55 Melody Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 231 7419",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory",
+        "forensic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816185,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KTFqCai5JwamsGOaw1CBi_43.999615_-71.014124@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297432,
+    "wof:geomhash":"a8e226a161b484854846fc5b492449d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":873775551
+        }
+    ],
+    "wof:id":873775551,
+    "wof:lastmodified":1464297432,
+    "wof:name":"Forensic Mapping & Analysis",
+    "wof:parent_id":85816185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "forensic"
+    ]
+},
+  "bbox": [
+    -71.014124,
+    43.999615,
+    -71.014124,
+    43.999615
+],
+  "geometry": {"coordinates":[-71.014124,43.999615],"type":"Point"}
+}

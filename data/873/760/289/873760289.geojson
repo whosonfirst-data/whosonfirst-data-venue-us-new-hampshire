@@ -1,0 +1,71 @@
+{
+  "id": 873760289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186191,44.475112,-71.186191,44.475112",
+    "geom:latitude":44.475112,
+    "geom:longitude":-71.186191,
+    "iso:country":"US",
+    "sg:address":"171 Willow St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7524",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xKCXaC2ChpjM1rM3BWww8_44.475112_-71.186191@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297210,
+    "wof:geomhash":"107e578617f141fca7e768bdeb718f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873760289
+        }
+    ],
+    "wof:id":873760289,
+    "wof:lastmodified":1464297210,
+    "wof:name":"Mr Sandman",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -71.186191,
+    44.475112,
+    -71.186191,
+    44.475112
+],
+  "geometry": {"coordinates":[-71.18619099999999,44.475112],"type":"Point"}
+}

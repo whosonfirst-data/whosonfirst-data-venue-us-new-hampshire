@@ -1,0 +1,70 @@
+{
+  "id": 873819881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.582159,42.74274,-71.582159,42.74274",
+    "geom:latitude":42.74274,
+    "geom:longitude":-71.582159,
+    "iso:country":"US",
+    "sg:address":"41 Broad St",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2240",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "produce"
+    ],
+    "sg:website":"www.brookdalefarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T50epSn7LIqoaYLn0cYxa_42.742740_-71.582159@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298118,
+    "wof:geomhash":"d4e053e78067a781bc65ac6c39a7dd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873819881
+        }
+    ],
+    "wof:id":873819881,
+    "wof:lastmodified":1464298118,
+    "wof:name":"Brookdale Fruit Farm Stand",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.582159,
+    42.74274,
+    -71.582159,
+    42.74274
+],
+  "geometry": {"coordinates":[-71.582159,42.74274],"type":"Point"}
+}

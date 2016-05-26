@@ -1,0 +1,71 @@
+{
+  "id": 873619607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.27006,42.912165,-72.27006,42.912165",
+    "geom:latitude":42.912165,
+    "geom:longitude":-72.27006,
+    "iso:country":"US",
+    "sg:address":"38 Edgewood Ave",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 355 2888",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50G6Q40tcwYeRy7vlZgxHE_42.912165_-72.270060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295246,
+    "wof:geomhash":"465eeb00c9fd26f867292e5ea705327f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873619607
+        }
+    ],
+    "wof:id":873619607,
+    "wof:lastmodified":1464295246,
+    "wof:name":"Nova Star",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -72.27006,
+    42.912165,
+    -72.27006,
+    42.912165
+],
+  "geometry": {"coordinates":[-72.27006,42.912165],"type":"Point"}
+}

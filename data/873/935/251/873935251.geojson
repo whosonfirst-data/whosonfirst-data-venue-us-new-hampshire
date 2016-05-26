@@ -1,0 +1,71 @@
+{
+  "id": 873935251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.199402,43.598,-71.199402,43.598",
+    "geom:latitude":43.598,
+    "geom:longitude":-71.199402,
+    "iso:country":"US",
+    "sg:address":"77 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 1212",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:website":"www.wrightmuseum.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6In9oqT1hCNCGCUwsOGD3g_43.598000_-71.199402@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300505,
+    "wof:geomhash":"86f83b79175b5bdaad8816650356ee86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935251
+        }
+    ],
+    "wof:id":873935251,
+    "wof:lastmodified":1464300505,
+    "wof:name":"Wright Museum",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.199402,
+    43.598,
+    -71.199402,
+    43.598
+],
+  "geometry": {"coordinates":[-71.19940200000001,43.598],"type":"Point"}
+}

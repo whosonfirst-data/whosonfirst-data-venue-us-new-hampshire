@@ -1,0 +1,71 @@
+{
+  "id": 873616889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449699,43.544125,-71.449699,43.544125",
+    "geom:latitude":43.544125,
+    "geom:longitude":-71.449699,
+    "iso:country":"US",
+    "sg:address":"55 Vincent Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6303",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "payroll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HPBCAWsy32xnz0yXJrL7P_43.544125_-71.449699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295214,
+    "wof:geomhash":"2bd87805f2ad8b574bbed3d4fb155a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873616889
+        }
+    ],
+    "wof:id":873616889,
+    "wof:lastmodified":1464295214,
+    "wof:name":"Paymaster",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "payroll"
+    ]
+},
+  "bbox": [
+    -71.449699,
+    43.544125,
+    -71.449699,
+    43.544125
+],
+  "geometry": {"coordinates":[-71.449699,43.544125],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873830517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.052113,42.820653,-72.052113,42.820653",
+    "geom:latitude":42.820653,
+    "geom:longitude":-72.052113,
+    "iso:country":"US",
+    "sg:address":"35 Sawtelle Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6719",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JTvUOpK8ZSOOPdCEUnnxm_42.820653_-72.052113@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298340,
+    "wof:geomhash":"dc125cb4f98c394b932aad092ab4966d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873830517
+        }
+    ],
+    "wof:id":873830517,
+    "wof:lastmodified":1464298340,
+    "wof:name":"Mountainshade Landscaping LLC",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.052113,
+    42.820653,
+    -72.052113,
+    42.820653
+],
+  "geometry": {"coordinates":[-72.05211300000001,42.820653],"type":"Point"}
+}

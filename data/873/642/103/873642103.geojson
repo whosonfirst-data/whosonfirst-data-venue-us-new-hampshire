@@ -1,0 +1,71 @@
+{
+  "id": 873642103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.208572,42.890226,-72.208572,42.890226",
+    "geom:latitude":42.890226,
+    "geom:longitude":-72.208572,
+    "iso:country":"US",
+    "sg:address":"24 Forrest Dr",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4232",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ANBC1mzzlOInAVcxgSfSp_42.890226_-72.208572@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295500,
+    "wof:geomhash":"36bcae8f3c905ecd8d3e526ee05d2a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873642103
+        }
+    ],
+    "wof:id":873642103,
+    "wof:lastmodified":1464295500,
+    "wof:name":"Citgo",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.208572,
+    42.890226,
+    -72.208572,
+    42.890226
+],
+  "geometry": {"coordinates":[-72.208572,42.890226],"type":"Point"}
+}

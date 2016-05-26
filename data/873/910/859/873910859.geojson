@@ -1,0 +1,71 @@
+{
+  "id": 873910859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667035,42.709585,-71.667035,42.709585",
+    "geom:latitude":42.709585,
+    "geom:longitude":-71.667035,
+    "iso:country":"US",
+    "sg:address":"1 Averill Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 2299",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67LuCVoKAkNhInfciDt1Ku_42.709585_-71.667035@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300029,
+    "wof:geomhash":"3c3b2e0ab64735587a5c786c33663fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873910859
+        }
+    ],
+    "wof:id":873910859,
+    "wof:lastmodified":1464300029,
+    "wof:name":"Two Daves Auto",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.667035,
+    42.709585,
+    -71.667035,
+    42.709585
+],
+  "geometry": {"coordinates":[-71.667035,42.709585],"type":"Point"}
+}

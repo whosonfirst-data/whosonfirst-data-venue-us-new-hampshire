@@ -1,0 +1,77 @@
+{
+  "id": 873798699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.354892,43.359232,-72.354892,43.359232",
+    "geom:latitude":43.359232,
+    "geom:longitude":-72.354892,
+    "iso:country":"US",
+    "sg:address":"68 Charlestown Rd",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 0233",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WbOyNZ1tdgljkZ6gJ7Vo8_43.359232_-72.354892@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297758,
+    "wof:geomhash":"706e49de66ce2dc1ce52b02bd51dd68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873798699
+        }
+    ],
+    "wof:id":873798699,
+    "wof:lastmodified":1464297758,
+    "wof:name":"Koch Trucking Co",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.354892,
+    43.359232,
+    -72.354892,
+    43.359232
+],
+  "geometry": {"coordinates":[-72.35489200000001,43.359232],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873653579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.691075,43.760626,-71.691075,43.760626",
+    "geom:latitude":43.760626,
+    "geom:longitude":-71.691075,
+    "iso:country":"US",
+    "sg:address":"17 High St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 535 2614",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tH0qphIe637HXvMP5Mw6C_43.760626_-71.691075@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295631,
+    "wof:geomhash":"8332aa552eff3df319697f5b49f31c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873653579
+        }
+    ],
+    "wof:id":873653579,
+    "wof:lastmodified":1464295631,
+    "wof:name":"Plymouth State University",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.691075,
+    43.760626,
+    -71.691075,
+    43.760626
+],
+  "geometry": {"coordinates":[-71.691075,43.760626],"type":"Point"}
+}

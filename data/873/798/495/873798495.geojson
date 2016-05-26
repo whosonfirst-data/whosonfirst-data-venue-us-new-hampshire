@@ -1,0 +1,75 @@
+{
+  "id": 873798495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.979725,43.289913,-70.979725,43.289913",
+    "geom:latitude":43.289913,
+    "geom:longitude":-70.979725,
+    "iso:country":"US",
+    "sg:address":"11 Park Ave",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 0346",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VLw6gJGaPZ32HeciQUetO_43.289913_-70.979725@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297756,
+    "wof:geomhash":"2fe737cece5ddd06f4bda8f6584c2cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873798495
+        }
+    ],
+    "wof:id":873798495,
+    "wof:lastmodified":1464297756,
+    "wof:name":"Dons Bicycle Center",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -70.979725,
+    43.289913,
+    -70.979725,
+    43.289913
+],
+  "geometry": {"coordinates":[-70.979725,43.289913],"type":"Point"}
+}

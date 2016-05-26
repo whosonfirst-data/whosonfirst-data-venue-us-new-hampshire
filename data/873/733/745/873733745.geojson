@@ -1,0 +1,75 @@
+{
+  "id": 873733745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.747503,43.048513,-70.747503,43.048513",
+    "geom:latitude":43.048513,
+    "geom:longitude":-70.747503,
+    "iso:country":"US",
+    "sg:address":"15 Sagamore Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 5550",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IL7slvv6Rxs1MlPJ6kuRJ_43.048513_-70.747503@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296825,
+    "wof:geomhash":"e32fc56451b67663a342b5f07f22fcdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873733745
+        }
+    ],
+    "wof:id":873733745,
+    "wof:lastmodified":1464296825,
+    "wof:name":"Jeffs Off Lease",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -70.747503,
+    43.048513,
+    -70.747503,
+    43.048513
+],
+  "geometry": {"coordinates":[-70.74750299999999,43.048513],"type":"Point"}
+}

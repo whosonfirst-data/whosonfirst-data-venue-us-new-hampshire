@@ -1,0 +1,73 @@
+{
+  "id": 873635723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219875,43.145863,-71.219875,43.145863",
+    "geom:latitude":43.145863,
+    "geom:longitude":-71.219875,
+    "iso:country":"US",
+    "sg:address":"47 Nottingham Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 8838",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "extract",
+        "syrup",
+        "flavoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hvRR5VSg4S3zlRbj5Ubh8_43.145863_-71.219875@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"88ee268dc80f591d52d7fe61075e6dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873635723
+        }
+    ],
+    "wof:id":873635723,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Anderson's Mini Maples",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "extract",
+        "syrup",
+        "flavoring"
+    ]
+},
+  "bbox": [
+    -71.219875,
+    43.145863,
+    -71.219875,
+    43.145863
+],
+  "geometry": {"coordinates":[-71.219875,43.145863],"type":"Point"}
+}

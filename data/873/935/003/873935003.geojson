@@ -1,0 +1,85 @@
+{
+  "id": 873935003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.212252,43.585385,-71.212252,43.585385",
+    "geom:latitude":43.585385,
+    "geom:longitude":-71.212252,
+    "iso:country":"US",
+    "sg:address":"21 Railroad Ave",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 6804",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "frozen",
+        "yogurt",
+        "creperies"
+    ],
+    "sg:website":"www.facebook.com/pages/Wolfeboro...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sEKJZTsFTxzFuBrKa6rST_43.585385_-71.212252@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300501,
+    "wof:geomhash":"a3293dccb499c69dab749ef5e1a63fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935003
+        }
+    ],
+    "wof:id":873935003,
+    "wof:lastmodified":1464300501,
+    "wof:name":"Crepes Ooh La La",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt",
+        "creperies"
+    ]
+},
+  "bbox": [
+    -71.212252,
+    43.585385,
+    -71.212252,
+    43.585385
+],
+  "geometry": {"coordinates":[-71.21225200000001,43.585385],"type":"Point"}
+}

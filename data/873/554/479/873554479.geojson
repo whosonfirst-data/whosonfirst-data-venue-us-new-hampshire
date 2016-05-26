@@ -1,0 +1,71 @@
+{
+  "id": 873554479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.856398,43.253524,-70.856398,43.253524",
+    "geom:latitude":43.253524,
+    "geom:longitude":-70.856398,
+    "iso:country":"US",
+    "sg:address":"31 2nd St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 5435",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ZyxSJ8s7K2wB2zx7VD2a_43.253524_-70.856398@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294430,
+    "wof:geomhash":"36e9e6eb8ef2f8fbbb8dd845beea63d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873554479
+        }
+    ],
+    "wof:id":873554479,
+    "wof:lastmodified":1464294430,
+    "wof:name":"Don's Consulting",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -70.856398,
+    43.253524,
+    -70.856398,
+    43.253524
+],
+  "geometry": {"coordinates":[-70.856398,43.253524],"type":"Point"}
+}

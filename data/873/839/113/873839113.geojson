@@ -1,0 +1,73 @@
+{
+  "id": 873839113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568349,43.114372,-71.568349,43.114372",
+    "geom:latitude":43.114372,
+    "geom:longitude":-71.568349,
+    "iso:country":"US",
+    "sg:address":"21 Buckingham Dr",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 774 7011",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "health",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V8xcQoOGksTEpCzkCkeJo_43.114372_-71.568349@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298529,
+    "wof:geomhash":"4e8b98ba4dba7f79099afb9a396f20b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873839113
+        }
+    ],
+    "wof:id":873839113,
+    "wof:lastmodified":1464298529,
+    "wof:name":"Med Asyst Inc",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "health",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.568349,
+    43.114372,
+    -71.568349,
+    43.114372
+],
+  "geometry": {"coordinates":[-71.568349,43.114372],"type":"Point"}
+}

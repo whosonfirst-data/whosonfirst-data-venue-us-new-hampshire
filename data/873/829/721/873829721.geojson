@@ -1,0 +1,71 @@
+{
+  "id": 873829721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42592,42.758951,-71.42592,42.758951",
+    "geom:latitude":42.758951,
+    "geom:longitude":-71.42592,
+    "iso:country":"US",
+    "sg:address":"18 Roosevelt Ave",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1179",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AnROwUa8AcvA1P4PimCdK_42.758951_-71.425920@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298327,
+    "wof:geomhash":"466ef98a9e44dac061509fded4e559fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873829721
+        }
+    ],
+    "wof:id":873829721,
+    "wof:lastmodified":1464298327,
+    "wof:name":"Brookside Village Apartments",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.42592,
+    42.758951,
+    -71.42592,
+    42.758951
+],
+  "geometry": {"coordinates":[-71.42592,42.758951],"type":"Point"}
+}

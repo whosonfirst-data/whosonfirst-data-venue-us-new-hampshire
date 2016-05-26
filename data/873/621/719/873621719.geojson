@@ -1,0 +1,76 @@
+{
+  "id": 873621719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389709,43.582751,-71.389709,43.582751",
+    "geom:latitude":43.582751,
+    "geom:longitude":-71.389709,
+    "iso:country":"US",
+    "sg:address":"13 Smith Cove Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 9359",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L0yGw52on0CgoaijnDvA7_43.582751_-71.389709@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295268,
+    "wof:geomhash":"1a44005d9b285ef10ef4e7e583b832ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873621719
+        }
+    ],
+    "wof:id":873621719,
+    "wof:lastmodified":1464295268,
+    "wof:name":"Glendale Yacht Club Inc",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -71.389709,
+    43.582751,
+    -71.389709,
+    43.582751
+],
+  "geometry": {"coordinates":[-71.389709,43.582751],"type":"Point"}
+}

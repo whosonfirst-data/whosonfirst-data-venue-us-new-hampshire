@@ -1,0 +1,73 @@
+{
+  "id": 873642643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.276947,42.829465,-72.276947,42.829465",
+    "geom:latitude":42.829465,
+    "geom:longitude":-72.276947,
+    "iso:country":"US",
+    "sg:address":"95 Warmac Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 9185",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CA6iqQhHw2UaQNIhsSWBe_42.829465_-72.276947@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295507,
+    "wof:geomhash":"39a56b260e45d3b4aae0b46498eabbac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873642643
+        }
+    ],
+    "wof:id":873642643,
+    "wof:lastmodified":1464295507,
+    "wof:name":"Chebaco Kennel",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.276947,
+    42.829465,
+    -72.276947,
+    42.829465
+],
+  "geometry": {"coordinates":[-72.27694700000001,42.829465],"type":"Point"}
+}

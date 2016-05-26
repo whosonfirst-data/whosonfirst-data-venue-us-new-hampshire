@@ -1,0 +1,69 @@
+{
+  "id": 873869977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615745,42.865712,-71.615745,42.865712",
+    "geom:latitude":42.865712,
+    "geom:longitude":-71.615745,
+    "iso:country":"US",
+    "sg:address":"175 Amherst St",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 7030",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TpSbBHczzdVADBc8w7AIK_42.865712_-71.615745@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299224,
+    "wof:geomhash":"de9528a511aeb89cc5cdc35ebfa3ee88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873869977
+        }
+    ],
+    "wof:id":873869977,
+    "wof:lastmodified":1464299224,
+    "wof:name":"Amherst Ems",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.615745,
+    42.865712,
+    -71.615745,
+    42.865712
+],
+  "geometry": {"coordinates":[-71.615745,42.865712],"type":"Point"}
+}

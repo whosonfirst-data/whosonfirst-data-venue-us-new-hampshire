@@ -1,0 +1,75 @@
+{
+  "id": 873777307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976188,43.305574,-70.976188,43.305574",
+    "geom:latitude":43.305574,
+    "geom:longitude":-70.976188,
+    "iso:country":"US",
+    "sg:address":"33 Wakefield St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 7527",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DLUE7MFPFjrmGF2tCGps5_43.305574_-70.976188@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297454,
+    "wof:geomhash":"de1342998fc60636dfbd6f5dd9874caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873777307
+        }
+    ],
+    "wof:id":873777307,
+    "wof:lastmodified":1464297454,
+    "wof:name":"Rochester Police Dept",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -70.976188,
+    43.305574,
+    -70.976188,
+    43.305574
+],
+  "geometry": {"coordinates":[-70.97618799999999,43.305574],"type":"Point"}
+}

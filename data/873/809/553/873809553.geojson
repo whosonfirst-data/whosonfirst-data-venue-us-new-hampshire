@@ -1,0 +1,73 @@
+{
+  "id": 873809553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.32027,42.728289,-71.32027,42.728289",
+    "geom:latitude":42.728289,
+    "geom:longitude":-71.32027,
+    "iso:country":"US",
+    "sg:address":"34 Old Bridge St N",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2595",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hRRDA9nabdUapNGN1AXo7_42.728289_-71.320270@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297919,
+    "wof:geomhash":"2dacf54ba05abc7568cbfdc253fd8413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873809553
+        }
+    ],
+    "wof:id":873809553,
+    "wof:lastmodified":1464297919,
+    "wof:name":"Pelham Front End Shop",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -71.32027,
+    42.728289,
+    -71.32027,
+    42.728289
+],
+  "geometry": {"coordinates":[-71.32026999999999,42.728289],"type":"Point"}
+}

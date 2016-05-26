@@ -1,0 +1,75 @@
+{
+  "id": 873776159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467295,43.183504,-71.467295,43.183504",
+    "geom:latitude":43.183504,
+    "geom:longitude":-71.467295,
+    "iso:country":"US",
+    "sg:address":"527 4th Range Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 2315",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00IowcSYwj5tksFXqXO72c_43.183504_-71.467295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297439,
+    "wof:geomhash":"f49452080f7b49e662adf9673527082d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873776159
+        }
+    ],
+    "wof:id":873776159,
+    "wof:lastmodified":1464297439,
+    "wof:name":"Kennel At Hemlock Hill Farm",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.467295,
+    43.183504,
+    -71.467295,
+    43.183504
+],
+  "geometry": {"coordinates":[-71.46729499999999,43.183504],"type":"Point"}
+}

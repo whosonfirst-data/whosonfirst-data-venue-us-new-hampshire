@@ -1,0 +1,71 @@
+{
+  "id": 873850357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465142,43.524326,-71.465142,43.524326",
+    "geom:latitude":43.524326,
+    "geom:longitude":-71.465142,
+    "iso:country":"US",
+    "sg:address":"80 Baldwin St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4483",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S5VNxYBfKw5lBh9F14ePY_43.524326_-71.465142@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298819,
+    "wof:geomhash":"a70f6e3c14944971e05837909075c652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873850357
+        }
+    ],
+    "wof:id":873850357,
+    "wof:lastmodified":1464298819,
+    "wof:name":"Bough Plumbing & Heathing",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.465142,
+    43.524326,
+    -71.465142,
+    43.524326
+],
+  "geometry": {"coordinates":[-71.465142,43.524326],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873856049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517956,43.005426,-71.517956,43.005426",
+    "geom:latitude":43.005426,
+    "geom:longitude":-71.517956,
+    "iso:country":"US",
+    "sg:address":"35 Bay St",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 8303",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mocn2UwLE5L7ZBMnz2Heq_43.005426_-71.517956@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298935,
+    "wof:geomhash":"5ba0124afb7d88dcf5b87425764a0dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873856049
+        }
+    ],
+    "wof:id":873856049,
+    "wof:lastmodified":1464298935,
+    "wof:name":"A Plus Grooming",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.517956,
+    43.005426,
+    -71.517956,
+    43.005426
+],
+  "geometry": {"coordinates":[-71.517956,43.005426],"type":"Point"}
+}

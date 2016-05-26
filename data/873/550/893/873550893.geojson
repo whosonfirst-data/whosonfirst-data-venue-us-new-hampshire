@@ -1,0 +1,73 @@
+{
+  "id": 873550893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471011,43.342383,-71.471011,43.342383",
+    "geom:latitude":43.342383,
+    "geom:longitude":-71.471011,
+    "iso:country":"US",
+    "sg:address":"57 Country Hill Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4842",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EkEfkyWCg6pf1p3S1I03a_43.342383_-71.471011@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294388,
+    "wof:geomhash":"24ebca8615e46f774f831790d9d9da37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873550893
+        }
+    ],
+    "wof:id":873550893,
+    "wof:lastmodified":1464294388,
+    "wof:name":"Hilltop Trucking",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.471011,
+    43.342383,
+    -71.471011,
+    43.342383
+],
+  "geometry": {"coordinates":[-71.471011,43.342383],"type":"Point"}
+}

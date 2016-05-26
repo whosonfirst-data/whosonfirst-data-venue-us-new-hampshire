@@ -1,0 +1,69 @@
+{
+  "id": 873820507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.641424,43.442855,-71.641424,43.442855",
+    "geom:latitude":43.442855,
+    "geom:longitude":-71.641424,
+    "iso:country":"US",
+    "sg:address":"61 Orchard St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 2502",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1603RdNhxX0YqXoXGk8rhC_43.442855_-71.641424@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298129,
+    "wof:geomhash":"b2fc72861da676c94f190643d9bc7c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873820507
+        }
+    ],
+    "wof:id":873820507,
+    "wof:lastmodified":1464298129,
+    "wof:name":"B&H Home Comfort Heating &AC",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.641424,
+    43.442855,
+    -71.641424,
+    43.442855
+],
+  "geometry": {"coordinates":[-71.641424,43.442855],"type":"Point"}
+}

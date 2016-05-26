@@ -1,0 +1,71 @@
+{
+  "id": 873804259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571738,44.520056,-71.571738,44.520056",
+    "geom:latitude":44.520056,
+    "geom:longitude":-71.571738,
+    "iso:country":"US",
+    "sg:address":"4 Mayberry Ln",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2729",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jX47KrzVzAXShLnPK1Qe6_44.520056_-71.571738@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297826,
+    "wof:geomhash":"7c07a851d9420a4d7156cecf309b8020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873804259
+        }
+    ],
+    "wof:id":873804259,
+    "wof:lastmodified":1464297826,
+    "wof:name":"Ombudsman Educational Svc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -71.571738,
+    44.520056,
+    -71.571738,
+    44.520056
+],
+  "geometry": {"coordinates":[-71.571738,44.520056],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873916699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440706,42.701994,-71.440706,42.701994",
+    "geom:latitude":42.701994,
+    "geom:longitude":-71.440706,
+    "iso:country":"US",
+    "sg:address":"310 Daniel Webster Hwy",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/233929-nancys-coffee-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 0880",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5du8jLIlAs4GZOoEgrcbbW_42.701994_-71.440706@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300154,
+    "wof:geomhash":"a6e48f397f1836b9a0b56e0aa334d7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873916699
+        }
+    ],
+    "wof:id":873916699,
+    "wof:lastmodified":1464300154,
+    "wof:name":"Nancy's Coffee Cafe",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.440706,
+    42.701994,
+    -71.440706,
+    42.701994
+],
+  "geometry": {"coordinates":[-71.44070600000001,42.701994],"type":"Point"}
+}

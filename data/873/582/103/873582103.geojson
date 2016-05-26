@@ -1,0 +1,75 @@
+{
+  "id": 873582103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648883,43.443672,-71.648883,43.443672",
+    "geom:latitude":43.443672,
+    "geom:longitude":-71.648883,
+    "iso:country":"US",
+    "sg:address":"235 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 4481",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ASwTvckENQmohPGXp1y0l_43.443672_-71.648883@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294743,
+    "wof:geomhash":"d1be8d16ca58c0558858f88400211783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873582103
+        }
+    ],
+    "wof:id":873582103,
+    "wof:lastmodified":1464294743,
+    "wof:name":"Video Choice",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.648883,
+    43.443672,
+    -71.648883,
+    43.443672
+],
+  "geometry": {"coordinates":[-71.648883,43.443672],"type":"Point"}
+}

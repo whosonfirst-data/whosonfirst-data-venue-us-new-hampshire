@@ -1,0 +1,71 @@
+{
+  "id": 873891303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497933,43.655265,-71.497933,43.655265",
+    "geom:latitude":43.655265,
+    "geom:longitude":-71.497933,
+    "iso:country":"US",
+    "sg:address":"238 Daniel Webster Hwy",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 7208",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Su9KflAzCX07YarmHpysy_43.655265_-71.497933@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299653,
+    "wof:geomhash":"0affc949b9e7f8917922e79385a05e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873891303
+        }
+    ],
+    "wof:id":873891303,
+    "wof:lastmodified":1464299653,
+    "wof:name":"LRG Healthcare",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.497933,
+    43.655265,
+    -71.497933,
+    43.655265
+],
+  "geometry": {"coordinates":[-71.497933,43.655265],"type":"Point"}
+}

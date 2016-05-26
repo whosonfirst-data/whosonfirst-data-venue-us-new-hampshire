@@ -1,0 +1,81 @@
+{
+  "id": 873935175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.214087,43.584898,-71.214087,43.584898",
+    "geom:latitude":43.584898,
+    "geom:longitude":-71.214087,
+    "iso:country":"US",
+    "sg:address":"23 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 6030",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.thecountrybookseller.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07gKV3exP5bJ54RjI9DZ79_43.584898_-71.214087@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300503,
+    "wof:geomhash":"b9328655dffd41a5ced2fc0511e7b9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935175
+        }
+    ],
+    "wof:id":873935175,
+    "wof:lastmodified":1464300503,
+    "wof:name":"Country Bookseller the",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -71.214087,
+    43.584898,
+    -71.214087,
+    43.584898
+],
+  "geometry": {"coordinates":[-71.21408700000001,43.584898],"type":"Point"}
+}

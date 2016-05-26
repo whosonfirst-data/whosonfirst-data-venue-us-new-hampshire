@@ -1,0 +1,79 @@
+{
+  "id": 873585013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542173,43.216754,-71.542173,43.216754",
+    "geom:latitude":43.216754,
+    "geom:longitude":-71.542173,
+    "iso:country":"US",
+    "sg:address":"266 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 3932",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jc5Xlf0lkw5L4X8pdBjNb_43.216754_-71.542173@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294773,
+    "wof:geomhash":"6f691ba21408b6095c1f9c56a7c52441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873585013
+        }
+    ],
+    "wof:id":873585013,
+    "wof:lastmodified":1464294773,
+    "wof:name":"Kimball-Jenkins Community Art",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -71.542173,
+    43.216754,
+    -71.542173,
+    43.216754
+],
+  "geometry": {"coordinates":[-71.54217300000001,43.216754],"type":"Point"}
+}

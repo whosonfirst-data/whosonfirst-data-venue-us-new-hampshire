@@ -1,0 +1,71 @@
+{
+  "id": 873931091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118599,43.980202,-71.118599,43.980202",
+    "geom:latitude":43.980202,
+    "geom:longitude":-71.118599,
+    "iso:country":"US",
+    "sg:address":"51 Washington St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 1999",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6STFlmEu2TQF2P6NZOp9AN_43.980202_-71.118599@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300431,
+    "wof:geomhash":"fdc515b5ef16f1e98ebe93f4d00d2e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931091
+        }
+    ],
+    "wof:id":873931091,
+    "wof:lastmodified":1464300431,
+    "wof:name":"Hirschfeld Eric DDS",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.118599,
+    43.980202,
+    -71.118599,
+    43.980202
+],
+  "geometry": {"coordinates":[-71.118599,43.980202],"type":"Point"}
+}

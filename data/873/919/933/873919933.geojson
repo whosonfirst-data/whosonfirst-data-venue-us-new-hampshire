@@ -1,0 +1,74 @@
+{
+  "id": 873919933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27324,43.059431,-71.27324,43.059431",
+    "geom:latitude":43.059431,
+    "geom:longitude":-71.27324,
+    "iso:country":"US",
+    "sg:address":"179 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 3284",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HjykczJr1jc3DMykw5urM_43.059431_-71.273240@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300210,
+    "wof:geomhash":"bdd97ea827e8d0bd318423a98cf21378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873919933
+        }
+    ],
+    "wof:id":873919933,
+    "wof:lastmodified":1464300210,
+    "wof:name":"Country Way Deli",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.27324,
+    43.059431,
+    -71.27324,
+    43.059431
+],
+  "geometry": {"coordinates":[-71.27324,43.059431],"type":"Point"}
+}

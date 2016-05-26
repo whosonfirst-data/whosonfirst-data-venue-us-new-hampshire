@@ -1,0 +1,71 @@
+{
+  "id": 873853123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.26517,42.908152,-72.26517,42.908152",
+    "geom:latitude":42.908152,
+    "geom:longitude":-72.26517,
+    "iso:country":"US",
+    "sg:address":"103 Old Homestead Hwy",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 7025",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AcqnoVCuFcgFre3qkTFyv_42.908152_-72.265170@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298880,
+    "wof:geomhash":"99376432bca58b788d7ec42afdbddbff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873853123
+        }
+    ],
+    "wof:id":873853123,
+    "wof:lastmodified":1464298880,
+    "wof:name":"Brnger Enterprises",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.26517,
+    42.908152,
+    -72.26517,
+    42.908152
+],
+  "geometry": {"coordinates":[-72.26517,42.908152],"type":"Point"}
+}

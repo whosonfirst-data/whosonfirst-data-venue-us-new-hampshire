@@ -1,0 +1,73 @@
+{
+  "id": 873656407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512001,44.598795,-71.512001,44.598795",
+    "geom:latitude":44.598795,
+    "geom:longitude":-71.512001,
+    "iso:country":"US",
+    "sg:address":"14 State St",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2026",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g36vINOhyB02Vgo93H3vm_44.598795_-71.512001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295661,
+    "wof:geomhash":"347128598ff1bbdeafbd821e8b3fe9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873656407
+        }
+    ],
+    "wof:id":873656407,
+    "wof:lastmodified":1464295661,
+    "wof:name":"Groveton Thrift Shop",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -71.512001,
+    44.598795,
+    -71.512001,
+    44.598795
+],
+  "geometry": {"coordinates":[-71.512001,44.598795],"type":"Point"}
+}

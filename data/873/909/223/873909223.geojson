@@ -1,0 +1,69 @@
+{
+  "id": 873909223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.779238,43.185678,-71.779238,43.185678",
+    "geom:latitude":43.185678,
+    "geom:longitude":-71.779238,
+    "iso:country":"US",
+    "sg:address":"12 Old W Hopkinton Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3325",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CbtiiNcS6AsofZSiYCZPY_43.185678_-71.779238@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299998,
+    "wof:geomhash":"7ad5cb3e38db1d135a669007a901617d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873909223
+        }
+    ],
+    "wof:id":873909223,
+    "wof:lastmodified":1464299998,
+    "wof:name":"St Theresa's Catholic Church",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.779238,
+    43.185678,
+    -71.779238,
+    43.185678
+],
+  "geometry": {"coordinates":[-71.77923800000001,43.185678],"type":"Point"}
+}

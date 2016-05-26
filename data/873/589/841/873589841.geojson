@@ -1,0 +1,71 @@
+{
+  "id": 873589841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.161356,42.820479,-71.161356,42.820479",
+    "geom:latitude":42.820479,
+    "geom:longitude":-71.161356,
+    "iso:country":"US",
+    "sg:address":"1 Pheasant Ln",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 8230",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xUcJ2JxPVBV4t7GkE6RX8_42.820479_-71.161356@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"d11f7e8ef9c8158953e0fd18847fae27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873589841
+        }
+    ],
+    "wof:id":873589841,
+    "wof:lastmodified":1464294829,
+    "wof:name":"Ryan & Son Carpentry",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.161356,
+    42.820479,
+    -71.161356,
+    42.820479
+],
+  "geometry": {"coordinates":[-71.161356,42.820479],"type":"Point"}
+}

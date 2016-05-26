@@ -1,0 +1,73 @@
+{
+  "id": 873861995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.806412,44.294548,-71.806412,44.294548",
+    "geom:latitude":44.294548,
+    "geom:longitude":-71.806412,
+    "iso:country":"US",
+    "sg:address":"890 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 7724",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63dA89GeGypuO89FbdLS9s_44.294548_-71.806412@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299077,
+    "wof:geomhash":"7919e1e8d342a28263adc54b6047ad80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873861995
+        }
+    ],
+    "wof:id":873861995,
+    "wof:lastmodified":1464299077,
+    "wof:name":"Irving Oil",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.806412,
+    44.294548,
+    -71.806412,
+    44.294548
+],
+  "geometry": {"coordinates":[-71.80641199999999,44.294548],"type":"Point"}
+}

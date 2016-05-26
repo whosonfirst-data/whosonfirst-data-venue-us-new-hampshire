@@ -1,0 +1,75 @@
+{
+  "id": 873838051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.874083,43.197624,-70.874083,43.197624",
+    "geom:latitude":43.197624,
+    "geom:longitude":-70.874083,
+    "iso:country":"US",
+    "sg:address":"436 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 5611",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rcxviLOV6e64ZdsDaJIcd_43.197624_-70.874083@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298506,
+    "wof:geomhash":"2c327da65ba2a1c3ed1f35a3362fb2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873838051
+        }
+    ],
+    "wof:id":873838051,
+    "wof:lastmodified":1464298506,
+    "wof:name":"Lucky Garden",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.874083,
+    43.197624,
+    -70.874083,
+    43.197624
+],
+  "geometry": {"coordinates":[-70.874083,43.197624],"type":"Point"}
+}

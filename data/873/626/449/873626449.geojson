@@ -1,0 +1,69 @@
+{
+  "id": 873626449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396812,42.7124,-71.396812,42.7124",
+    "geom:latitude":42.7124,
+    "geom:longitude":-71.396812,
+    "iso:country":"US",
+    "sg:address":"12 Gowing Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 9584",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48lfsIPJaDeVtXyDBlyqYO_42.712400_-71.396812@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"cfd52ef9210c304c03808886a125c4a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873626449
+        }
+    ],
+    "wof:id":873626449,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Rays Repair Service",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.396812,
+    42.7124,
+    -71.396812,
+    42.7124
+],
+  "geometry": {"coordinates":[-71.396812,42.7124],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873744223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.297275,42.781437,-71.297275,42.781437",
+    "geom:latitude":42.781437,
+    "geom:longitude":-71.297275,
+    "iso:country":"US",
+    "sg:address":"24 Bramley Hill Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 3690",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BKV9rkn3cZpiNLXodk0D7_42.781437_-71.297275@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296997,
+    "wof:geomhash":"f186ea6493b0a6ca4e8c26d65ba17cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873744223
+        }
+    ],
+    "wof:id":873744223,
+    "wof:lastmodified":1464296997,
+    "wof:name":"Academy Landscape",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.297275,
+    42.781437,
+    -71.297275,
+    42.781437
+],
+  "geometry": {"coordinates":[-71.297275,42.781437],"type":"Point"}
+}

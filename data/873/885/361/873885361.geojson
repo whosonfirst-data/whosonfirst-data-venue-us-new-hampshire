@@ -1,0 +1,73 @@
+{
+  "id": 873885361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41484,42.901172,-71.41484,42.901172",
+    "geom:latitude":42.901172,
+    "geom:longitude":-71.41484,
+    "iso:country":"US",
+    "sg:address":"16 Harvey Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 0346",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Goh80N0P9ZuyqZWtXHP2_42.901172_-71.414840@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299545,
+    "wof:geomhash":"310a29c5e4ca3c68f82874c6a952ef12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873885361
+        }
+    ],
+    "wof:id":873885361,
+    "wof:lastmodified":1464299545,
+    "wof:name":"P & R Truck Sales",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.41484,
+    42.901172,
+    -71.41484,
+    42.901172
+],
+  "geometry": {"coordinates":[-71.41484,42.901172],"type":"Point"}
+}

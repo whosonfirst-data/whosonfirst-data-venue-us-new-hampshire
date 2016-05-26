@@ -1,0 +1,71 @@
+{
+  "id": 873909365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.769006,42.990421,-70.769006,42.990421",
+    "geom:latitude":42.990421,
+    "geom:longitude":-70.769006,
+    "iso:country":"US",
+    "sg:address":"32 Pine St",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 5478",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aircraft",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808747,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04k8DruaLRusZi2hBqGO49_42.990421_-70.769006@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300000,
+    "wof:geomhash":"ddba475837e116d41990035518d02b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85808747,
+            "region_id":85688689,
+            "venue_id":873909365
+        }
+    ],
+    "wof:id":873909365,
+    "wof:lastmodified":1464300000,
+    "wof:name":"United Sttes Arbtic Foundation",
+    "wof:parent_id":85808747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "association"
+    ]
+},
+  "bbox": [
+    -70.769006,
+    42.990421,
+    -70.769006,
+    42.990421
+],
+  "geometry": {"coordinates":[-70.769006,42.990421],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873607177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444564,42.956864,-71.444564,42.956864",
+    "geom:latitude":42.956864,
+    "geom:longitude":-71.444564,
+    "iso:country":"US",
+    "sg:address":"1050 Gold St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 621 9559",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lvoc0a2o3CsG1DxmOc94c_42.956864_-71.444564@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295081,
+    "wof:geomhash":"0c4dae19af8cf05998f4057e6cab1a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873607177
+        }
+    ],
+    "wof:id":873607177,
+    "wof:lastmodified":1464295081,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.444564,
+    42.956864,
+    -71.444564,
+    42.956864
+],
+  "geometry": {"coordinates":[-71.444564,42.956864],"type":"Point"}
+}

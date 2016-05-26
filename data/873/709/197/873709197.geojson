@@ -1,0 +1,71 @@
+{
+  "id": 873709197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463323,43.535175,-71.463323,43.535175",
+    "geom:latitude":43.535175,
+    "geom:longitude":-71.463323,
+    "iso:country":"US",
+    "sg:address":"348 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3750",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BXe1XXStQSMJSM6Zf2gPM_43.535175_-71.463323@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296510,
+    "wof:geomhash":"875b12f3c755703aead1e7e6ec1656d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873709197
+        }
+    ],
+    "wof:id":873709197,
+    "wof:lastmodified":1464296510,
+    "wof:name":"Joseph W Gage DDS",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.463323,
+    43.535175,
+    -71.463323,
+    43.535175
+],
+  "geometry": {"coordinates":[-71.463323,43.535175],"type":"Point"}
+}

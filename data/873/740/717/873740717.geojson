@@ -1,0 +1,79 @@
+{
+  "id": 873740717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.950716,42.981741,-70.950716,42.981741",
+    "geom:latitude":42.981741,
+    "geom:longitude":-70.950716,
+    "iso:country":"US",
+    "sg:address":"29 Main St",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 875 2233",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "player",
+        "recorder",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32s826iTH7xZDkyCvxQ4kS_42.981741_-70.950716@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296932,
+    "wof:geomhash":"fe5ae8ec5f50dc75e706ab71d81094ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873740717
+        }
+    ],
+    "wof:id":873740717,
+    "wof:lastmodified":1464296932,
+    "wof:name":"Alton Video",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "player",
+        "recorder",
+        "video"
+    ]
+},
+  "bbox": [
+    -70.950716,
+    42.981741,
+    -70.950716,
+    42.981741
+],
+  "geometry": {"coordinates":[-70.950716,42.981741],"type":"Point"}
+}

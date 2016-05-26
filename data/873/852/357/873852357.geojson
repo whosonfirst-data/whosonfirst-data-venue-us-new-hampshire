@@ -1,0 +1,71 @@
+{
+  "id": 873852357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179879,42.79893,-71.179879,42.79893",
+    "geom:latitude":42.79893,
+    "geom:longitude":-71.179879,
+    "iso:country":"US",
+    "sg:address":"2 Erin Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 6889",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iieTUYiuWQlnoeE8kSzyN_42.798930_-71.179879@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298858,
+    "wof:geomhash":"97124290901f09e9176cde4b19cb6f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873852357
+        }
+    ],
+    "wof:id":873852357,
+    "wof:lastmodified":1464298858,
+    "wof:name":"Joyce Electric Co",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.179879,
+    42.79893,
+    -71.179879,
+    42.79893
+],
+  "geometry": {"coordinates":[-71.179879,42.79893],"type":"Point"}
+}

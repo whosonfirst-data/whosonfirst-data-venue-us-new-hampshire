@@ -1,0 +1,79 @@
+{
+  "id": 873818903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.337215,42.876672,-71.337215,42.876672",
+    "geom:latitude":42.876672,
+    "geom:longitude":-71.337215,
+    "iso:country":"US",
+    "sg:address":"111 Hillside Ave",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 8600",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855361,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PEexxWlSaCCvvt8G5B1uR_42.876672_-71.337215@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298098,
+    "wof:geomhash":"96ca79b7b378e15840fc9f329e630b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":85855361,
+            "region_id":85688689,
+            "venue_id":873818903
+        }
+    ],
+    "wof:id":873818903,
+    "wof:lastmodified":1464298098,
+    "wof:name":"Tom's Collision & Restoration",
+    "wof:parent_id":85855361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.337215,
+    42.876672,
+    -71.337215,
+    42.876672
+],
+  "geometry": {"coordinates":[-71.337215,42.876672],"type":"Point"}
+}

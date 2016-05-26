@@ -1,0 +1,94 @@
+{
+  "id": 873922289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493423,42.869141,-71.493423,42.869141",
+    "geom:latitude":42.869141,
+    "geom:longitude":-71.493423,
+    "iso:country":"US",
+    "sg:address":"1 Wire Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 8800",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W4o7YgXYioc4EUPRe0skH_42.869141_-71.493423@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300258,
+    "wof:geomhash":"4eed7f9bb1574af6099a9943f0f83103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873922289
+        }
+    ],
+    "wof:id":873922289,
+    "wof:lastmodified":1464300258,
+    "wof:name":"Allstate Insurance Company - James Parolin",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [
+    -71.493423,
+    42.869141,
+    -71.493423,
+    42.869141
+],
+  "geometry": {"coordinates":[-71.49342300000001,42.869141],"type":"Point"}
+}

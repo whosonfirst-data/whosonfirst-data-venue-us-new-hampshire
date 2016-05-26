@@ -1,0 +1,69 @@
+{
+  "id": 873807591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.295583,42.908655,-72.295583,42.908655",
+    "geom:latitude":42.908655,
+    "geom:longitude":-72.295583,
+    "iso:country":"US",
+    "sg:address":"23 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 3555",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ulTvXfoJT5oTTQvVYmPRH_42.908655_-72.295583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297882,
+    "wof:geomhash":"378c4be7a2520b9f657c0bde6b5b55de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873807591
+        }
+    ],
+    "wof:id":873807591,
+    "wof:lastmodified":1464297882,
+    "wof:name":"Absolute Auto Center",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.295583,
+    42.908655,
+    -72.295583,
+    42.908655
+],
+  "geometry": {"coordinates":[-72.29558299999999,42.908655],"type":"Point"}
+}

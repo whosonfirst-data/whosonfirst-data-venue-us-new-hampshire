@@ -1,0 +1,72 @@
+{
+  "id": 873917673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.627517,43.447088,-71.627517,43.447088",
+    "geom:latitude":43.447088,
+    "geom:longitude":-71.627517,
+    "iso:country":"US",
+    "sg:address":"822 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/franklin/194727-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 9820",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TmpuPDExMw3KDwDs7Ia5u_43.447088_-71.627517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"f8fd4c4c3fc3f87a2522b1815d98016c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873917673
+        }
+    ],
+    "wof:id":873917673,
+    "wof:lastmodified":1464300171,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.627517,
+    43.447088,
+    -71.627517,
+    43.447088
+],
+  "geometry": {"coordinates":[-71.627517,43.447088],"type":"Point"}
+}

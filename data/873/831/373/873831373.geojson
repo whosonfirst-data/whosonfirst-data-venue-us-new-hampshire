@@ -1,0 +1,71 @@
+{
+  "id": 873831373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28651,43.070511,-71.28651,43.070511",
+    "geom:latitude":43.070511,
+    "geom:longitude":-71.28651,
+    "iso:country":"US",
+    "sg:address":"42 North Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 1010",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c86bmnE7VGDnRFseqAEu1_43.070511_-71.286510@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298357,
+    "wof:geomhash":"58545b2c6842fc2e0f19b21be8b227ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873831373
+        }
+    ],
+    "wof:id":873831373,
+    "wof:lastmodified":1464298357,
+    "wof:name":"Eagle Pet Foods",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.28651,
+    43.070511,
+    -71.28651,
+    43.070511
+],
+  "geometry": {"coordinates":[-71.28651000000001,43.070511],"type":"Point"}
+}

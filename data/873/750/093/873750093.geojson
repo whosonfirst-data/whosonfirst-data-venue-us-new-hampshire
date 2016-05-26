@@ -1,0 +1,71 @@
+{
+  "id": 873750093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.748937,43.158972,-71.748937,43.158972",
+    "geom:latitude":43.158972,
+    "geom:longitude":-71.748937,
+    "iso:country":"US",
+    "sg:address":"8 Longview Dr",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7835",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855701,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WTCD7JDi8mmB6Szk28arE_43.158972_-71.748937@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297076,
+    "wof:geomhash":"c5de90abd6ef19f6c39b82693431bd72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85855701,
+            "region_id":85688689,
+            "venue_id":873750093
+        }
+    ],
+    "wof:id":873750093,
+    "wof:lastmodified":1464297076,
+    "wof:name":"Zed Properties LLC",
+    "wof:parent_id":85855701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.748937,
+    43.158972,
+    -71.748937,
+    43.158972
+],
+  "geometry": {"coordinates":[-71.748937,43.158972],"type":"Point"}
+}

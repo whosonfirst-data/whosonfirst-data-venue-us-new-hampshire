@@ -1,0 +1,75 @@
+{
+  "id": 873776975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455801,42.955352,-71.455801,42.955352",
+    "geom:latitude":42.955352,
+    "geom:longitude":-71.455801,
+    "iso:country":"US",
+    "sg:address":"155 Gold St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8507",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i67L3WJNzZGaUEE4PNk76_42.955352_-71.455801@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297450,
+    "wof:geomhash":"b4717422f15c249d6b37fade912f9ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873776975
+        }
+    ],
+    "wof:id":873776975,
+    "wof:lastmodified":1464297450,
+    "wof:name":"Ed Bilodeau Remodeling Inc",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.455801,
+    42.955352,
+    -71.455801,
+    42.955352
+],
+  "geometry": {"coordinates":[-71.45580099999999,42.955352],"type":"Point"}
+}

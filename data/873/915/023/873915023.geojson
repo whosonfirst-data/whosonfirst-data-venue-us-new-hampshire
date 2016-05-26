@@ -1,0 +1,71 @@
+{
+  "id": 873915023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465874,42.75996,-71.465874,42.75996",
+    "geom:latitude":42.75996,
+    "geom:longitude":-71.465874,
+    "iso:country":"US",
+    "sg:address":"95 W Pearl St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 8877",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:website":"http://www.ikebanaflower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42mAxkYgQAe8RYW3045PFk_42.759932_-71.466346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300107,
+    "wof:geomhash":"299095be9b85d28842fa074b515c6c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873915023
+        }
+    ],
+    "wof:id":873915023,
+    "wof:lastmodified":1464300107,
+    "wof:name":"Ikebana Flower",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.465874,
+    42.75996,
+    -71.465874,
+    42.75996
+],
+  "geometry": {"coordinates":[-71.465874,42.75996],"type":"Point"}
+}

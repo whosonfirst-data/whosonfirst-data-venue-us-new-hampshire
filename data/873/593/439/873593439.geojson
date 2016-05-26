@@ -1,0 +1,75 @@
+{
+  "id": 873593439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.234235,42.788807,-71.234235,42.788807",
+    "geom:latitude":42.788807,
+    "geom:longitude":-71.234235,
+    "iso:country":"US",
+    "sg:address":"232 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 9992",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "paper",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30V6D9T3lpMfhyG6FSHZdn_42.788807_-71.234235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294874,
+    "wof:geomhash":"cab8b9464543dbca3887fa76e34e8a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873593439
+        }
+    ],
+    "wof:id":873593439,
+    "wof:lastmodified":1464294874,
+    "wof:name":"Burlington Self Storage Salem",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "paper",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -71.234235,
+    42.788807,
+    -71.234235,
+    42.788807
+],
+  "geometry": {"coordinates":[-71.234235,42.788807],"type":"Point"}
+}

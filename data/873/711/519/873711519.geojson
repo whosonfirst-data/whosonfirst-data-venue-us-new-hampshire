@@ -1,0 +1,76 @@
+{
+  "id": 873711519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200728,43.58049,-71.200728,43.58049",
+    "geom:latitude":43.58049,
+    "geom:longitude":-71.200728,
+    "iso:country":"US",
+    "sg:address":"240 S Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 2729",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.vnahospice.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mXkE3i4iIThcgTAmhfaur_43.580490_-71.200728@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296539,
+    "wof:geomhash":"22ad1376fde4aacd75d9b9c1159f947a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873711519
+        }
+    ],
+    "wof:id":873711519,
+    "wof:lastmodified":1464296539,
+    "wof:name":"VNA Hospice",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.200728,
+    43.58049,
+    -71.200728,
+    43.58049
+],
+  "geometry": {"coordinates":[-71.200728,43.58049],"type":"Point"}
+}

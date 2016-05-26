@@ -1,0 +1,69 @@
+{
+  "id": 873835957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402915,42.885011,-71.402915,42.885011",
+    "geom:latitude":42.885011,
+    "geom:longitude":-71.402915,
+    "iso:country":"US",
+    "sg:address":"10 Red Deer Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 6671",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ne7vlh5zyKlCzdBHvNb4R_42.885011_-71.402915@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298465,
+    "wof:geomhash":"9b7cfa073194fc0b939f7bc8aa1b1f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873835957
+        }
+    ],
+    "wof:id":873835957,
+    "wof:lastmodified":1464298465,
+    "wof:name":"Partners In Practice Ltd",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.402915,
+    42.885011,
+    -71.402915,
+    42.885011
+],
+  "geometry": {"coordinates":[-71.40291499999999,42.885011],"type":"Point"}
+}

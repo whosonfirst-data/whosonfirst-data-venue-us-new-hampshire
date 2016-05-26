@@ -1,0 +1,77 @@
+{
+  "id": 873704815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571747,44.493373,-71.571747,44.493373",
+    "geom:latitude":44.493373,
+    "geom:longitude":-71.571747,
+    "iso:country":"US",
+    "sg:address":"148 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3900",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nUoawss3gUiSAviu5KSLH_44.493373_-71.571747@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296454,
+    "wof:geomhash":"d3729e2abfe90fb85c68a821b11c4074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873704815
+        }
+    ],
+    "wof:id":873704815,
+    "wof:lastmodified":1464296454,
+    "wof:name":"Cedc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.571747,
+    44.493373,
+    -71.571747,
+    44.493373
+],
+  "geometry": {"coordinates":[-71.571747,44.493373],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873816563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.089169,44.005914,-71.089169,44.005914",
+    "geom:latitude":44.005914,
+    "geom:longitude":-71.089169,
+    "iso:country":"US",
+    "sg:address":"512 Eastman Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2442",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OEIBUendn2NEHQ2fqV0wI_44.005914_-71.089169@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298044,
+    "wof:geomhash":"21c261a7dd6faace5ac047563b59610f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873816563
+        }
+    ],
+    "wof:id":873816563,
+    "wof:lastmodified":1464298044,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.089169,
+    44.005914,
+    -71.089169,
+    44.005914
+],
+  "geometry": {"coordinates":[-71.089169,44.005914],"type":"Point"}
+}

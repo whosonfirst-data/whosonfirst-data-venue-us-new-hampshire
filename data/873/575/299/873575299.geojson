@@ -1,0 +1,79 @@
+{
+  "id": 873575299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.737857,43.657754,-71.737857,43.657754",
+    "geom:latitude":43.657754,
+    "geom:longitude":-71.737857,
+    "iso:country":"US",
+    "sg:address":"1030 Mayhew Tpke",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 9111",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.newfoundlake.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RZQYjtP6JcIeeCaFsaftZ_43.657754_-71.737857@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294667,
+    "wof:geomhash":"815e79333806ff075c8c970d0964b715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873575299
+        }
+    ],
+    "wof:id":873575299,
+    "wof:lastmodified":1464294667,
+    "wof:name":"Inn On New Found Lake",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.737857,
+    43.657754,
+    -71.737857,
+    43.657754
+],
+  "geometry": {"coordinates":[-71.73785700000001,43.657754],"type":"Point"}
+}

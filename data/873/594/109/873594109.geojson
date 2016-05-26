@@ -1,0 +1,66 @@
+{
+  "id": 873594109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.239831,42.916905,-71.239831,42.916905",
+    "geom:latitude":42.916905,
+    "geom:longitude":-71.239831,
+    "iso:country":"US",
+    "sg:address":"81 Walnut Hill Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 6621",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vjNrBwpvJUSTN7Mz9WBTJ_42.916905_-71.239831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294885,
+    "wof:geomhash":"87caac503aa031a89adec1fa968bba8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873594109
+        }
+    ],
+    "wof:id":873594109,
+    "wof:lastmodified":1464294885,
+    "wof:name":"Emergency Medical Information",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.239831,
+    42.916905,
+    -71.239831,
+    42.916905
+],
+  "geometry": {"coordinates":[-71.239831,42.916905],"type":"Point"}
+}

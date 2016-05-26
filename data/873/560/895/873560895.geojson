@@ -1,0 +1,73 @@
+{
+  "id": 873560895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379786,43.187231,-71.379786,43.187231",
+    "geom:latitude":43.187231,
+    "geom:longitude":-71.379786,
+    "iso:country":"US",
+    "sg:address":"83 River Rd",
+    "sg:city":"Epsom",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 736 4682",
+    "sg:postcode":"03234",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836729,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oyFyw2A9TyDTaZLpDDEOM_43.187231_-71.379786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294509,
+    "wof:geomhash":"aa9d2829502cec6d4bdeeb7bd6b72523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85836729,
+            "region_id":85688689,
+            "venue_id":873560895
+        }
+    ],
+    "wof:id":873560895,
+    "wof:lastmodified":1464294509,
+    "wof:name":"Yetton Trucking",
+    "wof:parent_id":85836729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.379786,
+    43.187231,
+    -71.379786,
+    43.187231
+],
+  "geometry": {"coordinates":[-71.379786,43.187231],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873919839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.665334,42.763623,-71.665334,42.763623",
+    "geom:latitude":42.763623,
+    "geom:longitude":-71.665334,
+    "iso:country":"US",
+    "sg:address":"14 Captain Seaver Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 6647",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DbHu39wUMx5M9y72H8qpl_42.763623_-71.665334@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300209,
+    "wof:geomhash":"9ed26aff1c81a72651467a84bfd3a3a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919839
+        }
+    ],
+    "wof:id":873919839,
+    "wof:lastmodified":1464300209,
+    "wof:name":"Wahlen Electric",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.665334,
+    42.763623,
+    -71.665334,
+    42.763623
+],
+  "geometry": {"coordinates":[-71.665334,42.763623],"type":"Point"}
+}

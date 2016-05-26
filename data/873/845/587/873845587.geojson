@@ -1,0 +1,71 @@
+{
+  "id": 873845587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.742595,43.00971,-70.742595,43.00971",
+    "geom:latitude":43.00971,
+    "geom:longitude":-70.742595,
+    "iso:country":"US",
+    "sg:address":"1535 Ocean Blvd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 0103",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846523,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T6XoxvLEkawl3NFT7E3GC_43.009710_-70.742595@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298694,
+    "wof:geomhash":"d838da43f9d5921f48a9849177d8a38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846523,
+            "region_id":85688689,
+            "venue_id":873845587
+        }
+    ],
+    "wof:id":873845587,
+    "wof:lastmodified":1464298694,
+    "wof:name":"Clinton Plumbing & Heating",
+    "wof:parent_id":85846523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.742595,
+    43.00971,
+    -70.742595,
+    43.00971
+],
+  "geometry": {"coordinates":[-70.74259499999999,43.00971],"type":"Point"}
+}

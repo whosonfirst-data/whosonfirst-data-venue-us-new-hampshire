@@ -1,0 +1,71 @@
+{
+  "id": 873856105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.714743,43.302992,-71.714743,43.302992",
+    "geom:latitude":43.302992,
+    "geom:longitude":-71.714743,
+    "iso:country":"US",
+    "sg:address":"851 Battle St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 648 2200",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AqG05GSR7AehTl9b0d1yc_43.302992_-71.714743@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298936,
+    "wof:geomhash":"a0c925f82edebc80965144aa17ef8a4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873856105
+        }
+    ],
+    "wof:id":873856105,
+    "wof:lastmodified":1464298936,
+    "wof:name":"Webster Police Department",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.714743,
+    43.302992,
+    -71.714743,
+    43.302992
+],
+  "geometry": {"coordinates":[-71.714743,43.302992],"type":"Point"}
+}

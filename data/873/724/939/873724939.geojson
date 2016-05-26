@@ -1,0 +1,71 @@
+{
+  "id": 873724939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.685341,44.028448,-71.685341,44.028448",
+    "geom:latitude":44.028448,
+    "geom:longitude":-71.685341,
+    "iso:country":"US",
+    "sg:address":"49 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 6672",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eeJfckW6oVpAX6mlFTfuB_44.028448_-71.685341@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296711,
+    "wof:geomhash":"02fc352373feb497f51a870aa5180c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873724939
+        }
+    ],
+    "wof:id":873724939,
+    "wof:lastmodified":1464296711,
+    "wof:name":"Abacus Travel",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -71.685341,
+    44.028448,
+    -71.685341,
+    44.028448
+],
+  "geometry": {"coordinates":[-71.68534099999999,44.028448],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873851021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.430929,43.256867,-72.430929,43.256867",
+    "geom:latitude":43.256867,
+    "geom:longitude":-72.430929,
+    "iso:country":"US",
+    "sg:address":"19 Fairbrother Ave",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 3009",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65zUbHQ4Q5m6kttZQI2UuO_43.256867_-72.430929@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298832,
+    "wof:geomhash":"e081b5c75714cbe22f50cc441e2c3eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873851021
+        }
+    ],
+    "wof:id":873851021,
+    "wof:lastmodified":1464298832,
+    "wof:name":"Riverbytes Computer Mgmt LLC",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.430929,
+    43.256867,
+    -72.430929,
+    43.256867
+],
+  "geometry": {"coordinates":[-72.43092900000001,43.256867],"type":"Point"}
+}

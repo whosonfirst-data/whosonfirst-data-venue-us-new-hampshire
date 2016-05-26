@@ -1,0 +1,72 @@
+{
+  "id": 873919489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.821173,43.044555,-70.821173,43.044555",
+    "geom:latitude":43.044555,
+    "geom:longitude":-70.821173,
+    "iso:country":"US",
+    "sg:address":"63 Ocean Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/greenland/194690-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 427 1620",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01hRrP3yfetKBzXb96RnnS_43.044675_-70.821108@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300203,
+    "wof:geomhash":"df67f9d01024ef7b45a646a945831176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873919489
+        }
+    ],
+    "wof:id":873919489,
+    "wof:lastmodified":1464300203,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.821173,
+    43.044555,
+    -70.821173,
+    43.044555
+],
+  "geometry": {"coordinates":[-70.821173,43.044555],"type":"Point"}
+}

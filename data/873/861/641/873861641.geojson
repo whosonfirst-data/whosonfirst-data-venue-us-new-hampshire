@@ -1,0 +1,71 @@
+{
+  "id": 873861641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585996,43.438761,-71.585996,43.438761",
+    "geom:latitude":43.438761,
+    "geom:longitude":-71.585996,
+    "iso:country":"US",
+    "sg:address":"21 Summer St",
+    "sg:city":"Tilton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 4482",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oPM5qw7e6ZFLIcvtsAa93_43.438761_-71.585996@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299070,
+    "wof:geomhash":"9f63c20d47cfbaa9842cbade77cf6bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873861641
+        }
+    ],
+    "wof:id":873861641,
+    "wof:lastmodified":1464299070,
+    "wof:name":"Town of Northfield",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.585996,
+    43.438761,
+    -71.585996,
+    43.438761
+],
+  "geometry": {"coordinates":[-71.58599599999999,43.438761],"type":"Point"}
+}

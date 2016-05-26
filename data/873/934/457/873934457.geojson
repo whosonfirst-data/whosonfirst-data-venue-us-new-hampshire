@@ -1,0 +1,103 @@
+{
+  "id": 873934457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870493,42.897279,-70.870493,42.897279",
+    "geom:latitude":42.897279,
+    "geom:longitude":-70.870493,
+    "iso:country":"US",
+    "sg:address":"738 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 0929",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ],
+    "sg:website":"http://www.advanceautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GAam17DJXEsmNCELEBIUG_42.897279_-70.870493@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300488,
+    "wof:geomhash":"03fd8138fd7b011e25f964de963c724d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873934457
+        }
+    ],
+    "wof:id":873934457,
+    "wof:lastmodified":1464300488,
+    "wof:name":"Advance Auto Parts",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ]
+},
+  "bbox": [
+    -70.870493,
+    42.897279,
+    -70.870493,
+    42.897279
+],
+  "geometry": {"coordinates":[-70.870493,42.897279],"type":"Point"}
+}

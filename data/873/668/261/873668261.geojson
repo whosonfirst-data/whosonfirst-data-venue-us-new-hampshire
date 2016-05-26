@@ -1,0 +1,76 @@
+{
+  "id": 873668261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484628,42.782047,-71.484628,42.782047",
+    "geom:latitude":42.782047,
+    "geom:longitude":-71.484628,
+    "iso:country":"US",
+    "sg:address":"24 Ferry Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 2275",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.hsfn.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892287,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bw8jzNA2ycu36jWmALMIy_42.782047_-71.484628@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295783,
+    "wof:geomhash":"4f9acd22e7cdf68a8fd336bf30d8b43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892287,
+            "region_id":85688689,
+            "venue_id":873668261
+        }
+    ],
+    "wof:id":873668261,
+    "wof:lastmodified":1464295783,
+    "wof:name":"Humane Society Of New England",
+    "wof:parent_id":85892287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.484628,
+    42.782047,
+    -71.484628,
+    42.782047
+],
+  "geometry": {"coordinates":[-71.484628,42.782047],"type":"Point"}
+}

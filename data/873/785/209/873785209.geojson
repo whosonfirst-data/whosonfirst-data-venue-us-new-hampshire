@@ -1,0 +1,71 @@
+{
+  "id": 873785209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.87185,43.024023,-70.87185,43.024023",
+    "geom:latitude":43.024023,
+    "geom:longitude":-70.87185,
+    "iso:country":"US",
+    "sg:address":"3 Whittaker Dr",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 7285",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cUSNAHe5o4kHghCp8oB7O_43.024023_-70.871850@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297558,
+    "wof:geomhash":"5e59c65201df481b061d2fabb2cb9a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873785209
+        }
+    ],
+    "wof:id":873785209,
+    "wof:lastmodified":1464297558,
+    "wof:name":"R G Machine Inc",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.87185,
+    43.024023,
+    -70.87185,
+    43.024023
+],
+  "geometry": {"coordinates":[-70.87184999999999,43.024023],"type":"Point"}
+}

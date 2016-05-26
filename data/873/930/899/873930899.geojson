@@ -1,0 +1,69 @@
+{
+  "id": 873930899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.127098,43.978699,-71.127098,43.978699",
+    "geom:latitude":43.978699,
+    "geom:longitude":-71.127098,
+    "iso:country":"US",
+    "sg:address":"160 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 3923",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W3aTRB9ntg2UF48zXw3w9_43.978699_-71.127098@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300428,
+    "wof:geomhash":"19389281f28d56a1c5c32d670775b37b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930899
+        }
+    ],
+    "wof:id":873930899,
+    "wof:lastmodified":1464300428,
+    "wof:name":"A-One Appliance Service Center",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.127098,
+    43.978699,
+    -71.127098,
+    43.978699
+],
+  "geometry": {"coordinates":[-71.127098,43.978699],"type":"Point"}
+}

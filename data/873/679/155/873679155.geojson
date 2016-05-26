@@ -1,0 +1,75 @@
+{
+  "id": 873679155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449155,43.562525,-71.449155,43.562525",
+    "geom:latitude":43.562525,
+    "geom:longitude":-71.449155,
+    "iso:country":"US",
+    "sg:address":"1343 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8311",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tp9kG7WOf6Za8L8sGFY2y_43.562525_-71.449155@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295971,
+    "wof:geomhash":"cde58416852214eab863ed4ac8913907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873679155
+        }
+    ],
+    "wof:id":873679155,
+    "wof:lastmodified":1464295971,
+    "wof:name":"Laconia Pet Center",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.449155,
+    43.562525,
+    -71.449155,
+    43.562525
+],
+  "geometry": {"coordinates":[-71.449155,43.562525],"type":"Point"}
+}

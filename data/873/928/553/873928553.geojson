@@ -1,0 +1,71 @@
+{
+  "id": 873928553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599028,43.278264,-71.599028,43.278264",
+    "geom:latitude":43.278264,
+    "geom:longitude":-71.599028,
+    "iso:country":"US",
+    "sg:address":"325 Daniel Webster Hwy # Y",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2332",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QXrgt5cIUx882w5bRvTET_43.278264_-71.599028@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300380,
+    "wof:geomhash":"67daf21447901b359f60e4c3f8238a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928553
+        }
+    ],
+    "wof:id":873928553,
+    "wof:lastmodified":1464300380,
+    "wof:name":"Harvey Construction",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.599028,
+    43.278264,
+    -71.599028,
+    43.278264
+],
+  "geometry": {"coordinates":[-71.599028,43.278264],"type":"Point"}
+}

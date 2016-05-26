@@ -1,0 +1,69 @@
+{
+  "id": 873816113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.628105,42.824171,-71.628105,42.824171",
+    "geom:latitude":42.824171,
+    "geom:longitude":-71.628105,
+    "iso:country":"US",
+    "sg:address":"540 Nashua St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 3211",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S3Suqr0Gg80ID8xGHQrAb_42.824171_-71.628105@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298036,
+    "wof:geomhash":"0531cb24f19825f9c2a8620991d0d68c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873816113
+        }
+    ],
+    "wof:id":873816113,
+    "wof:lastmodified":1464298036,
+    "wof:name":"White Duck Car Wash Quick Lube",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.628105,
+    42.824171,
+    -71.628105,
+    42.824171
+],
+  "geometry": {"coordinates":[-71.62810500000001,42.824171],"type":"Point"}
+}

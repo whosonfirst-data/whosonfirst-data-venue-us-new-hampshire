@@ -1,0 +1,73 @@
+{
+  "id": 873675807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472845,43.531912,-71.472845,43.531912",
+    "geom:latitude":43.531912,
+    "geom:longitude":-71.472845,
+    "iso:country":"US",
+    "sg:address":"771 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5795",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t9ndjsjLxoqNXS3arHZSn_43.531912_-71.472845@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295886,
+    "wof:geomhash":"40de67a14f434b38cadf8baf4679a288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873675807
+        }
+    ],
+    "wof:id":873675807,
+    "wof:lastmodified":1464295886,
+    "wof:name":"Genesis The Counseling Group",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.472845,
+    43.531912,
+    -71.472845,
+    43.531912
+],
+  "geometry": {"coordinates":[-71.47284500000001,43.531912],"type":"Point"}
+}

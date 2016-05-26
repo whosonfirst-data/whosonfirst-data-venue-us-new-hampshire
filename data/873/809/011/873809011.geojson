@@ -1,0 +1,73 @@
+{
+  "id": 873809011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.609421,43.274527,-71.609421,43.274527",
+    "geom:latitude":43.274527,
+    "geom:longitude":-71.609421,
+    "iso:country":"US",
+    "sg:address":"10 Look Out Cir",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4902",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31lCmWH7XupnL9SWqfBYMW_43.274527_-71.609421@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297909,
+    "wof:geomhash":"01022953c2ebbb5cda78c550123f1b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873809011
+        }
+    ],
+    "wof:id":873809011,
+    "wof:lastmodified":1464297909,
+    "wof:name":"Rsn Industries Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.609421,
+    43.274527,
+    -71.609421,
+    43.274527
+],
+  "geometry": {"coordinates":[-71.609421,43.274527],"type":"Point"}
+}

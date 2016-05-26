@@ -1,0 +1,71 @@
+{
+  "id": 873925501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249802,42.757229,-71.249802,42.757229",
+    "geom:latitude":42.757229,
+    "geom:longitude":-71.249802,
+    "iso:country":"US",
+    "sg:address":"98 Brady Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8597",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "promoter",
+        "tours-operators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BOn3Uuhec6X6ezafAjLO0_42.757229_-71.249802@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300317,
+    "wof:geomhash":"6456e76bc12cc2f249cd1115ae929d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925501
+        }
+    ],
+    "wof:id":873925501,
+    "wof:lastmodified":1464300317,
+    "wof:name":"Ps Tours Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -71.249802,
+    42.757229,
+    -71.249802,
+    42.757229
+],
+  "geometry": {"coordinates":[-71.249802,42.757229],"type":"Point"}
+}

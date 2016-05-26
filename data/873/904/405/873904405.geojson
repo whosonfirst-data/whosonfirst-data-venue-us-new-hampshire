@@ -1,0 +1,81 @@
+{
+  "id": 873904405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43255,43.577499,-71.43255,43.577499",
+    "geom:latitude":43.577499,
+    "geom:longitude":-71.43255,
+    "iso:country":"US",
+    "sg:address":"172 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 4707",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lA7oGvKLnCydcHfE64cEw_43.577499_-71.432550@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299906,
+    "wof:geomhash":"394074c734bbe8938cc979bfd64525fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873904405
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873904405
+        }
+    ],
+    "wof:id":873904405,
+    "wof:lastmodified":1464299906,
+    "wof:name":"Daniels Electric Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.43255,
+    43.577499,
+    -71.43255,
+    43.577499
+],
+  "geometry": {"coordinates":[-71.43255000000001,43.577499],"type":"Point"}
+}

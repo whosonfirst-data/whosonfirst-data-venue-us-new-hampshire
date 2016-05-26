@@ -1,0 +1,71 @@
+{
+  "id": 873634853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.22815,42.800321,-71.22815,42.800321",
+    "geom:latitude":42.800321,
+    "geom:longitude":-71.22815,
+    "iso:country":"US",
+    "sg:address":"6 Easy St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2608",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z9X7apqXhxXfRKQkarZ7p_42.800321_-71.228150@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295421,
+    "wof:geomhash":"44864386aae9bc4b1fc1de36bb5ffab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873634853
+        }
+    ],
+    "wof:id":873634853,
+    "wof:lastmodified":1464295421,
+    "wof:name":"Lundberg R & Sons",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.22815,
+    42.800321,
+    -71.22815,
+    42.800321
+],
+  "geometry": {"coordinates":[-71.22815,42.800321],"type":"Point"}
+}

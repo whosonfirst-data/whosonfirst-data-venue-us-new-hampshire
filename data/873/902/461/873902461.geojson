@@ -1,0 +1,71 @@
+{
+  "id": 873902461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479065,42.978351,-71.479065,42.978351",
+    "geom:latitude":42.978351,
+    "geom:longitude":-71.479065,
+    "iso:country":"US",
+    "sg:address":"16 Milford St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8375",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TKEmsl4t4Tq64JZfGaz8g_42.978351_-71.479065@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299864,
+    "wof:geomhash":"36e49ab7b9bb84e0c6d3c0614869fe33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873902461
+        }
+    ],
+    "wof:id":873902461,
+    "wof:lastmodified":1464299864,
+    "wof:name":"Leblanc Service Station",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.479065,
+    42.978351,
+    -71.479065,
+    42.978351
+],
+  "geometry": {"coordinates":[-71.47906500000001,42.978351],"type":"Point"}
+}

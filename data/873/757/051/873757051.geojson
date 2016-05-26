@@ -1,0 +1,71 @@
+{
+  "id": 873757051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605354,43.293532,-71.605354,43.293532",
+    "geom:latitude":43.293532,
+    "geom:longitude":-71.605354,
+    "iso:country":"US",
+    "sg:address":"168 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4066",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LJ5TrAqhrsE27pC3IDRzA_43.293532_-71.605354@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297170,
+    "wof:geomhash":"709128b1f8f178bd1f144de4aeabbc76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873757051
+        }
+    ],
+    "wof:id":873757051,
+    "wof:lastmodified":1464297170,
+    "wof:name":"Ladies Aux To Boscawen PO",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.605354,
+    43.293532,
+    -71.605354,
+    43.293532
+],
+  "geometry": {"coordinates":[-71.60535400000001,43.293532],"type":"Point"}
+}

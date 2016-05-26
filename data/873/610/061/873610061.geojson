@@ -1,0 +1,71 @@
+{
+  "id": 873610061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460844,43.527831,-71.460844,43.527831",
+    "geom:latitude":43.527831,
+    "geom:longitude":-71.460844,
+    "iso:country":"US",
+    "sg:address":"80 Highland St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 2855",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E0DOWdyYaxOaucli3rg4c_43.527831_-71.460844@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295144,
+    "wof:geomhash":"f2e0807d90a6d5bd06b04da5789188e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873610061
+        }
+    ],
+    "wof:id":873610061,
+    "wof:lastmodified":1464295144,
+    "wof:name":"Outpatient Center Lab",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.460844,
+    43.527831,
+    -71.460844,
+    43.527831
+],
+  "geometry": {"coordinates":[-71.46084399999999,43.527831],"type":"Point"}
+}

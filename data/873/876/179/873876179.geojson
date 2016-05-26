@@ -1,0 +1,75 @@
+{
+  "id": 873876179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684277,43.759111,-71.684277,43.759111",
+    "geom:latitude":43.759111,
+    "geom:longitude":-71.684277,
+    "iso:country":"US",
+    "sg:address":"15 S River Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 8294",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "taxicab",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qMYPCWJKCMJChF7wRw7oJ_43.759111_-71.684277@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299356,
+    "wof:geomhash":"01e424a2e4ef6b1a062a64725a58c746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873876179
+        }
+    ],
+    "wof:id":873876179,
+    "wof:lastmodified":1464299356,
+    "wof:name":"Town Taxi",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "taxicab",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.684277,
+    43.759111,
+    -71.684277,
+    43.759111
+],
+  "geometry": {"coordinates":[-71.68427699999999,43.759111],"type":"Point"}
+}

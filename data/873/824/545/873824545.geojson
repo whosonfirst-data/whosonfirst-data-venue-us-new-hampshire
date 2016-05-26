@@ -1,0 +1,71 @@
+{
+  "id": 873824545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.846612,43.180606,-71.846612,43.180606",
+    "geom:latitude":43.180606,
+    "geom:longitude":-71.846612,
+    "iso:country":"US",
+    "sg:address":"2 Ezekial Smith Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6682",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M1zUxFs62pQoH2wkiw5Ku_43.180606_-71.846612@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298225,
+    "wof:geomhash":"d1c9ef5f0f50969dbe128eceb0cd2d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873824545
+        }
+    ],
+    "wof:id":873824545,
+    "wof:lastmodified":1464298225,
+    "wof:name":"Mc Court Engineering Assoc",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.846612,
+    43.180606,
+    -71.846612,
+    43.180606
+],
+  "geometry": {"coordinates":[-71.84661199999999,43.180606],"type":"Point"}
+}

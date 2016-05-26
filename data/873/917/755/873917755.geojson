@@ -1,0 +1,74 @@
+{
+  "id": 873917755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.002153,43.423197,-72.002153,43.423197",
+    "geom:latitude":43.423197,
+    "geom:longitude":-72.002153,
+    "iso:country":"US",
+    "sg:address":"47 Newport Rd",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/new-london/209134-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 9511",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85829351,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TVoFrKTMOnMFzUbz9nKle_43.423197_-72.002153@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300173,
+    "wof:geomhash":"775bb4bf1c44f49030c908b591633dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85829351,
+            "region_id":85688689,
+            "venue_id":873917755
+        }
+    ],
+    "wof:id":873917755,
+    "wof:lastmodified":1464300173,
+    "wof:name":"TCBY",
+    "wof:parent_id":85829351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.002153,
+    43.423197,
+    -72.002153,
+    43.423197
+],
+  "geometry": {"coordinates":[-72.00215300000001,43.423197],"type":"Point"}
+}

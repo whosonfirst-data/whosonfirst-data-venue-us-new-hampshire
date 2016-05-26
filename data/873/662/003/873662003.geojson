@@ -1,0 +1,69 @@
+{
+  "id": 873662003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679672,42.865331,-71.679672,42.865331",
+    "geom:latitude":42.865331,
+    "geom:longitude":-71.679672,
+    "iso:country":"US",
+    "sg:address":"73 Old Milford Rd",
+    "sg:city":"Mont Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 3615",
+    "sg:postcode":"03057",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZSA78g0kuUrX8YrhnIRre_42.865331_-71.679672@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295719,
+    "wof:geomhash":"f5c568ff0b001e6ab5bf2ce8a16b8c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873662003
+        }
+    ],
+    "wof:id":873662003,
+    "wof:lastmodified":1464295719,
+    "wof:name":"Cellar Crafts",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -71.679672,
+    42.865331,
+    -71.679672,
+    42.865331
+],
+  "geometry": {"coordinates":[-71.679672,42.865331],"type":"Point"}
+}

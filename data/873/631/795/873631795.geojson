@@ -1,0 +1,72 @@
+{
+  "id": 873631795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.582234,42.807622,-71.582234,42.807622",
+    "geom:latitude":42.807622,
+    "geom:longitude":-71.582234,
+    "iso:country":"US",
+    "sg:address":"8 Columbia Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 9400",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.controlair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jd98bkzAqNOk7wKZ3CPkC_42.807622_-71.582234@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295382,
+    "wof:geomhash":"92db9f49f5f52fd8e89b8441aad6568e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873631795
+        }
+    ],
+    "wof:id":873631795,
+    "wof:lastmodified":1464295382,
+    "wof:name":"Control Air Inc",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.582234,
+    42.807622,
+    -71.582234,
+    42.807622
+],
+  "geometry": {"coordinates":[-71.582234,42.807622],"type":"Point"}
+}

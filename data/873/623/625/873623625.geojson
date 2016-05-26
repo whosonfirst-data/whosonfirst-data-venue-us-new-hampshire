@@ -1,0 +1,79 @@
+{
+  "id": 873623625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534858,43.212111,-71.534858,43.212111",
+    "geom:latitude":43.212111,
+    "geom:longitude":-71.534858,
+    "iso:country":"US",
+    "sg:address":"29 Stickney Ave",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 8555",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JqjPrQv26odzQyrIOtYDx_43.212111_-71.534858@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295293,
+    "wof:geomhash":"9a88aa8276fb8c545c3baa39b6772f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873623625
+        }
+    ],
+    "wof:id":873623625,
+    "wof:lastmodified":1464295293,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.534858,
+    43.212111,
+    -71.534858,
+    43.212111
+],
+  "geometry": {"coordinates":[-71.534858,43.212111],"type":"Point"}
+}

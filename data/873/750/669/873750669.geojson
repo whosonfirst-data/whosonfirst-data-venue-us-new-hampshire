@@ -1,0 +1,71 @@
+{
+  "id": 873750669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687347,43.759602,-71.687347,43.759602",
+    "geom:latitude":43.759602,
+    "geom:longitude":-71.687347,
+    "iso:country":"US",
+    "sg:address":"68 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 7719",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "noncommercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5As4igWSSo1PdAIfwP68qQ_43.759602_-71.687347@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297083,
+    "wof:geomhash":"66236b6373f5511a59e26350ae188c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873750669
+        }
+    ],
+    "wof:id":873750669,
+    "wof:lastmodified":1464297083,
+    "wof:name":"Greenbook Project",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "noncommercial"
+    ]
+},
+  "bbox": [
+    -71.687347,
+    43.759602,
+    -71.687347,
+    43.759602
+],
+  "geometry": {"coordinates":[-71.687347,43.759602],"type":"Point"}
+}

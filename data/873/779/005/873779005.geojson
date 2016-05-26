@@ -1,0 +1,73 @@
+{
+  "id": 873779005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46945,43.529064,-71.46945,43.529064",
+    "geom:latitude":43.529064,
+    "geom:longitude":-71.46945,
+    "iso:country":"US",
+    "sg:address":"62 Beacon St E",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 3034",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s5052KjzMEnzmAQV8waWW_43.529064_-71.469450@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297476,
+    "wof:geomhash":"fe159b8a6f94efdeafa505fb6be60ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873779005
+        }
+    ],
+    "wof:id":873779005,
+    "wof:lastmodified":1464297476,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.46945,
+    43.529064,
+    -71.46945,
+    43.529064
+],
+  "geometry": {"coordinates":[-71.46944999999999,43.529064],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873575399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506196,42.971397,-71.506196,42.971397",
+    "geom:latitude":42.971397,
+    "geom:longitude":-71.506196,
+    "iso:country":"US",
+    "sg:address":"9 Cote Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 7410",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carrier",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60RKJQuCiKruQhXlA2s7oY_42.971397_-71.506196@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294668,
+    "wof:geomhash":"e4cf6c817e9f76781ae0e5d750033746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873575399
+        }
+    ],
+    "wof:id":873575399,
+    "wof:lastmodified":1464294668,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.506196,
+    42.971397,
+    -71.506196,
+    42.971397
+],
+  "geometry": {"coordinates":[-71.506196,42.971397],"type":"Point"}
+}

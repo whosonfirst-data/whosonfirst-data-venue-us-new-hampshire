@@ -1,0 +1,71 @@
+{
+  "id": 873730969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.239662,43.550056,-72.239662,43.550056",
+    "geom:latitude":43.550056,
+    "geom:longitude":-72.239662,
+    "iso:country":"US",
+    "sg:address":"13 Red Hill Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 469 3377",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837659,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fITrlXmRESfGnLbBeqxCu_43.550056_-72.239662@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296790,
+    "wof:geomhash":"291a619e6ec65fd804d6f4f385221160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837659,
+            "region_id":85688689,
+            "venue_id":873730969
+        }
+    ],
+    "wof:id":873730969,
+    "wof:lastmodified":1464296790,
+    "wof:name":"Aurum Dental Studio Inc",
+    "wof:parent_id":85837659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.239662,
+    43.550056,
+    -72.239662,
+    43.550056
+],
+  "geometry": {"coordinates":[-72.239662,43.550056],"type":"Point"}
+}

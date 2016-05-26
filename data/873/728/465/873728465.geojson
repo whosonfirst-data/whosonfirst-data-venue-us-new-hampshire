@@ -1,0 +1,73 @@
+{
+  "id": 873728465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.714265,43.056148,-71.714265,43.056148",
+    "geom:latitude":43.056148,
+    "geom:longitude":-71.714265,
+    "iso:country":"US",
+    "sg:address":"848 S Stark Hwy",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 5438",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "general",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bEqWfu8wvi7hj72psicO9_43.056148_-71.714265@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296760,
+    "wof:geomhash":"09c0893e6e67ef331d5ec91d0432fe87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873728465
+        }
+    ],
+    "wof:id":873728465,
+    "wof:lastmodified":1464296760,
+    "wof:name":"Quick Lift Rentals Inc",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "general",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.714265,
+    43.056148,
+    -71.714265,
+    43.056148
+],
+  "geometry": {"coordinates":[-71.714265,43.056148],"type":"Point"}
+}

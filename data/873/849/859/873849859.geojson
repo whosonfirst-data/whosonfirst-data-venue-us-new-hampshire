@@ -1,0 +1,83 @@
+{
+  "id": 873849859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553828,44.471579,-71.553828,44.471579",
+    "geom:latitude":44.471579,
+    "geom:longitude":-71.553828,
+    "iso:country":"US",
+    "sg:address":"34 Reed Rd",
+    "sg:city":"W Stewartstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 246 7072",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822519,
+        102085529,
+        85975233,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mDwsd1cDYwLhqj8mnmWti_44.471579_-71.553828@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298808,
+    "wof:geomhash":"7f8deb8d62cfc86825bbff46ccd1dc02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85822519,
+            "region_id":85688689,
+            "venue_id":873849859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873849859
+        }
+    ],
+    "wof:id":873849859,
+    "wof:lastmodified":1464298808,
+    "wof:name":"Custom & Collision Body Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.553828,
+    44.471579,
+    -71.553828,
+    44.471579
+],
+  "geometry": {"coordinates":[-71.553828,44.471579],"type":"Point"}
+}

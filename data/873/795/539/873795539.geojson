@@ -1,0 +1,69 @@
+{
+  "id": 873795539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.159583,42.825011,-71.159583,42.825011",
+    "geom:latitude":42.825011,
+    "geom:longitude":-71.159583,
+    "iso:country":"US",
+    "sg:address":"14 Sunset Dr",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5743",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YmAFtZadFr9JQpnMEuFOF_42.825011_-71.159583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297721,
+    "wof:geomhash":"729de54f1a9fbf2b495a332fa41b459e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873795539
+        }
+    ],
+    "wof:id":873795539,
+    "wof:lastmodified":1464297721,
+    "wof:name":"Leonard A Hall",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.159583,
+    42.825011,
+    -71.159583,
+    42.825011
+],
+  "geometry": {"coordinates":[-71.159583,42.825011],"type":"Point"}
+}

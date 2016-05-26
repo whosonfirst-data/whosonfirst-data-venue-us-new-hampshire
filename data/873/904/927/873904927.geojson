@@ -1,0 +1,71 @@
+{
+  "id": 873904927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679128,43.730836,-71.679128,43.730836",
+    "geom:latitude":43.730836,
+    "geom:longitude":-71.679128,
+    "iso:country":"US",
+    "sg:address":"59 Cummings Hill Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4300",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_457nelvPk6yKrE2xiKzvxP_43.730836_-71.679128@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299917,
+    "wof:geomhash":"deb6f92d05156914ff1015788a28d602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873904927
+        }
+    ],
+    "wof:id":873904927,
+    "wof:lastmodified":1464299917,
+    "wof:name":"Jennifer Highland DO",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.679128,
+    43.730836,
+    -71.679128,
+    43.730836
+],
+  "geometry": {"coordinates":[-71.67912800000001,43.730836],"type":"Point"}
+}

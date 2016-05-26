@@ -1,0 +1,73 @@
+{
+  "id": 873828273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439567,43.532388,-71.439567,43.532388",
+    "geom:latitude":43.532388,
+    "geom:longitude":-71.439567,
+    "iso:country":"US",
+    "sg:address":"6 Sawmill Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 1944",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sP88LNeXXiIR17SwiYrhw_43.532388_-71.439567@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298300,
+    "wof:geomhash":"718d8bd8d82ab2a70ab478c634f25a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873828273
+        }
+    ],
+    "wof:id":873828273,
+    "wof:lastmodified":1464298300,
+    "wof:name":"Lemay's Auto Sales",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.439567,
+    43.532388,
+    -71.439567,
+    43.532388
+],
+  "geometry": {"coordinates":[-71.439567,43.532388],"type":"Point"}
+}

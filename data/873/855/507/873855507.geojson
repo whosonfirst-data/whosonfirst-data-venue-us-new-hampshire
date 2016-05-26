@@ -1,0 +1,71 @@
+{
+  "id": 873855507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.942364,43.082103,-70.942364,43.082103",
+    "geom:latitude":43.082103,
+    "geom:longitude":-70.942364,
+    "iso:country":"US",
+    "sg:address":"56 Elm St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2125",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eDV4lFahjZFhmGq9VTway_43.082103_-70.942364@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298923,
+    "wof:geomhash":"64b70ef80400a13f6bc3c3ef0e7a6bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873855507
+        }
+    ],
+    "wof:id":873855507,
+    "wof:lastmodified":1464298923,
+    "wof:name":"Coles Electric",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.942364,
+    43.082103,
+    -70.942364,
+    43.082103
+],
+  "geometry": {"coordinates":[-70.942364,43.082103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873546067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546985,43.011717,-71.546985,43.011717",
+    "geom:latitude":43.011717,
+    "geom:longitude":-71.546985,
+    "iso:country":"US",
+    "sg:address":"185 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 9500",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28evDNuaND5L6OPCWuXQ6v_43.011717_-71.546985@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294329,
+    "wof:geomhash":"eba7b68c3c8b2e36882fd747f5d3e141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873546067
+        }
+    ],
+    "wof:id":873546067,
+    "wof:lastmodified":1464294329,
+    "wof:name":"Northpoint Roofing",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.546985,
+    43.011717,
+    -71.546985,
+    43.011717
+],
+  "geometry": {"coordinates":[-71.54698500000001,43.011717],"type":"Point"}
+}

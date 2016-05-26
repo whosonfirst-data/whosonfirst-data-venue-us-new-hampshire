@@ -1,0 +1,71 @@
+{
+  "id": 873790061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182917,44.39086,-71.182917,44.39086",
+    "geom:latitude":44.39086,
+    "geom:longitude":-71.182917,
+    "iso:country":"US",
+    "sg:address":"161 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 9800",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S9D0Kq1lpptssYkkADOdr_44.390860_-71.182917@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297641,
+    "wof:geomhash":"64ea696e96393039b0e3abef7de400c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873790061
+        }
+    ],
+    "wof:id":873790061,
+    "wof:lastmodified":1464297641,
+    "wof:name":"Petersons Pet Stop",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.182917,
+    44.39086,
+    -71.182917,
+    44.39086
+],
+  "geometry": {"coordinates":[-71.182917,44.39086],"type":"Point"}
+}

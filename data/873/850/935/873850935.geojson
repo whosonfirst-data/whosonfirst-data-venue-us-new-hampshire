@@ -1,0 +1,71 @@
+{
+  "id": 873850935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197056,42.74225,-71.197056,42.74225",
+    "geom:latitude":42.74225,
+    "geom:longitude":-71.197056,
+    "iso:country":"US",
+    "sg:address":"5 Hampshire St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 5510",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GOOeQvLIsyU87IFJiIx95_42.742250_-71.197056@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298830,
+    "wof:geomhash":"9285f697ccd6d9509f52b89db3eaa6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873850935
+        }
+    ],
+    "wof:id":873850935,
+    "wof:lastmodified":1464298830,
+    "wof:name":"Weber Dental Laboratories",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.197056,
+    42.74225,
+    -71.197056,
+    42.74225
+],
+  "geometry": {"coordinates":[-71.197056,42.74225],"type":"Point"}
+}

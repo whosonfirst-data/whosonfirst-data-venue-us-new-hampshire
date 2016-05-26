@@ -1,0 +1,81 @@
+{
+  "id": 873928235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5662,43.291801,-71.5662,43.291801",
+    "geom:latitude":43.291801,
+    "geom:longitude":-71.5662,
+    "iso:country":"US",
+    "sg:address":"131 Hoit Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 8088",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary",
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_411Z8y71XFiOxQayNpFIUQ_43.291801_-71.566200@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300372,
+    "wof:geomhash":"af6a2f2f932bca24d0b0242b6ee14a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873928235
+        }
+    ],
+    "wof:id":873928235,
+    "wof:lastmodified":1464300372,
+    "wof:name":"Montessori Children's Center",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "college"
+    ]
+},
+  "bbox": [
+    -71.5662,
+    43.291801,
+    -71.5662,
+    43.291801
+],
+  "geometry": {"coordinates":[-71.56619999999999,43.291801],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873764293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.034464,43.490642,-72.034464,43.490642",
+    "geom:latitude":43.490642,
+    "geom:longitude":-72.034464,
+    "iso:country":"US",
+    "sg:address":"112 Bowman Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5823",
+    "sg:postcode":"03284",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1UZYjPVpOibaDo2MfKsE_43.490642_-72.034464@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297280,
+    "wof:geomhash":"8eacf6ff6dfa1a313819370b5415e3d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873764293
+        }
+    ],
+    "wof:id":873764293,
+    "wof:lastmodified":1464297280,
+    "wof:name":"Springfield Plumbing & Heating",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.034464,
+    43.490642,
+    -72.034464,
+    43.490642
+],
+  "geometry": {"coordinates":[-72.034464,43.490642],"type":"Point"}
+}

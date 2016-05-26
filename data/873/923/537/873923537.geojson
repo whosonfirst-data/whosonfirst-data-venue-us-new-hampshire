@@ -1,0 +1,89 @@
+{
+  "id": 873923537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48104,42.745945,-71.48104,42.745945",
+    "geom:latitude":42.745945,
+    "geom:longitude":-71.48104,
+    "iso:country":"US",
+    "sg:address":"49 Fairview Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 1982",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment-wholesale",
+        "audio-visual",
+        "theater",
+        "system",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.bertrandaudio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nh162w3rr9js2wOWo5MvC_42.745945_-71.481040@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300280,
+    "wof:geomhash":"4aa4974ed25316dcdce4c2dd1d57a5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923537
+        }
+    ],
+    "wof:id":873923537,
+    "wof:lastmodified":1464300280,
+    "wof:name":"Bertrand Audio Imports",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-wholesale",
+        "audio-visual",
+        "theater",
+        "system",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.48104,
+    42.745945,
+    -71.48104,
+    42.745945
+],
+  "geometry": {"coordinates":[-71.48103999999999,42.745945],"type":"Point"}
+}

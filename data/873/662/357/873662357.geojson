@@ -1,0 +1,69 @@
+{
+  "id": 873662357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5875,42.811324,-71.5875,42.811324",
+    "geom:latitude":42.811324,
+    "geom:longitude":-71.5875,
+    "iso:country":"US",
+    "sg:address":"71 State Rte 101A",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 249 9065",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uNVnKKl4XLu7VzsxutltD_42.811324_-71.587500@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295724,
+    "wof:geomhash":"14e1bdc434f3f135789d352f2a8fc47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873662357
+        }
+    ],
+    "wof:id":873662357,
+    "wof:lastmodified":1464295724,
+    "wof:name":"Denture Centers Of America",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.5875,
+    42.811324,
+    -71.5875,
+    42.811324
+],
+  "geometry": {"coordinates":[-71.58750000000001,42.811324],"type":"Point"}
+}

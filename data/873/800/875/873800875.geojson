@@ -1,0 +1,71 @@
+{
+  "id": 873800875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.337509,42.816658,-71.337509,42.816658",
+    "geom:latitude":42.816658,
+    "geom:longitude":-71.337509,
+    "iso:country":"US",
+    "sg:address":"100 Nashua Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 5839",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qW0rN0S5kgPPIuF0PunmH_42.816658_-71.337509@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297783,
+    "wof:geomhash":"789a2f38f02c387ed7570c4ab0440f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873800875
+        }
+    ],
+    "wof:id":873800875,
+    "wof:lastmodified":1464297783,
+    "wof:name":"CVS",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.337509,
+    42.816658,
+    -71.337509,
+    42.816658
+],
+  "geometry": {"coordinates":[-71.337509,42.816658],"type":"Point"}
+}

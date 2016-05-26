@@ -1,0 +1,71 @@
+{
+  "id": 873797145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.145281,43.775569,-72.145281,43.775569",
+    "geom:latitude":43.775569,
+    "geom:longitude":-72.145281,
+    "iso:country":"US",
+    "sg:address":"216 Baker Hill Rd",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 4379",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AgrCuDQ85ot32GWNFCXFr_43.775569_-72.145281@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297739,
+    "wof:geomhash":"149961f6ae4b9f3a85172907c7f0d95b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873797145
+        }
+    ],
+    "wof:id":873797145,
+    "wof:lastmodified":1464297739,
+    "wof:name":"Webb Masonry",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.145281,
+    43.775569,
+    -72.145281,
+    43.775569
+],
+  "geometry": {"coordinates":[-72.145281,43.775569],"type":"Point"}
+}

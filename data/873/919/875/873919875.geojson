@@ -1,0 +1,88 @@
+{
+  "id": 873919875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.665094,42.74548,-71.665094,42.74548",
+    "geom:latitude":42.74548,
+    "geom:longitude":-71.665094,
+    "iso:country":"US",
+    "sg:address":"55 Milford St",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 6178",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HHCPJ4PEf05EgSmXg7Nb0_42.745480_-71.665094@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300209,
+    "wof:geomhash":"f683f6372cba041f9c22671c3e05c532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919875
+        }
+    ],
+    "wof:id":873919875,
+    "wof:lastmodified":1464300209,
+    "wof:name":"Whitcomb Plumbing & Heating",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.665094,
+    42.74548,
+    -71.665094,
+    42.74548
+],
+  "geometry": {"coordinates":[-71.665094,42.74548],"type":"Point"}
+}

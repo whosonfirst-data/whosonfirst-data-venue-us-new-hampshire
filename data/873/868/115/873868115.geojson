@@ -1,0 +1,71 @@
+{
+  "id": 873868115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533814,43.17975,-71.533814,43.17975",
+    "geom:latitude":43.17975,
+    "geom:longitude":-71.533814,
+    "iso:country":"US",
+    "sg:address":"4 Nivelle St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 4143",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X1RZwgfTkCjyTvgsktGQa_43.179750_-71.533814@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299193,
+    "wof:geomhash":"2be9743a5c02e026ba421772ca312d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873868115
+        }
+    ],
+    "wof:id":873868115,
+    "wof:lastmodified":1464299193,
+    "wof:name":"Steamatic",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.533814,
+    43.17975,
+    -71.533814,
+    43.17975
+],
+  "geometry": {"coordinates":[-71.53381400000001,43.17975],"type":"Point"}
+}

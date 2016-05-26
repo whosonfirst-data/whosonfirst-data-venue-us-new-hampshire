@@ -1,0 +1,71 @@
+{
+  "id": 873929413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.049725,42.744746,-72.049725,42.744746",
+    "geom:latitude":42.744746,
+    "geom:longitude":-72.049725,
+    "iso:country":"US",
+    "sg:address":"212 Thomas Rd",
+    "sg:city":"Rindge",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 899 2131",
+    "sg:postcode":"03461",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grower",
+        "nursery-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856251,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05eeR8XxybPAJGWu1TEt4u_42.744746_-72.049725@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300397,
+    "wof:geomhash":"969546a12e390f8833659935965b0f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85856251,
+            "region_id":85688689,
+            "venue_id":873929413
+        }
+    ],
+    "wof:id":873929413,
+    "wof:lastmodified":1464300397,
+    "wof:name":"Topside Farm",
+    "wof:parent_id":85856251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grower",
+        "nursery-wholesale"
+    ]
+},
+  "bbox": [
+    -72.049725,
+    42.744746,
+    -72.049725,
+    42.744746
+],
+  "geometry": {"coordinates":[-72.049725,42.744746],"type":"Point"}
+}

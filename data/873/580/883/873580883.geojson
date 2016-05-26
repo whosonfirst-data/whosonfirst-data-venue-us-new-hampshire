@@ -1,0 +1,71 @@
+{
+  "id": 873580883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47067,43.52886,-71.47067,43.52886",
+    "geom:latitude":43.52886,
+    "geom:longitude":-71.47067,
+    "iso:country":"US",
+    "sg:address":"667 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2233",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HDE3H5pGctZd3a4M4AMz_43.528860_-71.470670@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294731,
+    "wof:geomhash":"1a76786ba539195e1454078ae6108d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873580883
+        }
+    ],
+    "wof:id":873580883,
+    "wof:lastmodified":1464294731,
+    "wof:name":"Laconia Tavern Apartments",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.47067,
+    43.52886,
+    -71.47067,
+    43.52886
+],
+  "geometry": {"coordinates":[-71.47067,43.52886],"type":"Point"}
+}

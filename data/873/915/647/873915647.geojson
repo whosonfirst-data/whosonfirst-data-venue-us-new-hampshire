@@ -1,0 +1,73 @@
+{
+  "id": 873915647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.222931,43.076162,-71.222931,43.076162",
+    "geom:latitude":43.076162,
+    "geom:longitude":-71.222931,
+    "iso:country":"US",
+    "sg:address":"64 Deerfield Rd",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 6512",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_635iybTleFPpr5Lg2C4Cnk_43.076102_-71.223012@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300132,
+    "wof:geomhash":"c8f9272acd519799322514ecb761e17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873915647
+        }
+    ],
+    "wof:id":873915647,
+    "wof:lastmodified":1464300132,
+    "wof:name":"Universal Electric",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.222931,
+    43.076162,
+    -71.222931,
+    43.076162
+],
+  "geometry": {"coordinates":[-71.222931,43.076162],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873830829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182671,43.609119,-71.182671,43.609119",
+    "geom:latitude":43.609119,
+    "geom:longitude":-71.182671,
+    "iso:country":"US",
+    "sg:address":"486 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4800",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fycpSJgBLzhSMuIf3pcAl_43.609119_-71.182671@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298347,
+    "wof:geomhash":"6ea294deda17a4589d19dd8faf151b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873830829
+        }
+    ],
+    "wof:id":873830829,
+    "wof:lastmodified":1464298347,
+    "wof:name":"French Auto Body Inc",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.182671,
+    43.609119,
+    -71.182671,
+    43.609119
+],
+  "geometry": {"coordinates":[-71.182671,43.609119],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873592095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454518,43.558001,-71.454518,43.558001",
+    "geom:latitude":43.558001,
+    "geom:longitude":-71.454518,
+    "iso:country":"US",
+    "sg:address":"1182 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9216",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UwG5FYrAOVB56ewj3PGyW_43.558001_-71.454518@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294860,
+    "wof:geomhash":"32ce428ff926756516554ad6a621b4b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873592095
+        }
+    ],
+    "wof:id":873592095,
+    "wof:lastmodified":1464294860,
+    "wof:name":"Jeremiahs Lounge",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.454518,
+    43.558001,
+    -71.454518,
+    43.558001
+],
+  "geometry": {"coordinates":[-71.45451799999999,43.558001],"type":"Point"}
+}

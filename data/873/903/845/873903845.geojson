@@ -1,0 +1,71 @@
+{
+  "id": 873903845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.333523,42.874128,-72.333523,42.874128",
+    "geom:latitude":42.874128,
+    "geom:longitude":-72.333523,
+    "iso:country":"US",
+    "sg:address":"68 California St",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 4640",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CGbLADgDKdWJE2G17GPQr_42.874128_-72.333523@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299893,
+    "wof:geomhash":"5d209b3c4d09fce05d7151e5ffaaade3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873903845
+        }
+    ],
+    "wof:id":873903845,
+    "wof:lastmodified":1464299893,
+    "wof:name":"Northeast Soils & Site Work",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.333523,
+    42.874128,
+    -72.333523,
+    42.874128
+],
+  "geometry": {"coordinates":[-72.333523,42.874128],"type":"Point"}
+}

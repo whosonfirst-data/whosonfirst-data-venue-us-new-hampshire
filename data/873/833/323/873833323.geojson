@@ -1,0 +1,77 @@
+{
+  "id": 873833323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498762,43.187531,-71.498762,43.187531",
+    "geom:latitude":43.187531,
+    "geom:longitude":-71.498762,
+    "iso:country":"US",
+    "sg:address":"163 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 5605",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "personal",
+        "consulting",
+        "management",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XNbP17XQdwyhA3v7VhxAo_43.187531_-71.498762@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298411,
+    "wof:geomhash":"7438c3727be00519f915aefc856de7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873833323
+        }
+    ],
+    "wof:id":873833323,
+    "wof:lastmodified":1464298411,
+    "wof:name":"Wallace",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "consulting",
+        "management",
+        "institution"
+    ]
+},
+  "bbox": [
+    -71.498762,
+    43.187531,
+    -71.498762,
+    43.187531
+],
+  "geometry": {"coordinates":[-71.498762,43.187531],"type":"Point"}
+}

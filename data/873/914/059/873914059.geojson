@@ -1,0 +1,69 @@
+{
+  "id": 873914059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499321,42.867809,-71.499321,42.867809",
+    "geom:latitude":42.867809,
+    "geom:longitude":-71.499321,
+    "iso:country":"US",
+    "sg:address":"31 Baboosic Lake Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 2424",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13GhnNkPeXp6rP1BfB7HN8_42.867699_-71.498720@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300089,
+    "wof:geomhash":"c1feb9ea40a074779bf1b102bf0ec137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873914059
+        }
+    ],
+    "wof:id":873914059,
+    "wof:lastmodified":1464300089,
+    "wof:name":"Merrimack Crime Line Inc",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.499321,
+    42.867809,
+    -71.499321,
+    42.867809
+],
+  "geometry": {"coordinates":[-71.49932099999999,42.867809],"type":"Point"}
+}

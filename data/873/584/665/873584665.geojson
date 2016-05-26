@@ -1,0 +1,73 @@
+{
+  "id": 873584665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500427,42.807268,-71.500427,42.807268",
+    "geom:latitude":42.807268,
+    "geom:longitude":-71.500427,
+    "iso:country":"US",
+    "sg:address":"5 Thornton Rd W",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 0666",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yVBsgaiFhiAZPhBn2eIoL_42.807268_-71.500427@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294769,
+    "wof:geomhash":"a912db4bcb6e310abe5cfc61ee9bf9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873584665
+        }
+    ],
+    "wof:id":873584665,
+    "wof:lastmodified":1464294769,
+    "wof:name":"Dabilis Plumbing & Heating",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.500427,
+    42.807268,
+    -71.500427,
+    42.807268
+],
+  "geometry": {"coordinates":[-71.500427,42.807268],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873594617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252283,42.821507,-71.252283,42.821507",
+    "geom:latitude":42.821507,
+    "geom:longitude":-71.252283,
+    "iso:country":"US",
+    "sg:address":"68 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 6366",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L53KuQJjP9G3naO3FjnW8_42.821507_-71.252283@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294895,
+    "wof:geomhash":"6e382fdb5075cd3f6dbeee34b1bffe74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873594617
+        }
+    ],
+    "wof:id":873594617,
+    "wof:lastmodified":1464294895,
+    "wof:name":"Bob & Jack's Auto Village",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.252283,
+    42.821507,
+    -71.252283,
+    42.821507
+],
+  "geometry": {"coordinates":[-71.25228300000001,42.821507],"type":"Point"}
+}

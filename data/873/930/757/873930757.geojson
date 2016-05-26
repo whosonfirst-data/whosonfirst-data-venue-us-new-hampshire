@@ -1,0 +1,65 @@
+{
+  "id": 873930757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.141718,43.973639,-71.141718,43.973639",
+    "geom:latitude":43.973639,
+    "geom:longitude":-71.141718,
+    "iso:country":"US",
+    "sg:address":"402 W. Main St West Main & Rte 16",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 452 5311",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J9KJdZhCiOb5WI5DRglIz_43.973639_-71.141718@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300425,
+    "wof:geomhash":"a152a8108a684c0a3d283a21f8425552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930757
+        }
+    ],
+    "wof:id":873930757,
+    "wof:lastmodified":1464300425,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.141718,
+    43.973639,
+    -71.141718,
+    43.973639
+],
+  "geometry": {"coordinates":[-71.141718,43.973639],"type":"Point"}
+}

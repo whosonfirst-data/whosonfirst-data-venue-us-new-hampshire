@@ -1,0 +1,77 @@
+{
+  "id": 873670413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.031468,42.992313,-71.031468,42.992313",
+    "geom:latitude":42.992313,
+    "geom:longitude":-71.031468,
+    "iso:country":"US",
+    "sg:address":"16 Linden Dr",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 8730",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tile",
+        "contractor",
+        "laying",
+        "dealer",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rOm4U0DtOojtcFaS6GcFx_42.992313_-71.031468@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295806,
+    "wof:geomhash":"bbffcea566c48354e4029e6c8fba7e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873670413
+        }
+    ],
+    "wof:id":873670413,
+    "wof:lastmodified":1464295806,
+    "wof:name":"Brentwood Tile",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "contractor",
+        "laying",
+        "dealer",
+        "floor"
+    ]
+},
+  "bbox": [
+    -71.031468,
+    42.992313,
+    -71.031468,
+    42.992313
+],
+  "geometry": {"coordinates":[-71.031468,42.992313],"type":"Point"}
+}

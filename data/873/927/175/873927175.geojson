@@ -1,0 +1,76 @@
+{
+  "id": 873927175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504153,42.955524,-71.504153,42.955524",
+    "geom:latitude":42.955524,
+    "geom:longitude":-71.504153,
+    "iso:country":"US",
+    "sg:address":"15 Constitution Dr # 164",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 4700",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CFWYhZpl0C7IDH7L6QhAO_42.955524_-71.504153@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300349,
+    "wof:geomhash":"98dc4eb6a7ecbf03d55eb1c1d6cb4383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927175
+        }
+    ],
+    "wof:id":873927175,
+    "wof:lastmodified":1464300349,
+    "wof:name":"Novastar Financial, Inc.",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -71.504153,
+    42.955524,
+    -71.504153,
+    42.955524
+],
+  "geometry": {"coordinates":[-71.504153,42.955524],"type":"Point"}
+}

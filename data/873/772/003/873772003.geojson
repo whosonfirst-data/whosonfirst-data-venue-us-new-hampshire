@@ -1,0 +1,69 @@
+{
+  "id": 873772003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.886874,43.015906,-70.886874,43.015906",
+    "geom:latitude":43.015906,
+    "geom:longitude":-70.886874,
+    "iso:country":"US",
+    "sg:address":"105 Winnicutt Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 775 7200",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24jVP9cpSFSAwGjBspxX4f_43.015906_-70.886874@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"1dd694b111698989bd2b108701d3c1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873772003
+        }
+    ],
+    "wof:id":873772003,
+    "wof:lastmodified":1464297389,
+    "wof:name":"Club Z In Home Tutoring",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -70.886874,
+    43.015906,
+    -70.886874,
+    43.015906
+],
+  "geometry": {"coordinates":[-70.88687400000001,43.015906],"type":"Point"}
+}

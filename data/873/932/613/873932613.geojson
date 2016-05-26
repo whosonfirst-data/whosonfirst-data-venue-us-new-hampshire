@@ -1,0 +1,96 @@
+{
+  "id": 873932613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.944046,43.075631,-70.944046,43.075631",
+    "geom:latitude":43.075631,
+    "geom:longitude":-70.944046,
+    "iso:country":"US",
+    "sg:address":"207 S Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3106",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "plans-information",
+        "surgeon",
+        "referral"
+    ],
+    "sg:website":"http://www.lampreyhealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ufxV6rXsoUxZA3lQVPTsL_43.075631_-70.944046@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300458,
+    "wof:geomhash":"7a1288979212df8c738baea18d56f2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873932613
+        }
+    ],
+    "wof:id":873932613,
+    "wof:lastmodified":1464300458,
+    "wof:name":"Lamprey Health Care",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "plans-information",
+        "surgeon",
+        "referral"
+    ]
+},
+  "bbox": [
+    -70.944046,
+    43.075631,
+    -70.944046,
+    43.075631
+],
+  "geometry": {"coordinates":[-70.944046,43.075631],"type":"Point"}
+}

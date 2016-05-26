@@ -1,0 +1,82 @@
+{
+  "id": 873585105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.586046,43.439165,-71.586046,43.439165",
+    "geom:latitude":43.439165,
+    "geom:longitude":-71.586046,
+    "iso:country":"US",
+    "sg:address":"9 Summer St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 4077",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "residential",
+        "skill",
+        "intermediate",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jV8qCwwr1TbXFJiypAYHH_43.439165_-71.586046@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294774,
+    "wof:geomhash":"e6b03a70c14475a9cdbb0b669419bba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873585105
+        }
+    ],
+    "wof:id":873585105,
+    "wof:lastmodified":1464294774,
+    "wof:name":"Arches",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential",
+        "skill",
+        "intermediate",
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.586046,
+    43.439165,
+    -71.586046,
+    43.439165
+],
+  "geometry": {"coordinates":[-71.586046,43.439165],"type":"Point"}
+}

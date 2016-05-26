@@ -1,0 +1,71 @@
+{
+  "id": 873877641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472255,43.531327,-71.472255,43.531327",
+    "geom:latitude":43.531327,
+    "geom:longitude":-71.472255,
+    "iso:country":"US",
+    "sg:address":"35 Lyford St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 818 1800",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V5nU1aDiKuYOiaWa51rem_43.531327_-71.472255@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299389,
+    "wof:geomhash":"bde67de28dcb64242f95cd585efd239b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873877641
+        }
+    ],
+    "wof:id":873877641,
+    "wof:lastmodified":1464299389,
+    "wof:name":"Daves Decks",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -71.472255,
+    43.531327,
+    -71.472255,
+    43.531327
+],
+  "geometry": {"coordinates":[-71.472255,43.531327],"type":"Point"}
+}

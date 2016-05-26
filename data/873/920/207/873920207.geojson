@@ -1,0 +1,71 @@
+{
+  "id": 873920207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.234299,43.144699,-71.234299,43.144699",
+    "geom:latitude":43.144699,
+    "geom:longitude":-71.234299,
+    "iso:country":"US",
+    "sg:address":"66 North Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 8993",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2liEQux7vkD94MxRaszlpb_43.144699_-71.234299@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300215,
+    "wof:geomhash":"a051e198cd8d2b3b252d16bca7a98648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873920207
+        }
+    ],
+    "wof:id":873920207,
+    "wof:lastmodified":1464300215,
+    "wof:name":"YMCA At DDS",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.234299,
+    43.144699,
+    -71.234299,
+    43.144699
+],
+  "geometry": {"coordinates":[-71.23429899999999,43.144699],"type":"Point"}
+}

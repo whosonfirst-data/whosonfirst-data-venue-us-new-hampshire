@@ -1,0 +1,71 @@
+{
+  "id": 873892605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.814341,43.279849,-71.814341,43.279849",
+    "geom:latitude":43.279849,
+    "geom:longitude":-71.814341,
+    "iso:country":"US",
+    "sg:address":"30 State Rte 103",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3800",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yH5BlLDqpLJsnJHzdhuDd_43.279849_-71.814341@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299677,
+    "wof:geomhash":"d63312d39d1401656314ac2f1979126d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873892605
+        }
+    ],
+    "wof:id":873892605,
+    "wof:lastmodified":1464299677,
+    "wof:name":"Market Basket Inc",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -71.814341,
+    43.279849,
+    -71.814341,
+    43.279849
+],
+  "geometry": {"coordinates":[-71.814341,43.279849],"type":"Point"}
+}

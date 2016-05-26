@@ -1,0 +1,79 @@
+{
+  "id": 873901085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.26952,43.726005,-72.26952,43.726005",
+    "geom:latitude":43.726005,
+    "geom:longitude":-72.26952,
+    "iso:country":"US",
+    "sg:address":"84 Lyme Rd",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 2550",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "reservation",
+        "operation"
+    ],
+    "sg:website":"www.chieftaininn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975143,
+        102086567,
+        85844837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QTF0IyPWxishQvGZHx86K_43.726005_-72.269520@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299838,
+    "wof:geomhash":"20ec9388af4e4593121f7b2a4c609f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975143,
+            "neighbourhood_id":85844837,
+            "region_id":85688689,
+            "venue_id":873901085
+        }
+    ],
+    "wof:id":873901085,
+    "wof:lastmodified":1464299838,
+    "wof:name":"Chieftain Motor Inn",
+    "wof:parent_id":85844837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.26952,
+    43.726005,
+    -72.26952,
+    43.726005
+],
+  "geometry": {"coordinates":[-72.26952,43.726005],"type":"Point"}
+}

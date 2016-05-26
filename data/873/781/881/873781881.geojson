@@ -1,0 +1,73 @@
+{
+  "id": 873781881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684382,43.758907,-71.684382,43.758907",
+    "geom:latitude":43.758907,
+    "geom:longitude":-71.684382,
+    "iso:country":"US",
+    "sg:address":"19 Avery St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1086",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "proprietary",
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F3da0GrEE25DOYjR04Z87_43.758907_-71.684382@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297517,
+    "wof:geomhash":"a70e69f51e64b8f20e21b52995f8f80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873781881
+        }
+    ],
+    "wof:id":873781881,
+    "wof:lastmodified":1464297517,
+    "wof:name":"Oliver Drug & Variety",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "proprietary",
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.684382,
+    43.758907,
+    -71.684382,
+    43.758907
+],
+  "geometry": {"coordinates":[-71.684382,43.758907],"type":"Point"}
+}

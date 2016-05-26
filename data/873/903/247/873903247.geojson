@@ -1,0 +1,73 @@
+{
+  "id": 873903247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.606199,43.296951,-71.606199,43.296951",
+    "geom:latitude":43.296951,
+    "geom:longitude":-71.606199,
+    "iso:country":"US",
+    "sg:address":"154 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4313",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67vjSavwrg76ezEOucDtxo_43.296951_-71.606199@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299883,
+    "wof:geomhash":"c39908b3df7bbc83df72b197f28cdf3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873903247
+        }
+    ],
+    "wof:id":873903247,
+    "wof:lastmodified":1464299883,
+    "wof:name":"Marshalls Firearms",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -71.606199,
+    43.296951,
+    -71.606199,
+    43.296951
+],
+  "geometry": {"coordinates":[-71.606199,43.296951],"type":"Point"}
+}

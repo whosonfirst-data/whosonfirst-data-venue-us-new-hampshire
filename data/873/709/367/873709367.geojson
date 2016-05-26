@@ -1,0 +1,73 @@
+{
+  "id": 873709367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461362,43.537121,-71.461362,43.537121",
+    "geom:latitude":43.537121,
+    "geom:longitude":-71.461362,
+    "iso:country":"US",
+    "sg:address":"54 Walker St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4946",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ewa4Dwsrt80HImBOmpmWy_43.537121_-71.461362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296512,
+    "wof:geomhash":"80d381b94b088f7c8743e456c59842fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873709367
+        }
+    ],
+    "wof:id":873709367,
+    "wof:lastmodified":1464296512,
+    "wof:name":"BSA Electrical Svc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.461362,
+    43.537121,
+    -71.461362,
+    43.537121
+],
+  "geometry": {"coordinates":[-71.46136199999999,43.537121],"type":"Point"}
+}

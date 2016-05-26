@@ -1,0 +1,71 @@
+{
+  "id": 873631833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02254,42.813738,-72.02254,42.813738",
+    "geom:latitude":42.813738,
+    "geom:longitude":-72.02254,
+    "iso:country":"US",
+    "sg:address":"21 Blake St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 4080",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_719wQEC1MYHLDLl9l8O5Vh_42.813738_-72.022540@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295383,
+    "wof:geomhash":"31bc7275f809b06562b8c7fdb443c4e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873631833
+        }
+    ],
+    "wof:id":873631833,
+    "wof:lastmodified":1464295383,
+    "wof:name":"Alliance Paving Co",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.02254,
+    42.813738,
+    -72.02254,
+    42.813738
+],
+  "geometry": {"coordinates":[-72.02254000000001,42.813738],"type":"Point"}
+}

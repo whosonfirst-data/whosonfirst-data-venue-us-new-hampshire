@@ -1,0 +1,78 @@
+{
+  "id": 873921417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427876,42.768999,-71.427876,42.768999",
+    "geom:latitude":42.768999,
+    "geom:longitude":-71.427876,
+    "iso:country":"US",
+    "sg:address":"5 George St Ste 2",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 577 8410",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13IT2aOKvI09sLYif6z1cN_42.768999_-71.427876@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300234,
+    "wof:geomhash":"435cd99fdbcc68813a6da1b3a4cf8dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921417
+        }
+    ],
+    "wof:id":873921417,
+    "wof:lastmodified":1464300234,
+    "wof:name":"Southern Nh Rehab Center",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.427876,
+    42.768999,
+    -71.427876,
+    42.768999
+],
+  "geometry": {"coordinates":[-71.427876,42.768999],"type":"Point"}
+}

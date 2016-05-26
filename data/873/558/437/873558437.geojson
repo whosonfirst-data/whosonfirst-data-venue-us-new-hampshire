@@ -1,0 +1,69 @@
+{
+  "id": 873558437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684247,43.973619,-71.684247,43.973619",
+    "geom:latitude":43.973619,
+    "geom:longitude":-71.684247,
+    "iso:country":"US",
+    "sg:address":"1129 Daniel Webster Hwy",
+    "sg:city":"North Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 3917",
+    "sg:postcode":"03293",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856505,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HHoCi8xmRxyx2SQTMtVue_43.973619_-71.684247@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294481,
+    "wof:geomhash":"495ce9f1f3f9187c573034e763509136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856505,
+            "region_id":85688689,
+            "venue_id":873558437
+        }
+    ],
+    "wof:id":873558437,
+    "wof:lastmodified":1464294481,
+    "wof:name":"Homerun Cleaning & Repair",
+    "wof:parent_id":85856505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.684247,
+    43.973619,
+    -71.684247,
+    43.973619
+],
+  "geometry": {"coordinates":[-71.684247,43.973619],"type":"Point"}
+}

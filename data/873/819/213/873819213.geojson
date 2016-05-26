@@ -1,0 +1,81 @@
+{
+  "id": 873819213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414911,43.563782,-71.414911,43.563782",
+    "geom:latitude":43.563782,
+    "geom:longitude":-71.414911,
+    "iso:country":"US",
+    "sg:address":"300 Gunstock Hill Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 7070",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QWzdxamYwWMlofpYNNeCM_43.563782_-71.414911@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298104,
+    "wof:geomhash":"d442a6b49308253b957c56251bfa6426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873819213
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873819213
+        }
+    ],
+    "wof:id":873819213,
+    "wof:lastmodified":1464298104,
+    "wof:name":"Beans and Greens",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -71.414911,
+    43.563782,
+    -71.414911,
+    43.563782
+],
+  "geometry": {"coordinates":[-71.414911,43.563782],"type":"Point"}
+}

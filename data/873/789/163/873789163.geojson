@@ -1,0 +1,73 @@
+{
+  "id": 873789163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462206,43.545945,-71.462206,43.545945",
+    "geom:latitude":43.545945,
+    "geom:longitude":-71.462206,
+    "iso:country":"US",
+    "sg:address":"113 Mechanic St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 0139",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66i5Nv3iEoGh0qCe9Kd60A_43.545945_-71.462206@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297630,
+    "wof:geomhash":"1226ddab0b779b5890b6a93d53681f7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873789163
+        }
+    ],
+    "wof:id":873789163,
+    "wof:lastmodified":1464297630,
+    "wof:name":"Second Chance Computer Product",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.462206,
+    43.545945,
+    -71.462206,
+    43.545945
+],
+  "geometry": {"coordinates":[-71.46220599999999,43.545945],"type":"Point"}
+}

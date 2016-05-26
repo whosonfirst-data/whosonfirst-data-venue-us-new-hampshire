@@ -1,0 +1,79 @@
+{
+  "id": 873849453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423763,43.569155,-71.423763,43.569155",
+    "geom:latitude":43.569155,
+    "geom:longitude":-71.423763,
+    "iso:country":"US",
+    "sg:address":"60 Airport Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8800",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M2eflVkwd0pfJbmfaqlgv_43.569155_-71.423763@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298801,
+    "wof:geomhash":"25c976ce951323ba4273b691a82fbf0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873849453
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873849453
+        }
+    ],
+    "wof:id":873849453,
+    "wof:lastmodified":1464298801,
+    "wof:name":"AERO Aircraft Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.423763,
+    43.569155,
+    -71.423763,
+    43.569155
+],
+  "geometry": {"coordinates":[-71.42376299999999,43.569155],"type":"Point"}
+}

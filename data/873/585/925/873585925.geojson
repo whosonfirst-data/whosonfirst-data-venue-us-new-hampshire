@@ -1,0 +1,71 @@
+{
+  "id": 873585925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.355498,43.555051,-71.355498,43.555051",
+    "geom:latitude":43.555051,
+    "geom:longitude":-71.355498,
+    "iso:country":"US",
+    "sg:address":"57 Mountain Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 4300",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803025,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64qAqqkObGo8OBBE66w3qP_43.555051_-71.355498@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294783,
+    "wof:geomhash":"1df31f552875668653837941de5da671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85803025,
+            "region_id":85688689,
+            "venue_id":873585925
+        }
+    ],
+    "wof:id":873585925,
+    "wof:lastmodified":1464294783,
+    "wof:name":"Robert Kozlow MD",
+    "wof:parent_id":85803025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.355498,
+    43.555051,
+    -71.355498,
+    43.555051
+],
+  "geometry": {"coordinates":[-71.355498,43.555051],"type":"Point"}
+}

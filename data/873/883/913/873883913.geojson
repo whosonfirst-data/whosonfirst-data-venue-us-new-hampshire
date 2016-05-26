@@ -1,0 +1,69 @@
+{
+  "id": 873883913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557945,43.019255,-71.557945,43.019255",
+    "geom:latitude":43.019255,
+    "geom:longitude":-71.557945,
+    "iso:country":"US",
+    "sg:address":"404 Elm St",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 4824",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L61u1A6LLtKCkQ31QEfIH_43.019255_-71.557945@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299514,
+    "wof:geomhash":"29550c4fbf9c0b55a9296b4dfc0f7c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873883913
+        }
+    ],
+    "wof:id":873883913,
+    "wof:lastmodified":1464299514,
+    "wof:name":"Goffstown Transfer Station",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.557945,
+    43.019255,
+    -71.557945,
+    43.019255
+],
+  "geometry": {"coordinates":[-71.557945,43.019255],"type":"Point"}
+}

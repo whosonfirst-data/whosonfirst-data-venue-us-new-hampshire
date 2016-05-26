@@ -1,0 +1,101 @@
+{
+  "id": 873934069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.064571,42.809671,-71.064571,42.809671",
+    "geom:latitude":42.809671,
+    "geom:longitude":-71.064571,
+    "iso:country":"US",
+    "sg:address":"18 Newton Rd",
+    "sg:city":"Plaistow",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 8323",
+    "sg:postcode":"03865",
+    "sg:province":"NH",
+    "sg:tags":[
+        "filtration",
+        "well",
+        "contractor",
+        "equipment",
+        "pump",
+        "drilling",
+        "pumps-service",
+        "purification"
+    ],
+    "sg:website":"http://www.mckinneywell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950417,
+        102084463,
+        85846033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eBjGnWxGp21uetQBVEQhz_42.809671_-71.064571@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300482,
+    "wof:geomhash":"f2a77dd6367eca85f22a1a7501018f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85846033,
+            "region_id":85688645,
+            "venue_id":873934069
+        }
+    ],
+    "wof:id":873934069,
+    "wof:lastmodified":1464300482,
+    "wof:name":"McKinney Artesian Well & Pump Supply Company, Inc.",
+    "wof:parent_id":85846033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filtration",
+        "well",
+        "contractor",
+        "equipment",
+        "pump",
+        "drilling",
+        "pumps-service",
+        "purification"
+    ]
+},
+  "bbox": [
+    -71.064571,
+    42.809671,
+    -71.064571,
+    42.809671
+],
+  "geometry": {"coordinates":[-71.064571,42.809671],"type":"Point"}
+}

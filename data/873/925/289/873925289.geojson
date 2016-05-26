@@ -1,0 +1,74 @@
+{
+  "id": 873925289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.159698,43.038288,-71.159698,43.038288",
+    "geom:latitude":43.038288,
+    "geom:longitude":-71.159698,
+    "iso:country":"US",
+    "sg:address":"55 Route 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Piercing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 1411",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4Z1lANDGV9GTROaebxcv_43.038288_-71.159698@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300309,
+    "wof:geomhash":"e5600ae400ff8888c5116e703e822e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873925289
+        }
+    ],
+    "wof:id":873925289,
+    "wof:lastmodified":1464300309,
+    "wof:name":"Bob's Tattoo Paradise",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.159698,
+    43.038288,
+    -71.159698,
+    43.038288
+],
+  "geometry": {"coordinates":[-71.15969800000001,43.038288],"type":"Point"}
+}

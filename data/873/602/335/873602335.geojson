@@ -1,0 +1,69 @@
+{
+  "id": 873602335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493425,42.961907,-71.493425,42.961907",
+    "geom:latitude":42.961907,
+    "geom:longitude":-71.493425,
+    "iso:country":"US",
+    "sg:address":"3 Mack St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 7989",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AxFVuy3CTvXoF1B6qeXws_42.961907_-71.493425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295012,
+    "wof:geomhash":"4936dfa2ce2f573c12e17521d202610c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873602335
+        }
+    ],
+    "wof:id":873602335,
+    "wof:lastmodified":1464295012,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.493425,
+    42.961907,
+    -71.493425,
+    42.961907
+],
+  "geometry": {"coordinates":[-71.493425,42.961907],"type":"Point"}
+}

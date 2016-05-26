@@ -1,0 +1,77 @@
+{
+  "id": 873763431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97492,43.319333,-70.97492,43.319333",
+    "geom:latitude":43.319333,
+    "geom:longitude":-70.97492,
+    "iso:country":"US",
+    "sg:address":"16 Lilac Mall Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9827",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gzDaBu3W8dwHgsp3V9Jit_43.319333_-70.974920@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297264,
+    "wof:geomhash":"84ed98591040e8e35e26105e83b7b538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873763431
+        }
+    ],
+    "wof:id":873763431,
+    "wof:lastmodified":1464297264,
+    "wof:name":"GNC",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -70.97492,
+    43.319333,
+    -70.97492,
+    43.319333
+],
+  "geometry": {"coordinates":[-70.97492,43.319333],"type":"Point"}
+}

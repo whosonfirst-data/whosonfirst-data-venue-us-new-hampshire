@@ -1,0 +1,71 @@
+{
+  "id": 873828241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.863682,42.916861,-70.863682,42.916861",
+    "geom:latitude":42.916861,
+    "geom:longitude":-70.863682,
+    "iso:country":"US",
+    "sg:address":"98 Lafayette Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 1175",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852429,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DxyyOttYaZxLwXZOSwDzo_42.916861_-70.863682@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298299,
+    "wof:geomhash":"85894a38daf50188b8e211b86b054170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852429,
+            "region_id":85688689,
+            "venue_id":873828241
+        }
+    ],
+    "wof:id":873828241,
+    "wof:lastmodified":1464298299,
+    "wof:name":"Fowler's Auto Repairs",
+    "wof:parent_id":85852429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.863682,
+    42.916861,
+    -70.863682,
+    42.916861
+],
+  "geometry": {"coordinates":[-70.863682,42.916861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873733739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435724,43.564937,-71.435724,43.564937",
+    "geom:latitude":43.564937,
+    "geom:longitude":-71.435724,
+    "iso:country":"US",
+    "sg:address":"61 Liscomb Cir",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3741",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05OvDpbKLronx9FIORUYam_43.564937_-71.435724@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296825,
+    "wof:geomhash":"ee729d699ae932a7de383bcb348c75d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873733739
+        }
+    ],
+    "wof:id":873733739,
+    "wof:lastmodified":1464296825,
+    "wof:name":"Jacobs Appraisal Assoc",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.435724,
+    43.564937,
+    -71.435724,
+    43.564937
+],
+  "geometry": {"coordinates":[-71.43572399999999,43.564937],"type":"Point"}
+}

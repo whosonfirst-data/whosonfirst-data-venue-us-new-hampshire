@@ -1,0 +1,71 @@
+{
+  "id": 873880655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449372,42.916614,-71.449372,42.916614",
+    "geom:latitude":42.916614,
+    "geom:longitude":-71.449372,
+    "iso:country":"US",
+    "sg:address":"3762 Brown Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 0132",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JExI4f9BaNdCYgrHzybWV_42.916614_-71.449372@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299445,
+    "wof:geomhash":"034055778c4c7493f6896c1366d167bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873880655
+        }
+    ],
+    "wof:id":873880655,
+    "wof:lastmodified":1464299445,
+    "wof:name":"Euro-Tile",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.449372,
+    42.916614,
+    -71.449372,
+    42.916614
+],
+  "geometry": {"coordinates":[-71.449372,42.916614],"type":"Point"}
+}

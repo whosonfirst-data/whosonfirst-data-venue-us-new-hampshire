@@ -1,0 +1,75 @@
+{
+  "id": 873851837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.337512,43.372271,-72.337512,43.372271",
+    "geom:latitude":43.372271,
+    "geom:longitude":-72.337512,
+    "iso:country":"US",
+    "sg:address":"1 Police Ct",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 0535",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agNx7mkJikTC3InAeyzAg_43.372271_-72.337512@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298848,
+    "wof:geomhash":"49469824d24d388923dc7d928db47da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873851837
+        }
+    ],
+    "wof:id":873851837,
+    "wof:lastmodified":1464298848,
+    "wof:name":"Cornish Police Dispatch",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.337512,
+    43.372271,
+    -72.337512,
+    43.372271
+],
+  "geometry": {"coordinates":[-72.337512,43.372271],"type":"Point"}
+}

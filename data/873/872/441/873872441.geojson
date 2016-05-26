@@ -1,0 +1,75 @@
+{
+  "id": 873872441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653447,42.835289,-71.653447,42.835289",
+    "geom:latitude":42.835289,
+    "geom:longitude":-71.653447,
+    "iso:country":"US",
+    "sg:address":"20 Elm St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 9027",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZRszXI765jQJhaHLzhjo2_42.835289_-71.653447@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299284,
+    "wof:geomhash":"24265ec6140c3cc868a406be3b3477a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873872441
+        }
+    ],
+    "wof:id":873872441,
+    "wof:lastmodified":1464299284,
+    "wof:name":"Nashua Area Health Ctr",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.653447,
+    42.835289,
+    -71.653447,
+    42.835289
+],
+  "geometry": {"coordinates":[-71.653447,42.835289],"type":"Point"}
+}

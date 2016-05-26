@@ -1,0 +1,75 @@
+{
+  "id": 873809549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.297392,42.926282,-72.297392,42.926282",
+    "geom:latitude":42.926282,
+    "geom:longitude":-72.297392,
+    "iso:country":"US",
+    "sg:address":"190 Key Rd",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 7470",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uU07A1ZD5khrINf6gYfZE_42.926282_-72.297392@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297919,
+    "wof:geomhash":"98370ef00c63343daf94ebc170d6bafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873809549
+        }
+    ],
+    "wof:id":873809549,
+    "wof:lastmodified":1464297919,
+    "wof:name":"Key Road Car Wash",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.297392,
+    42.926282,
+    -72.297392,
+    42.926282
+],
+  "geometry": {"coordinates":[-72.297392,42.926282],"type":"Point"}
+}

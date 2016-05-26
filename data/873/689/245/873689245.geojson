@@ -1,0 +1,69 @@
+{
+  "id": 873689245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.862931,42.952709,-70.862931,42.952709",
+    "geom:latitude":42.952709,
+    "geom:longitude":-70.862931,
+    "iso:country":"US",
+    "sg:address":"44 Timber Swamp Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 9801",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811635,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32FCdRrJbhFmzuwclHXEnI_42.952709_-70.862931@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296254,
+    "wof:geomhash":"7b5968a25c1340a4b2a49ddb6f7ed4be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811635,
+            "region_id":85688689,
+            "venue_id":873689245
+        }
+    ],
+    "wof:id":873689245,
+    "wof:lastmodified":1464296254,
+    "wof:name":"Windsor Institute",
+    "wof:parent_id":85811635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -70.862931,
+    42.952709,
+    -70.862931,
+    42.952709
+],
+  "geometry": {"coordinates":[-70.862931,42.952709],"type":"Point"}
+}

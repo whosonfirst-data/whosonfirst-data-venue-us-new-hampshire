@@ -1,0 +1,69 @@
+{
+  "id": 873895067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.088622,44.004922,-71.088622,44.004922",
+    "geom:latitude":44.004922,
+    "geom:longitude":-71.088622,
+    "iso:country":"US",
+    "sg:address":"856 Eastman Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 0246",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52LNwG1JCNlgUGN6XkUA0B_44.004922_-71.088622@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299723,
+    "wof:geomhash":"89f9a592b661839badf5e2a59c6f5c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873895067
+        }
+    ],
+    "wof:id":873895067,
+    "wof:lastmodified":1464299723,
+    "wof:name":"Black Bear Mechanical",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.088622,
+    44.004922,
+    -71.088622,
+    44.004922
+],
+  "geometry": {"coordinates":[-71.088622,44.004922],"type":"Point"}
+}

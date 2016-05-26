@@ -1,0 +1,73 @@
+{
+  "id": 873905867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.776282,43.622539,-71.776282,43.622539",
+    "geom:latitude":43.622539,
+    "geom:longitude":-71.776282,
+    "iso:country":"US",
+    "sg:address":"50 Bailey Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4100",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tT498MP4LJeBuzTcxcXL3_43.622539_-71.776282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299938,
+    "wof:geomhash":"fd382317078cf2ddf4be3630b35c18e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873905867
+        }
+    ],
+    "wof:id":873905867,
+    "wof:lastmodified":1464299938,
+    "wof:name":"Kustom Kleen",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -71.776282,
+    43.622539,
+    -71.776282,
+    43.622539
+],
+  "geometry": {"coordinates":[-71.77628199999999,43.622539],"type":"Point"}
+}

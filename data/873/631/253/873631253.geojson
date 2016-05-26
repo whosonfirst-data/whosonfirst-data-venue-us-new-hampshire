@@ -1,0 +1,70 @@
+{
+  "id": 873631253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.923333,43.236916,-71.923333,43.236916",
+    "geom:latitude":43.236916,
+    "geom:longitude":-71.923333,
+    "iso:country":"US",
+    "sg:address":"45 Forest St",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2829",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.thesmartadvertiser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f9ZARqax0W2Cj31MLHaql_43.236916_-71.923333@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295377,
+    "wof:geomhash":"375df2feadbc98b51150d3e34df7cd34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873631253
+        }
+    ],
+    "wof:id":873631253,
+    "wof:lastmodified":1464295377,
+    "wof:name":"Smart Advertiser",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -71.923333,
+    43.236916,
+    -71.923333,
+    43.236916
+],
+  "geometry": {"coordinates":[-71.923333,43.236916],"type":"Point"}
+}

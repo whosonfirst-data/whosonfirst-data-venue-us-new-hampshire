@@ -1,0 +1,66 @@
+{
+  "id": 873852397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.034374,44.148589,-72.034374,44.148589",
+    "geom:latitude":44.148589,
+    "geom:longitude":-72.034374,
+    "iso:country":"US",
+    "sg:address":"151 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3076",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7heJbRbhBSjVjN6fv0SqpK_44.148589_-72.034374@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298859,
+    "wof:geomhash":"702fa34e8c5e3b174d9a19f2a719b654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873852397
+        }
+    ],
+    "wof:id":873852397,
+    "wof:lastmodified":1464298859,
+    "wof:name":"Cumberland Farms 5415",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.034374,
+    44.148589,
+    -72.034374,
+    44.148589
+],
+  "geometry": {"coordinates":[-72.034374,44.148589],"type":"Point"}
+}

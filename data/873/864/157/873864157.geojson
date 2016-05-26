@@ -1,0 +1,71 @@
+{
+  "id": 873864157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474094,43.305644,-71.474094,43.305644",
+    "geom:latitude":43.305644,
+    "geom:longitude":-71.474094,
+    "iso:country":"US",
+    "sg:address":"515 State Rte 106",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 8345",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L3EBIlckkPbhqg3LMiDv2_43.305644_-71.474094@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299122,
+    "wof:geomhash":"fe5eb866d8bc7f554a9ff465c4b4456c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873864157
+        }
+    ],
+    "wof:id":873864157,
+    "wof:lastmodified":1464299122,
+    "wof:name":"Z-1 Xpress",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.474094,
+    43.305644,
+    -71.474094,
+    43.305644
+],
+  "geometry": {"coordinates":[-71.47409399999999,43.305644],"type":"Point"}
+}

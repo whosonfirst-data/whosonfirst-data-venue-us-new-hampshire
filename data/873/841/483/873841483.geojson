@@ -1,0 +1,71 @@
+{
+  "id": 873841483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522755,42.914603,-71.522755,42.914603",
+    "geom:latitude":42.914603,
+    "geom:longitude":-71.522755,
+    "iso:country":"US",
+    "sg:address":"12 Wiggin Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 488 1390",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hi056SYtEOCGiQP3v665V_42.914603_-71.522755@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298586,
+    "wof:geomhash":"767f1d831f5a6bc39d84733278e0e7d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873841483
+        }
+    ],
+    "wof:id":873841483,
+    "wof:lastmodified":1464298586,
+    "wof:name":"Surette Painting & Ppr Hanging",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.522755,
+    42.914603,
+    -71.522755,
+    42.914603
+],
+  "geometry": {"coordinates":[-71.522755,42.914603],"type":"Point"}
+}

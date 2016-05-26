@@ -1,0 +1,69 @@
+{
+  "id": 873850503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403504,42.702062,-71.403504,42.702062",
+    "geom:latitude":42.702062,
+    "geom:longitude":-71.403504,
+    "iso:country":"US",
+    "sg:address":"73 Schaefer Cir",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 9046",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70JGqfYbKr7X8uSU8Zjrcr_42.702062_-71.403504@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298822,
+    "wof:geomhash":"1a74b4318174ab00a116ba69914ea6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873850503
+        }
+    ],
+    "wof:id":873850503,
+    "wof:lastmodified":1464298822,
+    "wof:name":"Merton B Coates",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.403504,
+    42.702062,
+    -71.403504,
+    42.702062
+],
+  "geometry": {"coordinates":[-71.403504,42.702062],"type":"Point"}
+}

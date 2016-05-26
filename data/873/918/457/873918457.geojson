@@ -1,0 +1,97 @@
+{
+  "id": 873918457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.770236,43.071304,-70.770236,43.071304",
+    "geom:latitude":43.071304,
+    "geom:longitude":-70.770236,
+    "iso:country":"US",
+    "sg:address":"531 Islington St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/149285-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 7350",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526353,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79faqMWZAXz9WM0xrT6G3o_43.071304_-70.770236@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300186,
+    "wof:geomhash":"501ce25f235c9aae17862a800cc04866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526353,
+            "region_id":85688689,
+            "venue_id":873918457
+        }
+    ],
+    "wof:id":873918457,
+    "wof:lastmodified":1464300186,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":420526353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.770236,
+    43.071304,
+    -70.770236,
+    43.071304
+],
+  "geometry": {"coordinates":[-70.770236,43.071304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873624187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.014567,43.000027,-71.014567,43.000027",
+    "geom:latitude":43.000027,
+    "geom:longitude":-71.014567,
+    "iso:country":"US",
+    "sg:address":"25 Pine Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4420",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R6Jckqn8Q1njABf0eIu8d_43.000027_-71.014567@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295300,
+    "wof:geomhash":"4525a1c9105f2178d804c0e3f93f3e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873624187
+        }
+    ],
+    "wof:id":873624187,
+    "wof:lastmodified":1464295300,
+    "wof:name":"Sunrise Farms",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.014567,
+    43.000027,
+    -71.014567,
+    43.000027
+],
+  "geometry": {"coordinates":[-71.014567,43.000027],"type":"Point"}
+}

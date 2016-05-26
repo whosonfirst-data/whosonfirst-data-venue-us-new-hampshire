@@ -1,0 +1,73 @@
+{
+  "id": 873880023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.892905,43.809376,-71.892905,43.809376",
+    "geom:latitude":43.809376,
+    "geom:longitude":-71.892905,
+    "iso:country":"US",
+    "sg:address":"113 Dorchester Rd",
+    "sg:city":"Rumney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 786 9280",
+    "sg:postcode":"03266",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846379,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L8gaI3ZjxWnXHoo2y8K7d_43.809376_-71.892905@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299435,
+    "wof:geomhash":"fe88b928b5ac121db8c8a66491325806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85846379,
+            "region_id":85688689,
+            "venue_id":873880023
+        }
+    ],
+    "wof:id":873880023,
+    "wof:lastmodified":1464299435,
+    "wof:name":"A & W Auto & Autobody",
+    "wof:parent_id":85846379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.892905,
+    43.809376,
+    -71.892905,
+    43.809376
+],
+  "geometry": {"coordinates":[-71.892905,43.809376],"type":"Point"}
+}

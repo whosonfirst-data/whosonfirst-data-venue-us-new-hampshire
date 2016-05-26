@@ -1,0 +1,82 @@
+{
+  "id": 873688525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470249,43.528083,-71.470249,43.528083",
+    "geom:latitude":43.528083,
+    "geom:longitude":-71.470249,
+    "iso:country":"US",
+    "sg:address":"616 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4130",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43lRSXoA2ZdidWB8DWF8Jr_43.528083_-71.470249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296235,
+    "wof:geomhash":"8b0ebcdacb3120ec4f51eccbd1ced9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873688525
+        }
+    ],
+    "wof:id":873688525,
+    "wof:lastmodified":1464296235,
+    "wof:name":"Ian Raymond Photographic",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -71.470249,
+    43.528083,
+    -71.470249,
+    43.528083
+],
+  "geometry": {"coordinates":[-71.470249,43.528083],"type":"Point"}
+}

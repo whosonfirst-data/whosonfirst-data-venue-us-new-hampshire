@@ -1,0 +1,81 @@
+{
+  "id": 873923385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478577,42.750931,-71.478577,42.750931",
+    "geom:latitude":42.750931,
+    "geom:longitude":-71.478577,
+    "iso:country":"US",
+    "sg:address":"155 Kinsley St Ste 105",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 6671",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "pediatrics-emergency",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7el7CcrOyGSAKPSbDvLaq6_42.750931_-71.478577@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300278,
+    "wof:geomhash":"829d00ed7046c6ef8bf05bc9e8c6ca06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923385
+        }
+    ],
+    "wof:id":873923385,
+    "wof:lastmodified":1464300278,
+    "wof:name":"Nashua Pediatrics",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "pediatrics-emergency",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -71.478577,
+    42.750931,
+    -71.478577,
+    42.750931
+],
+  "geometry": {"coordinates":[-71.478577,42.750931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873591351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575895,44.49664,-71.575895,44.49664",
+    "geom:latitude":44.49664,
+    "geom:longitude":-71.575895,
+    "iso:country":"US",
+    "sg:address":"231 Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 838 5513",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XFGpI3UlOND2HQWdGk5xG_44.496640_-71.575895@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"f0158dfcd7c561572269622fe1947cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873591351
+        }
+    ],
+    "wof:id":873591351,
+    "wof:lastmodified":1464294847,
+    "wof:name":"Adult Education Ctr Lisbon",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.575895,
+    44.49664,
+    -71.575895,
+    44.49664
+],
+  "geometry": {"coordinates":[-71.575895,44.49664],"type":"Point"}
+}

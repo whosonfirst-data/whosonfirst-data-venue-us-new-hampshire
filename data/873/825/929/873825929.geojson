@@ -1,0 +1,70 @@
+{
+  "id": 873825929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179212,44.389502,-71.179212,44.389502",
+    "geom:latitude":44.389502,
+    "geom:longitude":-71.179212,
+    "iso:country":"US",
+    "sg:address":"129 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 9417",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.strictlymoose.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvW9jFwdbu0iuoxYa2Ihi_44.389502_-71.179212@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298253,
+    "wof:geomhash":"f9a9f0f447e517f2fc5b54ce98703c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873825929
+        }
+    ],
+    "wof:id":873825929,
+    "wof:lastmodified":1464298253,
+    "wof:name":"Strictly Moose",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.179212,
+    44.389502,
+    -71.179212,
+    44.389502
+],
+  "geometry": {"coordinates":[-71.17921200000001,44.389502],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873928481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595352,43.276813,-71.595352,43.276813",
+    "geom:latitude":43.276813,
+    "geom:longitude":-71.595352,
+    "iso:country":"US",
+    "sg:address":"83 High St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9762",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "venue",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y0OG7VFOGI2MF5YYlFkUY_43.276813_-71.595352@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300379,
+    "wof:geomhash":"66df5e63b673e28bca5e278cd5804247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928481
+        }
+    ],
+    "wof:id":873928481,
+    "wof:lastmodified":1464300379,
+    "wof:name":"Penacook Community Center Busy Bee Program",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.595352,
+    43.276813,
+    -71.595352,
+    43.276813
+],
+  "geometry": {"coordinates":[-71.59535200000001,43.276813],"type":"Point"}
+}

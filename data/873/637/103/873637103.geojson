@@ -1,0 +1,71 @@
+{
+  "id": 873637103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578275,42.852824,-71.578275,42.852824",
+    "geom:latitude":42.852824,
+    "geom:longitude":-71.578275,
+    "iso:country":"US",
+    "sg:address":"98 Spring Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4166",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wYSGNQ5BtPfqQa5VJmAsP_42.852824_-71.578275@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295446,
+    "wof:geomhash":"6f42e44001217575a3e815d5a19cb5c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873637103
+        }
+    ],
+    "wof:id":873637103,
+    "wof:lastmodified":1464295446,
+    "wof:name":"Amherst Plumbing & Heating Co",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.578275,
+    42.852824,
+    -71.578275,
+    42.852824
+],
+  "geometry": {"coordinates":[-71.578275,42.852824],"type":"Point"}
+}

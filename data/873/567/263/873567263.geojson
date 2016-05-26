@@ -1,0 +1,71 @@
+{
+  "id": 873567263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419108,42.708495,-71.419108,42.708495",
+    "geom:latitude":42.708495,
+    "geom:longitude":-71.419108,
+    "iso:country":"US",
+    "sg:address":"1 Eayers Pond Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 233 4286",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YFTRuWqTypojnz3I6JUye_42.708495_-71.419108@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294578,
+    "wof:geomhash":"bfe7138290177b4bc9b44620ba70215d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873567263
+        }
+    ],
+    "wof:id":873567263,
+    "wof:lastmodified":1464294578,
+    "wof:name":"Doug Bradfield Route 37",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "milk"
+    ]
+},
+  "bbox": [
+    -71.419108,
+    42.708495,
+    -71.419108,
+    42.708495
+],
+  "geometry": {"coordinates":[-71.41910799999999,42.708495],"type":"Point"}
+}

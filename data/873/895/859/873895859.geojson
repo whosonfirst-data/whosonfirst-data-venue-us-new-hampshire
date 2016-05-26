@@ -1,0 +1,69 @@
+{
+  "id": 873895859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686044,43.992657,-71.686044,43.992657",
+    "geom:latitude":43.992657,
+    "geom:longitude":-71.686044,
+    "iso:country":"US",
+    "sg:address":"240 US Hwy 3",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 6652",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831491,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uStsBg6ggKT2sC6KLDAVz_43.992657_-71.686044@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299738,
+    "wof:geomhash":"ef7cad3325d6c7ec7ad037a6820eb8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85831491,
+            "region_id":85688689,
+            "venue_id":873895859
+        }
+    ],
+    "wof:id":873895859,
+    "wof:lastmodified":1464299738,
+    "wof:name":"Tims White Mountain Garage",
+    "wof:parent_id":85831491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.686044,
+    43.992657,
+    -71.686044,
+    43.992657
+],
+  "geometry": {"coordinates":[-71.686044,43.992657],"type":"Point"}
+}

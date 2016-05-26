@@ -1,0 +1,71 @@
+{
+  "id": 873760485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.844118,42.867615,-70.844118,42.867615",
+    "geom:latitude":42.867615,
+    "geom:longitude":-70.844118,
+    "iso:country":"US",
+    "sg:address":"218 S Main St",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 8710",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950807,
+        102084463,
+        85847549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UvoKLsmvKptKNVNjKm6ht_42.867615_-70.844118@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297213,
+    "wof:geomhash":"fa943786951c4b6ca9998208e1a97465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950807,
+            "neighbourhood_id":85847549,
+            "region_id":85688645,
+            "venue_id":873760485
+        }
+    ],
+    "wof:id":873760485,
+    "wof:lastmodified":1464297213,
+    "wof:name":"GE Proulx Builders",
+    "wof:parent_id":85847549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -70.844118,
+    42.867615,
+    -70.844118,
+    42.867615
+],
+  "geometry": {"coordinates":[-70.84411799999999,42.867615],"type":"Point"}
+}

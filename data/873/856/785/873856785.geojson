@@ -1,0 +1,71 @@
+{
+  "id": 873856785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517115,42.994868,-71.517115,42.994868",
+    "geom:latitude":42.994868,
+    "geom:longitude":-71.517115,
+    "iso:country":"US",
+    "sg:address":"4 Pershing St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 645 6000",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PutjPfgwDTnHERjtIwDjk_42.994868_-71.517115@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298949,
+    "wof:geomhash":"f4ab4ee6fe458f17dc786d800ed6ddb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873856785
+        }
+    ],
+    "wof:id":873856785,
+    "wof:lastmodified":1464298949,
+    "wof:name":"Back Talk Chiropractic",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -71.517115,
+    42.994868,
+    -71.517115,
+    42.994868
+],
+  "geometry": {"coordinates":[-71.517115,42.994868],"type":"Point"}
+}

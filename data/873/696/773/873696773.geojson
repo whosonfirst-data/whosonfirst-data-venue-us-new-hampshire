@@ -1,0 +1,71 @@
+{
+  "id": 873696773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.721293,43.073505,-71.721293,43.073505",
+    "geom:latitude":43.073505,
+    "geom:longitude":-71.721293,
+    "iso:country":"US",
+    "sg:address":"1111 S Stark Hwy",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 0111",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f5YU1540VAiJHwGijheBa_43.073505_-71.721293@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296373,
+    "wof:geomhash":"170449687e00bd08aea4ae7cc77cba6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873696773
+        }
+    ],
+    "wof:id":873696773,
+    "wof:lastmodified":1464296373,
+    "wof:name":"You Should Be Dancin'",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.721293,
+    43.073505,
+    -71.721293,
+    43.073505
+],
+  "geometry": {"coordinates":[-71.721293,43.073505],"type":"Point"}
+}

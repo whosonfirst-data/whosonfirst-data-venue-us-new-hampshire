@@ -1,0 +1,77 @@
+{
+  "id": 873573055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474207,42.982894,-71.474207,42.982894",
+    "geom:latitude":42.982894,
+    "geom:longitude":-71.474207,
+    "iso:country":"US",
+    "sg:address":"50 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 8491",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VotXkIFCa5xe2FAD1usqm_42.982894_-71.474207@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294642,
+    "wof:geomhash":"93b88e1a95980ef621cde903781dc4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873573055
+        }
+    ],
+    "wof:id":873573055,
+    "wof:lastmodified":1464294642,
+    "wof:name":"Southern Nh Obstetrics & Gyn",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.474207,
+    42.982894,
+    -71.474207,
+    42.982894
+],
+  "geometry": {"coordinates":[-71.47420700000001,42.982894],"type":"Point"}
+}

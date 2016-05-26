@@ -1,0 +1,104 @@
+{
+  "id": 873918939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515972,42.999151,-71.515972,42.999151",
+    "geom:latitude":42.999151,
+    "geom:longitude":-71.515972,
+    "iso:country":"US",
+    "sg:address":"570 Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/goffstown/149154-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 4953",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u7UoPOMLiMhZJx3XgDTco_42.999556_-71.515958@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300194,
+    "wof:geomhash":"80280655fdc4dd871a2f05b3e6ead134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873918939
+        }
+    ],
+    "wof:id":873918939,
+    "wof:lastmodified":1464300194,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -71.515972,
+    42.999151,
+    -71.515972,
+    42.999151
+],
+  "geometry": {"coordinates":[-71.515972,42.999151],"type":"Point"}
+}

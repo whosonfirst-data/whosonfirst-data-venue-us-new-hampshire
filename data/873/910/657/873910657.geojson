@@ -1,0 +1,66 @@
+{
+  "id": 873910657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509321,43.189999,-71.509321,43.189999",
+    "geom:latitude":43.189999,
+    "geom:longitude":-71.509321,
+    "iso:country":"US",
+    "sg:address":"102 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7814",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B6BmD6gZViF8rMWMsMPp4_43.189999_-71.509321@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300025,
+    "wof:geomhash":"aa0428d9177659510bc4fb3fae2370ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873910657
+        }
+    ],
+    "wof:id":873910657,
+    "wof:lastmodified":1464300025,
+    "wof:name":"Cumberland Farms",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.509321,
+    43.189999,
+    -71.509321,
+    43.189999
+],
+  "geometry": {"coordinates":[-71.509321,43.189999],"type":"Point"}
+}

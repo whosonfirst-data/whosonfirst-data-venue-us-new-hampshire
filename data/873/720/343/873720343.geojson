@@ -1,0 +1,65 @@
+{
+  "id": 873720343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.93305,43.048714,-70.93305,43.048714",
+    "geom:latitude":43.048714,
+    "geom:longitude":-70.93305,
+    "iso:country":"US",
+    "sg:address":"60 Old Rte 108",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0226",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:website":"www.greatbaycamping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lc6WmIEmTGM9WOgUg2HbG_43.048714_-70.933050@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296656,
+    "wof:geomhash":"924a59c4367659a99685c8431960cba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873720343
+        }
+    ],
+    "wof:id":873720343,
+    "wof:lastmodified":1464296656,
+    "wof:name":"Great Bay Camping",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93305,
+    43.048714,
+    -70.93305,
+    43.048714
+],
+  "geometry": {"coordinates":[-70.93304999999999,43.048714],"type":"Point"}
+}

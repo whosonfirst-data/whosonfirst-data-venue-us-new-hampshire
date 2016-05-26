@@ -1,0 +1,71 @@
+{
+  "id": 873612673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505724,42.99787,-71.505724,42.99787",
+    "geom:latitude":42.99787,
+    "geom:longitude":-71.505724,
+    "iso:country":"US",
+    "sg:address":"58 Higgins St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 4977",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SUGh40IJ7MU7rfblnT36K_42.997870_-71.505724@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295173,
+    "wof:geomhash":"458a9e4dad46d060199470c5c2cedc7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873612673
+        }
+    ],
+    "wof:id":873612673,
+    "wof:lastmodified":1464295173,
+    "wof:name":"Painting By Paul",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.505724,
+    42.99787,
+    -71.505724,
+    42.99787
+],
+  "geometry": {"coordinates":[-71.505724,42.99787],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873809075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687342,43.759634,-71.687342,43.759634",
+    "geom:latitude":43.759634,
+    "geom:longitude":-71.687342,
+    "iso:country":"US",
+    "sg:address":"66 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 8289",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fopqb69l66zHfC6RTu75a_43.759634_-71.687342@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297910,
+    "wof:geomhash":"cdc095536295d9d8a370c8b1b029e6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873809075
+        }
+    ],
+    "wof:id":873809075,
+    "wof:lastmodified":1464297910,
+    "wof:name":"Homepoint Mortgage",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.687342,
+    43.759634,
+    -71.687342,
+    43.759634
+],
+  "geometry": {"coordinates":[-71.687342,43.759634],"type":"Point"}
+}

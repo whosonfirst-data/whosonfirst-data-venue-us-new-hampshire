@@ -1,0 +1,71 @@
+{
+  "id": 873809501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.734249,43.592727,-71.734249,43.592727",
+    "geom:latitude":43.592727,
+    "geom:longitude":-71.734249,
+    "iso:country":"US",
+    "sg:address":"65 Summer St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 3000",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P6VfhzIgHSHL1TeUH9eyL_43.592727_-71.734249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297919,
+    "wof:geomhash":"3fac00c2e12dd776ff99f0beeebd837f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873809501
+        }
+    ],
+    "wof:id":873809501,
+    "wof:lastmodified":1464297919,
+    "wof:name":"Pk Shetty Mdpa",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.734249,
+    43.592727,
+    -71.734249,
+    43.592727
+],
+  "geometry": {"coordinates":[-71.73424900000001,43.592727],"type":"Point"}
+}

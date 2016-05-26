@@ -1,0 +1,71 @@
+{
+  "id": 873857073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.603038,43.285309,-71.603038,43.285309",
+    "geom:latitude":43.285309,
+    "geom:longitude":-71.603038,
+    "iso:country":"US",
+    "sg:address":"57 Eel St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9285",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21GWLH3aTiCVSZl95EC9rJ_43.285309_-71.603038@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298954,
+    "wof:geomhash":"80ce3de74a344cd36cac9c4f482746ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873857073
+        }
+    ],
+    "wof:id":873857073,
+    "wof:lastmodified":1464298954,
+    "wof:name":"Delphco Electronics",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.603038,
+    43.285309,
+    -71.603038,
+    43.285309
+],
+  "geometry": {"coordinates":[-71.603038,43.285309],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873923527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489157,42.751447,-71.489157,42.751447",
+    "geom:latitude":42.751447,
+    "geom:longitude":-71.489157,
+    "iso:country":"US",
+    "sg:address":"12 Simon St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 0093",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "metals-wholesale",
+        "metal"
+    ],
+    "sg:website":"http://www.interstatemetalandalloy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fTFw4chiF6AuGIeFqNv7C_42.751447_-71.489157@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300280,
+    "wof:geomhash":"885caabb1ef32bc3de6ab90bbd61595c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923527
+        }
+    ],
+    "wof:id":873923527,
+    "wof:lastmodified":1464300280,
+    "wof:name":"Interstate Metal & Alloy",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metals-wholesale",
+        "metal"
+    ]
+},
+  "bbox": [
+    -71.489157,
+    42.751447,
+    -71.489157,
+    42.751447
+],
+  "geometry": {"coordinates":[-71.48915700000001,42.751447],"type":"Point"}
+}

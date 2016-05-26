@@ -1,0 +1,73 @@
+{
+  "id": 873815563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.168753,44.467231,-71.168753,44.467231",
+    "geom:latitude":44.467231,
+    "geom:longitude":-71.168753,
+    "iso:country":"US",
+    "sg:address":"30 King St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 2333",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g47V4hBdItbAfcO7YAcaM_44.467231_-71.168753@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298025,
+    "wof:geomhash":"ea8ff1d7f23d2224ddc493c93d5fd887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873815563
+        }
+    ],
+    "wof:id":873815563,
+    "wof:lastmodified":1464298025,
+    "wof:name":"Whitefield Family Health Clinc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.168753,
+    44.467231,
+    -71.168753,
+    44.467231
+],
+  "geometry": {"coordinates":[-71.168753,44.467231],"type":"Point"}
+}

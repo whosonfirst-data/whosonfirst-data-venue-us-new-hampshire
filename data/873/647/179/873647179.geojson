@@ -1,0 +1,71 @@
+{
+  "id": 873647179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251775,44.532254,-71.251775,44.532254",
+    "geom:latitude":44.532254,
+    "geom:longitude":-71.251775,
+    "iso:country":"US",
+    "sg:address":"36 Copperville Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 2093",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xm0yKJzPaMJ13BMp6SfX2_44.532254_-71.251775@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295558,
+    "wof:geomhash":"b682a846b87fd8b9cd4c5f05489ee99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873647179
+        }
+    ],
+    "wof:id":873647179,
+    "wof:lastmodified":1464295558,
+    "wof:name":"Milan Excavating Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.251775,
+    44.532254,
+    -71.251775,
+    44.532254
+],
+  "geometry": {"coordinates":[-71.25177499999999,44.532254],"type":"Point"}
+}

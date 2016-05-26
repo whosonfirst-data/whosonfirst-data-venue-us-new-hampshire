@@ -1,0 +1,71 @@
+{
+  "id": 873865679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567774,44.49855,-71.567774,44.49855",
+    "geom:latitude":44.49855,
+    "geom:longitude":-71.567774,
+    "iso:country":"US",
+    "sg:address":"163 Summer St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 5522",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rkeHAe7TETGMf5kgl0cqy_44.498550_-71.567774@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299150,
+    "wof:geomhash":"15a426291c6fb747e001f1e81f29a9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873865679
+        }
+    ],
+    "wof:id":873865679,
+    "wof:lastmodified":1464299150,
+    "wof:name":"Access Rentals & Sales",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.567774,
+    44.49855,
+    -71.567774,
+    44.49855
+],
+  "geometry": {"coordinates":[-71.567774,44.49855],"type":"Point"}
+}

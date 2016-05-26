@@ -1,0 +1,73 @@
+{
+  "id": 873598249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.121571,43.037006,-71.121571,43.037006",
+    "geom:latitude":43.037006,
+    "geom:longitude":-71.121571,
+    "iso:country":"US",
+    "sg:address":"10 Depot Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2315",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3To785tdPzI3s1QOQLBjRw_43.037006_-71.121571@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294962,
+    "wof:geomhash":"b6dbf1aa819c42d85d5f1897c31f0e10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873598249
+        }
+    ],
+    "wof:id":873598249,
+    "wof:lastmodified":1464294962,
+    "wof:name":"Jack Stilkey Building Movers",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -71.121571,
+    43.037006,
+    -71.121571,
+    43.037006
+],
+  "geometry": {"coordinates":[-71.121571,43.037006],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873884069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431293,44.602546,-71.431293,44.602546",
+    "geom:latitude":44.602546,
+    "geom:longitude":-71.431293,
+    "iso:country":"US",
+    "sg:address":"1603 Stark Hwy",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2376",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bdtRJwmu7mK5bd97wlPn9_44.602546_-71.431293@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299518,
+    "wof:geomhash":"421449acad0a835eafd19d1713cd1375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873884069
+        }
+    ],
+    "wof:id":873884069,
+    "wof:lastmodified":1464299518,
+    "wof:name":"Country Auto",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.431293,
+    44.602546,
+    -71.431293,
+    44.602546
+],
+  "geometry": {"coordinates":[-71.431293,44.602546],"type":"Point"}
+}

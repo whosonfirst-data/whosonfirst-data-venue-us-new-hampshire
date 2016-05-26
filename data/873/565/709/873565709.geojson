@@ -1,0 +1,71 @@
+{
+  "id": 873565709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370171,42.980895,-71.370171,42.980895",
+    "geom:latitude":42.980895,
+    "geom:longitude":-71.370171,
+    "iso:country":"US",
+    "sg:address":"303 Londonderry Tpke",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 6095",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B3CPE8TEiCxqDanB0ZQM5_42.980895_-71.370171@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294563,
+    "wof:geomhash":"cc0ab26f62008e3e9ded412ff5cc4c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873565709
+        }
+    ],
+    "wof:id":873565709,
+    "wof:lastmodified":1464294563,
+    "wof:name":"N H Demolition Inc",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.370171,
+    42.980895,
+    -71.370171,
+    42.980895
+],
+  "geometry": {"coordinates":[-71.370171,42.980895],"type":"Point"}
+}

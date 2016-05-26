@@ -1,0 +1,69 @@
+{
+  "id": 873648753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.899424,42.891877,-70.899424,42.891877",
+    "geom:latitude":42.891877,
+    "geom:longitude":-70.899424,
+    "iso:country":"US",
+    "sg:address":"29 Border Winds Ave",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 394 0526",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MkXi0llRwXisBxza1cNEL_42.891877_-70.899424@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295574,
+    "wof:geomhash":"3d27d38e9f221555a4e7745e977bdb9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873648753
+        }
+    ],
+    "wof:id":873648753,
+    "wof:lastmodified":1464295574,
+    "wof:name":"Magliaro Plumbing",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.899424,
+    42.891877,
+    -70.899424,
+    42.891877
+],
+  "geometry": {"coordinates":[-70.899424,42.891877],"type":"Point"}
+}

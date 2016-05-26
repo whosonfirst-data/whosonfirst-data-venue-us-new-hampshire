@@ -1,0 +1,71 @@
+{
+  "id": 873695373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.194026,42.909871,-72.194026,42.909871",
+    "geom:latitude":42.909871,
+    "geom:longitude":-72.194026,
+    "iso:country":"US",
+    "sg:address":"42 Roxbury Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3351",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eqRsslCbHi5RvvsblVnea_42.909871_-72.194026@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296355,
+    "wof:geomhash":"c6ab642759022a5358ae7aa8f394535e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873695373
+        }
+    ],
+    "wof:id":873695373,
+    "wof:lastmodified":1464296355,
+    "wof:name":"Dave's Automotive Enterprises",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.194026,
+    42.909871,
+    -72.194026,
+    42.909871
+],
+  "geometry": {"coordinates":[-72.19402599999999,42.909871],"type":"Point"}
+}

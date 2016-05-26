@@ -1,0 +1,71 @@
+{
+  "id": 873891289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.855521,43.252491,-70.855521,43.252491",
+    "geom:latitude":43.252491,
+    "geom:longitude":-70.855521,
+    "iso:country":"US",
+    "sg:address":"15 2nd St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 7077",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cp0BggMup7l9tQolsL6TQ_43.252491_-70.855521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299653,
+    "wof:geomhash":"e2fe109191fbd682ade2e97203e84581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873891289
+        }
+    ],
+    "wof:id":873891289,
+    "wof:lastmodified":1464299653,
+    "wof:name":"Sailing Seas of Knowledge",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -70.855521,
+    43.252491,
+    -70.855521,
+    43.252491
+],
+  "geometry": {"coordinates":[-70.855521,43.252491],"type":"Point"}
+}

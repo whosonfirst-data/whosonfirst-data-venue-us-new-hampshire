@@ -1,0 +1,71 @@
+{
+  "id": 873538615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.212397,43.841393,-71.212397,43.841393",
+    "geom:latitude":43.841393,
+    "geom:longitude":-71.212397,
+    "iso:country":"US",
+    "sg:address":"11 Lone Birch Trl",
+    "sg:city":"Tamworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 323 7441",
+    "sg:postcode":"03817",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14ZnfucLntJdu41K8Qnu7J_43.841393_-71.212397@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294246,
+    "wof:geomhash":"165e4e7cb0b2d1d0d23bfe843bd7d000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873538615
+        }
+    ],
+    "wof:id":873538615,
+    "wof:lastmodified":1464294246,
+    "wof:name":"Ossipee Valley Chimney Sweep",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -71.212397,
+    43.841393,
+    -71.212397,
+    43.841393
+],
+  "geometry": {"coordinates":[-71.212397,43.841393],"type":"Point"}
+}

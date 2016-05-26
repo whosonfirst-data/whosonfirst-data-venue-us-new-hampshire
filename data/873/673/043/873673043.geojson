@@ -1,0 +1,77 @@
+{
+  "id": 873673043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463112,43.012403,-71.463112,43.012403",
+    "geom:latitude":43.012403,
+    "geom:longitude":-71.463112,
+    "iso:country":"US",
+    "sg:address":"119 N Adams St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 315 1674",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MVIW1NXBm7rR1xwl2hBgR_43.012403_-71.463112@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295831,
+    "wof:geomhash":"9ce77b30a6fb66e6eb8a109574154586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873673043
+        }
+    ],
+    "wof:id":873673043,
+    "wof:lastmodified":1464295831,
+    "wof:name":"Houlahan Properties",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.463112,
+    43.012403,
+    -71.463112,
+    43.012403
+],
+  "geometry": {"coordinates":[-71.463112,43.012403],"type":"Point"}
+}

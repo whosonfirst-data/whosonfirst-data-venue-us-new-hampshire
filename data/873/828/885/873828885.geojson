@@ -1,0 +1,71 @@
+{
+  "id": 873828885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.087796,43.390259,-72.087796,43.390259",
+    "geom:latitude":43.390259,
+    "geom:longitude":-72.087796,
+    "iso:country":"US",
+    "sg:address":"1 Central St",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 4435",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I3ou1gTZGIVDdVB3YYidz_43.390259_-72.087796@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298311,
+    "wof:geomhash":"27a5a2512325f90853b8124cab536f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873828885
+        }
+    ],
+    "wof:id":873828885,
+    "wof:lastmodified":1464298311,
+    "wof:name":"Jenkins School Of Dance",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.087796,
+    43.390259,
+    -72.087796,
+    43.390259
+],
+  "geometry": {"coordinates":[-72.087796,43.390259],"type":"Point"}
+}

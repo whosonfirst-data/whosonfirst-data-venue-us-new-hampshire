@@ -1,0 +1,69 @@
+{
+  "id": 873805863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.157288,43.272059,-72.157288,43.272059",
+    "geom:latitude":43.272059,
+    "geom:longitude":-72.157288,
+    "iso:country":"US",
+    "sg:address":"12 Brook Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 3865",
+    "sg:postcode":"03605",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822343,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2LwKsH7eDgNPTeOwBW2p_43.272059_-72.157288@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297850,
+    "wof:geomhash":"826f8d085a20d0f8983b2aec65f39765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85822343,
+            "region_id":85688689,
+            "venue_id":873805863
+        }
+    ],
+    "wof:id":873805863,
+    "wof:lastmodified":1464297850,
+    "wof:name":"Ferguson's Spetic Svc",
+    "wof:parent_id":85822343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.157288,
+    43.272059,
+    -72.157288,
+    43.272059
+],
+  "geometry": {"coordinates":[-72.15728799999999,43.272059],"type":"Point"}
+}

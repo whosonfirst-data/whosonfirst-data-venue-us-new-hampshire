@@ -1,0 +1,69 @@
+{
+  "id": 873715589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.355939,42.796211,-71.355939,42.796211",
+    "geom:latitude":42.796211,
+    "geom:longitude":-71.355939,
+    "iso:country":"US",
+    "sg:address":"17 Twin St",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 5468",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77DJ9LcgsHMseeD8uhXieK_42.796211_-71.355939@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296588,
+    "wof:geomhash":"1a30c202f45778809dceab638d0bb3d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873715589
+        }
+    ],
+    "wof:id":873715589,
+    "wof:lastmodified":1464296588,
+    "wof:name":"Mucci Auto Sales",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.355939,
+    42.796211,
+    -71.355939,
+    42.796211
+],
+  "geometry": {"coordinates":[-71.35593900000001,42.796211],"type":"Point"}
+}

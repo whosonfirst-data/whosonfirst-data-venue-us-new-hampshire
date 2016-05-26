@@ -1,0 +1,82 @@
+{
+  "id": 873769227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.938524,43.055018,-70.938524,43.055018",
+    "geom:latitude":43.055018,
+    "geom:longitude":-70.938524,
+    "iso:country":"US",
+    "sg:address":"200 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 9956",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "country",
+        "membership",
+        "public",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n1dNiR1TinPnrzMjN1Z0F_43.055018_-70.938524@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297352,
+    "wof:geomhash":"b7242d8f56826e8ba1d3a24b0ecf21bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873769227
+        }
+    ],
+    "wof:id":873769227,
+    "wof:lastmodified":1464297352,
+    "wof:name":"Rockingham Country Club Inc",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "country",
+        "membership",
+        "public",
+        "course"
+    ]
+},
+  "bbox": [
+    -70.938524,
+    43.055018,
+    -70.938524,
+    43.055018
+],
+  "geometry": {"coordinates":[-70.938524,43.055018],"type":"Point"}
+}

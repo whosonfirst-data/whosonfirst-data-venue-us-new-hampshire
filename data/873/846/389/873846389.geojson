@@ -1,0 +1,73 @@
+{
+  "id": 873846389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474474,43.533725,-71.474474,43.533725",
+    "geom:latitude":43.533725,
+    "geom:longitude":-71.474474,
+    "iso:country":"US",
+    "sg:address":"806 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4385",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "occupational",
+        "therapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PXgCpggWVHzLBF1Y2y1ho_43.533725_-71.474474@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298710,
+    "wof:geomhash":"488af7d80f7f652974055a67e7d598d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873846389
+        }
+    ],
+    "wof:id":873846389,
+    "wof:lastmodified":1464298710,
+    "wof:name":"Lakes Region Occupational",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "therapist"
+    ]
+},
+  "bbox": [
+    -71.474474,
+    43.533725,
+    -71.474474,
+    43.533725
+],
+  "geometry": {"coordinates":[-71.474474,43.533725],"type":"Point"}
+}

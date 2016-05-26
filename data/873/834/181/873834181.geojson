@@ -1,0 +1,69 @@
+{
+  "id": 873834181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054205,42.820049,-72.054205,42.820049",
+    "geom:latitude":42.820049,
+    "geom:longitude":-72.054205,
+    "iso:country":"US",
+    "sg:address":"115 Sawtelle Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 5748",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cqAXhlXD0MoUZgU3ufb2k_42.820049_-72.054205@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298428,
+    "wof:geomhash":"e59ed595804f79b3c647de8c9ddce2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873834181
+        }
+    ],
+    "wof:id":873834181,
+    "wof:lastmodified":1464298428,
+    "wof:name":"Dan May Builders",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.054205,
+    42.820049,
+    -72.054205,
+    42.820049
+],
+  "geometry": {"coordinates":[-72.054205,42.820049],"type":"Point"}
+}

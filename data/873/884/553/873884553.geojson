@@ -1,0 +1,71 @@
+{
+  "id": 873884553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39093,44.622934,-71.39093,44.622934",
+    "geom:latitude":44.622934,
+    "geom:longitude":-71.39093,
+    "iso:country":"US",
+    "sg:address":"388 Percy Rd",
+    "sg:city":"Stark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2918",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03B5ctDZwNW3dZ79vs4Cfa_44.622934_-71.390930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299530,
+    "wof:geomhash":"68aa8400fc037b1d188bb8073043871f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873884553
+        }
+    ],
+    "wof:id":873884553,
+    "wof:lastmodified":1464299530,
+    "wof:name":"Sunshine Lumber",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lumber"
+    ]
+},
+  "bbox": [
+    -71.39093,
+    44.622934,
+    -71.39093,
+    44.622934
+],
+  "geometry": {"coordinates":[-71.39093,44.622934],"type":"Point"}
+}

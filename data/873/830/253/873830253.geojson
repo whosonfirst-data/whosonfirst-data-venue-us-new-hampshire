@@ -1,0 +1,73 @@
+{
+  "id": 873830253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476102,43.197126,-71.476102,43.197126",
+    "geom:latitude":43.197126,
+    "geom:longitude":-71.476102,
+    "iso:country":"US",
+    "sg:address":"720 Clough Mill Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 3134",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "helicopter",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aWfE755vBGN8lvZXbmIay_43.197126_-71.476102@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298336,
+    "wof:geomhash":"88c8df4aab24f69d4c092529544e0256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873830253
+        }
+    ],
+    "wof:id":873830253,
+    "wof:lastmodified":1464298336,
+    "wof:name":"J B I",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -71.476102,
+    43.197126,
+    -71.476102,
+    43.197126
+],
+  "geometry": {"coordinates":[-71.476102,43.197126],"type":"Point"}
+}

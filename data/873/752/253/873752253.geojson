@@ -1,0 +1,77 @@
+{
+  "id": 873752253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44081,42.964329,-71.44081,42.964329",
+    "geom:latitude":42.964329,
+    "geom:longitude":-71.44081,
+    "iso:country":"US",
+    "sg:address":"8 Gabrielle St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 641 2131",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JAL5cFWzC8sIOf3HhUmqi_42.964329_-71.440810@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297103,
+    "wof:geomhash":"5f9ed585fb9c7724cb3069d5b115aa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873752253
+        }
+    ],
+    "wof:id":873752253,
+    "wof:lastmodified":1464297103,
+    "wof:name":"Enterprise RAC Manchest",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.44081,
+    42.964329,
+    -71.44081,
+    42.964329
+],
+  "geometry": {"coordinates":[-71.44081,42.964329],"type":"Point"}
+}

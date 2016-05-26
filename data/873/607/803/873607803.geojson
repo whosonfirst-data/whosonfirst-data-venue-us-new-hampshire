@@ -1,0 +1,71 @@
+{
+  "id": 873607803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482649,42.967582,-71.482649,42.967582",
+    "geom:latitude":42.967582,
+    "geom:longitude":-71.482649,
+    "iso:country":"US",
+    "sg:address":"717 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 1506",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4blq7tLElgFbm1opbf0WkE_42.967582_-71.482649@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295095,
+    "wof:geomhash":"b01707bdcf475dd585055562e1b30245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873607803
+        }
+    ],
+    "wof:id":873607803,
+    "wof:lastmodified":1464295095,
+    "wof:name":"Kyleco",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -71.482649,
+    42.967582,
+    -71.482649,
+    42.967582
+],
+  "geometry": {"coordinates":[-71.48264899999999,42.967582],"type":"Point"}
+}

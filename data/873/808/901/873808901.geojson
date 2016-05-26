@@ -1,0 +1,71 @@
+{
+  "id": 873808901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.834043,43.231144,-70.834043,43.231144",
+    "geom:latitude":43.231144,
+    "geom:longitude":-70.834043,
+    "iso:country":"US",
+    "sg:address":"409 Main St",
+    "sg:city":"Rollinsford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 4030",
+    "sg:postcode":"03869",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lce3jnttFBSLC80MxsDX0_43.231144_-70.834043@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297907,
+    "wof:geomhash":"79503ab01dc0d81d04528498792ec4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873808901
+        }
+    ],
+    "wof:id":873808901,
+    "wof:lastmodified":1464297907,
+    "wof:name":"Mick Construction Co",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.834043,
+    43.231144,
+    -70.834043,
+    43.231144
+],
+  "geometry": {"coordinates":[-70.83404299999999,43.231144],"type":"Point"}
+}

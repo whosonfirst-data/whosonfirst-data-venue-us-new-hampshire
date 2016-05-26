@@ -1,0 +1,80 @@
+{
+  "id": 873924659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46019,42.7654,-71.46019,42.7654",
+    "geom:latitude":42.7654,
+    "geom:longitude":-71.46019,
+    "iso:country":"US",
+    "sg:address":"39 Tolles St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 6141",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rY69AC2XZnSKUVssQ2xjJ_42.765400_-71.460190@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300299,
+    "wof:geomhash":"ee9e605aed073393999605e25d0f660e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873924659
+        }
+    ],
+    "wof:id":873924659,
+    "wof:lastmodified":1464300299,
+    "wof:name":"P&J Iii Minimarket",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -71.46019,
+    42.7654,
+    -71.46019,
+    42.7654
+],
+  "geometry": {"coordinates":[-71.46019,42.7654],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873811659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453393,42.995631,-71.453393,42.995631",
+    "geom:latitude":42.995631,
+    "geom:longitude":-71.453393,
+    "iso:country":"US",
+    "sg:address":"239 Bridge St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 6963",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vt7q3EFURaFzNCQiqDj0M_42.995631_-71.453393@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297955,
+    "wof:geomhash":"70fa074957671f9d45429e657fec1c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873811659
+        }
+    ],
+    "wof:id":873811659,
+    "wof:lastmodified":1464297955,
+    "wof:name":"Sunoco",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.453393,
+    42.995631,
+    -71.453393,
+    42.995631
+],
+  "geometry": {"coordinates":[-71.45339300000001,42.995631],"type":"Point"}
+}

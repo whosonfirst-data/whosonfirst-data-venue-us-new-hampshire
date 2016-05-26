@@ -1,0 +1,78 @@
+{
+  "id": 873918777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.975381,43.319432,-70.975381,43.319432",
+    "geom:latitude":43.319432,
+    "geom:longitude":-70.975381,
+    "iso:country":"US",
+    "sg:address":"14 Lilac Mall",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/129638-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9666",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yuOjzmTTwrjAWHJ8tDSzA_43.319432_-70.975381@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"2866ac942e6f695db1e72a8f177fbc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873918777
+        }
+    ],
+    "wof:id":873918777,
+    "wof:lastmodified":1464300191,
+    "wof:name":"Subway",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.975381,
+    43.319432,
+    -70.975381,
+    43.319432
+],
+  "geometry": {"coordinates":[-70.975381,43.319432],"type":"Point"}
+}

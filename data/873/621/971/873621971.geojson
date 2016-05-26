@@ -1,0 +1,71 @@
+{
+  "id": 873621971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51413,42.998481,-71.51413,42.998481",
+    "geom:latitude":42.998481,
+    "geom:longitude":-71.51413,
+    "iso:country":"US",
+    "sg:address":"591 S Mast Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 606 4214",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eWBVqIjs74PcyOu0PhZw4_42.998481_-71.514130@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295270,
+    "wof:geomhash":"6e533577caedd1732ed0e948a7c12d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873621971
+        }
+    ],
+    "wof:id":873621971,
+    "wof:lastmodified":1464295270,
+    "wof:name":"Nextel Data Link Comm",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.51413,
+    42.998481,
+    -71.51413,
+    42.998481
+],
+  "geometry": {"coordinates":[-71.51412999999999,42.998481],"type":"Point"}
+}

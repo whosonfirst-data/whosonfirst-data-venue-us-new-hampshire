@@ -1,0 +1,71 @@
+{
+  "id": 873886701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870654,42.877344,-70.870654,42.877344",
+    "geom:latitude":42.877344,
+    "geom:longitude":-70.870654,
+    "iso:country":"US",
+    "sg:address":"109 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 7761",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HGn9Q951QQMaje2fpPFo9_42.877344_-70.870654@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299568,
+    "wof:geomhash":"d9dc164a37636649e2850d6987ea91e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873886701
+        }
+    ],
+    "wof:id":873886701,
+    "wof:lastmodified":1464299568,
+    "wof:name":"Provencher Construction",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.870654,
+    42.877344,
+    -70.870654,
+    42.877344
+],
+  "geometry": {"coordinates":[-70.870654,42.877344],"type":"Point"}
+}

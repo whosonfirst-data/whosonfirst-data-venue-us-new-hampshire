@@ -1,0 +1,75 @@
+{
+  "id": 873758011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.948765,43.329058,-70.948765,43.329058",
+    "geom:latitude":43.329058,
+    "geom:longitude":-70.948765,
+    "iso:country":"US",
+    "sg:address":"83 Highland St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 6398",
+    "sg:postcode":"03868",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816725,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y9plmU6Ie4Yy2Rb2GqDZQ_43.329058_-70.948765@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297181,
+    "wof:geomhash":"e0b21d436ccc181021b6c85d0c0134f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":873758011
+        }
+    ],
+    "wof:id":873758011,
+    "wof:lastmodified":1464297181,
+    "wof:name":"Soft Spray Car Wash",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -70.948765,
+    43.329058,
+    -70.948765,
+    43.329058
+],
+  "geometry": {"coordinates":[-70.94876499999999,43.329058],"type":"Point"}
+}

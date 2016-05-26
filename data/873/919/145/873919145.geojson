@@ -1,0 +1,72 @@
+{
+  "id": 873919145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474375,42.976396,-71.474375,42.976396",
+    "geom:latitude":42.976396,
+    "geom:longitude":-71.474375,
+    "iso:country":"US",
+    "sg:address":"444 2nd St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/31655-ferraris-pizza--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 3333",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lqKWVVgIv7yxp0M0mBjRb_42.976654_-71.474146@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300197,
+    "wof:geomhash":"7f36749949ccc19de5c6d24db4b81954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873919145
+        }
+    ],
+    "wof:id":873919145,
+    "wof:lastmodified":1464300197,
+    "wof:name":"Ferrari's Pizza & Pasta",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.474375,
+    42.976396,
+    -71.474375,
+    42.976396
+],
+  "geometry": {"coordinates":[-71.47437499999999,42.976396],"type":"Point"}
+}

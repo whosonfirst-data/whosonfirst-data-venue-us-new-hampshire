@@ -1,0 +1,77 @@
+{
+  "id": 873847591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399757,43.530708,-71.399757,43.530708",
+    "geom:latitude":43.530708,
+    "geom:longitude":-71.399757,
+    "iso:country":"US",
+    "sg:address":"123 Longridge Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7887",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "dog",
+        "kennel",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FpvcHXJJKBPM2gsQGCa50_43.530708_-71.399757@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298754,
+    "wof:geomhash":"a59b0171f1e73919874f8ffe208c3731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873847591
+        }
+    ],
+    "wof:id":873847591,
+    "wof:lastmodified":1464298754,
+    "wof:name":"Letterhof Kennel",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "dog",
+        "kennel",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.399757,
+    43.530708,
+    -71.399757,
+    43.530708
+],
+  "geometry": {"coordinates":[-71.39975699999999,43.530708],"type":"Point"}
+}

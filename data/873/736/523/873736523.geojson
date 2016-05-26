@@ -1,0 +1,71 @@
+{
+  "id": 873736523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073328,43.036909,-71.073328,43.036909",
+    "geom:latitude":43.036909,
+    "geom:longitude":-71.073328,
+    "iso:country":"US",
+    "sg:address":"121 Main St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1670",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SgDs2zxTfuDWCyCCOzdj7_43.036909_-71.073328@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296877,
+    "wof:geomhash":"12698ad8c997c97e99ef42cc426f8d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873736523
+        }
+    ],
+    "wof:id":873736523,
+    "wof:lastmodified":1464296877,
+    "wof:name":"High Tech Heating Svc",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.073328,
+    43.036909,
+    -71.073328,
+    43.036909
+],
+  "geometry": {"coordinates":[-71.073328,43.036909],"type":"Point"}
+}

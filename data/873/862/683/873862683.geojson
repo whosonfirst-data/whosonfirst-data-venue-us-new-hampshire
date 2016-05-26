@@ -1,0 +1,73 @@
+{
+  "id": 873862683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412425,43.520329,-71.412425,43.520329",
+    "geom:latitude":43.520329,
+    "geom:longitude":-71.412425,
+    "iso:country":"US",
+    "sg:address":"40 Wild Acres Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3781",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mYg8CxhSuvg6WcnhwRexH_43.520329_-71.412425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299089,
+    "wof:geomhash":"dd6501bef9c0de128c028db8de157d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873862683
+        }
+    ],
+    "wof:id":873862683,
+    "wof:lastmodified":1464299089,
+    "wof:name":"Smart Way Computer Advisor",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -71.412425,
+    43.520329,
+    -71.412425,
+    43.520329
+],
+  "geometry": {"coordinates":[-71.412425,43.520329],"type":"Point"}
+}

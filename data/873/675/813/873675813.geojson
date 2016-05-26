@@ -1,0 +1,69 @@
+{
+  "id": 873675813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41875,42.776397,-71.41875,42.776397",
+    "geom:latitude":42.776397,
+    "geom:longitude":-71.41875,
+    "iso:country":"US",
+    "sg:address":"7 Monroe Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 0742",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iMn0fJc4TVXkimKl8wwl2_42.776397_-71.418750@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295886,
+    "wof:geomhash":"52814cfeea33f5acd95299ae82445156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873675813
+        }
+    ],
+    "wof:id":873675813,
+    "wof:lastmodified":1464295886,
+    "wof:name":"R & J Towing",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.41875,
+    42.776397,
+    -71.41875,
+    42.776397
+],
+  "geometry": {"coordinates":[-71.41875,42.776397],"type":"Point"}
+}

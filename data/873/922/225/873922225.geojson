@@ -1,0 +1,70 @@
+{
+  "id": 873922225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493461,42.84775,-71.493461,42.84775",
+    "geom:latitude":42.84775,
+    "geom:longitude":-71.493461,
+    "iso:country":"US",
+    "sg:address":"356 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3434",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"http://www.MerrimackJewels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sdOLlblYHDwBX0zALkQvT_42.847750_-71.493461@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300256,
+    "wof:geomhash":"cc0a69fe7ed08dd99d634f643bef6842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873922225
+        }
+    ],
+    "wof:id":873922225,
+    "wof:lastmodified":1464300256,
+    "wof:name":"Merrimack Jewelers",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.493461,
+    42.84775,
+    -71.493461,
+    42.84775
+],
+  "geometry": {"coordinates":[-71.493461,42.84775],"type":"Point"}
+}

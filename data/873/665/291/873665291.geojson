@@ -1,0 +1,71 @@
+{
+  "id": 873665291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.331502,42.859752,-71.331502,42.859752",
+    "geom:latitude":42.859752,
+    "geom:longitude":-71.331502,
+    "iso:country":"US",
+    "sg:address":"81 Kendall Pond Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 2910",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltI0JP0A5698IGH6YVgoN_42.859752_-71.331502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295753,
+    "wof:geomhash":"14adac85fde742d82da2a74097605a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873665291
+        }
+    ],
+    "wof:id":873665291,
+    "wof:lastmodified":1464295753,
+    "wof:name":"Michael A Carpenetti",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.331502,
+    42.859752,
+    -71.331502,
+    42.859752
+],
+  "geometry": {"coordinates":[-71.331502,42.859752],"type":"Point"}
+}

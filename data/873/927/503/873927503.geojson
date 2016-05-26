@@ -1,0 +1,71 @@
+{
+  "id": 873927503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.976303,43.581402,-71.976303,43.581402",
+    "geom:latitude":43.581402,
+    "geom:longitude":-71.976303,
+    "iso:country":"US",
+    "sg:address":"Wild Meadows Rd",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 523 7060",
+    "sg:postcode":"03240",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822411,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J351tqxSR1rU991BtsSTB_43.581402_-71.976303@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300355,
+    "wof:geomhash":"c09d6fe95e4675cbe29c1b3b87db3e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85822411,
+            "region_id":85688689,
+            "venue_id":873927503
+        }
+    ],
+    "wof:id":873927503,
+    "wof:lastmodified":1464300355,
+    "wof:name":"Wild Meadows Auto Body",
+    "wof:parent_id":85822411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.976303,
+    43.581402,
+    -71.976303,
+    43.581402
+],
+  "geometry": {"coordinates":[-71.976303,43.581402],"type":"Point"}
+}

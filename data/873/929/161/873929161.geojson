@@ -1,0 +1,72 @@
+{
+  "id": 873929161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.033171,42.815342,-72.033171,42.815342",
+    "geom:latitude":42.815342,
+    "geom:longitude":-72.033171,
+    "iso:country":"US",
+    "sg:address":"89 Highland Avenue",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 2407",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.chemonecompliance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yffuAm7434L2rQGzTyLYp_42.815342_-72.033171@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300392,
+    "wof:geomhash":"5b471cdf21a985d25edd0924315667b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873929161
+        }
+    ],
+    "wof:id":873929161,
+    "wof:lastmodified":1464300392,
+    "wof:name":"ChemOne Compliance Llc",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.033171,
+    42.815342,
+    -72.033171,
+    42.815342
+],
+  "geometry": {"coordinates":[-72.033171,42.815342],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873858743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.016439,43.15043,-71.016439,43.15043",
+    "geom:latitude":43.15043,
+    "geom:longitude":-71.016439,
+    "iso:country":"US",
+    "sg:address":"314 US Hwy 4",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 6636",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "sg:website":"www.maplesugarshack.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58c0X9EeTM75DEcDgPPIrB_43.150430_-71.016439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298987,
+    "wof:geomhash":"b8403088726d77c35b89f8d89db19273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873858743
+        }
+    ],
+    "wof:id":873858743,
+    "wof:lastmodified":1464298987,
+    "wof:name":"Sugar Shack",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -71.016439,
+    43.15043,
+    -71.016439,
+    43.15043
+],
+  "geometry": {"coordinates":[-71.01643900000001,43.15043],"type":"Point"}
+}

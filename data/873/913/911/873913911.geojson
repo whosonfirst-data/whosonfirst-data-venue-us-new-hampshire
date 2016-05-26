@@ -1,0 +1,74 @@
+{
+  "id": 873913911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509811,42.963551,-71.509811,42.963551",
+    "geom:latitude":42.963551,
+    "geom:longitude":-71.509811,
+    "iso:country":"US",
+    "sg:address":"33 Old Bedford Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 0500",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ],
+    "sg:website":"http://www.bedfordanimalhosp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MobzKfjkQDhr1YFB2Nfhb_42.963575_-71.509808@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300087,
+    "wof:geomhash":"895763532936c1c7db15c4a26d2fcec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873913911
+        }
+    ],
+    "wof:id":873913911,
+    "wof:lastmodified":1464300087,
+    "wof:name":"Bedford Animal Hospital",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.509811,
+    42.963551,
+    -71.509811,
+    42.963551
+],
+  "geometry": {"coordinates":[-71.509811,42.963551],"type":"Point"}
+}

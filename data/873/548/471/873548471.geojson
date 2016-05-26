@@ -1,0 +1,73 @@
+{
+  "id": 873548471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538919,43.141278,-71.538919,43.141278",
+    "geom:latitude":43.141278,
+    "geom:longitude":-71.538919,
+    "iso:country":"US",
+    "sg:address":"3 Bow Bog Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 6929",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TU2N3ToAqhrSsnJfNmCLi_43.141278_-71.538919@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294361,
+    "wof:geomhash":"8025a7b00f6abb4c0c4a6f413af2b41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873548471
+        }
+    ],
+    "wof:id":873548471,
+    "wof:lastmodified":1464294361,
+    "wof:name":"Bow Plumbing & Heating Corp",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.538919,
+    43.141278,
+    -71.538919,
+    43.141278
+],
+  "geometry": {"coordinates":[-71.53891900000001,43.141278],"type":"Point"}
+}

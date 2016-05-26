@@ -1,0 +1,69 @@
+{
+  "id": 873746697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870362,42.900036,-70.870362,42.900036",
+    "geom:latitude":42.900036,
+    "geom:longitude":-70.870362,
+    "iso:country":"US",
+    "sg:address":"838 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 9212",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43hRgg60MhlX7nPVLvmEXv_42.900036_-70.870362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297035,
+    "wof:geomhash":"8cdf96e68d9560e86023730faf93077d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873746697
+        }
+    ],
+    "wof:id":873746697,
+    "wof:lastmodified":1464297035,
+    "wof:name":"Market Basket",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -70.870362,
+    42.900036,
+    -70.870362,
+    42.900036
+],
+  "geometry": {"coordinates":[-70.870362,42.900036],"type":"Point"}
+}

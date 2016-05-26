@@ -1,0 +1,71 @@
+{
+  "id": 873800517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438245,43.551127,-71.438245,43.551127",
+    "geom:latitude":43.551127,
+    "geom:longitude":-71.438245,
+    "iso:country":"US",
+    "sg:address":"546 Morrill St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 1857",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OJPMcmeTySx8Wg8hN6Fil_43.551127_-71.438245@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297779,
+    "wof:geomhash":"c574e9519fc79669dd8e8ef89078d710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873800517
+        }
+    ],
+    "wof:id":873800517,
+    "wof:lastmodified":1464297779,
+    "wof:name":"Country Hill Day Care",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.438245,
+    43.551127,
+    -71.438245,
+    43.551127
+],
+  "geometry": {"coordinates":[-71.43824499999999,43.551127],"type":"Point"}
+}

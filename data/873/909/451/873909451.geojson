@@ -1,0 +1,71 @@
+{
+  "id": 873909451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394555,43.330778,-71.394555,43.330778",
+    "geom:latitude":43.330778,
+    "geom:longitude":-71.394555,
+    "iso:country":"US",
+    "sg:address":"98 Pittsfield Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 435 6232",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tlSsdfG5DwQmnnVxOm49a_43.330778_-71.394555@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300002,
+    "wof:geomhash":"975ba24e4139af584207cd204743d73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873909451
+        }
+    ],
+    "wof:id":873909451,
+    "wof:lastmodified":1464300002,
+    "wof:name":"T & M Concrete Inc",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.394555,
+    43.330778,
+    -71.394555,
+    43.330778
+],
+  "geometry": {"coordinates":[-71.394555,43.330778],"type":"Point"}
+}

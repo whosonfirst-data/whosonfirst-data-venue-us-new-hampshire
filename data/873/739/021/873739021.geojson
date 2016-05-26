@@ -1,0 +1,69 @@
+{
+  "id": 873739021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.048904,43.202496,-71.048904,43.202496",
+    "geom:latitude":43.202496,
+    "geom:longitude":-71.048904,
+    "iso:country":"US",
+    "sg:address":"5 Swain Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 8952",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6BdSp4wXpTO2yoWVPTo9_43.202496_-71.048904@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296908,
+    "wof:geomhash":"1529a2a3cc5a05ed937f8bec3cf6dadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873739021
+        }
+    ],
+    "wof:id":873739021,
+    "wof:lastmodified":1464296908,
+    "wof:name":"Mary's Beauty Shop",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.048904,
+    43.202496,
+    -71.048904,
+    43.202496
+],
+  "geometry": {"coordinates":[-71.04890399999999,43.202496],"type":"Point"}
+}

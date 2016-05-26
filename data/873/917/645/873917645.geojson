@@ -1,0 +1,72 @@
+{
+  "id": 873917645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478472,42.956032,-71.478472,42.956032",
+    "geom:latitude":42.956032,
+    "geom:longitude":-71.478472,
+    "iso:country":"US",
+    "sg:address":"95 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bedford/97552-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 8833",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WkgxwhbOiScbA2uvxLjnt_42.956032_-71.478472@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"11aac72bc729093dc0464e28ac1529eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873917645
+        }
+    ],
+    "wof:id":873917645,
+    "wof:lastmodified":1464300171,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.478472,
+    42.956032,
+    -71.478472,
+    42.956032
+],
+  "geometry": {"coordinates":[-71.478472,42.956032],"type":"Point"}
+}

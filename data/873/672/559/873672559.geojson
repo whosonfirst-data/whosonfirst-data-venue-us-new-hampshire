@@ -1,0 +1,64 @@
+{
+  "id": 873672559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.688898,43.757318,-71.688898,43.757318",
+    "geom:latitude":43.757318,
+    "geom:longitude":-71.688898,
+    "iso:country":"US",
+    "sg:address":"1 Russell St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 2616",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D2YsWBAw3Q490NujwU0gD_43.757318_-71.688898@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295826,
+    "wof:geomhash":"088b8174250e1595b993547c3080ad0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873672559
+        }
+    ],
+    "wof:id":873672559,
+    "wof:lastmodified":1464295826,
+    "wof:name":"Plymouth Public Library",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.688898,
+    43.757318,
+    -71.688898,
+    43.757318
+],
+  "geometry": {"coordinates":[-71.68889799999999,43.757318],"type":"Point"}
+}

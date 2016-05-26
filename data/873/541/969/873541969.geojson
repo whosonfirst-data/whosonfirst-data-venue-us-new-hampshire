@@ -1,0 +1,71 @@
+{
+  "id": 873541969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.149118,43.455073,-72.149118,43.455073",
+    "geom:latitude":43.455073,
+    "geom:longitude":-72.149118,
+    "iso:country":"US",
+    "sg:address":"244 Pine Hill Rd",
+    "sg:city":"Croydon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 7404",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ylFtetvtDQEsnzoZeC36v_43.455073_-72.149118@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294280,
+    "wof:geomhash":"2686ef3951aa571d623e10dc08d39c9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873541969
+        }
+    ],
+    "wof:id":873541969,
+    "wof:lastmodified":1464294280,
+    "wof:name":"Lantas Logging",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.149118,
+    43.455073,
+    -72.149118,
+    43.455073
+],
+  "geometry": {"coordinates":[-72.149118,43.455073],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873799831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45722,42.707884,-71.45722,42.707884",
+    "geom:latitude":42.707884,
+    "geom:longitude":-71.45722,
+    "iso:country":"US",
+    "sg:address":"8 Sapling Cir",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5111",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zhvld6OzycOfaSpnCFclm_42.707884_-71.457220@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297771,
+    "wof:geomhash":"b2a82e75ec73722514b343349972e0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873799831
+        }
+    ],
+    "wof:id":873799831,
+    "wof:lastmodified":1464297771,
+    "wof:name":"Heritage Cleaners",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.45722,
+    42.707884,
+    -71.45722,
+    42.707884
+],
+  "geometry": {"coordinates":[-71.45722000000001,42.707884],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873873881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493407,42.863734,-71.493407,42.863734",
+    "geom:latitude":42.863734,
+    "geom:longitude":-71.493407,
+    "iso:country":"US",
+    "sg:address":"455 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 9737",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qk2Nyds4gMLrMs2f90FHh_42.863734_-71.493407@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299313,
+    "wof:geomhash":"4958492cb5ef2e095e0e52cbff2b48f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873873881
+        }
+    ],
+    "wof:id":873873881,
+    "wof:lastmodified":1464299313,
+    "wof:name":"Classic Gas",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.493407,
+    42.863734,
+    -71.493407,
+    42.863734
+],
+  "geometry": {"coordinates":[-71.493407,42.863734],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873912337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.194564,44.397221,-71.194564,44.397221",
+    "geom:latitude":44.397221,
+    "geom:longitude":-71.194564,
+    "iso:country":"US",
+    "sg:address":"350 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5306",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WoSZoIwu0f93ap2Q4Jy3I_44.397221_-71.194564@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300056,
+    "wof:geomhash":"6bf19203e51a29d972ead2b440cef337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873912337
+        }
+    ],
+    "wof:id":873912337,
+    "wof:lastmodified":1464300056,
+    "wof:name":"Irving Oil",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.194564,
+    44.397221,
+    -71.194564,
+    44.397221
+],
+  "geometry": {"coordinates":[-71.194564,44.397221],"type":"Point"}
+}

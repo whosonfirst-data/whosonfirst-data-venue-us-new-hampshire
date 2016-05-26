@@ -1,0 +1,84 @@
+{
+  "id": 873751273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.764358,43.074045,-70.764358,43.074045",
+    "geom:latitude":43.074045,
+    "geom:longitude":-70.764358,
+    "iso:country":"US",
+    "sg:address":"202 Islington St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 4594",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892297,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mWTC9acKqPo62UeIkux4l_43.074045_-70.764358@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297091,
+    "wof:geomhash":"60f3b7d8eff130388e26365045aeeed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892297,
+            "region_id":85688689,
+            "venue_id":873751273
+        }
+    ],
+    "wof:id":873751273,
+    "wof:lastmodified":1464297091,
+    "wof:name":"A R & T Auto Repair & Towing",
+    "wof:parent_id":85892297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.764358,
+    43.074045,
+    -70.764358,
+    43.074045
+],
+  "geometry": {"coordinates":[-70.764358,43.074045],"type":"Point"}
+}

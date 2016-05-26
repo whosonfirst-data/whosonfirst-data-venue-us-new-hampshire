@@ -1,0 +1,77 @@
+{
+  "id": 873553567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.103237,43.030087,-71.103237,43.030087",
+    "geom:latitude":43.030087,
+    "geom:longitude":-71.103237,
+    "iso:country":"US",
+    "sg:address":"72 Jenness Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2905",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831729,
+        102086507,
+        85855449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A5YQOQlhMAHgz3YaYykEt_43.030087_-71.103237@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294417,
+    "wof:geomhash":"c7df4a1b7a6fa1dbb0c4afcdde808bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85831729,
+            "region_id":85688689,
+            "venue_id":873553567
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873553567
+        }
+    ],
+    "wof:id":873553567,
+    "wof:lastmodified":1464294417,
+    "wof:name":"A1 Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.103237,
+    43.030087,
+    -71.103237,
+    43.030087
+],
+  "geometry": {"coordinates":[-71.10323699999999,43.030087],"type":"Point"}
+}

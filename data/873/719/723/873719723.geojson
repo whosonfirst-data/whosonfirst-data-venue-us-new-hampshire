@@ -1,0 +1,71 @@
+{
+  "id": 873719723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.022086,42.877589,-71.022086,42.877589",
+    "geom:latitude":42.877589,
+    "geom:longitude":-71.022086,
+    "iso:country":"US",
+    "sg:address":"10 Maple Ave",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 7209",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QEBvXOoAZTbj8TwQtKlNV_42.877589_-71.022086@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296649,
+    "wof:geomhash":"77a2352130aafa71238c706de79d1915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873719723
+        }
+    ],
+    "wof:id":873719723,
+    "wof:lastmodified":1464296649,
+    "wof:name":"Groundscape",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.022086,
+    42.877589,
+    -71.022086,
+    42.877589
+],
+  "geometry": {"coordinates":[-71.022086,42.877589],"type":"Point"}
+}

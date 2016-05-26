@@ -1,0 +1,94 @@
+{
+  "id": 873925459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200249,42.744115,-71.200249,42.744115",
+    "geom:latitude":42.744115,
+    "geom:longitude":-71.200249,
+    "iso:country":"US",
+    "sg:address":"500 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6060",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "part",
+        "new",
+        "painting"
+    ],
+    "sg:website":"http://www.aleksaauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NNF7AEa99dxny5lXW0iBh_42.744115_-71.200249@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300316,
+    "wof:geomhash":"a3787c378069a84a0d45309d301cc98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873925459
+        }
+    ],
+    "wof:id":873925459,
+    "wof:lastmodified":1464300316,
+    "wof:name":"Aleksa Auto Inc",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "part",
+        "new",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.200249,
+    42.744115,
+    -71.200249,
+    42.744115
+],
+  "geometry": {"coordinates":[-71.200249,42.744115],"type":"Point"}
+}

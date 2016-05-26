@@ -1,0 +1,79 @@
+{
+  "id": 873844093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.828723,43.067328,-70.828723,43.067328",
+    "geom:latitude":43.067328,
+    "geom:longitude":-70.828723,
+    "iso:country":"US",
+    "sg:address":"51 Airport Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 611 5756",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "employed",
+        "self",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840365,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f4V7wkcnXee31hTrNP6Kq_43.067328_-70.828723@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298657,
+    "wof:geomhash":"6e46349cc83fe4511eb4e3266807faad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85840365,
+            "region_id":85688689,
+            "venue_id":873844093
+        }
+    ],
+    "wof:id":873844093,
+    "wof:lastmodified":1464298657,
+    "wof:name":"Certified Moving Storage",
+    "wof:parent_id":85840365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employed",
+        "self",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.828723,
+    43.067328,
+    -70.828723,
+    43.067328
+],
+  "geometry": {"coordinates":[-70.828723,43.067328],"type":"Point"}
+}

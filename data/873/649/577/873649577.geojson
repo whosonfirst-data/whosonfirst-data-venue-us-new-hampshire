@@ -1,0 +1,75 @@
+{
+  "id": 873649577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.948048,42.977628,-70.948048,42.977628",
+    "geom:latitude":42.977628,
+    "geom:longitude":-70.948048,
+    "iso:country":"US",
+    "sg:address":"10 Elm St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 2715",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fkgvXg6aUjQSzVoxaAk6J_42.977628_-70.948048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295582,
+    "wof:geomhash":"5241a24ce677de4cc232ec9ff996a188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873649577
+        }
+    ],
+    "wof:id":873649577,
+    "wof:lastmodified":1464295582,
+    "wof:name":"Rockingham County Comm Action",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -70.948048,
+    42.977628,
+    -70.948048,
+    42.977628
+],
+  "geometry": {"coordinates":[-70.948048,42.977628],"type":"Point"}
+}

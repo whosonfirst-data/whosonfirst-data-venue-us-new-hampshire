@@ -1,0 +1,78 @@
+{
+  "id": 873924043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481339,42.734219,-71.481339,42.734219",
+    "geom:latitude":42.734219,
+    "geom:longitude":-71.481339,
+    "iso:country":"US",
+    "sg:address":"35 Northeastern Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 879 6969",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.faa.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pB0eI6hXs1QZNlHnoa1et_42.734219_-71.481339@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300289,
+    "wof:geomhash":"586e14e1fb6a816913d802a55d60c22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873924043
+        }
+    ],
+    "wof:id":873924043,
+    "wof:lastmodified":1464300289,
+    "wof:name":"Nashua Artcc Af Facility",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -71.481339,
+    42.734219,
+    -71.481339,
+    42.734219
+],
+  "geometry": {"coordinates":[-71.48133900000001,42.734219],"type":"Point"}
+}

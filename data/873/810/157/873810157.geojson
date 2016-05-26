@@ -1,0 +1,80 @@
+{
+  "id": 873810157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.286381,43.699808,-72.286381,43.699808",
+    "geom:latitude":43.699808,
+    "geom:longitude":-72.286381,
+    "iso:country":"US",
+    "sg:address":"17 E South St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 3277",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwSZSpnGNBv2EjL2tQwjX_43.699808_-72.286381@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297929,
+    "wof:geomhash":"11510d622a96cb9d34559d075858289b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873810157
+        }
+    ],
+    "wof:id":873810157,
+    "wof:lastmodified":1464297929,
+    "wof:name":"Upper Valley Hostel Inc",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.286381,
+    43.699808,
+    -72.286381,
+    43.699808
+],
+  "geometry": {"coordinates":[-72.28638100000001,43.699808],"type":"Point"}
+}

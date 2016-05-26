@@ -1,0 +1,71 @@
+{
+  "id": 873676265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.09455,43.689012,-71.09455,43.689012",
+    "geom:latitude":43.689012,
+    "geom:longitude":-71.09455,
+    "iso:country":"US",
+    "sg:address":"845 State Rte 16",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 3644",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kOBoyjaJZuIUHmY0nrW3M_43.689012_-71.094550@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295895,
+    "wof:geomhash":"33a834c2d2c7152f22869a7f18918a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873676265
+        }
+    ],
+    "wof:id":873676265,
+    "wof:lastmodified":1464295895,
+    "wof:name":"Consolidated Auto & Marine",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.09455,
+    43.689012,
+    -71.09455,
+    43.689012
+],
+  "geometry": {"coordinates":[-71.09455,43.689012],"type":"Point"}
+}

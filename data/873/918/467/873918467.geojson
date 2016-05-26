@@ -1,0 +1,78 @@
+{
+  "id": 873918467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.787657,43.030586,-70.787657,43.030586",
+    "geom:latitude":43.030586,
+    "geom:longitude":-70.787657,
+    "iso:country":"US",
+    "sg:address":"2600 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/73554-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 7488",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uLAPg0rCy2xFHPOzcepvW_43.030586_-70.787657@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300186,
+    "wof:geomhash":"b0d75b0aa1f07559947c853f43b1c67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873918467
+        }
+    ],
+    "wof:id":873918467,
+    "wof:lastmodified":1464300186,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.787657,
+    43.030586,
+    -70.787657,
+    43.030586
+],
+  "geometry": {"coordinates":[-70.787657,43.030586],"type":"Point"}
+}

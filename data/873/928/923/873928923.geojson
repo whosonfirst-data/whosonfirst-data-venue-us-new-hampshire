@@ -1,0 +1,69 @@
+{
+  "id": 873928923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.179569,42.749085,-72.179569,42.749085",
+    "geom:latitude":42.749085,
+    "geom:longitude":-72.179569,
+    "iso:country":"US",
+    "sg:address":"296 Royalston Rd",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 9086",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66NShm84l71Duj1CZ4X5yW_42.749085_-72.179569@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300387,
+    "wof:geomhash":"df4c70693d38c0a34d627baa9e77009e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873928923
+        }
+    ],
+    "wof:id":873928923,
+    "wof:lastmodified":1464300387,
+    "wof:name":"Glenn Sillanpaa Logging",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.179569,
+    42.749085,
+    -72.179569,
+    42.749085
+],
+  "geometry": {"coordinates":[-72.179569,42.749085],"type":"Point"}
+}

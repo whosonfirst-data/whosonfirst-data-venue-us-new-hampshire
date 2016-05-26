@@ -1,0 +1,71 @@
+{
+  "id": 873794507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245949,42.807226,-71.245949,42.807226",
+    "geom:latitude":42.807226,
+    "geom:longitude":-71.245949,
+    "iso:country":"US",
+    "sg:address":"40 State Rte 28",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 1124",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64gWDhmmHb3tYznGD54NyP_42.807226_-71.245949@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297709,
+    "wof:geomhash":"3c41d5ad402d8b8fdcd4e5d520a8910c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873794507
+        }
+    ],
+    "wof:id":873794507,
+    "wof:lastmodified":1464297709,
+    "wof:name":"Wilson's Auto Svc",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.245949,
+    42.807226,
+    -71.245949,
+    42.807226
+],
+  "geometry": {"coordinates":[-71.245949,42.807226],"type":"Point"}
+}

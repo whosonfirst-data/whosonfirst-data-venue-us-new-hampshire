@@ -1,0 +1,78 @@
+{
+  "id": 873848379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.36817,42.856622,-71.36817,42.856622",
+    "geom:latitude":42.856622,
+    "geom:longitude":-71.36817,
+    "iso:country":"US",
+    "sg:address":"280 Mammoth Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 1125",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.londonderry.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526319,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zCObBr25nbwE2EAo4S9iw_42.856622_-71.368170@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298780,
+    "wof:geomhash":"85b00e884120a0cbd54c0db7a260b9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526319,
+            "region_id":85688689,
+            "venue_id":873848379
+        }
+    ],
+    "wof:id":873848379,
+    "wof:lastmodified":1464298780,
+    "wof:name":"Londonderry Fire Department",
+    "wof:parent_id":420526319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.36817,
+    42.856622,
+    -71.36817,
+    42.856622
+],
+  "geometry": {"coordinates":[-71.36817000000001,42.856622],"type":"Point"}
+}

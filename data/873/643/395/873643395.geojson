@@ -1,0 +1,71 @@
+{
+  "id": 873643395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.725881,43.037555,-71.725881,43.037555",
+    "geom:latitude":43.037555,
+    "geom:longitude":-71.725881,
+    "iso:country":"US",
+    "sg:address":"402 Old Francestown Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 4043",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S0Pdxu7xXSKqv6CHKtRb7_43.037555_-71.725881@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295519,
+    "wof:geomhash":"ed9a4d46d5cc069b9e394bb394efc93e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873643395
+        }
+    ],
+    "wof:id":873643395,
+    "wof:lastmodified":1464295519,
+    "wof:name":"Bessey Electric",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.725881,
+    43.037555,
+    -71.725881,
+    43.037555
+],
+  "geometry": {"coordinates":[-71.725881,43.037555],"type":"Point"}
+}

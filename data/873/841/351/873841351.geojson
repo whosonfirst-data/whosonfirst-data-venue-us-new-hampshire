@@ -1,0 +1,73 @@
+{
+  "id": 873841351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19249,44.42866,-71.19249,44.42866",
+    "geom:latitude":44.42866,
+    "geom:longitude":-71.19249,
+    "iso:country":"US",
+    "sg:address":"575 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2612",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Slx3NFT3YQmqYsY7moR1t_44.428660_-71.192490@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298583,
+    "wof:geomhash":"a02c6a760d17e5339ce34ba62b44eb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873841351
+        }
+    ],
+    "wof:id":873841351,
+    "wof:lastmodified":1464298583,
+    "wof:name":"Echostar Satellite LLC",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.19249,
+    44.42866,
+    -71.19249,
+    44.42866
+],
+  "geometry": {"coordinates":[-71.19249000000001,44.42866],"type":"Point"}
+}

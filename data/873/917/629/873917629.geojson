@@ -1,0 +1,70 @@
+{
+  "id": 873917629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47201,42.94255,-71.47201,42.94255",
+    "geom:latitude":42.94255,
+    "geom:longitude":-71.47201,
+    "iso:country":"US",
+    "sg:address":"220 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bedford/125102-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 263 0061",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45imKcohBlViIZwK9oltzb_42.942550_-71.472010@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"bc3cd6aad30b85bab671acfbbdfc8e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873917629
+        }
+    ],
+    "wof:id":873917629,
+    "wof:lastmodified":1464300171,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.47201,
+    42.94255,
+    -71.47201,
+    42.94255
+],
+  "geometry": {"coordinates":[-71.47201,42.94255],"type":"Point"}
+}

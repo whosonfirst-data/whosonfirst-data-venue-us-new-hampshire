@@ -1,0 +1,89 @@
+{
+  "id": 873744359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408951,43.578336,-71.408951,43.578336",
+    "geom:latitude":43.578336,
+    "geom:longitude":-71.408951,
+    "iso:country":"US",
+    "sg:address":"34 Meadowbrook Ln",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 2500",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "outboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AZdDPdJnJu7pBukIxtyjI_43.578336_-71.408951@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297000,
+    "wof:geomhash":"01b4c31c773db493c0385a29654e858e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873744359
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873744359
+        }
+    ],
+    "wof:id":873744359,
+    "wof:lastmodified":1464297000,
+    "wof:name":"New Hampshire Mobil Marine Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "outboard"
+    ]
+},
+  "bbox": [
+    -71.408951,
+    43.578336,
+    -71.408951,
+    43.578336
+],
+  "geometry": {"coordinates":[-71.408951,43.578336],"type":"Point"}
+}

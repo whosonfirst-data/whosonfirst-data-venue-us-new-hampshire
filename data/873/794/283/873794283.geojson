@@ -1,0 +1,69 @@
+{
+  "id": 873794283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43765,43.214093,-71.43765,43.214093",
+    "geom:latitude":43.214093,
+    "geom:longitude":-71.43765,
+    "iso:country":"US",
+    "sg:address":"801 Plausawa Hill Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 0057",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TZ5LBMXIp4g2Xf31BGHJC_43.214093_-71.437650@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297706,
+    "wof:geomhash":"fd780c952d12bd8ca3846030adfb9fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873794283
+        }
+    ],
+    "wof:id":873794283,
+    "wof:lastmodified":1464297706,
+    "wof:name":"N H Granite",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.43765,
+    43.214093,
+    -71.43765,
+    43.214093
+],
+  "geometry": {"coordinates":[-71.43765,43.214093],"type":"Point"}
+}

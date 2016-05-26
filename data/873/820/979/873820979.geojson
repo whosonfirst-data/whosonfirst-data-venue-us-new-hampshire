@@ -1,0 +1,71 @@
+{
+  "id": 873820979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.382676,43.252303,-72.382676,43.252303",
+    "geom:latitude":43.252303,
+    "geom:longitude":-72.382676,
+    "iso:country":"US",
+    "sg:address":"80 N Hemlock Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 835 6015",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KVklretliVEpPEjuaTr4O_43.252303_-72.382676@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298137,
+    "wof:geomhash":"b4596b76e8c9078d9b66850d1bf986f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873820979
+        }
+    ],
+    "wof:id":873820979,
+    "wof:lastmodified":1464298137,
+    "wof:name":"WHM Industries Inc",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -72.382676,
+    43.252303,
+    -72.382676,
+    43.252303
+],
+  "geometry": {"coordinates":[-72.382676,43.252303],"type":"Point"}
+}

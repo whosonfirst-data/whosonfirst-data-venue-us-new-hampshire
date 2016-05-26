@@ -1,0 +1,71 @@
+{
+  "id": 873928775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463799,43.288399,-71.463799,43.288399",
+    "geom:latitude":43.288399,
+    "geom:longitude":-71.463799,
+    "iso:country":"US",
+    "sg:address":"RR 106",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4752",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WtfHkdX7wKVt6oiD2W0OD_43.288399_-71.463799@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300384,
+    "wof:geomhash":"9a1000aceb1e8f2030f75782dc72d8d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873928775
+        }
+    ],
+    "wof:id":873928775,
+    "wof:lastmodified":1464300384,
+    "wof:name":"Lane's Garage & Auto Body",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.463799,
+    43.288399,
+    -71.463799,
+    43.288399
+],
+  "geometry": {"coordinates":[-71.46379899999999,43.288399],"type":"Point"}
+}

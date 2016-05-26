@@ -1,0 +1,71 @@
+{
+  "id": 873815835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.22128,42.848883,-71.22128,42.848883",
+    "geom:latitude":42.848883,
+    "geom:longitude":-71.22128,
+    "iso:country":"US",
+    "sg:address":"553 State Rte 111",
+    "sg:city":"Hampstead",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 329 4481",
+    "sg:postcode":"03841",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boat",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L3YcNcaXugsgrftA0UXqF_42.848883_-71.221280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298030,
+    "wof:geomhash":"fdda86654a9bb5ffcf87f7058a497a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873815835
+        }
+    ],
+    "wof:id":873815835,
+    "wof:lastmodified":1464298030,
+    "wof:name":"Rockingham Boat Repair & Sales",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -71.22128,
+    42.848883,
+    -71.22128,
+    42.848883
+],
+  "geometry": {"coordinates":[-71.22127999999999,42.848883],"type":"Point"}
+}

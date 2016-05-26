@@ -1,0 +1,71 @@
+{
+  "id": 873725503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.616607,42.888269,-71.616607,42.888269",
+    "geom:latitude":42.888269,
+    "geom:longitude":-71.616607,
+    "iso:country":"US",
+    "sg:address":"56 Dodge Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0093",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cXQHWhqKozMr5MExs7Drx_42.888269_-71.616607@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296718,
+    "wof:geomhash":"93f88742e977d5b83cd172d4104c8191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873725503
+        }
+    ],
+    "wof:id":873725503,
+    "wof:lastmodified":1464296718,
+    "wof:name":"Syscro Consulting Inc",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -71.616607,
+    42.888269,
+    -71.616607,
+    42.888269
+],
+  "geometry": {"coordinates":[-71.616607,42.888269],"type":"Point"}
+}

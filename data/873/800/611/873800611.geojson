@@ -1,0 +1,71 @@
+{
+  "id": 873800611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.03408,42.9913,-71.03408,42.9913",
+    "geom:latitude":42.9913,
+    "geom:longitude":-71.03408,
+    "iso:country":"US",
+    "sg:address":"162 Middle Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 0849",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32aooXy8cxBZg3EnH41zhj_42.991300_-71.034080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297780,
+    "wof:geomhash":"a9e98fa77b9eea0c6b049a5586ce55a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873800611
+        }
+    ],
+    "wof:id":873800611,
+    "wof:lastmodified":1464297780,
+    "wof:name":"Middle Road Farm of Brent",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.03408,
+    42.9913,
+    -71.03408,
+    42.9913
+],
+  "geometry": {"coordinates":[-71.03408,42.9913],"type":"Point"}
+}

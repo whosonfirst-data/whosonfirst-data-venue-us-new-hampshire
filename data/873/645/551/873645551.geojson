@@ -1,0 +1,86 @@
+{
+  "id": 873645551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4306,42.738198,-71.4306,42.738198",
+    "geom:latitude":42.738198,
+    "geom:longitude":-71.4306,
+    "iso:country":"US",
+    "sg:address":"37 Executive Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 7790",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "molded",
+        "mfg",
+        "finished",
+        "injection",
+        "mold"
+    ],
+    "sg:website":"www.wkhillquist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rcrPPWPtaeQdKepV5ZocS_42.738198_-71.430600@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295541,
+    "wof:geomhash":"f4cac47a8246fa0b2af49f2e4527ccbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873645551
+        }
+    ],
+    "wof:id":873645551,
+    "wof:lastmodified":1464295541,
+    "wof:name":"W K Hillquist Inc",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "molded",
+        "mfg",
+        "finished",
+        "injection",
+        "mold"
+    ]
+},
+  "bbox": [
+    -71.4306,
+    42.738198,
+    -71.4306,
+    42.738198
+],
+  "geometry": {"coordinates":[-71.4306,42.738198],"type":"Point"}
+}

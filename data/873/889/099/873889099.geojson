@@ -1,0 +1,81 @@
+{
+  "id": 873889099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57875,43.257109,-71.57875,43.257109",
+    "geom:latitude":43.257109,
+    "geom:longitude":-71.57875,
+    "iso:country":"US",
+    "sg:address":"99 Fisherville Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 3311",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "management",
+        "company",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XbHZiCnt6oTsBAJM8Kf73_43.257109_-71.578750@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299610,
+    "wof:geomhash":"2bd4f02fbbb08502d2e8eab34a636016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873889099
+        }
+    ],
+    "wof:id":873889099,
+    "wof:lastmodified":1464299610,
+    "wof:name":"Keystone Shop",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "management",
+        "company",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.57875,
+    43.257109,
+    -71.57875,
+    43.257109
+],
+  "geometry": {"coordinates":[-71.57875,43.257109],"type":"Point"}
+}

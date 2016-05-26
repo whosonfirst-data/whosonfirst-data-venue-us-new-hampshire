@@ -1,0 +1,71 @@
+{
+  "id": 873627117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519925,43.446048,-71.519925,43.446048",
+    "geom:latitude":43.446048,
+    "geom:longitude":-71.519925,
+    "iso:country":"US",
+    "sg:address":"427 Depot St",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 267 7920",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821087,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ssFdKmPFfqslZKp1SIxEs_43.446048_-71.519925@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295331,
+    "wof:geomhash":"3744a22a92674192acd4171678563aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821087,
+            "region_id":85688689,
+            "venue_id":873627117
+        }
+    ],
+    "wof:id":873627117,
+    "wof:lastmodified":1464295331,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85821087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.519925,
+    43.446048,
+    -71.519925,
+    43.446048
+],
+  "geometry": {"coordinates":[-71.519925,43.446048],"type":"Point"}
+}

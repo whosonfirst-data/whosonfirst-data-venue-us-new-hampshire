@@ -1,0 +1,71 @@
+{
+  "id": 873783749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.884123,43.215447,-70.884123,43.215447",
+    "geom:latitude":43.215447,
+    "geom:longitude":-70.884123,
+    "iso:country":"US",
+    "sg:address":"4 Smith Well Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 8453",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dGCDdMBRDpc4YLDnCZhWx_43.215447_-70.884123@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297540,
+    "wof:geomhash":"ea6e9af86d0b65f1b027e424dcec6887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873783749
+        }
+    ],
+    "wof:id":873783749,
+    "wof:lastmodified":1464297540,
+    "wof:name":"A & R Builders",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.884123,
+    43.215447,
+    -70.884123,
+    43.215447
+],
+  "geometry": {"coordinates":[-70.884123,43.215447],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873927771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191146,43.210941,-71.191146,43.210941",
+    "geom:latitude":43.210941,
+    "geom:longitude":-71.191146,
+    "iso:country":"US",
+    "sg:address":"758 1st NH Turnpike Route 4",
+    "sg:city":"Rockingham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8999",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "chinese",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EI2GQu3fave1FIp49kRJP_43.210941_-71.191146@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300360,
+    "wof:geomhash":"e8af730cbce4faaea67360450678563c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873927771
+        }
+    ],
+    "wof:id":873927771,
+    "wof:lastmodified":1464300360,
+    "wof:name":"Jade Imperial",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "chinese",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.191146,
+    43.210941,
+    -71.191146,
+    43.210941
+],
+  "geometry": {"coordinates":[-71.191146,43.210941],"type":"Point"}
+}

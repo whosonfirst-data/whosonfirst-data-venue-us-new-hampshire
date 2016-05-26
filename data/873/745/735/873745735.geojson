@@ -1,0 +1,71 @@
+{
+  "id": 873745735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.058335,43.498589,-72.058335,43.498589",
+    "geom:latitude":43.498589,
+    "geom:longitude":-72.058335,
+    "iso:country":"US",
+    "sg:address":"484 Main St",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 523 7309",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BuaKWly2qPXhePuU1AfBX_43.498589_-72.058335@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297022,
+    "wof:geomhash":"ae7ecd1be7443f6b5264607a03809219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873745735
+        }
+    ],
+    "wof:id":873745735,
+    "wof:lastmodified":1464297022,
+    "wof:name":"Grafton Country Store",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.058335,
+    43.498589,
+    -72.058335,
+    43.498589
+],
+  "geometry": {"coordinates":[-72.058335,43.498589],"type":"Point"}
+}

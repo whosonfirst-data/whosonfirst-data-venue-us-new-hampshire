@@ -1,0 +1,71 @@
+{
+  "id": 873906773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.610401,43.266102,-71.610401,43.266102",
+    "geom:latitude":43.266102,
+    "geom:longitude":-71.610401,
+    "iso:country":"US",
+    "sg:address":"18 River Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4146",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZV9kCwwxUSnFd3Qr1aqmn_43.266102_-71.610401@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299954,
+    "wof:geomhash":"d226f0a32f18694c2956159419196e05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873906773
+        }
+    ],
+    "wof:id":873906773,
+    "wof:lastmodified":1464299954,
+    "wof:name":"Michael P Houghton",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.610401,
+    43.266102,
+    -71.610401,
+    43.266102
+],
+  "geometry": {"coordinates":[-71.610401,43.266102],"type":"Point"}
+}

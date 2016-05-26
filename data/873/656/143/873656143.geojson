@@ -1,0 +1,71 @@
+{
+  "id": 873656143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39666,43.569372,-71.39666,43.569372",
+    "geom:latitude":43.569372,
+    "geom:longitude":-71.39666,
+    "iso:country":"US",
+    "sg:address":"229 Intervale Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 8847",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GKHGxj6COfM0WhjH0UXzX_43.569372_-71.396660@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295658,
+    "wof:geomhash":"2158286116ab54a6854cb9103106340a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873656143
+        }
+    ],
+    "wof:id":873656143,
+    "wof:lastmodified":1464295658,
+    "wof:name":"Dave's Motorboat Shoppe",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.39666,
+    43.569372,
+    -71.39666,
+    43.569372
+],
+  "geometry": {"coordinates":[-71.39666,43.569372],"type":"Point"}
+}

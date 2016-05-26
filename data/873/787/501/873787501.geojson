@@ -1,0 +1,71 @@
+{
+  "id": 873787501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.56554,42.717745,-71.56554,42.717745",
+    "geom:latitude":42.717745,
+    "geom:longitude":-71.56554,
+    "iso:country":"US",
+    "sg:address":"49 Jewett Ln",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 6669",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWQCwT7gQ7pp6kEJgIzQO_42.717745_-71.565540@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297602,
+    "wof:geomhash":"9e647560a8ba69361ab981dd7d71d4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873787501
+        }
+    ],
+    "wof:id":873787501,
+    "wof:lastmodified":1464297602,
+    "wof:name":"Gateway Homes LLC",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.56554,
+    42.717745,
+    -71.56554,
+    42.717745
+],
+  "geometry": {"coordinates":[-71.56554,42.717745],"type":"Point"}
+}

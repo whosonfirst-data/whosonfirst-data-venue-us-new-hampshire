@@ -1,0 +1,93 @@
+{
+  "id": 873921019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541496,42.718899,-71.541496,42.718899",
+    "geom:latitude":42.718899,
+    "geom:longitude":-71.541496,
+    "iso:country":"US",
+    "sg:address":"5 Overlook Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2909",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "courses-private",
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ],
+    "sg:website":"http://www.overlookgolfclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C60g8BWlS8CLFZKnyp0Mt_42.718899_-71.541496@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300228,
+    "wof:geomhash":"7c92f83a4a059e3f1a21f4d853b2ded7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873921019
+        }
+    ],
+    "wof:id":873921019,
+    "wof:lastmodified":1464300228,
+    "wof:name":"Overlook Golf Club",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courses-private",
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.541496,
+    42.718899,
+    -71.541496,
+    42.718899
+],
+  "geometry": {"coordinates":[-71.541496,42.718899],"type":"Point"}
+}

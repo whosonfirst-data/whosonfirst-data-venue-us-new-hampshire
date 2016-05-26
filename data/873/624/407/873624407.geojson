@@ -1,0 +1,75 @@
+{
+  "id": 873624407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.963405,42.979707,-70.963405,42.979707",
+    "geom:latitude":42.979707,
+    "geom:longitude":-70.963405,
+    "iso:country":"US",
+    "sg:address":"172 Front St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 580 1277",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YHBGkPCSzKQxOxScGaOSa_42.979707_-70.963405@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295304,
+    "wof:geomhash":"67281456c3bef200b48395ad7cecdd83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873624407
+        }
+    ],
+    "wof:id":873624407,
+    "wof:lastmodified":1464295304,
+    "wof:name":"Sky Maintenance",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -70.963405,
+    42.979707,
+    -70.963405,
+    42.979707
+],
+  "geometry": {"coordinates":[-70.96340499999999,42.979707],"type":"Point"}
+}

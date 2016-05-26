@@ -1,0 +1,71 @@
+{
+  "id": 873803923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581829,43.328287,-71.581829,43.328287",
+    "geom:latitude":43.328287,
+    "geom:longitude":-71.581829,
+    "iso:country":"US",
+    "sg:address":"47 Cogswell Hill Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4004",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Uha5r8FhWHf90Zh4DvvtW_43.328287_-71.581829@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297821,
+    "wof:geomhash":"0c5b61783c7a56a2c19232b23f914eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873803923
+        }
+    ],
+    "wof:id":873803923,
+    "wof:lastmodified":1464297821,
+    "wof:name":"Ashworth Carpentry",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.581829,
+    43.328287,
+    -71.581829,
+    43.328287
+],
+  "geometry": {"coordinates":[-71.581829,43.328287],"type":"Point"}
+}

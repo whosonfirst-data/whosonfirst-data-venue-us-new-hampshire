@@ -1,0 +1,71 @@
+{
+  "id": 873786943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.226522,44.388548,-71.226522,44.388548",
+    "geom:latitude":44.388548,
+    "geom:longitude":-71.226522,
+    "iso:country":"US",
+    "sg:address":"41 Presidential Hwy",
+    "sg:city":"Colebrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 237 8262",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "butler",
+        "maid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WGfJKdJWCSMU7w3iNNW42_44.388548_-71.226522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297589,
+    "wof:geomhash":"5388e308ff47207dea33e1cd0b5cfe35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873786943
+        }
+    ],
+    "wof:id":873786943,
+    "wof:lastmodified":1464297589,
+    "wof:name":"Maid To Order",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butler",
+        "maid"
+    ]
+},
+  "bbox": [
+    -71.226522,
+    44.388548,
+    -71.226522,
+    44.388548
+],
+  "geometry": {"coordinates":[-71.226522,44.388548],"type":"Point"}
+}

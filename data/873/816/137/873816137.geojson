@@ -1,0 +1,71 @@
+{
+  "id": 873816137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.176508,43.612868,-71.176508,43.612868",
+    "geom:latitude":43.612868,
+    "geom:longitude":-71.176508,
+    "iso:country":"US",
+    "sg:address":"601 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4442",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TB5ZVt3Wbbrwe5JuYbI7w_43.612868_-71.176508@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298037,
+    "wof:geomhash":"2038b64932db81b2fcb7a30f93837e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873816137
+        }
+    ],
+    "wof:id":873816137,
+    "wof:lastmodified":1464298037,
+    "wof:name":"Wolfeboro Storage Ctr",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.176508,
+    43.612868,
+    -71.176508,
+    43.612868
+],
+  "geometry": {"coordinates":[-71.176508,43.612868],"type":"Point"}
+}

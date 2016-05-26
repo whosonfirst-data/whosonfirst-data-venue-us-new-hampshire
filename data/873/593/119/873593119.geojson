@@ -1,0 +1,81 @@
+{
+  "id": 873593119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.333174,43.37669,-72.333174,43.37669",
+    "geom:latitude":43.37669,
+    "geom:longitude":-72.333174,
+    "iso:country":"US",
+    "sg:address":"5 Winter St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 3628",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vYOuVIh2mqbtdMySRQHHW_43.376690_-72.333174@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294869,
+    "wof:geomhash":"989f91bada80d31c7c290505a4e809b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873593119
+        }
+    ],
+    "wof:id":873593119,
+    "wof:lastmodified":1464294869,
+    "wof:name":"Silver Maples",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "operator"
+    ]
+},
+  "bbox": [
+    -72.333174,
+    43.37669,
+    -72.333174,
+    43.37669
+],
+  "geometry": {"coordinates":[-72.333174,43.37669],"type":"Point"}
+}

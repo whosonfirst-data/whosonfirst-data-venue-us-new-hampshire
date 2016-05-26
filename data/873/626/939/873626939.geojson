@@ -1,0 +1,73 @@
+{
+  "id": 873626939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.120334,42.819203,-71.120334,42.819203",
+    "geom:latitude":42.819203,
+    "geom:longitude":-71.120334,
+    "iso:country":"US",
+    "sg:address":"8 Lewis Ln",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 6278",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oKFbFRMXIMsAhFXHYWLXj_42.819203_-71.120334@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295329,
+    "wof:geomhash":"ba33d252048f3c7daed4fb848531f51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873626939
+        }
+    ],
+    "wof:id":873626939,
+    "wof:lastmodified":1464295329,
+    "wof:name":"Looking Glass Flooring",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.120334,
+    42.819203,
+    -71.120334,
+    42.819203
+],
+  "geometry": {"coordinates":[-71.120334,42.819203],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873871557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27257,43.137221,-71.27257,43.137221",
+    "geom:latitude":43.137221,
+    "geom:longitude":-71.27257,
+    "iso:country":"US",
+    "sg:address":"44 Haynes Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7396",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_363lEs5QXdU2btuAqo5wbK_43.137221_-71.272570@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299266,
+    "wof:geomhash":"363311368a0ba4a02c208935fbf58185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873871557
+        }
+    ],
+    "wof:id":873871557,
+    "wof:lastmodified":1464299266,
+    "wof:name":"Bailey Concrete Construction",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.27257,
+    43.137221,
+    -71.27257,
+    43.137221
+],
+  "geometry": {"coordinates":[-71.27257,43.137221],"type":"Point"}
+}

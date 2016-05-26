@@ -1,0 +1,70 @@
+{
+  "id": 873814613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261062,42.774449,-71.261062,42.774449",
+    "geom:latitude":42.774449,
+    "geom:longitude":-71.261062,
+    "iso:country":"US",
+    "sg:address":"17 Northwestern Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 4600",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gas"
+    ],
+    "sg:website":"www.airgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jVSdrQrkxHqDwzEiQ5Nnx_42.774449_-71.261062@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298007,
+    "wof:geomhash":"5bd566499912e79a611e87addaf811a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873814613
+        }
+    ],
+    "wof:id":873814613,
+    "wof:lastmodified":1464298007,
+    "wof:name":"Airgas East",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -71.261062,
+    42.774449,
+    -71.261062,
+    42.774449
+],
+  "geometry": {"coordinates":[-71.261062,42.774449],"type":"Point"}
+}

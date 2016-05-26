@@ -1,0 +1,84 @@
+{
+  "id": 873738541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.318227,42.95321,-72.318227,42.95321",
+    "geom:latitude":42.95321,
+    "geom:longitude":-72.318227,
+    "iso:country":"US",
+    "sg:address":"105 Maple Ave",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 5959",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mZuLD1NGSc2zrKpFLLjwj_42.953210_-72.318227@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296903,
+    "wof:geomhash":"ef4c70cea009cfab0f21e4771cea5122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873738541
+        }
+    ],
+    "wof:id":873738541,
+    "wof:lastmodified":1464296903,
+    "wof:name":"Maple Avenue Nursery School",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -72.318227,
+    42.95321,
+    -72.318227,
+    42.95321
+],
+  "geometry": {"coordinates":[-72.31822699999999,42.95321],"type":"Point"}
+}

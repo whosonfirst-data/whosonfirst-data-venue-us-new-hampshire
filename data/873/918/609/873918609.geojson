@@ -1,0 +1,78 @@
+{
+  "id": 873918609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.929988,42.990742,-70.929988,42.990742",
+    "geom:latitude":42.990742,
+    "geom:longitude":-70.929988,
+    "iso:country":"US",
+    "sg:address":"148 Portsmouth Ave",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/exeter/194470-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 8919",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l2kz6iKBfrDLhjAuEKpuY_42.990742_-70.929988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300188,
+    "wof:geomhash":"f5df20fd5fc75035a9ed64abc9a5d370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873918609
+        }
+    ],
+    "wof:id":873918609,
+    "wof:lastmodified":1464300188,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.929988,
+    42.990742,
+    -70.929988,
+    42.990742
+],
+  "geometry": {"coordinates":[-70.92998799999999,42.990742],"type":"Point"}
+}

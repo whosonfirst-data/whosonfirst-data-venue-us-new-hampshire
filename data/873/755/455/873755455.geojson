@@ -1,0 +1,71 @@
+{
+  "id": 873755455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.657208,43.43892,-71.657208,43.43892",
+    "geom:latitude":43.43892,
+    "geom:longitude":-71.657208,
+    "iso:country":"US",
+    "sg:address":"150 S Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 6225",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6afGuiJWBHLmztqKyRJ0wc_43.438920_-71.657208@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297150,
+    "wof:geomhash":"379c4dd85a5d65ec6f6d3e24f628cfb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873755455
+        }
+    ],
+    "wof:id":873755455,
+    "wof:lastmodified":1464297150,
+    "wof:name":"Rivers Edge Service Ctr",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.657208,
+    43.43892,
+    -71.657208,
+    43.43892
+],
+  "geometry": {"coordinates":[-71.657208,43.43892],"type":"Point"}
+}

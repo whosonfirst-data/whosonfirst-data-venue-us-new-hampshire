@@ -1,0 +1,69 @@
+{
+  "id": 873805355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.005747,42.977348,-71.005747,42.977348",
+    "geom:latitude":42.977348,
+    "geom:longitude":-71.005747,
+    "iso:country":"US",
+    "sg:address":"160 Rowell Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 6033",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fXIn9cjUpXItNItrRJTrl_42.977348_-71.005747@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297840,
+    "wof:geomhash":"5cf8f234290436427f34ff5d5e2c9df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873805355
+        }
+    ],
+    "wof:id":873805355,
+    "wof:lastmodified":1464297840,
+    "wof:name":"C-Vs & S Septic Svc",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.005747,
+    42.977348,
+    -71.005747,
+    42.977348
+],
+  "geometry": {"coordinates":[-71.005747,42.977348],"type":"Point"}
+}

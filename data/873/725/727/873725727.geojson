@@ -1,0 +1,76 @@
+{
+  "id": 873725727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215629,43.58482,-71.215629,43.58482",
+    "geom:latitude":43.58482,
+    "geom:longitude":-71.215629,
+    "iso:country":"US",
+    "sg:address":"60 S Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4755",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.huntersiga.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lte082BAjyjeXO5ELmb3Q_43.584820_-71.215629@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296721,
+    "wof:geomhash":"dd3d96361537f3865725ff870f01dcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873725727
+        }
+    ],
+    "wof:id":873725727,
+    "wof:lastmodified":1464296721,
+    "wof:name":"Hunters IGA Foodstore",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.215629,
+    43.58482,
+    -71.215629,
+    43.58482
+],
+  "geometry": {"coordinates":[-71.21562900000001,43.58482],"type":"Point"}
+}

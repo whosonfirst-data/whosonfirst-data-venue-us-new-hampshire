@@ -1,0 +1,73 @@
+{
+  "id": 873679049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420012,43.518368,-71.420012,43.518368",
+    "geom:latitude":43.518368,
+    "geom:longitude":-71.420012,
+    "iso:country":"US",
+    "sg:address":"11 Swain Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4256",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZPeLBvxp1lgnwQuptLR6Z_43.518368_-71.420012@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295968,
+    "wof:geomhash":"c09266b68032a912f686291698d93e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873679049
+        }
+    ],
+    "wof:id":873679049,
+    "wof:lastmodified":1464295968,
+    "wof:name":"ABC Mechanical Works",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.420012,
+    43.518368,
+    -71.420012,
+    43.518368
+],
+  "geometry": {"coordinates":[-71.420012,43.518368],"type":"Point"}
+}

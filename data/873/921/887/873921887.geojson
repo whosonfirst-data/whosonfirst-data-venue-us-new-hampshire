@@ -1,0 +1,82 @@
+{
+  "id": 873921887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.360611,42.84988,-71.360611,42.84988",
+    "geom:latitude":42.84988,
+    "geom:longitude":-71.360611,
+    "iso:country":"US",
+    "sg:address":"27 Buttrick Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 9463",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "broker",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526319,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kAkANBrvJj8J7Ufxt7b1Z_42.849880_-71.360611@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300250,
+    "wof:geomhash":"67babace2c2b1577268584c7cdd66dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526319,
+            "region_id":85688689,
+            "venue_id":873921887
+        }
+    ],
+    "wof:id":873921887,
+    "wof:lastmodified":1464300250,
+    "wof:name":"Wine Studio",
+    "wof:parent_id":420526319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.360611,
+    42.84988,
+    -71.360611,
+    42.84988
+],
+  "geometry": {"coordinates":[-71.36061100000001,42.84988],"type":"Point"}
+}

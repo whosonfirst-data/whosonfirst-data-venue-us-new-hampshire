@@ -1,0 +1,75 @@
+{
+  "id": 873832319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575769,44.497542,-71.575769,44.497542",
+    "geom:latitude":44.497542,
+    "geom:longitude":-71.575769,
+    "iso:country":"US",
+    "sg:address":"115 N Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 838 5998",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EyhB31dnjP1m4S27n7qX3_44.497542_-71.575769@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298384,
+    "wof:geomhash":"2ea5cd9149ba5051f401c9c2abee3363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873832319
+        }
+    ],
+    "wof:id":873832319,
+    "wof:lastmodified":1464298384,
+    "wof:name":"Derosia's Auto Body",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.575769,
+    44.497542,
+    -71.575769,
+    44.497542
+],
+  "geometry": {"coordinates":[-71.57576899999999,44.497542],"type":"Point"}
+}

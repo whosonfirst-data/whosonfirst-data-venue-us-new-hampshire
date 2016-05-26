@@ -1,0 +1,71 @@
+{
+  "id": 873637221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209982,43.34879,-71.209982,43.34879",
+    "geom:latitude":43.34879,
+    "geom:longitude":-71.209982,
+    "iso:country":"US",
+    "sg:address":"297 Holmes Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 269 7891",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mOvBTQ2dsMaTic0rJykji_43.348790_-71.209982@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295447,
+    "wof:geomhash":"f8d712ac185c3cc29fdbeb7e544c33af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873637221
+        }
+    ],
+    "wof:id":873637221,
+    "wof:lastmodified":1464295447,
+    "wof:name":"Body Connection",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -71.209982,
+    43.34879,
+    -71.209982,
+    43.34879
+],
+  "geometry": {"coordinates":[-71.209982,43.34879],"type":"Point"}
+}

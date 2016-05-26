@@ -1,0 +1,84 @@
+{
+  "id": 873914537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.798828,43.055793,-70.798828,43.055793",
+    "geom:latitude":43.055793,
+    "geom:longitude":-70.798828,
+    "iso:country":"US",
+    "sg:address":"155 Griffin Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 6011",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gynecology",
+        "physician",
+        "surgeon",
+        "surgeons",
+        "obstetrics"
+    ],
+    "sg:website":"http://www.harbourwomenshealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NrrtNXqLftVPkyVUvtQMS_43.056214_-70.798840@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300098,
+    "wof:geomhash":"bd56747e5f75622133113baea34a3378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873914537
+        }
+    ],
+    "wof:id":873914537,
+    "wof:lastmodified":1464300098,
+    "wof:name":"Harbour Women's Health",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gynecology",
+        "physician",
+        "surgeon",
+        "surgeons",
+        "obstetrics"
+    ]
+},
+  "bbox": [
+    -70.798828,
+    43.055793,
+    -70.798828,
+    43.055793
+],
+  "geometry": {"coordinates":[-70.798828,43.055793],"type":"Point"}
+}

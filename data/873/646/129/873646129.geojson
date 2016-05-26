@@ -1,0 +1,71 @@
+{
+  "id": 873646129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019914,42.81352,-72.019914,42.81352",
+    "geom:latitude":42.81352,
+    "geom:longitude":-72.019914,
+    "iso:country":"US",
+    "sg:address":"35 Turnpike Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7986",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trader",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ei8CJwlz5z7OsGAbWAL6u_42.813520_-72.019914@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295548,
+    "wof:geomhash":"5f390043041b31c420703a1d4efd6622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873646129
+        }
+    ],
+    "wof:id":873646129,
+    "wof:lastmodified":1464295548,
+    "wof:name":"Panos International Trading",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trader",
+        "commodity"
+    ]
+},
+  "bbox": [
+    -72.019914,
+    42.81352,
+    -72.019914,
+    42.81352
+],
+  "geometry": {"coordinates":[-72.019914,42.81352],"type":"Point"}
+}

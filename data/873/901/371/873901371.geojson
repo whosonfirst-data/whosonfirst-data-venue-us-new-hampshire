@@ -1,0 +1,70 @@
+{
+  "id": 873901371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97408,43.306665,-70.97408,43.306665",
+    "geom:latitude":43.306665,
+    "geom:longitude":-70.97408,
+    "iso:country":"US",
+    "sg:address":"26 Signal St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 2460",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D6LJ9zVeARQPEBzGEsd5u_43.306665_-70.974080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299845,
+    "wof:geomhash":"deeb8fbe68b8db43964c4f28003634fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873901371
+        }
+    ],
+    "wof:id":873901371,
+    "wof:lastmodified":1464299845,
+    "wof:name":"Signal Street Variety Store",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.97408,
+    43.306665,
+    -70.97408,
+    43.306665
+],
+  "geometry": {"coordinates":[-70.97408,43.306665],"type":"Point"}
+}

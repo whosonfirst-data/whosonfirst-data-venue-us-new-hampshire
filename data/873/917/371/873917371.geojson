@@ -1,0 +1,72 @@
+{
+  "id": 873917371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453327,42.938358,-71.453327,42.938358",
+    "geom:latitude":42.938358,
+    "geom:longitude":-71.453327,
+    "iso:country":"US",
+    "sg:address":"2626 Brown Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39689-simons-roast-beef/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 2900",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v5WSxanmDzWA0ABztvipl_42.938358_-71.453327@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300164,
+    "wof:geomhash":"26c5a10a3be6f207f8ca5efdb97f52ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873917371
+        }
+    ],
+    "wof:id":873917371,
+    "wof:lastmodified":1464300164,
+    "wof:name":"Simon's Roast Beef",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.453327,
+    42.938358,
+    -71.453327,
+    42.938358
+],
+  "geometry": {"coordinates":[-71.453327,42.938358],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873604163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.178962,44.38941,-71.178962,44.38941",
+    "geom:latitude":44.38941,
+    "geom:longitude":-71.178962,
+    "iso:country":"US",
+    "sg:address":"133 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5204",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o1ODHpjxu9g0uDHnHgui3_44.389410_-71.178962@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295031,
+    "wof:geomhash":"dd3f75513aa81fbbf851412faf86453d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873604163
+        }
+    ],
+    "wof:id":873604163,
+    "wof:lastmodified":1464295031,
+    "wof:name":"Scoggins General Store",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.178962,
+    44.38941,
+    -71.178962,
+    44.38941
+],
+  "geometry": {"coordinates":[-71.178962,44.38941],"type":"Point"}
+}

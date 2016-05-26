@@ -1,0 +1,80 @@
+{
+  "id": 873540857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.793669,44.30085,-71.793669,44.30085",
+    "geom:latitude":44.30085,
+    "geom:longitude":-71.793669,
+    "iso:country":"US",
+    "sg:address":"150 Burndy Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 6781",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "wiring",
+        "devices",
+        "connector",
+        "conductive",
+        "electronic"
+    ],
+    "sg:website":"www.fciconnect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fOvOQgQXETQOCWv4blkrO_44.300850_-71.793669@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294268,
+    "wof:geomhash":"0e9cc6af8740547d8ccf868f0ad6a839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873540857
+        }
+    ],
+    "wof:id":873540857,
+    "wof:lastmodified":1464294268,
+    "wof:name":"FCI USA Inc",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wiring",
+        "devices",
+        "connector",
+        "conductive",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -71.793669,
+    44.30085,
+    -71.793669,
+    44.30085
+],
+  "geometry": {"coordinates":[-71.79366899999999,44.30085],"type":"Point"}
+}

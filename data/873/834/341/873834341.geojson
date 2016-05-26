@@ -1,0 +1,86 @@
+{
+  "id": 873834341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431098,43.571725,-71.431098,43.571725",
+    "geom:latitude":43.571725,
+    "geom:longitude":-71.431098,
+    "iso:country":"US",
+    "sg:address":"15 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3321",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "communication",
+        "radio",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rht5Lr6RM5ZVN5FjrwDuL_43.571725_-71.431098@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298430,
+    "wof:geomhash":"75bc8b80d21a1f01729c4272461dd357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873834341
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873834341
+        }
+    ],
+    "wof:id":873834341,
+    "wof:lastmodified":1464298430,
+    "wof:name":"Lily Pond Communications Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radio",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.431098,
+    43.571725,
+    -71.431098,
+    43.571725
+],
+  "geometry": {"coordinates":[-71.43109800000001,43.571725],"type":"Point"}
+}

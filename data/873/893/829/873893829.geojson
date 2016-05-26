@@ -1,0 +1,71 @@
+{
+  "id": 873893829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.966273,43.060462,-70.966273,43.060462",
+    "geom:latitude":43.060462,
+    "geom:longitude":-70.966273,
+    "iso:country":"US",
+    "sg:address":"206 Ash Swamp Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3412",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D087XgGKn0XKGQ9r20Mfd_43.060462_-70.966273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299702,
+    "wof:geomhash":"d96768820cf0823128d992b2bb63c6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873893829
+        }
+    ],
+    "wof:id":873893829,
+    "wof:lastmodified":1464299702,
+    "wof:name":"Prices Sunnycrest Garage",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.966273,
+    43.060462,
+    -70.966273,
+    43.060462
+],
+  "geometry": {"coordinates":[-70.966273,43.060462],"type":"Point"}
+}

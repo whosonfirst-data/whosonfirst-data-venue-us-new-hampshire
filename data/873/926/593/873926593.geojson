@@ -1,0 +1,92 @@
+{
+  "id": 873926593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463058,42.975146,-71.463058,42.975146",
+    "geom:latitude":42.975146,
+    "geom:longitude":-71.463058,
+    "iso:country":"US",
+    "sg:address":"37 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 7223",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "supply",
+        "cell-wholesale",
+        "batteries-dry",
+        "hobby",
+        "model",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hpIFBUjwQZVj7gikyeSVv_42.975146_-71.463058@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300339,
+    "wof:geomhash":"1d48565b3c49715b280ea504157afc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873926593
+        }
+    ],
+    "wof:id":873926593,
+    "wof:lastmodified":1464300339,
+    "wof:name":"Need For Speed Model Car Raceway",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "supply",
+        "cell-wholesale",
+        "batteries-dry",
+        "hobby",
+        "model",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.463058,
+    42.975146,
+    -71.463058,
+    42.975146
+],
+  "geometry": {"coordinates":[-71.463058,42.975146],"type":"Point"}
+}

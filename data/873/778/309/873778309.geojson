@@ -1,0 +1,71 @@
+{
+  "id": 873778309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516156,43.002216,-71.516156,43.002216",
+    "geom:latitude":43.002216,
+    "geom:longitude":-71.516156,
+    "iso:country":"US",
+    "sg:address":"64 Moose Club Park Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 4799",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wNRTqglZuCEAaZgXXDxeU_43.002216_-71.516156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297467,
+    "wof:geomhash":"b5e2f80aeb4872f364c7a1cd8ed826db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873778309
+        }
+    ],
+    "wof:id":873778309,
+    "wof:lastmodified":1464297467,
+    "wof:name":"Area Contractors Inc",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.516156,
+    43.002216,
+    -71.516156,
+    43.002216
+],
+  "geometry": {"coordinates":[-71.516156,43.002216],"type":"Point"}
+}

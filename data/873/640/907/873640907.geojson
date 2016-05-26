@@ -1,0 +1,71 @@
+{
+  "id": 873640907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.12986,43.976589,-71.12986,43.976589",
+    "geom:latitude":43.976589,
+    "geom:longitude":-71.12986,
+    "iso:country":"US",
+    "sg:address":"115 W Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2061",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuk4PXE9icfOLcZHx3UsH_43.976589_-71.129860@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295486,
+    "wof:geomhash":"270dff20e78c7171509bab39b8c62a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873640907
+        }
+    ],
+    "wof:id":873640907,
+    "wof:lastmodified":1464295486,
+    "wof:name":"Hounsell & Sons LLC",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.12986,
+    43.976589,
+    -71.12986,
+    43.976589
+],
+  "geometry": {"coordinates":[-71.12985999999999,43.976589],"type":"Point"}
+}

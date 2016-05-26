@@ -1,0 +1,74 @@
+{
+  "id": 873684555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440968,42.942083,-71.440968,42.942083",
+    "geom:latitude":42.942083,
+    "geom:longitude":-71.440968,
+    "iso:country":"US",
+    "sg:address":"225 Perimeter Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 6177",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "sg:website":"www.theportlandgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DWD7m3AWuDpX9QfItyDvF_42.942083_-71.440968@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296126,
+    "wof:geomhash":"4ed51fc032783a45a89c8ea13121d9ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873684555
+        }
+    ],
+    "wof:id":873684555,
+    "wof:lastmodified":1464296126,
+    "wof:name":"Portland Group",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.440968,
+    42.942083,
+    -71.440968,
+    42.942083
+],
+  "geometry": {"coordinates":[-71.440968,42.942083],"type":"Point"}
+}

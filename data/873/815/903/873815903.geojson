@@ -1,0 +1,69 @@
+{
+  "id": 873815903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.122865,43.202452,-71.122865,43.202452",
+    "geom:latitude":43.202452,
+    "geom:longitude":-71.122865,
+    "iso:country":"US",
+    "sg:address":"11 Canaan Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8634",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uet5UeRa7zkCEAdCjJLdE_43.202452_-71.122865@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298031,
+    "wof:geomhash":"73d41d94f10afcd8b6281ee7d6a848ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873815903
+        }
+    ],
+    "wof:id":873815903,
+    "wof:lastmodified":1464298031,
+    "wof:name":"Hodgdons Heating Svc",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.122865,
+    43.202452,
+    -71.122865,
+    43.202452
+],
+  "geometry": {"coordinates":[-71.122865,43.202452],"type":"Point"}
+}

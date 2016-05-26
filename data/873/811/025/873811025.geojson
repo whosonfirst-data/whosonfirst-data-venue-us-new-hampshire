@@ -1,0 +1,71 @@
+{
+  "id": 873811025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.048511,43.202335,-71.048511,43.202335",
+    "geom:latitude":43.202335,
+    "geom:longitude":-71.048511,
+    "iso:country":"US",
+    "sg:address":"6 Swain Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 7662",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2VOpph7TxY9yMabYEjt5_43.202335_-71.048511@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297945,
+    "wof:geomhash":"f9de6f8b91d2557e88f39eb6acb73676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873811025
+        }
+    ],
+    "wof:id":873811025,
+    "wof:lastmodified":1464297945,
+    "wof:name":"Taylor River Farm",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -71.048511,
+    43.202335,
+    -71.048511,
+    43.202335
+],
+  "geometry": {"coordinates":[-71.048511,43.202335],"type":"Point"}
+}

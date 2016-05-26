@@ -1,0 +1,71 @@
+{
+  "id": 873585965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.006202,43.125518,-71.006202,43.125518",
+    "geom:latitude":43.125518,
+    "geom:longitude":-71.006202,
+    "iso:country":"US",
+    "sg:address":"9 Allens Ave",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 9300",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "firewood",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WddgLHe2CeHxH4eoT6bmP_43.125518_-71.006202@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294784,
+    "wof:geomhash":"e2275c47888be8278b3585a763100fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873585965
+        }
+    ],
+    "wof:id":873585965,
+    "wof:lastmodified":1464294784,
+    "wof:name":"Winslow Firewood",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firewood",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.006202,
+    43.125518,
+    -71.006202,
+    43.125518
+],
+  "geometry": {"coordinates":[-71.006202,43.125518],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873807099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270033,43.058819,-71.270033,43.058819",
+    "geom:latitude":43.058819,
+    "geom:longitude":-71.270033,
+    "iso:country":"US",
+    "sg:address":"286 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 4895",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heavy",
+        "repair",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EhVpBooBHCDkZs8dpo3xh_43.058819_-71.270033@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297873,
+    "wof:geomhash":"58bd3cfcf26cf330acb7eb6efffad454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873807099
+        }
+    ],
+    "wof:id":873807099,
+    "wof:lastmodified":1464297873,
+    "wof:name":"Soule Truck Service Inc",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "repair",
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.270033,
+    43.058819,
+    -71.270033,
+    43.058819
+],
+  "geometry": {"coordinates":[-71.270033,43.058819],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873644303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871895,43.195989,-70.871895,43.195989",
+    "geom:latitude":43.195989,
+    "geom:longitude":-70.871895,
+    "iso:country":"US",
+    "sg:address":"9 Main St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 5120",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MGZrRGmrj5KFMtczb5QNN_43.195989_-70.871895@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295528,
+    "wof:geomhash":"3550150496baa77d7f2a2cf7a7464917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873644303
+        }
+    ],
+    "wof:id":873644303,
+    "wof:lastmodified":1464295528,
+    "wof:name":"Mystic Dragon Tattoo",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -70.871895,
+    43.195989,
+    -70.871895,
+    43.195989
+],
+  "geometry": {"coordinates":[-70.87189499999999,43.195989],"type":"Point"}
+}

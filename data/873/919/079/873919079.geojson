@@ -1,0 +1,79 @@
+{
+  "id": 873919079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224903,42.767459,-71.224903,42.767459",
+    "geom:latitude":42.767459,
+    "geom:longitude":-71.224903,
+    "iso:country":"US",
+    "sg:address":"99 Rockingham Park Blvd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/108736-au-bon-pain/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 6461",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BA0gPALumlTORk5Vf8627_42.767290_-71.225392@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300196,
+    "wof:geomhash":"e125519e4418de33c2b1bb5105ea6b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873919079
+        }
+    ],
+    "wof:id":873919079,
+    "wof:lastmodified":1464300196,
+    "wof:name":"Au Bon Pain",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.224903,
+    42.767459,
+    -71.224903,
+    42.767459
+],
+  "geometry": {"coordinates":[-71.224903,42.767459],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873917077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.240792,42.800395,-71.240792,42.800395",
+    "geom:latitude":42.800395,
+    "geom:longitude":-71.240792,
+    "iso:country":"US",
+    "sg:address":"315 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/181640-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 1996",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_694pjYN0tax10E3jtygf83_42.800395_-71.240792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300160,
+    "wof:geomhash":"362c3f8ad3afce38f0608a72add8a3df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873917077
+        }
+    ],
+    "wof:id":873917077,
+    "wof:lastmodified":1464300160,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.240792,
+    42.800395,
+    -71.240792,
+    42.800395
+],
+  "geometry": {"coordinates":[-71.240792,42.800395],"type":"Point"}
+}

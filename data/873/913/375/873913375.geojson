@@ -1,0 +1,75 @@
+{
+  "id": 873913375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470067,42.756339,-71.470067,42.756339",
+    "geom:latitude":42.756339,
+    "geom:longitude":-71.470067,
+    "iso:country":"US",
+    "sg:address":"71 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 8458",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77UjJDcgx80hPDynttZV2l_42.756339_-71.470067@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300076,
+    "wof:geomhash":"be59f9d1e63a8f931e482a66666fb50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873913375
+        }
+    ],
+    "wof:id":873913375,
+    "wof:lastmodified":1464300076,
+    "wof:name":"Romies Auto Repair Inc",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.470067,
+    42.756339,
+    -71.470067,
+    42.756339
+],
+  "geometry": {"coordinates":[-71.470067,42.756339],"type":"Point"}
+}

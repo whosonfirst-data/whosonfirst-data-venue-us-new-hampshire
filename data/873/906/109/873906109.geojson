@@ -1,0 +1,77 @@
+{
+  "id": 873906109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.37783,42.876746,-71.37783,42.876746",
+    "geom:latitude":42.876746,
+    "geom:longitude":-71.37783,
+    "iso:country":"US",
+    "sg:address":"31 Otterson Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 8196",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526319,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q7on699G0sVAMdVbz1SHq_42.876746_-71.377830@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299942,
+    "wof:geomhash":"28410b36d63980be8e8434ec2872f89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526319,
+            "region_id":85688689,
+            "venue_id":873906109
+        }
+    ],
+    "wof:id":873906109,
+    "wof:lastmodified":1464299942,
+    "wof:name":"Classic Dental",
+    "wof:parent_id":420526319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.37783,
+    42.876746,
+    -71.37783,
+    42.876746
+],
+  "geometry": {"coordinates":[-71.37783,42.876746],"type":"Point"}
+}

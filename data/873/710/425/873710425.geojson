@@ -1,0 +1,81 @@
+{
+  "id": 873710425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423291,43.567142,-71.423291,43.567142",
+    "geom:latitude":43.567142,
+    "geom:longitude":-71.423291,
+    "iso:country":"US",
+    "sg:address":"32 Gilford East Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1692",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hardware",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4isS8cj3bR5aN4yy7OjdR4_43.567142_-71.423291@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296526,
+    "wof:geomhash":"257c5602614d0b6e88b3251925c4f86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873710425
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873710425
+        }
+    ],
+    "wof:id":873710425,
+    "wof:lastmodified":1464296526,
+    "wof:name":"GILFORD HOME CENTER",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.423291,
+    43.567142,
+    -71.423291,
+    43.567142
+],
+  "geometry": {"coordinates":[-71.42329100000001,43.567142],"type":"Point"}
+}

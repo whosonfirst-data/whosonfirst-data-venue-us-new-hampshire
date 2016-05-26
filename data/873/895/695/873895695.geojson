@@ -1,0 +1,73 @@
+{
+  "id": 873895695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.377816,42.79789,-72.377816,42.79789",
+    "geom:latitude":42.79789,
+    "geom:longitude":-72.377816,
+    "iso:country":"US",
+    "sg:address":"320 Old Westport Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 239 4529",
+    "sg:postcode":"03470",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u34gBJWBIqFAC7vXM3iSR_42.797890_-72.377816@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299733,
+    "wof:geomhash":"c83c13ed771695cd546d8067438e643a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873895695
+        }
+    ],
+    "wof:id":873895695,
+    "wof:lastmodified":1464299733,
+    "wof:name":"Chase Machine Service",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "industrial",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.377816,
+    42.79789,
+    -72.377816,
+    42.79789
+],
+  "geometry": {"coordinates":[-72.377816,42.79789],"type":"Point"}
+}

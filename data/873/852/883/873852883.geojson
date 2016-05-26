@@ -1,0 +1,71 @@
+{
+  "id": 873852883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.323562,42.843579,-71.323562,42.843579",
+    "geom:latitude":42.843579,
+    "geom:longitude":-71.323562,
+    "iso:country":"US",
+    "sg:address":"2 Settlers Ln",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 7722",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33SUw7Xq21EsfxUduVaSeM_42.843579_-71.323562@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298874,
+    "wof:geomhash":"aed421526d66834cd51eeb7c0149d589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873852883
+        }
+    ],
+    "wof:id":873852883,
+    "wof:lastmodified":1464298874,
+    "wof:name":"Paul J Scaleria Photography",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -71.323562,
+    42.843579,
+    -71.323562,
+    42.843579
+],
+  "geometry": {"coordinates":[-71.323562,42.843579],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873662959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.75084,42.804001,-71.75084,42.804001",
+    "geom:latitude":42.804001,
+    "geom:longitude":-71.75084,
+    "iso:country":"US",
+    "sg:address":"19 Potter Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 5751",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dairy",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYPvAeBIXodPFN8yfihnd_42.804001_-71.750840@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295730,
+    "wof:geomhash":"9d7c18eda72df536beb2d2bbae8654c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873662959
+        }
+    ],
+    "wof:id":873662959,
+    "wof:lastmodified":1464295730,
+    "wof:name":"Temple Wilton Community Farm",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dairy",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.75084,
+    42.804001,
+    -71.75084,
+    42.804001
+],
+  "geometry": {"coordinates":[-71.75084,42.804001],"type":"Point"}
+}

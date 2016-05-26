@@ -1,0 +1,109 @@
+{
+  "id": 873930101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79863,43.055562,-70.79863,43.055562",
+    "geom:latitude":43.055562,
+    "geom:longitude":-70.79863,
+    "iso:country":"US",
+    "sg:address":"200 Griffin Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 766 6400",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "ear",
+        "pediatrics-otorhinolaryngology",
+        "surgeons",
+        "hearing",
+        "otorhinolaryngology",
+        "throat",
+        "device",
+        "nose",
+        "assistive",
+        "aid",
+        "surgeon",
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78QSUNmKmHWDokT4eDWhWp_43.055562_-70.798630@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300412,
+    "wof:geomhash":"426423efb7951542d531b7c7afad1dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873930101
+        }
+    ],
+    "wof:id":873930101,
+    "wof:lastmodified":1464300412,
+    "wof:name":"Comprehensive Otolaryngology & Audiology",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "ear",
+        "pediatrics-otorhinolaryngology",
+        "surgeons",
+        "hearing",
+        "otorhinolaryngology",
+        "throat",
+        "device",
+        "nose",
+        "assistive",
+        "aid",
+        "surgeon",
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -70.79863,
+    43.055562,
+    -70.79863,
+    43.055562
+],
+  "geometry": {"coordinates":[-70.79863,43.055562],"type":"Point"}
+}

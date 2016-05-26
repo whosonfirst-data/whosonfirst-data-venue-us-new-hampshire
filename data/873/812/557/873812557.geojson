@@ -1,0 +1,71 @@
+{
+  "id": 873812557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.01941,42.81686,-72.01941,42.81686",
+    "geom:latitude":42.81686,
+    "geom:longitude":-72.01941,
+    "iso:country":"US",
+    "sg:address":"119 Peterborough St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7391",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NVKmA7LEgggERkeGNWmuf_42.816860_-72.019410@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297971,
+    "wof:geomhash":"cce85f62cceb373c24d16b139d1dedc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873812557
+        }
+    ],
+    "wof:id":873812557,
+    "wof:lastmodified":1464297971,
+    "wof:name":"Ridgecrest Auto Svc Inc",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.01941,
+    42.81686,
+    -72.01941,
+    42.81686
+],
+  "geometry": {"coordinates":[-72.01940999999999,42.81686],"type":"Point"}
+}

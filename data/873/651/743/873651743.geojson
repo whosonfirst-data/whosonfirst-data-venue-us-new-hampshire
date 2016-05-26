@@ -1,0 +1,70 @@
+{
+  "id": 873651743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278827,43.645136,-71.278827,43.645136",
+    "geom:latitude":43.645136,
+    "geom:longitude":-71.278827,
+    "iso:country":"US",
+    "sg:address":"172 Governor John Wentworth Hwy",
+    "sg:city":"Mirror Lake",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3475",
+    "sg:postcode":"03853",
+    "sg:province":"NH",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.campbelknap.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pW0H48pw5oVFvaECouMnR_43.645136_-71.278827@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295610,
+    "wof:geomhash":"2e8c019a760af5f6559d7b40e2d6d3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873651743
+        }
+    ],
+    "wof:id":873651743,
+    "wof:lastmodified":1464295610,
+    "wof:name":"Camp Belknap",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -71.278827,
+    43.645136,
+    -71.278827,
+    43.645136
+],
+  "geometry": {"coordinates":[-71.27882700000001,43.645136],"type":"Point"}
+}

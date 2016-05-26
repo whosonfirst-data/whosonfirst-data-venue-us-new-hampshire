@@ -1,0 +1,71 @@
+{
+  "id": 873916017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580704,43.266899,-71.580704,43.266899",
+    "geom:latitude":43.266899,
+    "geom:longitude":-71.580704,
+    "iso:country":"US",
+    "sg:address":"6 Bean St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4391",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bNeDbiZSB1P9fhjk0lDVw_43.266395_-71.580713@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300141,
+    "wof:geomhash":"1ad5a96543df91861ab2300eea2d3cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873916017
+        }
+    ],
+    "wof:id":873916017,
+    "wof:lastmodified":1464300141,
+    "wof:name":"Otis Plumbing & Heating",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -71.580704,
+    43.266899,
+    -71.580704,
+    43.266899
+],
+  "geometry": {"coordinates":[-71.580704,43.266899],"type":"Point"}
+}

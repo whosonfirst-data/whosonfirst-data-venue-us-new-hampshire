@@ -1,0 +1,69 @@
+{
+  "id": 873838745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.256638,42.764063,-71.256638,42.764063",
+    "geom:latitude":42.764063,
+    "geom:longitude":-71.256638,
+    "iso:country":"US",
+    "sg:address":"182 Porcupine Cir",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6831",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ruAISWVV3i8BOAsCKMyPQ_42.764063_-71.256638@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298519,
+    "wof:geomhash":"151b1c54acd6e3e37e02caa2a3eef24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873838745
+        }
+    ],
+    "wof:id":873838745,
+    "wof:lastmodified":1464298519,
+    "wof:name":"Welchs Food",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice"
+    ]
+},
+  "bbox": [
+    -71.256638,
+    42.764063,
+    -71.256638,
+    42.764063
+],
+  "geometry": {"coordinates":[-71.256638,42.764063],"type":"Point"}
+}

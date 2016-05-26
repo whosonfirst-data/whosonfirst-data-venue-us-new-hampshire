@@ -1,0 +1,71 @@
+{
+  "id": 873765555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449655,43.137828,-71.449655,43.137828",
+    "geom:latitude":43.137828,
+    "geom:longitude":-71.449655,
+    "iso:country":"US",
+    "sg:address":"247 Pembroke St",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 9173",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QLXPM6yQR3h7PevQdymWq_43.137828_-71.449655@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297305,
+    "wof:geomhash":"b152b87a362ea9fb86b305adfb0b0c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873765555
+        }
+    ],
+    "wof:id":873765555,
+    "wof:lastmodified":1464297305,
+    "wof:name":"Police Administration",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.449655,
+    43.137828,
+    -71.449655,
+    43.137828
+],
+  "geometry": {"coordinates":[-71.44965500000001,43.137828],"type":"Point"}
+}

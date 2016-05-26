@@ -1,0 +1,77 @@
+{
+  "id": 873748085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648684,42.831725,-71.648684,42.831725",
+    "geom:latitude":42.831725,
+    "geom:longitude":-71.648684,
+    "iso:country":"US",
+    "sg:address":"217 South St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4870",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61xOD9coVRqTkctSXdKuAJ_42.831725_-71.648684@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297051,
+    "wof:geomhash":"5f30d2792dffd5ad5c5b1e043279e22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873748085
+        }
+    ],
+    "wof:id":873748085,
+    "wof:lastmodified":1464297051,
+    "wof:name":"Thompson Foreign Motors",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.648684,
+    42.831725,
+    -71.648684,
+    42.831725
+],
+  "geometry": {"coordinates":[-71.648684,42.831725],"type":"Point"}
+}

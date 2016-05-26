@@ -1,0 +1,75 @@
+{
+  "id": 873553631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.813026,43.109256,-70.813026,43.109256",
+    "geom:latitude":43.109256,
+    "geom:longitude":-70.813026,
+    "iso:country":"US",
+    "sg:address":"23 River Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 6288",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "paging",
+        "signaling",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T4RgzciCRbfbUDX106Pya_43.109256_-70.813026@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294418,
+    "wof:geomhash":"abb82d21cce2fe66cd1c8fc7da2bcdf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873553631
+        }
+    ],
+    "wof:id":873553631,
+    "wof:lastmodified":1464294418,
+    "wof:name":"2-Way Communications Svc",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "paging",
+        "signaling",
+        "system"
+    ]
+},
+  "bbox": [
+    -70.813026,
+    43.109256,
+    -70.813026,
+    43.109256
+],
+  "geometry": {"coordinates":[-70.81302599999999,43.109256],"type":"Point"}
+}

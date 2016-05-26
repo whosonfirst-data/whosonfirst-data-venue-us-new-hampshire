@@ -1,0 +1,75 @@
+{
+  "id": 873899129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467664,43.530564,-71.467664,43.530564",
+    "geom:latitude":43.530564,
+    "geom:longitude":-71.467664,
+    "iso:country":"US",
+    "sg:address":"52 Church St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2212",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61q6uqOR890qXqtETjN9We_43.530564_-71.467664@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299802,
+    "wof:geomhash":"eb95e834fb13f313483d2b4ca3e7b1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873899129
+        }
+    ],
+    "wof:id":873899129,
+    "wof:lastmodified":1464299802,
+    "wof:name":"Jack & Jill Nursery School",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.467664,
+    43.530564,
+    -71.467664,
+    43.530564
+],
+  "geometry": {"coordinates":[-71.467664,43.530564],"type":"Point"}
+}

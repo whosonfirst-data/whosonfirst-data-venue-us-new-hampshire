@@ -1,0 +1,84 @@
+{
+  "id": 873924895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.318723,42.763182,-71.318723,42.763182",
+    "geom:latitude":42.763182,
+    "geom:longitude":-71.318723,
+    "iso:country":"US",
+    "sg:address":"10 William Dr",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 1456",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plate",
+        "glass-auto",
+        "glass-wholesale",
+        "window",
+        "truck",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_439wz7fI2g32In7lUPpuIN_42.763182_-71.318723@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300302,
+    "wof:geomhash":"c7a0ef0004679b356dc726c0a9a6cbac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873924895
+        }
+    ],
+    "wof:id":873924895,
+    "wof:lastmodified":1464300302,
+    "wof:name":"First Class Glass",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glass-auto",
+        "glass-wholesale",
+        "window",
+        "truck",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.318723,
+    42.763182,
+    -71.318723,
+    42.763182
+],
+  "geometry": {"coordinates":[-71.31872300000001,42.763182],"type":"Point"}
+}

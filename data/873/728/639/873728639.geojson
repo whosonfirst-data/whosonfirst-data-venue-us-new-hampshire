@@ -1,0 +1,79 @@
+{
+  "id": 873728639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569808,42.758299,-71.569808,42.758299",
+    "geom:latitude":42.758299,
+    "geom:longitude":-71.569808,
+    "iso:country":"US",
+    "sg:address":"165 Wheeler Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 6615",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "boards",
+        "mfg",
+        "process",
+        "printed",
+        "circuit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jepACX33RTn5QDllH5cdn_42.758299_-71.569808@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296762,
+    "wof:geomhash":"8d9c105c429f66f2a41d44269fd462a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873728639
+        }
+    ],
+    "wof:id":873728639,
+    "wof:lastmodified":1464296762,
+    "wof:name":"TMI Corp",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "boards",
+        "mfg",
+        "process",
+        "printed",
+        "circuit"
+    ]
+},
+  "bbox": [
+    -71.569808,
+    42.758299,
+    -71.569808,
+    42.758299
+],
+  "geometry": {"coordinates":[-71.56980799999999,42.758299],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873789041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.803294,44.300582,-71.803294,44.300582",
+    "geom:latitude":44.300582,
+    "geom:longitude":-71.803294,
+    "iso:country":"US",
+    "sg:address":"1001 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 0222",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bSVyDHofsJmNgDAsdSUWT_44.300582_-71.803294@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297629,
+    "wof:geomhash":"8c6963da86f9a09e05b3a2211714c858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873789041
+        }
+    ],
+    "wof:id":873789041,
+    "wof:lastmodified":1464297629,
+    "wof:name":"Treegivers",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [
+    -71.803294,
+    44.300582,
+    -71.803294,
+    44.300582
+],
+  "geometry": {"coordinates":[-71.80329399999999,44.300582],"type":"Point"}
+}

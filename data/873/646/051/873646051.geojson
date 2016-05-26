@@ -1,0 +1,73 @@
+{
+  "id": 873646051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.052418,44.257136,-72.052418,44.257136",
+    "geom:latitude":44.257136,
+    "geom:longitude":-72.052418,
+    "iso:country":"US",
+    "sg:address":"152 Woodsville Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2372",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vJVVcTka1xdsepx4e1nbE_44.257136_-72.052418@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295547,
+    "wof:geomhash":"502a7b88f9b104ae8cf599aaf75b9921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873646051
+        }
+    ],
+    "wof:id":873646051,
+    "wof:lastmodified":1464295547,
+    "wof:name":"Monroe Clinic",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.052418,
+    44.257136,
+    -72.052418,
+    44.257136
+],
+  "geometry": {"coordinates":[-72.052418,44.257136],"type":"Point"}
+}

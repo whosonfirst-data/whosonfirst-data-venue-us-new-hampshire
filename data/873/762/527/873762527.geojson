@@ -1,0 +1,71 @@
+{
+  "id": 873762527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.643419,43.032217,-71.643419,43.032217",
+    "geom:latitude":43.032217,
+    "geom:longitude":-71.643419,
+    "iso:country":"US",
+    "sg:address":"16 Depot St",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 2225",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844859,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q8rkSgpGGl0RcfGABgv9f_43.032217_-71.643419@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297249,
+    "wof:geomhash":"76f6aa7de6972bb60bf0f646cfef97b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85844859,
+            "region_id":85688689,
+            "venue_id":873762527
+        }
+    ],
+    "wof:id":873762527,
+    "wof:lastmodified":1464297249,
+    "wof:name":"On Time Electric Inc",
+    "wof:parent_id":85844859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.643419,
+    43.032217,
+    -71.643419,
+    43.032217
+],
+  "geometry": {"coordinates":[-71.64341899999999,43.032217],"type":"Point"}
+}

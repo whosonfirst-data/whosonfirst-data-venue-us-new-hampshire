@@ -1,0 +1,75 @@
+{
+  "id": 873890823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289502,43.699993,-72.289502,43.699993",
+    "geom:latitude":43.699993,
+    "geom:longitude":-72.289502,
+    "iso:country":"US",
+    "sg:address":"68 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 9500",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R73Rmif4ahik7WHYRRBec_43.699993_-72.289502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299645,
+    "wof:geomhash":"d79bd5455780f7b5cc25289413aafa8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873890823
+        }
+    ],
+    "wof:id":873890823,
+    "wof:lastmodified":1464299645,
+    "wof:name":"Ramuntos Brick & Brew Pizzeria",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.289502,
+    43.699993,
+    -72.289502,
+    43.699993
+],
+  "geometry": {"coordinates":[-72.289502,43.699993],"type":"Point"}
+}

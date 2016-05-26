@@ -1,0 +1,71 @@
+{
+  "id": 873925589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.235516,42.805069,-71.235516,42.805069",
+    "geom:latitude":42.805069,
+    "geom:longitude":-71.235516,
+    "iso:country":"US",
+    "sg:address":"86 Lake St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 4464",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ljTARkO7CIwvUv64AMxHR_42.805069_-71.235516@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300318,
+    "wof:geomhash":"02a3e73b61980c6569549d6af4242c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925589
+        }
+    ],
+    "wof:id":873925589,
+    "wof:lastmodified":1464300318,
+    "wof:name":"G M C Sales",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.235516,
+    42.805069,
+    -71.235516,
+    42.805069
+],
+  "geometry": {"coordinates":[-71.235516,42.805069],"type":"Point"}
+}

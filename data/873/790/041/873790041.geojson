@@ -1,0 +1,77 @@
+{
+  "id": 873790041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289509,43.701123,-72.289509,43.701123",
+    "geom:latitude":43.701123,
+    "geom:longitude":-72.289509,
+    "iso:country":"US",
+    "sg:address":"44 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 640 1150",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RGduha6QP9I5MUKojg2Gd_43.701123_-72.289509@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297640,
+    "wof:geomhash":"fa887d82b841ad0a4fe998a00488a340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873790041
+        }
+    ],
+    "wof:id":873790041,
+    "wof:lastmodified":1464297640,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.289509,
+    43.701123,
+    -72.289509,
+    43.701123
+],
+  "geometry": {"coordinates":[-72.289509,43.701123],"type":"Point"}
+}

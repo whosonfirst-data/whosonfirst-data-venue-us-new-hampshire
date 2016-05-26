@@ -1,0 +1,66 @@
+{
+  "id": 873571641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054237,44.260693,-72.054237,44.260693",
+    "geom:latitude":44.260693,
+    "geom:longitude":-72.054237,
+    "iso:country":"US",
+    "sg:address":"89 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 4729",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20L1eM8QesHpVdQguJpaqD_44.260693_-72.054237@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294627,
+    "wof:geomhash":"8171ed609c8d049c09a1f6c196753c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873571641
+        }
+    ],
+    "wof:id":873571641,
+    "wof:lastmodified":1464294627,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.054237,
+    44.260693,
+    -72.054237,
+    44.260693
+],
+  "geometry": {"coordinates":[-72.054237,44.260693],"type":"Point"}
+}

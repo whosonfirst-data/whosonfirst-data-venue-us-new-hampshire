@@ -1,0 +1,77 @@
+{
+  "id": 873640015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.883336,43.228135,-70.883336,43.228135",
+    "geom:latitude":43.228135,
+    "geom:longitude":-70.883336,
+    "iso:country":"US",
+    "sg:address":"503 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 750 3100",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526417,
+        102191575,
+        404477061,
+        85633793,
+        85975057,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SKBhLpuQACDRI594nLaDx_43.228135_-70.883336@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295473,
+    "wof:geomhash":"52abaec7daf7884528b23f6890b9dc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404477061,
+            "locality_id":85975057,
+            "neighbourhood_id":420526417,
+            "region_id":85688689,
+            "venue_id":873640015
+        }
+    ],
+    "wof:id":873640015,
+    "wof:lastmodified":1464295473,
+    "wof:name":"Autozone",
+    "wof:parent_id":420526417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -70.883336,
+    43.228135,
+    -70.883336,
+    43.228135
+],
+  "geometry": {"coordinates":[-70.883336,43.228135],"type":"Point"}
+}

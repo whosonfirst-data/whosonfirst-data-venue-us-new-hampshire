@@ -1,0 +1,71 @@
+{
+  "id": 873913453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459177,42.907315,-71.459177,42.907315",
+    "geom:latitude":42.907315,
+    "geom:longitude":-71.459177,
+    "iso:country":"US",
+    "sg:address":"751 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 6300",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wffmke7M16Jpj5jYab2Ie_42.907315_-71.459177@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300077,
+    "wof:geomhash":"8c280df8f8104005ff76591eef8cc256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873913453
+        }
+    ],
+    "wof:id":873913453,
+    "wof:lastmodified":1464300077,
+    "wof:name":"Extra Space Storage",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.459177,
+    42.907315,
+    -71.459177,
+    42.907315
+],
+  "geometry": {"coordinates":[-71.459177,42.907315],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873833703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.294392,42.910934,-71.294392,42.910934",
+    "geom:latitude":42.910934,
+    "geom:longitude":-71.294392,
+    "iso:country":"US",
+    "sg:address":"4 Mundy Ln",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 4475",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qamr8HATlsPPpsdswU2HS_42.910934_-71.294392@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298419,
+    "wof:geomhash":"514c649849288cb9d8af22783a52c019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873833703
+        }
+    ],
+    "wof:id":873833703,
+    "wof:lastmodified":1464298419,
+    "wof:name":"Eastern Logging Inc",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.294392,
+    42.910934,
+    -71.294392,
+    42.910934
+],
+  "geometry": {"coordinates":[-71.294392,42.910934],"type":"Point"}
+}

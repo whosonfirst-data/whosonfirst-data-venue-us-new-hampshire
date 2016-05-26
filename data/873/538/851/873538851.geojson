@@ -1,0 +1,69 @@
+{
+  "id": 873538851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017946,42.823059,-72.017946,42.823059",
+    "geom:latitude":42.823059,
+    "geom:longitude":-72.017946,
+    "iso:country":"US",
+    "sg:address":"21 Letourneau Dr",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7164",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fQPTyUxAb8OekldDYg3Vo_42.823059_-72.017946@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294248,
+    "wof:geomhash":"574d7dfe97b070b353ca01c50987b75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873538851
+        }
+    ],
+    "wof:id":873538851,
+    "wof:lastmodified":1464294248,
+    "wof:name":"Finishline Collision Repair",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.017946,
+    42.823059,
+    -72.017946,
+    42.823059
+],
+  "geometry": {"coordinates":[-72.01794599999999,42.823059],"type":"Point"}
+}

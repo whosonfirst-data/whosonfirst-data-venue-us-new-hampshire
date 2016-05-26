@@ -1,0 +1,77 @@
+{
+  "id": 873878509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440699,42.974976,-71.440699,42.974976",
+    "geom:latitude":42.974976,
+    "geom:longitude":-71.440699,
+    "iso:country":"US",
+    "sg:address":"846 Dix St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 666 4343",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yEKVt7lU6bvJuhVdTCNpW_42.974976_-71.440699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299405,
+    "wof:geomhash":"9f1afdcfceeee3cb834272c43952157f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873878509
+        }
+    ],
+    "wof:id":873878509,
+    "wof:lastmodified":1464299405,
+    "wof:name":"Gimas Electrical Corp",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.440699,
+    42.974976,
+    -71.440699,
+    42.974976
+],
+  "geometry": {"coordinates":[-71.440699,42.974976],"type":"Point"}
+}

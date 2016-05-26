@@ -1,0 +1,71 @@
+{
+  "id": 873764049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.344403,42.787732,-72.344403,42.787732",
+    "geom:latitude":42.787732,
+    "geom:longitude":-72.344403,
+    "iso:country":"US",
+    "sg:address":"99 Rabbit Hollow Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 239 6790",
+    "sg:postcode":"03470",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uu6zGyqNC61GQslKbO7cV_42.787732_-72.344403@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297275,
+    "wof:geomhash":"f023276e6bab3807e0e417fefbc91eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873764049
+        }
+    ],
+    "wof:id":873764049,
+    "wof:lastmodified":1464297275,
+    "wof:name":"Joslyn CA Trucking Inc",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.344403,
+    42.787732,
+    -72.344403,
+    42.787732
+],
+  "geometry": {"coordinates":[-72.344403,42.787732],"type":"Point"}
+}

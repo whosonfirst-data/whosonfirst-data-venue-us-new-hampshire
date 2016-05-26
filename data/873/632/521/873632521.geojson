@@ -1,0 +1,71 @@
+{
+  "id": 873632521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.025735,42.815854,-72.025735,42.815854",
+    "geom:latitude":42.815854,
+    "geom:longitude":-72.025735,
+    "iso:country":"US",
+    "sg:address":"47 Main St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7858",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j12teSnbmhLG3YsRIVQCf_42.815854_-72.025735@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295393,
+    "wof:geomhash":"fa744d94c02f3239cffc7103778994b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873632521
+        }
+    ],
+    "wof:id":873632521,
+    "wof:lastmodified":1464295393,
+    "wof:name":"First Service Title Co",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -72.025735,
+    42.815854,
+    -72.025735,
+    42.815854
+],
+  "geometry": {"coordinates":[-72.025735,42.815854],"type":"Point"}
+}

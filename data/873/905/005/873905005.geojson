@@ -1,0 +1,77 @@
+{
+  "id": 873905005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465961,42.768127,-71.465961,42.768127",
+    "geom:latitude":42.768127,
+    "geom:longitude":-71.465961,
+    "iso:country":"US",
+    "sg:address":"2 Davis Ct",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5665",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jXBWQNokSpJM35kOWW8v2_42.768127_-71.465961@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299923,
+    "wof:geomhash":"e924340f2a0b6d31e808f1a528c65423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873905005
+        }
+    ],
+    "wof:id":873905005,
+    "wof:lastmodified":1464299923,
+    "wof:name":"Pt Properties",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.465961,
+    42.768127,
+    -71.465961,
+    42.768127
+],
+  "geometry": {"coordinates":[-71.46596099999999,42.768127],"type":"Point"}
+}

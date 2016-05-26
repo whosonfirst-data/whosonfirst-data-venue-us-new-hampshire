@@ -1,0 +1,71 @@
+{
+  "id": 873826791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.570505,44.486991,-71.570505,44.486991",
+    "geom:latitude":44.486991,
+    "geom:longitude":-71.570505,
+    "iso:country":"US",
+    "sg:address":"16 Elm St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4170",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GlUX7G9TX5BZHMUj1MJu8_44.486991_-71.570505@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298272,
+    "wof:geomhash":"9423fc8929a5487f6a2ade7224928488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873826791
+        }
+    ],
+    "wof:id":873826791,
+    "wof:lastmodified":1464298272,
+    "wof:name":"Everette & David Rexford",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -71.570505,
+    44.486991,
+    -71.570505,
+    44.486991
+],
+  "geometry": {"coordinates":[-71.570505,44.486991],"type":"Point"}
+}

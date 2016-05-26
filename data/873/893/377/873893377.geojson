@@ -1,0 +1,71 @@
+{
+  "id": 873893377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472818,43.138287,-71.472818,43.138287",
+    "geom:latitude":43.138287,
+    "geom:longitude":-71.472818,
+    "iso:country":"US",
+    "sg:address":"97 River Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 4081",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GQrzw7hbM2qJHLIk86E0C_43.138287_-71.472818@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299694,
+    "wof:geomhash":"9a54bf0bb8fd33fa8ee196ba786f3338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873893377
+        }
+    ],
+    "wof:id":873893377,
+    "wof:lastmodified":1464299694,
+    "wof:name":"Merrimack Station",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -71.472818,
+    43.138287,
+    -71.472818,
+    43.138287
+],
+  "geometry": {"coordinates":[-71.472818,43.138287],"type":"Point"}
+}

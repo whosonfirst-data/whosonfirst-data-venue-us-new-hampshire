@@ -1,0 +1,71 @@
+{
+  "id": 873840111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.145802,43.897867,-72.145802,43.897867",
+    "geom:latitude":43.897867,
+    "geom:longitude":-72.145802,
+    "iso:country":"US",
+    "sg:address":"376 Orford Rd",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 353 4302",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FPgFMLj8BbTmhrBzpqYAh_43.897867_-72.145802@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298555,
+    "wof:geomhash":"7fdaaed13d1c4306453b39aaeee37702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873840111
+        }
+    ],
+    "wof:id":873840111,
+    "wof:lastmodified":1464298555,
+    "wof:name":"Lyme Electric",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.145802,
+    43.897867,
+    -72.145802,
+    43.897867
+],
+  "geometry": {"coordinates":[-72.145802,43.897867],"type":"Point"}
+}

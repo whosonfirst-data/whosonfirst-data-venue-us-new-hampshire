@@ -1,0 +1,71 @@
+{
+  "id": 873852861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397431,43.578738,-71.397431,43.578738",
+    "geom:latitude":43.578738,
+    "geom:longitude":-71.397431,
+    "iso:country":"US",
+    "sg:address":"1970 Lake Shore Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 0700",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "yard",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wiysPMUMinyVcsj6EfbQV_43.578738_-71.397431@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298873,
+    "wof:geomhash":"d5eb8a7c928c7cac286626f87e5e4b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873852861
+        }
+    ],
+    "wof:id":873852861,
+    "wof:lastmodified":1464298873,
+    "wof:name":"Fays Boat Sales",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.397431,
+    43.578738,
+    -71.397431,
+    43.578738
+],
+  "geometry": {"coordinates":[-71.397431,43.578738],"type":"Point"}
+}

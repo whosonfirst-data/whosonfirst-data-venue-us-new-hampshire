@@ -1,0 +1,73 @@
+{
+  "id": 873687815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463346,43.535366,-71.463346,43.535366",
+    "geom:latitude":43.535366,
+    "geom:longitude":-71.463346,
+    "iso:country":"US",
+    "sg:address":"366 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3035",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fcJO6YOZhxITHgrdztfVX_43.535366_-71.463346@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296215,
+    "wof:geomhash":"face22f6403a717354b0c32666fccf42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873687815
+        }
+    ],
+    "wof:id":873687815,
+    "wof:lastmodified":1464296215,
+    "wof:name":"Stewart Title Co",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -71.463346,
+    43.535366,
+    -71.463346,
+    43.535366
+],
+  "geometry": {"coordinates":[-71.463346,43.535366],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873591819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270247,43.382063,-71.270247,43.382063",
+    "geom:latitude":43.382063,
+    "geom:longitude":-71.270247,
+    "iso:country":"US",
+    "sg:address":"468 Narrows Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 4911",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cPIxF1UPxocaK7PxoMf3a_43.382063_-71.270247@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294857,
+    "wof:geomhash":"04981a3bead4e7743c339678493aaa6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873591819
+        }
+    ],
+    "wof:id":873591819,
+    "wof:lastmodified":1464294857,
+    "wof:name":"White Oak Plumbing & Heating",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -71.270247,
+    43.382063,
+    -71.270247,
+    43.382063
+],
+  "geometry": {"coordinates":[-71.270247,43.382063],"type":"Point"}
+}

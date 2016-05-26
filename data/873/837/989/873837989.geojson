@@ -1,0 +1,71 @@
+{
+  "id": 873837989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.033553,42.882824,-71.033553,42.882824",
+    "geom:latitude":42.882824,
+    "geom:longitude":-71.033553,
+    "iso:country":"US",
+    "sg:address":"17 Heath St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 3910",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41e9WhAWRTccjEUR5NOgn7_42.882824_-71.033553@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298505,
+    "wof:geomhash":"51a6de30a0c96761cf1619167029ef29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873837989
+        }
+    ],
+    "wof:id":873837989,
+    "wof:lastmodified":1464298505,
+    "wof:name":"Eastern Precision Machine",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.033553,
+    42.882824,
+    -71.033553,
+    42.882824
+],
+  "geometry": {"coordinates":[-71.033553,42.882824],"type":"Point"}
+}

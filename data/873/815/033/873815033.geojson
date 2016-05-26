@@ -1,0 +1,71 @@
+{
+  "id": 873815033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1773,44.47354,-71.1773,44.47354",
+    "geom:latitude":44.47354,
+    "geom:longitude":-71.1773,
+    "iso:country":"US",
+    "sg:address":"304 School St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1534",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mxbIR8HMFVGniUpM6pJg8_44.473540_-71.177300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298015,
+    "wof:geomhash":"52fe54d5777709dd736b8dfa9683a525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873815033
+        }
+    ],
+    "wof:id":873815033,
+    "wof:lastmodified":1464298015,
+    "wof:name":"St Anne's Hall",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -71.1773,
+    44.47354,
+    -71.1773,
+    44.47354
+],
+  "geometry": {"coordinates":[-71.1773,44.47354],"type":"Point"}
+}

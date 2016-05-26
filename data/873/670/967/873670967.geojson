@@ -1,0 +1,71 @@
+{
+  "id": 873670967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.924522,43.065801,-70.924522,43.065801",
+    "geom:latitude":43.065801,
+    "geom:longitude":-70.924522,
+    "iso:country":"US",
+    "sg:address":"93 New Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2246",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SE6qOlaJcWUGAr9M3Lkwt_43.065801_-70.924522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295812,
+    "wof:geomhash":"90d08a5080aacba9270d9b194a689471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873670967
+        }
+    ],
+    "wof:id":873670967,
+    "wof:lastmodified":1464295812,
+    "wof:name":"Ernest Garage",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.924522,
+    43.065801,
+    -70.924522,
+    43.065801
+],
+  "geometry": {"coordinates":[-70.924522,43.065801],"type":"Point"}
+}

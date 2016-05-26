@@ -1,0 +1,73 @@
+{
+  "id": 873611981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.035766,42.879409,-71.035766,42.879409",
+    "geom:latitude":42.879409,
+    "geom:longitude":-71.035766,
+    "iso:country":"US",
+    "sg:address":"9 Meadowview Dr",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 8660",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jNn2IuvXnI92zt7tsYTtk_42.879409_-71.035766@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295166,
+    "wof:geomhash":"814a2ee1c9ad0186951e2dbe54cdc6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873611981
+        }
+    ],
+    "wof:id":873611981,
+    "wof:lastmodified":1464295166,
+    "wof:name":"Ricals Distribution",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.035766,
+    42.879409,
+    -71.035766,
+    42.879409
+],
+  "geometry": {"coordinates":[-71.035766,42.879409],"type":"Point"}
+}

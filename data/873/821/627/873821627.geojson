@@ -1,0 +1,80 @@
+{
+  "id": 873821627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939663,43.070364,-70.939663,43.070364",
+    "geom:latitude":43.070364,
+    "geom:longitude":-70.939663,
+    "iso:country":"US",
+    "sg:address":"80 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3404",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "stampings",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pxah5gp64xiVZt1xUDeO4_43.070364_-70.939663@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298149,
+    "wof:geomhash":"58f0f7488417d399a5ad8f1528e12461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873821627
+        }
+    ],
+    "wof:id":873821627,
+    "wof:lastmodified":1464298149,
+    "wof:name":"Seacoast Machine Co",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "stampings",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.939663,
+    43.070364,
+    -70.939663,
+    43.070364
+],
+  "geometry": {"coordinates":[-70.939663,43.070364],"type":"Point"}
+}

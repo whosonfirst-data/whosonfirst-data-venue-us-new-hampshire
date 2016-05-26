@@ -1,0 +1,69 @@
+{
+  "id": 873912523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.737208,42.843249,-71.737208,42.843249",
+    "geom:latitude":42.843249,
+    "geom:longitude":-71.737208,
+    "iso:country":"US",
+    "sg:address":"42 Main St",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 9451",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aECRtZEcI6VuFv6koW7uK_42.843249_-71.737208@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300059,
+    "wof:geomhash":"85ad496fb501d6eca641b358c4f04f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873912523
+        }
+    ],
+    "wof:id":873912523,
+    "wof:lastmodified":1464300059,
+    "wof:name":"Wilton Town Clerk",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.737208,
+    42.843249,
+    -71.737208,
+    42.843249
+],
+  "geometry": {"coordinates":[-71.737208,42.843249],"type":"Point"}
+}

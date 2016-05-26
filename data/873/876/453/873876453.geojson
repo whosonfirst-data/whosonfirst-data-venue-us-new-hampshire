@@ -1,0 +1,73 @@
+{
+  "id": 873876453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667545,44.045177,-71.667545,44.045177",
+    "geom:latitude":44.045177,
+    "geom:longitude":-71.667545,
+    "iso:country":"US",
+    "sg:address":"148 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 2222",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QRVblW09pFoPIOikBsKpf_44.045177_-71.667545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299361,
+    "wof:geomhash":"d10e3a2e3d3597f58e33d4beee7d2d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873876453
+        }
+    ],
+    "wof:id":873876453,
+    "wof:lastmodified":1464299361,
+    "wof:name":"Lincoln Emergency Management",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.667545,
+    44.045177,
+    -71.667545,
+    44.045177
+],
+  "geometry": {"coordinates":[-71.667545,44.045177],"type":"Point"}
+}

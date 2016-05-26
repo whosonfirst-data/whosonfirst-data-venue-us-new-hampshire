@@ -1,0 +1,71 @@
+{
+  "id": 873932997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.138496,44.0602,-71.138496,44.0602",
+    "geom:latitude":44.0602,
+    "geom:longitude":-71.138496,
+    "iso:country":"US",
+    "sg:address":"3073 White Mountain Hwy",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5472",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NXTCycH8IrW3R30O59kw6_44.060200_-71.138496@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300465,
+    "wof:geomhash":"9e98b1e2d95311b43079f2f4c36228b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932997
+        }
+    ],
+    "wof:id":873932997,
+    "wof:lastmodified":1464300465,
+    "wof:name":"Mwv Healthcare Assoc",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.138496,
+    44.0602,
+    -71.138496,
+    44.0602
+],
+  "geometry": {"coordinates":[-71.138496,44.0602],"type":"Point"}
+}

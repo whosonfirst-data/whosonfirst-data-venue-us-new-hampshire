@@ -1,0 +1,71 @@
+{
+  "id": 873907729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.217069,42.852719,-71.217069,42.852719",
+    "geom:latitude":42.852719,
+    "geom:longitude":-71.217069,
+    "iso:country":"US",
+    "sg:address":"409 Island Pond Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7890",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11yKc0erJvanP0aY8cPquA_42.852719_-71.217069@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299971,
+    "wof:geomhash":"fc8ef38e37d8abb69afb196bb65b17c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873907729
+        }
+    ],
+    "wof:id":873907729,
+    "wof:lastmodified":1464299971,
+    "wof:name":"Island Pond Mobil Mart",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.217069,
+    42.852719,
+    -71.217069,
+    42.852719
+],
+  "geometry": {"coordinates":[-71.217069,42.852719],"type":"Point"}
+}

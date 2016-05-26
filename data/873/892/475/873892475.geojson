@@ -1,0 +1,75 @@
+{
+  "id": 873892475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185248,44.465869,-71.185248,44.465869",
+    "geom:latitude":44.465869,
+    "geom:longitude":-71.185248,
+    "iso:country":"US",
+    "sg:address":"11 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1518",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XDbVCim6jQE7rJqi8RdU1_44.465869_-71.185248@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299675,
+    "wof:geomhash":"2aae37a6dfeb3669efb90d5a9ffd70e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873892475
+        }
+    ],
+    "wof:id":873892475,
+    "wof:lastmodified":1464299675,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.185248,
+    44.465869,
+    -71.185248,
+    44.465869
+],
+  "geometry": {"coordinates":[-71.185248,44.465869],"type":"Point"}
+}

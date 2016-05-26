@@ -1,0 +1,70 @@
+{
+  "id": 873920075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.348999,43.085602,-71.348999,43.085602",
+    "geom:latitude":43.085602,
+    "geom:longitude":-71.348999,
+    "iso:country":"US",
+    "sg:address":"71 Merrill Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2683",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.lupienelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hoe7yTA5A4g7I2B3dWJj6_43.085602_-71.348999@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300213,
+    "wof:geomhash":"69742fc4c08eb76f2b456d8333b2b693",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85830095,
+            "region_id":85688689,
+            "venue_id":873920075
+        }
+    ],
+    "wof:id":873920075,
+    "wof:lastmodified":1464300213,
+    "wof:name":"Lupien Electric Inc",
+    "wof:parent_id":85830095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.348999,
+    43.085602,
+    -71.348999,
+    43.085602
+],
+  "geometry": {"coordinates":[-71.34899900000001,43.085602],"type":"Point"}
+}

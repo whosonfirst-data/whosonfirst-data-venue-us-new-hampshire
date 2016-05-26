@@ -1,0 +1,67 @@
+{
+  "id": 873846925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569776,44.490009,-71.569776,44.490009",
+    "geom:latitude":44.490009,
+    "geom:longitude":-71.569776,
+    "iso:country":"US",
+    "sg:address":"104 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2751",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:website":"www.sullivandrug.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zceRN23gjocmomXstsyW6_44.490009_-71.569776@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298730,
+    "wof:geomhash":"78c3101177c9a5b39ec4aa2f4f47f65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873846925
+        }
+    ],
+    "wof:id":873846925,
+    "wof:lastmodified":1464298730,
+    "wof:name":"Sullivan Drug",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.569776,
+    44.490009,
+    -71.569776,
+    44.490009
+],
+  "geometry": {"coordinates":[-71.569776,44.490009],"type":"Point"}
+}

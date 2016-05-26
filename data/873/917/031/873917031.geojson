@@ -1,0 +1,72 @@
+{
+  "id": 873917031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.230826,42.751578,-71.230826,42.751578",
+    "geom:latitude":42.751578,
+    "geom:longitude":-71.230826,
+    "iso:country":"US",
+    "sg:address":"Route 28",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/99203-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4634",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JrmtCa12Enwvour3QUt6L_42.751578_-71.230826@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300159,
+    "wof:geomhash":"13b8edd2f74c3c97e3e278ffa37fdd35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873917031
+        }
+    ],
+    "wof:id":873917031,
+    "wof:lastmodified":1464300159,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.230826,
+    42.751578,
+    -71.230826,
+    42.751578
+],
+  "geometry": {"coordinates":[-71.23082599999999,42.751578],"type":"Point"}
+}

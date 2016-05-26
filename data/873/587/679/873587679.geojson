@@ -1,0 +1,69 @@
+{
+  "id": 873587679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.188588,42.793095,-71.188588,42.793095",
+    "geom:latitude":42.793095,
+    "geom:longitude":-71.188588,
+    "iso:country":"US",
+    "sg:address":"395 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7601",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FKP1xnzmowMZrwkKXLgsa_42.793095_-71.188588@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294804,
+    "wof:geomhash":"59c7acd1bce4fc30ba66d1b064cde6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873587679
+        }
+    ],
+    "wof:id":873587679,
+    "wof:lastmodified":1464294804,
+    "wof:name":"Londonderry Oral Surgery",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.188588,
+    42.793095,
+    -71.188588,
+    42.793095
+],
+  "geometry": {"coordinates":[-71.188588,42.793095],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873919097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463067,42.991965,-71.463067,42.991965",
+    "geom:latitude":42.991965,
+    "geom:longitude":-71.463067,
+    "iso:country":"US",
+    "sg:address":"967 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39684-peking-garden/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8880",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ilUdjbQK5ad1fqsd7A6fR_42.992086_-71.463017@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300196,
+    "wof:geomhash":"555f31024fcdaa38d606a3a2ec8c8f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873919097
+        }
+    ],
+    "wof:id":873919097,
+    "wof:lastmodified":1464300196,
+    "wof:name":"Peking Garden",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.463067,
+    42.991965,
+    -71.463067,
+    42.991965
+],
+  "geometry": {"coordinates":[-71.463067,42.991965],"type":"Point"}
+}

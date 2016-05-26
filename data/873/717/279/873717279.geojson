@@ -1,0 +1,79 @@
+{
+  "id": 873717279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.255623,43.639295,-72.255623,43.639295",
+    "geom:latitude":43.639295,
+    "geom:longitude":-72.255623,
+    "iso:country":"US",
+    "sg:address":"1 Blacksmith",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 1753",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BgAEwMdf7TeAbH8bRjnYB_43.639295_-72.255623@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296613,
+    "wof:geomhash":"34aba5b19b962b99e4dfe3bc26023e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873717279
+        }
+    ],
+    "wof:id":873717279,
+    "wof:lastmodified":1464296613,
+    "wof:name":"Silver & Steel Body Zone",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.255623,
+    43.639295,
+    -72.255623,
+    43.639295
+],
+  "geometry": {"coordinates":[-72.255623,43.639295],"type":"Point"}
+}

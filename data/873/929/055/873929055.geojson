@@ -1,0 +1,71 @@
+{
+  "id": 873929055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019523,42.833728,-72.019523,42.833728",
+    "geom:latitude":42.833728,
+    "geom:longitude":-72.019523,
+    "iso:country":"US",
+    "sg:address":"75 Crestview Dr",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7521",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mFmNl0l6HUK6zuvanA8JE_42.833728_-72.019523@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300391,
+    "wof:geomhash":"448511ca48240d74e41b5160a91d9522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873929055
+        }
+    ],
+    "wof:id":873929055,
+    "wof:lastmodified":1464300391,
+    "wof:name":"Mcevoy Assoc",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemicals-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.019523,
+    42.833728,
+    -72.019523,
+    42.833728
+],
+  "geometry": {"coordinates":[-72.01952300000001,42.833728],"type":"Point"}
+}

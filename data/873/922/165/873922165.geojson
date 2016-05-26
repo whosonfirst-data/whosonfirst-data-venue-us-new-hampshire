@@ -1,0 +1,78 @@
+{
+  "id": 873922165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504912,42.832793,-71.504912,42.832793",
+    "geom:latitude":42.832793,
+    "geom:longitude":-71.504912,
+    "iso:country":"US",
+    "sg:address":"20 Continental Blvd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 423 9390",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cable-non-electric",
+        "wire",
+        "cable-electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DRdyavkbpgwQ49FV9Z1qb_42.832793_-71.504912@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300255,
+    "wof:geomhash":"b9cfc437d60c260d72cec0ea1336ca47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873922165
+        }
+    ],
+    "wof:id":873922165,
+    "wof:lastmodified":1464300255,
+    "wof:name":"Allied Wire & Cable, Inc.",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable-non-electric",
+        "wire",
+        "cable-electric"
+    ]
+},
+  "bbox": [
+    -71.504912,
+    42.832793,
+    -71.504912,
+    42.832793
+],
+  "geometry": {"coordinates":[-71.504912,42.832793],"type":"Point"}
+}

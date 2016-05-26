@@ -1,0 +1,75 @@
+{
+  "id": 873815215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.944821,42.980864,-70.944821,42.980864",
+    "geom:latitude":42.980864,
+    "geom:longitude":-70.944821,
+    "iso:country":"US",
+    "sg:address":"20 Water St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5510",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HWB8DfkfkJVTLcmMComV0_42.980864_-70.944821@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298018,
+    "wof:geomhash":"d40056fd46753f072aa7d6b968a3f003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873815215
+        }
+    ],
+    "wof:id":873815215,
+    "wof:lastmodified":1464298018,
+    "wof:name":"Rockingham Appraisal Service",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -70.944821,
+    42.980864,
+    -70.944821,
+    42.980864
+],
+  "geometry": {"coordinates":[-70.944821,42.980864],"type":"Point"}
+}

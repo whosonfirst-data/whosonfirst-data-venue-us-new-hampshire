@@ -1,0 +1,73 @@
+{
+  "id": 873783123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410286,43.255213,-71.410286,43.255213",
+    "geom:latitude":43.255213,
+    "geom:longitude":-71.410286,
+    "iso:country":"US",
+    "sg:address":"107 Canterbury Rd",
+    "sg:city":"Chichester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 5522",
+    "sg:postcode":"03258",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kCVutvngI62V6Yz059omp_43.255213_-71.410286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297532,
+    "wof:geomhash":"bf85407d54b3843e0d0a72afed7b3546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873783123
+        }
+    ],
+    "wof:id":873783123,
+    "wof:lastmodified":1464297532,
+    "wof:name":"Mayville Trucking",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.410286,
+    43.255213,
+    -71.410286,
+    43.255213
+],
+  "geometry": {"coordinates":[-71.410286,43.255213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873591911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.301014,43.072861,-71.301014,43.072861",
+    "geom:latitude":43.072861,
+    "geom:longitude":-71.301014,
+    "iso:country":"US",
+    "sg:address":"225 North Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5525",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NRIOosysAm93lCGrATum9_43.072861_-71.301014@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294858,
+    "wof:geomhash":"42cae13ec7c3fc5351015522c855096f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873591911
+        }
+    ],
+    "wof:id":873591911,
+    "wof:lastmodified":1464294858,
+    "wof:name":"Candia Highway Dept",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.301014,
+    43.072861,
+    -71.301014,
+    43.072861
+],
+  "geometry": {"coordinates":[-71.301014,43.072861],"type":"Point"}
+}

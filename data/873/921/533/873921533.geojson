@@ -1,0 +1,76 @@
+{
+  "id": 873921533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42673,42.744,-71.42673,42.744",
+    "geom:latitude":42.744,
+    "geom:longitude":-71.42673,
+    "iso:country":"US",
+    "sg:address":"162 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 1037",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "windshield"
+    ],
+    "sg:website":"http://www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rry5m2ZTYdbxG2hqLuZUZ_42.744000_-71.426730@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300237,
+    "wof:geomhash":"514a9df8c3001dbd82fc22de746ea7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873921533
+        }
+    ],
+    "wof:id":873921533,
+    "wof:lastmodified":1464300237,
+    "wof:name":"Safelite AutoGlass",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield"
+    ]
+},
+  "bbox": [
+    -71.42673,
+    42.744,
+    -71.42673,
+    42.744
+],
+  "geometry": {"coordinates":[-71.42673000000001,42.744],"type":"Point"}
+}

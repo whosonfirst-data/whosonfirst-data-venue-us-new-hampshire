@@ -1,0 +1,71 @@
+{
+  "id": 873798261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.84978,43.253303,-70.84978,43.253303",
+    "geom:latitude":43.253303,
+    "geom:longitude":-70.84978,
+    "iso:country":"US",
+    "sg:address":"151 Indigo Hill Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 5692",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28R1Gi5ruwE776EZLHSsrj_43.253303_-70.849780@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297753,
+    "wof:geomhash":"8eae843ecceb9d4da686912806f6d5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873798261
+        }
+    ],
+    "wof:id":873798261,
+    "wof:lastmodified":1464297753,
+    "wof:name":"Indigo Hill Apts",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.84978,
+    43.253303,
+    -70.84978,
+    43.253303
+],
+  "geometry": {"coordinates":[-70.84978,43.253303],"type":"Point"}
+}

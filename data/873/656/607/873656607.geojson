@@ -1,0 +1,69 @@
+{
+  "id": 873656607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.805625,44.366647,-71.805625,44.366647",
+    "geom:latitude":44.366647,
+    "geom:longitude":-71.805625,
+    "iso:country":"US",
+    "sg:address":"83 River View Dr",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2784",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nbSjkUiNQX2t4OX4of6gX_44.366647_-71.805625@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295663,
+    "wof:geomhash":"a456a9ccb6ba6a5f648afff76a26903c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873656607
+        }
+    ],
+    "wof:id":873656607,
+    "wof:lastmodified":1464295663,
+    "wof:name":"Garys Tile",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.805625,
+    44.366647,
+    -71.805625,
+    44.366647
+],
+  "geometry": {"coordinates":[-71.80562500000001,44.366647],"type":"Point"}
+}

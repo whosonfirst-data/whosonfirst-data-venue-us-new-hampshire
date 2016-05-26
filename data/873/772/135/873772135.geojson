@@ -1,0 +1,71 @@
+{
+  "id": 873772135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.119082,43.405351,-72.119082,43.405351",
+    "geom:latitude":43.405351,
+    "geom:longitude":-72.119082,
+    "iso:country":"US",
+    "sg:address":"88 Marys Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 9380",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36XlZJ8cty7gkXMdN9RpbZ_43.405351_-72.119082@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297391,
+    "wof:geomhash":"3171cadb96f12c3c8cba8d1b98f98dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873772135
+        }
+    ],
+    "wof:id":873772135,
+    "wof:lastmodified":1464297391,
+    "wof:name":"Pride Electric",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.119082,
+    43.405351,
+    -72.119082,
+    43.405351
+],
+  "geometry": {"coordinates":[-72.11908200000001,43.405351],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873684669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408444,44.601232,-71.408444,44.601232",
+    "geom:latitude":44.601232,
+    "geom:longitude":-71.408444,
+    "iso:country":"US",
+    "sg:address":"16 Northside Rd",
+    "sg:city":"Stark",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 2644",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70GBRF2H7Do3cNkxKY1lWa_44.601232_-71.408444@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296129,
+    "wof:geomhash":"3c9dd8dc0c40c8ddf4ce1eb7ee1d01e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873684669
+        }
+    ],
+    "wof:id":873684669,
+    "wof:lastmodified":1464296129,
+    "wof:name":"Stark Village Inn",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.408444,
+    44.601232,
+    -71.408444,
+    44.601232
+],
+  "geometry": {"coordinates":[-71.408444,44.601232],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873591013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.35867,42.845137,-71.35867,42.845137",
+    "geom:latitude":42.845137,
+    "geom:longitude":-71.35867,
+    "iso:country":"US",
+    "sg:address":"21 Boulder Dr",
+    "sg:city":"New Boston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8570",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526317,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hBHA7sDKcHwFqDcT4frl9_42.845137_-71.358670@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294844,
+    "wof:geomhash":"7aa165218be6f0c7cbd4494871d709d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526317,
+            "region_id":85688689,
+            "venue_id":873591013
+        }
+    ],
+    "wof:id":873591013,
+    "wof:lastmodified":1464294844,
+    "wof:name":"Wadleigh Electric",
+    "wof:parent_id":420526317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.35867,
+    42.845137,
+    -71.35867,
+    42.845137
+],
+  "geometry": {"coordinates":[-71.35867,42.845137],"type":"Point"}
+}

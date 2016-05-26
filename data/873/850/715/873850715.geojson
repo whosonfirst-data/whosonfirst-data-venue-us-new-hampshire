@@ -1,0 +1,71 @@
+{
+  "id": 873850715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461546,43.54502,-71.461546,43.54502",
+    "geom:latitude":43.54502,
+    "geom:longitude":-71.461546,
+    "iso:country":"US",
+    "sg:address":"1 Cole St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4316",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YUhi06fta8zcdS8KUp9ni_43.545020_-71.461546@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298826,
+    "wof:geomhash":"41313dd57e3d3f77d506b70bfd1747b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873850715
+        }
+    ],
+    "wof:id":873850715,
+    "wof:lastmodified":1464298826,
+    "wof:name":"Lorraine's Premium Ice Svc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice"
+    ]
+},
+  "bbox": [
+    -71.461546,
+    43.54502,
+    -71.461546,
+    43.54502
+],
+  "geometry": {"coordinates":[-71.461546,43.54502],"type":"Point"}
+}

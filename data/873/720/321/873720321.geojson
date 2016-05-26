@@ -1,0 +1,73 @@
+{
+  "id": 873720321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.556718,43.14855,-71.556718,43.14855",
+    "geom:latitude":43.14855,
+    "geom:longitude":-71.556718,
+    "iso:country":"US",
+    "sg:address":"25 Rocky Point Dr",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 0985",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "test",
+        "equipment",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22GLNLiTY5umTde69xy4A4_43.148550_-71.556718@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296655,
+    "wof:geomhash":"394c21f8441ef8ecb014f677ee2b6427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873720321
+        }
+    ],
+    "wof:id":873720321,
+    "wof:lastmodified":1464296655,
+    "wof:name":"Td Test Specialists LLC",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "equipment",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.556718,
+    43.14855,
+    -71.556718,
+    43.14855
+],
+  "geometry": {"coordinates":[-71.556718,43.14855],"type":"Point"}
+}

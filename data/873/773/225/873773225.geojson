@@ -1,0 +1,81 @@
+{
+  "id": 873773225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.962854,43.281198,-70.962854,43.281198",
+    "geom:latitude":43.281198,
+    "geom:longitude":-70.962854,
+    "iso:country":"US",
+    "sg:address":"5 Hickory Ln",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 5743",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sears",
+        "clothing",
+        "except",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526443,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V80KUVzb7g0oG9MY1MEEg_43.281198_-70.962854@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297403,
+    "wof:geomhash":"e2a2033f5bd7626985a2c905a718c02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":420526443,
+            "region_id":85688689,
+            "venue_id":873773225
+        }
+    ],
+    "wof:id":873773225,
+    "wof:lastmodified":1464297403,
+    "wof:name":"Sears",
+    "wof:parent_id":420526443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sears",
+        "clothing",
+        "except",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -70.962854,
+    43.281198,
+    -70.962854,
+    43.281198
+],
+  "geometry": {"coordinates":[-70.96285399999999,43.281198],"type":"Point"}
+}

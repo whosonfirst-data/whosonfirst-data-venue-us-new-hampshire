@@ -1,0 +1,69 @@
+{
+  "id": 873629853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.942744,43.10686,-70.942744,43.10686",
+    "geom:latitude":43.10686,
+    "geom:longitude":-70.942744,
+    "iso:country":"US",
+    "sg:address":"4 Cold Springs Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 6222",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZpRMVsPuW4d4GtM5wTOJH_43.106860_-70.942744@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295364,
+    "wof:geomhash":"353a522e30cd2e64e806ba7dd6a4aebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873629853
+        }
+    ],
+    "wof:id":873629853,
+    "wof:lastmodified":1464295364,
+    "wof:name":"Butler Fleet Svc",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -70.942744,
+    43.10686,
+    -70.942744,
+    43.10686
+],
+  "geometry": {"coordinates":[-70.942744,43.10686],"type":"Point"}
+}

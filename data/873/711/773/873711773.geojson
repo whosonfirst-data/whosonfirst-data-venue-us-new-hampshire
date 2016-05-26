@@ -1,0 +1,75 @@
+{
+  "id": 873711773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534454,43.171289,-71.534454,43.171289",
+    "geom:latitude":43.171289,
+    "geom:longitude":-71.534454,
+    "iso:country":"US",
+    "sg:address":"511 South St",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 1495",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "street",
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oCV59RdslITD6bxEwIDVA_43.171289_-71.534454@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296542,
+    "wof:geomhash":"bd79694c7ff9341e73dda0040a4d80c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873711773
+        }
+    ],
+    "wof:id":873711773,
+    "wof:lastmodified":1464296542,
+    "wof:name":"Gordon Const",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "street",
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.534454,
+    43.171289,
+    -71.534454,
+    43.171289
+],
+  "geometry": {"coordinates":[-71.534454,43.171289],"type":"Point"}
+}

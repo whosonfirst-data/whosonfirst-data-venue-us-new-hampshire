@@ -1,0 +1,77 @@
+{
+  "id": 873676473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.298066,42.88409,-71.298066,42.88409",
+    "geom:latitude":42.88409,
+    "geom:longitude":-71.298066,
+    "iso:country":"US",
+    "sg:address":"18 Humphrey Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 2605",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892221,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AICb5eTFmoWEwmf1IJbP3_42.884090_-71.298066@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295899,
+    "wof:geomhash":"95facec2f9f2a91448bfa7d4a97fb61c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892221,
+            "region_id":85688689,
+            "venue_id":873676473
+        }
+    ],
+    "wof:id":873676473,
+    "wof:lastmodified":1464295899,
+    "wof:name":"Post Heating & A/C",
+    "wof:parent_id":85892221,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.298066,
+    42.88409,
+    -71.298066,
+    42.88409
+],
+  "geometry": {"coordinates":[-71.29806600000001,42.88409],"type":"Point"}
+}

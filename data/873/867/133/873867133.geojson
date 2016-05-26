@@ -1,0 +1,69 @@
+{
+  "id": 873867133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476295,42.837179,-71.476295,42.837179",
+    "geom:latitude":42.837179,
+    "geom:longitude":-71.476295,
+    "iso:country":"US",
+    "sg:address":"255 Charles Bancroft Hwy",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 2131",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZuqJ6nfcpI8Mfk432yWN_42.837179_-71.476295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299175,
+    "wof:geomhash":"8a48cba2dc63b584f91f1a7ab4bba44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873867133
+        }
+    ],
+    "wof:id":873867133,
+    "wof:lastmodified":1464299175,
+    "wof:name":"Planning Board",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.476295,
+    42.837179,
+    -71.476295,
+    42.837179
+],
+  "geometry": {"coordinates":[-71.47629499999999,42.837179],"type":"Point"}
+}

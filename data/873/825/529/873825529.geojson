@@ -1,0 +1,73 @@
+{
+  "id": 873825529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182673,44.468277,-71.182673,44.468277",
+    "geom:latitude":44.468277,
+    "geom:longitude":-71.182673,
+    "iso:country":"US",
+    "sg:address":"26 Main St",
+    "sg:city":"W Stewartstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 246 8635",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e9kcv5c3m9jLvJLAgjy2S_44.468277_-71.182673@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298246,
+    "wof:geomhash":"b6afe96a7bc452320ee204e9fbd46262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873825529
+        }
+    ],
+    "wof:id":873825529,
+    "wof:lastmodified":1464298246,
+    "wof:name":"Great Northwoods Fine Art",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -71.182673,
+    44.468277,
+    -71.182673,
+    44.468277
+],
+  "geometry": {"coordinates":[-71.18267299999999,44.468277],"type":"Point"}
+}

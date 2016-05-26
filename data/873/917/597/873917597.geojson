@@ -1,0 +1,72 @@
+{
+  "id": 873917597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476621,42.957566,-71.476621,42.957566",
+    "geom:latitude":42.957566,
+    "geom:longitude":-71.476621,
+    "iso:country":"US",
+    "sg:address":"73 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bedford/69971-papa-ginos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 9022",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a7VlZM9t108aODoRbZrvK_42.957566_-71.476621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300170,
+    "wof:geomhash":"48c88238267bbe87c7ec62ae04ff5ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873917597
+        }
+    ],
+    "wof:id":873917597,
+    "wof:lastmodified":1464300170,
+    "wof:name":"Papa Gino's",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.476621,
+    42.957566,
+    -71.476621,
+    42.957566
+],
+  "geometry": {"coordinates":[-71.47662099999999,42.957566],"type":"Point"}
+}

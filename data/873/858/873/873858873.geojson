@@ -1,0 +1,71 @@
+{
+  "id": 873858873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564781,43.670443,-71.564781,43.670443",
+    "geom:latitude":43.670443,
+    "geom:longitude":-71.564781,
+    "iso:country":"US",
+    "sg:address":"84 Anchorage Rd",
+    "sg:city":"New Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 0362",
+    "sg:postcode":"03256",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858325,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RtZTCy7SkmcbMKqX9Pffd_43.670443_-71.564781@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298989,
+    "wof:geomhash":"e60598b0a4f9e2b55cb3a595f685add9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85858325,
+            "region_id":85688689,
+            "venue_id":873858873
+        }
+    ],
+    "wof:id":873858873,
+    "wof:lastmodified":1464298989,
+    "wof:name":"Something Special Enterprises",
+    "wof:parent_id":85858325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -71.564781,
+    43.670443,
+    -71.564781,
+    43.670443
+],
+  "geometry": {"coordinates":[-71.564781,43.670443],"type":"Point"}
+}

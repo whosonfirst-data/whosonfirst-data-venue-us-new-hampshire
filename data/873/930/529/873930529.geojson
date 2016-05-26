@@ -1,0 +1,71 @@
+{
+  "id": 873930529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.132863,43.976884,-71.132863,43.976884",
+    "geom:latitude":43.976884,
+    "geom:longitude":-71.132863,
+    "iso:country":"US",
+    "sg:address":"37 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5117",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "hobby"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75yyiwSQpQFBTIc7ev7SrG_43.976884_-71.132863@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300421,
+    "wof:geomhash":"2402e84111e9ddd85691bf2d8084be03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930529
+        }
+    ],
+    "wof:id":873930529,
+    "wof:lastmodified":1464300421,
+    "wof:name":"Auto Warehouse",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby"
+    ]
+},
+  "bbox": [
+    -71.132863,
+    43.976884,
+    -71.132863,
+    43.976884
+],
+  "geometry": {"coordinates":[-71.132863,43.976884],"type":"Point"}
+}

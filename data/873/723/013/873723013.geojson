@@ -1,0 +1,71 @@
+{
+  "id": 873723013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660806,43.716478,-71.660806,43.716478",
+    "geom:latitude":43.716478,
+    "geom:longitude":-71.660806,
+    "iso:country":"US",
+    "sg:address":"621 Daniel Webster Hwy",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 5762",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69zcUvJ3fsmwvvqZ7qhxMc_43.716478_-71.660806@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296687,
+    "wof:geomhash":"66d145581c52f54b09ab6abfb680e507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873723013
+        }
+    ],
+    "wof:id":873723013,
+    "wof:lastmodified":1464296687,
+    "wof:name":"Using Our Tools",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.660806,
+    43.716478,
+    -71.660806,
+    43.716478
+],
+  "geometry": {"coordinates":[-71.66080599999999,43.716478],"type":"Point"}
+}

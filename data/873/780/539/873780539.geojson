@@ -1,0 +1,71 @@
+{
+  "id": 873780539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.587764,43.288579,-71.587764,43.288579",
+    "geom:latitude":43.288579,
+    "geom:longitude":-71.587764,
+    "iso:country":"US",
+    "sg:address":"1 Hannah Dustin Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9005",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69uhhad5ts8o0Lkb0JK3HS_43.288579_-71.587764@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297499,
+    "wof:geomhash":"1bd54b696710e4ad44dad407d0959b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873780539
+        }
+    ],
+    "wof:id":873780539,
+    "wof:lastmodified":1464297499,
+    "wof:name":"Heritage Herbs",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -71.587764,
+    43.288579,
+    -71.587764,
+    43.288579
+],
+  "geometry": {"coordinates":[-71.58776400000001,43.288579],"type":"Point"}
+}

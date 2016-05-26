@@ -1,0 +1,73 @@
+{
+  "id": 873835009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518465,42.998568,-71.518465,42.998568",
+    "geom:latitude":42.998568,
+    "geom:longitude":-71.518465,
+    "iso:country":"US",
+    "sg:address":"28 Daniel Plummer Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 5122",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AjYydIulU1TpwpCHqlFfZ_42.998568_-71.518465@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298445,
+    "wof:geomhash":"645b3369a077c341782c6adabee57a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873835009
+        }
+    ],
+    "wof:id":873835009,
+    "wof:lastmodified":1464298445,
+    "wof:name":"Boisvert D A  Electric",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.518465,
+    42.998568,
+    -71.518465,
+    42.998568
+],
+  "geometry": {"coordinates":[-71.51846500000001,42.998568],"type":"Point"}
+}

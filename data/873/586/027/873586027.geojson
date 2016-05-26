@@ -1,0 +1,71 @@
+{
+  "id": 873586027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.17847,44.471269,-71.17847,44.471269",
+    "geom:latitude":44.471269,
+    "geom:longitude":-71.17847,
+    "iso:country":"US",
+    "sg:address":"219 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7800",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jdY3VDY5lFSqkE0NW0mz3_44.471269_-71.178470@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294784,
+    "wof:geomhash":"2941ec7cb747b20f5342d6d49b4ba3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873586027
+        }
+    ],
+    "wof:id":873586027,
+    "wof:lastmodified":1464294784,
+    "wof:name":"Human Service Dept",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -71.17847,
+    44.471269,
+    -71.17847,
+    44.471269
+],
+  "geometry": {"coordinates":[-71.17847,44.471269],"type":"Point"}
+}

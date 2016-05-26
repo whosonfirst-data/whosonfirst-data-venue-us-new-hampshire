@@ -1,0 +1,69 @@
+{
+  "id": 873912567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.263161,43.549298,-72.263161,43.549298",
+    "geom:latitude":43.549298,
+    "geom:longitude":-72.263161,
+    "iso:country":"US",
+    "sg:address":"110 Main St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 469 3201",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DbtdGCVWttHXfn9b7Ky5X_43.549298_-72.263161@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300060,
+    "wof:geomhash":"db9111869a6a1ce21c1bfb0c83c49c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873912567
+        }
+    ],
+    "wof:id":873912567,
+    "wof:lastmodified":1464300060,
+    "wof:name":"Town Offices",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.263161,
+    43.549298,
+    -72.263161,
+    43.549298
+],
+  "geometry": {"coordinates":[-72.263161,43.549298],"type":"Point"}
+}

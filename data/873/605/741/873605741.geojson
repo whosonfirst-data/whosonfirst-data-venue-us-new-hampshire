@@ -1,0 +1,71 @@
+{
+  "id": 873605741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250138,42.777429,-71.250138,42.777429",
+    "geom:latitude":42.777429,
+    "geom:longitude":-71.250138,
+    "iso:country":"US",
+    "sg:address":"5 Manor Pkwy",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 1146",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_611ho31dkCObEdB9VAcKLJ_42.777429_-71.250138@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295054,
+    "wof:geomhash":"66a017258267213089ac0a8071042a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873605741
+        }
+    ],
+    "wof:id":873605741,
+    "wof:lastmodified":1464295054,
+    "wof:name":"Vulcraft Corp",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -71.250138,
+    42.777429,
+    -71.250138,
+    42.777429
+],
+  "geometry": {"coordinates":[-71.25013800000001,42.777429],"type":"Point"}
+}

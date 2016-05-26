@@ -1,0 +1,69 @@
+{
+  "id": 873883309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.8739,43.426397,-71.8739,43.426397",
+    "geom:latitude":43.426397,
+    "geom:longitude":-71.8739,
+    "iso:country":"US",
+    "sg:address":"216 Cilleyville Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 735 5644",
+    "sg:postcode":"03216",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811029,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k8pFuV3KsAROvsDJ9g41H_43.426397_-71.873900@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299501,
+    "wof:geomhash":"6b00d6e98d190f86f559b3e6833ac5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811029,
+            "region_id":85688689,
+            "venue_id":873883309
+        }
+    ],
+    "wof:id":873883309,
+    "wof:lastmodified":1464299501,
+    "wof:name":"Bob Rayno Plumbing",
+    "wof:parent_id":85811029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.8739,
+    43.426397,
+    -71.8739,
+    43.426397
+],
+  "geometry": {"coordinates":[-71.87390000000001,43.426397],"type":"Point"}
+}

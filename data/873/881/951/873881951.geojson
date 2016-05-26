@@ -1,0 +1,71 @@
+{
+  "id": 873881951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489795,42.84739,-71.489795,42.84739",
+    "geom:latitude":42.84739,
+    "geom:longitude":-71.489795,
+    "iso:country":"US",
+    "sg:address":"32 Island Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 423 0005",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pgvVNFfu8zveEtEvP4C60_42.847390_-71.489795@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299468,
+    "wof:geomhash":"03176e3b7652d128d3c612a37381fdea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873881951
+        }
+    ],
+    "wof:id":873881951,
+    "wof:lastmodified":1464299468,
+    "wof:name":"Nugent Line Painting Services",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -71.489795,
+    42.84739,
+    -71.489795,
+    42.84739
+],
+  "geometry": {"coordinates":[-71.489795,42.84739],"type":"Point"}
+}

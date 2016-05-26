@@ -1,0 +1,74 @@
+{
+  "id": 873568081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.021816,43.489041,-71.021816,43.489041",
+    "geom:latitude":43.489041,
+    "geom:longitude":-71.021816,
+    "iso:country":"US",
+    "sg:address":"182 Pigeon Hill Rd",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 473 2877",
+    "sg:postcode":"03887",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3REfB5knJYkDMBBJNd2I6J_43.489041_-71.021816@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294586,
+    "wof:geomhash":"4dc06e8e5699890b3f78e22ea842cc89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873568081
+        }
+    ],
+    "wof:id":873568081,
+    "wof:lastmodified":1464294586,
+    "wof:name":"Abbott Sanitation Service",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.021816,
+    43.489041,
+    -71.021816,
+    43.489041
+],
+  "geometry": {"coordinates":[-71.021816,43.489041],"type":"Point"}
+}

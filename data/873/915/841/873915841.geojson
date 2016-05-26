@@ -1,0 +1,74 @@
+{
+  "id": 873915841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.114998,43.978802,-71.114998,43.978802",
+    "geom:latitude":43.978802,
+    "geom:longitude":-71.114998,
+    "iso:country":"US",
+    "sg:address":"223 E Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5955",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shelter",
+        "store"
+    ],
+    "sg:website":"www.conwayshelter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PE34xQdkyqZy0nSA9JWmj_43.978896_-71.114393@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300138,
+    "wof:geomhash":"557d65f8d40be85bd9ddc538d036525e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873915841
+        }
+    ],
+    "wof:id":873915841,
+    "wof:lastmodified":1464300138,
+    "wof:name":"Conway Area Humane Society",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shelter",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.114998,
+    43.978802,
+    -71.114998,
+    43.978802
+],
+  "geometry": {"coordinates":[-71.114998,43.978802],"type":"Point"}
+}

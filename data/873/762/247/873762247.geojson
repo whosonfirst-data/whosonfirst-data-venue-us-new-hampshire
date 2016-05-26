@@ -1,0 +1,79 @@
+{
+  "id": 873762247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.207801,43.594623,-71.207801,43.594623",
+    "geom:latitude":43.594623,
+    "geom:longitude":-71.207801,
+    "iso:country":"US",
+    "sg:address":"47 Pine Hill Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 2422",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OfrNQCtg4qRxjzZ3Ah6Y0_43.594623_-71.207801@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297243,
+    "wof:geomhash":"809884700a27447dde7824feb769fb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873762247
+        }
+    ],
+    "wof:id":873762247,
+    "wof:lastmodified":1464297243,
+    "wof:name":"Wolfeboro Highway Dept",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.207801,
+    43.594623,
+    -71.207801,
+    43.594623
+],
+  "geometry": {"coordinates":[-71.207801,43.594623],"type":"Point"}
+}

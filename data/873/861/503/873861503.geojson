@@ -1,0 +1,71 @@
+{
+  "id": 873861503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43628,43.603655,-71.43628,43.603655",
+    "geom:latitude":43.603655,
+    "geom:longitude":-71.43628,
+    "iso:country":"US",
+    "sg:address":"93 Woodvale Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6394",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0II2Vz4fO7LWMOcH3kL9Lx_43.603655_-71.436280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299068,
+    "wof:geomhash":"7b2ad3493fbd4dc1d8af197991c319e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873861503
+        }
+    ],
+    "wof:id":873861503,
+    "wof:lastmodified":1464299068,
+    "wof:name":"Electric Connection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.43628,
+    43.603655,
+    -71.43628,
+    43.603655
+],
+  "geometry": {"coordinates":[-71.43628,43.603655],"type":"Point"}
+}

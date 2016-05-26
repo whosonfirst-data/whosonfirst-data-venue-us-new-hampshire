@@ -1,0 +1,71 @@
+{
+  "id": 873852403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.172933,43.182075,-71.172933,43.182075",
+    "geom:latitude":43.182075,
+    "geom:longitude":-71.172933,
+    "iso:country":"US",
+    "sg:address":"339 Mountain Ave",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5480",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "household",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HqqnNl63sdAbVSgK2vzJm_43.182075_-71.172933@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298859,
+    "wof:geomhash":"7b506d0313dc00f3e5ce171c5a714340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873852403
+        }
+    ],
+    "wof:id":873852403,
+    "wof:lastmodified":1464298859,
+    "wof:name":"Charest",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.172933,
+    43.182075,
+    -71.172933,
+    43.182075
+],
+  "geometry": {"coordinates":[-71.172933,43.182075],"type":"Point"}
+}

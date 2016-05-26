@@ -1,0 +1,73 @@
+{
+  "id": 873745307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.857359,42.938931,-70.857359,42.938931",
+    "geom:latitude":42.938931,
+    "geom:longitude":-70.857359,
+    "iso:country":"US",
+    "sg:address":"241 Drakeside Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9203",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811635,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lblzJn1ipsjavIvhrHiyI_42.938931_-70.857359@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297016,
+    "wof:geomhash":"1c9003f963e27f3a7fd1725ec9c2043a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811635,
+            "region_id":85688689,
+            "venue_id":873745307
+        }
+    ],
+    "wof:id":873745307,
+    "wof:lastmodified":1464297016,
+    "wof:name":"Conference Center Group",
+    "wof:parent_id":85811635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "meeting",
+        "facility"
+    ]
+},
+  "bbox": [
+    -70.857359,
+    42.938931,
+    -70.857359,
+    42.938931
+],
+  "geometry": {"coordinates":[-70.857359,42.938931],"type":"Point"}
+}

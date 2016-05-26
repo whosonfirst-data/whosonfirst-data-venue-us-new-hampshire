@@ -1,0 +1,69 @@
+{
+  "id": 873606175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536462,43.155774,-71.536462,43.155774",
+    "geom:latitude":43.155774,
+    "geom:longitude":-71.536462,
+    "iso:country":"US",
+    "sg:address":"2 Knox Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 4320",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nHFxraPRZi4kXA3cLv1xv_43.155774_-71.536462@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295061,
+    "wof:geomhash":"a3a422bfef3dd690fe0a4261977732be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873606175
+        }
+    ],
+    "wof:id":873606175,
+    "wof:lastmodified":1464295061,
+    "wof:name":"Bow Fire Dept",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.536462,
+    43.155774,
+    -71.536462,
+    43.155774
+],
+  "geometry": {"coordinates":[-71.536462,43.155774],"type":"Point"}
+}

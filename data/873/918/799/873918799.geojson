@@ -1,0 +1,78 @@
+{
+  "id": 873918799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.986865,43.307057,-70.986865,43.307057",
+    "geom:latitude":43.307057,
+    "geom:longitude":-70.986865,
+    "iso:country":"US",
+    "sg:address":"303 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/73546-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 6633",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bMCO3dhw3vH7azYFpDIJq_43.307057_-70.986865@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"b0f02227bde22cb31faca39f968ed4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873918799
+        }
+    ],
+    "wof:id":873918799,
+    "wof:lastmodified":1464300191,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.986865,
+    43.307057,
+    -70.986865,
+    43.307057
+],
+  "geometry": {"coordinates":[-70.98686499999999,43.307057],"type":"Point"}
+}

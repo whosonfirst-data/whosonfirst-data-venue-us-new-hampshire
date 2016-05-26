@@ -1,0 +1,71 @@
+{
+  "id": 873692851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493545,42.846267,-71.493545,42.846267",
+    "geom:latitude":42.846267,
+    "geom:longitude":-71.493545,
+    "iso:country":"US",
+    "sg:address":"2 Concord Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 8033",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G2H7xq6q1fD518Ut5jIfF_42.846267_-71.493545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296325,
+    "wof:geomhash":"fe2bdf1f30453040eb05bfdb33957f4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873692851
+        }
+    ],
+    "wof:id":873692851,
+    "wof:lastmodified":1464296325,
+    "wof:name":"Ambient",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -71.493545,
+    42.846267,
+    -71.493545,
+    42.846267
+],
+  "geometry": {"coordinates":[-71.493545,42.846267],"type":"Point"}
+}

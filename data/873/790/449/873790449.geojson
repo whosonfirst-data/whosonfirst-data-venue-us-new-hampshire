@@ -1,0 +1,75 @@
+{
+  "id": 873790449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462822,42.990271,-71.462822,42.990271",
+    "geom:latitude":42.990271,
+    "geom:longitude":-71.462822,
+    "iso:country":"US",
+    "sg:address":"14 Manchester St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 373 6186",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oC33udCkWoNsVI3oGiIr9_42.990271_-71.462822@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297646,
+    "wof:geomhash":"4fe8507af074f5f6e0c7ebc89453c152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873790449
+        }
+    ],
+    "wof:id":873790449,
+    "wof:lastmodified":1464297646,
+    "wof:name":"We Care Dry Cleaning",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.462822,
+    42.990271,
+    -71.462822,
+    42.990271
+],
+  "geometry": {"coordinates":[-71.462822,42.990271],"type":"Point"}
+}

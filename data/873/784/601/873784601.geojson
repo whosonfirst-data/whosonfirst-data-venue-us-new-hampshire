@@ -1,0 +1,71 @@
+{
+  "id": 873784601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870068,42.873291,-70.870068,42.873291",
+    "geom:latitude":42.873291,
+    "geom:longitude":-70.870068,
+    "iso:country":"US",
+    "sg:address":"3 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 3651",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I7gWnRQRPDUSoAPm8C0aY_42.873291_-70.870068@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297552,
+    "wof:geomhash":"d6cc259cd0a410c3ea8c2093c35cf740",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873784601
+        }
+    ],
+    "wof:id":873784601,
+    "wof:lastmodified":1464297552,
+    "wof:name":"A Gateway North of The Border",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -70.870068,
+    42.873291,
+    -70.870068,
+    42.873291
+],
+  "geometry": {"coordinates":[-70.870068,42.873291],"type":"Point"}
+}

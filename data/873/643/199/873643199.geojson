@@ -1,0 +1,75 @@
+{
+  "id": 873643199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.171193,43.361534,-72.171193,43.361534",
+    "geom:latitude":43.361534,
+    "geom:longitude":-72.171193,
+    "iso:country":"US",
+    "sg:address":"35 S Main St",
+    "sg:city":"Orford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 353 4629",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837859,
+        102191575,
+        404477077,
+        85633793,
+        85975187,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hedjZ7OJ5sog1XL1I7ktw_43.361534_-72.171193@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295516,
+    "wof:geomhash":"2407958962c1ededf429a4e7140e7afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477077,
+            "locality_id":85975187,
+            "neighbourhood_id":85837859,
+            "region_id":85688689,
+            "venue_id":873643199
+        }
+    ],
+    "wof:id":873643199,
+    "wof:lastmodified":1464295516,
+    "wof:name":"Orford Volunteer Fire Dept",
+    "wof:parent_id":85837859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.171193,
+    43.361534,
+    -72.171193,
+    43.361534
+],
+  "geometry": {"coordinates":[-72.171193,43.361534],"type":"Point"}
+}

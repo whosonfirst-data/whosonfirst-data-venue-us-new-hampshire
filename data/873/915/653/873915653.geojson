@@ -1,0 +1,71 @@
+{
+  "id": 873915653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939239,43.07664,-70.939239,43.07664",
+    "geom:latitude":43.07664,
+    "geom:longitude":-70.939239,
+    "iso:country":"US",
+    "sg:address":"6 Gerry Ave",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 7777",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63xfQ660lLUdyzFHZE0Ch6_43.076856_-70.939571@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300132,
+    "wof:geomhash":"2cf2e333f3ef40ce8d9b239d75d169d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873915653
+        }
+    ],
+    "wof:id":873915653,
+    "wof:lastmodified":1464300132,
+    "wof:name":"Gepetto's Pizza",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.939239,
+    43.07664,
+    -70.939239,
+    43.07664
+],
+  "geometry": {"coordinates":[-70.939239,43.07664],"type":"Point"}
+}

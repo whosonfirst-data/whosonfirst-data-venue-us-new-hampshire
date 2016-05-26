@@ -1,0 +1,71 @@
+{
+  "id": 873909341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245868,42.7749,-71.245868,42.7749",
+    "geom:latitude":42.7749,
+    "geom:longitude":-71.245868,
+    "iso:country":"US",
+    "sg:address":"1 Keewaydin",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 3232",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75zlFKKNHW7LDStuZeYQPl_42.774900_-71.245868@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300000,
+    "wof:geomhash":"33dcdf782574bc32f88ffc2bedce213f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873909341
+        }
+    ],
+    "wof:id":873909341,
+    "wof:lastmodified":1464300000,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.245868,
+    42.7749,
+    -71.245868,
+    42.7749
+],
+  "geometry": {"coordinates":[-71.245868,42.7749],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873703403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47444,43.525676,-71.47444,43.525676",
+    "geom:latitude":43.525676,
+    "geom:longitude":-71.47444,
+    "iso:country":"US",
+    "sg:address":"103 Water St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 0800",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "firewood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FuLFkX9HUkfxsdughlEXT_43.525676_-71.474440@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296439,
+    "wof:geomhash":"534af2d5f12ae1592cf8822626fb9013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873703403
+        }
+    ],
+    "wof:id":873703403,
+    "wof:lastmodified":1464296439,
+    "wof:name":"Alan Dauphin",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firewood"
+    ]
+},
+  "bbox": [
+    -71.47444,
+    43.525676,
+    -71.47444,
+    43.525676
+],
+  "geometry": {"coordinates":[-71.47444,43.525676],"type":"Point"}
+}

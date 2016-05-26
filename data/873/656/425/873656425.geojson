@@ -1,0 +1,71 @@
+{
+  "id": 873656425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.761343,42.839895,-71.761343,42.839895",
+    "geom:latitude":42.839895,
+    "geom:longitude":-71.761343,
+    "iso:country":"US",
+    "sg:address":"258 Burns Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 3660",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kaFi1QezyFYFQYhfwHHwD_42.839895_-71.761343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295661,
+    "wof:geomhash":"212c7f43208989793d8c7dcf010e73a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873656425
+        }
+    ],
+    "wof:id":873656425,
+    "wof:lastmodified":1464295661,
+    "wof:name":"Current Electric Inc",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.761343,
+    42.839895,
+    -71.761343,
+    42.839895
+],
+  "geometry": {"coordinates":[-71.761343,42.839895],"type":"Point"}
+}

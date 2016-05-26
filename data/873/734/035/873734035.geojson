@@ -1,0 +1,69 @@
+{
+  "id": 873734035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.78951,42.944785,-70.78951,42.944785",
+    "geom:latitude":42.944785,
+    "geom:longitude":-70.78951,
+    "iso:country":"US",
+    "sg:address":"989 Ocean Blvd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 7888",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842115,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cLeBKkt602VfWKtjFoL2i_42.944785_-70.789510@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296832,
+    "wof:geomhash":"367e263da466c6e08f48bb7e0afc16e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85842115,
+            "region_id":85688689,
+            "venue_id":873734035
+        }
+    ],
+    "wof:id":873734035,
+    "wof:lastmodified":1464296832,
+    "wof:name":"Alrich Inc",
+    "wof:parent_id":85842115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.78951,
+    42.944785,
+    -70.78951,
+    42.944785
+],
+  "geometry": {"coordinates":[-70.78951000000001,42.944785],"type":"Point"}
+}

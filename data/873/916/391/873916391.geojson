@@ -1,0 +1,74 @@
+{
+  "id": 873916391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40661,42.771389,-71.40661,42.771389",
+    "geom:latitude":42.771389,
+    "geom:longitude":-71.40661,
+    "iso:country":"US",
+    "sg:address":"8 Kimball Hill Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/26363-bill-cahills-super-subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 7710",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PA1pPX05k2koVfPIgsh37_42.771389_-71.406610@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300148,
+    "wof:geomhash":"7083adb78cc3b03fc87e0a3ddf29686f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873916391
+        }
+    ],
+    "wof:id":873916391,
+    "wof:lastmodified":1464300148,
+    "wof:name":"Bill Cahill's Super Subs",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.40661,
+    42.771389,
+    -71.40661,
+    42.771389
+],
+  "geometry": {"coordinates":[-71.40661,42.771389],"type":"Point"}
+}

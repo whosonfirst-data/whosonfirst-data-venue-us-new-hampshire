@@ -1,0 +1,73 @@
+{
+  "id": 873820047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020236,42.816488,-72.020236,42.816488",
+    "geom:latitude":42.816488,
+    "geom:longitude":-72.020236,
+    "iso:country":"US",
+    "sg:address":"50 Peterborough St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 4573",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dD12SQ5kPvuPcKhoTvlfy_42.816488_-72.020236@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298121,
+    "wof:geomhash":"ee7217e674ed8180a9c824579de93fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873820047
+        }
+    ],
+    "wof:id":873820047,
+    "wof:lastmodified":1464298121,
+    "wof:name":"Mr Mikes Minimart 18",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.020236,
+    42.816488,
+    -72.020236,
+    42.816488
+],
+  "geometry": {"coordinates":[-72.020236,42.816488],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873902143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.860956,43.234563,-70.860956,43.234563",
+    "geom:latitude":43.234563,
+    "geom:longitude":-70.860956,
+    "iso:country":"US",
+    "sg:address":"2 Glenview Rd",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 4691",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZykfRuxoYaaHrImMr9yGs_43.234563_-70.860956@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299859,
+    "wof:geomhash":"113e16d18ac536bf6d45cbbf505176df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873902143
+        }
+    ],
+    "wof:id":873902143,
+    "wof:lastmodified":1464299859,
+    "wof:name":"Seacoast Pool Svc",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -70.860956,
+    43.234563,
+    -70.860956,
+    43.234563
+],
+  "geometry": {"coordinates":[-70.860956,43.234563],"type":"Point"}
+}

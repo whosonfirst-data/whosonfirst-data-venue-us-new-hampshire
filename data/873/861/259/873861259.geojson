@@ -1,0 +1,71 @@
+{
+  "id": 873861259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.822491,43.04429,-70.822491,43.04429",
+    "geom:latitude":43.04429,
+    "geom:longitude":-70.822491,
+    "iso:country":"US",
+    "sg:address":"31 Ocean Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 6094",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34iIAKpg7EYBnpzzUipKZh_43.044290_-70.822491@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299064,
+    "wof:geomhash":"82734174a9a9a86566457cd3a4c85ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873861259
+        }
+    ],
+    "wof:id":873861259,
+    "wof:lastmodified":1464299064,
+    "wof:name":"Mc Neil Construction Inc",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.822491,
+    43.04429,
+    -70.822491,
+    43.04429
+],
+  "geometry": {"coordinates":[-70.822491,43.04429],"type":"Point"}
+}

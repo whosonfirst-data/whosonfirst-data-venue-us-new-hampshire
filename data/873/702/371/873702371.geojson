@@ -1,0 +1,77 @@
+{
+  "id": 873702371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513338,42.757527,-71.513338,42.757527",
+    "geom:latitude":42.757527,
+    "geom:longitude":-71.513338,
+    "iso:country":"US",
+    "sg:address":"8 Souhegan Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 1667",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892277,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H3rewf2Y3ID0rjGECH80h_42.757527_-71.513338@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296429,
+    "wof:geomhash":"03bd24e999f7a50a9ddf1b5511aea6cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892277,
+            "region_id":85688689,
+            "venue_id":873702371
+        }
+    ],
+    "wof:id":873702371,
+    "wof:lastmodified":1464296429,
+    "wof:name":"REG Machine",
+    "wof:parent_id":85892277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.513338,
+    42.757527,
+    -71.513338,
+    42.757527
+],
+  "geometry": {"coordinates":[-71.513338,42.757527],"type":"Point"}
+}

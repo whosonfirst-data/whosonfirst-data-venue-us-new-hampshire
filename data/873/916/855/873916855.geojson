@@ -1,0 +1,74 @@
+{
+  "id": 873916855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533421,42.798836,-71.533421,42.798836",
+    "geom:latitude":42.798836,
+    "geom:longitude":-71.533421,
+    "iso:country":"US",
+    "sg:address":"2 Cellu Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/184118-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 0550",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cug6fDWKwpoKn0ATOCfLd_42.798836_-71.533421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300156,
+    "wof:geomhash":"d818e62e80904331cf4602c5110b891d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873916855
+        }
+    ],
+    "wof:id":873916855,
+    "wof:lastmodified":1464300156,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.533421,
+    42.798836,
+    -71.533421,
+    42.798836
+],
+  "geometry": {"coordinates":[-71.533421,42.798836],"type":"Point"}
+}

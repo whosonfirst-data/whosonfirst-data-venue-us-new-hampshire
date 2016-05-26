@@ -1,0 +1,72 @@
+{
+  "id": 873621141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.56955,44.4896,-71.56955,44.4896",
+    "geom:latitude":44.4896,
+    "geom:longitude":-71.56955,
+    "iso:country":"US",
+    "sg:address":"79 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4939",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.cooscountydemocrat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BLCghRdEecEabGDn0pPny_44.489600_-71.569550@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295262,
+    "wof:geomhash":"7cfe1833867e4e116633222c37f669d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873621141
+        }
+    ],
+    "wof:id":873621141,
+    "wof:lastmodified":1464295262,
+    "wof:name":"Coof County Democrat",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -71.56955,
+    44.4896,
+    -71.56955,
+    44.4896
+],
+  "geometry": {"coordinates":[-71.56955000000001,44.4896],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873717883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414486,42.707063,-71.414486,42.707063",
+    "geom:latitude":42.707063,
+    "geom:longitude":-71.414486,
+    "iso:country":"US",
+    "sg:address":"12 Walnut St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6231",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53dYhAOebwb5uIXm5Cd5sC_42.707063_-71.414486@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296619,
+    "wof:geomhash":"b535bd90c52e9f4c85bf9329003b7f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873717883
+        }
+    ],
+    "wof:id":873717883,
+    "wof:lastmodified":1464296619,
+    "wof:name":"Dascoli Painting",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.414486,
+    42.707063,
+    -71.414486,
+    42.707063
+],
+  "geometry": {"coordinates":[-71.414486,42.707063],"type":"Point"}
+}

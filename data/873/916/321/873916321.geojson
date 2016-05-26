@@ -1,0 +1,72 @@
+{
+  "id": 873916321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415265,42.767375,-71.415265,42.767375",
+    "geom:latitude":42.767375,
+    "geom:longitude":-71.415265,
+    "iso:country":"US",
+    "sg:address":"189b Central St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/26331-wallys-pizza--restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 9339",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W467XkmogfkqoF6L8Edyv_42.767375_-71.415265@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300147,
+    "wof:geomhash":"6c3c8b2056bcfe022941167c54302ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873916321
+        }
+    ],
+    "wof:id":873916321,
+    "wof:lastmodified":1464300147,
+    "wof:name":"Wally's Pizza & Restaurant",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.415265,
+    42.767375,
+    -71.415265,
+    42.767375
+],
+  "geometry": {"coordinates":[-71.41526500000001,42.767375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873791309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.18693,44.463456,-71.18693,44.463456",
+    "geom:latitude":44.463456,
+    "geom:longitude":-71.18693,
+    "iso:country":"US",
+    "sg:address":"8 Brown St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1198",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mill",
+        "fabric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FZ6mT72xAAIS5L6nZ4tcp_44.463456_-71.186930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297658,
+    "wof:geomhash":"100def0f158b348771be54404be499e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873791309
+        }
+    ],
+    "wof:id":873791309,
+    "wof:lastmodified":1464297658,
+    "wof:name":"Raymond Paulin",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "fabric"
+    ]
+},
+  "bbox": [
+    -71.18693,
+    44.463456,
+    -71.18693,
+    44.463456
+],
+  "geometry": {"coordinates":[-71.18693,44.463456],"type":"Point"}
+}

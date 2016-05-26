@@ -1,0 +1,76 @@
+{
+  "id": 873663389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.638004,43.455722,-71.638004,43.455722",
+    "geom:latitude":43.455722,
+    "geom:longitude":-71.638004,
+    "iso:country":"US",
+    "sg:address":"259 Sanborn St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3434",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54tGtyqk1oyiadk07HX1hz_43.455722_-71.638004@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295734,
+    "wof:geomhash":"490680a1e59dfb7cfb440338d14c84cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873663389
+        }
+    ],
+    "wof:id":873663389,
+    "wof:lastmodified":1464295734,
+    "wof:name":"Orbit Satellite and Sound Sys",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.638004,
+    43.455722,
+    -71.638004,
+    43.455722
+],
+  "geometry": {"coordinates":[-71.638004,43.455722],"type":"Point"}
+}

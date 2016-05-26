@@ -1,0 +1,73 @@
+{
+  "id": 873568289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.671159,42.752193,-71.671159,42.752193",
+    "geom:latitude":42.752193,
+    "geom:longitude":-71.671159,
+    "iso:country":"US",
+    "sg:address":"185 State Rte 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 5944",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYZy9z4PoMRdeeTyJ1np0_42.752193_-71.671159@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294588,
+    "wof:geomhash":"96e7b8b3d8ccb2351a7dc96cb8d270c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873568289
+        }
+    ],
+    "wof:id":873568289,
+    "wof:lastmodified":1464294588,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.671159,
+    42.752193,
+    -71.671159,
+    42.752193
+],
+  "geometry": {"coordinates":[-71.671159,42.752193],"type":"Point"}
+}

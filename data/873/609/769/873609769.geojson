@@ -1,0 +1,73 @@
+{
+  "id": 873609769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.960821,43.269489,-71.960821,43.269489",
+    "geom:latitude":43.269489,
+    "geom:longitude":-71.960821,
+    "iso:country":"US",
+    "sg:address":"57 W Main St",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2111",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "player",
+        "recorder",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RqnSVRAjkeqlXcbqb6T7M_43.269489_-71.960821@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295138,
+    "wof:geomhash":"221aed4cec63af54b681271f80075501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873609769
+        }
+    ],
+    "wof:id":873609769,
+    "wof:lastmodified":1464295138,
+    "wof:name":"Video Pursuit Of Bradford",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "player",
+        "recorder",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.960821,
+    43.269489,
+    -71.960821,
+    43.269489
+],
+  "geometry": {"coordinates":[-71.960821,43.269489],"type":"Point"}
+}

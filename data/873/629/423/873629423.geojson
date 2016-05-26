@@ -1,0 +1,75 @@
+{
+  "id": 873629423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.919666,43.110207,-71.919666,43.110207",
+    "geom:latitude":43.110207,
+    "geom:longitude":-71.919666,
+    "iso:country":"US",
+    "sg:address":"15 Antrim Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 4300",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57OpVwqGgSmtAWC8Tlx9qD_43.110207_-71.919666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295360,
+    "wof:geomhash":"aa3545a56ef7b75af446c9c6d8c6c2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873629423
+        }
+    ],
+    "wof:id":873629423,
+    "wof:lastmodified":1464295360,
+    "wof:name":"A & B Video",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -71.919666,
+    43.110207,
+    -71.919666,
+    43.110207
+],
+  "geometry": {"coordinates":[-71.91966600000001,43.110207],"type":"Point"}
+}

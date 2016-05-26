@@ -1,0 +1,71 @@
+{
+  "id": 873781555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.732703,43.023025,-71.732703,43.023025",
+    "geom:latitude":43.023025,
+    "geom:longitude":-71.732703,
+    "iso:country":"US",
+    "sg:address":"97 Old Francestown Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 1158",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vPb7lxA6bBTVkvRh1kF6j_43.023025_-71.732703@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297512,
+    "wof:geomhash":"1c42785c74f698adfaa0501e7c95627c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873781555
+        }
+    ],
+    "wof:id":873781555,
+    "wof:lastmodified":1464297512,
+    "wof:name":"Accurate Timber Harvesting",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.732703,
+    43.023025,
+    -71.732703,
+    43.023025
+],
+  "geometry": {"coordinates":[-71.732703,43.023025],"type":"Point"}
+}

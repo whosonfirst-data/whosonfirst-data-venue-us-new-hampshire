@@ -1,0 +1,81 @@
+{
+  "id": 873914979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.812717,42.909426,-70.812717,42.909426",
+    "geom:latitude":42.909426,
+    "geom:longitude":-70.812717,
+    "iso:country":"US",
+    "sg:address":"66 Ashworth Ave",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 1222",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852121,
+        102191575,
+        404476755,
+        85633793,
+        85975133,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wr7vwgqN1g0HMPYJD3FMK_42.909790_-70.812593@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300106,
+    "wof:geomhash":"a71ef797192ae32dba82d14720261c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975133,
+            "neighbourhood_id":85852121,
+            "region_id":85688689,
+            "venue_id":873914979
+        }
+    ],
+    "wof:id":873914979,
+    "wof:lastmodified":1464300106,
+    "wof:name":"Crimeline For The Hamptons",
+    "wof:parent_id":85852121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -70.812717,
+    42.909426,
+    -70.812717,
+    42.909426
+],
+  "geometry": {"coordinates":[-70.81271700000001,42.909426],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873665931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536594,42.717764,-71.536594,42.717764",
+    "geom:latitude":42.717764,
+    "geom:longitude":-71.536594,
+    "iso:country":"US",
+    "sg:address":"1096 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 9184",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60hFw2Heegk2yiFgPdag1z_42.717764_-71.536594@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295759,
+    "wof:geomhash":"8d7974f1d33022737ade7a47ba4738e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873665931
+        }
+    ],
+    "wof:id":873665931,
+    "wof:lastmodified":1464295759,
+    "wof:name":"Belanger's Painting",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.536594,
+    42.717764,
+    -71.536594,
+    42.717764
+],
+  "geometry": {"coordinates":[-71.53659399999999,42.717764],"type":"Point"}
+}

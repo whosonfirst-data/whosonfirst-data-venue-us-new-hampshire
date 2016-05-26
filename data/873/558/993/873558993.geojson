@@ -1,0 +1,69 @@
+{
+  "id": 873558993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407517,43.54829,-71.407517,43.54829",
+    "geom:latitude":43.54829,
+    "geom:longitude":-71.407517,
+    "iso:country":"US",
+    "sg:address":"39 Cherry Valley Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 4758",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CMKchfiWCwMkrTA4MX0HE_43.548290_-71.407517@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294488,
+    "wof:geomhash":"7beb32871a228a1a9989fdb6c3c461c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873558993
+        }
+    ],
+    "wof:id":873558993,
+    "wof:lastmodified":1464294488,
+    "wof:name":"Gilford Fire Dept",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.407517,
+    43.54829,
+    -71.407517,
+    43.54829
+],
+  "geometry": {"coordinates":[-71.407517,43.54829],"type":"Point"}
+}

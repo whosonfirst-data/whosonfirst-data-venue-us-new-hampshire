@@ -1,0 +1,69 @@
+{
+  "id": 873645767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45589,43.343871,-71.45589,43.343871",
+    "geom:latitude":43.343871,
+    "geom:longitude":-71.45589,
+    "iso:country":"US",
+    "sg:address":"154 Clough Hill Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 0143",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YeHxChbhdrbfGBAIJgkmz_43.343871_-71.455890@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295544,
+    "wof:geomhash":"8182b17899e5ef6c95b58e458397fa7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873645767
+        }
+    ],
+    "wof:id":873645767,
+    "wof:lastmodified":1464295544,
+    "wof:name":"Lane Automotive Group LLC",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.45589,
+    43.343871,
+    -71.45589,
+    43.343871
+],
+  "geometry": {"coordinates":[-71.45589,43.343871],"type":"Point"}
+}

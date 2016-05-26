@@ -1,0 +1,71 @@
+{
+  "id": 873796019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443251,43.701527,-71.443251,43.701527",
+    "geom:latitude":43.701527,
+    "geom:longitude":-71.443251,
+    "iso:country":"US",
+    "sg:address":"66 Alpine Park Rd",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 4305",
+    "sg:postcode":"03254",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cottage",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85835419,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0expssZbBhUkkjoRrNyvLs_43.701527_-71.443251@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297727,
+    "wof:geomhash":"44082e97de314461787b70cc71257a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85835419,
+            "region_id":85688689,
+            "venue_id":873796019
+        }
+    ],
+    "wof:id":873796019,
+    "wof:lastmodified":1464297727,
+    "wof:name":"Colonial Pines Resort",
+    "wof:parent_id":85835419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cottage",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -71.443251,
+    43.701527,
+    -71.443251,
+    43.701527
+],
+  "geometry": {"coordinates":[-71.443251,43.701527],"type":"Point"}
+}

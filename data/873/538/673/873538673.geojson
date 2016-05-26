@@ -1,0 +1,71 @@
+{
+  "id": 873538673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409995,42.773506,-71.409995,42.773506",
+    "geom:latitude":42.773506,
+    "geom:longitude":-71.409995,
+    "iso:country":"US",
+    "sg:address":"14 Greeley St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 0592",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tJCg4dtRv2X8OWGfuwcH4_42.773506_-71.409995@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294246,
+    "wof:geomhash":"44451f571f2c998da6805951dc1e7b73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873538673
+        }
+    ],
+    "wof:id":873538673,
+    "wof:lastmodified":1464294246,
+    "wof:name":"Climatech Mechanical & Elec",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.409995,
+    42.773506,
+    -71.409995,
+    42.773506
+],
+  "geometry": {"coordinates":[-71.409995,42.773506],"type":"Point"}
+}

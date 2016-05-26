@@ -1,0 +1,71 @@
+{
+  "id": 873920741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.058512,43.051001,-71.058512,43.051001",
+    "geom:latitude":43.051001,
+    "geom:longitude":-71.058512,
+    "iso:country":"US",
+    "sg:address":"13 Epping Woods Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 3506",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lawn",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03oKKyJq2dp026cLePyi7V_43.051001_-71.058512@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300223,
+    "wof:geomhash":"475a808bb72655d30a09b5607dc0aa6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873920741
+        }
+    ],
+    "wof:id":873920741,
+    "wof:lastmodified":1464300223,
+    "wof:name":"Michael's Yard Care",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.058512,
+    43.051001,
+    -71.058512,
+    43.051001
+],
+  "geometry": {"coordinates":[-71.05851199999999,43.051001],"type":"Point"}
+}

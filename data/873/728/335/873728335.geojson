@@ -1,0 +1,71 @@
+{
+  "id": 873728335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413436,43.792659,-71.413436,43.792659",
+    "geom:latitude":43.792659,
+    "geom:longitude":-71.413436,
+    "iso:country":"US",
+    "sg:address":"18 Wentworth Hill Rd",
+    "sg:city":"Center Sandwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 284 9900",
+    "sg:postcode":"03227",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855105,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62Lbn61D5rb9266x9oFpgK_43.792659_-71.413436@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296758,
+    "wof:geomhash":"588013776bbf195a9cfa0c4351fe7968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85855105,
+            "region_id":85688689,
+            "venue_id":873728335
+        }
+    ],
+    "wof:id":873728335,
+    "wof:lastmodified":1464296758,
+    "wof:name":"Open Gate Healthcare",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.413436,
+    43.792659,
+    -71.413436,
+    43.792659
+],
+  "geometry": {"coordinates":[-71.413436,43.792659],"type":"Point"}
+}

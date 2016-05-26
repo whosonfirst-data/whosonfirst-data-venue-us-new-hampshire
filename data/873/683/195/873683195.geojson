@@ -1,0 +1,71 @@
+{
+  "id": 873683195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46587,43.541808,-71.46587,43.541808",
+    "geom:latitude":43.541808,
+    "geom:longitude":-71.46587,
+    "iso:country":"US",
+    "sg:address":"536 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3213",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fwr5qg7UveEck3VuUhCub_43.541808_-71.465870@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296086,
+    "wof:geomhash":"7e62249c2da9f4e16cf2831d5c3c02ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873683195
+        }
+    ],
+    "wof:id":873683195,
+    "wof:lastmodified":1464296086,
+    "wof:name":"Hewitt's Welding & Automotive",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.46587,
+    43.541808,
+    -71.46587,
+    43.541808
+],
+  "geometry": {"coordinates":[-71.46587,43.541808],"type":"Point"}
+}

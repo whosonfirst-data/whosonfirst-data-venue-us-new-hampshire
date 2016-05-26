@@ -1,0 +1,71 @@
+{
+  "id": 873889727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.992028,43.132117,-70.992028,43.132117",
+    "geom:latitude":43.132117,
+    "geom:longitude":-70.992028,
+    "iso:country":"US",
+    "sg:address":"7 James Farm Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 292 5016",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0byM9rtN7JYbPAaPJbfpZq_43.132117_-70.992028@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299627,
+    "wof:geomhash":"0d3af5221f9898225ff406b675d8e485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873889727
+        }
+    ],
+    "wof:id":873889727,
+    "wof:lastmodified":1464299627,
+    "wof:name":"Metatak",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -70.992028,
+    43.132117,
+    -70.992028,
+    43.132117
+],
+  "geometry": {"coordinates":[-70.992028,43.132117],"type":"Point"}
+}

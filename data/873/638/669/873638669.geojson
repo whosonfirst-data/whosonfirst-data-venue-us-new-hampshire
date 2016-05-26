@@ -1,0 +1,73 @@
+{
+  "id": 873638669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.879124,43.215325,-70.879124,43.215325",
+    "geom:latitude":43.215325,
+    "geom:longitude":-70.879124,
+    "iso:country":"US",
+    "sg:address":"812 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 4114",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jIcGSUYcSxSDnU8NiqmAw_43.215325_-70.879124@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295461,
+    "wof:geomhash":"7b0f35661d21e216263ec3c1664ce604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873638669
+        }
+    ],
+    "wof:id":873638669,
+    "wof:lastmodified":1464295461,
+    "wof:name":"Makai Naturopathic Ctr",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -70.879124,
+    43.215325,
+    -70.879124,
+    43.215325
+],
+  "geometry": {"coordinates":[-70.879124,43.215325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873745619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.210974,42.784957,-71.210974,42.784957",
+    "geom:latitude":42.784957,
+    "geom:longitude":-71.210974,
+    "iso:country":"US",
+    "sg:address":"223 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8628",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "visual",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aghI53Ptxs6hzLH0OA3PY_42.784957_-71.210974@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297020,
+    "wof:geomhash":"1581328b6d184222d8789f2ec31fdcec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873745619
+        }
+    ],
+    "wof:id":873745619,
+    "wof:lastmodified":1464297020,
+    "wof:name":"Acuity Eye Care",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "visual",
+        "training"
+    ]
+},
+  "bbox": [
+    -71.210974,
+    42.784957,
+    -71.210974,
+    42.784957
+],
+  "geometry": {"coordinates":[-71.21097399999999,42.784957],"type":"Point"}
+}

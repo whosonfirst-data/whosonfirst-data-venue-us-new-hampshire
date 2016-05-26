@@ -1,0 +1,71 @@
+{
+  "id": 873705325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.121988,43.664201,-71.121988,43.664201",
+    "geom:latitude":43.664201,
+    "geom:longitude":-71.121988,
+    "iso:country":"US",
+    "sg:address":"49 Trask Mountain Rd",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3233",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "horse",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P5XVLT4LzYRuwYpRxp8WQ_43.664201_-71.121988@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296461,
+    "wof:geomhash":"88ee299ddc17788b34410e137674194b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873705325
+        }
+    ],
+    "wof:id":873705325,
+    "wof:lastmodified":1464296461,
+    "wof:name":"Cold Creek Land & Livestock",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.121988,
+    43.664201,
+    -71.121988,
+    43.664201
+],
+  "geometry": {"coordinates":[-71.121988,43.664201],"type":"Point"}
+}

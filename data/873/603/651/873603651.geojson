@@ -1,0 +1,70 @@
+{
+  "id": 873603651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.27758,42.92849,-72.27758,42.92849",
+    "geom:latitude":42.92849,
+    "geom:longitude":-72.27758,
+    "iso:country":"US",
+    "sg:address":"216 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 6630",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SaWWLwcb9qJNZLjmzrsXr_42.928490_-72.277580@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295026,
+    "wof:geomhash":"33b1711732c2acc102f59f403e14fd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873603651
+        }
+    ],
+    "wof:id":873603651,
+    "wof:lastmodified":1464295026,
+    "wof:name":"Keene Book Exchange",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27758,
+    42.92849,
+    -72.27758,
+    42.92849
+],
+  "geometry": {"coordinates":[-72.27758,42.92849],"type":"Point"}
+}

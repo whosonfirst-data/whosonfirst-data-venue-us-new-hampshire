@@ -1,0 +1,71 @@
+{
+  "id": 873895471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.963745,43.20248,-70.963745,43.20248",
+    "geom:latitude":43.20248,
+    "geom:longitude":-70.963745,
+    "iso:country":"US",
+    "sg:address":"248 Littleworth Rd",
+    "sg:city":"Madbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 5931",
+    "sg:postcode":"03823",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UiAgzvll8bx1rtar0Gsbl_43.202480_-70.963745@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299729,
+    "wof:geomhash":"b832ebef72449433df0af5f22831790c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873895471
+        }
+    ],
+    "wof:id":873895471,
+    "wof:lastmodified":1464299729,
+    "wof:name":"Taylor's Trading Post",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -70.963745,
+    43.20248,
+    -70.963745,
+    43.20248
+],
+  "geometry": {"coordinates":[-70.963745,43.20248],"type":"Point"}
+}

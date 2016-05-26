@@ -1,0 +1,64 @@
+{
+  "id": 873930673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.090401,43.259102,-71.090401,43.259102",
+    "geom:latitude":43.259102,
+    "geom:longitude":-71.090401,
+    "iso:country":"US",
+    "sg:address":"Route 202A",
+    "sg:city":"Center Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2224",
+    "sg:postcode":"03815",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eVgdaKYskCq93hLKwQ0Kt_43.259102_-71.090401@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300424,
+    "wof:geomhash":"41c9773143eee5a75660038246c0c0f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873930673
+        }
+    ],
+    "wof:id":873930673,
+    "wof:lastmodified":1464300424,
+    "wof:name":"Henry's Auto & Truck Repair",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.090401,
+    43.259102,
+    -71.090401,
+    43.259102
+],
+  "geometry": {"coordinates":[-71.090401,43.259102],"type":"Point"}
+}

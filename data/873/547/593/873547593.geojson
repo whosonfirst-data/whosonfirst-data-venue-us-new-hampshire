@@ -1,0 +1,71 @@
+{
+  "id": 873547593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405702,43.550071,-71.405702,43.550071",
+    "geom:latitude":43.550071,
+    "geom:longitude":-71.405702,
+    "iso:country":"US",
+    "sg:address":"47 Cherry Valley Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3286",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dW8h1FyHbiPicKaaEKVkX_43.550071_-71.405702@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294347,
+    "wof:geomhash":"21ae85ff257cc1031f37bb7adcb7b75e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873547593
+        }
+    ],
+    "wof:id":873547593,
+    "wof:lastmodified":1464294347,
+    "wof:name":"Gilford Tax Collector",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -71.405702,
+    43.550071,
+    -71.405702,
+    43.550071
+],
+  "geometry": {"coordinates":[-71.40570200000001,43.550071],"type":"Point"}
+}

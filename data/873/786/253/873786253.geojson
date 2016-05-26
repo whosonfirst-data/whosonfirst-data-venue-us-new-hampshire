@@ -1,0 +1,73 @@
+{
+  "id": 873786253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553801,43.449204,-71.553801,43.449204",
+    "geom:latitude":43.449204,
+    "geom:longitude":-71.553801,
+    "iso:country":"US",
+    "sg:address":"343 Tilton Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 3901",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aQKhzyfmejgyfo5fcvlG2_43.449204_-71.553801@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297575,
+    "wof:geomhash":"202f4f1c49fa42a66f53caa5cd2c1041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873786253
+        }
+    ],
+    "wof:id":873786253,
+    "wof:lastmodified":1464297575,
+    "wof:name":"Birch Hill Kennels",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.553801,
+    43.449204,
+    -71.553801,
+    43.449204
+],
+  "geometry": {"coordinates":[-71.55380100000001,43.449204],"type":"Point"}
+}

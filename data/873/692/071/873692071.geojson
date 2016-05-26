@@ -1,0 +1,75 @@
+{
+  "id": 873692071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463764,43.004507,-71.463764,43.004507",
+    "geom:latitude":43.004507,
+    "geom:longitude":-71.463764,
+    "iso:country":"US",
+    "sg:address":"57 Bay St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 0290",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UA2STwyrKvV6jg3WXSO8F_43.004507_-71.463764@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296317,
+    "wof:geomhash":"14f8a9075f3e85e93de9c9daa861b49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873692071
+        }
+    ],
+    "wof:id":873692071,
+    "wof:lastmodified":1464296317,
+    "wof:name":"Dr Peter PSC Plstc Srgry Cntr",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -71.463764,
+    43.004507,
+    -71.463764,
+    43.004507
+],
+  "geometry": {"coordinates":[-71.463764,43.004507],"type":"Point"}
+}

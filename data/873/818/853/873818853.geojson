@@ -1,0 +1,73 @@
+{
+  "id": 873818853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653721,42.722153,-71.653721,42.722153",
+    "geom:latitude":42.722153,
+    "geom:longitude":-71.653721,
+    "iso:country":"US",
+    "sg:address":"21 Pepperell Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 1003",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ERnD76xh00yLCBidhwWJQ_42.722153_-71.653721@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298096,
+    "wof:geomhash":"97693cf1e2b3d758ccfebb098f61e153",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873818853
+        }
+    ],
+    "wof:id":873818853,
+    "wof:lastmodified":1464298096,
+    "wof:name":"Shaw Satellite Svc",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.653721,
+    42.722153,
+    -71.653721,
+    42.722153
+],
+  "geometry": {"coordinates":[-71.653721,42.722153],"type":"Point"}
+}

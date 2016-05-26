@@ -1,0 +1,72 @@
+{
+  "id": 873595223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581501,42.807606,-71.581501,42.807606",
+    "geom:latitude":42.807606,
+    "geom:longitude":-71.581501,
+    "iso:country":"US",
+    "sg:address":"16 Columbia Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6777",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "testing",
+        "apparatus"
+    ],
+    "sg:website":"www.vibrac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hwru2HTl6hEXMWyvJ2Ggt_42.807606_-71.581501@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294908,
+    "wof:geomhash":"b63407577caa5baad3395f7d2481a3f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873595223
+        }
+    ],
+    "wof:id":873595223,
+    "wof:lastmodified":1464294908,
+    "wof:name":"Vibrac Corp",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -71.581501,
+    42.807606,
+    -71.581501,
+    42.807606
+],
+  "geometry": {"coordinates":[-71.581501,42.807606],"type":"Point"}
+}

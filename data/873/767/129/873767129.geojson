@@ -1,0 +1,71 @@
+{
+  "id": 873767129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183642,44.467335,-71.183642,44.467335",
+    "geom:latitude":44.467335,
+    "geom:longitude":-71.183642,
+    "iso:country":"US",
+    "sg:address":"38 Glen Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1250",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "access",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A3YtAOQspXkNoxV85f0eo_44.467335_-71.183642@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297327,
+    "wof:geomhash":"53ef450834e45156e7a03a892cf80fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873767129
+        }
+    ],
+    "wof:id":873767129,
+    "wof:lastmodified":1464297327,
+    "wof:name":"N C I A",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "access",
+        "internet"
+    ]
+},
+  "bbox": [
+    -71.183642,
+    44.467335,
+    -71.183642,
+    44.467335
+],
+  "geometry": {"coordinates":[-71.18364200000001,44.467335],"type":"Point"}
+}

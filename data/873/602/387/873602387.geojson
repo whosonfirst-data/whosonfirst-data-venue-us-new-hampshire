@@ -1,0 +1,71 @@
+{
+  "id": 873602387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.900832,43.11444,-71.900832,43.11444",
+    "geom:latitude":43.11444,
+    "geom:longitude":-71.900832,
+    "iso:country":"US",
+    "sg:address":"65 Myrtle St Exn",
+    "sg:city":"Hillsborough",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 4200",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GCFZXPwmE4adGvMRqrpSi_43.114440_-71.900832@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295012,
+    "wof:geomhash":"557f7083e71082f79c0e2c0ebb37d47f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873602387
+        }
+    ],
+    "wof:id":873602387,
+    "wof:lastmodified":1464295012,
+    "wof:name":"Willowrock Apartments",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.900832,
+    43.11444,
+    -71.900832,
+    43.11444
+],
+  "geometry": {"coordinates":[-71.90083199999999,43.11444],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873918853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871999,42.894397,-70.871999,42.894397",
+    "geom:latitude":42.894397,
+    "geom:longitude":-70.871999,
+    "iso:country":"US",
+    "sg:address":"652 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/seabrook/194694-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 8361",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MYetROTGrIIwgQ0cwh4Ah_42.894397_-70.871999@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300192,
+    "wof:geomhash":"a29c8a6ad2684f68b23a3b80f9fcc67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873918853
+        }
+    ],
+    "wof:id":873918853,
+    "wof:lastmodified":1464300192,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.871999,
+    42.894397,
+    -70.871999,
+    42.894397
+],
+  "geometry": {"coordinates":[-70.871999,42.894397],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873925303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.166893,43.023218,-71.166893,43.023218",
+    "geom:latitude":43.023218,
+    "geom:longitude":-71.166893,
+    "iso:country":"US",
+    "sg:address":"64 Freetown Rd",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 2439",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "educational",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://crayoncampusnh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64Sgt9vuEIDQFLz34jDzYp_43.023218_-71.166893@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300309,
+    "wof:geomhash":"3a7217194e30f62cd48e13b25774a8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873925303
+        }
+    ],
+    "wof:id":873925303,
+    "wof:lastmodified":1464300309,
+    "wof:name":"Crayon Campus",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "educational",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.166893,
+    43.023218,
+    -71.166893,
+    43.023218
+],
+  "geometry": {"coordinates":[-71.166893,43.023218],"type":"Point"}
+}

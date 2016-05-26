@@ -1,0 +1,77 @@
+{
+  "id": 873577813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289467,43.701517,-72.289467,43.701517",
+    "geom:latitude":43.701517,
+    "geom:longitude":-72.289467,
+    "iso:country":"US",
+    "sg:address":"23 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 2940",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkcFTtwteSyFvUxsF4aOB_43.701517_-72.289467@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294692,
+    "wof:geomhash":"8105ba33e6e21bee56c25abdec2ce0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873577813
+        }
+    ],
+    "wof:id":873577813,
+    "wof:lastmodified":1464294692,
+    "wof:name":"BRD Maintenance",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.289467,
+    43.701517,
+    -72.289467,
+    43.701517
+],
+  "geometry": {"coordinates":[-72.289467,43.701517],"type":"Point"}
+}

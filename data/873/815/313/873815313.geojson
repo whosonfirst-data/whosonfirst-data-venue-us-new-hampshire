@@ -1,0 +1,71 @@
+{
+  "id": 873815313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.918666,43.008531,-70.918666,43.008531",
+    "geom:latitude":43.008531,
+    "geom:longitude":-70.918666,
+    "iso:country":"US",
+    "sg:address":"58 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 0333",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nT3w34ebq8DNVGeW8rnoW_43.008531_-70.918666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298019,
+    "wof:geomhash":"38764cd24bebd1bf75c0a17c27038a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873815313
+        }
+    ],
+    "wof:id":873815313,
+    "wof:lastmodified":1464298019,
+    "wof:name":"Stratham Storage Inc",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -70.918666,
+    43.008531,
+    -70.918666,
+    43.008531
+],
+  "geometry": {"coordinates":[-70.918666,43.008531],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873781171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.819678,43.044812,-70.819678,43.044812",
+    "geom:latitude":43.044812,
+    "geom:longitude":-70.819678,
+    "iso:country":"US",
+    "sg:address":"95 Ocean Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 6900",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.seacoastcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GXmmR74PZcOdfJVdiCpa4_43.044812_-70.819678@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297507,
+    "wof:geomhash":"430961a6d49f0f33926368229882befe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873781171
+        }
+    ],
+    "wof:id":873781171,
+    "wof:lastmodified":1464297507,
+    "wof:name":"Seacoast Volkswagen",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.819678,
+    43.044812,
+    -70.819678,
+    43.044812
+],
+  "geometry": {"coordinates":[-70.819678,43.044812],"type":"Point"}
+}

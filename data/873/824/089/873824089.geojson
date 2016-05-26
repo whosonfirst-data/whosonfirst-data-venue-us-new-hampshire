@@ -1,0 +1,81 @@
+{
+  "id": 873824089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398293,42.78191,-71.398293,42.78191",
+    "geom:latitude":42.78191,
+    "geom:longitude":-71.398293,
+    "iso:country":"US",
+    "sg:address":"20 Roy Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 579 9817",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "electronics",
+        "industry",
+        "engineer"
+    ],
+    "sg:website":"www.designcriteria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Iiks77vAnlkpbaYu60JFw_42.781910_-71.398293@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298214,
+    "wof:geomhash":"1592f2349e5afd662ceae5483bfbda51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873824089
+        }
+    ],
+    "wof:id":873824089,
+    "wof:lastmodified":1464298214,
+    "wof:name":"Design Criteria Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "electronics",
+        "industry",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.398293,
+    42.78191,
+    -71.398293,
+    42.78191
+],
+  "geometry": {"coordinates":[-71.398293,42.78191],"type":"Point"}
+}

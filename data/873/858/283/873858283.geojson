@@ -1,0 +1,69 @@
+{
+  "id": 873858283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.526439,43.447146,-71.526439,43.447146",
+    "geom:latitude":43.447146,
+    "geom:longitude":-71.526439,
+    "iso:country":"US",
+    "sg:address":"23 Industrial Dr",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 267 8987",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821087,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aVW8YAtJo7GQcnBxYBUkN_43.447146_-71.526439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298978,
+    "wof:geomhash":"181ef6fd05294ec12faa05bb30bf28da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821087,
+            "region_id":85688689,
+            "venue_id":873858283
+        }
+    ],
+    "wof:id":873858283,
+    "wof:lastmodified":1464298978,
+    "wof:name":"Fedex Freight",
+    "wof:parent_id":85821087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -71.526439,
+    43.447146,
+    -71.526439,
+    43.447146
+],
+  "geometry": {"coordinates":[-71.526439,43.447146],"type":"Point"}
+}

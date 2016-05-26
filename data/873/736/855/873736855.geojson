@@ -1,0 +1,71 @@
+{
+  "id": 873736855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.861746,43.020198,-70.861746,43.020198",
+    "geom:latitude":43.020198,
+    "geom:longitude":-70.861746,
+    "iso:country":"US",
+    "sg:address":"138 Union Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0029",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YnMkImKrCa1y2gjwzTyxZ_43.020198_-70.861746@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296880,
+    "wof:geomhash":"f5f81199800717bf38a232500e105d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873736855
+        }
+    ],
+    "wof:id":873736855,
+    "wof:lastmodified":1464296880,
+    "wof:name":"David Kramer Electric LLC",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.861746,
+    43.020198,
+    -70.861746,
+    43.020198
+],
+  "geometry": {"coordinates":[-70.861746,43.020198],"type":"Point"}
+}

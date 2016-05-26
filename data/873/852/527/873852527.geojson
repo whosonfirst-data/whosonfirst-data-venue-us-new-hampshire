@@ -1,0 +1,73 @@
+{
+  "id": 873852527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510308,43.184057,-71.510308,43.184057",
+    "geom:latitude":43.184057,
+    "geom:longitude":-71.510308,
+    "iso:country":"US",
+    "sg:address":"54 Garvins Falls Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 715 1500",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SGec9ZB4mYmm7rkJAbqV5_43.184057_-71.510308@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298861,
+    "wof:geomhash":"f13aed12f1f815504b7a96b7b029135c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873852527
+        }
+    ],
+    "wof:id":873852527,
+    "wof:lastmodified":1464298861,
+    "wof:name":"Frog Hollow Trucking LLC",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.510308,
+    43.184057,
+    -71.510308,
+    43.184057
+],
+  "geometry": {"coordinates":[-71.51030799999999,43.184057],"type":"Point"}
+}

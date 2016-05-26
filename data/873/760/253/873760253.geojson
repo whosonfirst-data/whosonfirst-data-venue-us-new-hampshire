@@ -1,0 +1,75 @@
+{
+  "id": 873760253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.97449,43.297575,-70.97449,43.297575",
+    "geom:latitude":43.297575,
+    "geom:longitude":-70.97449,
+    "iso:country":"US",
+    "sg:address":"95 Charles St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9333",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TUy36SGzKNbwftxv5o1tM_43.297575_-70.974490@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297210,
+    "wof:geomhash":"32da95f73529f7975a186e5a0772a925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873760253
+        }
+    ],
+    "wof:id":873760253,
+    "wof:lastmodified":1464297210,
+    "wof:name":"Rochester Child Care Center",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -70.97449,
+    43.297575,
+    -70.97449,
+    43.297575
+],
+  "geometry": {"coordinates":[-70.97449,43.297575],"type":"Point"}
+}

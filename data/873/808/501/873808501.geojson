@@ -1,0 +1,71 @@
+{
+  "id": 873808501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486786,42.993057,-71.486786,42.993057",
+    "geom:latitude":42.993057,
+    "geom:longitude":-71.486786,
+    "iso:country":"US",
+    "sg:address":"83 Cumberland St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 7841",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HyPNVEdbNxU6iugviGhpd_42.993057_-71.486786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297900,
+    "wof:geomhash":"f8495113e03ef9a58b1670ad712fef5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873808501
+        }
+    ],
+    "wof:id":873808501,
+    "wof:lastmodified":1464297900,
+    "wof:name":"Divine Linen Rentals",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.486786,
+    42.993057,
+    -71.486786,
+    42.993057
+],
+  "geometry": {"coordinates":[-71.486786,42.993057],"type":"Point"}
+}

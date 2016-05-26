@@ -1,0 +1,71 @@
+{
+  "id": 873555823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510291,43.190275,-71.510291,43.190275",
+    "geom:latitude":43.190275,
+    "geom:longitude":-71.510291,
+    "iso:country":"US",
+    "sg:address":"90 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 9988",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wusBcqMEd6uTqbV3VE6Gw_43.190275_-71.510291@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"acdc4d5eca87729eb784d688f0f7470f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873555823
+        }
+    ],
+    "wof:id":873555823,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Self Reflections",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.510291,
+    43.190275,
+    -71.510291,
+    43.190275
+],
+  "geometry": {"coordinates":[-71.510291,43.190275],"type":"Point"}
+}

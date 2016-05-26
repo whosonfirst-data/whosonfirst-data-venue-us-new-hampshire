@@ -1,0 +1,69 @@
+{
+  "id": 873716369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.289217,42.806373,-71.289217,42.806373",
+    "geom:latitude":42.806373,
+    "geom:longitude":-71.289217,
+    "iso:country":"US",
+    "sg:address":"33 Indian Rock Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 2020",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rj6vLvarej3pxPXOdRkWt_42.806373_-71.289217@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296599,
+    "wof:geomhash":"90cf8822a02f7d5e1bccc0c262cd9c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873716369
+        }
+    ],
+    "wof:id":873716369,
+    "wof:lastmodified":1464296599,
+    "wof:name":"Golden Crane LLC",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -71.289217,
+    42.806373,
+    -71.289217,
+    42.806373
+],
+  "geometry": {"coordinates":[-71.28921699999999,42.806373],"type":"Point"}
+}

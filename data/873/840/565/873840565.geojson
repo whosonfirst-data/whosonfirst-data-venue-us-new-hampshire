@@ -1,0 +1,71 @@
+{
+  "id": 873840565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679262,43.779364,-71.679262,43.779364",
+    "geom:latitude":43.779364,
+    "geom:longitude":-71.679262,
+    "iso:country":"US",
+    "sg:address":"382 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3119",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o0mvvYwB8E7ZH4rkcd3fi_43.779364_-71.679262@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298564,
+    "wof:geomhash":"e03996cdde98484a6a9cf9a95a9ee67e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873840565
+        }
+    ],
+    "wof:id":873840565,
+    "wof:lastmodified":1464298564,
+    "wof:name":"Pmt Housing",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.679262,
+    43.779364,
+    -71.679262,
+    43.779364
+],
+  "geometry": {"coordinates":[-71.67926199999999,43.779364],"type":"Point"}
+}

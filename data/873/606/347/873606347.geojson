@@ -1,0 +1,69 @@
+{
+  "id": 873606347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.225187,42.782158,-71.225187,42.782158",
+    "geom:latitude":42.782158,
+    "geom:longitude":-71.225187,
+    "iso:country":"US",
+    "sg:address":"160 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8250",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C8SqBL1RwbVYRlRScQgxR_42.782158_-71.225187@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295063,
+    "wof:geomhash":"6c1bc5d71ca90dd96f2ad1c98a15ae74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873606347
+        }
+    ],
+    "wof:id":873606347,
+    "wof:lastmodified":1464295063,
+    "wof:name":"Salem Laundry/Shirt",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.225187,
+    42.782158,
+    -71.225187,
+    42.782158
+],
+  "geometry": {"coordinates":[-71.22518700000001,42.782158],"type":"Point"}
+}

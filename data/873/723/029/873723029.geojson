@@ -1,0 +1,79 @@
+{
+  "id": 873723029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45006,42.763543,-71.45006,42.763543",
+    "geom:latitude":42.763543,
+    "geom:longitude":-71.45006,
+    "iso:country":"US",
+    "sg:address":"41 Bridge St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 4593",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dci9vW91jx83poYvPjKL0_42.763543_-71.450060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296688,
+    "wof:geomhash":"fbab9cd738d02644a4691f9b06ce91de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873723029
+        }
+    ],
+    "wof:id":873723029,
+    "wof:lastmodified":1464296688,
+    "wof:name":"Beebie's Auto",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.45006,
+    42.763543,
+    -71.45006,
+    42.763543
+],
+  "geometry": {"coordinates":[-71.45005999999999,42.763543],"type":"Point"}
+}

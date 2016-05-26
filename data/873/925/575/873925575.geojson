@@ -1,0 +1,84 @@
+{
+  "id": 873925575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233059,42.787129,-71.233059,42.787129",
+    "geom:latitude":42.787129,
+    "geom:longitude":-71.233059,
+    "iso:country":"US",
+    "sg:address":"166 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 952 4369",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.bigdaddyspizzanh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66fZZ16U4AcGLzOOSjuVKI_42.787129_-71.233059@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300318,
+    "wof:geomhash":"8e2d7352996005356ab264ecda228358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925575
+        }
+    ],
+    "wof:id":873925575,
+    "wof:lastmodified":1464300318,
+    "wof:name":"Big Daddy's Pizza",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.233059,
+    42.787129,
+    -71.233059,
+    42.787129
+],
+  "geometry": {"coordinates":[-71.233059,42.787129],"type":"Point"}
+}

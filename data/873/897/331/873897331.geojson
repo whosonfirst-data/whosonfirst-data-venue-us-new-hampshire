@@ -1,0 +1,73 @@
+{
+  "id": 873897331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460332,42.922256,-71.460332,42.922256",
+    "geom:latitude":42.922256,
+    "geom:longitude":-71.460332,
+    "iso:country":"US",
+    "sg:address":"19 Harvey Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 4994",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XFfvtaEyJ8IOUyyfxO15E_42.922256_-71.460332@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299771,
+    "wof:geomhash":"44c5506bfd1e22036bac0ccae513939d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873897331
+        }
+    ],
+    "wof:id":873897331,
+    "wof:lastmodified":1464299771,
+    "wof:name":"Granite State Chem Dry",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.460332,
+    42.922256,
+    -71.460332,
+    42.922256
+],
+  "geometry": {"coordinates":[-71.46033199999999,42.922256],"type":"Point"}
+}

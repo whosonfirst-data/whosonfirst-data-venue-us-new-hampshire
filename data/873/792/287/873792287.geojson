@@ -1,0 +1,71 @@
+{
+  "id": 873792287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.734151,43.587406,-71.734151,43.587406",
+    "geom:latitude":43.587406,
+    "geom:longitude":-71.734151,
+    "iso:country":"US",
+    "sg:address":"115 High St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 3764",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K7ZQaSeEXPXI5YSK0ggbs_43.587406_-71.734151@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297681,
+    "wof:geomhash":"c03e1c1a64b2a1617405afe4fccd67e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873792287
+        }
+    ],
+    "wof:id":873792287,
+    "wof:lastmodified":1464297681,
+    "wof:name":"Lyon Brothers Trucking",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.734151,
+    43.587406,
+    -71.734151,
+    43.587406
+],
+  "geometry": {"coordinates":[-71.734151,43.587406],"type":"Point"}
+}

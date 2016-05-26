@@ -1,0 +1,67 @@
+{
+  "id": 873807161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.824613,43.181752,-71.824613,43.181752",
+    "geom:latitude":43.181752,
+    "geom:longitude":-71.824613,
+    "iso:country":"US",
+    "sg:address":"3 Gould St",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3200",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:website":"www.villagegreenhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJfHU9ndqqNjigrUt38xp_43.181752_-71.824613@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297874,
+    "wof:geomhash":"7d344303bd2d14550144b14eadfd31d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873807161
+        }
+    ],
+    "wof:id":873807161,
+    "wof:lastmodified":1464297874,
+    "wof:name":"Village Greenhouse",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.824613,
+    43.181752,
+    -71.824613,
+    43.181752
+],
+  "geometry": {"coordinates":[-71.824613,43.181752],"type":"Point"}
+}

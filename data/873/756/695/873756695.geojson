@@ -1,0 +1,75 @@
+{
+  "id": 873756695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285742,42.90644,-71.285742,42.90644",
+    "geom:latitude":42.90644,
+    "geom:longitude":-71.285742,
+    "iso:country":"US",
+    "sg:address":"5 Lake Ave",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 1579",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04hQp3lEQgaHe5G97bIyBI_42.906440_-71.285742@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297165,
+    "wof:geomhash":"fb0c904b9bf2021fbcc16ccfb5ea7079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873756695
+        }
+    ],
+    "wof:id":873756695,
+    "wof:lastmodified":1464297165,
+    "wof:name":"Mike Brady Auto",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.285742,
+    42.90644,
+    -71.285742,
+    42.90644
+],
+  "geometry": {"coordinates":[-71.285742,42.90644],"type":"Point"}
+}

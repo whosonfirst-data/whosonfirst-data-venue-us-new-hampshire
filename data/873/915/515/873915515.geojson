@@ -1,0 +1,80 @@
+{
+  "id": 873915515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.834153,42.945052,-70.834153,42.945052",
+    "geom:latitude":42.945052,
+    "geom:longitude":-70.834153,
+    "iso:country":"US",
+    "sg:address":"630 Lafayette Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9808",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "super",
+        "store",
+        "supermarket"
+    ],
+    "sg:website":"http://www.hannaford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817949,
+        102191575,
+        404476755,
+        85633793,
+        85975123,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kOut1G4k48GiH8rLU83kH_42.945331_-70.833975@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300128,
+    "wof:geomhash":"39da7fa91b3218c9a5c1530d9fc58441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975123,
+            "neighbourhood_id":85817949,
+            "region_id":85688689,
+            "venue_id":873915515
+        }
+    ],
+    "wof:id":873915515,
+    "wof:lastmodified":1464300128,
+    "wof:name":"Hannaford Supermarket & Phrmcy",
+    "wof:parent_id":85817949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -70.834153,
+    42.945052,
+    -70.834153,
+    42.945052
+],
+  "geometry": {"coordinates":[-70.834153,42.945052],"type":"Point"}
+}

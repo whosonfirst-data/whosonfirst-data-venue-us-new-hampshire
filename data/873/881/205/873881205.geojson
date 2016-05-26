@@ -1,0 +1,71 @@
+{
+  "id": 873881205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.072578,43.499512,-72.072578,43.499512",
+    "geom:latitude":43.499512,
+    "geom:longitude":-72.072578,
+    "iso:country":"US",
+    "sg:address":"64 Grantham Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 2160",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtIh60IldgtPvAY8DYKP0_43.499512_-72.072578@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299455,
+    "wof:geomhash":"a7c2071f10b312ad81bf8dba5fd8f230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873881205
+        }
+    ],
+    "wof:id":873881205,
+    "wof:lastmodified":1464299455,
+    "wof:name":"Northeast Septic Designs",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.072578,
+    43.499512,
+    -72.072578,
+    43.499512
+],
+  "geometry": {"coordinates":[-72.07257799999999,43.499512],"type":"Point"}
+}

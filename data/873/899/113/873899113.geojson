@@ -1,0 +1,71 @@
+{
+  "id": 873899113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.938031,43.079905,-70.938031,43.079905",
+    "geom:latitude":43.079905,
+    "geom:longitude":-70.938031,
+    "iso:country":"US",
+    "sg:address":"16 Chapel St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 5321",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "industry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79uo2EBISKw8h8HiFwKn1o_43.079905_-70.938031@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299801,
+    "wof:geomhash":"b6ee175ea3b91a588a4dd2d739dbdc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873899113
+        }
+    ],
+    "wof:id":873899113,
+    "wof:lastmodified":1464299801,
+    "wof:name":"University of New Hampshire",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.938031,
+    43.079905,
+    -70.938031,
+    43.079905
+],
+  "geometry": {"coordinates":[-70.938031,43.079905],"type":"Point"}
+}

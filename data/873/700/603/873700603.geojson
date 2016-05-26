@@ -1,0 +1,70 @@
+{
+  "id": 873700603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.28943,43.701916,-72.28943,43.701916",
+    "geom:latitude":43.701916,
+    "geom:longitude":-72.28943,
+    "iso:country":"US",
+    "sg:address":"9 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 4479",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39an0GIh9ibFk435lSVLE1_43.701916_-72.289430@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296412,
+    "wof:geomhash":"816358d5999fe5f2981feb08ad19da48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873700603
+        }
+    ],
+    "wof:id":873700603,
+    "wof:lastmodified":1464296412,
+    "wof:name":"Left Bank Books",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28943,
+    43.701916,
+    -72.28943,
+    43.701916
+],
+  "geometry": {"coordinates":[-72.28943,43.701916],"type":"Point"}
+}

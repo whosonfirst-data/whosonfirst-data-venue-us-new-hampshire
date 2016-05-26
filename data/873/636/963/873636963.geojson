@@ -1,0 +1,71 @@
+{
+  "id": 873636963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.168749,44.467242,-71.168749,44.467242",
+    "geom:latitude":44.467242,
+    "geom:longitude":-71.168749,
+    "iso:country":"US",
+    "sg:address":"22 King St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 2532",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "savings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XYtVW8azSFODsA3mCS4bl_44.467242_-71.168749@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295444,
+    "wof:geomhash":"5b65195a3e41e345303ff821a80b7931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873636963
+        }
+    ],
+    "wof:id":873636963,
+    "wof:lastmodified":1464295444,
+    "wof:name":"Laconia Savings Bank",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "savings"
+    ]
+},
+  "bbox": [
+    -71.168749,
+    44.467242,
+    -71.168749,
+    44.467242
+],
+  "geometry": {"coordinates":[-71.16874900000001,44.467242],"type":"Point"}
+}

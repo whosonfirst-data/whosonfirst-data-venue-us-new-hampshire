@@ -1,0 +1,71 @@
+{
+  "id": 873840395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456461,43.554828,-71.456461,43.554828",
+    "geom:latitude":43.554828,
+    "geom:longitude":-71.456461,
+    "iso:country":"US",
+    "sg:address":"1002 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8555",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20kM21RKor6FIQZr25ez8V_43.554828_-71.456461@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298560,
+    "wof:geomhash":"60cd038b76b922c7b977ecc7a9ab4803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873840395
+        }
+    ],
+    "wof:id":873840395,
+    "wof:lastmodified":1464298560,
+    "wof:name":"Lakeside Mobility & Scooter",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -71.456461,
+    43.554828,
+    -71.456461,
+    43.554828
+],
+  "geometry": {"coordinates":[-71.456461,43.554828],"type":"Point"}
+}

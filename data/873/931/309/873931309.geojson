@@ -1,0 +1,82 @@
+{
+  "id": 873931309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.87404,43.197681,-70.87404,43.197681",
+    "geom:latitude":43.197681,
+    "geom:longitude":-70.87404,
+    "iso:country":"US",
+    "sg:address":"10 2nd St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 3961",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "store",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JIspJAGPof3xULSoSiqto_43.197681_-70.874040@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300435,
+    "wof:geomhash":"301c3564bc554062d33f25e0e4fe3f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873931309
+        }
+    ],
+    "wof:id":873931309,
+    "wof:lastmodified":1464300435,
+    "wof:name":"Converse Upholstery",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -70.87404,
+    43.197681,
+    -70.87404,
+    43.197681
+],
+  "geometry": {"coordinates":[-70.87403999999999,43.197681],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873615777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462241,42.984987,-71.462241,42.984987",
+    "geom:latitude":42.984987,
+    "geom:longitude":-71.462241,
+    "iso:country":"US",
+    "sg:address":"31 Auburn St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 2424",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yott4uufRFBh1Eray6jEJ_42.984987_-71.462241@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295203,
+    "wof:geomhash":"d6ec32863163e7c1f702db039b7aa754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873615777
+        }
+    ],
+    "wof:id":873615777,
+    "wof:lastmodified":1464295203,
+    "wof:name":"Yankee's Service Ctr",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.462241,
+    42.984987,
+    -71.462241,
+    42.984987
+],
+  "geometry": {"coordinates":[-71.46224100000001,42.984987],"type":"Point"}
+}

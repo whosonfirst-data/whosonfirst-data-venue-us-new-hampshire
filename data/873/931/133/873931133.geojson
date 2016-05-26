@@ -1,0 +1,71 @@
+{
+  "id": 873931133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118202,43.9781,-71.118202,43.9781",
+    "geom:latitude":43.9781,
+    "geom:longitude":-71.118202,
+    "iso:country":"US",
+    "sg:address":"131 Pleasant St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5218",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54t8myYh4qhXekECDCONzv_43.978100_-71.118202@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300432,
+    "wof:geomhash":"e45de29b6d97abf8f4d37bec4d07e73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931133
+        }
+    ],
+    "wof:id":873931133,
+    "wof:lastmodified":1464300432,
+    "wof:name":"Cavalier King Charles Spaniel Club",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.118202,
+    43.9781,
+    -71.118202,
+    43.9781
+],
+  "geometry": {"coordinates":[-71.118202,43.9781],"type":"Point"}
+}

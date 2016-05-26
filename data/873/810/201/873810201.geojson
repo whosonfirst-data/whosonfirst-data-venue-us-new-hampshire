@@ -1,0 +1,71 @@
+{
+  "id": 873810201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.888909,43.04101,-70.888909,43.04101",
+    "geom:latitude":43.04101,
+    "geom:longitude":-70.888909,
+    "iso:country":"US",
+    "sg:address":"285 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 559 9393",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "computer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nAj4DVfWxD3hVODHKYWD5_43.041010_-70.888909@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297930,
+    "wof:geomhash":"c764b806c07c2cf086a8f8a704ce522c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873810201
+        }
+    ],
+    "wof:id":873810201,
+    "wof:lastmodified":1464297930,
+    "wof:name":"Strathem Computers",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -70.888909,
+    43.04101,
+    -70.888909,
+    43.04101
+],
+  "geometry": {"coordinates":[-70.888909,43.04101],"type":"Point"}
+}

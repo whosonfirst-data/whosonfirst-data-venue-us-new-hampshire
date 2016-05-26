@@ -1,0 +1,89 @@
+{
+  "id": 873925999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.253885,42.774353,-71.253885,42.774353",
+    "geom:latitude":42.774353,
+    "geom:longitude":-71.253885,
+    "iso:country":"US",
+    "sg:address":"53 Pelham Rd Salem",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 785 9492",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "disposal",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish",
+        "waste"
+    ],
+    "sg:website":"http://www.casella.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LSnZVPSVko6jZoNRfg1vD_42.774353_-71.253885@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300327,
+    "wof:geomhash":"0007dd409d9d52bb38bdf8065cf8d174",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925999
+        }
+    ],
+    "wof:id":873925999,
+    "wof:lastmodified":1464300327,
+    "wof:name":"Casella Waste Management-Salem",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "disposal",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish",
+        "waste"
+    ]
+},
+  "bbox": [
+    -71.253885,
+    42.774353,
+    -71.253885,
+    42.774353
+],
+  "geometry": {"coordinates":[-71.253885,42.774353],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873602929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.146651,43.022857,-71.146651,43.022857",
+    "geom:latitude":43.022857,
+    "geom:longitude":-71.146651,
+    "iso:country":"US",
+    "sg:address":"24 Shannon Dr",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 247 2076",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YxQMOYSWUA1xv8fhb8nkM_43.022857_-71.146651@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295018,
+    "wof:geomhash":"191ffd738b0b1b88b96a693624732b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873602929
+        }
+    ],
+    "wof:id":873602929,
+    "wof:lastmodified":1464295018,
+    "wof:name":"Hawkeye Home Inspections",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.146651,
+    43.022857,
+    -71.146651,
+    43.022857
+],
+  "geometry": {"coordinates":[-71.14665100000001,43.022857],"type":"Point"}
+}

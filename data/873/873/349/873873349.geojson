@@ -1,0 +1,69 @@
+{
+  "id": 873873349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.095979,43.372575,-72.095979,43.372575",
+    "geom:latitude":43.372575,
+    "geom:longitude":-72.095979,
+    "iso:country":"US",
+    "sg:address":"207 Stagecoach Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 3009",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jvjlg0anTFA78zCvgO9xQ_43.372575_-72.095979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299304,
+    "wof:geomhash":"d5697c77798db8716d4b2adfa95dbddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873873349
+        }
+    ],
+    "wof:id":873873349,
+    "wof:lastmodified":1464299304,
+    "wof:name":"Atkinson Const",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.095979,
+    43.372575,
+    -72.095979,
+    43.372575
+],
+  "geometry": {"coordinates":[-72.095979,43.372575],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873743765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486642,43.177288,-71.486642,43.177288",
+    "geom:latitude":43.177288,
+    "geom:longitude":-71.486642,
+    "iso:country":"US",
+    "sg:address":"567 Pembroke St",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 9581",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aMXiwVMDw9c1AH7SvOmwj_43.177288_-71.486642@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296987,
+    "wof:geomhash":"8429736d7524cc4e251c9c641ceffe8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873743765
+        }
+    ],
+    "wof:id":873743765,
+    "wof:lastmodified":1464296987,
+    "wof:name":"Better Homes and Gardens",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.486642,
+    43.177288,
+    -71.486642,
+    43.177288
+],
+  "geometry": {"coordinates":[-71.486642,43.177288],"type":"Point"}
+}

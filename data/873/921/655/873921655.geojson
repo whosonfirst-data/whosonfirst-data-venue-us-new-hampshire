@@ -1,0 +1,80 @@
+{
+  "id": 873921655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460273,42.868843,-71.460273,42.868843",
+    "geom:latitude":42.868843,
+    "geom:longitude":-71.460273,
+    "iso:country":"US",
+    "sg:address":"18 Center St",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 1458",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844207,
+        102191575,
+        404477193,
+        85633793,
+        85975251,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11f9W6H0Z29XeMu8N92mog_42.868843_-71.460273@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300240,
+    "wof:geomhash":"6ba9899b3e3563e05ffbaa6c37ab4523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477193,
+            "locality_id":85975251,
+            "neighbourhood_id":85844207,
+            "region_id":85688689,
+            "venue_id":873921655
+        }
+    ],
+    "wof:id":873921655,
+    "wof:lastmodified":1464300240,
+    "wof:name":"Thompson Kennel",
+    "wof:parent_id":85844207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -71.460273,
+    42.868843,
+    -71.460273,
+    42.868843
+],
+  "geometry": {"coordinates":[-71.460273,42.868843],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873784253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.911706,43.011042,-70.911706,43.011042",
+    "geom:latitude":43.011042,
+    "geom:longitude":-70.911706,
+    "iso:country":"US",
+    "sg:address":"59 Stephen Dr",
+    "sg:city":"Freedom",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 1556",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EMoM1bu07SUyyx9gHwRaD_43.011042_-70.911706@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297547,
+    "wof:geomhash":"bebacfdf5124b798de2bc720b12bdb07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873784253
+        }
+    ],
+    "wof:id":873784253,
+    "wof:lastmodified":1464297547,
+    "wof:name":"Electrical Solutions LLC",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.911706,
+    43.011042,
+    -70.911706,
+    43.011042
+],
+  "geometry": {"coordinates":[-70.911706,43.011042],"type":"Point"}
+}

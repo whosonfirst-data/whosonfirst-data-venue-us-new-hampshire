@@ -1,0 +1,78 @@
+{
+  "id": 873923447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465639,42.76158,-71.465639,42.76158",
+    "geom:latitude":42.76158,
+    "geom:longitude":-71.465639,
+    "iso:country":"US",
+    "sg:address":"142 Main St Rm 211",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 6736",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "sg:website":"http://www.dpinstruments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NDM8S4NjveI1JMkelGQY6_42.761580_-71.465639@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300279,
+    "wof:geomhash":"4154ae9814648db82689285bd72029a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923447
+        }
+    ],
+    "wof:id":873923447,
+    "wof:lastmodified":1464300279,
+    "wof:name":"D&P Instruments",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.465639,
+    42.76158,
+    -71.465639,
+    42.76158
+],
+  "geometry": {"coordinates":[-71.465639,42.76158],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873637465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.948518,43.114991,-71.948518,43.114991",
+    "geom:latitude":43.114991,
+    "geom:longitude":-71.948518,
+    "iso:country":"US",
+    "sg:address":"281 2nd New Hampshire Tpke",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 478 3335",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k6F9wfc3wGNINPPixC7Pg_43.114991_-71.948518@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295449,
+    "wof:geomhash":"96386f270bcd96d9838471a84017b55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873637465
+        }
+    ],
+    "wof:id":873637465,
+    "wof:lastmodified":1464295449,
+    "wof:name":"Corner Store",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.948518,
+    43.114991,
+    -71.948518,
+    43.114991
+],
+  "geometry": {"coordinates":[-71.94851800000001,43.114991],"type":"Point"}
+}

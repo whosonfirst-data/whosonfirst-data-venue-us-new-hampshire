@@ -1,0 +1,69 @@
+{
+  "id": 873618505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.842883,44.302879,-71.842883,44.302879",
+    "geom:latitude":44.302879,
+    "geom:longitude":-71.842883,
+    "iso:country":"US",
+    "sg:address":"1223 Slate Ledge Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 0248",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "egg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MHEEIW6csNnLh2NKBQARq_44.302879_-71.842883@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295235,
+    "wof:geomhash":"fda6012a1250523a6a5375fed239647d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873618505
+        }
+    ],
+    "wof:id":873618505,
+    "wof:lastmodified":1464295235,
+    "wof:name":"Cabin View Farm",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "egg"
+    ]
+},
+  "bbox": [
+    -71.842883,
+    44.302879,
+    -71.842883,
+    44.302879
+],
+  "geometry": {"coordinates":[-71.842883,44.302879],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873587125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.84975,43.205853,-71.84975,43.205853",
+    "geom:latitude":43.205853,
+    "geom:longitude":-71.84975,
+    "iso:country":"US",
+    "sg:address":"16 Bradford Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3912",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_788dxpnSw4uzYluNs032nR_43.205853_-71.849750@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294798,
+    "wof:geomhash":"2e3cf1dc762943315ec09b2520cd30f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873587125
+        }
+    ],
+    "wof:id":873587125,
+    "wof:lastmodified":1464294798,
+    "wof:name":"New Harvester Market Inc",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.84975,
+    43.205853,
+    -71.84975,
+    43.205853
+],
+  "geometry": {"coordinates":[-71.84975,43.205853],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873785921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473892,42.766648,-71.473892,42.766648",
+    "geom:latitude":42.766648,
+    "geom:longitude":-71.473892,
+    "iso:country":"US",
+    "sg:address":"4 Bruce St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 879 9008",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00cWOoEFtTCoV3QJcKC9jM_42.766648_-71.473892@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297567,
+    "wof:geomhash":"826744fc8623cd0aab77a8a5a5bd129c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873785921
+        }
+    ],
+    "wof:id":873785921,
+    "wof:lastmodified":1464297567,
+    "wof:name":"A J Electronics",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.473892,
+    42.766648,
+    -71.473892,
+    42.766648
+],
+  "geometry": {"coordinates":[-71.47389200000001,42.766648],"type":"Point"}
+}

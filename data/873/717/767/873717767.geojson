@@ -1,0 +1,80 @@
+{
+  "id": 873717767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.196994,44.399673,-71.196994,44.399673",
+    "geom:latitude":44.399673,
+    "geom:longitude":-71.196994,
+    "iso:country":"US",
+    "sg:address":"400 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5237",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "rep",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KYxxbciAl4HMnRp8zIwrR_44.399673_-71.196994@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296618,
+    "wof:geomhash":"8984ae4488d87b73fa7072c443fb97c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873717767
+        }
+    ],
+    "wof:id":873717767,
+    "wof:lastmodified":1464296618,
+    "wof:name":"Pauline's Music Studio",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "rep",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -71.196994,
+    44.399673,
+    -71.196994,
+    44.399673
+],
+  "geometry": {"coordinates":[-71.196994,44.399673],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873867643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.949287,42.877386,-71.949287,42.877386",
+    "geom:latitude":42.877386,
+    "geom:longitude":-71.949287,
+    "iso:country":"US",
+    "sg:address":"16 Depot St",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 1333",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cards",
+        "greeting",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Wdm2pPEapEtQxwjgSqRC_42.877386_-71.949287@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299185,
+    "wof:geomhash":"5a678f6b6e6e680823defc4fadbb116e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873867643
+        }
+    ],
+    "wof:id":873867643,
+    "wof:lastmodified":1464299185,
+    "wof:name":"Paper & Roses",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.949287,
+    42.877386,
+    -71.949287,
+    42.877386
+],
+  "geometry": {"coordinates":[-71.949287,42.877386],"type":"Point"}
+}

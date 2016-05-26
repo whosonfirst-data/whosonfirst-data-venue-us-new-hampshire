@@ -1,0 +1,71 @@
+{
+  "id": 873558151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.17302,44.473776,-71.17302,44.473776",
+    "geom:latitude":44.473776,
+    "geom:longitude":-71.17302,
+    "iso:country":"US",
+    "sg:address":"580 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2000",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B1N7JK2NLIhgSIdmM9iVp_44.473776_-71.173020@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294473,
+    "wof:geomhash":"b71f1ddc0ffe9295b08cd43967bc8a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873558151
+        }
+    ],
+    "wof:id":873558151,
+    "wof:lastmodified":1464294473,
+    "wof:name":"Kelley Trucking",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.17302,
+    44.473776,
+    -71.17302,
+    44.473776
+],
+  "geometry": {"coordinates":[-71.17301999999999,44.473776],"type":"Point"}
+}

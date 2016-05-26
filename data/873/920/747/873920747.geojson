@@ -1,0 +1,89 @@
+{
+  "id": 873920747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073959,43.022409,-71.073959,43.022409",
+    "geom:latitude":43.022409,
+    "geom:longitude":-71.073959,
+    "iso:country":"US",
+    "sg:address":"26 Calef Hwy",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1933",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "moving-self",
+        "used",
+        "car",
+        "dealers-used",
+        "truck",
+        "cars-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Qs2ytLw6be8upVlr6X5D_43.022409_-71.073959@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300223,
+    "wof:geomhash":"2119b3960b0fa0383d8ce072ce8445e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873920747
+        }
+    ],
+    "wof:id":873920747,
+    "wof:lastmodified":1464300223,
+    "wof:name":"R C T Used Autos And Trucks",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "used",
+        "car",
+        "dealers-used",
+        "truck",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [
+    -71.073959,
+    43.022409,
+    -71.073959,
+    43.022409
+],
+  "geometry": {"coordinates":[-71.073959,43.022409],"type":"Point"}
+}

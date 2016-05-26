@@ -1,0 +1,75 @@
+{
+  "id": 873756455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425156,42.94086,-71.425156,42.94086",
+    "geom:latitude":42.94086,
+    "geom:longitude":-71.425156,
+    "iso:country":"US",
+    "sg:address":"2075 S Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 2188",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892275,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aewkvU5n1324PjtinYm6J_42.940860_-71.425156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297162,
+    "wof:geomhash":"35589570cdac67fddd4cc4ff60dfae6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892275,
+            "region_id":85688689,
+            "venue_id":873756455
+        }
+    ],
+    "wof:id":873756455,
+    "wof:lastmodified":1464297162,
+    "wof:name":"Universal Body & Frame Inc",
+    "wof:parent_id":85892275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.425156,
+    42.94086,
+    -71.425156,
+    42.94086
+],
+  "geometry": {"coordinates":[-71.425156,42.94086],"type":"Point"}
+}

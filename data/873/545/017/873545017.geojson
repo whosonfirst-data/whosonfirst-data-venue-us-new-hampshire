@@ -1,0 +1,75 @@
+{
+  "id": 873545017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.959985,42.978131,-70.959985,42.978131",
+    "geom:latitude":42.978131,
+    "geom:longitude":-70.959985,
+    "iso:country":"US",
+    "sg:address":"134 Front St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 773 9747",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a7O8gdvj7q4V9erb8Vtbe_42.978131_-70.959985@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294316,
+    "wof:geomhash":"0edd32c7d872c12bda709936045c9f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873545017
+        }
+    ],
+    "wof:id":873545017,
+    "wof:lastmodified":1464294316,
+    "wof:name":"Community Church At Exeter",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -70.959985,
+    42.978131,
+    -70.959985,
+    42.978131
+],
+  "geometry": {"coordinates":[-70.959985,42.978131],"type":"Point"}
+}

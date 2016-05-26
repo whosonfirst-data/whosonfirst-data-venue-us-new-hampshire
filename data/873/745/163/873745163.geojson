@@ -1,0 +1,71 @@
+{
+  "id": 873745163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170767,44.47608,-71.170767,44.47608",
+    "geom:latitude":44.47608,
+    "geom:longitude":-71.170767,
+    "iso:country":"US",
+    "sg:address":"18 3rd St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 8093",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EObwIOX5lpaFB0FeuQrRj_44.476080_-71.170767@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297012,
+    "wof:geomhash":"22c95f092c02d409c86cd6506b6d4c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873745163
+        }
+    ],
+    "wof:id":873745163,
+    "wof:lastmodified":1464297012,
+    "wof:name":"Fallstich Contractors",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.170767,
+    44.47608,
+    -71.170767,
+    44.47608
+],
+  "geometry": {"coordinates":[-71.170767,44.47608],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873872165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.201225,43.214807,-71.201225,43.214807",
+    "geom:latitude":43.214807,
+    "geom:longitude":-71.201225,
+    "iso:country":"US",
+    "sg:address":"844 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7497",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpV3MQ9lcfqq0zon9JGVo_43.214807_-71.201225@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299277,
+    "wof:geomhash":"d19af86c427b66659d9a68358c89d148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873872165
+        }
+    ],
+    "wof:id":873872165,
+    "wof:lastmodified":1464299277,
+    "wof:name":"Shepherd's Center Of Northwood",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -71.201225,
+    43.214807,
+    -71.201225,
+    43.214807
+],
+  "geometry": {"coordinates":[-71.20122499999999,43.214807],"type":"Point"}
+}

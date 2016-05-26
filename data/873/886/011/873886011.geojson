@@ -1,0 +1,71 @@
+{
+  "id": 873886011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.847992,42.981737,-70.847992,42.981737",
+    "geom:latitude":42.981737,
+    "geom:longitude":-70.847992,
+    "iso:country":"US",
+    "sg:address":"10 Walnut Ave",
+    "sg:city":"North Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 5935",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837679,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hwu7sPuzWfShQv8WiARiQ_42.981737_-70.847992@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299557,
+    "wof:geomhash":"f550e15b11fc42fde740abd109ed5548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837679,
+            "region_id":85688689,
+            "venue_id":873886011
+        }
+    ],
+    "wof:id":873886011,
+    "wof:lastmodified":1464299557,
+    "wof:name":"Route 1 Market & Getty",
+    "wof:parent_id":85837679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -70.847992,
+    42.981737,
+    -70.847992,
+    42.981737
+],
+  "geometry": {"coordinates":[-70.847992,42.981737],"type":"Point"}
+}

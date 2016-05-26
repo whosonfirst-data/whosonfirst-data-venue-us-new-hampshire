@@ -1,0 +1,82 @@
+{
+  "id": 873814679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.762004,43.076604,-70.762004,43.076604",
+    "geom:latitude":43.076604,
+    "geom:longitude":-70.762004,
+    "iso:country":"US",
+    "sg:address":"90 Bridge St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 6822",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52C4GGrW3Pwbm6LdWflo1n_43.076604_-70.762004@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298008,
+    "wof:geomhash":"3c7786b924465039f609c4a64fd3e29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873814679
+        }
+    ],
+    "wof:id":873814679,
+    "wof:lastmodified":1464298008,
+    "wof:name":"Bernard's Barber Shop",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -70.762004,
+    43.076604,
+    -70.762004,
+    43.076604
+],
+  "geometry": {"coordinates":[-70.762004,43.076604],"type":"Point"}
+}

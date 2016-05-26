@@ -1,0 +1,80 @@
+{
+  "id": 873935777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.22987,43.592264,-71.22987,43.592264",
+    "geom:latitude":43.592264,
+    "geom:longitude":-71.22987,
+    "iso:country":"US",
+    "sg:address":"51 North Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3321",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.wolfeborowinecellar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KEwg8j4exHG3tMPiEKGEZ_43.592264_-71.229870@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300516,
+    "wof:geomhash":"ff8a3c76fa1b9e6653574e90715c4a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935777
+        }
+    ],
+    "wof:id":873935777,
+    "wof:lastmodified":1464300516,
+    "wof:name":"Wolfeboro Wine Cellar",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.22987,
+    43.592264,
+    -71.22987,
+    43.592264
+],
+  "geometry": {"coordinates":[-71.22987000000001,43.592264],"type":"Point"}
+}

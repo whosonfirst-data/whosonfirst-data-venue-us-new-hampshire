@@ -1,0 +1,69 @@
+{
+  "id": 873685073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.703592,42.83734,-71.703592,42.83734",
+    "geom:latitude":42.83734,
+    "geom:longitude":-71.703592,
+    "iso:country":"US",
+    "sg:address":"24 Meadowbrook Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 271 1154",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "barrack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCyObGJcBgK0JXZiDFdOk_42.837340_-71.703592@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296139,
+    "wof:geomhash":"a8060b1a310c5d765e8acfc9b6fb7df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873685073
+        }
+    ],
+    "wof:id":873685073,
+    "wof:lastmodified":1464296139,
+    "wof:name":"State Police Troop B",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barrack"
+    ]
+},
+  "bbox": [
+    -71.703592,
+    42.83734,
+    -71.703592,
+    42.83734
+],
+  "geometry": {"coordinates":[-71.703592,42.83734],"type":"Point"}
+}

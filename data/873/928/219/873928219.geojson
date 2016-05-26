@@ -1,0 +1,69 @@
+{
+  "id": 873928219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5625,43.295399,-71.5625,43.295399",
+    "geom:latitude":43.295399,
+    "geom:longitude":-71.5625,
+    "iso:country":"US",
+    "sg:address":"580 Mountain Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 8862",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10FKkbkir3aPQwl5ReppCh_43.295399_-71.562500@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300372,
+    "wof:geomhash":"fb46eb2cf6fce85d8145d17759f5da77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873928219
+        }
+    ],
+    "wof:id":873928219,
+    "wof:lastmodified":1464300372,
+    "wof:name":"Apple Hill Farm",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -71.5625,
+    43.295399,
+    -71.5625,
+    43.295399
+],
+  "geometry": {"coordinates":[-71.5625,43.295399],"type":"Point"}
+}

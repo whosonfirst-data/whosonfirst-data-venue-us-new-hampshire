@@ -1,0 +1,71 @@
+{
+  "id": 873606157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.749111,43.012925,-70.749111,43.012925",
+    "geom:latitude":43.012925,
+    "geom:longitude":-70.749111,
+    "iso:country":"US",
+    "sg:address":"75 Colbourn Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9135",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808747,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RrWcKVzl7RUXIpCIfZg3w_43.012925_-70.749111@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295060,
+    "wof:geomhash":"718d55776e00ac19f31fdd1759543818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85808747,
+            "region_id":85688689,
+            "venue_id":873606157
+        }
+    ],
+    "wof:id":873606157,
+    "wof:lastmodified":1464295060,
+    "wof:name":"Cooper Paving",
+    "wof:parent_id":85808747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.749111,
+    43.012925,
+    -70.749111,
+    43.012925
+],
+  "geometry": {"coordinates":[-70.749111,43.012925],"type":"Point"}
+}

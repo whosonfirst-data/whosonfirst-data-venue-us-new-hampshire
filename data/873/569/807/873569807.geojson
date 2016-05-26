@@ -1,0 +1,79 @@
+{
+  "id": 873569807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484535,43.543614,-71.484535,43.543614",
+    "geom:latitude":43.543614,
+    "geom:longitude":-71.484535,
+    "iso:country":"US",
+    "sg:address":"76 County Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 5480",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526019,
+        102191575,
+        404477095,
+        85633793,
+        85975071,
+        102086503,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u9xZbtBHAn2eZF4yMxeV7_43.543614_-71.484535@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294608,
+    "wof:geomhash":"c006d88a516d0f4681671615d17cb9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086503,
+            "localadmin_id":404477095,
+            "locality_id":85975071,
+            "neighbourhood_id":420526019,
+            "region_id":85688689,
+            "venue_id":873569807
+        }
+    ],
+    "wof:id":873569807,
+    "wof:lastmodified":1464294608,
+    "wof:name":"Belknap County Corrections",
+    "wof:parent_id":420526019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -71.484535,
+    43.543614,
+    -71.484535,
+    43.543614
+],
+  "geometry": {"coordinates":[-71.48453499999999,43.543614],"type":"Point"}
+}

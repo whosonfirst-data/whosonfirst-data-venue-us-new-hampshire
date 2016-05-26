@@ -1,0 +1,78 @@
+{
+  "id": 873918109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.279118,42.932387,-72.279118,42.932387",
+    "geom:latitude":42.932387,
+    "geom:longitude":-72.279118,
+    "iso:country":"US",
+    "sg:address":"19 Gilbo Ave",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/280940-lindys-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 4273",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cTDNKLdETKkaFCczmCPC4_42.932387_-72.279118@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300179,
+    "wof:geomhash":"ed415d26ab3a9b56f2e75a930d1d9bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873918109
+        }
+    ],
+    "wof:id":873918109,
+    "wof:lastmodified":1464300179,
+    "wof:name":"Lindy's Diner",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -72.279118,
+    42.932387,
+    -72.279118,
+    42.932387
+],
+  "geometry": {"coordinates":[-72.279118,42.932387],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873557549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476681,42.947127,-71.476681,42.947127",
+    "geom:latitude":42.947127,
+    "geom:longitude":-71.476681,
+    "iso:country":"US",
+    "sg:address":"176 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 621 5100",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"www.regalrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j2kgbqzxILvvN3cLmWk4Y_42.947127_-71.476681@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294466,
+    "wof:geomhash":"ba82c8f92512781ea5a268b0e3f7fa0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873557549
+        }
+    ],
+    "wof:id":873557549,
+    "wof:lastmodified":1464294466,
+    "wof:name":"Regal Real Estate",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.476681,
+    42.947127,
+    -71.476681,
+    42.947127
+],
+  "geometry": {"coordinates":[-71.476681,42.947127],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873760533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535204,43.179003,-71.535204,43.179003",
+    "geom:latitude":43.179003,
+    "geom:longitude":-71.535204,
+    "iso:country":"US",
+    "sg:address":"37 Nivelle St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 3795",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HLfpe7gzgZSCdhVQSFL7j_43.179003_-71.535204@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297214,
+    "wof:geomhash":"8642b12fa258742b95d6d9499d4cd8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873760533
+        }
+    ],
+    "wof:id":873760533,
+    "wof:lastmodified":1464297214,
+    "wof:name":"New Hampshire Depostion Svc",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -71.535204,
+    43.179003,
+    -71.535204,
+    43.179003
+],
+  "geometry": {"coordinates":[-71.53520399999999,43.179003],"type":"Point"}
+}

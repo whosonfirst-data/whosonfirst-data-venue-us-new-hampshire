@@ -1,0 +1,78 @@
+{
+  "id": 873916329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422664,42.727052,-71.422664,42.727052",
+    "geom:latitude":42.727052,
+    "geom:longitude":-71.422664,
+    "iso:country":"US",
+    "sg:address":"254 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/129583-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 2999",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZMKx21AFrvMPIjbQDrtxh_42.727052_-71.422664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300147,
+    "wof:geomhash":"d9eae342285de4934673bf7677c05157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873916329
+        }
+    ],
+    "wof:id":873916329,
+    "wof:lastmodified":1464300147,
+    "wof:name":"Subway",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.422664,
+    42.727052,
+    -71.422664,
+    42.727052
+],
+  "geometry": {"coordinates":[-71.422664,42.727052],"type":"Point"}
+}

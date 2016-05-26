@@ -1,0 +1,70 @@
+{
+  "id": 873929049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.025721,42.813204,-72.025721,42.813204",
+    "geom:latitude":42.813204,
+    "geom:longitude":-72.025721,
+    "iso:country":"US",
+    "sg:address":"18 School St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8355",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.sau47.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79AxYClrohcrC6FmLOTCHG_42.813204_-72.025721@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300390,
+    "wof:geomhash":"2acc65a37aab65ef5e0655e19c5f99fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929049
+        }
+    ],
+    "wof:id":873929049,
+    "wof:lastmodified":1464300390,
+    "wof:name":"Jaffrey Grade School",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -72.025721,
+    42.813204,
+    -72.025721,
+    42.813204
+],
+  "geometry": {"coordinates":[-72.025721,42.813204],"type":"Point"}
+}

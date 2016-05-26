@@ -1,0 +1,71 @@
+{
+  "id": 873756111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.801686,44.30744,-71.801686,44.30744",
+    "geom:latitude":44.30744,
+    "geom:longitude":-71.801686,
+    "iso:country":"US",
+    "sg:address":"558 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 3308",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IVoW1UjLOswStuS6ClfVD_44.307440_-71.801686@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297158,
+    "wof:geomhash":"7cd72f9e2f64cb527e91ecf2c95607e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873756111
+        }
+    ],
+    "wof:id":873756111,
+    "wof:lastmodified":1464297158,
+    "wof:name":"Little Critter Marketplace",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.801686,
+    44.30744,
+    -71.801686,
+    44.30744
+],
+  "geometry": {"coordinates":[-71.801686,44.30744],"type":"Point"}
+}

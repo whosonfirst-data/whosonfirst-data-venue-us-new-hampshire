@@ -1,0 +1,82 @@
+{
+  "id": 873889991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.937413,42.901523,-71.937413,42.901523",
+    "geom:latitude":42.901523,
+    "geom:longitude":-71.937413,
+    "iso:country":"US",
+    "sg:address":"52 Concord Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 6794",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wlLwuaB9coZxRe9VMdQcZ_42.901523_-71.937413@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299631,
+    "wof:geomhash":"c9f7e4609addbf6dfbe9bf675553938b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873889991
+        }
+    ],
+    "wof:id":873889991,
+    "wof:lastmodified":1464299631,
+    "wof:name":"Serendipity Thrift Shop",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -71.937413,
+    42.901523,
+    -71.937413,
+    42.901523
+],
+  "geometry": {"coordinates":[-71.93741300000001,42.901523],"type":"Point"}
+}

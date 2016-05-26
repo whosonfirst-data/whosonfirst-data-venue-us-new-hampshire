@@ -1,0 +1,73 @@
+{
+  "id": 873655007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615744,42.845802,-71.615744,42.845802",
+    "geom:latitude":42.845802,
+    "geom:longitude":-71.615744,
+    "iso:country":"US",
+    "sg:address":"6 Ponemah Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 0032",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dQ3e40RJ3Obomr0YfVHPq_42.845802_-71.615744@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295646,
+    "wof:geomhash":"2d14778715b4b001a791c6063a4617e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873655007
+        }
+    ],
+    "wof:id":873655007,
+    "wof:lastmodified":1464295646,
+    "wof:name":"Mc Osker Kennels",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.615744,
+    42.845802,
+    -71.615744,
+    42.845802
+],
+  "geometry": {"coordinates":[-71.61574400000001,42.845802],"type":"Point"}
+}

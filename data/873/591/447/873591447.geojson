@@ -1,0 +1,75 @@
+{
+  "id": 873591447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472614,42.742085,-71.472614,42.742085",
+    "geom:latitude":42.742085,
+    "geom:longitude":-71.472614,
+    "iso:country":"US",
+    "sg:address":"8 Alan St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 6600",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mynRetTdyRB3IR2q63vb2_42.742085_-71.472614@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294849,
+    "wof:geomhash":"031298f4e6ab2dc4e618607ae932d465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873591447
+        }
+    ],
+    "wof:id":873591447,
+    "wof:lastmodified":1464294849,
+    "wof:name":"Nick's Roadside Svc",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.472614,
+    42.742085,
+    -71.472614,
+    42.742085
+],
+  "geometry": {"coordinates":[-71.47261399999999,42.742085],"type":"Point"}
+}

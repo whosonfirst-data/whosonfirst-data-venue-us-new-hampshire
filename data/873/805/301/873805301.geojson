@@ -1,0 +1,73 @@
+{
+  "id": 873805301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.570847,43.176955,-71.570847,43.176955",
+    "geom:latitude":43.176955,
+    "geom:longitude":-71.570847,
+    "iso:country":"US",
+    "sg:address":"261 Clinton St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 5455",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xogCXCPekDmdlWYa166RK_43.176955_-71.570847@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297839,
+    "wof:geomhash":"37a801b9396d30cbb808d70ab50bf915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873805301
+        }
+    ],
+    "wof:id":873805301,
+    "wof:lastmodified":1464297839,
+    "wof:name":"Ray Dyment's Carpet Care",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.570847,
+    43.176955,
+    -71.570847,
+    43.176955
+],
+  "geometry": {"coordinates":[-71.570847,43.176955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873681341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.323148,42.733964,-71.323148,42.733964",
+    "geom:latitude":42.733964,
+    "geom:longitude":-71.323148,
+    "iso:country":"US",
+    "sg:address":"7 Main St",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2131",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53p1opgB2adk03hjpGIptZ_42.733964_-71.323148@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296032,
+    "wof:geomhash":"0a0ceb8ca4f8e5970ee52abfdfff6ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873681341
+        }
+    ],
+    "wof:id":873681341,
+    "wof:lastmodified":1464296032,
+    "wof:name":"Innovative Realty",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.323148,
+    42.733964,
+    -71.323148,
+    42.733964
+],
+  "geometry": {"coordinates":[-71.323148,42.733964],"type":"Point"}
+}

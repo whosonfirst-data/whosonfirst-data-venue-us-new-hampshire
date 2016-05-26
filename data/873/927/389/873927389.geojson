@@ -1,0 +1,81 @@
+{
+  "id": 873927389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488403,43.346001,-71.488403,43.346001",
+    "geom:latitude":43.346001,
+    "geom:longitude":-71.488403,
+    "iso:country":"US",
+    "sg:address":"394 Baptist Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4877",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XJ0M3GBsEizav9INe07Cx_43.346001_-71.488403@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300352,
+    "wof:geomhash":"759a659d2dd2b8753de15e7a93152439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873927389
+        }
+    ],
+    "wof:id":873927389,
+    "wof:lastmodified":1464300352,
+    "wof:name":"Pearl Bros",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.488403,
+    43.346001,
+    -71.488403,
+    43.346001
+],
+  "geometry": {"coordinates":[-71.48840300000001,43.346001],"type":"Point"}
+}

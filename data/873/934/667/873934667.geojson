@@ -1,0 +1,81 @@
+{
+  "id": 873934667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.919051,43.007905,-70.919051,43.007905",
+    "geom:latitude":43.007905,
+    "geom:longitude":-70.919051,
+    "iso:country":"US",
+    "sg:address":"72 Portsmouth Ave Ste 111",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 8050",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ],
+    "sg:website":"http://www.oceanvalleyvet.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GN9fXwB9lTXypcaZ25yhR_43.007905_-70.919051@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300492,
+    "wof:geomhash":"f79321b2f5ea7bf894fce9ae6d090655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873934667
+        }
+    ],
+    "wof:id":873934667,
+    "wof:lastmodified":1464300492,
+    "wof:name":"Ocean Valley Veterinary Hospital",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -70.919051,
+    43.007905,
+    -70.919051,
+    43.007905
+],
+  "geometry": {"coordinates":[-70.919051,43.007905],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873666347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197264,42.742275,-71.197264,42.742275",
+    "geom:latitude":42.742275,
+    "geom:longitude":-71.197264,
+    "iso:country":"US",
+    "sg:address":"7 Hampshire St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6245",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61aNMLIt5yUtWJCSOvISII_42.742275_-71.197264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295763,
+    "wof:geomhash":"f150ab675b30c8b4caf54ff672506f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873666347
+        }
+    ],
+    "wof:id":873666347,
+    "wof:lastmodified":1464295763,
+    "wof:name":"A Touch of Joy",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -71.197264,
+    42.742275,
+    -71.197264,
+    42.742275
+],
+  "geometry": {"coordinates":[-71.197264,42.742275],"type":"Point"}
+}

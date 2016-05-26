@@ -1,0 +1,73 @@
+{
+  "id": 873652951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.787104,44.308937,-71.787104,44.308937",
+    "geom:latitude":44.308937,
+    "geom:longitude":-71.787104,
+    "iso:country":"US",
+    "sg:address":"45 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 5446",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ozyt3JFXEpRlMr6iftHC3_44.308937_-71.787104@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295624,
+    "wof:geomhash":"516087a8b7d291cb9c20cad8f480b58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873652951
+        }
+    ],
+    "wof:id":873652951,
+    "wof:lastmodified":1464295624,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -71.787104,
+    44.308937,
+    -71.787104,
+    44.308937
+],
+  "geometry": {"coordinates":[-71.787104,44.308937],"type":"Point"}
+}

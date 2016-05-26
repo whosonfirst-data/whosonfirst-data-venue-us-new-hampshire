@@ -1,0 +1,69 @@
+{
+  "id": 873815845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.180853,43.831887,-72.180853,43.831887",
+    "geom:latitude":43.831887,
+    "geom:longitude":-72.180853,
+    "iso:country":"US",
+    "sg:address":"161 River Rd",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 8800",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ww0m7gzqsz2J6owjoZinZ_43.831887_-72.180853@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298030,
+    "wof:geomhash":"2079b7d5ca1969802ad3350679c5af2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873815845
+        }
+    ],
+    "wof:id":873815845,
+    "wof:lastmodified":1464298030,
+    "wof:name":"Philip J Kinsler Psychologists",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -72.180853,
+    43.831887,
+    -72.180853,
+    43.831887
+],
+  "geometry": {"coordinates":[-72.180853,43.831887],"type":"Point"}
+}

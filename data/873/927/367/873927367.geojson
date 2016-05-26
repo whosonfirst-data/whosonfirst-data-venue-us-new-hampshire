@@ -1,0 +1,80 @@
+{
+  "id": 873927367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511666,43.351552,-71.511666,43.351552",
+    "geom:latitude":43.351552,
+    "geom:longitude":-71.511666,
+    "iso:country":"US",
+    "sg:address":"53 Baptist Hill Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 9640",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "interior",
+        "reupholstery",
+        "design",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b1kk2GBymeBfvK4ik47Io_43.351552_-71.511666@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300352,
+    "wof:geomhash":"499bd6f81549919e36e459302a194380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873927367
+        }
+    ],
+    "wof:id":873927367,
+    "wof:lastmodified":1464300352,
+    "wof:name":"Maq Design",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "reupholstery",
+        "design",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.511666,
+    43.351552,
+    -71.511666,
+    43.351552
+],
+  "geometry": {"coordinates":[-71.51166600000001,43.351552],"type":"Point"}
+}

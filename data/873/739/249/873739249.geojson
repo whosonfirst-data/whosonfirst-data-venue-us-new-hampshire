@@ -1,0 +1,79 @@
+{
+  "id": 873739249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.971608,43.303585,-70.971608,43.303585",
+    "geom:latitude":43.303585,
+    "geom:longitude":-70.971608,
+    "iso:country":"US",
+    "sg:address":"3 Wallace St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 0648",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cu7zVkjm2TvaBs1KNtJfr_43.303585_-70.971608@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"5447208e906e257474018fa6556fa762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873739249
+        }
+    ],
+    "wof:id":873739249,
+    "wof:lastmodified":1464296911,
+    "wof:name":"Ace Cycle Svc",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -70.971608,
+    43.303585,
+    -70.971608,
+    43.303585
+],
+  "geometry": {"coordinates":[-70.971608,43.303585],"type":"Point"}
+}

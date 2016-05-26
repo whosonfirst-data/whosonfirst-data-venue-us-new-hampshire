@@ -1,0 +1,91 @@
+{
+  "id": 873832039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.309862,42.91361,-72.309862,42.91361",
+    "geom:latitude":42.91361,
+    "geom:longitude":-72.309862,
+    "iso:country":"US",
+    "sg:address":"238 Base Hill Rd",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 1063",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "mfg",
+        "stamp",
+        "devices",
+        "plastic",
+        "rubber"
+    ],
+    "sg:website":"www.stampusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dIBh7jHNYt47pVukMRekH_42.913610_-72.309862@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298377,
+    "wof:geomhash":"9728cc81ce7cecc43aa2ba38e713bab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873832039
+        }
+    ],
+    "wof:id":873832039,
+    "wof:lastmodified":1464298377,
+    "wof:name":"Rubber Stamps of America",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "mfg",
+        "stamp",
+        "devices",
+        "plastic",
+        "rubber"
+    ]
+},
+  "bbox": [
+    -72.309862,
+    42.91361,
+    -72.309862,
+    42.91361
+],
+  "geometry": {"coordinates":[-72.309862,42.91361],"type":"Point"}
+}

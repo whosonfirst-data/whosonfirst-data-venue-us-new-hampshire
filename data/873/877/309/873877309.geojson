@@ -1,0 +1,73 @@
+{
+  "id": 873877309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.070891,43.037729,-71.070891,43.037729",
+    "geom:latitude":43.037729,
+    "geom:longitude":-71.070891,
+    "iso:country":"US",
+    "sg:address":"10 Mill St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8770",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "local",
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0df0x1jtHX5kdZd0w3ajm7_43.037729_-71.070891@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299383,
+    "wof:geomhash":"b1aa7383434b67bbcc3c63382d35ae03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873877309
+        }
+    ],
+    "wof:id":873877309,
+    "wof:lastmodified":1464299383,
+    "wof:name":"John J Stilson Trucking",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.070891,
+    43.037729,
+    -71.070891,
+    43.037729
+],
+  "geometry": {"coordinates":[-71.070891,43.037729],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873806465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.689468,43.193474,-71.689468,43.193474",
+    "geom:latitude":43.193474,
+    "geom:longitude":-71.689468,
+    "iso:country":"US",
+    "sg:address":"601 Putney Hill Rd",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 3377",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EN2U0aEjcbt9RfXhvkJbZ_43.193474_-71.689468@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297858,
+    "wof:geomhash":"ce58144d3afac124af9f20e8d2edab38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873806465
+        }
+    ],
+    "wof:id":873806465,
+    "wof:lastmodified":1464297858,
+    "wof:name":"Green Light Learning Centers",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.689468,
+    43.193474,
+    -71.689468,
+    43.193474
+],
+  "geometry": {"coordinates":[-71.68946800000001,43.193474],"type":"Point"}
+}

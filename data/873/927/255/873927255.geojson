@@ -1,0 +1,76 @@
+{
+  "id": 873927255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481684,42.963508,-71.481684,42.963508",
+    "geom:latitude":42.963508,
+    "geom:longitude":-71.481684,
+    "iso:country":"US",
+    "sg:address":"17 Colby Ct",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 641 3596",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "small",
+        "major",
+        "appliance",
+        "refinishing"
+    ],
+    "sg:website":"http://www.ebcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_229oohetFxG3CXRlioeAgF_42.963508_-71.481684@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300350,
+    "wof:geomhash":"5619ae78ebd2605a45d66663a2355ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927255
+        }
+    ],
+    "wof:id":873927255,
+    "wof:lastmodified":1464300350,
+    "wof:name":"General Electric Company",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "major",
+        "appliance",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -71.481684,
+    42.963508,
+    -71.481684,
+    42.963508
+],
+  "geometry": {"coordinates":[-71.481684,42.963508],"type":"Point"}
+}

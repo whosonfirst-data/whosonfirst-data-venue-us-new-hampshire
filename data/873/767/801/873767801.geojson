@@ -1,0 +1,71 @@
+{
+  "id": 873767801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460397,42.92224,-71.460397,42.92224",
+    "geom:latitude":42.92224,
+    "geom:longitude":-71.460397,
+    "iso:country":"US",
+    "sg:address":"15 Harvey Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 9900",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LQmFCZDuydY5QqI7JeIep_42.922240_-71.460397@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297335,
+    "wof:geomhash":"4e282a2a83930e159b1d6c3ffeda0125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873767801
+        }
+    ],
+    "wof:id":873767801,
+    "wof:lastmodified":1464297335,
+    "wof:name":"Engelwood Construction",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.460397,
+    42.92224,
+    -71.460397,
+    42.92224
+],
+  "geometry": {"coordinates":[-71.460397,42.92224],"type":"Point"}
+}

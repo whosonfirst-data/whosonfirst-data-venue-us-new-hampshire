@@ -1,0 +1,71 @@
+{
+  "id": 873541259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.167508,44.48492,-71.167508,44.48492",
+    "geom:latitude":44.48492,
+    "geom:longitude":-71.167508,
+    "iso:country":"US",
+    "sg:address":"1471 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4383",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08dffNmlaA552MFi55vXSR_44.484920_-71.167508@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294272,
+    "wof:geomhash":"d22b817f92ae0590524b70b0dc597a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873541259
+        }
+    ],
+    "wof:id":873541259,
+    "wof:lastmodified":1464294272,
+    "wof:name":"Boyz Electric",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.167508,
+    44.48492,
+    -71.167508,
+    44.48492
+],
+  "geometry": {"coordinates":[-71.167508,44.48492],"type":"Point"}
+}

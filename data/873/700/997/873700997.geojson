@@ -1,0 +1,82 @@
+{
+  "id": 873700997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.984927,43.318355,-70.984927,43.318355",
+    "geom:latitude":43.318355,
+    "geom:longitude":-70.984927,
+    "iso:country":"US",
+    "sg:address":"65 Chestnut Hill Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 3022",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wc5sQE2gvewskz0HjkVYR_43.318355_-70.984927@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296415,
+    "wof:geomhash":"247faf3329787c9397db50c2e01c19e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873700997
+        }
+    ],
+    "wof:id":873700997,
+    "wof:lastmodified":1464296415,
+    "wof:name":"Steve's Fence & Supply",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.984927,
+    43.318355,
+    -70.984927,
+    43.318355
+],
+  "geometry": {"coordinates":[-70.984927,43.318355],"type":"Point"}
+}

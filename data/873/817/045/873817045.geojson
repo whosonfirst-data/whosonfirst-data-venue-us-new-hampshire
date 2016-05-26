@@ -1,0 +1,71 @@
+{
+  "id": 873817045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.606272,43.296501,-71.606272,43.296501",
+    "geom:latitude":43.296501,
+    "geom:longitude":-71.606272,
+    "iso:country":"US",
+    "sg:address":"159 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 0155",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dgV2zKJ8so2FPeYWfSsHS_43.296501_-71.606272@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298060,
+    "wof:geomhash":"15d729cb6fe527aae6448dbb8df12c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873817045
+        }
+    ],
+    "wof:id":873817045,
+    "wof:lastmodified":1464298060,
+    "wof:name":"Heather L Fletcher",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.606272,
+    43.296501,
+    -71.606272,
+    43.296501
+],
+  "geometry": {"coordinates":[-71.606272,43.296501],"type":"Point"}
+}

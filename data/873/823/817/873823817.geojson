@@ -1,0 +1,69 @@
+{
+  "id": 873823817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312346,43.00937,-71.312346,43.00937",
+    "geom:latitude":43.00937,
+    "geom:longitude":-71.312346,
+    "iso:country":"US",
+    "sg:address":"334 Dearborn Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8723",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IslZ5sOrnf4Wx8NU5cgId_43.009370_-71.312346@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298208,
+    "wof:geomhash":"75c80b3e11a5a87eb6b8be282dfb9f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873823817
+        }
+    ],
+    "wof:id":873823817,
+    "wof:lastmodified":1464298208,
+    "wof:name":"Gearty Plumbing & Heating",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.312346,
+    43.00937,
+    -71.312346,
+    43.00937
+],
+  "geometry": {"coordinates":[-71.31234600000001,43.00937],"type":"Point"}
+}

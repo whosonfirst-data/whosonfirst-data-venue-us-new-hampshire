@@ -1,0 +1,72 @@
+{
+  "id": 873916519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4833,42.878751,-71.4833,42.878751",
+    "geom:latitude":42.878751,
+    "geom:longitude":-71.4833,
+    "iso:country":"US",
+    "sg:address":"559 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/merrimack/39704-south-garden/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 4289",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sD09iNYocE60EDKZo9su0_42.878751_-71.483300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300150,
+    "wof:geomhash":"95ab439ec69b54a6b22e12eaa1ae9c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873916519
+        }
+    ],
+    "wof:id":873916519,
+    "wof:lastmodified":1464300150,
+    "wof:name":"South Garden",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.4833,
+    42.878751,
+    -71.4833,
+    42.878751
+],
+  "geometry": {"coordinates":[-71.4833,42.878751],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873760035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585984,43.139795,-71.585984,43.139795",
+    "geom:latitude":43.139795,
+    "geom:longitude":-71.585984,
+    "iso:country":"US",
+    "sg:address":"2 Longview Dr",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7248",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XYDBqJuprhracWPWtvA6V_43.139795_-71.585984@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297207,
+    "wof:geomhash":"dca8bc71cfb9d7263e17c62b91ce76b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873760035
+        }
+    ],
+    "wof:id":873760035,
+    "wof:lastmodified":1464297207,
+    "wof:name":"Salter & Associates",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.585984,
+    43.139795,
+    -71.585984,
+    43.139795
+],
+  "geometry": {"coordinates":[-71.585984,43.139795],"type":"Point"}
+}

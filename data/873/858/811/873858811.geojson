@@ -1,0 +1,71 @@
+{
+  "id": 873858811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.234151,42.788578,-71.234151,42.788578",
+    "geom:latitude":42.788578,
+    "geom:longitude":-71.234151,
+    "iso:country":"US",
+    "sg:address":"194 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 1333",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NMnYA0bd42l1HpEAFQ9gq_42.788578_-71.234151@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298988,
+    "wof:geomhash":"a42be5964e2d6119b0f9d2e321d05eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873858811
+        }
+    ],
+    "wof:id":873858811,
+    "wof:lastmodified":1464298988,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.234151,
+    42.788578,
+    -71.234151,
+    42.788578
+],
+  "geometry": {"coordinates":[-71.234151,42.788578],"type":"Point"}
+}

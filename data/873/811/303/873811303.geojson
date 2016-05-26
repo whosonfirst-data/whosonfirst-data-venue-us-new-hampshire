@@ -1,0 +1,71 @@
+{
+  "id": 873811303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.608004,42.822703,-71.608004,42.822703",
+    "geom:latitude":42.822703,
+    "geom:longitude":-71.608004,
+    "iso:country":"US",
+    "sg:address":"1 Overlook Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 7372",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oJqmS2hm1m7IYAsOmKSbp_42.822703_-71.608004@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297949,
+    "wof:geomhash":"340627296e6987374596a3ec266d8ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873811303
+        }
+    ],
+    "wof:id":873811303,
+    "wof:lastmodified":1464297949,
+    "wof:name":"Fish Volunteers",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.608004,
+    42.822703,
+    -71.608004,
+    42.822703
+],
+  "geometry": {"coordinates":[-71.60800399999999,42.822703],"type":"Point"}
+}

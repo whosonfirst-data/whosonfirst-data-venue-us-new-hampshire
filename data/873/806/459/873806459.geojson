@@ -1,0 +1,82 @@
+{
+  "id": 873806459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.772877,43.044473,-70.772877,43.044473",
+    "geom:latitude":43.044473,
+    "geom:longitude":-70.772877,
+    "iso:country":"US",
+    "sg:address":"1475 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8435",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M52wh4cd8VcMTENmJ08sD_43.044473_-70.772877@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297858,
+    "wof:geomhash":"ef2a219ff4e5b14b6b6b5a5b141ff472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873806459
+        }
+    ],
+    "wof:id":873806459,
+    "wof:lastmodified":1464297858,
+    "wof:name":"Lafayette Express",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -70.772877,
+    43.044473,
+    -70.772877,
+    43.044473
+],
+  "geometry": {"coordinates":[-70.77287699999999,43.044473],"type":"Point"}
+}

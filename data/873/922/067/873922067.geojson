@@ -1,0 +1,78 @@
+{
+  "id": 873922067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493468,42.864239,-71.493468,42.864239",
+    "geom:latitude":42.864239,
+    "geom:longitude":-71.493468,
+    "iso:country":"US",
+    "sg:address":"454 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 423 1100",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MBrG0jiszRGZWXUqDS7tG_42.864239_-71.493468@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300253,
+    "wof:geomhash":"5eb484a76ac1a1be66c6d6e71dd71c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873922067
+        }
+    ],
+    "wof:id":873922067,
+    "wof:lastmodified":1464300253,
+    "wof:name":"The Paw Pad",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -71.493468,
+    42.864239,
+    -71.493468,
+    42.864239
+],
+  "geometry": {"coordinates":[-71.49346799999999,42.864239],"type":"Point"}
+}

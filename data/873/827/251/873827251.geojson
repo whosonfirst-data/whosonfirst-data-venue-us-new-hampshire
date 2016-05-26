@@ -1,0 +1,71 @@
+{
+  "id": 873827251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250693,43.670613,-71.250693,43.670613",
+    "geom:latitude":43.670613,
+    "geom:longitude":-71.250693,
+    "iso:country":"US",
+    "sg:address":"26 Butternut Ln",
+    "sg:city":"Ctr Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 5339",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OIY7DLw4EbadoKmIAGZYG_43.670613_-71.250693@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298282,
+    "wof:geomhash":"bd3a0c538d1408149973978a8c9e85a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873827251
+        }
+    ],
+    "wof:id":873827251,
+    "wof:lastmodified":1464298282,
+    "wof:name":"Jenkins Logging",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.250693,
+    43.670613,
+    -71.250693,
+    43.670613
+],
+  "geometry": {"coordinates":[-71.250693,43.670613],"type":"Point"}
+}

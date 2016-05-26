@@ -1,0 +1,88 @@
+{
+  "id": 873931301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.878805,43.21529,-70.878805,43.21529",
+    "geom:latitude":43.21529,
+    "geom:longitude":-70.878805,
+    "iso:country":"US",
+    "sg:address":"829 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 4242",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"http://www.papaginos.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_702Z6U7gQQmJiCAWOlCEiP_43.215290_-70.878805@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300435,
+    "wof:geomhash":"c40f6a939b28df02c88aa103d2219213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873931301
+        }
+    ],
+    "wof:id":873931301,
+    "wof:lastmodified":1464300435,
+    "wof:name":"Papa Gino's",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -70.878805,
+    43.21529,
+    -70.878805,
+    43.21529
+],
+  "geometry": {"coordinates":[-70.878805,43.21529],"type":"Point"}
+}

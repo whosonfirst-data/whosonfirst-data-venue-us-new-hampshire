@@ -1,0 +1,77 @@
+{
+  "id": 873913033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.206193,43.575634,-71.206193,43.575634",
+    "geom:latitude":43.575634,
+    "geom:longitude":-71.206193,
+    "iso:country":"US",
+    "sg:address":"39 Clipper Dr",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3950",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s9AcWgIfPXpLg420e6OSN_43.575634_-71.206193@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300069,
+    "wof:geomhash":"ea81b3a549e765a715458ce07f2cf8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873913033
+        }
+    ],
+    "wof:id":873913033,
+    "wof:lastmodified":1464300069,
+    "wof:name":"Sun Bridge Healthcare",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.206193,
+    43.575634,
+    -71.206193,
+    43.575634
+],
+  "geometry": {"coordinates":[-71.206193,43.575634],"type":"Point"}
+}

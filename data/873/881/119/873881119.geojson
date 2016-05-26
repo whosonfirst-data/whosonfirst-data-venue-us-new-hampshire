@@ -1,0 +1,71 @@
+{
+  "id": 873881119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459406,43.548191,-71.459406,43.548191",
+    "geom:latitude":43.548191,
+    "geom:longitude":-71.459406,
+    "iso:country":"US",
+    "sg:address":"89 Valley St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 8557",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xrd8y9Fe7YdAFyaW0TBI7_43.548191_-71.459406@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299453,
+    "wof:geomhash":"73a155da26e8d6b4e791c75548076e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873881119
+        }
+    ],
+    "wof:id":873881119,
+    "wof:lastmodified":1464299453,
+    "wof:name":"Country View Day School",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.459406,
+    43.548191,
+    -71.459406,
+    43.548191
+],
+  "geometry": {"coordinates":[-71.459406,43.548191],"type":"Point"}
+}

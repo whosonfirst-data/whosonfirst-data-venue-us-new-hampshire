@@ -1,0 +1,73 @@
+{
+  "id": 873922647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.690601,42.840904,-71.690601,42.840904",
+    "geom:latitude":42.840904,
+    "geom:longitude":-71.690601,
+    "iso:country":"US",
+    "sg:address":"18 Hollow Oak Ln",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 4464",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "grocers-wholesale",
+        "products-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cHqDBSWnfQdiFe0wqr5mZ_42.840904_-71.690601@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300265,
+    "wof:geomhash":"c80336a4cb19b3a823ec6bf68d850d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873922647
+        }
+    ],
+    "wof:id":873922647,
+    "wof:lastmodified":1464300265,
+    "wof:name":"Tri-State Malted Waffles",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "grocers-wholesale",
+        "products-wholesale"
+    ]
+},
+  "bbox": [
+    -71.690601,
+    42.840904,
+    -71.690601,
+    42.840904
+],
+  "geometry": {"coordinates":[-71.690601,42.840904],"type":"Point"}
+}

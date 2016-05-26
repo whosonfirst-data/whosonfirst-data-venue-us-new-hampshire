@@ -1,0 +1,77 @@
+{
+  "id": 873839543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.246475,43.641327,-72.246475,43.641327",
+    "geom:latitude":43.641327,
+    "geom:longitude":-72.246475,
+    "iso:country":"US",
+    "sg:address":"11 Union St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 2810",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3imNONzUnRlk3gW9ZMarUS_43.641327_-72.246475@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298541,
+    "wof:geomhash":"c27f13341d2d68afd1d3ff0c13a83770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873839543
+        }
+    ],
+    "wof:id":873839543,
+    "wof:lastmodified":1464298541,
+    "wof:name":"Elizabeth Tomlinson MD",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.246475,
+    43.641327,
+    -72.246475,
+    43.641327
+],
+  "geometry": {"coordinates":[-72.246475,43.641327],"type":"Point"}
+}

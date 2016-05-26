@@ -1,0 +1,69 @@
+{
+  "id": 873786549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249531,43.226326,-71.249531,43.226326",
+    "geom:latitude":43.226326,
+    "geom:longitude":-71.249531,
+    "iso:country":"US",
+    "sg:address":"111 School St",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 9812",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Eqfd1x5YsiCgmhhXjrIB_43.226326_-71.249531@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297582,
+    "wof:geomhash":"8ffc039271e552fe65c84fd885842998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873786549
+        }
+    ],
+    "wof:id":873786549,
+    "wof:lastmodified":1464297582,
+    "wof:name":"Northwood Power Equip",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tractor"
+    ]
+},
+  "bbox": [
+    -71.249531,
+    43.226326,
+    -71.249531,
+    43.226326
+],
+  "geometry": {"coordinates":[-71.249531,43.226326],"type":"Point"}
+}

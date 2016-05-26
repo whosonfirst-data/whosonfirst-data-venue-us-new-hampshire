@@ -1,0 +1,74 @@
+{
+  "id": 873919383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186893,44.458552,-71.186893,44.458552",
+    "geom:latitude":44.458552,
+    "geom:longitude":-71.186893,
+    "iso:country":"US",
+    "sg:address":"416 Glen Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/berlin/115895-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7272",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hxE7wUJLaU4ooVKPiTtNf_44.458005_-71.186994@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"21b256e38937909f4f77a793727826af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873919383
+        }
+    ],
+    "wof:id":873919383,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.186893,
+    44.458552,
+    -71.186893,
+    44.458552
+],
+  "geometry": {"coordinates":[-71.186893,44.458552],"type":"Point"}
+}

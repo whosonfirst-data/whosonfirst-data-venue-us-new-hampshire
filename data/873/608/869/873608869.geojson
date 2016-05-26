@@ -1,0 +1,74 @@
+{
+  "id": 873608869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.16874,44.467268,-71.16874,44.467268",
+    "geom:latitude":44.467268,
+    "geom:longitude":-71.16874,
+    "iso:country":"US",
+    "sg:address":"4 King St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 2345",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ammunition",
+        "gun",
+        "gunsmith"
+    ],
+    "sg:website":"www.villagegun.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xLZFMHEiMo7cbKfyz8592_44.467268_-71.168740@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295121,
+    "wof:geomhash":"1a9bf59377ee320280593310a4f6011a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873608869
+        }
+    ],
+    "wof:id":873608869,
+    "wof:lastmodified":1464295121,
+    "wof:name":"Village Gun Store Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ammunition",
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -71.16874,
+    44.467268,
+    -71.16874,
+    44.467268
+],
+  "geometry": {"coordinates":[-71.16874,44.467268],"type":"Point"}
+}

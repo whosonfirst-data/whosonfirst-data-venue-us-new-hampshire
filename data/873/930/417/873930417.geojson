@@ -1,0 +1,83 @@
+{
+  "id": 873930417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.800404,43.085164,-70.800404,43.085164",
+    "geom:latitude":43.085164,
+    "geom:longitude":-70.800404,
+    "iso:country":"US",
+    "sg:address":"73 Corporate Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 2000",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational",
+        "college"
+    ],
+    "sg:website":"http://www.fpc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892293,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YA7KIULSWXbgJ3UAVcb0L_43.085164_-70.800404@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300417,
+    "wof:geomhash":"0dad85b33b00912d239c15e7a9febec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892293,
+            "region_id":85688689,
+            "venue_id":873930417
+        }
+    ],
+    "wof:id":873930417,
+    "wof:lastmodified":1464300417,
+    "wof:name":"Franklin Pierce University",
+    "wof:parent_id":85892293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "college"
+    ]
+},
+  "bbox": [
+    -70.800404,
+    43.085164,
+    -70.800404,
+    43.085164
+],
+  "geometry": {"coordinates":[-70.800404,43.085164],"type":"Point"}
+}

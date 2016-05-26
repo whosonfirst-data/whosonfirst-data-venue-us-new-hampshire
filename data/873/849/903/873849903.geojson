@@ -1,0 +1,77 @@
+{
+  "id": 873849903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.281355,43.699329,-72.281355,43.699329",
+    "geom:latitude":43.699329,
+    "geom:longitude":-72.281355,
+    "iso:country":"US",
+    "sg:address":"36 S Park St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 5531",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64ENw8x1weKua7Id8u6no4_43.699329_-72.281355@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298809,
+    "wof:geomhash":"be13492c30e4448f1054882b49805e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873849903
+        }
+    ],
+    "wof:id":873849903,
+    "wof:lastmodified":1464298809,
+    "wof:name":"Senior Center",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.281355,
+    43.699329,
+    -72.281355,
+    43.699329
+],
+  "geometry": {"coordinates":[-72.281355,43.699329],"type":"Point"}
+}

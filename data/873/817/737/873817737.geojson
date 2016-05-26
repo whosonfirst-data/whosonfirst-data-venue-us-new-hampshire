@@ -1,0 +1,73 @@
+{
+  "id": 873817737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449635,42.923347,-71.449635,42.923347",
+    "geom:latitude":42.923347,
+    "geom:longitude":-71.449635,
+    "iso:country":"US",
+    "sg:address":"3223 Brown Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 2069",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41TekLKpJJHGUz47YNp1xi_42.923347_-71.449635@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298075,
+    "wof:geomhash":"327a7703147f602485083dfd18d4178e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873817737
+        }
+    ],
+    "wof:id":873817737,
+    "wof:lastmodified":1464298075,
+    "wof:name":"St Francis of Assisi School",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -71.449635,
+    42.923347,
+    -71.449635,
+    42.923347
+],
+  "geometry": {"coordinates":[-71.449635,42.923347],"type":"Point"}
+}

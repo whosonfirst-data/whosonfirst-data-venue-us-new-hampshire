@@ -1,0 +1,71 @@
+{
+  "id": 873799025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44052,43.52862,-71.44052,43.52862",
+    "geom:latitude":43.52862,
+    "geom:longitude":-71.44052,
+    "iso:country":"US",
+    "sg:address":"36 Country Club Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6191",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RVDPz8wvXCJ954cAPjxgR_43.528620_-71.440520@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297762,
+    "wof:geomhash":"3958144cacf1a9d3a8a3063e2e6753b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873799025
+        }
+    ],
+    "wof:id":873799025,
+    "wof:lastmodified":1464297762,
+    "wof:name":"Joseph Downing DDS",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.44052,
+    43.52862,
+    -71.44052,
+    43.52862
+],
+  "geometry": {"coordinates":[-71.44052000000001,43.52862],"type":"Point"}
+}

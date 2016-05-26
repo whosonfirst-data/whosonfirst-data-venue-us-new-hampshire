@@ -1,0 +1,71 @@
+{
+  "id": 873690429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.144069,42.858463,-71.144069,42.858463",
+    "geom:latitude":42.858463,
+    "geom:longitude":-71.144069,
+    "iso:country":"US",
+    "sg:address":"18 Maple Ave",
+    "sg:city":"Hampstead",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 329 6756",
+    "sg:postcode":"03841",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgrzLGRoCXMT54N5eDLHJ_42.858463_-71.144069@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296285,
+    "wof:geomhash":"546fab8cbe8af4caf8e67022db57ece5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873690429
+        }
+    ],
+    "wof:id":873690429,
+    "wof:lastmodified":1464296285,
+    "wof:name":"J Cross Electrical",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.144069,
+    42.858463,
+    -71.144069,
+    42.858463
+],
+  "geometry": {"coordinates":[-71.144069,42.858463],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873690103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.709819,42.836865,-71.709819,42.836865",
+    "geom:latitude":42.836865,
+    "geom:longitude":-71.709819,
+    "iso:country":"US",
+    "sg:address":"10 Scarborough Ln",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 3766",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iKBeSczgUZ5DG0GXDjMQ0_42.836865_-71.709819@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296275,
+    "wof:geomhash":"fb7ffd695c675e001f0d3d4650e31848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873690103
+        }
+    ],
+    "wof:id":873690103,
+    "wof:lastmodified":1464296275,
+    "wof:name":"Hi-Tech Fabricators",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.709819,
+    42.836865,
+    -71.709819,
+    42.836865
+],
+  "geometry": {"coordinates":[-71.709819,42.836865],"type":"Point"}
+}

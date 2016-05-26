@@ -1,0 +1,69 @@
+{
+  "id": 873845539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871657,42.889097,-70.871657,42.889097",
+    "geom:latitude":42.889097,
+    "geom:longitude":-70.871657,
+    "iso:country":"US",
+    "sg:address":"495 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 9232",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46I7xhp8j2Yy2apD3XE3he_42.889097_-70.871657@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298694,
+    "wof:geomhash":"4dd66d4dc134053ca19dddf6036e3b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873845539
+        }
+    ],
+    "wof:id":873845539,
+    "wof:lastmodified":1464298694,
+    "wof:name":"Prowash",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -70.871657,
+    42.889097,
+    -70.871657,
+    42.889097
+],
+  "geometry": {"coordinates":[-70.871657,42.889097],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873679447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302566,42.772471,-71.302566,42.772471",
+    "geom:latitude":42.772471,
+    "geom:longitude":-71.302566,
+    "iso:country":"US",
+    "sg:address":"52 Sharon Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2431",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dSwsUTgRwMn9L1E0UcSwQ_42.772471_-71.302566@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295980,
+    "wof:geomhash":"65ff1fb0bd08e9d88513075a31d67880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873679447
+        }
+    ],
+    "wof:id":873679447,
+    "wof:lastmodified":1464295980,
+    "wof:name":"Electrical Automation",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.302566,
+    42.772471,
+    -71.302566,
+    42.772471
+],
+  "geometry": {"coordinates":[-71.302566,42.772471],"type":"Point"}
+}

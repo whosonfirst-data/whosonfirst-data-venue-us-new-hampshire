@@ -1,0 +1,76 @@
+{
+  "id": 873574127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.757901,43.07885,-70.757901,43.07885",
+    "geom:latitude":43.07885,
+    "geom:longitude":-70.757901,
+    "iso:country":"US",
+    "sg:address":"65 Ceres St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 2640",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wine"
+    ],
+    "sg:website":"www.cereswine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p7DSuizAtPM9tKrL8GCTP_43.078850_-70.757901@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294654,
+    "wof:geomhash":"3429e991ad2246f2b0299c91be74e517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873574127
+        }
+    ],
+    "wof:id":873574127,
+    "wof:lastmodified":1464294654,
+    "wof:name":"Ceres Street Wine Merchants",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -70.757901,
+    43.07885,
+    -70.757901,
+    43.07885
+],
+  "geometry": {"coordinates":[-70.757901,43.07885],"type":"Point"}
+}

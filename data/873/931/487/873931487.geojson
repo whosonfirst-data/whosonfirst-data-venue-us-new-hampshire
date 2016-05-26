@@ -1,0 +1,73 @@
+{
+  "id": 873931487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.065622,43.217932,-71.065622,43.217932",
+    "geom:latitude":43.217932,
+    "geom:longitude":-71.065622,
+    "iso:country":"US",
+    "sg:address":"20 Haley Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2127",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IuPkhYXg5IgaLzPbSiewr_43.217932_-71.065622@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300437,
+    "wof:geomhash":"def577376b11ed234b401cf467179e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873931487
+        }
+    ],
+    "wof:id":873931487,
+    "wof:lastmodified":1464300437,
+    "wof:name":"Barrington Middle School",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.065622,
+    43.217932,
+    -71.065622,
+    43.217932
+],
+  "geometry": {"coordinates":[-71.065622,43.217932],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873882727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.803713,43.012188,-70.803713,43.012188",
+    "geom:latitude":43.012188,
+    "geom:longitude":-70.803713,
+    "iso:country":"US",
+    "sg:address":"109 Lafayette Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 1731",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nwi5NnCaJKxbwJbiIImhs_43.012188_-70.803713@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299484,
+    "wof:geomhash":"4187b4112bc35ae3f896f23912b5954b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873882727
+        }
+    ],
+    "wof:id":873882727,
+    "wof:lastmodified":1464299484,
+    "wof:name":"Marks Auto Detailing",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -70.803713,
+    43.012188,
+    -70.803713,
+    43.012188
+],
+  "geometry": {"coordinates":[-70.803713,43.012188],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873871917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.127937,43.977513,-71.127937,43.977513",
+    "geom:latitude":43.977513,
+    "geom:longitude":-71.127937,
+    "iso:country":"US",
+    "sg:address":"128 W Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5470",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_778NyuxpSOaOjNIozPHPwn_43.977513_-71.127937@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299273,
+    "wof:geomhash":"b7dcf405d8683ff78dc78e3e29c44873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873871917
+        }
+    ],
+    "wof:id":873871917,
+    "wof:lastmodified":1464299273,
+    "wof:name":"Conway Fire District",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.127937,
+    43.977513,
+    -71.127937,
+    43.977513
+],
+  "geometry": {"coordinates":[-71.127937,43.977513],"type":"Point"}
+}

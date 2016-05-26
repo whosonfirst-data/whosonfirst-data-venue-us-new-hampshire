@@ -1,0 +1,69 @@
+{
+  "id": 873890867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.20949,42.755502,-71.20949,42.755502",
+    "geom:latitude":42.755502,
+    "geom:longitude":-71.20949,
+    "iso:country":"US",
+    "sg:address":"314 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 4344",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizzeria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EkZMA3u5g3wyJGrKOdWII_42.755502_-71.209490@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299646,
+    "wof:geomhash":"66429bbbefdf5fc64506b6d6cb556fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873890867
+        }
+    ],
+    "wof:id":873890867,
+    "wof:lastmodified":1464299646,
+    "wof:name":"Amore Pizza Restaurant",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria"
+    ]
+},
+  "bbox": [
+    -71.20949,
+    42.755502,
+    -71.20949,
+    42.755502
+],
+  "geometry": {"coordinates":[-71.20949,42.755502],"type":"Point"}
+}

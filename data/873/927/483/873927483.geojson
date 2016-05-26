@@ -1,0 +1,73 @@
+{
+  "id": 873927483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.747882,43.192347,-71.747882,43.192347",
+    "geom:latitude":43.192347,
+    "geom:longitude":-71.747882,
+    "iso:country":"US",
+    "sg:address":"1966 Maple St",
+    "sg:city":"Hopkinton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 4216",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855701,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0shE4qhCULpdmlQGSkyxsu_43.192347_-71.747882@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300354,
+    "wof:geomhash":"b7828000ead408481830479b3de386ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85855701,
+            "region_id":85688689,
+            "venue_id":873927483
+        }
+    ],
+    "wof:id":873927483,
+    "wof:lastmodified":1464300354,
+    "wof:name":"Park Models Plus",
+    "wof:parent_id":85855701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -71.747882,
+    43.192347,
+    -71.747882,
+    43.192347
+],
+  "geometry": {"coordinates":[-71.747882,43.192347],"type":"Point"}
+}

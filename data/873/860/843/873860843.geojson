@@ -1,0 +1,77 @@
+{
+  "id": 873860843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.360663,43.364805,-72.360663,43.364805",
+    "geom:latitude":43.364805,
+    "geom:longitude":-72.360663,
+    "iso:country":"US",
+    "sg:address":"119 Maple Ave",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 8040",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855301,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ChQR8IvSPyW3s0o1Yoq92_43.364805_-72.360663@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299055,
+    "wof:geomhash":"e76a723361df04cf51536b49f1cadd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":85855301,
+            "region_id":85688689,
+            "venue_id":873860843
+        }
+    ],
+    "wof:id":873860843,
+    "wof:lastmodified":1464299055,
+    "wof:name":"American Tire & Brake",
+    "wof:parent_id":85855301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -72.360663,
+    43.364805,
+    -72.360663,
+    43.364805
+],
+  "geometry": {"coordinates":[-72.360663,43.364805],"type":"Point"}
+}

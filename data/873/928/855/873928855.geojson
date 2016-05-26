@@ -1,0 +1,81 @@
+{
+  "id": 873928855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.229898,42.874253,-72.229898,42.874253",
+    "geom:latitude":42.874253,
+    "geom:longitude":-72.229898,
+    "iso:country":"US",
+    "sg:address":"588 Monadnock Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 1472",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooters-repairing",
+        "instruction",
+        "motorcycle",
+        "motor"
+    ],
+    "sg:website":"http://www.monadnockharley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sWkfgDg6J5LldOLuF0tTl_42.874253_-72.229898@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300385,
+    "wof:geomhash":"db085d69858083e5fb6b02e8d1c82ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873928855
+        }
+    ],
+    "wof:id":873928855,
+    "wof:lastmodified":1464300385,
+    "wof:name":"Aps Motorcycles",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "instruction",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -72.229898,
+    42.874253,
+    -72.229898,
+    42.874253
+],
+  "geometry": {"coordinates":[-72.22989800000001,42.874253],"type":"Point"}
+}

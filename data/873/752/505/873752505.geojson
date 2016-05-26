@@ -1,0 +1,71 @@
+{
+  "id": 873752505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.60428,43.288745,-71.60428,43.288745",
+    "geom:latitude":43.288745,
+    "geom:longitude":-71.60428,
+    "iso:country":"US",
+    "sg:address":"115 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9844",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5arYJBRUuqf2i61m7I140Q_43.288745_-71.604280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297107,
+    "wof:geomhash":"8202fa46d5feafc98bb77beade36568b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873752505
+        }
+    ],
+    "wof:id":873752505,
+    "wof:lastmodified":1464297107,
+    "wof:name":"Smith Steel Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -71.60428,
+    43.288745,
+    -71.60428,
+    43.288745
+],
+  "geometry": {"coordinates":[-71.60428,43.288745],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873814935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.133691,43.039559,-71.133691,43.039559",
+    "geom:latitude":43.039559,
+    "geom:longitude":-71.133691,
+    "iso:country":"US",
+    "sg:address":"394 State Rte 27",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2418",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H9ktbWVX6sQkM5W6Mk9G6_43.039559_-71.133691@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298013,
+    "wof:geomhash":"26dd7a1f523a491f91519ff5f72dc056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873814935
+        }
+    ],
+    "wof:id":873814935,
+    "wof:lastmodified":1464298013,
+    "wof:name":"Horne's Auto Body",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.133691,
+    43.039559,
+    -71.133691,
+    43.039559
+],
+  "geometry": {"coordinates":[-71.133691,43.039559],"type":"Point"}
+}

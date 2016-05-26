@@ -1,0 +1,71 @@
+{
+  "id": 873910249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.106295,43.824586,-71.106295,43.824586",
+    "geom:latitude":43.824586,
+    "geom:longitude":-71.106295,
+    "iso:country":"US",
+    "sg:address":"9 Abenaki Dr",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4690",
+    "sg:postcode":"03836",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_708jyzULFunv4gHXyzmOpt_43.824586_-71.106295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300018,
+    "wof:geomhash":"435a0f31a06ce9ec5a4bc135c26ff4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873910249
+        }
+    ],
+    "wof:id":873910249,
+    "wof:lastmodified":1464300018,
+    "wof:name":"Jonathan R Lovering & Sons",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.106295,
+    43.824586,
+    -71.106295,
+    43.824586
+],
+  "geometry": {"coordinates":[-71.106295,43.824586],"type":"Point"}
+}

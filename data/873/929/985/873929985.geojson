@@ -1,0 +1,83 @@
+{
+  "id": 873929985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.76878,43.06134,-70.76878,43.06134",
+    "geom:latitude":43.06134,
+    "geom:longitude":-70.76878,
+    "iso:country":"US",
+    "sg:address":"264 Lafayette Rd Ste 5",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 5560",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526353,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I65CMl5CHc91FfnBOOqhN_43.061340_-70.768780@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300410,
+    "wof:geomhash":"2c0322b4b811f0884a6e5bbcc358a051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526353,
+            "region_id":85688689,
+            "venue_id":873929985
+        }
+    ],
+    "wof:id":873929985,
+    "wof:lastmodified":1464300410,
+    "wof:name":"Portsmouth Radiological Pa",
+    "wof:parent_id":420526353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ]
+},
+  "bbox": [
+    -70.76878,
+    43.06134,
+    -70.76878,
+    43.06134
+],
+  "geometry": {"coordinates":[-70.76878000000001,43.06134],"type":"Point"}
+}

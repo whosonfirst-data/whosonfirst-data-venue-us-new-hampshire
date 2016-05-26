@@ -1,0 +1,75 @@
+{
+  "id": 873880897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.882343,43.230783,-70.882343,43.230783",
+    "geom:latitude":43.230783,
+    "geom:longitude":-70.882343,
+    "iso:country":"US",
+    "sg:address":"459 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 1203",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526417,
+        102191575,
+        404477061,
+        85633793,
+        85975057,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57JxsFpehjjqqJcmmpJXr3_43.230783_-70.882343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299450,
+    "wof:geomhash":"b1acafc247ba6bc078b58cb1ac1b3c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404477061,
+            "locality_id":85975057,
+            "neighbourhood_id":420526417,
+            "region_id":85688689,
+            "venue_id":873880897
+        }
+    ],
+    "wof:id":873880897,
+    "wof:lastmodified":1464299450,
+    "wof:name":"Central Park Veterinary Clinic",
+    "wof:parent_id":420526417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -70.882343,
+    43.230783,
+    -70.882343,
+    43.230783
+],
+  "geometry": {"coordinates":[-70.88234300000001,43.230783],"type":"Point"}
+}

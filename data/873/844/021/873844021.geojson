@@ -1,0 +1,71 @@
+{
+  "id": 873844021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.602393,43.283387,-71.602393,43.283387",
+    "geom:latitude":43.283387,
+    "geom:longitude":-71.602393,
+    "iso:country":"US",
+    "sg:address":"18 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 6660",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lnthN2IJcSJhaWDPW9HgR_43.283387_-71.602393@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298656,
+    "wof:geomhash":"bc538215d1976b21fa13d4d1369f51cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873844021
+        }
+    ],
+    "wof:id":873844021,
+    "wof:lastmodified":1464298656,
+    "wof:name":"John V Cabibi PHD",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.602393,
+    43.283387,
+    -71.602393,
+    43.283387
+],
+  "geometry": {"coordinates":[-71.60239300000001,43.283387],"type":"Point"}
+}

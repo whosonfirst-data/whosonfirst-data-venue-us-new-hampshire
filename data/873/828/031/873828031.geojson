@@ -1,0 +1,71 @@
+{
+  "id": 873828031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414406,43.735952,-71.414406,43.735952",
+    "geom:latitude":43.735952,
+    "geom:longitude":-71.414406,
+    "iso:country":"US",
+    "sg:address":"710 State Rte 25",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 6762",
+    "sg:postcode":"03254",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85835419,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gqH76KOcuxtFTfjJlEpXi_43.735952_-71.414406@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298295,
+    "wof:geomhash":"629925a2cda555e14b0f0dfcd5e68877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85835419,
+            "region_id":85688689,
+            "venue_id":873828031
+        }
+    ],
+    "wof:id":873828031,
+    "wof:lastmodified":1464298295,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85835419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.414406,
+    43.735952,
+    -71.414406,
+    43.735952
+],
+  "geometry": {"coordinates":[-71.414406,43.735952],"type":"Point"}
+}

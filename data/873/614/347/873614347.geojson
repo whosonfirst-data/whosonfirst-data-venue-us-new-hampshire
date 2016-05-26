@@ -1,0 +1,71 @@
+{
+  "id": 873614347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585773,43.436837,-71.585773,43.436837",
+    "geom:latitude":43.436837,
+    "geom:longitude":-71.585773,
+    "iso:country":"US",
+    "sg:address":"35 Summer St",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 3225",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZIPqnTehnHisQ5a049zcd_43.436837_-71.585773@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295189,
+    "wof:geomhash":"8b47f1d4cba646b99e3d83562774b6fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873614347
+        }
+    ],
+    "wof:id":873614347,
+    "wof:lastmodified":1464295189,
+    "wof:name":"Tony's Electric",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.585773,
+    43.436837,
+    -71.585773,
+    43.436837
+],
+  "geometry": {"coordinates":[-71.585773,43.436837],"type":"Point"}
+}

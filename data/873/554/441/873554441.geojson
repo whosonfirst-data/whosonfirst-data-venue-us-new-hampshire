@@ -1,0 +1,71 @@
+{
+  "id": 873554441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.783981,43.000038,-70.783981,43.000038",
+    "geom:latitude":43.000038,
+    "geom:longitude":-70.783981,
+    "iso:country":"US",
+    "sg:address":"260 Grove Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 1900",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PPZWNeGrcyXjqeTesmf3L_43.000038_-70.783981@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294429,
+    "wof:geomhash":"d9103f37323f4b5b930402dea07ed1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873554441
+        }
+    ],
+    "wof:id":873554441,
+    "wof:lastmodified":1464294429,
+    "wof:name":"Del Institute",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -70.783981,
+    43.000038,
+    -70.783981,
+    43.000038
+],
+  "geometry": {"coordinates":[-70.783981,43.000038],"type":"Point"}
+}

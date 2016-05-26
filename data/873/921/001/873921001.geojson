@@ -1,0 +1,70 @@
+{
+  "id": 873921001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592113,42.735245,-71.592113,42.735245",
+    "geom:latitude":42.735245,
+    "geom:longitude":-71.592113,
+    "iso:country":"US",
+    "sg:address":"24 Cavalier Ct",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2269",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.hbhs.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xr0wJF0MXDoG6zY3W6Snv_42.735245_-71.592113@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300228,
+    "wof:geomhash":"0d6793b0ed371b5a02ec0f0aded2f37b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873921001
+        }
+    ],
+    "wof:id":873921001,
+    "wof:lastmodified":1464300228,
+    "wof:name":"Hollis/brookline High School",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -71.592113,
+    42.735245,
+    -71.592113,
+    42.735245
+],
+  "geometry": {"coordinates":[-71.592113,42.735245],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873771475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.917125,43.160096,-71.917125,43.160096",
+    "geom:latitude":43.160096,
+    "geom:longitude":-71.917125,
+    "iso:country":"US",
+    "sg:address":"7 Flint Rd",
+    "sg:city":"Hillsborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 3805",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sign",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64wcZDFK6Dw4AuapMdn8hg_43.160096_-71.917125@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297383,
+    "wof:geomhash":"4d492016e5edf11654cfd175162026d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873771475
+        }
+    ],
+    "wof:id":873771475,
+    "wof:lastmodified":1464297383,
+    "wof:name":"Flint Rd Signs",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sign",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.917125,
+    43.160096,
+    -71.917125,
+    43.160096
+],
+  "geometry": {"coordinates":[-71.917125,43.160096],"type":"Point"}
+}

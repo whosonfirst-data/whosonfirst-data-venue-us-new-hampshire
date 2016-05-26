@@ -1,0 +1,72 @@
+{
+  "id": 873678009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.573601,44.521145,-71.573601,44.521145",
+    "geom:latitude":44.521145,
+    "geom:longitude":-71.573601,
+    "iso:country":"US",
+    "sg:address":"278 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 5021",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.hitchcock.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u22NeSh0aPkHsyZHOOhZw_44.521145_-71.573601@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295937,
+    "wof:geomhash":"2d010db1852314597046e2d66777bd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873678009
+        }
+    ],
+    "wof:id":873678009,
+    "wof:lastmodified":1464295937,
+    "wof:name":"Weeks Home Health Svc Inc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.573601,
+    44.521145,
+    -71.573601,
+    44.521145
+],
+  "geometry": {"coordinates":[-71.573601,44.521145],"type":"Point"}
+}

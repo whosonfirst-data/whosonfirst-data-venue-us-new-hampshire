@@ -1,0 +1,71 @@
+{
+  "id": 873577379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186623,44.472194,-71.186623,44.472194",
+    "geom:latitude":44.472194,
+    "geom:longitude":-71.186623,
+    "iso:country":"US",
+    "sg:address":"795 2nd Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5874",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7awl8jiwnDA40losHWiQVj_44.472194_-71.186623@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294688,
+    "wof:geomhash":"4455bcf43f496ca8dfca3c31afbd2bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873577379
+        }
+    ],
+    "wof:id":873577379,
+    "wof:lastmodified":1464294688,
+    "wof:name":"Falardeau Construction",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.186623,
+    44.472194,
+    -71.186623,
+    44.472194
+],
+  "geometry": {"coordinates":[-71.186623,44.472194],"type":"Point"}
+}

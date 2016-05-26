@@ -1,0 +1,86 @@
+{
+  "id": 873582061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46106,42.759354,-71.46106,42.759354",
+    "geom:latitude":42.759354,
+    "geom:longitude":-71.46106,
+    "iso:country":"US",
+    "sg:address":"28 Quincy St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 4770",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heavy",
+        "yard",
+        "construction",
+        "e"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J0inLNY1FcFtDS0SFUOIw_42.759354_-71.461060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294743,
+    "wof:geomhash":"a971b949c7a1cdcb108b2b7ee3c90e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873582061
+        }
+    ],
+    "wof:id":873582061,
+    "wof:lastmodified":1464294743,
+    "wof:name":"Boss Equipment Inc",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "yard",
+        "construction",
+        "e"
+    ]
+},
+  "bbox": [
+    -71.46106,
+    42.759354,
+    -71.46106,
+    42.759354
+],
+  "geometry": {"coordinates":[-71.46106,42.759354],"type":"Point"}
+}

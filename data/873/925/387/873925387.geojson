@@ -1,0 +1,76 @@
+{
+  "id": 873925387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.236893,42.82007,-71.236893,42.82007",
+    "geom:latitude":42.82007,
+    "geom:longitude":-71.236893,
+    "iso:country":"US",
+    "sg:address":"111 Shadow Lake Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0715",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "sg:website":"http://www.derrywellwoman.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07q8kFmNTP0eD3gAvwcu2I_42.820070_-71.236893@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300312,
+    "wof:geomhash":"e6f1c2974bd7d27a7e514e8a458ce256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925387
+        }
+    ],
+    "wof:id":873925387,
+    "wof:lastmodified":1464300312,
+    "wof:name":"Derry Well Co",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.236893,
+    42.82007,
+    -71.236893,
+    42.82007
+],
+  "geometry": {"coordinates":[-71.23689299999999,42.82007],"type":"Point"}
+}

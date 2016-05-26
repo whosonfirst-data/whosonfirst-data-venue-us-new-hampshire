@@ -1,0 +1,71 @@
+{
+  "id": 873928329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595099,43.268516,-71.595099,43.268516",
+    "geom:latitude":43.268516,
+    "geom:longitude":-71.595099,
+    "iso:country":"US",
+    "sg:address":"61 Borough Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9594",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S0SeiF99SaCgGtE9sLv4Z_43.268516_-71.595099@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300376,
+    "wof:geomhash":"81adf0e28e191de48fd86013a460f531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928329
+        }
+    ],
+    "wof:id":873928329,
+    "wof:lastmodified":1464300376,
+    "wof:name":"Cellar Door Books",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -71.595099,
+    43.268516,
+    -71.595099,
+    43.268516
+],
+  "geometry": {"coordinates":[-71.595099,43.268516],"type":"Point"}
+}

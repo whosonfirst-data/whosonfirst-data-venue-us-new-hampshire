@@ -1,0 +1,69 @@
+{
+  "id": 873837771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249487,43.334956,-71.249487,43.334956",
+    "geom:latitude":43.334956,
+    "geom:longitude":-71.249487,
+    "iso:country":"US",
+    "sg:address":"44 New Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 435 8828",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vtcb9XhgqbtY06W0s6EB6_43.334956_-71.249487@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298501,
+    "wof:geomhash":"c04ce7e7113f747518bb98add53a6452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873837771
+        }
+    ],
+    "wof:id":873837771,
+    "wof:lastmodified":1464298501,
+    "wof:name":"B & S Septic Svc",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.249487,
+    43.334956,
+    -71.249487,
+    43.334956
+],
+  "geometry": {"coordinates":[-71.249487,43.334956],"type":"Point"}
+}

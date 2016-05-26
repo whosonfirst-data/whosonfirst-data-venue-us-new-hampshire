@@ -1,0 +1,71 @@
+{
+  "id": 873904141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468938,43.526318,-71.468938,43.526318",
+    "geom:latitude":43.526318,
+    "geom:longitude":-71.468938,
+    "iso:country":"US",
+    "sg:address":"520 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1000",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M0yJlM6q0EIcqt9NzmeUA_43.526318_-71.468938@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299902,
+    "wof:geomhash":"2217e83770025f7526c1182f8ede377c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873904141
+        }
+    ],
+    "wof:id":873904141,
+    "wof:lastmodified":1464299902,
+    "wof:name":"Sawyers Jewelers Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.468938,
+    43.526318,
+    -71.468938,
+    43.526318
+],
+  "geometry": {"coordinates":[-71.46893799999999,43.526318],"type":"Point"}
+}

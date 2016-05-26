@@ -1,0 +1,75 @@
+{
+  "id": 873800275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.579372,44.484058,-71.579372,44.484058",
+    "geom:latitude":44.484058,
+    "geom:longitude":-71.579372,
+    "iso:country":"US",
+    "sg:address":"80 Elm St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 9892",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plant",
+        "hydroelectric",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vgBKeBs3mKTytZwe2P8J5_44.484058_-71.579372@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297777,
+    "wof:geomhash":"d44850686901e4b334618b5d8180ea9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873800275
+        }
+    ],
+    "wof:id":873800275,
+    "wof:lastmodified":1464297777,
+    "wof:name":"Power House Systems Inc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "hydroelectric",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.579372,
+    44.484058,
+    -71.579372,
+    44.484058
+],
+  "geometry": {"coordinates":[-71.57937200000001,44.484058],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873918787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.973618,43.301889,-70.973618,43.301889",
+    "geom:latitude":43.301889,
+    "geom:longitude":-70.973618,
+    "iso:country":"US",
+    "sg:address":"79 S Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/91187-dangelo-sandwich-shops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 2722",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_774j9NraTqctrd9iQFbFuR_43.301889_-70.973618@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"b07b3c2c64237880e5bab4958ad103ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873918787
+        }
+    ],
+    "wof:id":873918787,
+    "wof:lastmodified":1464300191,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -70.973618,
+    43.301889,
+    -70.973618,
+    43.301889
+],
+  "geometry": {"coordinates":[-70.973618,43.301889],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873731805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49265,43.222714,-71.49265,43.222714",
+    "geom:latitude":43.222714,
+    "geom:longitude":-71.49265,
+    "iso:country":"US",
+    "sg:address":"216 Loudon Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 8144",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ctQJ9dPbMT6k032sVlNmt_43.222714_-71.492650@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296801,
+    "wof:geomhash":"feb8c8333f72e019195fa30eb84e53b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873731805
+        }
+    ],
+    "wof:id":873731805,
+    "wof:lastmodified":1464296801,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.49265,
+    43.222714,
+    -71.49265,
+    43.222714
+],
+  "geometry": {"coordinates":[-71.49265,43.222714],"type":"Point"}
+}

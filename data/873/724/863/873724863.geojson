@@ -1,0 +1,75 @@
+{
+  "id": 873724863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460876,42.757227,-71.460876,42.757227",
+    "geom:latitude":42.757227,
+    "geom:longitude":-71.460876,
+    "iso:country":"US",
+    "sg:address":"19 Tyler St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 0660",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aR3ywLGd5j4exVa42Gc23_42.757227_-71.460876@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296711,
+    "wof:geomhash":"755a36bc2e55dc8e8e506ea0bcf46d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873724863
+        }
+    ],
+    "wof:id":873724863,
+    "wof:lastmodified":1464296711,
+    "wof:name":"Foundation Medical Partners",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.460876,
+    42.757227,
+    -71.460876,
+    42.757227
+],
+  "geometry": {"coordinates":[-71.460876,42.757227],"type":"Point"}
+}

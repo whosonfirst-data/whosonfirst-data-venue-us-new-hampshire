@@ -1,0 +1,73 @@
+{
+  "id": 873568591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.334156,42.746686,-71.334156,42.746686",
+    "geom:latitude":42.746686,
+    "geom:longitude":-71.334156,
+    "iso:country":"US",
+    "sg:address":"10 Washington St",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 1100",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pa",
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uhnuKX6FyK95it9BtvFBJ_42.746686_-71.334156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294592,
+    "wof:geomhash":"28ca798f93a72d1097ccec7a47fe57bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873568591
+        }
+    ],
+    "wof:id":873568591,
+    "wof:lastmodified":1464294592,
+    "wof:name":"Pelham Diesel Service",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pa",
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.334156,
+    42.746686,
+    -71.334156,
+    42.746686
+],
+  "geometry": {"coordinates":[-71.33415599999999,42.746686],"type":"Point"}
+}

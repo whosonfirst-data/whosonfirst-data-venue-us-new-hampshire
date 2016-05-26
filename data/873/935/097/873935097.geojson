@@ -1,0 +1,85 @@
+{
+  "id": 873935097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198055,43.598675,-71.198055,43.598675",
+    "geom:latitude":43.598675,
+    "geom:longitude":-71.198055,
+    "iso:country":"US",
+    "sg:address":"35 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 6506",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.myharvestmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qpeMNsUwCqNtjL6aHwsm6_43.598675_-71.198055@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300502,
+    "wof:geomhash":"e4665880c7a40043a6b8f743baae5efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935097
+        }
+    ],
+    "wof:id":873935097,
+    "wof:lastmodified":1464300502,
+    "wof:name":"Harvest Market",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.198055,
+    43.598675,
+    -71.198055,
+    43.598675
+],
+  "geometry": {"coordinates":[-71.198055,43.598675],"type":"Point"}
+}

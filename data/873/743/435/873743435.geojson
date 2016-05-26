@@ -1,0 +1,69 @@
+{
+  "id": 873743435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.863168,42.887874,-70.863168,42.887874",
+    "geom:latitude":42.887874,
+    "geom:longitude":-70.863168,
+    "iso:country":"US",
+    "sg:address":"81 Railroad Ave",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 7460",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RZfdrJehNwh5HfN7MNYZw_42.887874_-70.863168@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296978,
+    "wof:geomhash":"e516e8562bfec0b1dcabc6d307dab581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873743435
+        }
+    ],
+    "wof:id":873743435,
+    "wof:lastmodified":1464296978,
+    "wof:name":"Seabrook Housing Authority",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.863168,
+    42.887874,
+    -70.863168,
+    42.887874
+],
+  "geometry": {"coordinates":[-70.863168,42.887874],"type":"Point"}
+}

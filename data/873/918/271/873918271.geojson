@@ -1,0 +1,97 @@
+{
+  "id": 873918271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.361314,43.349185,-72.361314,43.349185",
+    "geom:latitude":43.349185,
+    "geom:longitude":-72.361314,
+    "iso:country":"US",
+    "sg:address":"170 Charlestown Rd",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/claremont/149276-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 0957",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855301,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mtD2CfQMGE7YieG2EcogX_43.349185_-72.361314@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300181,
+    "wof:geomhash":"7596958eab5476f379787c59a1c8a239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":85855301,
+            "region_id":85688689,
+            "venue_id":873918271
+        }
+    ],
+    "wof:id":873918271,
+    "wof:lastmodified":1464300181,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85855301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.361314,
+    43.349185,
+    -72.361314,
+    43.349185
+],
+  "geometry": {"coordinates":[-72.36131399999999,43.349185],"type":"Point"}
+}

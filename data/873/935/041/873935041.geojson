@@ -1,0 +1,82 @@
+{
+  "id": 873935041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215206,43.585968,-71.215206,43.585968",
+    "geom:latitude":43.585968,
+    "geom:longitude":-71.215206,
+    "iso:country":"US",
+    "sg:address":"90 Mill St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 7565",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qn9jEdI6uelYkDV8ZE0px_43.585968_-71.215206@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300501,
+    "wof:geomhash":"323eb4b259cb44ac374c620ffcd7f979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935041
+        }
+    ],
+    "wof:id":873935041,
+    "wof:lastmodified":1464300501,
+    "wof:name":"Back Bay Rehabilitation",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.215206,
+    43.585968,
+    -71.215206,
+    43.585968
+],
+  "geometry": {"coordinates":[-71.21520599999999,43.585968],"type":"Point"}
+}

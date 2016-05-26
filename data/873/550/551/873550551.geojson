@@ -1,0 +1,71 @@
+{
+  "id": 873550551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57005,44.484083,-71.57005,44.484083",
+    "geom:latitude":44.484083,
+    "geom:longitude":-71.57005,
+    "iso:country":"US",
+    "sg:address":"23 Prospect St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2280",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CkYpRMvtlk2OV0q2LZXLf_44.484083_-71.570050@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294384,
+    "wof:geomhash":"1b0996dfcd2ab68672aac631419fa103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873550551
+        }
+    ],
+    "wof:id":873550551,
+    "wof:lastmodified":1464294384,
+    "wof:name":"Colon Sutherland Land Surveyor",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -71.57005,
+    44.484083,
+    -71.57005,
+    44.484083
+],
+  "geometry": {"coordinates":[-71.57004999999999,44.484083],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873550747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.62028,42.710848,-71.62028,42.710848",
+    "geom:latitude":42.710848,
+    "geom:longitude":-71.62028,
+    "iso:country":"US",
+    "sg:address":"10 Lawrence Ln",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2966",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7geiu6lwq5y3Xehy60BFRO_42.710848_-71.620280@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294386,
+    "wof:geomhash":"274a58a0c798095138da7dcedebf2d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873550747
+        }
+    ],
+    "wof:id":873550747,
+    "wof:lastmodified":1464294386,
+    "wof:name":"Legacy Welding",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.62028,
+    42.710848,
+    -71.62028,
+    42.710848
+],
+  "geometry": {"coordinates":[-71.62027999999999,42.710848],"type":"Point"}
+}

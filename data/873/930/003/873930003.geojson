@@ -1,0 +1,80 @@
+{
+  "id": 873930003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.792511,43.026287,-70.792511,43.026287",
+    "geom:latitude":43.026287,
+    "geom:longitude":-70.792511,
+    "iso:country":"US",
+    "sg:address":"3020 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 1297",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "super"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526349,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TGC6gFMS0wHJ65m6YSyaZ_43.026287_-70.792511@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300410,
+    "wof:geomhash":"e92d2c271d6fe645f386bf6290f311e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526349,
+            "region_id":85688689,
+            "venue_id":873930003
+        }
+    ],
+    "wof:id":873930003,
+    "wof:lastmodified":1464300410,
+    "wof:name":"Bursaw's Pantry",
+    "wof:parent_id":420526349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -70.792511,
+    43.026287,
+    -70.792511,
+    43.026287
+],
+  "geometry": {"coordinates":[-70.792511,43.026287],"type":"Point"}
+}

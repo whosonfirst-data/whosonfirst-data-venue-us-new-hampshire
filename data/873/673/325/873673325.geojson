@@ -1,0 +1,71 @@
+{
+  "id": 873673325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653277,43.712332,-71.653277,43.712332",
+    "geom:latitude":43.712332,
+    "geom:longitude":-71.653277,
+    "iso:country":"US",
+    "sg:address":"42 N Ashland Rd",
+    "sg:city":"Ashland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 968 3342",
+    "sg:postcode":"03217",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LtWqqsRA2fatTxHvnu6yB_43.712332_-71.653277@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295833,
+    "wof:geomhash":"e54170b6c2620dcdfc305312bc6b1226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873673325
+        }
+    ],
+    "wof:id":873673325,
+    "wof:lastmodified":1464295833,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.653277,
+    43.712332,
+    -71.653277,
+    43.712332
+],
+  "geometry": {"coordinates":[-71.653277,43.712332],"type":"Point"}
+}

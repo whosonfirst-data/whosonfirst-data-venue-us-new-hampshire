@@ -1,0 +1,72 @@
+{
+  "id": 873844165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.177103,44.466718,-71.177103,44.466718",
+    "geom:latitude":44.466718,
+    "geom:longitude":-71.177103,
+    "iso:country":"US",
+    "sg:address":"489 Goebel St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4550",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mill",
+        "paper"
+    ],
+    "sg:website":"www.berlinfoundry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UbhpezHERhL9V7fwU0dl5_44.466718_-71.177103@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298659,
+    "wof:geomhash":"0f8cdef04f94a8875db1b3ce93288ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873844165
+        }
+    ],
+    "wof:id":873844165,
+    "wof:lastmodified":1464298659,
+    "wof:name":"Berlin Foundry & Mach Co",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "paper"
+    ]
+},
+  "bbox": [
+    -71.177103,
+    44.466718,
+    -71.177103,
+    44.466718
+],
+  "geometry": {"coordinates":[-71.177103,44.466718],"type":"Point"}
+}

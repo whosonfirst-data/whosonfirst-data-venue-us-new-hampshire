@@ -1,0 +1,77 @@
+{
+  "id": 873704711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463129,42.986383,-71.463129,42.986383",
+    "geom:latitude":42.986383,
+    "geom:longitude":-71.463129,
+    "iso:country":"US",
+    "sg:address":"560 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 0099",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pPMra61yg3TWlfC0UFnWD_42.986383_-71.463129@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296453,
+    "wof:geomhash":"28d5380baf7d93bdf264e17bce666bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873704711
+        }
+    ],
+    "wof:id":873704711,
+    "wof:lastmodified":1464296453,
+    "wof:name":"Inner City Auto Repair",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.463129,
+    42.986383,
+    -71.463129,
+    42.986383
+],
+  "geometry": {"coordinates":[-71.463129,42.986383],"type":"Point"}
+}

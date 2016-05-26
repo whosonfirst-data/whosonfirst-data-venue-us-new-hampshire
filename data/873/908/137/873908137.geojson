@@ -1,0 +1,71 @@
+{
+  "id": 873908137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.889683,43.820758,-71.889683,43.820758",
+    "geom:latitude":43.820758,
+    "geom:longitude":-71.889683,
+    "iso:country":"US",
+    "sg:address":"14 Utility Dr",
+    "sg:city":"Rumney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 786 2116",
+    "sg:postcode":"03266",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856269,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bhDUFLu5crUyUo1qyWYjI_43.820758_-71.889683@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299978,
+    "wof:geomhash":"6de618a44244a3fa4c0ded3638bdaf4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856269,
+            "region_id":85688689,
+            "venue_id":873908137
+        }
+    ],
+    "wof:id":873908137,
+    "wof:lastmodified":1464299978,
+    "wof:name":"Paquette's Auto Repair",
+    "wof:parent_id":85856269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.889683,
+    43.820758,
+    -71.889683,
+    43.820758
+],
+  "geometry": {"coordinates":[-71.88968300000001,43.820758],"type":"Point"}
+}

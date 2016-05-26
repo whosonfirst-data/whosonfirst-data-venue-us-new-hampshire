@@ -1,0 +1,73 @@
+{
+  "id": 873544371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.053344,43.509499,-72.053344,43.509499",
+    "geom:latitude":43.509499,
+    "geom:longitude":-72.053344,
+    "iso:country":"US",
+    "sg:address":"92 Town Farm Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 2311",
+    "sg:postcode":"03284",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u13oOQVLdwCFO24RMizXR_43.509499_-72.053344@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294310,
+    "wof:geomhash":"aa60f75bd1df6283f8842a046fc18e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873544371
+        }
+    ],
+    "wof:id":873544371,
+    "wof:lastmodified":1464294310,
+    "wof:name":"Rite-Way Restoration Spec",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -72.053344,
+    43.509499,
+    -72.053344,
+    43.509499
+],
+  "geometry": {"coordinates":[-72.053344,43.509499],"type":"Point"}
+}

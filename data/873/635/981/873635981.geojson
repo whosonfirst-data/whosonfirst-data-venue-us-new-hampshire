@@ -1,0 +1,78 @@
+{
+  "id": 873635981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.56976,44.487151,-71.56976,44.487151",
+    "geom:latitude":44.487151,
+    "geom:longitude":-71.56976,
+    "iso:country":"US",
+    "sg:address":"4 Elm St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3996",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "alternative",
+        "abortion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7elA6okNKiqoL5TCUdhsML_44.487151_-71.569760@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295432,
+    "wof:geomhash":"d2d79b69062562f0b1dc1f5d344ea34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873635981
+        }
+    ],
+    "wof:id":873635981,
+    "wof:lastmodified":1464295432,
+    "wof:name":"Pathways Pregnancy Center",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "abortion"
+    ]
+},
+  "bbox": [
+    -71.56976,
+    44.487151,
+    -71.56976,
+    44.487151
+],
+  "geometry": {"coordinates":[-71.56976,44.487151],"type":"Point"}
+}

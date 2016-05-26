@@ -1,0 +1,71 @@
+{
+  "id": 873891763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.900687,42.960121,-70.900687,42.960121",
+    "geom:latitude":42.960121,
+    "geom:longitude":-70.900687,
+    "iso:country":"US",
+    "sg:address":"11 Victoria Dr",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 9228",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lead",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815141,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WDi1usZKyqOLiTen9gMOM_42.960121_-70.900687@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299661,
+    "wof:geomhash":"ec04f1cb0e06812ad7b591ed0a372263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85815141,
+            "region_id":85688689,
+            "venue_id":873891763
+        }
+    ],
+    "wof:id":873891763,
+    "wof:lastmodified":1464299661,
+    "wof:name":"Ink Inc",
+    "wof:parent_id":85815141,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lead",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.900687,
+    42.960121,
+    -70.900687,
+    42.960121
+],
+  "geometry": {"coordinates":[-70.900687,42.960121],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873923763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490511,42.706732,-71.490511,42.706732",
+    "geom:latitude":42.706732,
+    "geom:longitude":-71.490511,
+    "iso:country":"US",
+    "sg:address":"10 Curtis Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 791 4551",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "transmission",
+        "equipment",
+        "electric",
+        "power",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892285,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yTH3HcGDS6f1OgQji4DWA_42.706732_-71.490511@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300284,
+    "wof:geomhash":"2d28da05d7acacb6f84f835c6b385714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892285,
+            "region_id":85688689,
+            "venue_id":873923763
+        }
+    ],
+    "wof:id":873923763,
+    "wof:lastmodified":1464300284,
+    "wof:name":"Jabe Power International, LLC",
+    "wof:parent_id":85892285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "equipment",
+        "electric",
+        "power",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.490511,
+    42.706732,
+    -71.490511,
+    42.706732
+],
+  "geometry": {"coordinates":[-71.490511,42.706732],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873615205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.830703,43.288344,-71.830703,43.288344",
+    "geom:latitude":43.288344,
+    "geom:longitude":-71.830703,
+    "iso:country":"US",
+    "sg:address":"180 State Rte 103",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3433",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7msIOjuAzpMpPwNYy6ZrVA_43.288344_-71.830703@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295197,
+    "wof:geomhash":"107e04cfba75f2d76e1a23846afebe2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873615205
+        }
+    ],
+    "wof:id":873615205,
+    "wof:lastmodified":1464295197,
+    "wof:name":"Warner Police Dept",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.830703,
+    43.288344,
+    -71.830703,
+    43.288344
+],
+  "geometry": {"coordinates":[-71.830703,43.288344],"type":"Point"}
+}

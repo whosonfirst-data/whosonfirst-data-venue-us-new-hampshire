@@ -1,0 +1,75 @@
+{
+  "id": 873559727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439701,43.531796,-71.439701,43.531796",
+    "geom:latitude":43.531796,
+    "geom:longitude":-71.439701,
+    "iso:country":"US",
+    "sg:address":"2 Sawmill Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 8059",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FmP5KOaKt0627oHK4RZBO_43.531796_-71.439701@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294497,
+    "wof:geomhash":"eb4f25ecb03662220a7abdd94173fde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873559727
+        }
+    ],
+    "wof:id":873559727,
+    "wof:lastmodified":1464294497,
+    "wof:name":"Transportation NH Dept",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -71.439701,
+    43.531796,
+    -71.439701,
+    43.531796
+],
+  "geometry": {"coordinates":[-71.439701,43.531796],"type":"Point"}
+}

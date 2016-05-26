@@ -1,0 +1,75 @@
+{
+  "id": 873785275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831988,42.958199,-70.831988,42.958199",
+    "geom:latitude":42.958199,
+    "geom:longitude":-70.831988,
+    "iso:country":"US",
+    "sg:address":"6 Piper Ln",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 0323",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85819715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pZ12PZjkYveFW72rROWjH_42.958199_-70.831988@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297559,
+    "wof:geomhash":"1ddacdb25b43f3ad51ae03a56c89af8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85819715,
+            "region_id":85688689,
+            "venue_id":873785275
+        }
+    ],
+    "wof:id":873785275,
+    "wof:lastmodified":1464297559,
+    "wof:name":"Doucette Electric",
+    "wof:parent_id":85819715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.831988,
+    42.958199,
+    -70.831988,
+    42.958199
+],
+  "geometry": {"coordinates":[-70.831988,42.958199],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873866329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469399,42.756394,-71.469399,42.756394",
+    "geom:latitude":42.756394,
+    "geom:longitude":-71.469399,
+    "iso:country":"US",
+    "sg:address":"56 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4277",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JZyJn1Bz1oLhCq1O7DTvf_42.756394_-71.469399@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299162,
+    "wof:geomhash":"877d547222d1ce9509a4d0194b6fdf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873866329
+        }
+    ],
+    "wof:id":873866329,
+    "wof:lastmodified":1464299162,
+    "wof:name":"Churchside Market",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.469399,
+    42.756394,
+    -71.469399,
+    42.756394
+],
+  "geometry": {"coordinates":[-71.469399,42.756394],"type":"Point"}
+}

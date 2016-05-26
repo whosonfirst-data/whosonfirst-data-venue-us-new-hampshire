@@ -1,0 +1,71 @@
+{
+  "id": 873822811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426059,42.745929,-71.426059,42.745929",
+    "geom:latitude":42.745929,
+    "geom:longitude":-71.426059,
+    "iso:country":"US",
+    "sg:address":"150 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 4550",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bPJE1KX1THg6xKQPM9tNu_42.745929_-71.426059@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298186,
+    "wof:geomhash":"d16f526c2f54ceee6da9c8ab1593db0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873822811
+        }
+    ],
+    "wof:id":873822811,
+    "wof:lastmodified":1464298186,
+    "wof:name":"Kenneth N Gidge",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.426059,
+    42.745929,
+    -71.426059,
+    42.745929
+],
+  "geometry": {"coordinates":[-71.426059,42.745929],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873676613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478231,43.680737,-71.478231,43.680737",
+    "geom:latitude":43.680737,
+    "geom:longitude":-71.478231,
+    "iso:country":"US",
+    "sg:address":"3 Beattie Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8331",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831511,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6In9l27Y6WDL50Zn7Kd1iA_43.680737_-71.478231@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295903,
+    "wof:geomhash":"e6885c428a920e06db0fb5f37221e055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85831511,
+            "region_id":85688689,
+            "venue_id":873676613
+        }
+    ],
+    "wof:id":873676613,
+    "wof:lastmodified":1464295903,
+    "wof:name":"Meredith Plumbing & Heating",
+    "wof:parent_id":85831511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.478231,
+    43.680737,
+    -71.478231,
+    43.680737
+],
+  "geometry": {"coordinates":[-71.47823099999999,43.680737],"type":"Point"}
+}

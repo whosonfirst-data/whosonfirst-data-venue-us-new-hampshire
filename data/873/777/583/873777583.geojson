@@ -1,0 +1,71 @@
+{
+  "id": 873777583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.089202,43.685305,-71.089202,43.685305",
+    "geom:latitude":43.685305,
+    "geom:longitude":-71.089202,
+    "iso:country":"US",
+    "sg:address":"801 State Rte 16",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 4345",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QArLbbPbXs8ZeMjKFDnKn_43.685305_-71.089202@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297458,
+    "wof:geomhash":"99e4e99ce6cc6fd51c3b9d465b1bb206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873777583
+        }
+    ],
+    "wof:id":873777583,
+    "wof:lastmodified":1464297458,
+    "wof:name":"Ossipee Motors",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.089202,
+    43.685305,
+    -71.089202,
+    43.685305
+],
+  "geometry": {"coordinates":[-71.089202,43.685305],"type":"Point"}
+}

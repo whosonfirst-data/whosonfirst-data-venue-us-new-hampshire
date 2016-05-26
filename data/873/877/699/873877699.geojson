@@ -1,0 +1,71 @@
+{
+  "id": 873877699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547595,43.185289,-71.547595,43.185289",
+    "geom:latitude":43.185289,
+    "geom:longitude":-71.547595,
+    "iso:country":"US",
+    "sg:address":"17 Middlebury St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 1504",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NJGJNxKv7dBkvbIwoZHxn_43.185289_-71.547595@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299390,
+    "wof:geomhash":"2180379b73601ca1cc93a919da11c048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873877699
+        }
+    ],
+    "wof:id":873877699,
+    "wof:lastmodified":1464299390,
+    "wof:name":"Christopher & Jane Pappas",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.547595,
+    43.185289,
+    -71.547595,
+    43.185289
+],
+  "geometry": {"coordinates":[-71.547595,43.185289],"type":"Point"}
+}

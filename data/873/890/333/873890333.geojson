@@ -1,0 +1,75 @@
+{
+  "id": 873890333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.289502,43.701234,-72.289502,43.701234",
+    "geom:latitude":43.701234,
+    "geom:longitude":-72.289502,
+    "iso:country":"US",
+    "sg:address":"41 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 0701",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hiNld0dAt9fOJM3LPe2ie_43.701234_-72.289502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299637,
+    "wof:geomhash":"a79f844ef8ec2157b14ad9159498b9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873890333
+        }
+    ],
+    "wof:id":873890333,
+    "wof:lastmodified":1464299637,
+    "wof:name":"Town Manager",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.289502,
+    43.701234,
+    -72.289502,
+    43.701234
+],
+  "geometry": {"coordinates":[-72.289502,43.701234],"type":"Point"}
+}

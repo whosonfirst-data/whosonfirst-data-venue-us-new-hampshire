@@ -1,0 +1,70 @@
+{
+  "id": 873879901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.290409,42.932001,-72.290409,42.932001",
+    "geom:latitude":42.932001,
+    "geom:longitude":-72.290409,
+    "iso:country":"US",
+    "sg:address":"11 Bridge Ct",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 3817",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yQUGSDsl1kCrdLip2dh6e_42.932001_-72.290409@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299432,
+    "wof:geomhash":"d36f0a267bacd492adb3a4f06958f85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873879901
+        }
+    ],
+    "wof:id":873879901,
+    "wof:lastmodified":1464299432,
+    "wof:name":"Back & Pain Clinic",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.290409,
+    42.932001,
+    -72.290409,
+    42.932001
+],
+  "geometry": {"coordinates":[-72.290409,42.932001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873652717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568851,44.488507,-71.568851,44.488507",
+    "geom:latitude":44.488507,
+    "geom:longitude":-71.568851,
+    "iso:country":"US",
+    "sg:address":"22 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2800",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70NikOcGA6A9Sg6pkT9x84_44.488507_-71.568851@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295621,
+    "wof:geomhash":"700d284af383d40aaf65d0d419001004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873652717
+        }
+    ],
+    "wof:id":873652717,
+    "wof:lastmodified":1464295621,
+    "wof:name":"Moments Of Splendor",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.568851,
+    44.488507,
+    -71.568851,
+    44.488507
+],
+  "geometry": {"coordinates":[-71.568851,44.488507],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873623289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.852435,43.172669,-70.852435,43.172669",
+    "geom:latitude":43.172669,
+    "geom:longitude":-70.852435,
+    "iso:country":"US",
+    "sg:address":"1 Independence Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 750 7525",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pattern",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892235,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JYrf5tMHqRlWfA0kEWbin_43.172669_-70.852435@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295286,
+    "wof:geomhash":"caa7ac399bb900cff5ff96bc4d3f9d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892235,
+            "region_id":85688689,
+            "venue_id":873623289
+        }
+    ],
+    "wof:id":873623289,
+    "wof:lastmodified":1464295286,
+    "wof:name":"Berry Pattern",
+    "wof:parent_id":85892235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pattern",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.852435,
+    43.172669,
+    -70.852435,
+    43.172669
+],
+  "geometry": {"coordinates":[-70.852435,43.172669],"type":"Point"}
+}

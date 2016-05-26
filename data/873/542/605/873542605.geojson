@@ -1,0 +1,83 @@
+{
+  "id": 873542605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425214,43.566441,-71.425214,43.566441",
+    "geom:latitude":43.566441,
+    "geom:longitude":-71.425214,
+    "iso:country":"US",
+    "sg:address":"64 Gilford East Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5366",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xt7y4kN1oErMhbvTn7yUF_43.566441_-71.425214@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294287,
+    "wof:geomhash":"b3fceff88519938afb5e52fe0e00221f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873542605
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873542605
+        }
+    ],
+    "wof:id":873542605,
+    "wof:lastmodified":1464294287,
+    "wof:name":"Agway GO Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.425214,
+    43.566441,
+    -71.425214,
+    43.566441
+],
+  "geometry": {"coordinates":[-71.425214,43.566441],"type":"Point"}
+}

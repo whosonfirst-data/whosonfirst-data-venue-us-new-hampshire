@@ -1,0 +1,73 @@
+{
+  "id": 873789577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376312,43.252281,-72.376312,43.252281",
+    "geom:latitude":43.252281,
+    "geom:longitude":-72.376312,
+    "iso:country":"US",
+    "sg:address":"1189 N Hemlock Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 4749",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Em3UgR3mAomW5EdFzJEXR_43.252281_-72.376312@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297635,
+    "wof:geomhash":"b436720ba12cabe7e82bd285d7b03e83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873789577
+        }
+    ],
+    "wof:id":873789577,
+    "wof:lastmodified":1464297635,
+    "wof:name":"Tyler Trucking",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.376312,
+    43.252281,
+    -72.376312,
+    43.252281
+],
+  "geometry": {"coordinates":[-72.376312,43.252281],"type":"Point"}
+}

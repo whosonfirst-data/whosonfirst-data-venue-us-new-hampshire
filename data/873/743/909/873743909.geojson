@@ -1,0 +1,80 @@
+{
+  "id": 873743909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183713,43.887817,-71.183713,43.887817",
+    "geom:latitude":43.887817,
+    "geom:longitude":-71.183713,
+    "iso:country":"US",
+    "sg:address":"143 State Rte 113",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5700",
+    "sg:postcode":"03849",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "pumping",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kpGr3Fjc777TBW91PY0d5_43.887817_-71.183713@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296990,
+    "wof:geomhash":"085f89dfcd830bdc2f3df51473e65ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873743909
+        }
+    ],
+    "wof:id":873743909,
+    "wof:lastmodified":1464296990,
+    "wof:name":"Coleman Concrete Inc",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "pumping",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.183713,
+    43.887817,
+    -71.183713,
+    43.887817
+],
+  "geometry": {"coordinates":[-71.183713,43.887817],"type":"Point"}
+}

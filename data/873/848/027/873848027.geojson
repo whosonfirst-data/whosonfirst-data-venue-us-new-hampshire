@@ -1,0 +1,71 @@
+{
+  "id": 873848027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.055298,42.925552,-71.055298,42.925552",
+    "geom:latitude":42.925552,
+    "geom:longitude":-71.055298,
+    "iso:country":"US",
+    "sg:address":"124 Main St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 5471",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855763,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37loputs14CRIy92gp6qwS_42.925552_-71.055298@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298771,
+    "wof:geomhash":"1a8c82eba4895db9e6276c83eec50d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855763,
+            "region_id":85688689,
+            "venue_id":873848027
+        }
+    ],
+    "wof:id":873848027,
+    "wof:lastmodified":1464298771,
+    "wof:name":"Kingston State Park",
+    "wof:parent_id":85855763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -71.055298,
+    42.925552,
+    -71.055298,
+    42.925552
+],
+  "geometry": {"coordinates":[-71.05529799999999,42.925552],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873548689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182788,44.468157,-71.182788,44.468157",
+    "geom:latitude":44.468157,
+    "geom:longitude":-71.182788,
+    "iso:country":"US",
+    "sg:address":"40 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5932",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_091TkqlMkOblX1S8kOiqXL_44.468157_-71.182788@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294363,
+    "wof:geomhash":"0ca4718d72c6925c74fdc32f26239a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873548689
+        }
+    ],
+    "wof:id":873548689,
+    "wof:lastmodified":1464294363,
+    "wof:name":"Emnanuel School Of Dance",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.182788,
+    44.468157,
+    -71.182788,
+    44.468157
+],
+  "geometry": {"coordinates":[-71.182788,44.468157],"type":"Point"}
+}

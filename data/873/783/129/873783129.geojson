@@ -1,0 +1,73 @@
+{
+  "id": 873783129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.356072,42.810258,-71.356072,42.810258",
+    "geom:latitude":42.810258,
+    "geom:longitude":-71.356072,
+    "iso:country":"US",
+    "sg:address":"62 Oakridge Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 2275",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SI6FiNFlP5juxVrdR1R8R_42.810258_-71.356072@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297532,
+    "wof:geomhash":"c2369fea6dd82fff9f29cd8f89ac0099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873783129
+        }
+    ],
+    "wof:id":873783129,
+    "wof:lastmodified":1464297532,
+    "wof:name":"Moore Office Machine Svc",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -71.356072,
+    42.810258,
+    -71.356072,
+    42.810258
+],
+  "geometry": {"coordinates":[-71.356072,42.810258],"type":"Point"}
+}

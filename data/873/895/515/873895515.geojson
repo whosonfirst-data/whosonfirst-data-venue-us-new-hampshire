@@ -1,0 +1,73 @@
+{
+  "id": 873895515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2477,43.38437,-71.2477,43.38437",
+    "geom:latitude":43.38437,
+    "geom:longitude":-71.2477,
+    "iso:country":"US",
+    "sg:address":"69 Damsite Rd",
+    "sg:city":"Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 0154",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZW0DY4hfDE2uhJoPWHguK_43.384370_-71.247700@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299730,
+    "wof:geomhash":"dabd738632a47536454d67b392222f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873895515
+        }
+    ],
+    "wof:id":873895515,
+    "wof:lastmodified":1464299730,
+    "wof:name":"Delta Electric",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.2477,
+    43.38437,
+    -71.2477,
+    43.38437
+],
+  "geometry": {"coordinates":[-71.24769999999999,43.38437],"type":"Point"}
+}

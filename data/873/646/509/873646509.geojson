@@ -1,0 +1,71 @@
+{
+  "id": 873646509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518519,43.361711,-71.518519,43.361711",
+    "geom:latitude":43.361711,
+    "geom:longitude":-71.518519,
+    "iso:country":"US",
+    "sg:address":"335 Hackleboro Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4206",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i3vJGtOWeOmCAEv2gW76B_43.361711_-71.518519@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295551,
+    "wof:geomhash":"6e1847f62af5771988a2cfd2718576da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873646509
+        }
+    ],
+    "wof:id":873646509,
+    "wof:lastmodified":1464295551,
+    "wof:name":"Great Brook Farm",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -71.518519,
+    43.361711,
+    -71.518519,
+    43.361711
+],
+  "geometry": {"coordinates":[-71.518519,43.361711],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873837437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466693,43.537094,-71.466693,43.537094",
+    "geom:latitude":43.537094,
+    "geom:longitude":-71.466693,
+    "iso:country":"US",
+    "sg:address":"27 Bisson Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1266",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQGqCCRJFA96WzbDEFmoQ_43.537094_-71.466693@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298495,
+    "wof:geomhash":"65b1a4567f9645de21b19a8499a36b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873837437
+        }
+    ],
+    "wof:id":873837437,
+    "wof:lastmodified":1464298495,
+    "wof:name":"Laconia City Public Works Dept",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility"
+    ]
+},
+  "bbox": [
+    -71.466693,
+    43.537094,
+    -71.466693,
+    43.537094
+],
+  "geometry": {"coordinates":[-71.46669300000001,43.537094],"type":"Point"}
+}

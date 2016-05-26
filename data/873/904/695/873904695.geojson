@@ -1,0 +1,71 @@
+{
+  "id": 873904695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462532,43.547439,-71.462532,43.547439",
+    "geom:latitude":43.547439,
+    "geom:longitude":-71.462532,
+    "iso:country":"US",
+    "sg:address":"699 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0242",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32VNWRujpTs9DhMGg9eY1J_43.547439_-71.462532@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299910,
+    "wof:geomhash":"4e79bbd5db1fa54396eab914367a8060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873904695
+        }
+    ],
+    "wof:id":873904695,
+    "wof:lastmodified":1464299910,
+    "wof:name":"Allen Enterprises Rental",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.462532,
+    43.547439,
+    -71.462532,
+    43.547439
+],
+  "geometry": {"coordinates":[-71.462532,43.547439],"type":"Point"}
+}

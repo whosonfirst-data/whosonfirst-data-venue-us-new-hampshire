@@ -1,0 +1,71 @@
+{
+  "id": 873831599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.881565,43.225342,-70.881565,43.225342",
+    "geom:latitude":43.225342,
+    "geom:longitude":-70.881565,
+    "iso:country":"US",
+    "sg:address":"55 Kelwyn Dr",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 2651",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BaFaLPbovSl6ybp9rUDdt_43.225342_-70.881565@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298361,
+    "wof:geomhash":"ea4527086cf45b54f213691201503fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873831599
+        }
+    ],
+    "wof:id":873831599,
+    "wof:lastmodified":1464298361,
+    "wof:name":"Averys Drywall",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.881565,
+    43.225342,
+    -70.881565,
+    43.225342
+],
+  "geometry": {"coordinates":[-70.88156499999999,43.225342],"type":"Point"}
+}

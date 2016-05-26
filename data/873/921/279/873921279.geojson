@@ -1,0 +1,84 @@
+{
+  "id": 873921279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426697,42.768617,-71.426697,42.768617",
+    "geom:latitude":42.768617,
+    "geom:longitude":-71.426697,
+    "iso:country":"US",
+    "sg:address":"120 Ferry St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1800",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_420nGFJZlpFhStfA92ayCB_42.768617_-71.426697@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300232,
+    "wof:geomhash":"688f3d3fd576b49c0f97c5c9d351e839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921279
+        }
+    ],
+    "wof:id":873921279,
+    "wof:lastmodified":1464300232,
+    "wof:name":"Automotive Collision Repr Svcs",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "accessory",
+        "part",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.426697,
+    42.768617,
+    -71.426697,
+    42.768617
+],
+  "geometry": {"coordinates":[-71.426697,42.768617],"type":"Point"}
+}

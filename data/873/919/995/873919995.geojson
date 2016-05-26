@@ -1,0 +1,69 @@
+{
+  "id": 873919995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2696,43.058601,-71.2696,43.058601",
+    "geom:latitude":43.058601,
+    "geom:longitude":-71.2696,
+    "iso:country":"US",
+    "sg:address":"150 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8476",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wGSKE0mwuiHXyoCJMsEov_43.058601_-71.269600@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300211,
+    "wof:geomhash":"f25a709d7cd5e57c9199c3ab21e37822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873919995
+        }
+    ],
+    "wof:id":873919995,
+    "wof:lastmodified":1464300211,
+    "wof:name":"D & M Auto Repair",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -71.2696,
+    43.058601,
+    -71.2696,
+    43.058601
+],
+  "geometry": {"coordinates":[-71.2696,43.058601],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873829513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574258,42.807043,-71.574258,42.807043",
+    "geom:latitude":42.807043,
+    "geom:longitude":-71.574258,
+    "iso:country":"US",
+    "sg:address":"15 Caldwell Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 7223",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F4QZxqO1UJA2kmIukFkVE_42.807043_-71.574258@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298323,
+    "wof:geomhash":"a4f1c28ec15385def1dd19844f2576ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873829513
+        }
+    ],
+    "wof:id":873829513,
+    "wof:lastmodified":1464298323,
+    "wof:name":"JMD III Delivery",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.574258,
+    42.807043,
+    -71.574258,
+    42.807043
+],
+  "geometry": {"coordinates":[-71.574258,42.807043],"type":"Point"}
+}

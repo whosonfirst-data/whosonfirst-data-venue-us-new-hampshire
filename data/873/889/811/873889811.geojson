@@ -1,0 +1,69 @@
+{
+  "id": 873889811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.77196,43.012603,-70.77196,43.012603",
+    "geom:latitude":43.012603,
+    "geom:longitude":-70.77196,
+    "iso:country":"US",
+    "sg:address":"563 Washington Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 6411",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808747,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XFOkMJ65DFnyijXRcOdBM_43.012603_-70.771960@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299628,
+    "wof:geomhash":"28412c215e7a73128dfa77e2f0986fdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85808747,
+            "region_id":85688689,
+            "venue_id":873889811
+        }
+    ],
+    "wof:id":873889811,
+    "wof:lastmodified":1464299628,
+    "wof:name":"Rye Fire Department",
+    "wof:parent_id":85808747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -70.77196,
+    43.012603,
+    -70.77196,
+    43.012603
+],
+  "geometry": {"coordinates":[-70.77196000000001,43.012603],"type":"Point"}
+}

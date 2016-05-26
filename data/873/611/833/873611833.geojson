@@ -1,0 +1,69 @@
+{
+  "id": 873611833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.074053,43.02246,-71.074053,43.02246",
+    "geom:latitude":43.02246,
+    "geom:longitude":-71.074053,
+    "iso:country":"US",
+    "sg:address":"54 Calef Hwy",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5535",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j5IGfA4wHXY0iI98sj1LI_43.022460_-71.074053@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295165,
+    "wof:geomhash":"df6260207cd131798c1cec52aedca4f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873611833
+        }
+    ],
+    "wof:id":873611833,
+    "wof:lastmodified":1464295165,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.074053,
+    43.02246,
+    -71.074053,
+    43.02246
+],
+  "geometry": {"coordinates":[-71.07405300000001,43.02246],"type":"Point"}
+}

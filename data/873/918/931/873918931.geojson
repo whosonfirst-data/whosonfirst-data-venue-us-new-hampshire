@@ -1,0 +1,78 @@
+{
+  "id": 873918931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.327282,42.88809,-71.327282,42.88809",
+    "geom:latitude":42.88809,
+    "geom:longitude":-71.327282,
+    "iso:country":"US",
+    "sg:address":"46 Crystal Ave",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/derry/73551-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 0101",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sAg2GMDiw6xxTl08rT3d0_42.888497_-71.326994@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300194,
+    "wof:geomhash":"a39d2f43ee4501f448282d629e4e7d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873918931
+        }
+    ],
+    "wof:id":873918931,
+    "wof:lastmodified":1464300194,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.327282,
+    42.88809,
+    -71.327282,
+    42.88809
+],
+  "geometry": {"coordinates":[-71.327282,42.88809],"type":"Point"}
+}

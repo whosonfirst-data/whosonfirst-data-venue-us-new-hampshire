@@ -1,0 +1,71 @@
+{
+  "id": 873902191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.271981,43.576999,-72.271981,43.576999",
+    "geom:latitude":43.576999,
+    "geom:longitude":-72.271981,
+    "iso:country":"US",
+    "sg:address":"36 Jenney Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 469 3152",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bxTMncVhpx4qNKw4wt5VC_43.576999_-72.271981@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299860,
+    "wof:geomhash":"42861348fcf6a0d7381815121ad46065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873902191
+        }
+    ],
+    "wof:id":873902191,
+    "wof:lastmodified":1464299860,
+    "wof:name":"Empire Rifle Co",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -72.271981,
+    43.576999,
+    -72.271981,
+    43.576999
+],
+  "geometry": {"coordinates":[-72.271981,43.576999],"type":"Point"}
+}

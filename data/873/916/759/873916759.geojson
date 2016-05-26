@@ -1,0 +1,78 @@
+{
+  "id": 873916759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447912,42.728523,-71.447912,42.728523",
+    "geom:latitude":42.728523,
+    "geom:longitude":-71.447912,
+    "iso:country":"US",
+    "sg:address":"112 Daniel Webster Hwy",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/129588-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 1466",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14KMzreaY96ua7uL9mbAYQ_42.728523_-71.447912@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300155,
+    "wof:geomhash":"958b321eb7f8b5212b6490487ef2900a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873916759
+        }
+    ],
+    "wof:id":873916759,
+    "wof:lastmodified":1464300155,
+    "wof:name":"Subway",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.447912,
+    42.728523,
+    -71.447912,
+    42.728523
+],
+  "geometry": {"coordinates":[-71.447912,42.728523],"type":"Point"}
+}

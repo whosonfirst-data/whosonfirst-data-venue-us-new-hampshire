@@ -1,0 +1,79 @@
+{
+  "id": 873931663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.965133,42.994135,-70.965133,42.994135",
+    "geom:latitude":42.994135,
+    "geom:longitude":-70.965133,
+    "iso:country":"US",
+    "sg:address":"41 Industrial Dr Ste 21",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 773 2386",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wire",
+        "products-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G1efbEFQBAMncAfU8Qoej_42.994135_-70.965133@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300440,
+    "wof:geomhash":"7b1d74918c43668eda3f301d4ddd097b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873931663
+        }
+    ],
+    "wof:id":873931663,
+    "wof:lastmodified":1464300440,
+    "wof:name":"Velocity Manufacturing, Inc.",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wire",
+        "products-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.965133,
+    42.994135,
+    -70.965133,
+    42.994135
+],
+  "geometry": {"coordinates":[-70.96513299999999,42.994135],"type":"Point"}
+}

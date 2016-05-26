@@ -1,0 +1,69 @@
+{
+  "id": 873930829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.115196,43.981098,-71.115196,43.981098",
+    "geom:latitude":43.981098,
+    "geom:longitude":-71.115196,
+    "iso:country":"US",
+    "sg:address":"50 White Mountain Hwy",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 4444",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TOsYwVImzStrE4Mfrj6sn_43.981098_-71.115196@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300427,
+    "wof:geomhash":"3f8ad08e98039e62cb0057debbb1b496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930829
+        }
+    ],
+    "wof:id":873930829,
+    "wof:lastmodified":1464300427,
+    "wof:name":"Otis Robert E Dr",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [
+    -71.115196,
+    43.981098,
+    -71.115196,
+    43.981098
+],
+  "geometry": {"coordinates":[-71.115196,43.981098],"type":"Point"}
+}

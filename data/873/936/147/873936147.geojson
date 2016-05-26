@@ -1,0 +1,73 @@
+{
+  "id": 873936147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.81058,43.081086,-70.81058,43.081086",
+    "geom:latitude":43.081086,
+    "geom:longitude":-70.81058,
+    "iso:country":"US",
+    "sg:address":"75 Rochester Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 667 3260",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:website":"http://www.gopherdeals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529547,
+        85840365,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S7RWRc2LEaHR01he0eB2c_43.081086_-70.810580@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464300524,
+    "wof:geomhash":"e6b0a42f960b896bc512dd0ec118d6c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529547,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85840365,
+            "region_id":85688689,
+            "venue_id":873936147
+        }
+    ],
+    "wof:id":873936147,
+    "wof:lastmodified":1464300524,
+    "wof:name":"GopherDeals",
+    "wof:parent_id":102529547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.81058,
+    43.081086,
+    -70.81058,
+    43.081086
+],
+  "geometry": {"coordinates":[-70.81058,43.081086],"type":"Point"}
+}

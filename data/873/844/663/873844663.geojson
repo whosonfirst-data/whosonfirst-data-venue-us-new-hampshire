@@ -1,0 +1,75 @@
+{
+  "id": 873844663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545411,42.820046,-71.545411,42.820046",
+    "geom:latitude":42.820046,
+    "geom:longitude":-71.545411,
+    "iso:country":"US",
+    "sg:address":"12 Kyle Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 0690",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "boards",
+        "circuit",
+        "printed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bviv3ifbXx2STN0jhcBOy_42.820046_-71.545411@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298676,
+    "wof:geomhash":"083beb95ad0149636a57dfd2e98a7c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873844663
+        }
+    ],
+    "wof:id":873844663,
+    "wof:lastmodified":1464298676,
+    "wof:name":"Austria Tech & Sys Techniques",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "boards",
+        "circuit",
+        "printed"
+    ]
+},
+  "bbox": [
+    -71.545411,
+    42.820046,
+    -71.545411,
+    42.820046
+],
+  "geometry": {"coordinates":[-71.545411,42.820046],"type":"Point"}
+}

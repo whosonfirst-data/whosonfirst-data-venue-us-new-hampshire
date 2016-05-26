@@ -1,0 +1,78 @@
+{
+  "id": 873930161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.823027,43.103726,-70.823027,43.103726",
+    "geom:latitude":43.103726,
+    "geom:longitude":-70.823027,
+    "iso:country":"US",
+    "sg:address":"16 Fox Point Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 8443",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836823,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69XKHTQTTKBfMKhr0wyMrV_43.103726_-70.823027@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300413,
+    "wof:geomhash":"224db65715d52c4d0c3c8ba03b2d4934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85836823,
+            "region_id":85688689,
+            "venue_id":873930161
+        }
+    ],
+    "wof:id":873930161,
+    "wof:lastmodified":1464300413,
+    "wof:name":"Link Sales & Mktg",
+    "wof:parent_id":85836823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.823027,
+    43.103726,
+    -70.823027,
+    43.103726
+],
+  "geometry": {"coordinates":[-70.823027,43.103726],"type":"Point"}
+}

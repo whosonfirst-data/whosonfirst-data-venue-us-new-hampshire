@@ -1,0 +1,69 @@
+{
+  "id": 873927543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.324303,43.7159,-71.324303,43.7159",
+    "geom:latitude":43.7159,
+    "geom:longitude":-71.324303,
+    "iso:country":"US",
+    "sg:address":"RR 25",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 476 8801",
+    "sg:postcode":"03254",
+    "sg:province":"NH",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868801,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4789aySBqV6jby37wY5sKj_43.715900_-71.324303@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300355,
+    "wof:geomhash":"d12c6c56394cdd26e151b92683c4d589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85868801,
+            "region_id":85688689,
+            "venue_id":873927543
+        }
+    ],
+    "wof:id":873927543,
+    "wof:lastmodified":1464300355,
+    "wof:name":"Moultonboro Airport",
+    "wof:parent_id":85868801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.324303,
+    43.7159,
+    -71.324303,
+    43.7159
+],
+  "geometry": {"coordinates":[-71.324303,43.7159],"type":"Point"}
+}

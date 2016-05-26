@@ -1,0 +1,71 @@
+{
+  "id": 873536199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.100059,43.052764,-71.100059,43.052764",
+    "geom:latitude":43.052764,
+    "geom:longitude":-71.100059,
+    "iso:country":"US",
+    "sg:address":"7 Dearborn Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1808",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cYTucFvRVrZwt2Iwsi1Pt_43.052764_-71.100059@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294217,
+    "wof:geomhash":"f959c3133686aaa8ddd7fbcc269febce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873536199
+        }
+    ],
+    "wof:id":873536199,
+    "wof:lastmodified":1464294217,
+    "wof:name":"William & Dorothy House",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.100059,
+    43.052764,
+    -71.100059,
+    43.052764
+],
+  "geometry": {"coordinates":[-71.100059,43.052764],"type":"Point"}
+}

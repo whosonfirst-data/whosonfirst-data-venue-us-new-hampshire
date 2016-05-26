@@ -1,0 +1,100 @@
+{
+  "id": 873935971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46361,42.996108,-71.46361,42.996108",
+    "geom:latitude":42.996108,
+    "geom:longitude":-71.46361,
+    "iso:country":"US",
+    "sg:address":"1230 Elm Street Fifth Floor",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 4998",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dns",
+        "cloud-computing",
+        "internet",
+        "web-2-0",
+        "hosting",
+        "gslb",
+        "traffic-management",
+        "anycast",
+        "load-balancing",
+        "failover",
+        "dynamic-network",
+        "dyndns",
+        "dynect"
+    ],
+    "sg:website":"http://dyn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06nUmA3ecbjW1dqwFVgeuo_42.996108_-71.463610@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464300521,
+    "wof:geomhash":"0da505070eb2e5b470223774e9b061b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873935971
+        }
+    ],
+    "wof:id":873935971,
+    "wof:lastmodified":1464300521,
+    "wof:name":"Dyn",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dns",
+        "cloud-computing",
+        "internet",
+        "web-2-0",
+        "hosting",
+        "gslb",
+        "traffic-management",
+        "anycast",
+        "load-balancing",
+        "failover",
+        "dynamic-network",
+        "dyndns",
+        "dynect"
+    ]
+},
+  "bbox": [
+    -71.46361,
+    42.996108,
+    -71.46361,
+    42.996108
+],
+  "geometry": {"coordinates":[-71.46361,42.996108],"type":"Point"}
+}

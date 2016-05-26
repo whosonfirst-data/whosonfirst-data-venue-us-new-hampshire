@@ -1,0 +1,73 @@
+{
+  "id": 873755509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.005896,43.16312,-71.005896,43.16312",
+    "geom:latitude":43.16312,
+    "geom:longitude":-71.005896,
+    "iso:country":"US",
+    "sg:address":"14 State Rte 125",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 3024",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fence",
+        "cleaning",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yTEa9rt2qTYTBHUMtgJLD_43.163120_-71.005896@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297151,
+    "wof:geomhash":"e6abc833effb13a20d4fce0356205aac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873755509
+        }
+    ],
+    "wof:id":873755509,
+    "wof:lastmodified":1464297151,
+    "wof:name":"125 Maintenance & Fence Inc",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "cleaning",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.005896,
+    43.16312,
+    -71.005896,
+    43.16312
+],
+  "geometry": {"coordinates":[-71.00589600000001,43.16312],"type":"Point"}
+}

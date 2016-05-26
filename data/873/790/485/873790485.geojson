@@ -1,0 +1,71 @@
+{
+  "id": 873790485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.152851,43.036376,-71.152851,43.036376",
+    "geom:latitude":43.036376,
+    "geom:longitude":-71.152851,
+    "iso:country":"US",
+    "sg:address":"16 State Rte 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 9696",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dPexv3Sxq9hmwhwFBLqeU_43.036376_-71.152851@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297646,
+    "wof:geomhash":"7f807b1ef8b615480ce6a0fa4fe44709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873790485
+        }
+    ],
+    "wof:id":873790485,
+    "wof:lastmodified":1464297646,
+    "wof:name":"Euro Cleaners of Raymond",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -71.152851,
+    43.036376,
+    -71.152851,
+    43.036376
+],
+  "geometry": {"coordinates":[-71.152851,43.036376],"type":"Point"}
+}

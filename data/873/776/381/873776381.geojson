@@ -1,0 +1,73 @@
+{
+  "id": 873776381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455318,43.272455,-71.455318,43.272455",
+    "geom:latitude":43.272455,
+    "geom:longitude":-71.455318,
+    "iso:country":"US",
+    "sg:address":"109 Chichester Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 4154",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HeQFkejHrDuIUWGM8yIXl_43.272455_-71.455318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297442,
+    "wof:geomhash":"fdb9d4246b4173fdd99c875e6576b00f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873776381
+        }
+    ],
+    "wof:id":873776381,
+    "wof:lastmodified":1464297442,
+    "wof:name":"Jolly Good Pet Care",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.455318,
+    43.272455,
+    -71.455318,
+    43.272455
+],
+  "geometry": {"coordinates":[-71.45531800000001,43.272455],"type":"Point"}
+}

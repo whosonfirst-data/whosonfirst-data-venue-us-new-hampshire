@@ -1,0 +1,71 @@
+{
+  "id": 873599117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.188727,42.777449,-71.188727,42.777449",
+    "geom:latitude":42.777449,
+    "geom:longitude":-71.188727,
+    "iso:country":"US",
+    "sg:address":"20 Wheeler Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0864",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u37YTsXbG2yFJ4jIc4lWq_42.777449_-71.188727@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294974,
+    "wof:geomhash":"8258e303e0084feaa7ddb520b7258231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873599117
+        }
+    ],
+    "wof:id":873599117,
+    "wof:lastmodified":1464294974,
+    "wof:name":"TPM Construction",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -71.188727,
+    42.777449,
+    -71.188727,
+    42.777449
+],
+  "geometry": {"coordinates":[-71.188727,42.777449],"type":"Point"}
+}

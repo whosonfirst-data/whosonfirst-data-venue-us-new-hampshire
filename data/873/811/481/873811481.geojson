@@ -1,0 +1,71 @@
+{
+  "id": 873811481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.706027,43.220752,-71.706027,43.220752",
+    "geom:latitude":43.220752,
+    "geom:longitude":-71.706027,
+    "iso:country":"US",
+    "sg:address":"702 Smithfield Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 4761",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tHNBuIcVBYZ0QdfdKqipf_43.220752_-71.706027@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297952,
+    "wof:geomhash":"5007436144280cabb5105d32b232df34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873811481
+        }
+    ],
+    "wof:id":873811481,
+    "wof:lastmodified":1464297952,
+    "wof:name":"Collins Tree Svc",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -71.706027,
+    43.220752,
+    -71.706027,
+    43.220752
+],
+  "geometry": {"coordinates":[-71.70602700000001,43.220752],"type":"Point"}
+}

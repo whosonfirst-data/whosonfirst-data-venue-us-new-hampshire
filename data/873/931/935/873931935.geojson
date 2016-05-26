@@ -1,0 +1,95 @@
+{
+  "id": 873931935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.81865,43.043948,-70.81865,43.043948",
+    "geom:latitude":43.043948,
+    "geom:longitude":-70.81865,
+    "iso:country":"US",
+    "sg:address":"108 Ocean Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 3636",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck",
+        "stop",
+        "road",
+        "service-automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ICyLNSlhPjIbN8Gmk2my5_43.043948_-70.818650@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300445,
+    "wof:geomhash":"abf10fa8a8c67083569a97aaef177e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873931935
+        }
+    ],
+    "wof:id":873931935,
+    "wof:lastmodified":1464300445,
+    "wof:name":"Travel Centers Of America",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "stop",
+        "road",
+        "service-automotive"
+    ]
+},
+  "bbox": [
+    -70.81865,
+    43.043948,
+    -70.81865,
+    43.043948
+],
+  "geometry": {"coordinates":[-70.81865000000001,43.043948],"type":"Point"}
+}

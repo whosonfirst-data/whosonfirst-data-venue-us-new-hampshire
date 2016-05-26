@@ -1,0 +1,71 @@
+{
+  "id": 873768827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.829673,43.181433,-71.829673,43.181433",
+    "geom:latitude":43.181433,
+    "geom:longitude":-71.829673,
+    "iso:country":"US",
+    "sg:address":"19 Fairview Ave",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7652",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "disability"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Od5rhfBAKMOlQdfVqTbR4_43.181433_-71.829673@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297347,
+    "wof:geomhash":"304aa34b3576448c4d147760ad163a82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873768827
+        }
+    ],
+    "wof:id":873768827,
+    "wof:lastmodified":1464297347,
+    "wof:name":"Community Bridges",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability"
+    ]
+},
+  "bbox": [
+    -71.829673,
+    43.181433,
+    -71.829673,
+    43.181433
+],
+  "geometry": {"coordinates":[-71.829673,43.181433],"type":"Point"}
+}

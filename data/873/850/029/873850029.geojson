@@ -1,0 +1,71 @@
+{
+  "id": 873850029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.943412,43.082276,-70.943412,43.082276",
+    "geom:latitude":43.082276,
+    "geom:longitude":-70.943412,
+    "iso:country":"US",
+    "sg:address":"63 Elm St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3061",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12RReEBWxJEV07hkDeQ5MI_43.082276_-70.943412@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298812,
+    "wof:geomhash":"35dd0b82cc2d1b61640680bceefb221c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873850029
+        }
+    ],
+    "wof:id":873850029,
+    "wof:lastmodified":1464298812,
+    "wof:name":"Jay's Automotive Svc",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.943412,
+    43.082276,
+    -70.943412,
+    43.082276
+],
+  "geometry": {"coordinates":[-70.943412,43.082276],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873747899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195654,42.843184,-71.195654,42.843184",
+    "geom:latitude":42.843184,
+    "geom:longitude":-71.195654,
+    "iso:country":"US",
+    "sg:address":"6 Industrial Way",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 8990",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "disposal",
+        "recycling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ub8Z1bwXwWhYBmG1Vm6ai_42.843184_-71.195654@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297048,
+    "wof:geomhash":"706dd7bdf0666ccd750e4068859b830e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873747899
+        }
+    ],
+    "wof:id":873747899,
+    "wof:lastmodified":1464297048,
+    "wof:name":"North East Recycling Corp",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "recycling"
+    ]
+},
+  "bbox": [
+    -71.195654,
+    42.843184,
+    -71.195654,
+    42.843184
+],
+  "geometry": {"coordinates":[-71.195654,42.843184],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873779019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.945899,42.981296,-70.945899,42.981296",
+    "geom:latitude":42.981296,
+    "geom:longitude":-70.945899,
+    "iso:country":"US",
+    "sg:address":"64 Water St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4600",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25hrXXVgAeGSVtLNjnSfTk_42.981296_-70.945899@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297476,
+    "wof:geomhash":"b4d0ba1935db972c2eafd7da25e015f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873779019
+        }
+    ],
+    "wof:id":873779019,
+    "wof:lastmodified":1464297476,
+    "wof:name":"Me & Ollie's Bakery & Cafe",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -70.945899,
+    42.981296,
+    -70.945899,
+    42.981296
+],
+  "geometry": {"coordinates":[-70.945899,42.981296],"type":"Point"}
+}

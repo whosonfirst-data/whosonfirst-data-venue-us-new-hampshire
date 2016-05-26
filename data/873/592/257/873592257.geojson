@@ -1,0 +1,71 @@
+{
+  "id": 873592257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.563786,43.329465,-71.563786,43.329465",
+    "geom:latitude":43.329465,
+    "geom:longitude":-71.563786,
+    "iso:country":"US",
+    "sg:address":"70 Kimball Pond Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4404",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40U6UaSwHi6QzWJ0B4l4SL_43.329465_-71.563786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294862,
+    "wof:geomhash":"dce79b020e357ac9c5d155d446df870a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873592257
+        }
+    ],
+    "wof:id":873592257,
+    "wof:lastmodified":1464294862,
+    "wof:name":"Steven Surveying",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.563786,
+    43.329465,
+    -71.563786,
+    43.329465
+],
+  "geometry": {"coordinates":[-71.56378599999999,43.329465],"type":"Point"}
+}

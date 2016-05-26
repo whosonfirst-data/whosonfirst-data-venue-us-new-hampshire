@@ -1,0 +1,71 @@
+{
+  "id": 873669049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.925233,43.066538,-70.925233,43.066538",
+    "geom:latitude":43.066538,
+    "geom:longitude":-70.925233,
+    "iso:country":"US",
+    "sg:address":"83 New Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 8615",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RcNKes6wdtp8WSc06HFaa_43.066538_-70.925233@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295791,
+    "wof:geomhash":"9677559c89c604410516ffa44f7f2731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873669049
+        }
+    ],
+    "wof:id":873669049,
+    "wof:lastmodified":1464295791,
+    "wof:name":"New Hampshire Stone Walls",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.925233,
+    43.066538,
+    -70.925233,
+    43.066538
+],
+  "geometry": {"coordinates":[-70.92523300000001,43.066538],"type":"Point"}
+}

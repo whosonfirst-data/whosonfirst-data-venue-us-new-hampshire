@@ -1,0 +1,73 @@
+{
+  "id": 873904327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.597543,43.282134,-71.597543,43.282134",
+    "geom:latitude":43.282134,
+    "geom:longitude":-71.597543,
+    "iso:country":"US",
+    "sg:address":"42 Merrimack St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 1010",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kVB18cSv7zyJylggxCinL_43.282134_-71.597543@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299905,
+    "wof:geomhash":"9ef6424cfa1e63e94fb9c5d2a4ca0c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873904327
+        }
+    ],
+    "wof:id":873904327,
+    "wof:lastmodified":1464299905,
+    "wof:name":"A To Z Gas Svc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.597543,
+    43.282134,
+    -71.597543,
+    43.282134
+],
+  "geometry": {"coordinates":[-71.597543,43.282134],"type":"Point"}
+}

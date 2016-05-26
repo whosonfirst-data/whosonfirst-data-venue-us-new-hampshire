@@ -1,0 +1,71 @@
+{
+  "id": 873604801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.255483,42.809128,-71.255483,42.809128",
+    "geom:latitude":42.809128,
+    "geom:longitude":-71.255483,
+    "iso:country":"US",
+    "sg:address":"41 Range Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 7155",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nursery",
+        "stock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sfDsvU9rvlFsdSa5a8YFz_42.809128_-71.255483@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"62a9609247207713babfdcff3e4deeb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873604801
+        }
+    ],
+    "wof:id":873604801,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Delahunty Nurseries",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "stock"
+    ]
+},
+  "bbox": [
+    -71.255483,
+    42.809128,
+    -71.255483,
+    42.809128
+],
+  "geometry": {"coordinates":[-71.255483,42.809128],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873645659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.025276,43.492968,-71.025276,43.492968",
+    "geom:latitude":43.492968,
+    "geom:longitude":-71.025276,
+    "iso:country":"US",
+    "sg:address":"220 Main St",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 473 2345",
+    "sg:postcode":"03887",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_124czbFfMRLXAqdoAacyoQ_43.492968_-71.025276@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295543,
+    "wof:geomhash":"d6666045982597e3ddaae34ded3edc14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873645659
+        }
+    ],
+    "wof:id":873645659,
+    "wof:lastmodified":1464295543,
+    "wof:name":"Union Used Auto Parts",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -71.025276,
+    43.492968,
+    -71.025276,
+    43.492968
+],
+  "geometry": {"coordinates":[-71.02527600000001,43.492968],"type":"Point"}
+}

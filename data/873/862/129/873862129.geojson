@@ -1,0 +1,79 @@
+{
+  "id": 873862129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432151,42.770479,-71.432151,42.770479",
+    "geom:latitude":42.770479,
+    "geom:longitude":-71.432151,
+    "iso:country":"US",
+    "sg:address":"66 Highland St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 249 9779",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02bl1ov5DGCe6ArOI2hVFC_42.770479_-71.432151@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299079,
+    "wof:geomhash":"7d2e75e6b43d05f07f880a8cf7026418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873862129
+        }
+    ],
+    "wof:id":873862129,
+    "wof:lastmodified":1464299079,
+    "wof:name":"Trust In Us Pet Sitters",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.432151,
+    42.770479,
+    -71.432151,
+    42.770479
+],
+  "geometry": {"coordinates":[-71.432151,42.770479],"type":"Point"}
+}

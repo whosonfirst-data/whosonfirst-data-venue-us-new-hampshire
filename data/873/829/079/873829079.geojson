@@ -1,0 +1,71 @@
+{
+  "id": 873829079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451335,42.941294,-71.451335,42.941294",
+    "geom:latitude":42.941294,
+    "geom:longitude":-71.451335,
+    "iso:country":"US",
+    "sg:address":"2140 Goffs Falls Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 666 0929",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MJIly5yoif3CvdWuxsPkF_42.941294_-71.451335@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298315,
+    "wof:geomhash":"341adad95f5bbf464793322023cd8fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873829079
+        }
+    ],
+    "wof:id":873829079,
+    "wof:lastmodified":1464298315,
+    "wof:name":"Accurate Dimensions",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.451335,
+    42.941294,
+    -71.451335,
+    42.941294
+],
+  "geometry": {"coordinates":[-71.451335,42.941294],"type":"Point"}
+}

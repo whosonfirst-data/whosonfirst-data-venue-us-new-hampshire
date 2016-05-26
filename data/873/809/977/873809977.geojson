@@ -1,0 +1,71 @@
+{
+  "id": 873809977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.144423,43.398148,-71.144423,43.398148",
+    "geom:latitude":43.398148,
+    "geom:longitude":-71.144423,
+    "iso:country":"US",
+    "sg:address":"129 Ridge Road Top",
+    "sg:city":"New Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 859 4004",
+    "sg:postcode":"03855",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813637,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wIRKGKT1pnSbAYBK84sG0_43.398148_-71.144423@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297926,
+    "wof:geomhash":"b5059fce9b834f982e7b7e8e012a3480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85813637,
+            "region_id":85688689,
+            "venue_id":873809977
+        }
+    ],
+    "wof:id":873809977,
+    "wof:lastmodified":1464297926,
+    "wof:name":"Doyon Electric",
+    "wof:parent_id":85813637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.144423,
+    43.398148,
+    -71.144423,
+    43.398148
+],
+  "geometry": {"coordinates":[-71.144423,43.398148],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873563527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481759,42.966244,-71.481759,42.966244",
+    "geom:latitude":42.966244,
+    "geom:longitude":-71.481759,
+    "iso:country":"US",
+    "sg:address":"775 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 663 7300",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GDD7uMKhhgPzUkrLf2adX_42.966244_-71.481759@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294537,
+    "wof:geomhash":"0838fc41b581084a2e1a4444bd0c675f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873563527
+        }
+    ],
+    "wof:id":873563527,
+    "wof:lastmodified":1464294537,
+    "wof:name":"Medical Group Of Manchester",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.481759,
+    42.966244,
+    -71.481759,
+    42.966244
+],
+  "geometry": {"coordinates":[-71.481759,42.966244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873899223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.577866,43.619583,-71.577866,43.619583",
+    "geom:latitude":43.619583,
+    "geom:longitude":-71.577866,
+    "iso:country":"US",
+    "sg:address":"461 State Rte 104",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8158",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BZI9Toti9wCvsXV8DD6AH_43.619583_-71.577866@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299803,
+    "wof:geomhash":"00e7046064b31d7636c8f5fbfcc97852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873899223
+        }
+    ],
+    "wof:id":873899223,
+    "wof:lastmodified":1464299803,
+    "wof:name":"Meredith Animal Hospital",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.577866,
+    43.619583,
+    -71.577866,
+    43.619583
+],
+  "geometry": {"coordinates":[-71.577866,43.619583],"type":"Point"}
+}

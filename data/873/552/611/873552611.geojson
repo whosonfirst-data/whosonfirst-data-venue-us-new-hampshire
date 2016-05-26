@@ -1,0 +1,82 @@
+{
+  "id": 873552611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.801703,44.307423,-71.801703,44.307423",
+    "geom:latitude":44.307423,
+    "geom:longitude":-71.801703,
+    "iso:country":"US",
+    "sg:address":"560 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2087",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "house",
+        "flower",
+        "green",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1octqXeL04x9A123bZVOMU_44.307423_-71.801703@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294407,
+    "wof:geomhash":"4013037029107eb0a7adbe2b261fc76c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873552611
+        }
+    ],
+    "wof:id":873552611,
+    "wof:lastmodified":1464294407,
+    "wof:name":"Country Bear Florist & Grnhse",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "house",
+        "flower",
+        "green",
+        "operates"
+    ]
+},
+  "bbox": [
+    -71.801703,
+    44.307423,
+    -71.801703,
+    44.307423
+],
+  "geometry": {"coordinates":[-71.801703,44.307423],"type":"Point"}
+}

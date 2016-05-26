@@ -1,0 +1,74 @@
+{
+  "id": 873925741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.226768,42.778141,-71.226768,42.778141",
+    "geom:latitude":42.778141,
+    "geom:longitude":-71.226768,
+    "iso:country":"US",
+    "sg:address":"29 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 9185",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "government-state",
+        "government-county",
+        "parish"
+    ],
+    "sg:website":"http://www.nhes.state.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PaZaaaOG15BYu7WSQc9Dj_42.778141_-71.226768@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300321,
+    "wof:geomhash":"b88daf24e73b050dc26a06032a0d0841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925741
+        }
+    ],
+    "wof:id":873925741,
+    "wof:lastmodified":1464300321,
+    "wof:name":"New Hampshire Department Of Employment Security",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "government-county",
+        "parish"
+    ]
+},
+  "bbox": [
+    -71.226768,
+    42.778141,
+    -71.226768,
+    42.778141
+],
+  "geometry": {"coordinates":[-71.22676800000001,42.778141],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873777835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418848,42.717152,-71.418848,42.717152",
+    "geom:latitude":42.717152,
+    "geom:longitude":-71.418848,
+    "iso:country":"US",
+    "sg:address":"2 Stuart St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2170",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F34pXMRtOu14tV1V51Lms_42.717152_-71.418848@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297462,
+    "wof:geomhash":"a14278e880979f0ceded73438bed364d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873777835
+        }
+    ],
+    "wof:id":873777835,
+    "wof:lastmodified":1464297462,
+    "wof:name":"Tyme Machine Auto Complex LLC",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.418848,
+    42.717152,
+    -71.418848,
+    42.717152
+],
+  "geometry": {"coordinates":[-71.418848,42.717152],"type":"Point"}
+}

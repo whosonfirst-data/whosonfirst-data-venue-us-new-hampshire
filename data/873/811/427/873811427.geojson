@@ -1,0 +1,79 @@
+{
+  "id": 873811427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224274,42.866029,-71.224274,42.866029",
+    "geom:latitude":42.866029,
+    "geom:longitude":-71.224274,
+    "iso:country":"US",
+    "sg:address":"353 Island Pond Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 7140",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526371,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11jdNao4gLk88iBR1J3aof_42.866029_-71.224274@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297951,
+    "wof:geomhash":"188bea086ce67cec6f0f745c7aab56a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":420526371,
+            "region_id":85688689,
+            "venue_id":873811427
+        }
+    ],
+    "wof:id":873811427,
+    "wof:lastmodified":1464297951,
+    "wof:name":"Pete's Garage",
+    "wof:parent_id":420526371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.224274,
+    42.866029,
+    -71.224274,
+    42.866029
+],
+  "geometry": {"coordinates":[-71.22427399999999,42.866029],"type":"Point"}
+}

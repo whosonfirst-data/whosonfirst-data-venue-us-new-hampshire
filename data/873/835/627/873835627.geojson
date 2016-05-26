@@ -1,0 +1,73 @@
+{
+  "id": 873835627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452104,43.561198,-71.452104,43.561198",
+    "geom:latitude":43.561198,
+    "geom:longitude":-71.452104,
+    "iso:country":"US",
+    "sg:address":"1269 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5470",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OHGPo4Grm3zK7IG1l2pLQ_43.561198_-71.452104@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298457,
+    "wof:geomhash":"037b69e58a20a67ea499337abfc6f45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873835627
+        }
+    ],
+    "wof:id":873835627,
+    "wof:lastmodified":1464298457,
+    "wof:name":"St Vincent De Paul",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -71.452104,
+    43.561198,
+    -71.452104,
+    43.561198
+],
+  "geometry": {"coordinates":[-71.45210400000001,43.561198],"type":"Point"}
+}

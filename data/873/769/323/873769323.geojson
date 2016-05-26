@@ -1,0 +1,73 @@
+{
+  "id": 873769323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274055,43.226083,-71.274055,43.226083",
+    "geom:latitude":43.226083,
+    "geom:longitude":-71.274055,
+    "iso:country":"US",
+    "sg:address":"200 Old Turnpike Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5780",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T0SQTfnDhLcBVZEP4P09q_43.226083_-71.274055@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297354,
+    "wof:geomhash":"69679b4afad5f74856ee79620d2109d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873769323
+        }
+    ],
+    "wof:id":873769323,
+    "wof:lastmodified":1464297354,
+    "wof:name":"Allwood Floors",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.274055,
+    43.226083,
+    -71.274055,
+    43.226083
+],
+  "geometry": {"coordinates":[-71.274055,43.226083],"type":"Point"}
+}

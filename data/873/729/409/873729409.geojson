@@ -1,0 +1,66 @@
+{
+  "id": 873729409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461901,43.547291,-71.461901,43.547291",
+    "geom:latitude":43.547291,
+    "geom:longitude":-71.461901,
+    "iso:country":"US",
+    "sg:address":"34 Clinton St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5508",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43jvfwgkuAcJmzZa9DhD8C_43.547291_-71.461901@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296772,
+    "wof:geomhash":"d25c3e836bd19f6f7bbf63f6ab404502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873729409
+        }
+    ],
+    "wof:id":873729409,
+    "wof:lastmodified":1464296772,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.461901,
+    43.547291,
+    -71.461901,
+    43.547291
+],
+  "geometry": {"coordinates":[-71.461901,43.547291],"type":"Point"}
+}

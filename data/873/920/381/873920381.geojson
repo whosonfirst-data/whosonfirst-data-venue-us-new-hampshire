@@ -1,0 +1,75 @@
+{
+  "id": 873920381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.320449,42.877476,-71.320449,42.877476",
+    "geom:latitude":42.877476,
+    "geom:longitude":-71.320449,
+    "iso:country":"US",
+    "sg:address":"41 Birch St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 5251",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "program",
+        "services-information",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HWEkUvx8MfIXiF6RRvX2a_42.877476_-71.320449@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300218,
+    "wof:geomhash":"20b23028c64e2c95c4ccab6fad359841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873920381
+        }
+    ],
+    "wof:id":873920381,
+    "wof:lastmodified":1464300218,
+    "wof:name":"C.A.T.S.",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "services-information",
+        "referral"
+    ]
+},
+  "bbox": [
+    -71.320449,
+    42.877476,
+    -71.320449,
+    42.877476
+],
+  "geometry": {"coordinates":[-71.320449,42.877476],"type":"Point"}
+}

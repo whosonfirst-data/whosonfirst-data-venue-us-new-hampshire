@@ -1,0 +1,73 @@
+{
+  "id": 873646753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684499,43.598219,-71.684499,43.598219",
+    "geom:latitude":43.598219,
+    "geom:longitude":-71.684499,
+    "iso:country":"US",
+    "sg:address":"1625 Summer St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 9899",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sy6TxVc339DVUVA1BjwrJ_43.598219_-71.684499@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295554,
+    "wof:geomhash":"b315c3d4ccb01e0afd7a15d4addb1417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873646753
+        }
+    ],
+    "wof:id":873646753,
+    "wof:lastmodified":1464295554,
+    "wof:name":"Newfound Self Storage Inc",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -71.684499,
+    43.598219,
+    -71.684499,
+    43.598219
+],
+  "geometry": {"coordinates":[-71.684499,43.598219],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873780331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.82397,43.179756,-71.82397,43.179756",
+    "geom:latitude":43.179756,
+    "geom:longitude":-71.82397,
+    "iso:country":"US",
+    "sg:address":"15 Western Ave",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3476",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:website":"www.henniker.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ObSk5nRe6XGPiDMxpQU6I_43.179756_-71.823970@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"a5611e4e0a8fc5d949ce6c56957425e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873780331
+        }
+    ],
+    "wof:id":873780331,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Henniker Community School",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82397,
+    43.179756,
+    -71.82397,
+    43.179756
+],
+  "geometry": {"coordinates":[-71.82397,43.179756],"type":"Point"}
+}

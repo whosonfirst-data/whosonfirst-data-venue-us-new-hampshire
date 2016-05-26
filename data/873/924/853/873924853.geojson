@@ -1,0 +1,92 @@
+{
+  "id": 873924853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.350321,42.711455,-71.350321,42.711455",
+    "geom:latitude":42.711455,
+    "geom:longitude":-71.350321,
+    "iso:country":"US",
+    "sg:address":"214 Mammoth Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 9755",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "stairway",
+        "rails",
+        "accessory",
+        "railing",
+        "metal-wholesale",
+        "welder",
+        "manufacturer"
+    ],
+    "sg:website":"http://patriotwelding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76Ac24Zoz4EGDsyoc28o1z_42.711455_-71.350321@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300302,
+    "wof:geomhash":"02e4bef627456df851e1ca3bf59ec227",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873924853
+        }
+    ],
+    "wof:id":873924853,
+    "wof:lastmodified":1464300302,
+    "wof:name":"Patriot Welding",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stairway",
+        "rails",
+        "accessory",
+        "railing",
+        "metal-wholesale",
+        "welder",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.350321,
+    42.711455,
+    -71.350321,
+    42.711455
+],
+  "geometry": {"coordinates":[-71.35032099999999,42.711455],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873664603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.359805,44.619649,-71.359805,44.619649",
+    "geom:latitude":44.619649,
+    "geom:longitude":-71.359805,
+    "iso:country":"US",
+    "sg:address":"407 Stark Hwy",
+    "sg:city":"Stark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 2148",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tWEwlWuzo4cXa0614kVZa_44.619649_-71.359805@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295746,
+    "wof:geomhash":"79974f733583fa6c1b626e5a6fce8fb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873664603
+        }
+    ],
+    "wof:id":873664603,
+    "wof:lastmodified":1464295746,
+    "wof:name":"Swallow & Sons Concrete",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.359805,
+    44.619649,
+    -71.359805,
+    44.619649
+],
+  "geometry": {"coordinates":[-71.35980499999999,44.619649],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873916333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431488,42.759219,-71.431488,42.759219",
+    "geom:latitude":42.759219,
+    "geom:longitude":-71.431488,
+    "iso:country":"US",
+    "sg:address":"30 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/26340-dynamite-sushi--asian-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 0055",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sushi",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28vjtDcOwA41i2Q5r0CUyS_42.759219_-71.431488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300147,
+    "wof:geomhash":"c370a9a0f650485d13871f8c9eeb499c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873916333
+        }
+    ],
+    "wof:id":873916333,
+    "wof:lastmodified":1464300147,
+    "wof:name":"Dynamite Sushi & Asian Cuisine",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "asian"
+    ]
+},
+  "bbox": [
+    -71.431488,
+    42.759219,
+    -71.431488,
+    42.759219
+],
+  "geometry": {"coordinates":[-71.431488,42.759219],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873762293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.240295,42.781525,-71.240295,42.781525",
+    "geom:latitude":42.781525,
+    "geom:longitude":-71.240295,
+    "iso:country":"US",
+    "sg:address":"11 Northeastern Blvd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 4000",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E5QPb5GC7vO5r63wvrzSW_42.781525_-71.240295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297244,
+    "wof:geomhash":"564e7aec68e1b0657e2ce48b660bb10e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873762293
+        }
+    ],
+    "wof:id":873762293,
+    "wof:lastmodified":1464297244,
+    "wof:name":"ADP",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.240295,
+    42.781525,
+    -71.240295,
+    42.781525
+],
+  "geometry": {"coordinates":[-71.240295,42.781525],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873912333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564878,44.485573,-71.564878,44.485573",
+    "geom:latitude":44.485573,
+    "geom:longitude":-71.564878,
+    "iso:country":"US",
+    "sg:address":"26 Pleasant St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 4888",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ySPW8DbXzLg8XRrXlE0yk_44.485573_-71.564878@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300056,
+    "wof:geomhash":"e4a1d4ac70a3b9632d98c161fa785bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873912333
+        }
+    ],
+    "wof:id":873912333,
+    "wof:lastmodified":1464300056,
+    "wof:name":"Meg Mourey's Antiques",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -71.564878,
+    44.485573,
+    -71.564878,
+    44.485573
+],
+  "geometry": {"coordinates":[-71.56487799999999,44.485573],"type":"Point"}
+}

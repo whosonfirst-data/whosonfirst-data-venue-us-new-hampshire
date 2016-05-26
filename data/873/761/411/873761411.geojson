@@ -1,0 +1,69 @@
+{
+  "id": 873761411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.593522,44.363489,-71.593522,44.363489",
+    "geom:latitude":44.363489,
+    "geom:longitude":-71.593522,
+    "iso:country":"US",
+    "sg:address":"17 Mason Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 3187",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824449,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CNDkq1KpkL8V1od4I7je5_44.363489_-71.593522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297227,
+    "wof:geomhash":"ed2c8f1be441ec3c0515da6168aa4349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85824449,
+            "region_id":85688689,
+            "venue_id":873761411
+        }
+    ],
+    "wof:id":873761411,
+    "wof:lastmodified":1464297227,
+    "wof:name":"Wagon Shed",
+    "wof:parent_id":85824449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -71.593522,
+    44.363489,
+    -71.593522,
+    44.363489
+],
+  "geometry": {"coordinates":[-71.59352199999999,44.363489],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873905061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470445,43.522397,-71.470445,43.522397",
+    "geom:latitude":43.522397,
+    "geom:longitude":-71.470445,
+    "iso:country":"US",
+    "sg:address":"61 Academy St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3423",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oM9fMpUvQNcAwzAllSoPA_43.522397_-71.470445@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299924,
+    "wof:geomhash":"f9a799d6a8086cf2d7221525ee079a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873905061
+        }
+    ],
+    "wof:id":873905061,
+    "wof:lastmodified":1464299924,
+    "wof:name":"Union Cemetary Association",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [
+    -71.470445,
+    43.522397,
+    -71.470445,
+    43.522397
+],
+  "geometry": {"coordinates":[-71.470445,43.522397],"type":"Point"}
+}

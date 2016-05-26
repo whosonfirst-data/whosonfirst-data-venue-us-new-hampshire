@@ -1,0 +1,73 @@
+{
+  "id": 873847427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46089,43.530822,-71.46089,43.530822",
+    "geom:latitude":43.530822,
+    "geom:longitude":-71.46089,
+    "iso:country":"US",
+    "sg:address":"27 Girard St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5162",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p4t0UfVLJs2L1Ebtjvy0W_43.530822_-71.460890@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298749,
+    "wof:geomhash":"ce19e85e706d4be331e146c786350445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873847427
+        }
+    ],
+    "wof:id":873847427,
+    "wof:lastmodified":1464298749,
+    "wof:name":"Bolci Corp",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.46089,
+    43.530822,
+    -71.46089,
+    43.530822
+],
+  "geometry": {"coordinates":[-71.46089000000001,43.530822],"type":"Point"}
+}

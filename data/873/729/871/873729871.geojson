@@ -1,0 +1,71 @@
+{
+  "id": 873729871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476464,42.980104,-71.476464,42.980104",
+    "geom:latitude":42.980104,
+    "geom:longitude":-71.476464,
+    "iso:country":"US",
+    "sg:address":"232 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 9747",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E0Ci525acvBzEynS6o97k_42.980104_-71.476464@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296777,
+    "wof:geomhash":"ca10564aab496b83cf2781cbf946d073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873729871
+        }
+    ],
+    "wof:id":873729871,
+    "wof:lastmodified":1464296777,
+    "wof:name":"Martel Racing Automotive",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.476464,
+    42.980104,
+    -71.476464,
+    42.980104
+],
+  "geometry": {"coordinates":[-71.47646400000001,42.980104],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873917471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426049,42.987622,-71.426049,42.987622",
+    "geom:latitude":42.987622,
+    "geom:longitude":-71.426049,
+    "iso:country":"US",
+    "sg:address":"907 Hanover St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/194746-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 2557",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZFLR3DbJhvZiLLv03RD8_42.987622_-71.426049@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300166,
+    "wof:geomhash":"ae79e6994ee3e4a227d6a6c8d2a61176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873917471
+        }
+    ],
+    "wof:id":873917471,
+    "wof:lastmodified":1464300166,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.426049,
+    42.987622,
+    -71.426049,
+    42.987622
+],
+  "geometry": {"coordinates":[-71.42604900000001,42.987622],"type":"Point"}
+}

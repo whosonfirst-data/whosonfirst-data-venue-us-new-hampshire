@@ -1,0 +1,70 @@
+{
+  "id": 873894395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462268,43.682105,-71.462268,43.682105",
+    "geom:latitude":43.682105,
+    "geom:longitude":-71.462268,
+    "iso:country":"US",
+    "sg:address":"300 State Rte 25",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4403",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stcharlesnh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831511,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wsqFhmnofdEWrPtWxH3pJ_43.682105_-71.462268@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299711,
+    "wof:geomhash":"f9dc40068794241d945dc22ddf1051a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85831511,
+            "region_id":85688689,
+            "venue_id":873894395
+        }
+    ],
+    "wof:id":873894395,
+    "wof:lastmodified":1464299711,
+    "wof:name":"St Charles Church",
+    "wof:parent_id":85831511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.462268,
+    43.682105,
+    -71.462268,
+    43.682105
+],
+  "geometry": {"coordinates":[-71.46226799999999,43.682105],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873797001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.111634,43.198615,-71.111634,43.198615",
+    "geom:latitude":43.198615,
+    "geom:longitude":-71.111634,
+    "iso:country":"US",
+    "sg:address":"6 Colcord Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2738",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M1AgU77WAvUu8ctA7je3M_43.198615_-71.111634@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297738,
+    "wof:geomhash":"e19c2cfc8bcd5ebccc726d6511e053fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873797001
+        }
+    ],
+    "wof:id":873797001,
+    "wof:lastmodified":1464297738,
+    "wof:name":"Kinsley Plumbing & Heating",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.111634,
+    43.198615,
+    -71.111634,
+    43.198615
+],
+  "geometry": {"coordinates":[-71.111634,43.198615],"type":"Point"}
+}

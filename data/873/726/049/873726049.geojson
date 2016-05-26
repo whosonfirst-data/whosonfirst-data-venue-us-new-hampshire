@@ -1,0 +1,75 @@
+{
+  "id": 873726049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.244658,43.652542,-72.244658,43.652542",
+    "geom:latitude":43.652542,
+    "geom:longitude":-72.244658,
+    "iso:country":"US",
+    "sg:address":"206 Heater Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 1940",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xowEp35D6wDqqd2vSMhVc_43.652542_-72.244658@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296725,
+    "wof:geomhash":"a6b822017652c0dd2820d77706584051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873726049
+        }
+    ],
+    "wof:id":873726049,
+    "wof:lastmodified":1464296725,
+    "wof:name":"Family Dentristy",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.244658,
+    43.652542,
+    -72.244658,
+    43.652542
+],
+  "geometry": {"coordinates":[-72.244658,43.652542],"type":"Point"}
+}

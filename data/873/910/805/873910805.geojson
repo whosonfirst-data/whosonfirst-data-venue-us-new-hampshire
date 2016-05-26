@@ -1,0 +1,73 @@
+{
+  "id": 873910805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.608062,43.328893,-71.608062,43.328893",
+    "geom:latitude":43.328893,
+    "geom:longitude":-71.608062,
+    "iso:country":"US",
+    "sg:address":"163 West Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4470",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44QhWAK3Wspb4pkcejA8Pj_43.328893_-71.608062@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300028,
+    "wof:geomhash":"ef246f8063f04ce1501f4098c3e6f9b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873910805
+        }
+    ],
+    "wof:id":873910805,
+    "wof:lastmodified":1464300028,
+    "wof:name":"Doug Nelson Trucking",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.608062,
+    43.328893,
+    -71.608062,
+    43.328893
+],
+  "geometry": {"coordinates":[-71.608062,43.328893],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873718345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.827013,43.184958,-71.827013,43.184958",
+    "geom:latitude":43.184958,
+    "geom:longitude":-71.827013,
+    "iso:country":"US",
+    "sg:address":"28 Hall Ave",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3419",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2maviJigAACpYKDDQeOY4O_43.184958_-71.827013@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296624,
+    "wof:geomhash":"856d1abfff23e8c63998b098b86d23bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873718345
+        }
+    ],
+    "wof:id":873718345,
+    "wof:lastmodified":1464296624,
+    "wof:name":"John S Echternach DDS",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.827013,
+    43.184958,
+    -71.827013,
+    43.184958
+],
+  "geometry": {"coordinates":[-71.82701299999999,43.184958],"type":"Point"}
+}

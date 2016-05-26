@@ -1,0 +1,82 @@
+{
+  "id": 873790367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.830285,43.038337,-70.830285,43.038337",
+    "geom:latitude":43.038337,
+    "geom:longitude":-70.830285,
+    "iso:country":"US",
+    "sg:address":"437 Portsmouth Ave",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 4769",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "general"
+    ],
+    "sg:website":"www.handhoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823029,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gm1ldDQMmRRM9nTcZTEEA_43.038337_-70.830285@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297645,
+    "wof:geomhash":"9e823fc349029b8b0f9bfaecae7016c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823029,
+            "region_id":85688689,
+            "venue_id":873790367
+        }
+    ],
+    "wof:id":873790367,
+    "wof:lastmodified":1464297645,
+    "wof:name":"Greenland Mobile",
+    "wof:parent_id":85823029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.830285,
+    43.038337,
+    -70.830285,
+    43.038337
+],
+  "geometry": {"coordinates":[-70.830285,43.038337],"type":"Point"}
+}

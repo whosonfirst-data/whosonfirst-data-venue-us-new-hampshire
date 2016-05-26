@@ -1,0 +1,69 @@
+{
+  "id": 873801237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023476,42.814787,-72.023476,42.814787",
+    "geom:latitude":42.814787,
+    "geom:longitude":-72.023476,
+    "iso:country":"US",
+    "sg:address":"4 River St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 9370",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QEZi4u0u7eeRYkOs1qDy8_42.814787_-72.023476@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297788,
+    "wof:geomhash":"865c883f70c0e206125fe1c67fcc4234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873801237
+        }
+    ],
+    "wof:id":873801237,
+    "wof:lastmodified":1464297788,
+    "wof:name":"Jaffrey Shoe Repair",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -72.023476,
+    42.814787,
+    -72.023476,
+    42.814787
+],
+  "geometry": {"coordinates":[-72.023476,42.814787],"type":"Point"}
+}

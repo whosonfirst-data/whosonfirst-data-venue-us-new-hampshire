@@ -1,0 +1,71 @@
+{
+  "id": 873574543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.851916,42.955937,-70.851916,42.955937",
+    "geom:latitude":42.955937,
+    "geom:longitude":-70.851916,
+    "iso:country":"US",
+    "sg:address":"242 Exeter Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 2880",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811635,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TFmg68w7IvSrznw13OZDY_42.955937_-70.851916@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294658,
+    "wof:geomhash":"e8d4f0e349b0e64b8bf511f63596c80e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811635,
+            "region_id":85688689,
+            "venue_id":873574543
+        }
+    ],
+    "wof:id":873574543,
+    "wof:lastmodified":1464294658,
+    "wof:name":"Thomas Wasson",
+    "wof:parent_id":85811635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [
+    -70.851916,
+    42.955937,
+    -70.851916,
+    42.955937
+],
+  "geometry": {"coordinates":[-70.851916,42.955937],"type":"Point"}
+}

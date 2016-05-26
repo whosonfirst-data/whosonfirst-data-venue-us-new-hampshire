@@ -1,0 +1,71 @@
+{
+  "id": 873807397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059493,44.011309,-71.059493,44.011309",
+    "geom:latitude":44.011309,
+    "geom:longitude":-71.059493,
+    "iso:country":"US",
+    "sg:address":"1072 E Conway Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 3040",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hQYwbwxxbmKouEDIRJjlK_44.011309_-71.059493@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297879,
+    "wof:geomhash":"f6d164d849cd3b09b8dc838eed765456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873807397
+        }
+    ],
+    "wof:id":873807397,
+    "wof:lastmodified":1464297879,
+    "wof:name":"North Conway Disposal Svc",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.059493,
+    44.011309,
+    -71.059493,
+    44.011309
+],
+  "geometry": {"coordinates":[-71.059493,44.011309],"type":"Point"}
+}

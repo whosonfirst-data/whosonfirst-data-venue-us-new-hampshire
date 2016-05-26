@@ -1,0 +1,76 @@
+{
+  "id": 873926347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276703,42.80843,-71.276703,42.80843",
+    "geom:latitude":42.80843,
+    "geom:longitude":-71.276703,
+    "iso:country":"US",
+    "sg:address":"87 Indian Rock Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8914",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "surgeon",
+        "physician",
+        "supply"
+    ],
+    "sg:website":"http://www.cmo-usa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eFfx5M2rWMnmhSmTkWFcj_42.808430_-71.276703@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300334,
+    "wof:geomhash":"4bf01510d4f6d34b1d0638184f33958e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873926347
+        }
+    ],
+    "wof:id":873926347,
+    "wof:lastmodified":1464300334,
+    "wof:name":"Alpco Diagnostics",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "surgeon",
+        "physician",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.276703,
+    42.80843,
+    -71.276703,
+    42.80843
+],
+  "geometry": {"coordinates":[-71.276703,42.80843],"type":"Point"}
+}

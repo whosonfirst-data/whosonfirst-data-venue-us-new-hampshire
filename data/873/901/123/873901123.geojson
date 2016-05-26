@@ -1,0 +1,77 @@
+{
+  "id": 873901123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.28951,43.706604,-72.28951,43.706604",
+    "geom:latitude":43.706604,
+    "geom:longitude":-72.28951,
+    "iso:country":"US",
+    "sg:address":"24 Main St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 9100",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "housewares",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AFQVReQdD6TaYloFU58XD_43.706604_-72.289510@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299839,
+    "wof:geomhash":"c94e4c9fe743d41081165d85349b08d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873901123
+        }
+    ],
+    "wof:id":873901123,
+    "wof:lastmodified":1464299839,
+    "wof:name":"Main Street Kitchens",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housewares",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -72.28951,
+    43.706604,
+    -72.28951,
+    43.706604
+],
+  "geometry": {"coordinates":[-72.28951000000001,43.706604],"type":"Point"}
+}

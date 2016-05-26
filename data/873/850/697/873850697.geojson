@@ -1,0 +1,69 @@
+{
+  "id": 873850697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.909864,43.003357,-70.909864,43.003357",
+    "geom:latitude":43.003357,
+    "geom:longitude":-70.909864,
+    "iso:country":"US",
+    "sg:address":"14 Tall Pines Dr",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 8458",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gp2h3QIZ86vMe6SKwmO6s_43.003357_-70.909864@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298826,
+    "wof:geomhash":"9a88cf79c935952615cd57bc1fe93a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873850697
+        }
+    ],
+    "wof:id":873850697,
+    "wof:lastmodified":1464298826,
+    "wof:name":"McAuliffe MD",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -70.909864,
+    43.003357,
+    -70.909864,
+    43.003357
+],
+  "geometry": {"coordinates":[-70.909864,43.003357],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873685039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530855,43.639818,-71.530855,43.639818",
+    "geom:latitude":43.639818,
+    "geom:longitude":-71.530855,
+    "iso:country":"US",
+    "sg:address":"5 Winona Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6764",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hTb9SEmGr8IOuQX764dFo_43.639818_-71.530855@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296138,
+    "wof:geomhash":"e4cff635f31fa6b8c35fd3494e96e30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873685039
+        }
+    ],
+    "wof:id":873685039,
+    "wof:lastmodified":1464296138,
+    "wof:name":"Brian Bushman",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.530855,
+    43.639818,
+    -71.530855,
+    43.639818
+],
+  "geometry": {"coordinates":[-71.530855,43.639818],"type":"Point"}
+}

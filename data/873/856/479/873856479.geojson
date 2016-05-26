@@ -1,0 +1,71 @@
+{
+  "id": 873856479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.064186,43.49967,-72.064186,43.49967",
+    "geom:latitude":43.49967,
+    "geom:longitude":-72.064186,
+    "iso:country":"US",
+    "sg:address":"242 Main St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 8346",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MIfn3ym6AQUJVZnB1p7xT_43.499670_-72.064186@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298943,
+    "wof:geomhash":"472bdf3a51926a336d76338b6476f39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873856479
+        }
+    ],
+    "wof:id":873856479,
+    "wof:lastmodified":1464298943,
+    "wof:name":"E A Concrete Solutions",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.064186,
+    43.49967,
+    -72.064186,
+    43.49967
+],
+  "geometry": {"coordinates":[-72.06418600000001,43.49967],"type":"Point"}
+}

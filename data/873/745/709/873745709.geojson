@@ -1,0 +1,71 @@
+{
+  "id": 873745709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252132,42.776951,-71.252132,42.776951",
+    "geom:latitude":42.776951,
+    "geom:longitude":-71.252132,
+    "iso:country":"US",
+    "sg:address":"11 Bailey Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 4101",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RWV9H4dds2q17AwuFY29F_42.776951_-71.252132@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297022,
+    "wof:geomhash":"39daff36a86f1cb3949b11f50a57c241",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873745709
+        }
+    ],
+    "wof:id":873745709,
+    "wof:lastmodified":1464297022,
+    "wof:name":"J D Construction",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.252132,
+    42.776951,
+    -71.252132,
+    42.776951
+],
+  "geometry": {"coordinates":[-71.252132,42.776951],"type":"Point"}
+}

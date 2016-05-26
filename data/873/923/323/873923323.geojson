@@ -1,0 +1,90 @@
+{
+  "id": 873923323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442574,42.719398,-71.442574,42.719398",
+    "geom:latitude":42.719398,
+    "geom:longitude":-71.442574,
+    "iso:country":"US",
+    "sg:address":"173 Daniel Webster Hwy",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 4400",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "pediatrics",
+        "family",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.nashuamedicalgroup.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XACSAFbdESyG5BYuSAMs9_42.719398_-71.442574@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300276,
+    "wof:geomhash":"aa72da95cf825d72df6d4da203b07fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873923323
+        }
+    ],
+    "wof:id":873923323,
+    "wof:lastmodified":1464300276,
+    "wof:name":"Nashua Medical Group",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics",
+        "family",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.442574,
+    42.719398,
+    -71.442574,
+    42.719398
+],
+  "geometry": {"coordinates":[-71.44257399999999,42.719398],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873852449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.820234,43.176449,-71.820234,43.176449",
+    "geom:latitude":43.176449,
+    "geom:longitude":-71.820234,
+    "iso:country":"US",
+    "sg:address":"3 Cressey St",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6139",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OqidkTe3sNQWeR1W3luME_43.176449_-71.820234@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298860,
+    "wof:geomhash":"eff4dbac1f38e56c2af363ad1c8cfc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873852449
+        }
+    ],
+    "wof:id":873852449,
+    "wof:lastmodified":1464298860,
+    "wof:name":"Liberty Financial",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.820234,
+    43.176449,
+    -71.820234,
+    43.176449
+],
+  "geometry": {"coordinates":[-71.820234,43.176449],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873843015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551015,43.012844,-71.551015,43.012844",
+    "geom:latitude":43.012844,
+    "geom:longitude":-71.551015,
+    "iso:country":"US",
+    "sg:address":"227 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 2601",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ErZyVjnGBNBxkyG3pDWDK_43.012844_-71.551015@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298633,
+    "wof:geomhash":"5d431e8045fdc7c82b8f05f367ec0939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873843015
+        }
+    ],
+    "wof:id":873843015,
+    "wof:lastmodified":1464298633,
+    "wof:name":"Mast Road Truck & Auto Repair",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.551015,
+    43.012844,
+    -71.551015,
+    43.012844
+],
+  "geometry": {"coordinates":[-71.55101500000001,43.012844],"type":"Point"}
+}

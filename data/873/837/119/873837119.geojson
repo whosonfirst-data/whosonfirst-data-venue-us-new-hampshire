@@ -1,0 +1,77 @@
+{
+  "id": 873837119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509273,42.775023,-71.509273,42.775023",
+    "geom:latitude":42.775023,
+    "geom:longitude":-71.509273,
+    "iso:country":"US",
+    "sg:address":"95 Pine Hill Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 9059",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CQXYUqKhqARVmYZ9JQrKa_42.775023_-71.509273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298486,
+    "wof:geomhash":"acca0147ad83c6eb645d44a5646818bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873837119
+        }
+    ],
+    "wof:id":873837119,
+    "wof:lastmodified":1464298486,
+    "wof:name":"Brouillette Aviation Training",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.509273,
+    42.775023,
+    -71.509273,
+    42.775023
+],
+  "geometry": {"coordinates":[-71.50927299999999,42.775023],"type":"Point"}
+}

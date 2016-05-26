@@ -1,0 +1,90 @@
+{
+  "id": 873925939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.21225,42.758275,-71.21225,42.758275",
+    "geom:latitude":42.758275,
+    "geom:longitude":-71.21225,
+    "iso:country":"US",
+    "sg:address":"291 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8789",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular",
+        "provider"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m2e1NLF41r4gNPXA3yB82_42.758275_-71.212250@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300325,
+    "wof:geomhash":"2ad4d1ec39b10797ec8c13ad5d2460b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925939
+        }
+    ],
+    "wof:id":873925939,
+    "wof:lastmodified":1464300325,
+    "wof:name":"AT&T Wireless",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "cellular",
+        "provider"
+    ]
+},
+  "bbox": [
+    -71.21225,
+    42.758275,
+    -71.21225,
+    42.758275
+],
+  "geometry": {"coordinates":[-71.21225,42.758275],"type":"Point"}
+}

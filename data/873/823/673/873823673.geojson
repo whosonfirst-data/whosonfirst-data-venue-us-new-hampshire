@@ -1,0 +1,71 @@
+{
+  "id": 873823673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.752429,43.742771,-71.752429,43.742771",
+    "geom:latitude":43.742771,
+    "geom:longitude":-71.752429,
+    "iso:country":"US",
+    "sg:address":"401 Mayhew Tpke",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 5066",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sbJMLk4XHdRYQuFlq5kGo_43.742771_-71.752429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298204,
+    "wof:geomhash":"f8d19a70a510ec7a68141c35c11766b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873823673
+        }
+    ],
+    "wof:id":873823673,
+    "wof:lastmodified":1464298204,
+    "wof:name":"TMT Auto Repair & Sales",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.752429,
+    43.742771,
+    -71.752429,
+    43.742771
+],
+  "geometry": {"coordinates":[-71.75242900000001,43.742771],"type":"Point"}
+}

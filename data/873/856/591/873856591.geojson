@@ -1,0 +1,71 @@
+{
+  "id": 873856591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.867514,42.881319,-70.867514,42.881319",
+    "geom:latitude":42.881319,
+    "geom:longitude":-70.867514,
+    "iso:country":"US",
+    "sg:address":"255 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 9122",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U02Z8E10KL7N7vB3mPiZl_42.881319_-70.867514@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298945,
+    "wof:geomhash":"3bd05502c5ec49ba2bfebdb7c3ec805d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873856591
+        }
+    ],
+    "wof:id":873856591,
+    "wof:lastmodified":1464298945,
+    "wof:name":"Seabrook Travel Ctr",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -70.867514,
+    42.881319,
+    -70.867514,
+    42.881319
+],
+  "geometry": {"coordinates":[-70.867514,42.881319],"type":"Point"}
+}

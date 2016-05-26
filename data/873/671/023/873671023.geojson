@@ -1,0 +1,73 @@
+{
+  "id": 873671023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470128,43.524395,-71.470128,43.524395",
+    "geom:latitude":43.524395,
+    "geom:longitude":-71.470128,
+    "iso:country":"US",
+    "sg:address":"92 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9833",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SiKCvx7YmfzGO6aZZDxpJ_43.524395_-71.470128@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295812,
+    "wof:geomhash":"c5abea2d40c1b12c4760b5397848bb9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873671023
+        }
+    ],
+    "wof:id":873671023,
+    "wof:lastmodified":1464295812,
+    "wof:name":"Fred Lamere's Svc Ctr",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.470128,
+    43.524395,
+    -71.470128,
+    43.524395
+],
+  "geometry": {"coordinates":[-71.470128,43.524395],"type":"Point"}
+}

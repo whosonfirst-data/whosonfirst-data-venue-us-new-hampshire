@@ -1,0 +1,71 @@
+{
+  "id": 873811543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569533,44.489022,-71.569533,44.489022",
+    "geom:latitude":44.489022,
+    "geom:longitude":-71.569533,
+    "iso:country":"US",
+    "sg:address":"101 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3591",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kxAspW2gOJkhx02o5S3Z4_44.489022_-71.569533@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297953,
+    "wof:geomhash":"4eb63219d0319550f6ac3f7a6c7de2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873811543
+        }
+    ],
+    "wof:id":873811543,
+    "wof:lastmodified":1464297953,
+    "wof:name":"Parker's Jewelry",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.569533,
+    44.489022,
+    -71.569533,
+    44.489022
+],
+  "geometry": {"coordinates":[-71.56953300000001,44.489022],"type":"Point"}
+}

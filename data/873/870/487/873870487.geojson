@@ -1,0 +1,73 @@
+{
+  "id": 873870487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192435,42.743753,-71.192435,42.743753",
+    "geom:latitude":42.743753,
+    "geom:longitude":-71.192435,
+    "iso:country":"US",
+    "sg:address":"13 Carol Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 978 429 3009",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s38YCQYKe1Zr0EvSfKG0O_42.743753_-71.192435@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299233,
+    "wof:geomhash":"49787b95dbb51a2dfd25218a48d09d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873870487
+        }
+    ],
+    "wof:id":873870487,
+    "wof:lastmodified":1464299233,
+    "wof:name":"Grout Doctor",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.192435,
+    42.743753,
+    -71.192435,
+    42.743753
+],
+  "geometry": {"coordinates":[-71.192435,42.743753],"type":"Point"}
+}

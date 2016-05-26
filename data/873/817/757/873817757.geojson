@@ -1,0 +1,71 @@
+{
+  "id": 873817757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415831,43.486256,-71.415831,43.486256",
+    "geom:latitude":43.486256,
+    "geom:longitude":-71.415831,
+    "iso:country":"US",
+    "sg:address":"246 Durrell Mountain Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 5223",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k99NOkdeYpl8zz0LPbKG2_43.486256_-71.415831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298075,
+    "wof:geomhash":"8d1668f5ac7ea9594ffb15f985261480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873817757
+        }
+    ],
+    "wof:id":873817757,
+    "wof:lastmodified":1464298075,
+    "wof:name":"JRC Plumbing & Heating",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.415831,
+    43.486256,
+    -71.415831,
+    43.486256
+],
+  "geometry": {"coordinates":[-71.415831,43.486256],"type":"Point"}
+}

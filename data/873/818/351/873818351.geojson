@@ -1,0 +1,71 @@
+{
+  "id": 873818351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.037408,43.236338,-71.037408,43.236338",
+    "geom:latitude":43.236338,
+    "geom:longitude":-71.037408,
+    "iso:country":"US",
+    "sg:address":"165 Smoke St",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 5270",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B4rEYMUpelCSaWwsgV7qi_43.236338_-71.037408@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298086,
+    "wof:geomhash":"528977bc342e961f18a08b2956a987fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873818351
+        }
+    ],
+    "wof:id":873818351,
+    "wof:lastmodified":1464298086,
+    "wof:name":"A-1 Foundations",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.037408,
+    43.236338,
+    -71.037408,
+    43.236338
+],
+  "geometry": {"coordinates":[-71.037408,43.236338],"type":"Point"}
+}

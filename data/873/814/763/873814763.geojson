@@ -1,0 +1,71 @@
+{
+  "id": 873814763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.642697,43.445585,-71.642697,43.445585",
+    "geom:latitude":43.445585,
+    "geom:longitude":-71.642697,
+    "iso:country":"US",
+    "sg:address":"426 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 6678",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "doughnut",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J1ka9eoePHHPqIZ6vqBaK_43.445585_-71.642697@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298010,
+    "wof:geomhash":"caad5139ccc00a055e771fb578bf456e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873814763
+        }
+    ],
+    "wof:id":873814763,
+    "wof:lastmodified":1464298010,
+    "wof:name":"Brothers Donuts & Deli Shop",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.642697,
+    43.445585,
+    -71.642697,
+    43.445585
+],
+  "geometry": {"coordinates":[-71.642697,43.445585],"type":"Point"}
+}

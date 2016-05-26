@@ -1,0 +1,75 @@
+{
+  "id": 873865093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.993075,43.311301,-70.993075,43.311301",
+    "geom:latitude":43.311301,
+    "geom:longitude":-70.993075,
+    "iso:country":"US",
+    "sg:address":"293 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 3388",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ErlDZ8N5uSJFeqqL06NUk_43.311301_-70.993075@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299140,
+    "wof:geomhash":"22cd558c9f424b8ef679ef672517758b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873865093
+        }
+    ],
+    "wof:id":873865093,
+    "wof:lastmodified":1464299140,
+    "wof:name":"Main Moon Chinese Restaurant",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.993075,
+    43.311301,
+    -70.993075,
+    43.311301
+],
+  "geometry": {"coordinates":[-70.993075,43.311301],"type":"Point"}
+}

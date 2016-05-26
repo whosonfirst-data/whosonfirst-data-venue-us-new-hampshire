@@ -1,0 +1,71 @@
+{
+  "id": 873775111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475808,43.529629,-71.475808,43.529629",
+    "geom:latitude":43.529629,
+    "geom:longitude":-71.475808,
+    "iso:country":"US",
+    "sg:address":"15 Gale Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 968 3600",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ua2gzTG6iVrSNWJnt3Joi_43.529629_-71.475808@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297427,
+    "wof:geomhash":"3d560c6c9d4393b2c47e8ac2fe8ac18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873775111
+        }
+    ],
+    "wof:id":873775111,
+    "wof:lastmodified":1464297427,
+    "wof:name":"Boulder Motel",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.475808,
+    43.529629,
+    -71.475808,
+    43.529629
+],
+  "geometry": {"coordinates":[-71.475808,43.529629],"type":"Point"}
+}

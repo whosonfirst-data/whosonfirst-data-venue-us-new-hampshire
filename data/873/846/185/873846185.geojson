@@ -1,0 +1,71 @@
+{
+  "id": 873846185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.050587,43.22812,-71.050587,43.22812",
+    "geom:latitude":43.22812,
+    "geom:longitude":-71.050587,
+    "iso:country":"US",
+    "sg:address":"21 Chesley Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 7828",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fl6Klh8LpZtiHFeuSblbi_43.228120_-71.050587@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298706,
+    "wof:geomhash":"b8666f7463bbfc7f713d79fa7eef9fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873846185
+        }
+    ],
+    "wof:id":873846185,
+    "wof:lastmodified":1464298706,
+    "wof:name":"DPW Plumbing",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.050587,
+    43.22812,
+    -71.050587,
+    43.22812
+],
+  "geometry": {"coordinates":[-71.05058699999999,43.22812],"type":"Point"}
+}

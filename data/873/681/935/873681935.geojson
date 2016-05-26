@@ -1,0 +1,71 @@
+{
+  "id": 873681935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.833861,43.31642,-71.833861,43.31642",
+    "geom:latitude":43.31642,
+    "geom:longitude":-71.833861,
+    "iso:country":"US",
+    "sg:address":"465 Kearsarge Mountain Rd",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3667",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21pDM6ndz5TiqCbryL5Dee_43.316420_-71.833861@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296051,
+    "wof:geomhash":"87d24514c1ce8e8d496e2c170db48e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873681935
+        }
+    ],
+    "wof:id":873681935,
+    "wof:lastmodified":1464296051,
+    "wof:name":"Warner Tax Collector",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -71.833861,
+    43.31642,
+    -71.833861,
+    43.31642
+],
+  "geometry": {"coordinates":[-71.833861,43.31642],"type":"Point"}
+}

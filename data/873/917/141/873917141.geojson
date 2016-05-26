@@ -1,0 +1,78 @@
+{
+  "id": 873917141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252727,42.819282,-71.252727,42.819282",
+    "geom:latitude":42.819282,
+    "geom:longitude":-71.252727,
+    "iso:country":"US",
+    "sg:address":"57 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/windham/256261-charleys-kabob--pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2570",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "middle",
+        "american",
+        "sandwich",
+        "pizza",
+        "eastern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ztD3s3rEYgWd5nDDVuouO_42.819282_-71.252727@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300161,
+    "wof:geomhash":"bd3d608ca6065c19b66b793f81882e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873917141
+        }
+    ],
+    "wof:id":873917141,
+    "wof:lastmodified":1464300161,
+    "wof:name":"Charley's Kabob & Pizzeria",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle",
+        "american",
+        "sandwich",
+        "pizza",
+        "eastern"
+    ]
+},
+  "bbox": [
+    -71.252727,
+    42.819282,
+    -71.252727,
+    42.819282
+],
+  "geometry": {"coordinates":[-71.25272699999999,42.819282],"type":"Point"}
+}

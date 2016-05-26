@@ -1,0 +1,71 @@
+{
+  "id": 873782833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57864,42.705813,-71.57864,42.705813",
+    "geom:latitude":42.705813,
+    "geom:longitude":-71.57864,
+    "iso:country":"US",
+    "sg:address":"27 Blood Rd",
+    "sg:city":"Temple",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 878 1017",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3anLFXIThUERPhS1N6GZst_42.705813_-71.578640@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297528,
+    "wof:geomhash":"8d001d94cb95ce8756d610171e8765a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873782833
+        }
+    ],
+    "wof:id":873782833,
+    "wof:lastmodified":1464297528,
+    "wof:name":"First Choice Windshield Repair",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -71.57864,
+    42.705813,
+    -71.57864,
+    42.705813
+],
+  "geometry": {"coordinates":[-71.57863999999999,42.705813],"type":"Point"}
+}

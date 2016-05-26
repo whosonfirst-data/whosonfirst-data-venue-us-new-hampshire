@@ -1,0 +1,71 @@
+{
+  "id": 873873219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.613361,44.460888,-71.613361,44.460888",
+    "geom:latitude":44.460888,
+    "geom:longitude":-71.613361,
+    "iso:country":"US",
+    "sg:address":"128 Stebbins Hill Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4136",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849321,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PyXNgUa9M5DHR5Ng02gFW_44.460888_-71.613361@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299302,
+    "wof:geomhash":"44d982e299a11d3742f732054bbdad25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85849321,
+            "region_id":85688689,
+            "venue_id":873873219
+        }
+    ],
+    "wof:id":873873219,
+    "wof:lastmodified":1464299302,
+    "wof:name":"D F White Excavating",
+    "wof:parent_id":85849321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.613361,
+    44.460888,
+    -71.613361,
+    44.460888
+],
+  "geometry": {"coordinates":[-71.613361,44.460888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873734509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.650318,42.718357,-71.650318,42.718357",
+    "geom:latitude":42.718357,
+    "geom:longitude":-71.650318,
+    "iso:country":"US",
+    "sg:address":"3 Bohanon Bridge Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 8891",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55K890Evrw8pLgn9l7zx5d_42.718357_-71.650318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296840,
+    "wof:geomhash":"c09dd98f3c505ffbf3d6426ddbf827ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873734509
+        }
+    ],
+    "wof:id":873734509,
+    "wof:lastmodified":1464296840,
+    "wof:name":"V & G Freight Brokers",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.650318,
+    42.718357,
+    -71.650318,
+    42.718357
+],
+  "geometry": {"coordinates":[-71.650318,42.718357],"type":"Point"}
+}

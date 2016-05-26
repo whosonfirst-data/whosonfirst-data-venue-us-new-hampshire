@@ -1,0 +1,71 @@
+{
+  "id": 873852623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175837,44.392001,-71.175837,44.392001",
+    "geom:latitude":44.392001,
+    "geom:longitude":-71.175837,
+    "iso:country":"US",
+    "sg:address":"7 Corbin Ave",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5689",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a5XzheQe9wLXi4DEaYCBr_44.392001_-71.175837@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298864,
+    "wof:geomhash":"92cdc95864ac23de0c42d9d05f2e79e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873852623
+        }
+    ],
+    "wof:id":873852623,
+    "wof:lastmodified":1464298864,
+    "wof:name":"LA Plante Plumbing & Heating",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.175837,
+    44.392001,
+    -71.175837,
+    44.392001
+],
+  "geometry": {"coordinates":[-71.175837,44.392001],"type":"Point"}
+}

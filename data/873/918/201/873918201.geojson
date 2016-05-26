@@ -1,0 +1,76 @@
+{
+  "id": 873918201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.788164,44.309258,-71.788164,44.309258",
+    "geom:latitude":44.309258,
+    "geom:longitude":-71.788164,
+    "iso:country":"US",
+    "sg:address":"582 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/littleton/53402-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 1796",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04J6md5hBVvllSwIr5rYwP_44.309258_-71.788164@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300180,
+    "wof:geomhash":"8014a2b62c210b348e4e615c1257fb07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873918201
+        }
+    ],
+    "wof:id":873918201,
+    "wof:lastmodified":1464300180,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.788164,
+    44.309258,
+    -71.788164,
+    44.309258
+],
+  "geometry": {"coordinates":[-71.78816399999999,44.309258],"type":"Point"}
+}

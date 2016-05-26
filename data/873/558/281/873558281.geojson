@@ -1,0 +1,74 @@
+{
+  "id": 873558281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.136635,43.976735,-71.136635,43.976735",
+    "geom:latitude":43.976735,
+    "geom:longitude":-71.136635,
+    "iso:country":"US",
+    "sg:address":"40 Thorne Hill Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 383 4242",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.innatthornhill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21eysGo3FlJ6vrtXfFZs1M_43.976735_-71.136635@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294480,
+    "wof:geomhash":"93fe741d8d969cd2d5ee31ffd9931cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873558281
+        }
+    ],
+    "wof:id":873558281,
+    "wof:lastmodified":1464294480,
+    "wof:name":"Inn At Thorn Hill",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.136635,
+    43.976735,
+    -71.136635,
+    43.976735
+],
+  "geometry": {"coordinates":[-71.136635,43.976735],"type":"Point"}
+}

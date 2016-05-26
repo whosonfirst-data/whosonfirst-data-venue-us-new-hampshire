@@ -1,0 +1,71 @@
+{
+  "id": 873889849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478758,42.960664,-71.478758,42.960664",
+    "geom:latitude":42.960664,
+    "geom:longitude":-71.478758,
+    "iso:country":"US",
+    "sg:address":"20 Washington Pl",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 663 8060",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H7DgGqR0FB7gXpPDLLGVU_42.960664_-71.478758@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299629,
+    "wof:geomhash":"2da92e2cafb36e4e72707287bf83d9f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873889849
+        }
+    ],
+    "wof:id":873889849,
+    "wof:lastmodified":1464299629,
+    "wof:name":"Willowbend Family Practice",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.478758,
+    42.960664,
+    -71.478758,
+    42.960664
+],
+  "geometry": {"coordinates":[-71.478758,42.960664],"type":"Point"}
+}

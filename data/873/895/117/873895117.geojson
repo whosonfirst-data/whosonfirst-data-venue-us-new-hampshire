@@ -1,0 +1,69 @@
+{
+  "id": 873895117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.351376,43.54215,-72.351376,43.54215",
+    "geom:latitude":43.54215,
+    "geom:longitude":-72.351376,
+    "iso:country":"US",
+    "sg:address":"1044 State Rte 12",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 675 2073",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TxqTVTN0Z0bTnTcu1rlm7_43.542150_-72.351376@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299723,
+    "wof:geomhash":"99a71d92c6d17571ba13ad5b8faff90c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873895117
+        }
+    ],
+    "wof:id":873895117,
+    "wof:lastmodified":1464299723,
+    "wof:name":"Serenity Power Plus Inc",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -72.351376,
+    43.54215,
+    -72.351376,
+    43.54215
+],
+  "geometry": {"coordinates":[-72.351376,43.54215],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873821609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585714,42.802339,-71.585714,42.802339",
+    "geom:latitude":42.802339,
+    "geom:longitude":-71.585714,
+    "iso:country":"US",
+    "sg:address":"10 Northern Blvd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 578 1842",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "development",
+        "consulting",
+        "electronic"
+    ],
+    "sg:website":"www.silent-solutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UF3lfSPGBswYuUv6IzW4a_42.802339_-71.585714@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298149,
+    "wof:geomhash":"d65bd16c82ba756598d1583e9d305441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873821609
+        }
+    ],
+    "wof:id":873821609,
+    "wof:lastmodified":1464298149,
+    "wof:name":"Silent Solutions LLC",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "consulting",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -71.585714,
+    42.802339,
+    -71.585714,
+    42.802339
+],
+  "geometry": {"coordinates":[-71.585714,42.802339],"type":"Point"}
+}

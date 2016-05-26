@@ -1,0 +1,97 @@
+{
+  "id": 873918305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.143616,43.613409,-72.143616,43.613409",
+    "geom:latitude":43.613409,
+    "geom:longitude":-72.143616,
+    "iso:country":"US",
+    "sg:address":"554 Nh Route 4a",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/enfield/149279-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 632 4223",
+    "sg:postcode":"03748",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832831,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JcelzDupQsxlQHGCb5fAe_43.613409_-72.143616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300182,
+    "wof:geomhash":"0308b045fa876c66b3de35f682e476c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85832831,
+            "region_id":85688689,
+            "venue_id":873918305
+        }
+    ],
+    "wof:id":873918305,
+    "wof:lastmodified":1464300182,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85832831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.143616,
+    43.613409,
+    -72.143616,
+    43.613409
+],
+  "geometry": {"coordinates":[-72.14361599999999,43.613409],"type":"Point"}
+}

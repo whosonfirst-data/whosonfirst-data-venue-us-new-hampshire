@@ -1,0 +1,71 @@
+{
+  "id": 873894497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684472,43.59824,-71.684472,43.59824",
+    "geom:latitude":43.59824,
+    "geom:longitude":-71.684472,
+    "iso:country":"US",
+    "sg:address":"1635 Summer St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 7840",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bisnrADWVVK47Gkyyd4C2_43.598240_-71.684472@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299713,
+    "wof:geomhash":"73c768be5e5f0622c37ada86ac2946c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873894497
+        }
+    ],
+    "wof:id":873894497,
+    "wof:lastmodified":1464299713,
+    "wof:name":"Hanser Auto",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.684472,
+    43.59824,
+    -71.684472,
+    43.59824
+],
+  "geometry": {"coordinates":[-71.684472,43.59824],"type":"Point"}
+}

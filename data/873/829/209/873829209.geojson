@@ -1,0 +1,75 @@
+{
+  "id": 873829209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406776,42.978193,-71.406776,42.978193",
+    "geom:latitude":42.978193,
+    "geom:longitude":-71.406776,
+    "iso:country":"US",
+    "sg:address":"800 Holt Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 206 285 4600",
+    "sg:postcode":"03109",
+    "sg:province":"NH",
+    "sg:tags":[
+        "forwarder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526163,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eM81cfz13wTmQpdPTrm63_42.978193_-71.406776@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298317,
+    "wof:geomhash":"9620f1fdde9bdf82c8d97a617561cb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526163,
+            "region_id":85688689,
+            "venue_id":873829209
+        }
+    ],
+    "wof:id":873829209,
+    "wof:lastmodified":1464298317,
+    "wof:name":"Airborne",
+    "wof:parent_id":420526163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarder"
+    ]
+},
+  "bbox": [
+    -71.406776,
+    42.978193,
+    -71.406776,
+    42.978193
+],
+  "geometry": {"coordinates":[-71.40677599999999,42.978193],"type":"Point"}
+}

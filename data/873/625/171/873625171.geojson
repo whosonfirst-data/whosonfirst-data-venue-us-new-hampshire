@@ -1,0 +1,71 @@
+{
+  "id": 873625171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470268,43.346462,-71.470268,43.346462",
+    "geom:latitude":43.346462,
+    "geom:longitude":-71.470268,
+    "iso:country":"US",
+    "sg:address":"56 Mudgett Hill Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4027",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_339MfIN3Kv7x41hgDwcCct_43.346462_-71.470268@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295312,
+    "wof:geomhash":"9f2dee3dd9ec6ddcdfd20f9b8a2d37e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873625171
+        }
+    ],
+    "wof:id":873625171,
+    "wof:lastmodified":1464295312,
+    "wof:name":"J & D Repairs LLC",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.470268,
+    43.346462,
+    -71.470268,
+    43.346462
+],
+  "geometry": {"coordinates":[-71.470268,43.346462],"type":"Point"}
+}

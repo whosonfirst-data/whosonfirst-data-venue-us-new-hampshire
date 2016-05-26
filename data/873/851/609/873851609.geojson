@@ -1,0 +1,71 @@
+{
+  "id": 873851609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.130719,43.690937,-71.130719,43.690937",
+    "geom:latitude":43.690937,
+    "geom:longitude":-71.130719,
+    "iso:country":"US",
+    "sg:address":"3 Water Village Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 6996",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XqUtYLozHSsKmSvzEJSQW_43.690937_-71.130719@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298844,
+    "wof:geomhash":"7587f8e3de96f7c3d5a2a1f29d952f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873851609
+        }
+    ],
+    "wof:id":873851609,
+    "wof:lastmodified":1464298844,
+    "wof:name":"Ossipee/Tamworth Family Prctc",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.130719,
+    43.690937,
+    -71.130719,
+    43.690937
+],
+  "geometry": {"coordinates":[-71.130719,43.690937],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873925547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198755,42.74224,-71.198755,42.74224",
+    "geom:latitude":42.74224,
+    "geom:longitude":-71.198755,
+    "iso:country":"US",
+    "sg:address":"528 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 870 9081",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "style",
+        "family",
+        "lunch",
+        "american",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"http://www.ihop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l8eV35A8aPgjmgGdQHaY1_42.742240_-71.198755@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300317,
+    "wof:geomhash":"119e837c01b7f27f5ac241fccd36a74b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873925547
+        }
+    ],
+    "wof:id":873925547,
+    "wof:lastmodified":1464300317,
+    "wof:name":"IHOP",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "lunch",
+        "american",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.198755,
+    42.74224,
+    -71.198755,
+    42.74224
+],
+  "geometry": {"coordinates":[-71.19875500000001,42.74224],"type":"Point"}
+}

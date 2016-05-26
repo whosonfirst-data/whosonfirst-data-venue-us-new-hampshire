@@ -1,0 +1,71 @@
+{
+  "id": 873773063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.020954,43.15098,-71.020954,43.15098",
+    "geom:latitude":43.15098,
+    "geom:longitude":-71.020954,
+    "iso:country":"US",
+    "sg:address":"327 US Hwy 4",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 5728",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y1rVGFHwGlc5nstGeLDtQ_43.150980_-71.020954@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297402,
+    "wof:geomhash":"783e906ba45ad1a879fa1c671f9c9655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873773063
+        }
+    ],
+    "wof:id":873773063,
+    "wof:lastmodified":1464297402,
+    "wof:name":"Piller Heating Co",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.020954,
+    43.15098,
+    -71.020954,
+    43.15098
+],
+  "geometry": {"coordinates":[-71.020954,43.15098],"type":"Point"}
+}

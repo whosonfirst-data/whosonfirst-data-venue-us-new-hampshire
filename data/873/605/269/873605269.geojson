@@ -1,0 +1,78 @@
+{
+  "id": 873605269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517073,43.164761,-71.517073,43.164761",
+    "geom:latitude":43.164761,
+    "geom:longitude":-71.517073,
+    "iso:country":"US",
+    "sg:address":"548 State Rte 3a",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 229 3030",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07zowF3Y3HecYnph0PT8wx_43.164761_-71.517073@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295044,
+    "wof:geomhash":"8211529cfc8fdc77d832b569aa8cae36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873605269
+        }
+    ],
+    "wof:id":873605269,
+    "wof:lastmodified":1464295044,
+    "wof:name":"Crazy Jay's Auto & Truck Ctr",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.517073,
+    43.164761,
+    -71.517073,
+    43.164761
+],
+  "geometry": {"coordinates":[-71.517073,43.164761],"type":"Point"}
+}

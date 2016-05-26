@@ -1,0 +1,69 @@
+{
+  "id": 873752023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059497,44.011307,-71.059497,44.011307",
+    "geom:latitude":44.011307,
+    "geom:longitude":-71.059497,
+    "iso:country":"US",
+    "sg:address":"1130 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5500",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eGHv4lMgNIaTQTykKzArC_44.011307_-71.059497@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"05b74c596e9031959ab86aaad8436273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873752023
+        }
+    ],
+    "wof:id":873752023,
+    "wof:lastmodified":1464297101,
+    "wof:name":"Fabric Stash",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.059497,
+    44.011307,
+    -71.059497,
+    44.011307
+],
+  "geometry": {"coordinates":[-71.05949699999999,44.011307],"type":"Point"}
+}

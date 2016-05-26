@@ -1,0 +1,71 @@
+{
+  "id": 873785255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.199557,44.396558,-71.199557,44.396558",
+    "geom:latitude":44.396558,
+    "geom:longitude":-71.199557,
+    "iso:country":"US",
+    "sg:address":"4 Center Ln",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2467",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MZhPj0aVptCNXCTWSfkHa_44.396558_-71.199557@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297559,
+    "wof:geomhash":"8f529d581f74b695227f103da18f142f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873785255
+        }
+    ],
+    "wof:id":873785255,
+    "wof:lastmodified":1464297559,
+    "wof:name":"Leo Baeulieu",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.199557,
+    44.396558,
+    -71.199557,
+    44.396558
+],
+  "geometry": {"coordinates":[-71.199557,44.396558],"type":"Point"}
+}

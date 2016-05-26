@@ -1,0 +1,71 @@
+{
+  "id": 873873077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.64599,43.443962,-71.64599,43.443962",
+    "geom:latitude":43.443962,
+    "geom:longitude":-71.64599,
+    "iso:country":"US",
+    "sg:address":"20 Church St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 6770",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n1Z8nqLaP0C0ZLIHdR4pv_43.443962_-71.645990@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299299,
+    "wof:geomhash":"2e5f42761cad879a57353322d916a051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873873077
+        }
+    ],
+    "wof:id":873873077,
+    "wof:lastmodified":1464299299,
+    "wof:name":"Dance Inspirations",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.64599,
+    43.443962,
+    -71.64599,
+    43.443962
+],
+  "geometry": {"coordinates":[-71.64599,43.443962],"type":"Point"}
+}

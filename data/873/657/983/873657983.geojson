@@ -1,0 +1,71 @@
+{
+  "id": 873657983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.868238,43.432529,-71.868238,43.432529",
+    "geom:latitude":43.432529,
+    "geom:longitude":-71.868238,
+    "iso:country":"US",
+    "sg:address":"18 Ten Penny Ln",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 735 5465",
+    "sg:postcode":"03216",
+    "sg:province":"NH",
+    "sg:tags":[
+        "guard",
+        "rails"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811029,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wqpq5hFl37cdP2AuM6AlV_43.432529_-71.868238@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295677,
+    "wof:geomhash":"743e35a1a15c8e0e567e64a820879eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811029,
+            "region_id":85688689,
+            "venue_id":873657983
+        }
+    ],
+    "wof:id":873657983,
+    "wof:lastmodified":1464295677,
+    "wof:name":"CWS Fence & Guardrail",
+    "wof:parent_id":85811029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "rails"
+    ]
+},
+  "bbox": [
+    -71.868238,
+    43.432529,
+    -71.868238,
+    43.432529
+],
+  "geometry": {"coordinates":[-71.86823800000001,43.432529],"type":"Point"}
+}

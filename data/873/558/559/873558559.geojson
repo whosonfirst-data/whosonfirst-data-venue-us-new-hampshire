@@ -1,0 +1,80 @@
+{
+  "id": 873558559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460532,43.083935,-71.460532,43.083935",
+    "geom:latitude":43.083935,
+    "geom:longitude":-71.460532,
+    "iso:country":"US",
+    "sg:address":"1580 Hooksett Rd",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 9032",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B8rAiMbvYOR7FNGH8cyDs_43.083935_-71.460532@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294482,
+    "wof:geomhash":"74e0ca7e55ca8f4746d82021a8657968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873558559
+        }
+    ],
+    "wof:id":873558559,
+    "wof:lastmodified":1464294482,
+    "wof:name":"Gene's Hooksett Gulf",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.460532,
+    43.083935,
+    -71.460532,
+    43.083935
+],
+  "geometry": {"coordinates":[-71.460532,43.083935],"type":"Point"}
+}

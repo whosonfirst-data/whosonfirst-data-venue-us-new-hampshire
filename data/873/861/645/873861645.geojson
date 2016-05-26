@@ -1,0 +1,71 @@
+{
+  "id": 873861645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.238995,44.404653,-71.238995,44.404653",
+    "geom:latitude":44.404653,
+    "geom:longitude":-71.238995,
+    "iso:country":"US",
+    "sg:address":"17 Candy Ln",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2818",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NtZPobGRji4Iirzp3rQXy_44.404653_-71.238995@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299070,
+    "wof:geomhash":"0a62aa9a184d88470ee1ad9031140278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873861645
+        }
+    ],
+    "wof:id":873861645,
+    "wof:lastmodified":1464299070,
+    "wof:name":"Sun World Printing & Office",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -71.238995,
+    44.404653,
+    -71.238995,
+    44.404653
+],
+  "geometry": {"coordinates":[-71.238995,44.404653],"type":"Point"}
+}

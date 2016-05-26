@@ -1,0 +1,69 @@
+{
+  "id": 873870073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535941,43.155549,-71.535941,43.155549",
+    "geom:latitude":43.155549,
+    "geom:longitude":-71.535941,
+    "iso:country":"US",
+    "sg:address":"4 Knox Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 2616",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jSD0HMqkGQmCDOAHGm5hp_43.155549_-71.535941@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299226,
+    "wof:geomhash":"2888be95acb03d4609423c9837d3c2c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873870073
+        }
+    ],
+    "wof:id":873870073,
+    "wof:lastmodified":1464299226,
+    "wof:name":"Bow Ambulance & Rescue Adm",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.535941,
+    43.155549,
+    -71.535941,
+    43.155549
+],
+  "geometry": {"coordinates":[-71.53594099999999,43.155549],"type":"Point"}
+}

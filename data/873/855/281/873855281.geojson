@@ -1,0 +1,73 @@
+{
+  "id": 873855281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.731872,43.223667,-71.731872,43.223667",
+    "geom:latitude":43.223667,
+    "geom:longitude":-71.731872,
+    "iso:country":"US",
+    "sg:address":"228 Bound Tree Rd",
+    "sg:city":"Hopkinton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 2140",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SSUMvDyrl1COns48hdviR_43.223667_-71.731872@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298919,
+    "wof:geomhash":"e7222ce04342189d74760bc13ff3b877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873855281
+        }
+    ],
+    "wof:id":873855281,
+    "wof:lastmodified":1464298919,
+    "wof:name":"Splitrock Stoneworks",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.731872,
+    43.223667,
+    -71.731872,
+    43.223667
+],
+  "geometry": {"coordinates":[-71.731872,43.223667],"type":"Point"}
+}

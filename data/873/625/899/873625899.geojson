@@ -1,0 +1,71 @@
+{
+  "id": 873625899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.849541,43.2369,-70.849541,43.2369",
+    "geom:latitude":43.2369,
+    "geom:longitude":-70.849541,
+    "iso:country":"US",
+    "sg:address":"4 Heritage Dr",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 939 2911",
+    "sg:postcode":"03869",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cWWKcwZ2FSz36d3N59MU6_43.236900_-70.849541@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295319,
+    "wof:geomhash":"e8aa0be177e388eb7ef14d2c21dc1753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873625899
+        }
+    ],
+    "wof:id":873625899,
+    "wof:lastmodified":1464295319,
+    "wof:name":"Heritage Services Bldg & Excav",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.849541,
+    43.2369,
+    -70.849541,
+    43.2369
+],
+  "geometry": {"coordinates":[-70.849541,43.2369],"type":"Point"}
+}

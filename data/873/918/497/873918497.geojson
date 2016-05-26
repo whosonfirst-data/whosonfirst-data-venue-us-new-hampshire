@@ -1,0 +1,70 @@
+{
+  "id": 873918497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.796356,43.096323,-70.796356,43.096323",
+    "geom:latitude":43.096323,
+    "geom:longitude":-70.796356,
+    "iso:country":"US",
+    "sg:address":"2048 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/14254-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8400",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oIAv5oRNRAdWHTREamUTT_43.096323_-70.796356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300186,
+    "wof:geomhash":"5d916ec1866dd22b9b2d40e9bf0179b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873918497
+        }
+    ],
+    "wof:id":873918497,
+    "wof:lastmodified":1464300186,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -70.796356,
+    43.096323,
+    -70.796356,
+    43.096323
+],
+  "geometry": {"coordinates":[-70.796356,43.096323],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873636253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535456,43.204268,-71.535456,43.204268",
+    "geom:latitude":43.204268,
+    "geom:longitude":-71.535456,
+    "iso:country":"US",
+    "sg:address":"1 Kennedy St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 8343",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "taxicab",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07eynaQ8R9jLB8R4OzGX7S_43.204268_-71.535456@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295434,
+    "wof:geomhash":"afb69bb6ef67c15ee9e4fc2a4756f76c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873636253
+        }
+    ],
+    "wof:id":873636253,
+    "wof:lastmodified":1464295434,
+    "wof:name":"Concord Cab Co",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "taxicab",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.535456,
+    43.204268,
+    -71.535456,
+    43.204268
+],
+  "geometry": {"coordinates":[-71.535456,43.204268],"type":"Point"}
+}

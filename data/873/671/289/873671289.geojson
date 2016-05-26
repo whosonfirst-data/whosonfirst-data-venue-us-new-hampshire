@@ -1,0 +1,71 @@
+{
+  "id": 873671289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54711,43.187259,-71.54711,43.187259",
+    "geom:latitude":43.187259,
+    "geom:longitude":-71.54711,
+    "iso:country":"US",
+    "sg:address":"29 Norwich St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8014",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHJjVVFvJbrcrRSrZkiSY_43.187259_-71.547110@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295815,
+    "wof:geomhash":"d66f25b716832718955f90c0bca72376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873671289
+        }
+    ],
+    "wof:id":873671289,
+    "wof:lastmodified":1464295815,
+    "wof:name":"R A Vachon & Son Inc",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.54711,
+    43.187259,
+    -71.54711,
+    43.187259
+],
+  "geometry": {"coordinates":[-71.54711,43.187259],"type":"Point"}
+}

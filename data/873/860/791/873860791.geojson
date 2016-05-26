@@ -1,0 +1,69 @@
+{
+  "id": 873860791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185377,44.465271,-71.185377,44.465271",
+    "geom:latitude":44.465271,
+    "geom:longitude":-71.185377,
+    "iso:country":"US",
+    "sg:address":"19 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1050",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73H3H6cwPq7CYlnn639k9S_44.465271_-71.185377@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299054,
+    "wof:geomhash":"d3c527c20ce21a3516e38f441fe7a33b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873860791
+        }
+    ],
+    "wof:id":873860791,
+    "wof:lastmodified":1464299054,
+    "wof:name":"Berlin IGA Foodliner",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.185377,
+    44.465271,
+    -71.185377,
+    44.465271
+],
+  "geometry": {"coordinates":[-71.185377,44.465271],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873865483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447467,43.549532,-71.447467,43.549532",
+    "geom:latitude":43.549532,
+    "geom:longitude":-71.447467,
+    "iso:country":"US",
+    "sg:address":"194 Stark St",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4088",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y4gr4o3k6BHvTwKcxDj3S_43.549532_-71.447467@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299147,
+    "wof:geomhash":"e4ed5e4d9a210d2a5412022495ca1a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873865483
+        }
+    ],
+    "wof:id":873865483,
+    "wof:lastmodified":1464299147,
+    "wof:name":"Johnson Printing",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -71.447467,
+    43.549532,
+    -71.447467,
+    43.549532
+],
+  "geometry": {"coordinates":[-71.447467,43.549532],"type":"Point"}
+}

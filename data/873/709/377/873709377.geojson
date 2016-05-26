@@ -1,0 +1,71 @@
+{
+  "id": 873709377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660515,43.459323,-71.660515,43.459323",
+    "geom:latitude":43.459323,
+    "geom:longitude":-71.660515,
+    "iso:country":"US",
+    "sg:address":"143 Hill Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5230",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x8KHDm4keGuCAQdQ3oNLM_43.459323_-71.660515@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296512,
+    "wof:geomhash":"64c187ef774e4ef12bd19874e5b6461d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873709377
+        }
+    ],
+    "wof:id":873709377,
+    "wof:lastmodified":1464296512,
+    "wof:name":"V R Adams Construction",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.660515,
+    43.459323,
+    -71.660515,
+    43.459323
+],
+  "geometry": {"coordinates":[-71.660515,43.459323],"type":"Point"}
+}

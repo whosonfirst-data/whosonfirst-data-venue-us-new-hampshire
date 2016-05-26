@@ -1,0 +1,69 @@
+{
+  "id": 873825139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.68768,43.75629,-71.68768,43.75629",
+    "geom:latitude":43.75629,
+    "geom:longitude":-71.68768,
+    "iso:country":"US",
+    "sg:address":"25 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 8283",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E4htFFcslyYVCyq4lIDuL_43.756290_-71.687680@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298235,
+    "wof:geomhash":"60ec3866c854da6e74d4d5163a550a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873825139
+        }
+    ],
+    "wof:id":873825139,
+    "wof:lastmodified":1464298235,
+    "wof:name":"Late Nite Pizza & Subs",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.68768,
+    43.75629,
+    -71.68768,
+    43.75629
+],
+  "geometry": {"coordinates":[-71.68768,43.75629],"type":"Point"}
+}

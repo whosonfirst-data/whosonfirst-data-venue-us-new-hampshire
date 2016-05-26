@@ -1,0 +1,73 @@
+{
+  "id": 873704545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871483,42.888177,-70.871483,42.888177",
+    "geom:latitude":42.888177,
+    "geom:longitude":-70.871483,
+    "iso:country":"US",
+    "sg:address":"467 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 8927",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "provides",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nuHW1EuLVgk5BIYA0eHoc_42.888177_-70.871483@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296451,
+    "wof:geomhash":"1349c96545ecc3884ba725d5aabb7f98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873704545
+        }
+    ],
+    "wof:id":873704545,
+    "wof:lastmodified":1464296451,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "provides",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -70.871483,
+    42.888177,
+    -70.871483,
+    42.888177
+],
+  "geometry": {"coordinates":[-70.871483,42.888177],"type":"Point"}
+}

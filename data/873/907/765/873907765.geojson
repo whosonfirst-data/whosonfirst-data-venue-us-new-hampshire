@@ -1,0 +1,75 @@
+{
+  "id": 873907765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555653,42.89756,-71.555653,42.89756",
+    "geom:latitude":42.89756,
+    "geom:longitude":-71.555653,
+    "iso:country":"US",
+    "sg:address":"39 Woodward Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 4608",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ReqxL33vSsKjDONkSEuj2_42.897560_-71.555653@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299972,
+    "wof:geomhash":"cb44f6250516f7bab0c4aaa4e6f2a2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873907765
+        }
+    ],
+    "wof:id":873907765,
+    "wof:lastmodified":1464299972,
+    "wof:name":"Hill Brothers Painting",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -71.555653,
+    42.89756,
+    -71.555653,
+    42.89756
+],
+  "geometry": {"coordinates":[-71.55565300000001,42.89756],"type":"Point"}
+}

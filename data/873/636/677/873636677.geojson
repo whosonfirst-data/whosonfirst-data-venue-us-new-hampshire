@@ -1,0 +1,71 @@
+{
+  "id": 873636677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.080661,43.030654,-71.080661,43.030654",
+    "geom:latitude":43.030654,
+    "geom:longitude":-71.080661,
+    "iso:country":"US",
+    "sg:address":"104 Railroad Ave",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2889",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O6eOzScHSMIiNchOjE6DK_43.030654_-71.080661@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295437,
+    "wof:geomhash":"71235e59096feae3e79296875046634d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873636677
+        }
+    ],
+    "wof:id":873636677,
+    "wof:lastmodified":1464295437,
+    "wof:name":"Morgan's Towing & Repair",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.080661,
+    43.030654,
+    -71.080661,
+    43.030654
+],
+  "geometry": {"coordinates":[-71.08066100000001,43.030654],"type":"Point"}
+}

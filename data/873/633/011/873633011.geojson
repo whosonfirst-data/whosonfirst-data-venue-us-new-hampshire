@@ -1,0 +1,73 @@
+{
+  "id": 873633011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195526,44.479635,-71.195526,44.479635",
+    "geom:latitude":44.479635,
+    "geom:longitude":-71.195526,
+    "iso:country":"US",
+    "sg:address":"43 Jericho Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3457",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WOSViXXqRqzyuQTFfNByX_44.479635_-71.195526@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295400,
+    "wof:geomhash":"668940955a1d8f27cd5723e8a6c9b2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873633011
+        }
+    ],
+    "wof:id":873633011,
+    "wof:lastmodified":1464295400,
+    "wof:name":"LA Casse Paving & Construction",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.195526,
+    44.479635,
+    -71.195526,
+    44.479635
+],
+  "geometry": {"coordinates":[-71.195526,44.479635],"type":"Point"}
+}

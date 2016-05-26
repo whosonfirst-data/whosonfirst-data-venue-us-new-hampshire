@@ -1,0 +1,75 @@
+{
+  "id": 873548527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.980158,43.277657,-70.980158,43.277657",
+    "geom:latitude":43.277657,
+    "geom:longitude":-70.980158,
+    "iso:country":"US",
+    "sg:address":"74 Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 7598",
+    "sg:postcode":"03839",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526443,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tAxuMObvvFdcEXdn0BcJm_43.277657_-70.980158@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294362,
+    "wof:geomhash":"1583d0697d295a171a0778f55ab32dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":420526443,
+            "region_id":85688689,
+            "venue_id":873548527
+        }
+    ],
+    "wof:id":873548527,
+    "wof:lastmodified":1464294362,
+    "wof:name":"Gonic Fire Station",
+    "wof:parent_id":420526443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -70.980158,
+    43.277657,
+    -70.980158,
+    43.277657
+],
+  "geometry": {"coordinates":[-70.980158,43.277657],"type":"Point"}
+}

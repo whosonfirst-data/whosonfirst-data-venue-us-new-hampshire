@@ -1,0 +1,73 @@
+{
+  "id": 873765545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.172165,44.386075,-71.172165,44.386075",
+    "geom:latitude":44.386075,
+    "geom:longitude":-71.172165,
+    "iso:country":"US",
+    "sg:address":"10 Washington St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5078",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heavy",
+        "crane",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RRn8OldiISqtci1hGMXAB_44.386075_-71.172165@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297305,
+    "wof:geomhash":"69f95b022fa718b649d33e299b0306c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873765545
+        }
+    ],
+    "wof:id":873765545,
+    "wof:lastmodified":1464297305,
+    "wof:name":"Taillon Crane Service Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "crane",
+        "lease"
+    ]
+},
+  "bbox": [
+    -71.172165,
+    44.386075,
+    -71.172165,
+    44.386075
+],
+  "geometry": {"coordinates":[-71.17216500000001,44.386075],"type":"Point"}
+}

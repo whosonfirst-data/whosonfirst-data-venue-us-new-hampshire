@@ -1,0 +1,71 @@
+{
+  "id": 873810809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349976,43.212472,-71.349976,43.212472",
+    "geom:latitude":43.212472,
+    "geom:longitude":-71.349976,
+    "iso:country":"US",
+    "sg:address":"54 Towle Pasture Dr",
+    "sg:city":"Epsom",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 736 4684",
+    "sg:postcode":"03234",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836729,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BZSUhkB6ivSUPEVLxF22f_43.212472_-71.349976@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297941,
+    "wof:geomhash":"0e37306e75232e312058ad01ec96290e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85836729,
+            "region_id":85688689,
+            "venue_id":873810809
+        }
+    ],
+    "wof:id":873810809,
+    "wof:lastmodified":1464297941,
+    "wof:name":"First Choice Electric",
+    "wof:parent_id":85836729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.349976,
+    43.212472,
+    -71.349976,
+    43.212472
+],
+  "geometry": {"coordinates":[-71.349976,43.212472],"type":"Point"}
+}

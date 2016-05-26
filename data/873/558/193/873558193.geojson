@@ -1,0 +1,75 @@
+{
+  "id": 873558193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446835,43.531269,-71.446835,43.531269",
+    "geom:latitude":43.531269,
+    "geom:longitude":-71.446835,
+    "iso:country":"US",
+    "sg:address":"48 Bedford Ave",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0604",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wtsKdRj2CZwpYQwZM4jYp_43.531269_-71.446835@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294474,
+    "wof:geomhash":"6864785268445ec369a1a2342b724db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873558193
+        }
+    ],
+    "wof:id":873558193,
+    "wof:lastmodified":1464294474,
+    "wof:name":"First Class Tile",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.446835,
+    43.531269,
+    -71.446835,
+    43.531269
+],
+  "geometry": {"coordinates":[-71.44683499999999,43.531269],"type":"Point"}
+}

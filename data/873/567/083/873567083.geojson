@@ -1,0 +1,77 @@
+{
+  "id": 873567083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.013426,43.95807,-71.013426,43.95807",
+    "geom:latitude":43.95807,
+    "geom:longitude":-71.013426,
+    "iso:country":"US",
+    "sg:address":"1440 Brownfield Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5687",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849571,
+        102086581,
+        85816185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YcEnOM154DTXltC1sggJr_43.958070_-71.013426@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294576,
+    "wof:geomhash":"cc2dd2af9db1ed7b51548ea848c479a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85849571,
+            "region_id":85688689,
+            "venue_id":873567083
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816185,
+            "region_id":85688689,
+            "venue_id":873567083
+        }
+    ],
+    "wof:id":873567083,
+    "wof:lastmodified":1464294576,
+    "wof:name":"Bruce M Hatch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.013426,
+    43.95807,
+    -71.013426,
+    43.95807
+],
+  "geometry": {"coordinates":[-71.013426,43.95807],"type":"Point"}
+}

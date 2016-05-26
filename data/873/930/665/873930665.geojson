@@ -1,0 +1,71 @@
+{
+  "id": 873930665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.05908,43.995105,-71.05908,43.995105",
+    "geom:latitude":43.995105,
+    "geom:longitude":-71.05908,
+    "iso:country":"US",
+    "sg:address":"1707 E Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2000",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mKOU5YKuCcTsNWfYpSQF2_43.995105_-71.059080@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300424,
+    "wof:geomhash":"14f3ceb336767191f5a757af9a4f8e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930665
+        }
+    ],
+    "wof:id":873930665,
+    "wof:lastmodified":1464300424,
+    "wof:name":"Tails Required",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.05908,
+    43.995105,
+    -71.05908,
+    43.995105
+],
+  "geometry": {"coordinates":[-71.05907999999999,43.995105],"type":"Point"}
+}

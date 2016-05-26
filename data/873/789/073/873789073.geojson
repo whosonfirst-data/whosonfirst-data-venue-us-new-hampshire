@@ -1,0 +1,75 @@
+{
+  "id": 873789073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.277475,42.928193,-72.277475,42.928193",
+    "geom:latitude":42.928193,
+    "geom:longitude":-72.277475,
+    "iso:country":"US",
+    "sg:address":"226 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 0604",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BXSZjNn2FCHOlhmnekKQt_42.928193_-72.277475@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297629,
+    "wof:geomhash":"6ed000c9eff13628eb30d5d300928cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873789073
+        }
+    ],
+    "wof:id":873789073,
+    "wof:lastmodified":1464297629,
+    "wof:name":"John M Croteau DDS",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.277475,
+    42.928193,
+    -72.277475,
+    42.928193
+],
+  "geometry": {"coordinates":[-72.277475,42.928193],"type":"Point"}
+}

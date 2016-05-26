@@ -1,0 +1,71 @@
+{
+  "id": 873613309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209033,43.851452,-71.209033,43.851452",
+    "geom:latitude":43.851452,
+    "geom:longitude":-71.209033,
+    "iso:country":"US",
+    "sg:address":"134 Maple Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 8369",
+    "sg:postcode":"03817",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55vXtnfYAfhXdrsHPaKWNz_43.851452_-71.209033@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295179,
+    "wof:geomhash":"a181e99d78c8b545713e5a9947b47dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873613309
+        }
+    ],
+    "wof:id":873613309,
+    "wof:lastmodified":1464295179,
+    "wof:name":"Center Of Hope",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -71.209033,
+    43.851452,
+    -71.209033,
+    43.851452
+],
+  "geometry": {"coordinates":[-71.20903300000001,43.851452],"type":"Point"}
+}

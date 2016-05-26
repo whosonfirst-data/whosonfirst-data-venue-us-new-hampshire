@@ -1,0 +1,73 @@
+{
+  "id": 873672511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.850339,43.193445,-71.850339,43.193445",
+    "geom:latitude":43.193445,
+    "geom:longitude":-71.850339,
+    "iso:country":"US",
+    "sg:address":"24 Liberty Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3046",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GASvnK8q9KgJSm9Pn0niR_43.193445_-71.850339@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295826,
+    "wof:geomhash":"733436725ec3aa38def445ac6879613f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873672511
+        }
+    ],
+    "wof:id":873672511,
+    "wof:lastmodified":1464295826,
+    "wof:name":"Three-Way Construction",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.850339,
+    43.193445,
+    -71.850339,
+    43.193445
+],
+  "geometry": {"coordinates":[-71.85033900000001,43.193445],"type":"Point"}
+}

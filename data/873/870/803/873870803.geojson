@@ -1,0 +1,71 @@
+{
+  "id": 873870803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409823,42.890298,-71.409823,42.890298",
+    "geom:latitude":42.890298,
+    "geom:longitude":-71.409823,
+    "iso:country":"US",
+    "sg:address":"294 High Range Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 2343",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steam",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hKXtQPhBUQIjkvkLkmigq_42.890298_-71.409823@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299238,
+    "wof:geomhash":"af8e8cbe8378ff20948979d0acee24d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873870803
+        }
+    ],
+    "wof:id":873870803,
+    "wof:lastmodified":1464299238,
+    "wof:name":"A-1 Steam Cleaning Inc",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steam",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -71.409823,
+    42.890298,
+    -71.409823,
+    42.890298
+],
+  "geometry": {"coordinates":[-71.409823,42.890298],"type":"Point"}
+}

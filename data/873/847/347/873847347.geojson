@@ -1,0 +1,73 @@
+{
+  "id": 873847347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770918,44.390077,-71.770918,44.390077",
+    "geom:latitude":44.390077,
+    "geom:longitude":-71.770918,
+    "iso:country":"US",
+    "sg:address":"1987 N Littleton Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2094",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BsgdZifOKjJF6tt8t1D6A_44.390077_-71.770918@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298746,
+    "wof:geomhash":"056039bbef0b5acf9a445f1fb45f39e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873847347
+        }
+    ],
+    "wof:id":873847347,
+    "wof:lastmodified":1464298746,
+    "wof:name":"Whiting's Rubbish Removal",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.770918,
+    44.390077,
+    -71.770918,
+    44.390077
+],
+  "geometry": {"coordinates":[-71.77091799999999,44.390077],"type":"Point"}
+}

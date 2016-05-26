@@ -1,0 +1,77 @@
+{
+  "id": 873586201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.319221,42.875801,-71.319221,42.875801",
+    "geom:latitude":42.875801,
+    "geom:longitude":-71.319221,
+    "iso:country":"US",
+    "sg:address":"7 Fairview Ave",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 2525",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eS0Pg3nCMGqOK4yR7wrBu_42.875801_-71.319221@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294787,
+    "wof:geomhash":"fb317f61c9be96a8dec5aac80fb7e059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873586201
+        }
+    ],
+    "wof:id":873586201,
+    "wof:lastmodified":1464294787,
+    "wof:name":"Howell Plumbing & Heating Co",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.319221,
+    42.875801,
+    -71.319221,
+    42.875801
+],
+  "geometry": {"coordinates":[-71.319221,42.875801],"type":"Point"}
+}

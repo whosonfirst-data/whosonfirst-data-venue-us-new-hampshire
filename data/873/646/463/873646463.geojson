@@ -1,0 +1,71 @@
+{
+  "id": 873646463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.009816,42.815332,-72.009816,42.815332",
+    "geom:latitude":42.815332,
+    "geom:longitude":-72.009816,
+    "iso:country":"US",
+    "sg:address":"43 Hillcrest Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8797",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnD5yXGFOAMxTtFEdujqy_42.815332_-72.009816@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295551,
+    "wof:geomhash":"de3bcd2189575f17bdc9c24e0021bb9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873646463
+        }
+    ],
+    "wof:id":873646463,
+    "wof:lastmodified":1464295551,
+    "wof:name":"Lloyd Wyman",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.009816,
+    42.815332,
+    -72.009816,
+    42.815332
+],
+  "geometry": {"coordinates":[-72.009816,42.815332],"type":"Point"}
+}

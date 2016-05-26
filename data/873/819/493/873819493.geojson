@@ -1,0 +1,71 @@
+{
+  "id": 873819493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509885,43.672119,-71.509885,43.672119",
+    "geom:latitude":43.672119,
+    "geom:longitude":-71.509885,
+    "iso:country":"US",
+    "sg:address":"17 Jenness Hill Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8480",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816433,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MAdXizOtIhEb4aUBTGXLW_43.672119_-71.509885@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298109,
+    "wof:geomhash":"0a3a85418e5ace790d7f4b056148d474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85816433,
+            "region_id":85688689,
+            "venue_id":873819493
+        }
+    ],
+    "wof:id":873819493,
+    "wof:lastmodified":1464298109,
+    "wof:name":"Meredith Solid Waste Facility",
+    "wof:parent_id":85816433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.509885,
+    43.672119,
+    -71.509885,
+    43.672119
+],
+  "geometry": {"coordinates":[-71.509885,43.672119],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873684845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.93725,43.077785,-70.93725,43.077785",
+    "geom:latitude":43.077785,
+    "geom:longitude":-70.93725,
+    "iso:country":"US",
+    "sg:address":"172 Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3334",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZomnSnIz3UasPzths0E46_43.077785_-70.937250@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296133,
+    "wof:geomhash":"16851ec754d6be583de748f71ad179da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873684845
+        }
+    ],
+    "wof:id":873684845,
+    "wof:lastmodified":1464296133,
+    "wof:name":"Newmarket Fire Dept",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -70.93725,
+    43.077785,
+    -70.93725,
+    43.077785
+],
+  "geometry": {"coordinates":[-70.93725000000001,43.077785],"type":"Point"}
+}

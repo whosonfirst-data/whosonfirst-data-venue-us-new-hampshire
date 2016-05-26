@@ -1,0 +1,73 @@
+{
+  "id": 873829919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.872543,42.89186,-70.872543,42.89186",
+    "geom:latitude":42.89186,
+    "geom:longitude":-70.872543,
+    "iso:country":"US",
+    "sg:address":"609 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 8727",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DPWKRogzqqYCzguFTBvYf_42.891860_-70.872543@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298330,
+    "wof:geomhash":"700bffa4e9399160fddfa4517336c919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873829919
+        }
+    ],
+    "wof:id":873829919,
+    "wof:lastmodified":1464298330,
+    "wof:name":"Imperial Custom Paint-Fender",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.872543,
+    42.89186,
+    -70.872543,
+    42.89186
+],
+  "geometry": {"coordinates":[-70.87254299999999,42.89186],"type":"Point"}
+}

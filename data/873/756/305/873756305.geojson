@@ -1,0 +1,71 @@
+{
+  "id": 873756305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.184866,44.391701,-71.184866,44.391701",
+    "geom:latitude":44.391701,
+    "geom:longitude":-71.184866,
+    "iso:country":"US",
+    "sg:address":"212 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2324",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nZ6nduvkPwaeL25B0tyxj_44.391701_-71.184866@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297160,
+    "wof:geomhash":"7dfd5fbc82df465e4631cdf18dee1a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873756305
+        }
+    ],
+    "wof:id":873756305,
+    "wof:lastmodified":1464297160,
+    "wof:name":"Vac Shop",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -71.184866,
+    44.391701,
+    -71.184866,
+    44.391701
+],
+  "geometry": {"coordinates":[-71.184866,44.391701],"type":"Point"}
+}

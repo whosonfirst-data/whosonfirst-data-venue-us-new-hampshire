@@ -1,0 +1,73 @@
+{
+  "id": 873839689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431496,43.20869,-71.431496,43.20869",
+    "geom:latitude":43.20869,
+    "geom:longitude":-71.431496,
+    "iso:country":"US",
+    "sg:address":"502 N Pembroke Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 5491",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UPPLgNSldhgS73F3qc6BS_43.208690_-71.431496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298545,
+    "wof:geomhash":"af43908223487998e8613867920668f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873839689
+        }
+    ],
+    "wof:id":873839689,
+    "wof:lastmodified":1464298545,
+    "wof:name":"Rick Bagley Contracting",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -71.431496,
+    43.20869,
+    -71.431496,
+    43.20869
+],
+  "geometry": {"coordinates":[-71.431496,43.20869],"type":"Point"}
+}

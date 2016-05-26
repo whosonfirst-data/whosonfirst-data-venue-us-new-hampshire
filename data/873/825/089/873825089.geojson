@@ -1,0 +1,73 @@
+{
+  "id": 873825089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429675,42.760391,-71.429675,42.760391",
+    "geom:latitude":42.760391,
+    "geom:longitude":-71.429675,
+    "iso:country":"US",
+    "sg:address":"6 Able St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 8013",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "assembly",
+        "cable",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51dS7lSTQ78iOdh6jbm9DR_42.760391_-71.429675@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298234,
+    "wof:geomhash":"c2db8a5d27f72217760977019feca64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873825089
+        }
+    ],
+    "wof:id":873825089,
+    "wof:lastmodified":1464298234,
+    "wof:name":"I T C",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "cable",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.429675,
+    42.760391,
+    -71.429675,
+    42.760391
+],
+  "geometry": {"coordinates":[-71.429675,42.760391],"type":"Point"}
+}

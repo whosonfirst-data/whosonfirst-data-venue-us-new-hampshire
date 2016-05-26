@@ -1,0 +1,71 @@
+{
+  "id": 873863031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.747957,43.316921,-71.747957,43.316921",
+    "geom:latitude":43.316921,
+    "geom:longitude":-71.747957,
+    "iso:country":"US",
+    "sg:address":"12 Lake Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 648 6614",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6stOIOrJrgZp4d1SpwUDa8_43.316921_-71.747957@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299096,
+    "wof:geomhash":"8195d5e518ba1d0ba78bd99851f43245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873863031
+        }
+    ],
+    "wof:id":873863031,
+    "wof:lastmodified":1464299096,
+    "wof:name":"Simply Divine",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.747957,
+    43.316921,
+    -71.747957,
+    43.316921
+],
+  "geometry": {"coordinates":[-71.747957,43.316921],"type":"Point"}
+}

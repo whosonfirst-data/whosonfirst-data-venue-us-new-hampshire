@@ -1,0 +1,69 @@
+{
+  "id": 873927329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233902,43.309502,-71.233902,43.309502",
+    "geom:latitude":43.309502,
+    "geom:longitude":-71.233902,
+    "iso:country":"US",
+    "sg:address":"99 John Tasker Rd",
+    "sg:city":"Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 269 4346",
+    "sg:postcode":"03218",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849429,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G5gp4D2tQir8s7cWqPdZ0_43.309502_-71.233902@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300351,
+    "wof:geomhash":"8bf4043e345c9c77d61c60287bceb1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85849429,
+            "region_id":85688689,
+            "venue_id":873927329
+        }
+    ],
+    "wof:id":873927329,
+    "wof:lastmodified":1464300351,
+    "wof:name":"K L Ranch",
+    "wof:parent_id":85849429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.233902,
+    43.309502,
+    -71.233902,
+    43.309502
+],
+  "geometry": {"coordinates":[-71.233902,43.309502],"type":"Point"}
+}

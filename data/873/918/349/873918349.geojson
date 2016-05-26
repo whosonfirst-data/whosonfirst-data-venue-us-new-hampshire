@@ -1,0 +1,78 @@
+{
+  "id": 873918349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.3241,43.62631,-72.3241,43.62631",
+    "geom:latitude":43.62631,
+    "geom:longitude":-72.3241,
+    "iso:country":"US",
+    "sg:address":"263 Plainfield Rd",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/lebanon/240796-weathervane-seafood-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 7805",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qDikG96PQVe0Vrq9SHDQE_43.626310_-72.324100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300183,
+    "wof:geomhash":"f185036cbf448ce1f44139962067f500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873918349
+        }
+    ],
+    "wof:id":873918349,
+    "wof:lastmodified":1464300183,
+    "wof:name":"Weathervane Seafood Restaurant",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.3241,
+    43.62631,
+    -72.3241,
+    43.62631
+],
+  "geometry": {"coordinates":[-72.3241,43.62631],"type":"Point"}
+}

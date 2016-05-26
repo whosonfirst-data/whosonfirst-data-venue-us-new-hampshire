@@ -1,0 +1,71 @@
+{
+  "id": 873576179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.685864,44.02942,-71.685864,44.02942",
+    "geom:latitude":44.02942,
+    "geom:longitude":-71.685864,
+    "iso:country":"US",
+    "sg:address":"55 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 3164",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56bEmsiwfwBBDutNEBMBzq_44.029420_-71.685864@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294675,
+    "wof:geomhash":"4107879bb9fe52b92a56d58b7f973c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873576179
+        }
+    ],
+    "wof:id":873576179,
+    "wof:lastmodified":1464294675,
+    "wof:name":"Ski & Bike Warehouse",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -71.685864,
+    44.02942,
+    -71.685864,
+    44.02942
+],
+  "geometry": {"coordinates":[-71.685864,44.02942],"type":"Point"}
+}

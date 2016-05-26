@@ -1,0 +1,69 @@
+{
+  "id": 873680357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175277,43.207936,-71.175277,43.207936",
+    "geom:latitude":43.207936,
+    "geom:longitude":-71.175277,
+    "iso:country":"US",
+    "sg:address":"499 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 9103",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C2BFYAt2cETqdpHJ9Yza7_43.207936_-71.175277@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296006,
+    "wof:geomhash":"1f31d7014bcceeca7a91b9de7ef3c482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873680357
+        }
+    ],
+    "wof:id":873680357,
+    "wof:lastmodified":1464296006,
+    "wof:name":"Northwood Fire Station",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.175277,
+    43.207936,
+    -71.175277,
+    43.207936
+],
+  "geometry": {"coordinates":[-71.17527699999999,43.207936],"type":"Point"}
+}

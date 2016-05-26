@@ -1,0 +1,69 @@
+{
+  "id": 873596567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.871049,42.887331,-70.871049,42.887331",
+    "geom:latitude":42.887331,
+    "geom:longitude":-70.871049,
+    "iso:country":"US",
+    "sg:address":"441 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 5253",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Neot38Keb1sf6f1GiBPWP_42.887331_-70.871049@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294938,
+    "wof:geomhash":"26fea77e70b5834df86641ec78d13ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873596567
+        }
+    ],
+    "wof:id":873596567,
+    "wof:lastmodified":1464294938,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -70.871049,
+    42.887331,
+    -70.871049,
+    42.887331
+],
+  "geometry": {"coordinates":[-70.871049,42.887331],"type":"Point"}
+}

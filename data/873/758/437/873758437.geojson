@@ -1,0 +1,71 @@
+{
+  "id": 873758437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466484,43.532843,-71.466484,43.532843",
+    "geom:latitude":43.532843,
+    "geom:longitude":-71.466484,
+    "iso:country":"US",
+    "sg:address":"66 Davis Pl",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3488",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S18r6gf2bEL9LfCCAAlen_43.532843_-71.466484@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297188,
+    "wof:geomhash":"c153bbaf78bd5b15fc597905234bd8b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873758437
+        }
+    ],
+    "wof:id":873758437,
+    "wof:lastmodified":1464297188,
+    "wof:name":"Maggie's Taxi",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.466484,
+    43.532843,
+    -71.466484,
+    43.532843
+],
+  "geometry": {"coordinates":[-71.46648399999999,43.532843],"type":"Point"}
+}

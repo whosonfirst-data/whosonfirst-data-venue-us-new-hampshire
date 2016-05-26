@@ -1,0 +1,71 @@
+{
+  "id": 873759521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198332,42.818172,-71.198332,42.818172",
+    "geom:latitude":42.818172,
+    "geom:longitude":-71.198332,
+    "iso:country":"US",
+    "sg:address":"205 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 1206",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UJsnxSSO1HmS1SdPY6MAz_42.818172_-71.198332@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297201,
+    "wof:geomhash":"6bcaf73a23567edc73daec724f89272b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873759521
+        }
+    ],
+    "wof:id":873759521,
+    "wof:lastmodified":1464297201,
+    "wof:name":"J D Newton Landscape",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.198332,
+    42.818172,
+    -71.198332,
+    42.818172
+],
+  "geometry": {"coordinates":[-71.19833199999999,42.818172],"type":"Point"}
+}

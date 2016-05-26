@@ -1,0 +1,70 @@
+{
+  "id": 873741215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.140127,43.378085,-72.140127,43.378085",
+    "geom:latitude":43.378085,
+    "geom:longitude":-72.140127,
+    "iso:country":"US",
+    "sg:address":"16 Hale St",
+    "sg:city":"Guild",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 5527",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837859,
+        102191575,
+        404477077,
+        85633793,
+        85975187,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qo1PL2WFnhKJ5Dbeiqt16_43.378085_-72.140127@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296940,
+    "wof:geomhash":"c82cad447c7fa2877005349ee4ae01f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477077,
+            "locality_id":85975187,
+            "neighbourhood_id":85837859,
+            "region_id":85688689,
+            "venue_id":873741215
+        }
+    ],
+    "wof:id":873741215,
+    "wof:lastmodified":1464296940,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85837859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.140127,
+    43.378085,
+    -72.140127,
+    43.378085
+],
+  "geometry": {"coordinates":[-72.14012700000001,43.378085],"type":"Point"}
+}

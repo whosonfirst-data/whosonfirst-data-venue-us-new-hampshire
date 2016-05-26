@@ -1,0 +1,74 @@
+{
+  "id": 873811343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575832,44.49744,-71.575832,44.49744",
+    "geom:latitude":44.49744,
+    "geom:longitude":-71.575832,
+    "iso:country":"US",
+    "sg:address":"130 N Main St",
+    "sg:city":"Lisbon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 838 6624",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.neewc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TOtd0P9RWR1M5W4CZyjqX_44.497440_-71.575832@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297950,
+    "wof:geomhash":"297a94043c0f6bd1be45f9afe24372bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873811343
+        }
+    ],
+    "wof:id":873811343,
+    "wof:lastmodified":1464297950,
+    "wof:name":"New England Wire Technologies",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.575832,
+    44.49744,
+    -71.575832,
+    44.49744
+],
+  "geometry": {"coordinates":[-71.57583200000001,44.49744],"type":"Point"}
+}

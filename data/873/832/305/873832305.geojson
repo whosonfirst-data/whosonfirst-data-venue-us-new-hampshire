@@ -1,0 +1,73 @@
+{
+  "id": 873832305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.753791,43.060694,-70.753791,43.060694",
+    "geom:latitude":43.060694,
+    "geom:longitude":-70.753791,
+    "iso:country":"US",
+    "sg:address":"635 Sagamore Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8233",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zi9xu2zSIreUOeH5vMsqI_43.060694_-70.753791@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298383,
+    "wof:geomhash":"1da1539abc0e799b7c9f448feabb0e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873832305
+        }
+    ],
+    "wof:id":873832305,
+    "wof:lastmodified":1464298383,
+    "wof:name":"Luster King",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -70.753791,
+    43.060694,
+    -70.753791,
+    43.060694
+],
+  "geometry": {"coordinates":[-70.75379100000001,43.060694],"type":"Point"}
+}

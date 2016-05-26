@@ -1,0 +1,73 @@
+{
+  "id": 873915191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.898811,43.04068,-70.898811,43.04068",
+    "geom:latitude":43.04068,
+    "geom:longitude":-70.898811,
+    "iso:country":"US",
+    "sg:address":"248 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 2865",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing-drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LSaEi0jE1928NaHpvnnln_43.040927_-70.898130@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300112,
+    "wof:geomhash":"8514f11d0b99f45d2515460655d0430e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873915191
+        }
+    ],
+    "wof:id":873915191,
+    "wof:lastmodified":1464300112,
+    "wof:name":"Greg's Septic Service",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing-drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -70.898811,
+    43.04068,
+    -70.898811,
+    43.04068
+],
+  "geometry": {"coordinates":[-70.89881099999999,43.04068],"type":"Point"}
+}

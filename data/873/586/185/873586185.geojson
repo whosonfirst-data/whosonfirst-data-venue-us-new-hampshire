@@ -1,0 +1,73 @@
+{
+  "id": 873586185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276645,42.888381,-71.276645,42.888381",
+    "geom:latitude":42.888381,
+    "geom:longitude":-71.276645,
+    "iso:country":"US",
+    "sg:address":"32 Warner Hill Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 3854",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HNzWmB8CwymmloOdPWDfX_42.888381_-71.276645@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294786,
+    "wof:geomhash":"a297375c27380c605a0946b264b2f6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873586185
+        }
+    ],
+    "wof:id":873586185,
+    "wof:lastmodified":1464294786,
+    "wof:name":"Wise Knoll Farm",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.276645,
+    42.888381,
+    -71.276645,
+    42.888381
+],
+  "geometry": {"coordinates":[-71.276645,42.888381],"type":"Point"}
+}

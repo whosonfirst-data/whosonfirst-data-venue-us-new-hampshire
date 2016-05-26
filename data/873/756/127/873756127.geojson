@@ -1,0 +1,71 @@
+{
+  "id": 873756127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432538,43.509163,-71.432538,43.509163",
+    "geom:latitude":43.509163,
+    "geom:longitude":-71.432538,
+    "iso:country":"US",
+    "sg:address":"146 Cotton Hill Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3582",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YWGVLi9ibqTCHAvTTuxJJ_43.509163_-71.432538@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297158,
+    "wof:geomhash":"d9adba3183322bb4f064f0cbbedf42b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873756127
+        }
+    ],
+    "wof:id":873756127,
+    "wof:lastmodified":1464297158,
+    "wof:name":"Nancy A Kressin MD",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.432538,
+    43.509163,
+    -71.432538,
+    43.509163
+],
+  "geometry": {"coordinates":[-71.43253799999999,43.509163],"type":"Point"}
+}

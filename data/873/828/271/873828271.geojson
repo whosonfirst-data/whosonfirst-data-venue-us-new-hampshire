@@ -1,0 +1,78 @@
+{
+  "id": 873828271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581712,42.807778,-71.581712,42.807778",
+    "geom:latitude":42.807778,
+    "geom:longitude":-71.581712,
+    "iso:country":"US",
+    "sg:address":"13 Columbia Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 8650",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "distribution",
+        "sales",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A3DocK1CZQwUBE7P9HkGC_42.807778_-71.581712@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298300,
+    "wof:geomhash":"7f720d732ac86d377be2c55125afe8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873828271
+        }
+    ],
+    "wof:id":873828271,
+    "wof:lastmodified":1464298300,
+    "wof:name":"Serif Inc",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "sales",
+        "software"
+    ]
+},
+  "bbox": [
+    -71.581712,
+    42.807778,
+    -71.581712,
+    42.807778
+],
+  "geometry": {"coordinates":[-71.581712,42.807778],"type":"Point"}
+}

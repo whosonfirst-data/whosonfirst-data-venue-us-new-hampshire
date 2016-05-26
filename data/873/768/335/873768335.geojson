@@ -1,0 +1,71 @@
+{
+  "id": 873768335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.383548,43.519934,-72.383548,43.519934",
+    "geom:latitude":43.519934,
+    "geom:longitude":-72.383548,
+    "iso:country":"US",
+    "sg:address":"1498 State Rte 12",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 675 9000",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00AW9Fs07bOVp9VzN49D56_43.519934_-72.383548@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297342,
+    "wof:geomhash":"58d18507918d3b65277d21dae484f487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873768335
+        }
+    ],
+    "wof:id":873768335,
+    "wof:lastmodified":1464297342,
+    "wof:name":"Atlantic Motor Cars Svc",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.383548,
+    43.519934,
+    -72.383548,
+    43.519934
+],
+  "geometry": {"coordinates":[-72.383548,43.519934],"type":"Point"}
+}

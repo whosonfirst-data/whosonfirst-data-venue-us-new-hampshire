@@ -1,0 +1,71 @@
+{
+  "id": 873733227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.576768,43.135075,-71.576768,43.135075",
+    "geom:latitude":43.135075,
+    "geom:longitude":-71.576768,
+    "iso:country":"US",
+    "sg:address":"9 Clement Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8352",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44TYbv5Vt8dkMyqBxyZJ42_43.135075_-71.576768@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296818,
+    "wof:geomhash":"b2858934466876d177a1dbe0bc52f51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873733227
+        }
+    ],
+    "wof:id":873733227,
+    "wof:lastmodified":1464296818,
+    "wof:name":"Saltmarsh Electric",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.576768,
+    43.135075,
+    -71.576768,
+    43.135075
+],
+  "geometry": {"coordinates":[-71.576768,43.135075],"type":"Point"}
+}

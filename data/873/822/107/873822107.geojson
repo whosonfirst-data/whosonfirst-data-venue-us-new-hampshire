@@ -1,0 +1,71 @@
+{
+  "id": 873822107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.940662,43.074141,-70.940662,43.074141",
+    "geom:latitude":43.074141,
+    "geom:longitude":-70.940662,
+    "iso:country":"US",
+    "sg:address":"12 Moonlight Dr",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 8488",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wqQzG2iR7kqlS9qUKBoCY_43.074141_-70.940662@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298163,
+    "wof:geomhash":"49d9d2e099850756dd6f9f16acb56f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873822107
+        }
+    ],
+    "wof:id":873822107,
+    "wof:lastmodified":1464298163,
+    "wof:name":"Ring's Plumbing & Heating",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.940662,
+    43.074141,
+    -70.940662,
+    43.074141
+],
+  "geometry": {"coordinates":[-70.940662,43.074141],"type":"Point"}
+}

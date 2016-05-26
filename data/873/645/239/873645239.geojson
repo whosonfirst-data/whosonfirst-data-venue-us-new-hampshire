@@ -1,0 +1,73 @@
+{
+  "id": 873645239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.935308,43.081341,-70.935308,43.081341",
+    "geom:latitude":43.081341,
+    "geom:longitude":-70.935308,
+    "iso:country":"US",
+    "sg:address":"66 Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 8897",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oIxlWb7ClJqdMNVOYhrJk_43.081341_-70.935308@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295539,
+    "wof:geomhash":"85f574de9b0b7724137c2e1e1c5eaeb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873645239
+        }
+    ],
+    "wof:id":873645239,
+    "wof:lastmodified":1464295539,
+    "wof:name":"Riverdale Automotive Sales",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.935308,
+    43.081341,
+    -70.935308,
+    43.081341
+],
+  "geometry": {"coordinates":[-70.93530800000001,43.081341],"type":"Point"}
+}

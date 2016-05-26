@@ -1,0 +1,71 @@
+{
+  "id": 873603389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.735979,43.035685,-71.735979,43.035685",
+    "geom:latitude":43.035685,
+    "geom:longitude":-71.735979,
+    "iso:country":"US",
+    "sg:address":"323 Poor Farm Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 7905",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cZlux8EbXhmtnccCOx29Y_43.035685_-71.735979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295023,
+    "wof:geomhash":"9177dd6ea65f59e7121dff615b07ca83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873603389
+        }
+    ],
+    "wof:id":873603389,
+    "wof:lastmodified":1464295023,
+    "wof:name":"Poor Farm Construction Co",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.735979,
+    43.035685,
+    -71.735979,
+    43.035685
+],
+  "geometry": {"coordinates":[-71.735979,43.035685],"type":"Point"}
+}

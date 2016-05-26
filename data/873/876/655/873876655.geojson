@@ -1,0 +1,74 @@
+{
+  "id": 873876655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.221705,42.765814,-71.221705,42.765814",
+    "geom:latitude":42.765814,
+    "geom:longitude":-71.221705,
+    "iso:country":"US",
+    "sg:address":"2 Lancelot Ct",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5726",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aaJ18QR1r4Y2N0O6EgWkz_42.765814_-71.221705@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299365,
+    "wof:geomhash":"9192b2469020273fbcb0c06afc169769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873876655
+        }
+    ],
+    "wof:id":873876655,
+    "wof:lastmodified":1464299365,
+    "wof:name":"Lancelot Court Condominium Tr",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -71.221705,
+    42.765814,
+    -71.221705,
+    42.765814
+],
+  "geometry": {"coordinates":[-71.221705,42.765814],"type":"Point"}
+}

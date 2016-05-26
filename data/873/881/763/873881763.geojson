@@ -1,0 +1,71 @@
+{
+  "id": 873881763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.137249,43.974715,-71.137249,43.974715",
+    "geom:latitude":43.974715,
+    "geom:longitude":-71.137249,
+    "iso:country":"US",
+    "sg:address":"267 W Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5365",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3niX0fQWlvv0YSsrwEK5SM_43.974715_-71.137249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299465,
+    "wof:geomhash":"b8d67f22400216d4855003067f1b1f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873881763
+        }
+    ],
+    "wof:id":873881763,
+    "wof:lastmodified":1464299465,
+    "wof:name":"Yeaton's Electrical Svc",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.137249,
+    43.974715,
+    -71.137249,
+    43.974715
+],
+  "geometry": {"coordinates":[-71.137249,43.974715],"type":"Point"}
+}

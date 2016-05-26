@@ -1,0 +1,79 @@
+{
+  "id": 873754159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976811,43.316918,-70.976811,43.316918",
+    "geom:latitude":43.316918,
+    "geom:longitude":-70.976811,
+    "iso:country":"US",
+    "sg:address":"185 Wakefield St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2287",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oDwCmlN4sXO7cFCJp1Vk_43.316918_-70.976811@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297135,
+    "wof:geomhash":"59276b5f1fcd4e541c66986bfb929c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873754159
+        }
+    ],
+    "wof:id":873754159,
+    "wof:lastmodified":1464297135,
+    "wof:name":"Fisher's Auto Repair",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.976811,
+    43.316918,
+    -70.976811,
+    43.316918
+],
+  "geometry": {"coordinates":[-70.976811,43.316918],"type":"Point"}
+}

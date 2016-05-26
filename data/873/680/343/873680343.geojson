@@ -1,0 +1,73 @@
+{
+  "id": 873680343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648899,43.443748,-71.648899,43.443748",
+    "geom:latitude":43.443748,
+    "geom:longitude":-71.648899,
+    "iso:country":"US",
+    "sg:address":"354 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3125",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Gq4RAyuz0SQ1WMTulHMs_43.443748_-71.648899@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296005,
+    "wof:geomhash":"0433874744a1010fc8316e4f28c32866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873680343
+        }
+    ],
+    "wof:id":873680343,
+    "wof:lastmodified":1464296005,
+    "wof:name":"Pemigewasset National Bank",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -71.648899,
+    43.443748,
+    -71.648899,
+    43.443748
+],
+  "geometry": {"coordinates":[-71.648899,43.443748],"type":"Point"}
+}

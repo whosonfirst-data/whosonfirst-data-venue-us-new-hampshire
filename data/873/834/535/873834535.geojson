@@ -1,0 +1,69 @@
+{
+  "id": 873834535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.010566,42.876787,-71.010566,42.876787",
+    "geom:latitude":42.876787,
+    "geom:longitude":-71.010566,
+    "iso:country":"US",
+    "sg:address":"7 Brookside Ln",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 4707",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i5am2PBUIIrWyO7MBM4DY_42.876787_-71.010566@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298434,
+    "wof:geomhash":"7c97dc7936a354002e4c07850b1b8f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873834535
+        }
+    ],
+    "wof:id":873834535,
+    "wof:lastmodified":1464298434,
+    "wof:name":"Bd Plumbing",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.010566,
+    42.876787,
+    -71.010566,
+    42.876787
+],
+  "geometry": {"coordinates":[-71.010566,42.876787],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873891325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503163,42.782604,-71.503163,42.782604",
+    "geom:latitude":42.782604,
+    "geom:longitude":-71.503163,
+    "iso:country":"US",
+    "sg:address":"333 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 6800",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "truck",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZoTwximTQFkNE5qpn3vUu_42.782604_-71.503163@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299653,
+    "wof:geomhash":"6d2bedc3e1650867291af1b850e13d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873891325
+        }
+    ],
+    "wof:id":873891325,
+    "wof:lastmodified":1464299653,
+    "wof:name":"Hertz",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "truck",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.503163,
+    42.782604,
+    -71.503163,
+    42.782604
+],
+  "geometry": {"coordinates":[-71.503163,42.782604],"type":"Point"}
+}

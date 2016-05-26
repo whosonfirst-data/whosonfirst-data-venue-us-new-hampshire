@@ -1,0 +1,71 @@
+{
+  "id": 873773483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.79467,44.30853,-71.79467,44.30853",
+    "geom:latitude":44.30853,
+    "geom:longitude":-71.79467,
+    "iso:country":"US",
+    "sg:address":"387 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2448",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27J5m8GTjHbnknS43XwLMD_44.308530_-71.794670@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297407,
+    "wof:geomhash":"ee9277d3caf600a835e3ef02e14791f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873773483
+        }
+    ],
+    "wof:id":873773483,
+    "wof:lastmodified":1464297407,
+    "wof:name":"Dads Gas & Variety",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.79467,
+    44.30853,
+    -71.79467,
+    44.30853
+],
+  "geometry": {"coordinates":[-71.79467,44.30853],"type":"Point"}
+}

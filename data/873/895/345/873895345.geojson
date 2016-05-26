@@ -1,0 +1,71 @@
+{
+  "id": 873895345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.075878,42.981797,-71.075878,42.981797",
+    "geom:latitude":42.981797,
+    "geom:longitude":-71.075878,
+    "iso:country":"US",
+    "sg:address":"191 Crawley Falls Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 5990",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YqCAEvuyqzRhZG2p6mtk2_42.981797_-71.075878@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299727,
+    "wof:geomhash":"f22bfcd4cfa20c2609a56185a97202af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873895345
+        }
+    ],
+    "wof:id":873895345,
+    "wof:lastmodified":1464299727,
+    "wof:name":"Auto Electric Svc LLC",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -71.075878,
+    42.981797,
+    -71.075878,
+    42.981797
+],
+  "geometry": {"coordinates":[-71.075878,42.981797],"type":"Point"}
+}

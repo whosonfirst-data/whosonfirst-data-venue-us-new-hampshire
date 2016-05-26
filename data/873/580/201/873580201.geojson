@@ -1,0 +1,77 @@
+{
+  "id": 873580201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421131,43.593929,-71.421131,43.593929",
+    "geom:latitude":43.593929,
+    "geom:longitude":-71.421131,
+    "iso:country":"US",
+    "sg:address":"26 Robertson Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 3858",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qFZIe3JEsfaCkXVkyU3G7_43.593929_-71.421131@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294720,
+    "wof:geomhash":"8f5e5624c7ffbee192a623c6f606539c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873580201
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873580201
+        }
+    ],
+    "wof:id":873580201,
+    "wof:lastmodified":1464294720,
+    "wof:name":"Chem Data",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.421131,
+    43.593929,
+    -71.421131,
+    43.593929
+],
+  "geometry": {"coordinates":[-71.421131,43.593929],"type":"Point"}
+}

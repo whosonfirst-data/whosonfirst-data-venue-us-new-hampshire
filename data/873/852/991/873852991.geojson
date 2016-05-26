@@ -1,0 +1,71 @@
+{
+  "id": 873852991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446749,43.532229,-71.446749,43.532229",
+    "geom:latitude":43.532229,
+    "geom:longitude":-71.446749,
+    "iso:country":"US",
+    "sg:address":"35 Bedford Ave",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 9119",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cYc9Nhoxo0VlJuW4Joboy_43.532229_-71.446749@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298877,
+    "wof:geomhash":"ca866bae36ddd1d45fbdbfd7dfc3e9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873852991
+        }
+    ],
+    "wof:id":873852991,
+    "wof:lastmodified":1464298877,
+    "wof:name":"Bestcare Ambulance Svc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.446749,
+    43.532229,
+    -71.446749,
+    43.532229
+],
+  "geometry": {"coordinates":[-71.446749,43.532229],"type":"Point"}
+}

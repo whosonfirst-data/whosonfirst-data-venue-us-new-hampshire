@@ -1,0 +1,71 @@
+{
+  "id": 873618653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.75037,44.183205,-71.75037,44.183205",
+    "geom:latitude":44.183205,
+    "geom:longitude":-71.75037,
+    "iso:country":"US",
+    "sg:address":"145 Windago Ln",
+    "sg:city":"Franconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 823 5484",
+    "sg:postcode":"03580",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831491,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79x0LGDc8QlEw2OBPyNrPv_44.183205_-71.750370@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295237,
+    "wof:geomhash":"364fd4da4a19236e61c6a53175e3c0a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85831491,
+            "region_id":85688689,
+            "venue_id":873618653
+        }
+    ],
+    "wof:id":873618653,
+    "wof:lastmodified":1464295237,
+    "wof:name":"Wills Electric",
+    "wof:parent_id":85831491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.75037,
+    44.183205,
+    -71.75037,
+    44.183205
+],
+  "geometry": {"coordinates":[-71.75037,44.183205],"type":"Point"}
+}

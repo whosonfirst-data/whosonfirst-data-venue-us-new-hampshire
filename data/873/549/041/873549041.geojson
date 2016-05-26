@@ -1,0 +1,73 @@
+{
+  "id": 873549041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.29996,42.904153,-72.29996,42.904153",
+    "geom:latitude":42.904153,
+    "geom:longitude":-72.29996,
+    "iso:country":"US",
+    "sg:address":"111 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 8059",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "processing",
+        "slaughtering",
+        "meat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SqdiSJNcV75r8NgqkepLg_42.904153_-72.299960@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294367,
+    "wof:geomhash":"8cd608c66f539cd1bf1028f5d502b6d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873549041
+        }
+    ],
+    "wof:id":873549041,
+    "wof:lastmodified":1464294367,
+    "wof:name":"Stowells Meats",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "slaughtering",
+        "meat"
+    ]
+},
+  "bbox": [
+    -72.29996,
+    42.904153,
+    -72.29996,
+    42.904153
+],
+  "geometry": {"coordinates":[-72.29996,42.904153],"type":"Point"}
+}

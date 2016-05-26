@@ -1,0 +1,73 @@
+{
+  "id": 873671633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.839766,43.175517,-71.839766,43.175517",
+    "geom:latitude":43.175517,
+    "geom:longitude":-71.839766,
+    "iso:country":"US",
+    "sg:address":"11 Liberty Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 4259",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56WoWuFHNSiNpAl22m6PAK_43.175517_-71.839766@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295818,
+    "wof:geomhash":"fe7f76bac366a9eec7ef08df98955565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873671633
+        }
+    ],
+    "wof:id":873671633,
+    "wof:lastmodified":1464295818,
+    "wof:name":"Landry's Landscape & Design",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.839766,
+    43.175517,
+    -71.839766,
+    43.175517
+],
+  "geometry": {"coordinates":[-71.839766,43.175517],"type":"Point"}
+}

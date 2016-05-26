@@ -1,0 +1,69 @@
+{
+  "id": 873733791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.193227,42.911431,-72.193227,42.911431",
+    "geom:latitude":42.911431,
+    "geom:longitude":-72.193227,
+    "iso:country":"US",
+    "sg:address":"114 Roxbury Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4795",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YpTSrdIhDqJja7esEuFIg_42.911431_-72.193227@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296827,
+    "wof:geomhash":"d2078645f39d186c7e484b6673f1e488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873733791
+        }
+    ],
+    "wof:id":873733791,
+    "wof:lastmodified":1464296827,
+    "wof:name":"Marlborough Recycl Transf Stn",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -72.193227,
+    42.911431,
+    -72.193227,
+    42.911431
+],
+  "geometry": {"coordinates":[-72.19322699999999,42.911431],"type":"Point"}
+}

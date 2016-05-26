@@ -1,0 +1,73 @@
+{
+  "id": 873919825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.656799,42.726501,-71.656799,42.726501",
+    "geom:latitude":42.726501,
+    "geom:longitude":-71.656799,
+    "iso:country":"US",
+    "sg:address":"1 S Main St",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 8933",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GyDY59nzZRsmwZkTGcF54_42.726501_-71.656799@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"01b593f75e5f5fc47667a6122d8ca91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873919825
+        }
+    ],
+    "wof:id":873919825,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Town Of Brookline",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.656799,
+    42.726501,
+    -71.656799,
+    42.726501
+],
+  "geometry": {"coordinates":[-71.65679900000001,42.726501],"type":"Point"}
+}

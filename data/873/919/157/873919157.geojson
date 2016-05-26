@@ -1,0 +1,72 @@
+{
+  "id": 873919157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478478,42.970313,-71.478478,42.970313",
+    "geom:latitude":42.970313,
+    "geom:longitude":-71.478478,
+    "iso:country":"US",
+    "sg:address":"791 Second St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39710-clam-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 2868",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Boi8lyazWy0lW5gDiDqke_42.970180_-71.478640@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300197,
+    "wof:geomhash":"d0274a256774c55dd44061ddf7894903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873919157
+        }
+    ],
+    "wof:id":873919157,
+    "wof:lastmodified":1464300197,
+    "wof:name":"Clam King",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.478478,
+    42.970313,
+    -71.478478,
+    42.970313
+],
+  "geometry": {"coordinates":[-71.478478,42.970313],"type":"Point"}
+}

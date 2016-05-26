@@ -1,0 +1,79 @@
+{
+  "id": 873654269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42079,43.59561,-71.42079,43.59561",
+    "geom:latitude":43.59561,
+    "geom:longitude":-71.42079,
+    "iso:country":"US",
+    "sg:address":"235 Dockham Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 0446",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43zD7dknk5p6HA8dhne76h_43.595610_-71.420790@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295639,
+    "wof:geomhash":"0791fb7fff1a929a91d02dbf8b86045d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873654269
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873654269
+        }
+    ],
+    "wof:id":873654269,
+    "wof:lastmodified":1464295639,
+    "wof:name":"Ostrand Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.42079,
+    43.59561,
+    -71.42079,
+    43.59561
+],
+  "geometry": {"coordinates":[-71.42079,43.59561],"type":"Point"}
+}

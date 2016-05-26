@@ -1,0 +1,71 @@
+{
+  "id": 873877495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249872,42.771444,-71.249872,42.771444",
+    "geom:latitude":42.771444,
+    "geom:longitude":-71.249872,
+    "iso:country":"US",
+    "sg:address":"44 Stiles Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 3548",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mental",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33gaesUJADqNb4pDpRISpP_42.771444_-71.249872@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299386,
+    "wof:geomhash":"b7156ef1e474c8d915385abdcaf38caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873877495
+        }
+    ],
+    "wof:id":873877495,
+    "wof:lastmodified":1464299386,
+    "wof:name":"Clm Behavioral Health Systems",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.249872,
+    42.771444,
+    -71.249872,
+    42.771444
+],
+  "geometry": {"coordinates":[-71.249872,42.771444],"type":"Point"}
+}

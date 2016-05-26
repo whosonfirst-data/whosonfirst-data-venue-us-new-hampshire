@@ -1,0 +1,77 @@
+{
+  "id": 873910717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.949373,43.298634,-70.949373,43.298634",
+    "geom:latitude":43.298634,
+    "geom:longitude":-70.949373,
+    "iso:country":"US",
+    "sg:address":"62 Whitehall Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 3590",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816725,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ENXUo6MofgbJt4w1VzSq6_43.298634_-70.949373@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300026,
+    "wof:geomhash":"ff015c65e0470e49bb9f91910d79c3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":873910717
+        }
+    ],
+    "wof:id":873910717,
+    "wof:lastmodified":1464300026,
+    "wof:name":"Roberts Plumbing & Heating",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.949373,
+    43.298634,
+    -70.949373,
+    43.298634
+],
+  "geometry": {"coordinates":[-70.94937299999999,43.298634],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873780695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510178,43.190237,-71.510178,43.190237",
+    "geom:latitude":43.190237,
+    "geom:longitude":-71.510178,
+    "iso:country":"US",
+    "sg:address":"94 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 227 0550",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.autoservconcord.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3RNyxtiEB1l3QtyzgICz_43.190237_-71.510178@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297501,
+    "wof:geomhash":"bbe0f5992304274f5ab1b070cad1eb23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873780695
+        }
+    ],
+    "wof:id":873780695,
+    "wof:lastmodified":1464297501,
+    "wof:name":"Autoserv Of Concord",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.510178,
+    43.190237,
+    -71.510178,
+    43.190237
+],
+  "geometry": {"coordinates":[-71.510178,43.190237],"type":"Point"}
+}

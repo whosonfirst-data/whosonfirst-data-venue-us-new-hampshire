@@ -1,0 +1,71 @@
+{
+  "id": 873557175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.230735,42.776728,-71.230735,42.776728",
+    "geom:latitude":42.776728,
+    "geom:longitude":-71.230735,
+    "iso:country":"US",
+    "sg:address":"25 Pleasant St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 6876",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64SFYgXFmA1TapQMb6GRmN_42.776728_-71.230735@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"7fe579c54a1bbddf431878f5c9a05228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873557175
+        }
+    ],
+    "wof:id":873557175,
+    "wof:lastmodified":1464294462,
+    "wof:name":"T & M Lawn Care",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.230735,
+    42.776728,
+    -71.230735,
+    42.776728
+],
+  "geometry": {"coordinates":[-71.230735,42.776728],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873807065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.199458,44.396139,-71.199458,44.396139",
+    "geom:latitude":44.396139,
+    "geom:longitude":-71.199458,
+    "iso:country":"US",
+    "sg:address":"8 Center Ln",
+    "sg:city":"W Stewartstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 246 8830",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w3OsAZR1w6I59f7877tyA_44.396139_-71.199458@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297873,
+    "wof:geomhash":"76bce1eb56888b7863eb30edf2b1e3fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873807065
+        }
+    ],
+    "wof:id":873807065,
+    "wof:lastmodified":1464297873,
+    "wof:name":"D'Anjou's Body Shop",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.199458,
+    44.396139,
+    -71.199458,
+    44.396139
+],
+  "geometry": {"coordinates":[-71.19945800000001,44.396139],"type":"Point"}
+}

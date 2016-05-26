@@ -1,0 +1,71 @@
+{
+  "id": 873815577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.176565,44.465313,-71.176565,44.465313",
+    "geom:latitude":44.465313,
+    "geom:longitude":-71.176565,
+    "iso:country":"US",
+    "sg:address":"396 Champlain St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1144",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ctv0oJkiwRS1pPMmqPcNn_44.465313_-71.176565@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298025,
+    "wof:geomhash":"e8e6442a5c154cc43275b7bd93bfbbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873815577
+        }
+    ],
+    "wof:id":873815577,
+    "wof:lastmodified":1464298025,
+    "wof:name":"North Country Speech",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -71.176565,
+    44.465313,
+    -71.176565,
+    44.465313
+],
+  "geometry": {"coordinates":[-71.176565,44.465313],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873918375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.752255,43.076473,-70.752255,43.076473",
+    "geom:latitude":43.076473,
+    "geom:longitude":-70.752255,
+    "iso:country":"US",
+    "sg:address":"66 Marcy St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/268101-the-dunaway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 373 6112",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892305,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PdXRPh4Z8tlGDsOJ2orn8_43.076473_-70.752255@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300184,
+    "wof:geomhash":"2125bea707c52edb8ab65f387a1cd212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892305,
+            "region_id":85688689,
+            "venue_id":873918375
+        }
+    ],
+    "wof:id":873918375,
+    "wof:lastmodified":1464300184,
+    "wof:name":"The Dunaway",
+    "wof:parent_id":85892305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -70.752255,
+    43.076473,
+    -70.752255,
+    43.076473
+],
+  "geometry": {"coordinates":[-70.75225500000001,43.076473],"type":"Point"}
+}

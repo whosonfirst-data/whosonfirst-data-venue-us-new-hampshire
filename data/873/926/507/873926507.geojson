@@ -1,0 +1,81 @@
+{
+  "id": 873926507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.298342,42.803328,-71.298342,42.803328",
+    "geom:latitude":42.803328,
+    "geom:longitude":-71.298342,
+    "iso:country":"US",
+    "sg:address":"4 Fellows Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 5577",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.windhamnewhampshire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4goY1QCqrKKpm3BPvtGEOV_42.803328_-71.298342@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300337,
+    "wof:geomhash":"afdce7e82c143798f7e56311887828d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873926507
+        }
+    ],
+    "wof:id":873926507,
+    "wof:lastmodified":1464300337,
+    "wof:name":"Windham Police Dept",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.298342,
+    42.803328,
+    -71.298342,
+    42.803328
+],
+  "geometry": {"coordinates":[-71.29834200000001,42.803328],"type":"Point"}
+}

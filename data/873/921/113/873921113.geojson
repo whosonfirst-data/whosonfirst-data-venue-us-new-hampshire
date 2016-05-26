@@ -1,0 +1,79 @@
+{
+  "id": 873921113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398392,42.759029,-71.398392,42.759029",
+    "geom:latitude":42.759029,
+    "geom:longitude":-71.398392,
+    "iso:country":"US",
+    "sg:address":"52 Bush Hill Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 9664",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56OfDpcc9aZfhA4Q0wCVrn_42.759029_-71.398392@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300229,
+    "wof:geomhash":"344a7982c2eb04ca61446d43ceb26668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921113
+        }
+    ],
+    "wof:id":873921113,
+    "wof:lastmodified":1464300229,
+    "wof:name":"Willy's Alignment & Brake Shop",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame"
+    ]
+},
+  "bbox": [
+    -71.398392,
+    42.759029,
+    -71.398392,
+    42.759029
+],
+  "geometry": {"coordinates":[-71.398392,42.759029],"type":"Point"}
+}

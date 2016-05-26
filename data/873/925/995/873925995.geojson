@@ -1,0 +1,78 @@
+{
+  "id": 873925995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.229657,42.788985,-71.229657,42.788985",
+    "geom:latitude":42.788985,
+    "geom:longitude":-71.229657,
+    "iso:country":"US",
+    "sg:address":"16 Taylor St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 401 1906",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10jLIIUdzc45mIXviYBQI0_42.788985_-71.229657@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300326,
+    "wof:geomhash":"364fac252b780357262ad464836dc13d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925995
+        }
+    ],
+    "wof:id":873925995,
+    "wof:lastmodified":1464300326,
+    "wof:name":"Applebee's Home Improvement",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.229657,
+    42.788985,
+    -71.229657,
+    42.788985
+],
+  "geometry": {"coordinates":[-71.229657,42.788985],"type":"Point"}
+}

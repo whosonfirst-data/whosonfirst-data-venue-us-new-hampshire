@@ -1,0 +1,71 @@
+{
+  "id": 873761357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494712,42.961552,-71.494712,42.961552",
+    "geom:latitude":42.961552,
+    "geom:longitude":-71.494712,
+    "iso:country":"US",
+    "sg:address":"22 Seabee St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 396 3147",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V1E90DogCjaAkQcsZgIxr_42.961552_-71.494712@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297226,
+    "wof:geomhash":"a8417fd7582203219b2fa1e43b7701e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873761357
+        }
+    ],
+    "wof:id":873761357,
+    "wof:lastmodified":1464297226,
+    "wof:name":"Staples Construction LLC",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.494712,
+    42.961552,
+    -71.494712,
+    42.961552
+],
+  "geometry": {"coordinates":[-71.49471200000001,42.961552],"type":"Point"}
+}

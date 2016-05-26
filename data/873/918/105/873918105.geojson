@@ -1,0 +1,78 @@
+{
+  "id": 873918105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.294143,42.923776,-72.294143,42.923776",
+    "geom:latitude":42.923776,
+    "geom:longitude":-72.294143,
+    "iso:country":"US",
+    "sg:address":"85",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/183522-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3955",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_539GqX3b0Rruq84UylyU3s_42.923776_-72.294143@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300179,
+    "wof:geomhash":"2132373c16e4f4fc855fa1db88519d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873918105
+        }
+    ],
+    "wof:id":873918105,
+    "wof:lastmodified":1464300179,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.294143,
+    42.923776,
+    -72.294143,
+    42.923776
+],
+  "geometry": {"coordinates":[-72.29414300000001,42.923776],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873805247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.003714,42.868701,-71.003714,42.868701",
+    "geom:latitude":42.868701,
+    "geom:longitude":-71.003714,
+    "iso:country":"US",
+    "sg:address":"99 Amesbury Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 394 7699",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sAeF4oUYrj9cEjLdaDDLu_42.868701_-71.003714@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297838,
+    "wof:geomhash":"332ae2d35d7bf84d6d81926891fb2186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873805247
+        }
+    ],
+    "wof:id":873805247,
+    "wof:lastmodified":1464297838,
+    "wof:name":"North Gate Stables",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -71.003714,
+    42.868701,
+    -71.003714,
+    42.868701
+],
+  "geometry": {"coordinates":[-71.003714,42.868701],"type":"Point"}
+}

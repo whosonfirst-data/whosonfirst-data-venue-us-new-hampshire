@@ -1,0 +1,73 @@
+{
+  "id": 873818893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469979,43.526479,-71.469979,43.526479",
+    "geom:latitude":43.526479,
+    "geom:longitude":-71.469979,
+    "iso:country":"US",
+    "sg:address":"61 Beacon St W",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 5020",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hTJhwk4czNNvIIhjV1AC4_43.526479_-71.469979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298097,
+    "wof:geomhash":"95df12886203ec4a1bd6482dd37f7bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873818893
+        }
+    ],
+    "wof:id":873818893,
+    "wof:lastmodified":1464298097,
+    "wof:name":"Lakes Reg Nursing Care Comfort",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.469979,
+    43.526479,
+    -71.469979,
+    43.526479
+],
+  "geometry": {"coordinates":[-71.469979,43.526479],"type":"Point"}
+}

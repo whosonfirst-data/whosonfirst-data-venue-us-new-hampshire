@@ -1,0 +1,76 @@
+{
+  "id": 873928257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544724,43.18446,-71.544724,43.18446",
+    "geom:latitude":43.18446,
+    "geom:longitude":-71.544724,
+    "iso:country":"US",
+    "sg:address":"21 Wilson Ave",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2770",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ySMTyvva10IHrMHtAtOBY_43.184460_-71.544724@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300374,
+    "wof:geomhash":"ecc71bb12e92f7d3b05788ca7095d886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873928257
+        }
+    ],
+    "wof:id":873928257,
+    "wof:lastmodified":1464300374,
+    "wof:name":"Th Manning Realty Associates",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.544724,
+    43.18446,
+    -71.544724,
+    43.18446
+],
+  "geometry": {"coordinates":[-71.544724,43.18446],"type":"Point"}
+}

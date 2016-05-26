@@ -1,0 +1,73 @@
+{
+  "id": 873791085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193308,44.394995,-71.193308,44.394995",
+    "geom:latitude":44.394995,
+    "geom:longitude":-71.193308,
+    "iso:country":"US",
+    "sg:address":"299 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5211",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3shyWg4ZDo41tMa1bRchfl_44.394995_-71.193308@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297654,
+    "wof:geomhash":"5ec9b4a676887aa089eccdcbb8771a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873791085
+        }
+    ],
+    "wof:id":873791085,
+    "wof:lastmodified":1464297654,
+    "wof:name":"Motorcycle Snowmobile Svc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.193308,
+    44.394995,
+    -71.193308,
+    44.394995
+],
+  "geometry": {"coordinates":[-71.193308,44.394995],"type":"Point"}
+}

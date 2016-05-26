@@ -1,0 +1,83 @@
+{
+  "id": 873934971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2099,43.586102,-71.2099,43.586102",
+    "geom:latitude":43.586102,
+    "geom:longitude":-71.2099,
+    "iso:country":"US",
+    "sg:address":"8 Lehner St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 6122",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "sg:website":"www.huckshoagies.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KUtwTpn1rCQm7xCDLtKJP_43.586102_-71.209900@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300500,
+    "wof:geomhash":"08799ccb1c41ebe826ce9632b9758ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873934971
+        }
+    ],
+    "wof:id":873934971,
+    "wof:lastmodified":1464300500,
+    "wof:name":"Huck's Hoagies",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.2099,
+    43.586102,
+    -71.2099,
+    43.586102
+],
+  "geometry": {"coordinates":[-71.2099,43.586102],"type":"Point"}
+}

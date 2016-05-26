@@ -1,0 +1,76 @@
+{
+  "id": 873547241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578666,43.286124,-71.578666,43.286124",
+    "geom:latitude":43.286124,
+    "geom:longitude":-71.578666,
+    "iso:country":"US",
+    "sg:address":"11 Whitney Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 8411",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "establishment",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TCuI4KhMMQGsl4yAvOFYn_43.286124_-71.578666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294342,
+    "wof:geomhash":"6685399213da0ff041b4c05afabeb20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873547241
+        }
+    ],
+    "wof:id":873547241,
+    "wof:lastmodified":1464294342,
+    "wof:name":"Wheelabrator Concord Inc",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.578666,
+    43.286124,
+    -71.578666,
+    43.286124
+],
+  "geometry": {"coordinates":[-71.578666,43.286124],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873853563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518442,43.192325,-71.518442,43.192325",
+    "geom:latitude":43.192325,
+    "geom:longitude":-71.518442,
+    "iso:country":"US",
+    "sg:address":"15 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 0141",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iReQeRGr5ZmAVjz95TD81_43.192325_-71.518442@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298888,
+    "wof:geomhash":"64b652303e4903e638dd3d422c6bacc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873853563
+        }
+    ],
+    "wof:id":873853563,
+    "wof:lastmodified":1464298888,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.518442,
+    43.192325,
+    -71.518442,
+    43.192325
+],
+  "geometry": {"coordinates":[-71.51844199999999,43.192325],"type":"Point"}
+}

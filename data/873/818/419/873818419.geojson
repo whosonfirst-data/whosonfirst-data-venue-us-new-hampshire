@@ -1,0 +1,69 @@
+{
+  "id": 873818419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.735624,43.639411,-71.735624,43.639411",
+    "geom:latitude":43.639411,
+    "geom:longitude":-71.735624,
+    "iso:country":"US",
+    "sg:address":"466 Mayhew Tpke",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2844",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UVhFE7MKnlVeTV0ml92wG_43.639411_-71.735624@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298087,
+    "wof:geomhash":"0b9bc324d734be523287708fb280a0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873818419
+        }
+    ],
+    "wof:id":873818419,
+    "wof:lastmodified":1464298087,
+    "wof:name":"Newfound Dock Co LLC",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -71.735624,
+    43.639411,
+    -71.735624,
+    43.639411
+],
+  "geometry": {"coordinates":[-71.735624,43.639411],"type":"Point"}
+}

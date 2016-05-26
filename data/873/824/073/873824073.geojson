@@ -1,0 +1,73 @@
+{
+  "id": 873824073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678728,43.741725,-71.678728,43.741725",
+    "geom:latitude":43.741725,
+    "geom:longitude":-71.678728,
+    "iso:country":"US",
+    "sg:address":"317 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 2293",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tv",
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UvFyZkyX7LwD4AwgwQbjk_43.741725_-71.678728@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298213,
+    "wof:geomhash":"b1492517d39dc70eb1565999bcf83380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873824073
+        }
+    ],
+    "wof:id":873824073,
+    "wof:lastmodified":1464298213,
+    "wof:name":"T A V Electronics",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tv",
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -71.678728,
+    43.741725,
+    -71.678728,
+    43.741725
+],
+  "geometry": {"coordinates":[-71.67872800000001,43.741725],"type":"Point"}
+}

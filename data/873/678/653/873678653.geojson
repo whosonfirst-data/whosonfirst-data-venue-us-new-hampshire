@@ -1,0 +1,71 @@
+{
+  "id": 873678653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568552,44.487196,-71.568552,44.487196",
+    "geom:latitude":44.487196,
+    "geom:longitude":-71.568552,
+    "iso:country":"US",
+    "sg:address":"11 Mechanic St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4659",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19fxKJS9cgt8rLcgOhSn0R_44.487196_-71.568552@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295958,
+    "wof:geomhash":"be583471c5f8422a7508189014ac2cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873678653
+        }
+    ],
+    "wof:id":873678653,
+    "wof:lastmodified":1464295958,
+    "wof:name":"Lancaster Police Dept",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.568552,
+    44.487196,
+    -71.568552,
+    44.487196
+],
+  "geometry": {"coordinates":[-71.568552,44.487196],"type":"Point"}
+}

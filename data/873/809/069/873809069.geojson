@@ -1,0 +1,82 @@
+{
+  "id": 873809069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.173843,43.343512,-72.173843,43.343512",
+    "geom:latitude":43.343512,
+    "geom:longitude":-72.173843,
+    "iso:country":"US",
+    "sg:address":"127 Pollards Mills Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 6372",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engine",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837859,
+        102191575,
+        404477077,
+        85633793,
+        85975187,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QbLfSrexq9J4Sftlj3mvr_43.343512_-72.173843@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297910,
+    "wof:geomhash":"f37108159d9801617bd287b47cefbd10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477077,
+            "locality_id":85975187,
+            "neighbourhood_id":85837859,
+            "region_id":85688689,
+            "venue_id":873809069
+        }
+    ],
+    "wof:id":873809069,
+    "wof:lastmodified":1464297910,
+    "wof:name":"Lucky's Repair",
+    "wof:parent_id":85837859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.173843,
+    43.343512,
+    -72.173843,
+    43.343512
+],
+  "geometry": {"coordinates":[-72.17384300000001,43.343512],"type":"Point"}
+}

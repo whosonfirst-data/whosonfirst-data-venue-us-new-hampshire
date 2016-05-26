@@ -1,0 +1,71 @@
+{
+  "id": 873635833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.583525,42.742425,-71.583525,42.742425",
+    "geom:latitude":42.742425,
+    "geom:longitude":-71.583525,
+    "iso:country":"US",
+    "sg:address":"34 Ash St",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2237",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36nWinmEm3tMrFnX4IJSRz_42.742425_-71.583525@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295430,
+    "wof:geomhash":"865eb372c07f99bd82f338e7846adf27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873635833
+        }
+    ],
+    "wof:id":873635833,
+    "wof:lastmodified":1464295430,
+    "wof:name":"Hollis Post Office",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.583525,
+    42.742425,
+    -71.583525,
+    42.742425
+],
+  "geometry": {"coordinates":[-71.58352499999999,42.742425],"type":"Point"}
+}

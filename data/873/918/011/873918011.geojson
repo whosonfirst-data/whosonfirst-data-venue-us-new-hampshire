@@ -1,0 +1,93 @@
+{
+  "id": 873918011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.595376,43.291362,-71.595376,43.291362",
+    "geom:latitude":43.291362,
+    "geom:longitude":-71.595376,
+    "iso:country":"US",
+    "sg:address":"154 King St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/boscawen/149254-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2364",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BXnWGE9QDLeRimUiJERJp_43.291362_-71.595376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300177,
+    "wof:geomhash":"cb3c54fe180b5660f4b9d18d436b0f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873918011
+        }
+    ],
+    "wof:id":873918011,
+    "wof:lastmodified":1464300177,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.595376,
+    43.291362,
+    -71.595376,
+    43.291362
+],
+  "geometry": {"coordinates":[-71.595376,43.291362],"type":"Point"}
+}

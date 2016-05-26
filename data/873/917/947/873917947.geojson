@@ -1,0 +1,76 @@
+{
+  "id": 873917947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493647,43.222291,-71.493647,43.222291",
+    "geom:latitude":43.222291,
+    "geom:longitude":-71.493647,
+    "iso:country":"US",
+    "sg:address":"240 Loudon Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/concord/125103-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 2395",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_726PsB4c0ASdyRDZeL7Fnm_43.222291_-71.493647@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300176,
+    "wof:geomhash":"50e8197e1eff465fc7ca4bc32e679827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873917947
+        }
+    ],
+    "wof:id":873917947,
+    "wof:lastmodified":1464300176,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.493647,
+    43.222291,
+    -71.493647,
+    43.222291
+],
+  "geometry": {"coordinates":[-71.493647,43.222291],"type":"Point"}
+}

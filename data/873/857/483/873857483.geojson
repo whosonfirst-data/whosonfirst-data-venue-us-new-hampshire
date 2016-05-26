@@ -1,0 +1,79 @@
+{
+  "id": 873857483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.02471,43.313234,-71.02471,43.313234",
+    "geom:latitude":43.313234,
+    "geom:longitude":-71.02471,
+    "iso:country":"US",
+    "sg:address":"137 Sampson Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2275",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RbcU6i3tk26qbeCcRF8va_43.313234_-71.024710@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298962,
+    "wof:geomhash":"bcfad1c617a179fa26e1caa164317b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873857483
+        }
+    ],
+    "wof:id":873857483,
+    "wof:lastmodified":1464298962,
+    "wof:name":"Country Grooming Salon",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.02471,
+    43.313234,
+    -71.02471,
+    43.313234
+],
+  "geometry": {"coordinates":[-71.02471,43.313234],"type":"Point"}
+}

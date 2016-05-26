@@ -1,0 +1,73 @@
+{
+  "id": 873645991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.214647,43.936835,-71.214647,43.936835",
+    "geom:latitude":43.936835,
+    "geom:longitude":-71.214647,
+    "iso:country":"US",
+    "sg:address":"17 Croto Ln",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 1091",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5etiYQ4k1myjOviagUrOyu_43.936835_-71.214647@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295546,
+    "wof:geomhash":"44de784e30676f85ccdf6238cb19d483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873645991
+        }
+    ],
+    "wof:id":873645991,
+    "wof:lastmodified":1464295546,
+    "wof:name":"Mountain View Piano",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -71.214647,
+    43.936835,
+    -71.214647,
+    43.936835
+],
+  "geometry": {"coordinates":[-71.214647,43.936835],"type":"Point"}
+}

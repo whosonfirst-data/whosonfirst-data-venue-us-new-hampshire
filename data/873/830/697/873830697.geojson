@@ -1,0 +1,74 @@
+{
+  "id": 873830697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466111,43.5216,-71.466111,43.5216",
+    "geom:latitude":43.5216,
+    "geom:longitude":-71.466111,
+    "iso:country":"US",
+    "sg:address":"314 S Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 7700",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "audiologists",
+        "audiologist"
+    ],
+    "sg:website":"www.audiologyspecialists.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZRz7BhvcrZYb8jiiVJGHS_43.521600_-71.466111@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298343,
+    "wof:geomhash":"deca97d14c339839c296b294d81ab722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873830697
+        }
+    ],
+    "wof:id":873830697,
+    "wof:lastmodified":1464298343,
+    "wof:name":"Audiology Specialists LLC",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists",
+        "audiologist"
+    ]
+},
+  "bbox": [
+    -71.466111,
+    43.5216,
+    -71.466111,
+    43.5216
+],
+  "geometry": {"coordinates":[-71.466111,43.5216],"type":"Point"}
+}

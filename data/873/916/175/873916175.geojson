@@ -1,0 +1,72 @@
+{
+  "id": 873916175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580176,42.810124,-71.580176,42.810124",
+    "geom:latitude":42.810124,
+    "geom:longitude":-71.580176,
+    "iso:country":"US",
+    "sg:address":"85 State Route 101a",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/amherst/129579-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 6500",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EKHyBnyjVkHGIZjBSZV9C_42.810124_-71.580176@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300144,
+    "wof:geomhash":"6bde7c76675cffd3414a285d4b70aae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873916175
+        }
+    ],
+    "wof:id":873916175,
+    "wof:lastmodified":1464300144,
+    "wof:name":"Subway",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.580176,
+    42.810124,
+    -71.580176,
+    42.810124
+],
+  "geometry": {"coordinates":[-71.58017599999999,42.810124],"type":"Point"}
+}

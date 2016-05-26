@@ -1,0 +1,71 @@
+{
+  "id": 873750949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.55284,43.013153,-71.55284,43.013153",
+    "geom:latitude":43.013153,
+    "geom:longitude":-71.55284,
+    "iso:country":"US",
+    "sg:address":"242 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 8420",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gqELoqyjibytYiWFGrQEe_43.013153_-71.552840@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297087,
+    "wof:geomhash":"a116d738267e73c6531b99dfde4c19b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873750949
+        }
+    ],
+    "wof:id":873750949,
+    "wof:lastmodified":1464297087,
+    "wof:name":"Safety First Driving School",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -71.55284,
+    43.013153,
+    -71.55284,
+    43.013153
+],
+  "geometry": {"coordinates":[-71.55284,43.013153],"type":"Point"}
+}

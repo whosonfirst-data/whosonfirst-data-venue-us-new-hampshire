@@ -1,0 +1,75 @@
+{
+  "id": 873925583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241766,42.794628,-71.241766,42.794628",
+    "geom:latitude":42.794628,
+    "geom:longitude":-71.241766,
+    "iso:country":"US",
+    "sg:address":"21 Dennis Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2298",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wallcoverings-installation",
+        "wallpaper",
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y0cFU7TOQTP8vDCZ0bTfo_42.794628_-71.241766@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300318,
+    "wof:geomhash":"40385440a45b800aa8ad3c5a50fb6427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925583
+        }
+    ],
+    "wof:id":873925583,
+    "wof:lastmodified":1464300318,
+    "wof:name":"Painting Contractor",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wallcoverings-installation",
+        "wallpaper",
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.241766,
+    42.794628,
+    -71.241766,
+    42.794628
+],
+  "geometry": {"coordinates":[-71.241766,42.794628],"type":"Point"}
+}

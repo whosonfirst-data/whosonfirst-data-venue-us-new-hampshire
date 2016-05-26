@@ -1,0 +1,71 @@
+{
+  "id": 873727297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52038,42.919783,-71.52038,42.919783",
+    "geom:latitude":42.919783,
+    "geom:longitude":-71.52038,
+    "iso:country":"US",
+    "sg:address":"4 Candy Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 0636",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25b9SVekHaMQrYZea1rjtX_42.919783_-71.520380@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296745,
+    "wof:geomhash":"36d71e38efdf7f649628f1de7174d86f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873727297
+        }
+    ],
+    "wof:id":873727297,
+    "wof:lastmodified":1464296745,
+    "wof:name":"Get In Step",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.52038,
+    42.919783,
+    -71.52038,
+    42.919783
+],
+  "geometry": {"coordinates":[-71.52038,42.919783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873655733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517042,43.006927,-71.517042,43.006927",
+    "geom:latitude":43.006927,
+    "geom:longitude":-71.517042,
+    "iso:country":"US",
+    "sg:address":"39 Cove St",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 1691",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n5GfJ2nT6UjRoQhlFK4Nn_43.006927_-71.517042@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295653,
+    "wof:geomhash":"a15d450658c2c386e5a8998a4f12c4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873655733
+        }
+    ],
+    "wof:id":873655733,
+    "wof:lastmodified":1464295653,
+    "wof:name":"A Better Value Plbg & Htg Co",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.517042,
+    43.006927,
+    -71.517042,
+    43.006927
+],
+  "geometry": {"coordinates":[-71.517042,43.006927],"type":"Point"}
+}

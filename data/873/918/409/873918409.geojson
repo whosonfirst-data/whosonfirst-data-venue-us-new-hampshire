@@ -1,0 +1,91 @@
+{
+  "id": 873918409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.807199,43.099801,-70.807199,43.099801",
+    "geom:latitude":43.099801,
+    "geom:longitude":-70.807199,
+    "iso:country":"US",
+    "sg:address":"50 Fox Run Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/149287-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 6812",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7khm4bdyAEYJ5Cu02O0SbU_43.099801_-70.807199@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300185,
+    "wof:geomhash":"73c697e5df35fd133391b8b2a1d273bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873918409
+        }
+    ],
+    "wof:id":873918409,
+    "wof:lastmodified":1464300185,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.807199,
+    43.099801,
+    -70.807199,
+    43.099801
+],
+  "geometry": {"coordinates":[-70.807199,43.099801],"type":"Point"}
+}

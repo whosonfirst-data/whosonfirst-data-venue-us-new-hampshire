@@ -1,0 +1,73 @@
+{
+  "id": 873860507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.116809,43.978924,-71.116809,43.978924",
+    "geom:latitude":43.978924,
+    "geom:longitude":-71.116809,
+    "iso:country":"US",
+    "sg:address":"85 E Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 6105",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "player",
+        "recorder",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GDwuKOrDy5hNKXh4QnkPp_43.978924_-71.116809@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299049,
+    "wof:geomhash":"797da48e024a4ac9487101d1cf6b47c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873860507
+        }
+    ],
+    "wof:id":873860507,
+    "wof:lastmodified":1464299049,
+    "wof:name":"Valley Video",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "player",
+        "recorder",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.116809,
+    43.978924,
+    -71.116809,
+    43.978924
+],
+  "geometry": {"coordinates":[-71.116809,43.978924],"type":"Point"}
+}

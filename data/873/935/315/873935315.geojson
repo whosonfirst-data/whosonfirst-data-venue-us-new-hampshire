@@ -1,0 +1,83 @@
+{
+  "id": 873935315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.21168,43.586411,-71.21168,43.586411",
+    "geom:latitude":43.586411,
+    "geom:longitude":-71.21168,
+    "iso:country":"US",
+    "sg:address":"59B Glendon St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 4040",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "record",
+        "vinyl"
+    ],
+    "sg:website":"www.bqqks.com/records.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X5Mhl0mpiSzKhpo3AmskK_43.586411_-71.211680@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300506,
+    "wof:geomhash":"1c22dd69b43c3bdb98096f1ab3590f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935315
+        }
+    ],
+    "wof:id":873935315,
+    "wof:lastmodified":1464300506,
+    "wof:name":"John's Records",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "vinyl"
+    ]
+},
+  "bbox": [
+    -71.21168,
+    43.586411,
+    -71.21168,
+    43.586411
+],
+  "geometry": {"coordinates":[-71.21168,43.586411],"type":"Point"}
+}

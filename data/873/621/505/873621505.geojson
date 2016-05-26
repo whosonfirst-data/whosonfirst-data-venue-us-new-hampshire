@@ -1,0 +1,71 @@
+{
+  "id": 873621505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976429,43.306225,-70.976429,43.306225",
+    "geom:latitude":43.306225,
+    "geom:longitude":-70.976429,
+    "iso:country":"US",
+    "sg:address":"45 Wakefield St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2610",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:website":"www.profilebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48g6MBaS9CRuNFjXpw6wUx_43.306225_-70.976429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"8dd665f16700b8596e5e190b1793e092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873621505
+        }
+    ],
+    "wof:id":873621505,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Profile Bank",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.976429,
+    43.306225,
+    -70.976429,
+    43.306225
+],
+  "geometry": {"coordinates":[-70.976429,43.306225],"type":"Point"}
+}

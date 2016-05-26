@@ -1,0 +1,76 @@
+{
+  "id": 873585289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.9348,43.084475,-70.9348,43.084475",
+    "geom:latitude":43.084475,
+    "geom:longitude":-70.9348,
+    "iso:country":"US",
+    "sg:address":"32 N Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 4700",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tTx2NUEcvbZkVTQAVoLhR_43.084475_-70.934800@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294777,
+    "wof:geomhash":"0414fc656879e4e9462f2076e1be1ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873585289
+        }
+    ],
+    "wof:id":873585289,
+    "wof:lastmodified":1464294777,
+    "wof:name":"Noah Tremblay Architectural MI",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -70.9348,
+    43.084475,
+    -70.9348,
+    43.084475
+],
+  "geometry": {"coordinates":[-70.9348,43.084475],"type":"Point"}
+}

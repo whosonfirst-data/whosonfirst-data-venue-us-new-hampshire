@@ -1,0 +1,71 @@
+{
+  "id": 873850027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574746,43.173979,-71.574746,43.173979",
+    "geom:latitude":43.173979,
+    "geom:longitude":-71.574746,
+    "iso:country":"US",
+    "sg:address":"264 Clinton St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 6911",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PT6AUxYfzKuZAO8ZaLVbK_43.173979_-71.574746@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298811,
+    "wof:geomhash":"ac8ec8b59c25928e60ce5fb734b29c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873850027
+        }
+    ],
+    "wof:id":873850027,
+    "wof:lastmodified":1464298811,
+    "wof:name":"Deer Meadow Plumbing & Htg",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.574746,
+    43.173979,
+    -71.574746,
+    43.173979
+],
+  "geometry": {"coordinates":[-71.574746,43.173979],"type":"Point"}
+}

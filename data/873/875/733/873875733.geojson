@@ -1,0 +1,74 @@
+{
+  "id": 873875733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504282,43.188488,-71.504282,43.188488",
+    "geom:latitude":43.188488,
+    "geom:longitude":-71.504282,
+    "iso:country":"US",
+    "sg:address":"134 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 3255",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.grappone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XgSptMfpx7ARebuBHVaUr_43.188488_-71.504282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299348,
+    "wof:geomhash":"c7f808143db6b76808100436d7ee862f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873875733
+        }
+    ],
+    "wof:id":873875733,
+    "wof:lastmodified":1464299348,
+    "wof:name":"Autosure Used Cars",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.504282,
+    43.188488,
+    -71.504282,
+    43.188488
+],
+  "geometry": {"coordinates":[-71.504282,43.188488],"type":"Point"}
+}

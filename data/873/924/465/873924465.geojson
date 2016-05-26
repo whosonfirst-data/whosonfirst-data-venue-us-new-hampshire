@@ -1,0 +1,76 @@
+{
+  "id": 873924465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494934,42.766678,-71.494934,42.766678",
+    "geom:latitude":42.766678,
+    "geom:longitude":-71.494934,
+    "iso:country":"US",
+    "sg:address":"42 Gusabel Ave Ste 42",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 4959",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consumer"
+    ],
+    "sg:website":"http://www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892277,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55bFs2Ucmi6EfTiNDHUBwa_42.766678_-71.494934@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300296,
+    "wof:geomhash":"c72e49dba0ef9d06f009d494437ab76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892277,
+            "region_id":85688689,
+            "venue_id":873924465
+        }
+    ],
+    "wof:id":873924465,
+    "wof:lastmodified":1464300296,
+    "wof:name":"RadioShack",
+    "wof:parent_id":85892277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consumer"
+    ]
+},
+  "bbox": [
+    -71.494934,
+    42.766678,
+    -71.494934,
+    42.766678
+],
+  "geometry": {"coordinates":[-71.494934,42.766678],"type":"Point"}
+}

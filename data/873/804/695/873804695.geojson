@@ -1,0 +1,71 @@
+{
+  "id": 873804695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522639,42.995518,-71.522639,42.995518",
+    "geom:latitude":42.995518,
+    "geom:longitude":-71.522639,
+    "iso:country":"US",
+    "sg:address":"14 Lamy Dr",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 5347",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KdHiryYwT6hpdGFPVrJPA_42.995518_-71.522639@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297831,
+    "wof:geomhash":"898ebee209009fb3d5252ec45426b64d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873804695
+        }
+    ],
+    "wof:id":873804695,
+    "wof:lastmodified":1464297831,
+    "wof:name":"Goffstown Self Storage",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.522639,
+    42.995518,
+    -71.522639,
+    42.995518
+],
+  "geometry": {"coordinates":[-71.522639,42.995518],"type":"Point"}
+}

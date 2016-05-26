@@ -1,0 +1,74 @@
+{
+  "id": 873636281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458505,43.552796,-71.458505,43.552796",
+    "geom:latitude":43.552796,
+    "geom:longitude":-71.458505,
+    "iso:country":"US",
+    "sg:address":"988 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0901",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.cityonthelakes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TOiWLyIxFcAlN6OOfY3dN_43.552796_-71.458505@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295435,
+    "wof:geomhash":"533a887a6ed127f0439162eaceef83c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873636281
+        }
+    ],
+    "wof:id":873636281,
+    "wof:lastmodified":1464295435,
+    "wof:name":"Laconia Water Works",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.458505,
+    43.552796,
+    -71.458505,
+    43.552796
+],
+  "geometry": {"coordinates":[-71.458505,43.552796],"type":"Point"}
+}

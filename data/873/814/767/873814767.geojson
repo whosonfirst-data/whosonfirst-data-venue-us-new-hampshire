@@ -1,0 +1,86 @@
+{
+  "id": 873814767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433286,43.574523,-71.433286,43.574523",
+    "geom:latitude":43.574523,
+    "geom:longitude":-71.433286,
+    "iso:country":"US",
+    "sg:address":"26 Waterford Pl",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9160",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wholesaler",
+        "retailer",
+        "health",
+        "vitamin"
+    ],
+    "sg:website":"www.total-body-wellness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDoevTHlwZnHWf5la441Q_43.574523_-71.433286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298010,
+    "wof:geomhash":"19d44a2f3dd58fd463f3d60c514d8d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873814767
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873814767
+        }
+    ],
+    "wof:id":873814767,
+    "wof:lastmodified":1464298010,
+    "wof:name":"Total Body Wellness",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler",
+        "retailer",
+        "health",
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -71.433286,
+    43.574523,
+    -71.433286,
+    43.574523
+],
+  "geometry": {"coordinates":[-71.433286,43.574523],"type":"Point"}
+}

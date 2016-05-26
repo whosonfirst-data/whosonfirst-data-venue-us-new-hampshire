@@ -1,0 +1,82 @@
+{
+  "id": 873856597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.169262,44.46841,-71.169262,44.46841",
+    "geom:latitude":44.46841,
+    "geom:longitude":-71.169262,
+    "iso:country":"US",
+    "sg:address":"300 Coos St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4750",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NsIWCymMZ2qbdTBWnxctk_44.468410_-71.169262@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298945,
+    "wof:geomhash":"43901f45b1e31e449c52f0142aec8444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873856597
+        }
+    ],
+    "wof:id":873856597,
+    "wof:lastmodified":1464298945,
+    "wof:name":"Blanchette Garage Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.169262,
+    44.46841,
+    -71.169262,
+    44.46841
+],
+  "geometry": {"coordinates":[-71.169262,44.46841],"type":"Point"}
+}

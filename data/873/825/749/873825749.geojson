@@ -1,0 +1,77 @@
+{
+  "id": 873825749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.805415,42.939572,-70.805415,42.939572",
+    "geom:latitude":42.939572,
+    "geom:longitude":-70.805415,
+    "iso:country":"US",
+    "sg:address":"2 Pine Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 9254",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837299,
+        102191575,
+        404476755,
+        85633793,
+        85975123,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CEl9ilpX3sWeyW3akgMff_42.939572_-70.805415@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298250,
+    "wof:geomhash":"ca329528dca4073164249676f28fec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975123,
+            "neighbourhood_id":85837299,
+            "region_id":85688689,
+            "venue_id":873825749
+        }
+    ],
+    "wof:id":873825749,
+    "wof:lastmodified":1464298250,
+    "wof:name":"Maher Atlantic Properties",
+    "wof:parent_id":85837299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.805415,
+    42.939572,
+    -70.805415,
+    42.939572
+],
+  "geometry": {"coordinates":[-70.805415,42.939572],"type":"Point"}
+}

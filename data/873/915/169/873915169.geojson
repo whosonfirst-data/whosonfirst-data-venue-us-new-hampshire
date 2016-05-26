@@ -1,0 +1,72 @@
+{
+  "id": 873915169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.869873,42.900979,-70.869873,42.900979",
+    "geom:latitude":42.900979,
+    "geom:longitude":-70.869873,
+    "iso:country":"US",
+    "sg:address":"875 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 2444",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "sg:website":"http://www.nhapa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iYJspawGrgI1Jq7EjbiDb_42.901198_-70.869816@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300111,
+    "wof:geomhash":"cdaf831d19a0c9c197d9c107340812d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873915169
+        }
+    ],
+    "wof:id":873915169,
+    "wof:lastmodified":1464300111,
+    "wof:name":"New Hampshire Academy of Performing Arts",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -70.869873,
+    42.900979,
+    -70.869873,
+    42.900979
+],
+  "geometry": {"coordinates":[-70.869873,42.900979],"type":"Point"}
+}

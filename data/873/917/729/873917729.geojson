@@ -1,0 +1,69 @@
+{
+  "id": 873917729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498857,43.651236,-71.498857,43.651236",
+    "geom:latitude":43.651236,
+    "geom:longitude":-71.498857,
+    "iso:country":"US",
+    "sg:address":"4 Mill St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/meredith/217776-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0riZkHmmUc8b6MLUzZYhvm_43.651236_-71.498857@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300172,
+    "wof:geomhash":"942e25025a2460c8b485f9dedce560f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873917729
+        }
+    ],
+    "wof:id":873917729,
+    "wof:lastmodified":1464300172,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.498857,
+    43.651236,
+    -71.498857,
+    43.651236
+],
+  "geometry": {"coordinates":[-71.498857,43.651236],"type":"Point"}
+}

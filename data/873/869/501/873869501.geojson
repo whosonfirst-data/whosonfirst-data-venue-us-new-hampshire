@@ -1,0 +1,75 @@
+{
+  "id": 873869501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.009452,43.3203,-71.009452,43.3203",
+    "geom:latitude":43.3203,
+    "geom:longitude":-71.009452,
+    "iso:country":"US",
+    "sg:address":"70 Ten Rod Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 4413",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QA5zv01i9uptCe0vTQACq_43.320300_-71.009452@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299216,
+    "wof:geomhash":"41158ca2d75370527eb3dbaef0f02d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873869501
+        }
+    ],
+    "wof:id":873869501,
+    "wof:lastmodified":1464299216,
+    "wof:name":"Silver Platter",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.009452,
+    43.3203,
+    -71.009452,
+    43.3203
+],
+  "geometry": {"coordinates":[-71.009452,43.3203],"type":"Point"}
+}

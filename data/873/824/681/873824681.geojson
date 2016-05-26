@@ -1,0 +1,73 @@
+{
+  "id": 873824681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.350645,42.810426,-71.350645,42.810426",
+    "geom:latitude":42.810426,
+    "geom:longitude":-71.350645,
+    "iso:country":"US",
+    "sg:address":"56 Chase Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 2727",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zoYb4pCknVglLDrvJHjm_42.810426_-71.350645@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298227,
+    "wof:geomhash":"486c889fe238ccf9a29f2ba61c3e2237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873824681
+        }
+    ],
+    "wof:id":873824681,
+    "wof:lastmodified":1464298227,
+    "wof:name":"Londonderry Auto Body & Repair",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "frame"
+    ]
+},
+  "bbox": [
+    -71.350645,
+    42.810426,
+    -71.350645,
+    42.810426
+],
+  "geometry": {"coordinates":[-71.350645,42.810426],"type":"Point"}
+}

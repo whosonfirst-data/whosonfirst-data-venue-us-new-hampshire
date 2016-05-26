@@ -1,0 +1,69 @@
+{
+  "id": 873588441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198045,42.795873,-71.198045,42.795873",
+    "geom:latitude":42.795873,
+    "geom:longitude":-71.198045,
+    "iso:country":"US",
+    "sg:address":"22 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6096",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u4IBsNCgLnvU5xpnJ1pj6_42.795873_-71.198045@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294812,
+    "wof:geomhash":"35189ea2d30e8bb4fd0d22aabd4d215b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873588441
+        }
+    ],
+    "wof:id":873588441,
+    "wof:lastmodified":1464294812,
+    "wof:name":"Park Office Cleaning",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.198045,
+    42.795873,
+    -71.198045,
+    42.795873
+],
+  "geometry": {"coordinates":[-71.19804499999999,42.795873],"type":"Point"}
+}

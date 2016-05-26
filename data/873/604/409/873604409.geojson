@@ -1,0 +1,77 @@
+{
+  "id": 873604409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531024,43.196254,-71.531024,43.196254",
+    "geom:latitude":43.196254,
+    "geom:longitude":-71.531024,
+    "iso:country":"US",
+    "sg:address":"214 S Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8627",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "communication",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32wsIKC8RWICujZlrjiC4O_43.196254_-71.531024@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295033,
+    "wof:geomhash":"68ecbffdf2e87b99c01ead2cd3d9a799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873604409
+        }
+    ],
+    "wof:id":873604409,
+    "wof:lastmodified":1464295033,
+    "wof:name":"Concord Communications Assoc",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.531024,
+    43.196254,
+    -71.531024,
+    43.196254
+],
+  "geometry": {"coordinates":[-71.531024,43.196254],"type":"Point"}
+}

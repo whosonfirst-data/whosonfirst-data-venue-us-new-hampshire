@@ -1,0 +1,71 @@
+{
+  "id": 873550497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686626,43.764957,-71.686626,43.764957",
+    "geom:latitude":43.764957,
+    "geom:longitude":-71.686626,
+    "iso:country":"US",
+    "sg:address":"227 Old N Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1733",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qYTz7fpInLbtu8yLKqufW_43.764957_-71.686626@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294383,
+    "wof:geomhash":"579cea64340a371d10f3516404fd3bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873550497
+        }
+    ],
+    "wof:id":873550497,
+    "wof:lastmodified":1464294383,
+    "wof:name":"Plymouth Village Water & Sewer",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.686626,
+    43.764957,
+    -71.686626,
+    43.764957
+],
+  "geometry": {"coordinates":[-71.686626,43.764957],"type":"Point"}
+}

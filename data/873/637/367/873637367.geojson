@@ -1,0 +1,73 @@
+{
+  "id": 873637367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463199,43.535422,-71.463199,43.535422",
+    "geom:latitude":43.535422,
+    "geom:longitude":-71.463199,
+    "iso:country":"US",
+    "sg:address":"361 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2261",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P9jZeWaI482L3uv0vH5ca_43.535422_-71.463199@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295449,
+    "wof:geomhash":"61e801f8c1abf09630a8db1bbc2e3187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873637367
+        }
+    ],
+    "wof:id":873637367,
+    "wof:lastmodified":1464295449,
+    "wof:name":"Pats Super Clean",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.463199,
+    43.535422,
+    -71.463199,
+    43.535422
+],
+  "geometry": {"coordinates":[-71.463199,43.535422],"type":"Point"}
+}

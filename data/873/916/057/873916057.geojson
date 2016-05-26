@@ -1,0 +1,78 @@
+{
+  "id": 873916057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.607103,43.299982,-71.607103,43.299982",
+    "geom:latitude":43.299982,
+    "geom:longitude":-71.607103,
+    "iso:country":"US",
+    "sg:address":"201 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9834",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.rvhnh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GHiuqiWjMIBSpvmIDYPJe_43.300314_-71.607303@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300142,
+    "wof:geomhash":"7acec2a0faf6ee9a767769ed08396a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873916057
+        }
+    ],
+    "wof:id":873916057,
+    "wof:lastmodified":1464300142,
+    "wof:name":"Riverside Veterinary Hospital",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.607103,
+    43.299982,
+    -71.607103,
+    43.299982
+],
+  "geometry": {"coordinates":[-71.607103,43.299982],"type":"Point"}
+}

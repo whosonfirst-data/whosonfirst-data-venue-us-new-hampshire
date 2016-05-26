@@ -1,0 +1,71 @@
+{
+  "id": 873914555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.089033,44.005713,-71.089033,44.005713",
+    "geom:latitude":44.005713,
+    "geom:longitude":-71.089033,
+    "iso:country":"US",
+    "sg:address":"529 Eastman Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5777",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pRCcFxGKbhLQdkLhX7xhm_44.005762_-71.089075@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300098,
+    "wof:geomhash":"08b925d2177a0ffe0a3f215bae6d16c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873914555
+        }
+    ],
+    "wof:id":873914555,
+    "wof:lastmodified":1464300098,
+    "wof:name":"Sears Roebuck and Co",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -71.089033,
+    44.005713,
+    -71.089033,
+    44.005713
+],
+  "geometry": {"coordinates":[-71.089033,44.005713],"type":"Point"}
+}

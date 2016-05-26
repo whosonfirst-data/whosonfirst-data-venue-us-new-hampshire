@@ -1,0 +1,70 @@
+{
+  "id": 873928905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.331776,42.8672,-72.331776,42.8672",
+    "geom:latitude":42.8672,
+    "geom:longitude":-72.331776,
+    "iso:country":"US",
+    "sg:address":"31 S Winchester St",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 3383",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.mrsd.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44S2SsjHx4tA36yRls85nd_42.867200_-72.331776@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300387,
+    "wof:geomhash":"0323af5a53c076e9309689051fa81b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873928905
+        }
+    ],
+    "wof:id":873928905,
+    "wof:lastmodified":1464300387,
+    "wof:name":"Cutler Elementary School",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -72.331776,
+    42.8672,
+    -72.331776,
+    42.8672
+],
+  "geometry": {"coordinates":[-72.331776,42.8672],"type":"Point"}
+}

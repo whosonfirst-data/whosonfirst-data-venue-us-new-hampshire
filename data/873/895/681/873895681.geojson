@@ -1,0 +1,71 @@
+{
+  "id": 873895681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.706558,43.043395,-71.706558,43.043395",
+    "geom:latitude":43.043395,
+    "geom:longitude":-71.706558,
+    "iso:country":"US",
+    "sg:address":"367 Dustin Tavern Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 1529",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55nbkew9jha1zhy4u8HMXJ_43.043395_-71.706558@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299733,
+    "wof:geomhash":"92a2df361af99ac685e6d88058f7f169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873895681
+        }
+    ],
+    "wof:id":873895681,
+    "wof:lastmodified":1464299733,
+    "wof:name":"Frosty's Plumbing & Heating",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.706558,
+    43.043395,
+    -71.706558,
+    43.043395
+],
+  "geometry": {"coordinates":[-71.706558,43.043395],"type":"Point"}
+}

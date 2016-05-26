@@ -1,0 +1,73 @@
+{
+  "id": 873641311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459367,43.533032,-71.459367,43.533032",
+    "geom:latitude":43.533032,
+    "geom:longitude":-71.459367,
+    "iso:country":"US",
+    "sg:address":"65 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2667",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uC9OeIn6ws8hPBcFaoATl_43.533032_-71.459367@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295490,
+    "wof:geomhash":"500a64f1975d00202cdd0b808ec3def0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873641311
+        }
+    ],
+    "wof:id":873641311,
+    "wof:lastmodified":1464295490,
+    "wof:name":"Reed Enterprises",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.459367,
+    43.533032,
+    -71.459367,
+    43.533032
+],
+  "geometry": {"coordinates":[-71.459367,43.533032],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873819177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.794161,43.559489,-71.794161,43.559489",
+    "geom:latitude":43.559489,
+    "geom:longitude":-71.794161,
+    "iso:country":"US",
+    "sg:address":"151 Smith River Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 6355",
+    "sg:postcode":"03217",
+    "sg:province":"NH",
+    "sg:tags":[
+        "generation",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ziQ84gER2yDBFpKw98Z2_43.559489_-71.794161@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298104,
+    "wof:geomhash":"ac43077fd88ffd33615bae8e51396778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873819177
+        }
+    ],
+    "wof:id":873819177,
+    "wof:lastmodified":1464298104,
+    "wof:name":"Alexandria Power Associates",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generation",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.794161,
+    43.559489,
+    -71.794161,
+    43.559489
+],
+  "geometry": {"coordinates":[-71.794161,43.559489],"type":"Point"}
+}

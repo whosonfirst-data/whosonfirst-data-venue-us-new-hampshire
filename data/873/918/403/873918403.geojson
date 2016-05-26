@@ -1,0 +1,87 @@
+{
+  "id": 873918403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.798845,43.094443,-70.798845,43.094443",
+    "geom:latitude":43.094443,
+    "geom:longitude":-70.798845,
+    "iso:country":"US",
+    "sg:address":"45 Gosling Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/147990-fresh-city/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 334 6006",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "smoothy",
+        "mexican",
+        "salad",
+        "juice",
+        "soup",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mi48rQwSURbjxaOV5BQ0l_43.094443_-70.798845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300185,
+    "wof:geomhash":"fab08cd7523b687839abdd4faf6964cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873918403
+        }
+    ],
+    "wof:id":873918403,
+    "wof:lastmodified":1464300185,
+    "wof:name":"Fresh City",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "mexican",
+        "salad",
+        "juice",
+        "soup",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.798845,
+    43.094443,
+    -70.798845,
+    43.094443
+],
+  "geometry": {"coordinates":[-70.798845,43.094443],"type":"Point"}
+}

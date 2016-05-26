@@ -1,0 +1,79 @@
+{
+  "id": 873753593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.918725,43.232181,-70.918725,43.232181",
+    "geom:latitude":43.232181,
+    "geom:longitude":-70.918725,
+    "iso:country":"US",
+    "sg:address":"239 Long Hill Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 6800",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dental",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526423,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72g9P5u5egcxIkiYKbh3aU_43.232181_-70.918725@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297128,
+    "wof:geomhash":"558a855f1a843317a1334d4cd0fb5d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":420526423,
+            "region_id":85688689,
+            "venue_id":873753593
+        }
+    ],
+    "wof:id":873753593,
+    "wof:lastmodified":1464297128,
+    "wof:name":"Dentist's Choice",
+    "wof:parent_id":420526423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dental",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -70.918725,
+    43.232181,
+    -70.918725,
+    43.232181
+],
+  "geometry": {"coordinates":[-70.91872499999999,43.232181],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873753581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477068,42.980612,-71.477068,42.980612",
+    "geom:latitude":42.980612,
+    "geom:longitude":-71.477068,
+    "iso:country":"US",
+    "sg:address":"79 Varney St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 2825",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQWTAOvLYoBkPDR8VuzOB_42.980612_-71.477068@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297128,
+    "wof:geomhash":"8292b0ff2ab966c0a47e51e321846783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873753581
+        }
+    ],
+    "wof:id":873753581,
+    "wof:lastmodified":1464297128,
+    "wof:name":"Riley's Varney Street Auto",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.477068,
+    42.980612,
+    -71.477068,
+    42.980612
+],
+  "geometry": {"coordinates":[-71.477068,42.980612],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873840737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035591,44.150118,-72.035591,44.150118",
+    "geom:latitude":44.150118,
+    "geom:longitude":-72.035591,
+    "iso:country":"US",
+    "sg:address":"6 Church St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3013",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QToILfDMozGfroR0c6uYb_44.150118_-72.035591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298569,
+    "wof:geomhash":"96db88a7579ded3526485b4d8d8e49c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873840737
+        }
+    ],
+    "wof:id":873840737,
+    "wof:lastmodified":1464298569,
+    "wof:name":"Community Action Program",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -72.035591,
+    44.150118,
+    -72.035591,
+    44.150118
+],
+  "geometry": {"coordinates":[-72.035591,44.150118],"type":"Point"}
+}

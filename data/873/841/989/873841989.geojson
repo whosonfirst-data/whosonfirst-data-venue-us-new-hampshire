@@ -1,0 +1,75 @@
+{
+  "id": 873841989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45309,42.972258,-71.45309,42.972258",
+    "geom:latitude":42.972258,
+    "geom:longitude":-71.45309,
+    "iso:country":"US",
+    "sg:address":"25 S Maple St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 0666",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75YDTslnY2rl7WlerqcQtt_42.972258_-71.453090@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298602,
+    "wof:geomhash":"23a4a5f831e8358338dfae313f1d363d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873841989
+        }
+    ],
+    "wof:id":873841989,
+    "wof:lastmodified":1464298602,
+    "wof:name":"Jo Anne Johnson DDS",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.45309,
+    42.972258,
+    -71.45309,
+    42.972258
+],
+  "geometry": {"coordinates":[-71.45309,42.972258],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873649331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.84732,42.976987,-70.84732,42.976987",
+    "geom:latitude":42.976987,
+    "geom:longitude":-70.84732,
+    "iso:country":"US",
+    "sg:address":"100 Post Rd",
+    "sg:city":"North Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 2251",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837679,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T5qdoXyqOuGvy7JLz9yJl_42.976987_-70.847320@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295580,
+    "wof:geomhash":"fd853b31cf7e3d8bacb1c2e2113f7430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837679,
+            "region_id":85688689,
+            "venue_id":873649331
+        }
+    ],
+    "wof:id":873649331,
+    "wof:lastmodified":1464295580,
+    "wof:name":"Home Square Renovation",
+    "wof:parent_id":85837679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -70.84732,
+    42.976987,
+    -70.84732,
+    42.976987
+],
+  "geometry": {"coordinates":[-70.84732,42.976987],"type":"Point"}
+}

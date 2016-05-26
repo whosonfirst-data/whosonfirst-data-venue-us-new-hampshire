@@ -1,0 +1,69 @@
+{
+  "id": 873536215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.145248,42.822102,-71.145248,42.822102",
+    "geom:latitude":42.822102,
+    "geom:longitude":-71.145248,
+    "iso:country":"US",
+    "sg:address":"29 Sleepy Hollow Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 6523",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JjZ4Y8Z4BfD6tir8JHga3_42.822102_-71.145248@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294217,
+    "wof:geomhash":"9fe2a9b0bcd5e8fb50247b49174de04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873536215
+        }
+    ],
+    "wof:id":873536215,
+    "wof:lastmodified":1464294217,
+    "wof:name":"Scott S Complete Car Care",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -71.145248,
+    42.822102,
+    -71.145248,
+    42.822102
+],
+  "geometry": {"coordinates":[-71.145248,42.822102],"type":"Point"}
+}

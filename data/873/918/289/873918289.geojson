@@ -1,0 +1,80 @@
+{
+  "id": 873918289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.329923,43.375229,-72.329923,43.375229",
+    "geom:latitude":43.375229,
+    "geom:longitude":-72.329923,
+    "iso:country":"US",
+    "sg:address":"126 Washington St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/claremont/115896-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 8922",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78xDYhv1HcGdMzQzNM1XVS_43.375229_-72.329923@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300182,
+    "wof:geomhash":"6053c230b6e9a95e196e2ce1ae50b336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873918289
+        }
+    ],
+    "wof:id":873918289,
+    "wof:lastmodified":1464300182,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.329923,
+    43.375229,
+    -72.329923,
+    43.375229
+],
+  "geometry": {"coordinates":[-72.32992299999999,43.375229],"type":"Point"}
+}

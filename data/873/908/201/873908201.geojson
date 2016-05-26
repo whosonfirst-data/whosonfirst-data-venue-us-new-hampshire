@@ -1,0 +1,71 @@
+{
+  "id": 873908201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52408,42.793637,-71.52408,42.793637",
+    "geom:latitude":42.793637,
+    "geom:longitude":-71.52408,
+    "iso:country":"US",
+    "sg:address":"505 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6923",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zCzL2LZb0efJZoeQ4p3GD_42.793637_-71.524080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299979,
+    "wof:geomhash":"4b2934141f5a85887651509aedd634d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873908201
+        }
+    ],
+    "wof:id":873908201,
+    "wof:lastmodified":1464299979,
+    "wof:name":"New Hmpshire Technical College",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -71.52408,
+    42.793637,
+    -71.52408,
+    42.793637
+],
+  "geometry": {"coordinates":[-71.52408,42.793637],"type":"Point"}
+}

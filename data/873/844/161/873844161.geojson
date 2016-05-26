@@ -1,0 +1,73 @@
+{
+  "id": 873844161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183572,42.750933,-71.183572,42.750933",
+    "geom:latitude":42.750933,
+    "geom:longitude":-71.183572,
+    "iso:country":"US",
+    "sg:address":"90 Pond St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 3473",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LZtJzQiWYnVq68SJfR63A_42.750933_-71.183572@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298659,
+    "wof:geomhash":"01cee9a52ce85a450eceef78f41c5256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873844161
+        }
+    ],
+    "wof:id":873844161,
+    "wof:lastmodified":1464298659,
+    "wof:name":"Community Landscaping",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.183572,
+    42.750933,
+    -71.183572,
+    42.750933
+],
+  "geometry": {"coordinates":[-71.183572,42.750933],"type":"Point"}
+}

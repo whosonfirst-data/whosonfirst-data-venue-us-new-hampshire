@@ -1,0 +1,73 @@
+{
+  "id": 873636757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.911131,43.111362,-71.911131,43.111362",
+    "geom:latitude":43.111362,
+    "geom:longitude":-71.911131,
+    "iso:country":"US",
+    "sg:address":"201 W Main St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 3992",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38iiHsATGvKwFSFUc9oDly_43.111362_-71.911131@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295442,
+    "wof:geomhash":"617f392c46ec682c8cd5e0d9a267c8f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873636757
+        }
+    ],
+    "wof:id":873636757,
+    "wof:lastmodified":1464295442,
+    "wof:name":"D R Wood & Sons Radiator Sales",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -71.911131,
+    43.111362,
+    -71.911131,
+    43.111362
+],
+  "geometry": {"coordinates":[-71.911131,43.111362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873589787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.875756,43.011603,-70.875756,43.011603",
+    "geom:latitude":43.011603,
+    "geom:longitude":-70.875756,
+    "iso:country":"US",
+    "sg:address":"150 Winnicutt Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 580 1355",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858307,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UkObV94dCNnyu174cDf8L_43.011603_-70.875756@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294829,
+    "wof:geomhash":"850aab6fb874a8eee9aa5787821f44c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858307,
+            "region_id":85688689,
+            "venue_id":873589787
+        }
+    ],
+    "wof:id":873589787,
+    "wof:lastmodified":1464294829,
+    "wof:name":"A Little Corner of Spain",
+    "wof:parent_id":85858307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -70.875756,
+    43.011603,
+    -70.875756,
+    43.011603
+],
+  "geometry": {"coordinates":[-70.875756,43.011603],"type":"Point"}
+}

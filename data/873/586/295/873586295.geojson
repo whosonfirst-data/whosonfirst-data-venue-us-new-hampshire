@@ -1,0 +1,73 @@
+{
+  "id": 873586295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.601292,43.286006,-71.601292,43.286006",
+    "geom:latitude":43.286006,
+    "geom:longitude":-71.601292,
+    "iso:country":"US",
+    "sg:address":"45 Eel St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7730",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cJMCOkPsZBxn3T6azyOcM_43.286006_-71.601292@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294787,
+    "wof:geomhash":"8c1841801e469925dfdd1cf294ef19bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873586295
+        }
+    ],
+    "wof:id":873586295,
+    "wof:lastmodified":1464294787,
+    "wof:name":"Concord Gas Heating Svc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.601292,
+    43.286006,
+    -71.601292,
+    43.286006
+],
+  "geometry": {"coordinates":[-71.601292,43.286006],"type":"Point"}
+}

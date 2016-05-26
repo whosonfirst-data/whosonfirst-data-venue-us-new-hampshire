@@ -1,0 +1,93 @@
+{
+  "id": 873924567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485817,42.777271,-71.485817,42.777271",
+    "geom:latitude":42.777271,
+    "geom:longitude":-71.485817,
+    "iso:country":"US",
+    "sg:address":"27 Watson St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 7743",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "appraisers-business",
+        "industrial",
+        "appraisers-commercial",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892287,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Uxgf7BEFzQzrRP15cy8q_42.777271_-71.485817@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300297,
+    "wof:geomhash":"449048b3eb27440ec7fc1f9e9413ace3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892287,
+            "region_id":85688689,
+            "venue_id":873924567
+        }
+    ],
+    "wof:id":873924567,
+    "wof:lastmodified":1464300297,
+    "wof:name":"Able Appraisal Services",
+    "wof:parent_id":85892287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "appraisers-business",
+        "industrial",
+        "appraisers-commercial",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.485817,
+    42.777271,
+    -71.485817,
+    42.777271
+],
+  "geometry": {"coordinates":[-71.485817,42.777271],"type":"Point"}
+}

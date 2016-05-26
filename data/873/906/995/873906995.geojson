@@ -1,0 +1,71 @@
+{
+  "id": 873906995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463158,43.534189,-71.463158,43.534189",
+    "geom:latitude":43.534189,
+    "geom:longitude":-71.463158,
+    "iso:country":"US",
+    "sg:address":"334 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7070",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizzeria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z7qughO2iMGGoKtkV4fts_43.534189_-71.463158@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299958,
+    "wof:geomhash":"b7c2a6033f5bac3956feabf94107f0c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873906995
+        }
+    ],
+    "wof:id":873906995,
+    "wof:lastmodified":1464299958,
+    "wof:name":"Laconia House Of Pizza",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria"
+    ]
+},
+  "bbox": [
+    -71.463158,
+    43.534189,
+    -71.463158,
+    43.534189
+],
+  "geometry": {"coordinates":[-71.46315800000001,43.534189],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873880127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510436,43.190403,-71.510436,43.190403",
+    "geom:latitude":43.190403,
+    "geom:longitude":-71.510436,
+    "iso:country":"US",
+    "sg:address":"84 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 8473",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JPquRtsTm4Pr1zCs8AAmh_43.190403_-71.510436@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299436,
+    "wof:geomhash":"47e14df541b5b12ad61e6a8e0fdf34c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873880127
+        }
+    ],
+    "wof:id":873880127,
+    "wof:lastmodified":1464299436,
+    "wof:name":"Stratham Tire Co Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.510436,
+    43.190403,
+    -71.510436,
+    43.190403
+],
+  "geometry": {"coordinates":[-71.510436,43.190403],"type":"Point"}
+}

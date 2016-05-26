@@ -1,0 +1,71 @@
+{
+  "id": 873579567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.66669,43.470738,-71.66669,43.470738",
+    "geom:latitude":43.470738,
+    "geom:longitude":-71.66669,
+    "iso:country":"US",
+    "sg:address":"324 Hill Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3919",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "foundry",
+        "nonferrous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KC8Wz3DIlXRHOLsJ2Dqw9_43.470738_-71.666690@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294712,
+    "wof:geomhash":"a28bce97a7942c241ba76c63825d4798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873579567
+        }
+    ],
+    "wof:id":873579567,
+    "wof:lastmodified":1464294712,
+    "wof:name":"Quality Castings Co",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry",
+        "nonferrous"
+    ]
+},
+  "bbox": [
+    -71.66669,
+    43.470738,
+    -71.66669,
+    43.470738
+],
+  "geometry": {"coordinates":[-71.66669,43.470738],"type":"Point"}
+}

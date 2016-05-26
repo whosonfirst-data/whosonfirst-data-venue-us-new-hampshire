@@ -1,0 +1,69 @@
+{
+  "id": 873795669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.943395,43.115935,-71.943395,43.115935",
+    "geom:latitude":43.115935,
+    "geom:longitude":-71.943395,
+    "iso:country":"US",
+    "sg:address":"518 W Main St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 478 0520",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gYGOaYeu8lqyzh64Wc34C_43.115935_-71.943395@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297723,
+    "wof:geomhash":"4136497cb612c281766627ebe4153a6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873795669
+        }
+    ],
+    "wof:id":873795669,
+    "wof:lastmodified":1464297723,
+    "wof:name":"Eastern Repair Svc",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -71.943395,
+    43.115935,
+    -71.943395,
+    43.115935
+],
+  "geometry": {"coordinates":[-71.943395,43.115935],"type":"Point"}
+}

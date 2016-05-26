@@ -1,0 +1,73 @@
+{
+  "id": 873877029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.603011,43.291369,-71.603011,43.291369",
+    "geom:latitude":43.291369,
+    "geom:longitude":-71.603011,
+    "iso:country":"US",
+    "sg:address":"5 Gage St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 340 0168",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dental",
+        "hygienist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VFeV2vOw6bsSPqYxRfpiz_43.291369_-71.603011@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299376,
+    "wof:geomhash":"fdcd9e4904188d3bfa8dd9cd05557125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873877029
+        }
+    ],
+    "wof:id":873877029,
+    "wof:lastmodified":1464299376,
+    "wof:name":"Jean Magee",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "hygienist"
+    ]
+},
+  "bbox": [
+    -71.603011,
+    43.291369,
+    -71.603011,
+    43.291369
+],
+  "geometry": {"coordinates":[-71.603011,43.291369],"type":"Point"}
+}

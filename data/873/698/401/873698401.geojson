@@ -1,0 +1,73 @@
+{
+  "id": 873698401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.124896,43.490418,-72.124896,43.490418",
+    "geom:latitude":43.490418,
+    "geom:longitude":-72.124896,
+    "iso:country":"US",
+    "sg:address":"365 Howe Hill Rd",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 1830",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N1vATWgHcidBnXCY3RLnq_43.490418_-72.124896@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296388,
+    "wof:geomhash":"b911f0be11df8d7de8ba4f6e137c1fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873698401
+        }
+    ],
+    "wof:id":873698401,
+    "wof:lastmodified":1464296388,
+    "wof:name":"Animal Inn",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.124896,
+    43.490418,
+    -72.124896,
+    43.490418
+],
+  "geometry": {"coordinates":[-72.12489600000001,43.490418],"type":"Point"}
+}

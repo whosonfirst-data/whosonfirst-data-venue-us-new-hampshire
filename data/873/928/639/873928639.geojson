@@ -1,0 +1,106 @@
+{
+  "id": 873928639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511971,43.145191,-71.511971,43.145191",
+    "geom:latitude":43.145191,
+    "geom:longitude":-71.511971,
+    "iso:country":"US",
+    "sg:address":"79 Knox Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 7730",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "system",
+        "heater",
+        "major",
+        "refinishing",
+        "specialty",
+        "supply",
+        "appliance",
+        "sales",
+        "water",
+        "heating",
+        "small",
+        "contractor",
+        "air conditioning",
+        "radiators-heating"
+    ],
+    "sg:website":"http://www.concordgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RgoNdIcxokBsMfBvUowae_43.145191_-71.511971@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300382,
+    "wof:geomhash":"d5312ad083fec8340522025fd1e6ba87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873928639
+        }
+    ],
+    "wof:id":873928639,
+    "wof:lastmodified":1464300382,
+    "wof:name":"Concord Gas Heating Service",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "heater",
+        "major",
+        "refinishing",
+        "specialty",
+        "supply",
+        "appliance",
+        "sales",
+        "water",
+        "heating",
+        "small",
+        "contractor",
+        "air conditioning",
+        "radiators-heating"
+    ]
+},
+  "bbox": [
+    -71.511971,
+    43.145191,
+    -71.511971,
+    43.145191
+],
+  "geometry": {"coordinates":[-71.511971,43.145191],"type":"Point"}
+}

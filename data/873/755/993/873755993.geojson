@@ -1,0 +1,71 @@
+{
+  "id": 873755993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465802,43.529618,-71.465802,43.529618",
+    "geom:latitude":43.529618,
+    "geom:longitude":-71.465802,
+    "iso:country":"US",
+    "sg:address":"208 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2373",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OXWDEjz4mZv4a4Ttld9U9_43.529618_-71.465802@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297156,
+    "wof:geomhash":"b150241a632039f6bfcecbaaf15073ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873755993
+        }
+    ],
+    "wof:id":873755993,
+    "wof:lastmodified":1464297156,
+    "wof:name":"Belknap Agency",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.465802,
+    43.529618,
+    -71.465802,
+    43.529618
+],
+  "geometry": {"coordinates":[-71.465802,43.529618],"type":"Point"}
+}

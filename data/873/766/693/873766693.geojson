@@ -1,0 +1,79 @@
+{
+  "id": 873766693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445097,42.977005,-71.445097,42.977005",
+    "geom:latitude":42.977005,
+    "geom:longitude":-71.445097,
+    "iso:country":"US",
+    "sg:address":"148 Belmont St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 0414",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ED4ecOxiinQiTwnC1I6vt_42.977005_-71.445097@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297321,
+    "wof:geomhash":"aca41752467b9af771b2cdbcbd1ed1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873766693
+        }
+    ],
+    "wof:id":873766693,
+    "wof:lastmodified":1464297321,
+    "wof:name":"St Anthony School",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "private",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -71.445097,
+    42.977005,
+    -71.445097,
+    42.977005
+],
+  "geometry": {"coordinates":[-71.445097,42.977005],"type":"Point"}
+}

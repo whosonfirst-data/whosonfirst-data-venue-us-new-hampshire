@@ -1,0 +1,71 @@
+{
+  "id": 873707999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.136757,43.485958,-72.136757,43.485958",
+    "geom:latitude":43.485958,
+    "geom:longitude":-72.136757,
+    "iso:country":"US",
+    "sg:address":"478 State Rte 10",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 5501",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Za4l6tMQRtnm7LrTIfRfE_43.485958_-72.136757@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296495,
+    "wof:geomhash":"8b3de9942b3276ffe435d460922d1bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873707999
+        }
+    ],
+    "wof:id":873707999,
+    "wof:lastmodified":1464296495,
+    "wof:name":"Dancer's Ink",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.136757,
+    43.485958,
+    -72.136757,
+    43.485958
+],
+  "geometry": {"coordinates":[-72.136757,43.485958],"type":"Point"}
+}

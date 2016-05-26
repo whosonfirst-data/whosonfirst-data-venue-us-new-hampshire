@@ -1,0 +1,71 @@
+{
+  "id": 873902613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52429,43.040027,-71.52429,43.040027",
+    "geom:latitude":43.040027,
+    "geom:longitude":-71.52429,
+    "iso:country":"US",
+    "sg:address":"278 Tirrell Hill Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 2427",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DIZJ6e8o9URmPrcN2sQlf_43.040027_-71.524290@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299867,
+    "wof:geomhash":"179325d8698275656f2e526b63f231d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873902613
+        }
+    ],
+    "wof:id":873902613,
+    "wof:lastmodified":1464299867,
+    "wof:name":"Loveren Carpentry LLC",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.52429,
+    43.040027,
+    -71.52429,
+    43.040027
+],
+  "geometry": {"coordinates":[-71.52428999999999,43.040027],"type":"Point"}
+}

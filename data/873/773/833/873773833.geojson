@@ -1,0 +1,73 @@
+{
+  "id": 873773833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497802,42.866175,-71.497802,42.866175",
+    "geom:latitude":42.866175,
+    "geom:longitude":-71.497802,
+    "iso:country":"US",
+    "sg:address":"12 Bishop St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 5137",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dSqWpTEfV1YEfzjFoGyCn_42.866175_-71.497802@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297411,
+    "wof:geomhash":"7dfc7fdd92f188129a1e293d90c1c075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873773833
+        }
+    ],
+    "wof:id":873773833,
+    "wof:lastmodified":1464297411,
+    "wof:name":"Merrimack Public Works Dept",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.497802,
+    42.866175,
+    -71.497802,
+    42.866175
+],
+  "geometry": {"coordinates":[-71.49780199999999,42.866175],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873929639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.345708,42.78746,-72.345708,42.78746",
+    "geom:latitude":42.78746,
+    "geom:longitude":-72.345708,
+    "iso:country":"US",
+    "sg:address":"60 Rabbit Hollow Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 239 7427",
+    "sg:postcode":"03470",
+    "sg:province":"NH",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Sk1WhtZSvpwRq1EcEQtt3_42.787460_-72.345708@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300401,
+    "wof:geomhash":"31e5d5a6fe95c3c920138dee4ba7de9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873929639
+        }
+    ],
+    "wof:id":873929639,
+    "wof:lastmodified":1464300401,
+    "wof:name":"Hadley Trucking",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.345708,
+    42.78746,
+    -72.345708,
+    42.78746
+],
+  "geometry": {"coordinates":[-72.345708,42.78746],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873899417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.958477,43.269189,-71.958477,43.269189",
+    "geom:latitude":43.269189,
+    "geom:longitude":-71.958477,
+    "iso:country":"US",
+    "sg:address":"105 E Main St",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2462",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fx46XE05mnloIVhJ9emSb_43.269189_-71.958477@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299807,
+    "wof:geomhash":"8e80def36fb41205e6816282e6b4e975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873899417
+        }
+    ],
+    "wof:id":873899417,
+    "wof:lastmodified":1464299807,
+    "wof:name":"Bruce's Auto Repair Inc",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.958477,
+    43.269189,
+    -71.958477,
+    43.269189
+],
+  "geometry": {"coordinates":[-71.958477,43.269189],"type":"Point"}
+}

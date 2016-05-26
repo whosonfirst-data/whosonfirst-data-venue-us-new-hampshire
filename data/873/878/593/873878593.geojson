@@ -1,0 +1,75 @@
+{
+  "id": 873878593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073226,42.820208,-71.073226,42.820208",
+    "geom:latitude":42.820208,
+    "geom:longitude":-71.073226,
+    "iso:country":"US",
+    "sg:address":"77 Forrest St",
+    "sg:city":"Plaistow",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 5376",
+    "sg:postcode":"03865",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950417,
+        102084463,
+        85846033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UcOjwHv4xItaOZxcMVe8T_42.820208_-71.073226@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299407,
+    "wof:geomhash":"360b92045c0d33cbc873acea48a54a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85846033,
+            "region_id":85688645,
+            "venue_id":873878593
+        }
+    ],
+    "wof:id":873878593,
+    "wof:lastmodified":1464299407,
+    "wof:name":"Ordway Trucking",
+    "wof:parent_id":85846033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.073226,
+    42.820208,
+    -71.073226,
+    42.820208
+],
+  "geometry": {"coordinates":[-71.07322600000001,42.820208],"type":"Point"}
+}

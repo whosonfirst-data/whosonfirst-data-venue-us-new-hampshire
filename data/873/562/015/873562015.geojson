@@ -1,0 +1,77 @@
+{
+  "id": 873562015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512154,44.598949,-71.512154,44.598949",
+    "geom:latitude":44.598949,
+    "geom:longitude":-71.512154,
+    "iso:country":"US",
+    "sg:address":"17 State St",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 1822",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5agiotQPTxvCaRAAQNGg41_44.598949_-71.512154@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"199397383549bbea21352c93c2bd8d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873562015
+        }
+    ],
+    "wof:id":873562015,
+    "wof:lastmodified":1464294521,
+    "wof:name":"Movie House",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.512154,
+    44.598949,
+    -71.512154,
+    44.598949
+],
+  "geometry": {"coordinates":[-71.512154,44.598949],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873894635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.637109,43.205796,-71.637109,43.205796",
+    "geom:latitude":43.205796,
+    "geom:longitude":-71.637109,
+    "iso:country":"US",
+    "sg:address":"20 Beech Hill Rd",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 4662",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "day"
+    ],
+    "sg:website":"www.hopkintonind.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844917,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XIq69RDasSoNXOeBmTRDL_43.205796_-71.637109@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299716,
+    "wof:geomhash":"62fd79c9263ac1a3537479f40b92fd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85844917,
+            "region_id":85688689,
+            "venue_id":873894635
+        }
+    ],
+    "wof:id":873894635,
+    "wof:lastmodified":1464299716,
+    "wof:name":"Hopkinton Independent School",
+    "wof:parent_id":85844917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.637109,
+    43.205796,
+    -71.637109,
+    43.205796
+],
+  "geometry": {"coordinates":[-71.637109,43.205796],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873612271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.317009,42.761412,-71.317009,42.761412",
+    "geom:latitude":42.761412,
+    "geom:longitude":-71.317009,
+    "iso:country":"US",
+    "sg:address":"17 Arlene Dr",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 9562",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jJqw9KASvZn2KOgpmy1sj_42.761412_-71.317009@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295169,
+    "wof:geomhash":"77342ed3c60353fbeba3e78a8223d311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873612271
+        }
+    ],
+    "wof:id":873612271,
+    "wof:lastmodified":1464295169,
+    "wof:name":"Cadilac Cleaners",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.317009,
+    42.761412,
+    -71.317009,
+    42.761412
+],
+  "geometry": {"coordinates":[-71.317009,42.761412],"type":"Point"}
+}

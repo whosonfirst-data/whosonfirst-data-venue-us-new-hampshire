@@ -1,0 +1,82 @@
+{
+  "id": 873618163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.294219,42.914173,-72.294219,42.914173",
+    "geom:latitude":42.914173,
+    "geom:longitude":-72.294219,
+    "iso:country":"US",
+    "sg:address":"508 Winchester St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3333",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "provides",
+        "automobile"
+    ],
+    "sg:website":"www.monro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bGn1mB4M9Dvenm6G2kDCG_42.914173_-72.294219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295226,
+    "wof:geomhash":"75a2c8d827ba585e9d844e2bbc44f785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873618163
+        }
+    ],
+    "wof:id":873618163,
+    "wof:lastmodified":1464295226,
+    "wof:name":"Monro Muffler Brake & Svc",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "provides",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.294219,
+    42.914173,
+    -72.294219,
+    42.914173
+],
+  "geometry": {"coordinates":[-72.294219,42.914173],"type":"Point"}
+}

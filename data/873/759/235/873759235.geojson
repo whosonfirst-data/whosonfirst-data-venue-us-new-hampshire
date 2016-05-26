@@ -1,0 +1,69 @@
+{
+  "id": 873759235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.780016,43.179513,-71.780016,43.179513",
+    "geom:latitude":43.179513,
+    "geom:longitude":-71.780016,
+    "iso:country":"US",
+    "sg:address":"49 Old Concord Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7982",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ltUwbcfeCBgEkB2EyNrXk_43.179513_-71.780016@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297197,
+    "wof:geomhash":"6c7d7a58bc081dc661219a2db07541bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873759235
+        }
+    ],
+    "wof:id":873759235,
+    "wof:lastmodified":1464297197,
+    "wof:name":"Golden Pineapple",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.780016,
+    43.179513,
+    -71.780016,
+    43.179513
+],
+  "geometry": {"coordinates":[-71.780016,43.179513],"type":"Point"}
+}

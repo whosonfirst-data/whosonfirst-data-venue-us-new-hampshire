@@ -1,0 +1,71 @@
+{
+  "id": 873607045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.20996,43.393022,-71.20996,43.393022",
+    "geom:latitude":43.393022,
+    "geom:longitude":-71.20996,
+    "iso:country":"US",
+    "sg:address":"15 Stonewall Rd",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 4301",
+    "sg:postcode":"03809",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4stGCu4zi9frsHpA8EM7Ft_43.393022_-71.209960@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295078,
+    "wof:geomhash":"bdf5ab360d96400c2905ce69da69e09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873607045
+        }
+    ],
+    "wof:id":873607045,
+    "wof:lastmodified":1464295078,
+    "wof:name":"C T S Electric",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.20996,
+    43.393022,
+    -71.20996,
+    43.393022
+],
+  "geometry": {"coordinates":[-71.20996,43.393022],"type":"Point"}
+}

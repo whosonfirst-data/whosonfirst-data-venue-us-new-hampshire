@@ -1,0 +1,85 @@
+{
+  "id": 873872963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431752,43.573234,-71.431752,43.573234",
+    "geom:latitude":43.573234,
+    "geom:longitude":-71.431752,
+    "iso:country":"US",
+    "sg:address":"4 Aviation Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5101",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "connector",
+        "electrical",
+        "barrier",
+        "for",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pvrFFSFopaQosi6FvMhZe_43.573234_-71.431752@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299297,
+    "wof:geomhash":"d742e2b5e98cddd3e9bda1793fe882ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873872963
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873872963
+        }
+    ],
+    "wof:id":873872963,
+    "wof:lastmodified":1464299297,
+    "wof:name":"Molex Industrial Ventures Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "connector",
+        "electrical",
+        "barrier",
+        "for",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.431752,
+    43.573234,
+    -71.431752,
+    43.573234
+],
+  "geometry": {"coordinates":[-71.431752,43.573234],"type":"Point"}
+}

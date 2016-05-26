@@ -1,0 +1,77 @@
+{
+  "id": 873685347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.143526,43.646662,-72.143526,43.646662",
+    "geom:latitude":43.646662,
+    "geom:longitude":-72.143526,
+    "iso:country":"US",
+    "sg:address":"7 May St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 5911",
+    "sg:postcode":"03748",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832831,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35qt58ijfANsFhoFRU42AZ_43.646662_-72.143526@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296147,
+    "wof:geomhash":"494fe62c9c7109826b3ef05aa03d2304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85832831,
+            "region_id":85688689,
+            "venue_id":873685347
+        }
+    ],
+    "wof:id":873685347,
+    "wof:lastmodified":1464296147,
+    "wof:name":"Hayes Transportation",
+    "wof:parent_id":85832831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.143526,
+    43.646662,
+    -72.143526,
+    43.646662
+],
+  "geometry": {"coordinates":[-72.14352599999999,43.646662],"type":"Point"}
+}

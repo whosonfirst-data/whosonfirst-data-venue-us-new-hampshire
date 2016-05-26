@@ -1,0 +1,76 @@
+{
+  "id": 873905309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.194336,44.420552,-71.194336,44.420552",
+    "geom:latitude":44.420552,
+    "geom:longitude":-71.194336,
+    "iso:country":"US",
+    "sg:address":"418 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5922",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tire",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Txhbs5YKpxYFXXcne4m7F_44.420552_-71.194336@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299929,
+    "wof:geomhash":"ac5ad6f4247145b9fb60dc6664b39d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873905309
+        }
+    ],
+    "wof:id":873905309,
+    "wof:lastmodified":1464299929,
+    "wof:name":"VIP Discount Auto Center",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.194336,
+    44.420552,
+    -71.194336,
+    44.420552
+],
+  "geometry": {"coordinates":[-71.19433600000001,44.420552],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873643225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40825,42.978293,-71.40825,42.978293",
+    "geom:latitude":42.978293,
+    "geom:longitude":-71.40825,
+    "iso:country":"US",
+    "sg:address":"875 Holt Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 695 5527",
+    "sg:postcode":"03109",
+    "sg:province":"NH",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526163,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51A3KaUL7taUeFBdYl5wsV_42.978293_-71.408250@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295517,
+    "wof:geomhash":"fb79e1c25b45f71f17029e71ae980d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526163,
+            "region_id":85688689,
+            "venue_id":873643225
+        }
+    ],
+    "wof:id":873643225,
+    "wof:lastmodified":1464295517,
+    "wof:name":"Verizon",
+    "wof:parent_id":420526163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -71.40825,
+    42.978293,
+    -71.40825,
+    42.978293
+],
+  "geometry": {"coordinates":[-71.40825,42.978293],"type":"Point"}
+}

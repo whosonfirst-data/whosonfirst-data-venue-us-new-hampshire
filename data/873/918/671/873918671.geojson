@@ -1,0 +1,91 @@
+{
+  "id": 873918671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.108875,44.017581,-71.108875,44.017581",
+    "geom:latitude":44.017581,
+    "geom:longitude":-71.108875,
+    "iso:country":"US",
+    "sg:address":"46 NORTH-SOUTH Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/conway/149310-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 0130",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IocPdLFzZJY7Ds1Ku7A7t_44.017581_-71.108875@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300189,
+    "wof:geomhash":"c5815880c7020bc2e66175f85e158fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873918671
+        }
+    ],
+    "wof:id":873918671,
+    "wof:lastmodified":1464300189,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.108875,
+    44.017581,
+    -71.108875,
+    44.017581
+],
+  "geometry": {"coordinates":[-71.108875,44.017581],"type":"Point"}
+}

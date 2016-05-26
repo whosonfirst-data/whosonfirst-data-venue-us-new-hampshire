@@ -1,0 +1,71 @@
+{
+  "id": 873765749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.741384,43.030933,-70.741384,43.030933",
+    "geom:latitude":43.030933,
+    "geom:longitude":-70.741384,
+    "iso:country":"US",
+    "sg:address":"143 Clark Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 8681",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zw152eMLWtdM3yywwDqlx_43.030933_-70.741384@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297309,
+    "wof:geomhash":"dcb5744f261582ff93a589e3534125f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85854299,
+            "region_id":85688689,
+            "venue_id":873765749
+        }
+    ],
+    "wof:id":873765749,
+    "wof:lastmodified":1464297309,
+    "wof:name":"Green Penguin Landscaping",
+    "wof:parent_id":85854299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.741384,
+    43.030933,
+    -70.741384,
+    43.030933
+],
+  "geometry": {"coordinates":[-70.741384,43.030933],"type":"Point"}
+}

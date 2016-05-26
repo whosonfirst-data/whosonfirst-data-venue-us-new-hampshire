@@ -1,0 +1,87 @@
+{
+  "id": 873919195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437357,42.960103,-71.437357,42.960103",
+    "geom:latitude":42.960103,
+    "geom:longitude":-71.437357,
+    "iso:country":"US",
+    "sg:address":"1229 S Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/99198-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 0542",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11gaAho3xK4e20TJgCJovR_42.960296_-71.437633@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300198,
+    "wof:geomhash":"c2932e44aaa08730d76ce29056b63d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873919195
+        }
+    ],
+    "wof:id":873919195,
+    "wof:lastmodified":1464300198,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.437357,
+    42.960103,
+    -71.437357,
+    42.960103
+],
+  "geometry": {"coordinates":[-71.43735700000001,42.960103],"type":"Point"}
+}

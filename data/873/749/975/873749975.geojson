@@ -1,0 +1,73 @@
+{
+  "id": 873749975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.618833,42.875721,-71.618833,42.875721",
+    "geom:latitude":42.875721,
+    "geom:longitude":-71.618833,
+    "iso:country":"US",
+    "sg:address":"22 Dodge Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2317",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DgicHR8AA4VnVmjKHCqSO_42.875721_-71.618833@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297074,
+    "wof:geomhash":"a85499c07927b38b12d4ac9cc633cc39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873749975
+        }
+    ],
+    "wof:id":873749975,
+    "wof:lastmodified":1464297074,
+    "wof:name":"Amherst Highway Dept",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.618833,
+    42.875721,
+    -71.618833,
+    42.875721
+],
+  "geometry": {"coordinates":[-71.618833,42.875721],"type":"Point"}
+}

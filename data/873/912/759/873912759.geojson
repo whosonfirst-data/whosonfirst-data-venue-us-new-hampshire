@@ -1,0 +1,86 @@
+{
+  "id": 873912759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.321209,42.949711,-72.321209,42.949711",
+    "geom:latitude":42.949711,
+    "geom:longitude":-72.321209,
+    "iso:country":"US",
+    "sg:address":"800 Park Ave",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 8559",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engraver",
+        "wood",
+        "business",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892245,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fl0e8wXWFdBtMA5yD2svE_42.949711_-72.321209@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300065,
+    "wof:geomhash":"c61f0db9c623af16784cb49f67499323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892245,
+            "region_id":85688689,
+            "venue_id":873912759
+        }
+    ],
+    "wof:id":873912759,
+    "wof:lastmodified":1464300065,
+    "wof:name":"Engrave-It",
+    "wof:parent_id":85892245,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engraver",
+        "wood",
+        "business",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -72.321209,
+    42.949711,
+    -72.321209,
+    42.949711
+],
+  "geometry": {"coordinates":[-72.321209,42.949711],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873811783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533587,43.564581,-71.533587,43.564581",
+    "geom:latitude":43.564581,
+    "geom:longitude":-71.533587,
+    "iso:country":"US",
+    "sg:address":"27 Eagle Ledge Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1199",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PCfuN050vtNQUntUyhhKt_43.564581_-71.533587@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297957,
+    "wof:geomhash":"f57ce78a06b502d16292eafb8ac26d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873811783
+        }
+    ],
+    "wof:id":873811783,
+    "wof:lastmodified":1464297957,
+    "wof:name":"Familiar Surroundings Pet",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.533587,
+    43.564581,
+    -71.533587,
+    43.564581
+],
+  "geometry": {"coordinates":[-71.533587,43.564581],"type":"Point"}
+}

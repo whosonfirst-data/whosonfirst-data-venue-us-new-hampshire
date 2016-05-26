@@ -1,0 +1,81 @@
+{
+  "id": 873714839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433576,43.577359,-71.433576,43.577359",
+    "geom:latitude":43.577359,
+    "geom:longitude":-71.433576,
+    "iso:country":"US",
+    "sg:address":"32 Artisan Ct",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 0101",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60wLwitLe53cydI6X30iD8_43.577359_-71.433576@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296579,
+    "wof:geomhash":"57764ae41755a042789b67231f052bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873714839
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873714839
+        }
+    ],
+    "wof:id":873714839,
+    "wof:lastmodified":1464296579,
+    "wof:name":"Meridian Construction Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.433576,
+    43.577359,
+    -71.433576,
+    43.577359
+],
+  "geometry": {"coordinates":[-71.433576,43.577359],"type":"Point"}
+}

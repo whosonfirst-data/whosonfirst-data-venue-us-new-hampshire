@@ -1,0 +1,71 @@
+{
+  "id": 873752127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.190643,44.600375,-71.190643,44.600375",
+    "geom:latitude":44.600375,
+    "geom:longitude":-71.190643,
+    "iso:country":"US",
+    "sg:address":"76 Young Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 2535",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p6ts84YoW9rBj7b5sStWw_44.600375_-71.190643@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297102,
+    "wof:geomhash":"4bdfad1996b8ba4f9f780fa7e2b6cc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873752127
+        }
+    ],
+    "wof:id":873752127,
+    "wof:lastmodified":1464297102,
+    "wof:name":"Petroeast Compressed Gases LLC",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.190643,
+    44.600375,
+    -71.190643,
+    44.600375
+],
+  "geometry": {"coordinates":[-71.19064299999999,44.600375],"type":"Point"}
+}

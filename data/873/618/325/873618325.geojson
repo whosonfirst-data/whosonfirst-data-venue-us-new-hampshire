@@ -1,0 +1,71 @@
+{
+  "id": 873618325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307001,42.987177,-71.307001,42.987177",
+    "geom:latitude":42.987177,
+    "geom:longitude":-71.307001,
+    "iso:country":"US",
+    "sg:address":"99 Pond View Dr",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 1302",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "abstract",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15kJtj36QC4sDFkKFELcjq_42.987177_-71.307001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295233,
+    "wof:geomhash":"59c2f65ffcda0489044d3408f39c18fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873618325
+        }
+    ],
+    "wof:id":873618325,
+    "wof:lastmodified":1464295233,
+    "wof:name":"Richer Title Services",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstract",
+        "title"
+    ]
+},
+  "bbox": [
+    -71.307001,
+    42.987177,
+    -71.307001,
+    42.987177
+],
+  "geometry": {"coordinates":[-71.307001,42.987177],"type":"Point"}
+}

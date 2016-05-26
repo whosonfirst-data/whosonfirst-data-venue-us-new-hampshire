@@ -1,0 +1,73 @@
+{
+  "id": 873885133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251141,43.059395,-71.251141,43.059395",
+    "geom:latitude":43.059395,
+    "geom:longitude":-71.251141,
+    "iso:country":"US",
+    "sg:address":"472 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8591",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U262uxtnD3c6XQVcSQ9yg_43.059395_-71.251141@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299541,
+    "wof:geomhash":"96adf319bd08d79712ef87d76e12b84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873885133
+        }
+    ],
+    "wof:id":873885133,
+    "wof:lastmodified":1464299541,
+    "wof:name":"Candray Pet Care Ctr",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.251141,
+    43.059395,
+    -71.251141,
+    43.059395
+],
+  "geometry": {"coordinates":[-71.251141,43.059395],"type":"Point"}
+}

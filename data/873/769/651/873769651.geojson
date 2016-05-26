@@ -1,0 +1,69 @@
+{
+  "id": 873769651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233084,42.786721,-71.233084,42.786721",
+    "geom:latitude":42.786721,
+    "geom:longitude":-71.233084,
+    "iso:country":"US",
+    "sg:address":"113 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4243",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n61Gb8f3abOvl6W6yEGFq_42.786721_-71.233084@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297357,
+    "wof:geomhash":"7382480442174c34d6a973891f1448f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873769651
+        }
+    ],
+    "wof:id":873769651,
+    "wof:lastmodified":1464297357,
+    "wof:name":"Scrub A Dub Auto Wash",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -71.233084,
+    42.786721,
+    -71.233084,
+    42.786721
+],
+  "geometry": {"coordinates":[-71.23308400000001,42.786721],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873913773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200729,43.580512,-71.200729,43.580512",
+    "geom:latitude":43.580512,
+    "geom:longitude":-71.200729,
+    "iso:country":"US",
+    "sg:address":"240 S Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 7500",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:website":"www.hugginshospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01BwF7byPZkODOItkATQNp_43.580490_-71.200728@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300084,
+    "wof:geomhash":"1b9a4e08d78b7d55ad5c5a92f60753c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873913773
+        }
+    ],
+    "wof:id":873913773,
+    "wof:lastmodified":1464300084,
+    "wof:name":"Huggins Hospital",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.200729,
+    43.580512,
+    -71.200729,
+    43.580512
+],
+  "geometry": {"coordinates":[-71.200729,43.580512],"type":"Point"}
+}

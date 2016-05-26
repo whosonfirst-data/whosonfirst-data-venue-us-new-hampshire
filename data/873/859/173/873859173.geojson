@@ -1,0 +1,73 @@
+{
+  "id": 873859173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439218,43.264754,-71.439218,43.264754",
+    "geom:latitude":43.264754,
+    "geom:longitude":-71.439218,
+    "iso:country":"US",
+    "sg:address":"304 Chichester Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 5895",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ggAcyUFhxF5Jv8aB35NMq_43.264754_-71.439218@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299000,
+    "wof:geomhash":"a579894b7b9bb5eec3fbd972a19b9ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873859173
+        }
+    ],
+    "wof:id":873859173,
+    "wof:lastmodified":1464299000,
+    "wof:name":"David Heath Auto Body",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.439218,
+    43.264754,
+    -71.439218,
+    43.264754
+],
+  "geometry": {"coordinates":[-71.439218,43.264754],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873613859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422103,42.749707,-71.422103,42.749707",
+    "geom:latitude":42.749707,
+    "geom:longitude":-71.422103,
+    "iso:country":"US",
+    "sg:address":"14 Pelham Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 4698",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32XCwchSMyUsv3BEZNnkFV_42.749707_-71.422103@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295184,
+    "wof:geomhash":"6475ae069e325058b1b66957dc6109c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873613859
+        }
+    ],
+    "wof:id":873613859,
+    "wof:lastmodified":1464295184,
+    "wof:name":"J F McNulty",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.422103,
+    42.749707,
+    -71.422103,
+    42.749707
+],
+  "geometry": {"coordinates":[-71.42210300000001,42.749707],"type":"Point"}
+}

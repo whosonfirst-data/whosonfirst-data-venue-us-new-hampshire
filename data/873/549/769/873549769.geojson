@@ -1,0 +1,75 @@
+{
+  "id": 873549769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831811,42.973276,-70.831811,42.973276",
+    "geom:latitude":42.973276,
+    "geom:longitude":-70.831811,
+    "iso:country":"US",
+    "sg:address":"225 Atlantic Ave",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2834",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "house",
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975123,
+        102086507,
+        85810127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64PKaRWKCjkwRoRT8eT6RC_42.973276_-70.831811@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294375,
+    "wof:geomhash":"861ae7f9337bbb9ce0d0c559507618a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975123,
+            "neighbourhood_id":85810127,
+            "region_id":85688689,
+            "venue_id":873549769
+        }
+    ],
+    "wof:id":873549769,
+    "wof:lastmodified":1464294375,
+    "wof:name":"Northeast Building Movers",
+    "wof:parent_id":85810127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "house",
+        "mover"
+    ]
+},
+  "bbox": [
+    -70.831811,
+    42.973276,
+    -70.831811,
+    42.973276
+],
+  "geometry": {"coordinates":[-70.831811,42.973276],"type":"Point"}
+}

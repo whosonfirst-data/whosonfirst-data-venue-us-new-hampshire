@@ -1,0 +1,69 @@
+{
+  "id": 873855263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.14642,43.453281,-72.14642,43.453281",
+    "geom:latitude":43.453281,
+    "geom:longitude":-72.14642,
+    "iso:country":"US",
+    "sg:address":"414 Pine Hill Rd",
+    "sg:city":"Croydon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 0981",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HkPBcclJH5UUX2GTxY0af_43.453281_-72.146420@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298918,
+    "wof:geomhash":"1e8ffe0a44e53472a0a9dec214da41b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873855263
+        }
+    ],
+    "wof:id":873855263,
+    "wof:lastmodified":1464298918,
+    "wof:name":"Pennyroyal Hill Land Surveying",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -72.14642,
+    43.453281,
+    -72.14642,
+    43.453281
+],
+  "geometry": {"coordinates":[-72.14642000000001,43.453281],"type":"Point"}
+}

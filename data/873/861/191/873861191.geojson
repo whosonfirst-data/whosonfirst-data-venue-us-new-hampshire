@@ -1,0 +1,69 @@
+{
+  "id": 873861191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.350687,43.579724,-72.350687,43.579724",
+    "geom:latitude":43.579724,
+    "geom:longitude":-72.350687,
+    "iso:country":"US",
+    "sg:address":"396 State Rte 12",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 8551",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hCkwjANmH3R3s2sDM84rS_43.579724_-72.350687@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299063,
+    "wof:geomhash":"6c034d2cc0cc991d02a54b89d68d3235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873861191
+        }
+    ],
+    "wof:id":873861191,
+    "wof:lastmodified":1464299063,
+    "wof:name":"Don Henry & Sons",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.350687,
+    43.579724,
+    -72.350687,
+    43.579724
+],
+  "geometry": {"coordinates":[-72.35068699999999,43.579724],"type":"Point"}
+}

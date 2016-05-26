@@ -1,0 +1,71 @@
+{
+  "id": 873691429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.235467,42.765955,-71.235467,42.765955",
+    "geom:latitude":42.765955,
+    "geom:longitude":-71.235467,
+    "iso:country":"US",
+    "sg:address":"9 Trolley Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 5880",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mxx93oXBwaHbAAOI9wRbh_42.765955_-71.235467@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296309,
+    "wof:geomhash":"c1562ce0ca315de7a0483a5b19cc722a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873691429
+        }
+    ],
+    "wof:id":873691429,
+    "wof:lastmodified":1464296309,
+    "wof:name":"A Cook Construction",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.235467,
+    42.765955,
+    -71.235467,
+    42.765955
+],
+  "geometry": {"coordinates":[-71.235467,42.765955],"type":"Point"}
+}

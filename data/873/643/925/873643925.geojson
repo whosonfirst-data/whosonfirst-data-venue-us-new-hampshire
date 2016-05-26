@@ -1,0 +1,75 @@
+{
+  "id": 873643925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467508,42.997404,-71.467508,42.997404",
+    "geom:latitude":42.997404,
+    "geom:longitude":-71.467508,
+    "iso:country":"US",
+    "sg:address":"155 Dow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 4333",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1es3Oonq0U1hv3smKqpBp9_42.997404_-71.467508@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295524,
+    "wof:geomhash":"1911c6b87d27858f0ec9c1c86c95132b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873643925
+        }
+    ],
+    "wof:id":873643925,
+    "wof:lastmodified":1464295524,
+    "wof:name":"Creative Office Pavilion",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.467508,
+    42.997404,
+    -71.467508,
+    42.997404
+],
+  "geometry": {"coordinates":[-71.467508,42.997404],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873850985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.793425,43.000935,-70.793425,43.000935",
+    "geom:latitude":43.000935,
+    "geom:longitude":-70.793425,
+    "iso:country":"US",
+    "sg:address":"960 Washington Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 8909",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LX3GlWqrdbwv8xinzzRfU_43.000935_-70.793425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298831,
+    "wof:geomhash":"689b6d028c0b353f13b9bafbe5b69116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873850985
+        }
+    ],
+    "wof:id":873850985,
+    "wof:lastmodified":1464298831,
+    "wof:name":"Tucker Associates",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.793425,
+    43.000935,
+    -70.793425,
+    43.000935
+],
+  "geometry": {"coordinates":[-70.793425,43.000935],"type":"Point"}
+}

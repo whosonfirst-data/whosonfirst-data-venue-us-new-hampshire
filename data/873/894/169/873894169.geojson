@@ -1,0 +1,88 @@
+{
+  "id": 873894169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.936893,43.28307,-70.936893,43.28307",
+    "geom:latitude":43.28307,
+    "geom:longitude":-70.936893,
+    "iso:country":"US",
+    "sg:address":"11 Continental Blvd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 775 5200",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "comm",
+        "component",
+        "system",
+        "microwave",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816725,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EJkseVYeQphb6ZtMmOFhY_43.283070_-70.936893@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299708,
+    "wof:geomhash":"84600b5453aaa1dbdee763ca7d8e1861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85816725,
+            "region_id":85688689,
+            "venue_id":873894169
+        }
+    ],
+    "wof:id":873894169,
+    "wof:lastmodified":1464299708,
+    "wof:name":"Continental Microwave & Tl Co",
+    "wof:parent_id":85816725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comm",
+        "component",
+        "system",
+        "microwave",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -70.936893,
+    43.28307,
+    -70.936893,
+    43.28307
+],
+  "geometry": {"coordinates":[-70.936893,43.28307],"type":"Point"}
+}

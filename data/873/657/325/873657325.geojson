@@ -1,0 +1,71 @@
+{
+  "id": 873657325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50732,42.996107,-71.50732,42.996107",
+    "geom:latitude":42.996107,
+    "geom:longitude":-71.50732,
+    "iso:country":"US",
+    "sg:address":"9 Plummer St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 0562",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nSjlYdEqOEh8hXk8ooYyN_42.996107_-71.507320@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295670,
+    "wof:geomhash":"aeffc72c613886579f3e22840969ca04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873657325
+        }
+    ],
+    "wof:id":873657325,
+    "wof:lastmodified":1464295670,
+    "wof:name":"Lavin Electric Inc",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.50732,
+    42.996107,
+    -71.50732,
+    42.996107
+],
+  "geometry": {"coordinates":[-71.50732000000001,42.996107],"type":"Point"}
+}

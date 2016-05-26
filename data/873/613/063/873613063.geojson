@@ -1,0 +1,71 @@
+{
+  "id": 873613063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.831562,43.016149,-70.831562,43.016149",
+    "geom:latitude":43.016149,
+    "geom:longitude":-70.831562,
+    "iso:country":"US",
+    "sg:address":"61 September Dr",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8558",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XOGNHQXAVu5cTlrk44xjc_43.016149_-70.831562@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295176,
+    "wof:geomhash":"3051739ca447dce24be3a0be0fdd4926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873613063
+        }
+    ],
+    "wof:id":873613063,
+    "wof:lastmodified":1464295176,
+    "wof:name":"Ramsdell Electric",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.831562,
+    43.016149,
+    -70.831562,
+    43.016149
+],
+  "geometry": {"coordinates":[-70.83156200000001,43.016149],"type":"Point"}
+}

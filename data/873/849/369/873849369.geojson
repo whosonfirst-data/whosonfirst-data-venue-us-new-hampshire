@@ -1,0 +1,71 @@
+{
+  "id": 873849369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.528716,42.796065,-71.528716,42.796065",
+    "geom:latitude":42.796065,
+    "geom:longitude":-71.528716,
+    "iso:country":"US",
+    "sg:address":"542 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 9645",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2injXJJ6tSMtPPeHqEJiok_42.796065_-71.528716@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298799,
+    "wof:geomhash":"58d276f3715ac527654599fc89532c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873849369
+        }
+    ],
+    "wof:id":873849369,
+    "wof:lastmodified":1464298799,
+    "wof:name":"Alpha Title",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -71.528716,
+    42.796065,
+    -71.528716,
+    42.796065
+],
+  "geometry": {"coordinates":[-71.528716,42.796065],"type":"Point"}
+}

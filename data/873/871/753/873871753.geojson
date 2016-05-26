@@ -1,0 +1,76 @@
+{
+  "id": 873871753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531297,43.344741,-71.531297,43.344741",
+    "geom:latitude":43.344741,
+    "geom:longitude":-71.531297,
+    "iso:country":"US",
+    "sg:address":"165 Baptist Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4100",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kku5m1rHOkmJkMXJ0dkpg_43.344741_-71.531297@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299270,
+    "wof:geomhash":"63e5add0ed4e65b6fc13b9332e3126bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873871753
+        }
+    ],
+    "wof:id":873871753,
+    "wof:lastmodified":1464299270,
+    "wof:name":"Specialty Gunsmithing Services",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -71.531297,
+    43.344741,
+    -71.531297,
+    43.344741
+],
+  "geometry": {"coordinates":[-71.531297,43.344741],"type":"Point"}
+}

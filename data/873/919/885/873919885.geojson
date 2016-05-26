@@ -1,0 +1,71 @@
+{
+  "id": 873919885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.664341,42.732728,-71.664341,42.732728",
+    "geom:latitude":42.732728,
+    "geom:longitude":-71.664341,
+    "iso:country":"US",
+    "sg:address":"4 Bond St",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 5586",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85849507,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Na501DKXQdA3BjYfqdwdU_42.732728_-71.664341@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300209,
+    "wof:geomhash":"a9c010ea6ba86687472e57672ce5f4b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85849507,
+            "region_id":85688645,
+            "venue_id":873919885
+        }
+    ],
+    "wof:id":873919885,
+    "wof:lastmodified":1464300209,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85849507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.664341,
+    42.732728,
+    -71.664341,
+    42.732728
+],
+  "geometry": {"coordinates":[-71.66434099999999,42.732728],"type":"Point"}
+}

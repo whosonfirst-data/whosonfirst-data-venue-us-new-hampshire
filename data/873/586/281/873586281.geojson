@@ -1,0 +1,71 @@
+{
+  "id": 873586281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.634317,43.176156,-71.634317,43.176156",
+    "geom:latitude":43.176156,
+    "geom:longitude":-71.634317,
+    "iso:country":"US",
+    "sg:address":"528 Farrington Corner Rd",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 9249",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840195,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jM9DrltUjjRWpPfNA0waP_43.176156_-71.634317@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294787,
+    "wof:geomhash":"2ba84f5232b09aeb1c3e53867bc9b41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85840195,
+            "region_id":85688689,
+            "venue_id":873586281
+        }
+    ],
+    "wof:id":873586281,
+    "wof:lastmodified":1464294787,
+    "wof:name":"Imagi Lines",
+    "wof:parent_id":85840195,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.634317,
+    43.176156,
+    -71.634317,
+    43.176156
+],
+  "geometry": {"coordinates":[-71.634317,43.176156],"type":"Point"}
+}

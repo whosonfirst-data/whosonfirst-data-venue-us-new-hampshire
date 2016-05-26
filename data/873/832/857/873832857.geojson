@@ -1,0 +1,75 @@
+{
+  "id": 873832857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.96289,42.859141,-71.96289,42.859141",
+    "geom:latitude":42.859141,
+    "geom:longitude":-71.96289,
+    "iso:country":"US",
+    "sg:address":"53 Jaffrey Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 7930",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526171,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qwOT3m2AzR2Wm3AxhL3Lw_42.859141_-71.962890@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298397,
+    "wof:geomhash":"a45df05cfd26bf4074d2f532d41d926d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":420526171,
+            "region_id":85688689,
+            "venue_id":873832857
+        }
+    ],
+    "wof:id":873832857,
+    "wof:lastmodified":1464298397,
+    "wof:name":"Kernel Bakery",
+    "wof:parent_id":420526171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.96289,
+    42.859141,
+    -71.96289,
+    42.859141
+],
+  "geometry": {"coordinates":[-71.96289,42.859141],"type":"Point"}
+}

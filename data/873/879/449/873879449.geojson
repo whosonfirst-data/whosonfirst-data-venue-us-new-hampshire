@@ -1,0 +1,70 @@
+{
+  "id": 873879449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536458,43.155258,-71.536458,43.155258",
+    "geom:latitude":43.155258,
+    "geom:longitude":-71.536458,
+    "iso:country":"US",
+    "sg:address":"3 Bow Center Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 2222",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.bow-nh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i1vzbt0R93AB8v6cztotj_43.155258_-71.536458@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299422,
+    "wof:geomhash":"e1c01faddb28a87d7c327ea0e1549c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873879449
+        }
+    ],
+    "wof:id":873879449,
+    "wof:lastmodified":1464299422,
+    "wof:name":"Bow Parks & Recreation Dept",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.536458,
+    43.155258,
+    -71.536458,
+    43.155258
+],
+  "geometry": {"coordinates":[-71.536458,43.155258],"type":"Point"}
+}

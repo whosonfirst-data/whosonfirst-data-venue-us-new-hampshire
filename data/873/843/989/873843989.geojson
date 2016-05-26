@@ -1,0 +1,71 @@
+{
+  "id": 873843989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215217,42.830472,-71.215217,42.830472",
+    "geom:latitude":42.830472,
+    "geom:longitude":-71.215217,
+    "iso:country":"US",
+    "sg:address":"321 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8882",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35DmRfw7yzh0oMEqn7Qo0R_42.830472_-71.215217@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298654,
+    "wof:geomhash":"91f357b324da089cb4568c205a7a5f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873843989
+        }
+    ],
+    "wof:id":873843989,
+    "wof:lastmodified":1464298654,
+    "wof:name":"B H Oil",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -71.215217,
+    42.830472,
+    -71.215217,
+    42.830472
+],
+  "geometry": {"coordinates":[-71.215217,42.830472],"type":"Point"}
+}

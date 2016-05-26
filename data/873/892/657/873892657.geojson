@@ -1,0 +1,71 @@
+{
+  "id": 873892657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469973,43.524708,-71.469973,43.524708",
+    "geom:latitude":43.524708,
+    "geom:longitude":-71.469973,
+    "iso:country":"US",
+    "sg:address":"85 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7740",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dDJphqqYeOwHJue5WEOhk_43.524708_-71.469973@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299678,
+    "wof:geomhash":"b90d847b6569677f6a0c0cf3812f321d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873892657
+        }
+    ],
+    "wof:id":873892657,
+    "wof:lastmodified":1464299678,
+    "wof:name":"South Baptist Church",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.469973,
+    43.524708,
+    -71.469973,
+    43.524708
+],
+  "geometry": {"coordinates":[-71.469973,43.524708],"type":"Point"}
+}

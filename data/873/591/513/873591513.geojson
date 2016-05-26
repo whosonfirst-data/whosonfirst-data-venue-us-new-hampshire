@@ -1,0 +1,71 @@
+{
+  "id": 873591513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.332014,43.210063,-71.332014,43.210063",
+    "geom:latitude":43.210063,
+    "geom:longitude":-71.332014,
+    "iso:country":"US",
+    "sg:address":"428 Sanborn Hill Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 4474",
+    "sg:postcode":"03234",
+    "sg:province":"NH",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85836729,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hWf8on8xm6irceK99YrwS_43.210063_-71.332014@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294849,
+    "wof:geomhash":"6c1fd780de9b170c2c6093fe5046d390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85836729,
+            "region_id":85688689,
+            "venue_id":873591513
+        }
+    ],
+    "wof:id":873591513,
+    "wof:lastmodified":1464294849,
+    "wof:name":"Grantham Mountain Contractors",
+    "wof:parent_id":85836729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -71.332014,
+    43.210063,
+    -71.332014,
+    43.210063
+],
+  "geometry": {"coordinates":[-71.332014,43.210063],"type":"Point"}
+}

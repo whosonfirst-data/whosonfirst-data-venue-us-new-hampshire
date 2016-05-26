@@ -1,0 +1,71 @@
+{
+  "id": 873765001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.073855,43.377603,-72.073855,43.377603",
+    "geom:latitude":43.377603,
+    "geom:longitude":-72.073855,
+    "iso:country":"US",
+    "sg:address":"7 Heritage Dr",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 2976",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a2WghujgNTSPvx8O6H9MD_43.377603_-72.073855@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297296,
+    "wof:geomhash":"f61a5153545a32d14fafad7aedc6367f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873765001
+        }
+    ],
+    "wof:id":873765001,
+    "wof:lastmodified":1464297296,
+    "wof:name":"Sugar River Mills",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.073855,
+    43.377603,
+    -72.073855,
+    43.377603
+],
+  "geometry": {"coordinates":[-72.07385499999999,43.377603],"type":"Point"}
+}

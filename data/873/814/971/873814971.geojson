@@ -1,0 +1,73 @@
+{
+  "id": 873814971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.231266,42.791701,-71.231266,42.791701",
+    "geom:latitude":42.791701,
+    "geom:longitude":-71.231266,
+    "iso:country":"US",
+    "sg:address":"14 Dwight Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6565",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67wExyZsWwElLfOYwflbEx_42.791701_-71.231266@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298013,
+    "wof:geomhash":"45d8226c7ac603c59523926bc7d77973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873814971
+        }
+    ],
+    "wof:id":873814971,
+    "wof:lastmodified":1464298013,
+    "wof:name":"Sugarcookie Petsitters",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.231266,
+    42.791701,
+    -71.231266,
+    42.791701
+],
+  "geometry": {"coordinates":[-71.23126600000001,42.791701],"type":"Point"}
+}

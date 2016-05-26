@@ -1,0 +1,75 @@
+{
+  "id": 873723109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.934282,43.104483,-71.934282,43.104483",
+    "geom:latitude":43.104483,
+    "geom:longitude":-71.934282,
+    "iso:country":"US",
+    "sg:address":"15 2nd New Hampshire Tpke",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 4291",
+    "sg:postcode":"03440",
+    "sg:province":"NH",
+    "sg:tags":[
+        "health",
+        "mental",
+        "outpatient",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lfZlZElxofOxJ5di2WxRb_43.104483_-71.934282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296688,
+    "wof:geomhash":"612ef45c7bcdb65cdad825ec741c5fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873723109
+        }
+    ],
+    "wof:id":873723109,
+    "wof:lastmodified":1464296688,
+    "wof:name":"Monadnock Family Services Inc",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "mental",
+        "outpatient",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.934282,
+    43.104483,
+    -71.934282,
+    43.104483
+],
+  "geometry": {"coordinates":[-71.934282,43.104483],"type":"Point"}
+}

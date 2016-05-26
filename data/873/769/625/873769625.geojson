@@ -1,0 +1,69 @@
+{
+  "id": 873769625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.780596,44.30842,-71.780596,44.30842",
+    "geom:latitude":44.30842,
+    "geom:longitude":-71.780596,
+    "iso:country":"US",
+    "sg:address":"244 Main St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 0184",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_674FMNHz5liyIuPv1lPQGy_44.308420_-71.780596@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297357,
+    "wof:geomhash":"5c35d5aa90c2e474048a9ecc5be8869a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873769625
+        }
+    ],
+    "wof:id":873769625,
+    "wof:lastmodified":1464297357,
+    "wof:name":"Grafton County Homeless Otrch",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.780596,
+    44.30842,
+    -71.780596,
+    44.30842
+],
+  "geometry": {"coordinates":[-71.780596,44.30842],"type":"Point"}
+}

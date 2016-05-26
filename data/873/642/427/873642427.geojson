@@ -1,0 +1,71 @@
+{
+  "id": 873642427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.166859,44.486345,-71.166859,44.486345",
+    "geom:latitude":44.486345,
+    "geom:longitude":-71.166859,
+    "iso:country":"US",
+    "sg:address":"1569 Main St",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 538 7736",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43YIQxWFCvUUOOqNQs4lxo_44.486345_-71.166859@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295505,
+    "wof:geomhash":"390a46d8ba7721e9e0ae081ce4feca37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873642427
+        }
+    ],
+    "wof:id":873642427,
+    "wof:lastmodified":1464295505,
+    "wof:name":"General Store",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.166859,
+    44.486345,
+    -71.166859,
+    44.486345
+],
+  "geometry": {"coordinates":[-71.166859,44.486345],"type":"Point"}
+}

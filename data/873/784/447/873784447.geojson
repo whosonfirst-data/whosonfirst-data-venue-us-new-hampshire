@@ -1,0 +1,73 @@
+{
+  "id": 873784447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.320622,42.871495,-71.320622,42.871495",
+    "geom:latitude":42.871495,
+    "geom:longitude":-71.320622,
+    "iso:country":"US",
+    "sg:address":"17 Susan Dr",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2826",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jDlchDZdJ80Bi0HTIuZRP_42.871495_-71.320622@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297549,
+    "wof:geomhash":"98778cf43cab9d6830cca77213130b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873784447
+        }
+    ],
+    "wof:id":873784447,
+    "wof:lastmodified":1464297549,
+    "wof:name":"New American Homes",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.320622,
+    42.871495,
+    -71.320622,
+    42.871495
+],
+  "geometry": {"coordinates":[-71.320622,42.871495],"type":"Point"}
+}

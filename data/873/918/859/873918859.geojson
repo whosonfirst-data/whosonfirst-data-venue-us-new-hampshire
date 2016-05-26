@@ -1,0 +1,80 @@
+{
+  "id": 873918859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.870613,42.898934,-70.870613,42.898934",
+    "geom:latitude":42.898934,
+    "geom:longitude":-70.870613,
+    "iso:country":"US",
+    "sg:address":"831 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/seabrook/222740-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 5999",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34KuVIR0wJBtbAqSGNcXA8_42.898934_-70.870613@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300192,
+    "wof:geomhash":"e36e82487b43b56d6e85385a6e29ff0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873918859
+        }
+    ],
+    "wof:id":873918859,
+    "wof:lastmodified":1464300192,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -70.870613,
+    42.898934,
+    -70.870613,
+    42.898934
+],
+  "geometry": {"coordinates":[-70.87061300000001,42.898934],"type":"Point"}
+}

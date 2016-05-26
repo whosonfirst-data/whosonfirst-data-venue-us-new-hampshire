@@ -1,0 +1,73 @@
+{
+  "id": 873873573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455557,43.532246,-71.455557,43.532246",
+    "geom:latitude":43.532246,
+    "geom:longitude":-71.455557,
+    "iso:country":"US",
+    "sg:address":"166 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1754",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WWYQbu5TevOgI4zgXTq0A_43.532246_-71.455557@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299308,
+    "wof:geomhash":"e752925c034882f9a41dd01548b703c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873873573
+        }
+    ],
+    "wof:id":873873573,
+    "wof:lastmodified":1464299308,
+    "wof:name":"Marcotte Painting & Tex",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.455557,
+    43.532246,
+    -71.455557,
+    43.532246
+],
+  "geometry": {"coordinates":[-71.455557,43.532246],"type":"Point"}
+}

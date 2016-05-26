@@ -1,0 +1,71 @@
+{
+  "id": 873774921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538449,43.176112,-71.538449,43.176112",
+    "geom:latitude":43.176112,
+    "geom:longitude":-71.538449,
+    "iso:country":"US",
+    "sg:address":"308 South St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2191",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSVHqD9Xb4IA8M36ep8wc_43.176112_-71.538449@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297425,
+    "wof:geomhash":"bc78748f64f44f5b3367d0974011e35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873774921
+        }
+    ],
+    "wof:id":873774921,
+    "wof:lastmodified":1464297425,
+    "wof:name":"Sampadian & Sons Apts",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.538449,
+    43.176112,
+    -71.538449,
+    43.176112
+],
+  "geometry": {"coordinates":[-71.538449,43.176112],"type":"Point"}
+}

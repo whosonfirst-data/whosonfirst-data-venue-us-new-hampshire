@@ -1,0 +1,71 @@
+{
+  "id": 873862935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.194699,43.685905,-71.194699,43.685905",
+    "geom:latitude":43.685905,
+    "geom:longitude":-71.194699,
+    "iso:country":"US",
+    "sg:address":"22 Mountain Rd",
+    "sg:city":"Ctr Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 4548",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uCPKSAcmcNY2xdxlGIPHP_43.685905_-71.194699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299094,
+    "wof:geomhash":"afc8f9ddc1873a60bcd6128b03b154e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873862935
+        }
+    ],
+    "wof:id":873862935,
+    "wof:lastmodified":1464299094,
+    "wof:name":"Steve's Heating Svc",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.194699,
+    43.685905,
+    -71.194699,
+    43.685905
+],
+  "geometry": {"coordinates":[-71.194699,43.685905],"type":"Point"}
+}

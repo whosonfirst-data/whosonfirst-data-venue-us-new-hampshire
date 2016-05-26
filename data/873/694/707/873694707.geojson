@@ -1,0 +1,81 @@
+{
+  "id": 873694707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432953,43.57629,-71.432953,43.57629",
+    "geom:latitude":43.57629,
+    "geom:longitude":-71.432953,
+    "iso:country":"US",
+    "sg:address":"126 Lily Pond Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 630 0428",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6edlADAwzBFZyin9MR8mOL_43.576290_-71.432953@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296345,
+    "wof:geomhash":"0ee4329ce35bdccfdcba80da96bfaf97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873694707
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873694707
+        }
+    ],
+    "wof:id":873694707,
+    "wof:lastmodified":1464296345,
+    "wof:name":"Double D Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.432953,
+    43.57629,
+    -71.432953,
+    43.57629
+],
+  "geometry": {"coordinates":[-71.432953,43.57629],"type":"Point"}
+}

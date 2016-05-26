@@ -1,0 +1,78 @@
+{
+  "id": 873918353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.317795,43.632963,-72.317795,43.632963",
+    "geom:latitude":43.632963,
+    "geom:longitude":-72.317795,
+    "iso:country":"US",
+    "sg:address":"197 S Main St",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/lebanon/183534-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 7034",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06BPz0pMtUuD8n3M4jIW42_43.632963_-72.317795@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300183,
+    "wof:geomhash":"1c37d7cd5ab5f6f7d16a26aec5202935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873918353
+        }
+    ],
+    "wof:id":873918353,
+    "wof:lastmodified":1464300183,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.317795,
+    43.632963,
+    -72.317795,
+    43.632963
+],
+  "geometry": {"coordinates":[-72.317795,43.632963],"type":"Point"}
+}

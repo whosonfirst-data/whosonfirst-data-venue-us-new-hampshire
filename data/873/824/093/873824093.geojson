@@ -1,0 +1,73 @@
+{
+  "id": 873824093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445959,43.578354,-71.445959,43.578354",
+    "geom:latitude":43.578354,
+    "geom:longitude":-71.445959,
+    "iso:country":"US",
+    "sg:address":"286 White Oaks Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6434",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KecBD0IpUAojHdHiqrqof_43.578354_-71.445959@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298214,
+    "wof:geomhash":"ecc2092701c4ceb26d517703a8900ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873824093
+        }
+    ],
+    "wof:id":873824093,
+    "wof:lastmodified":1464298214,
+    "wof:name":"Superior Construction Inc",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.445959,
+    43.578354,
+    -71.445959,
+    43.578354
+],
+  "geometry": {"coordinates":[-71.445959,43.578354],"type":"Point"}
+}

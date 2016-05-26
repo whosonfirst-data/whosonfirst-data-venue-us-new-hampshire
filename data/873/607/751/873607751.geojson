@@ -1,0 +1,71 @@
+{
+  "id": 873607751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504103,43.624958,-71.504103,43.624958",
+    "geom:latitude":43.624958,
+    "geom:longitude":-71.504103,
+    "iso:country":"US",
+    "sg:address":"150 Parade Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4314",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x1o1e5obNcCT0gR2wqa3Y_43.624958_-71.504103@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295094,
+    "wof:geomhash":"dbf2f652cdf500afd61cfdc8fd3ad422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873607751
+        }
+    ],
+    "wof:id":873607751,
+    "wof:lastmodified":1464295094,
+    "wof:name":"W F Richards & Son Inc",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.504103,
+    43.624958,
+    -71.504103,
+    43.624958
+],
+  "geometry": {"coordinates":[-71.504103,43.624958],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873819511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461247,43.535341,-71.461247,43.535341",
+    "geom:latitude":43.535341,
+    "geom:longitude":-71.461247,
+    "iso:country":"US",
+    "sg:address":"49 Dewey St",
+    "sg:city":"Campton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 2924",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EXuUN2BFRm7MyHxcobVmy_43.535341_-71.461247@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298110,
+    "wof:geomhash":"5136f394c2bf05ecebd5aad9967546be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873819511
+        }
+    ],
+    "wof:id":873819511,
+    "wof:lastmodified":1464298110,
+    "wof:name":"Hall's Driving School",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -71.461247,
+    43.535341,
+    -71.461247,
+    43.535341
+],
+  "geometry": {"coordinates":[-71.461247,43.535341],"type":"Point"}
+}

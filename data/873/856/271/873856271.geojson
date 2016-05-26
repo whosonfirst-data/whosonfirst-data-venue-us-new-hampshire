@@ -1,0 +1,71 @@
+{
+  "id": 873856271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667724,43.189875,-71.667724,43.189875",
+    "geom:latitude":43.189875,
+    "geom:longitude":-71.667724,
+    "iso:country":"US",
+    "sg:address":"160 Main St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 2913",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DfF50jebvVfh2L7JbnQNY_43.189875_-71.667724@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298939,
+    "wof:geomhash":"675b193957182e2e81cedcc389029c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873856271
+        }
+    ],
+    "wof:id":873856271,
+    "wof:lastmodified":1464298939,
+    "wof:name":"Contoocook River Cottonmouth",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.667724,
+    43.189875,
+    -71.667724,
+    43.189875
+],
+  "geometry": {"coordinates":[-71.66772400000001,43.189875],"type":"Point"}
+}

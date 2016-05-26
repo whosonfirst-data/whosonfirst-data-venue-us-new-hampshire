@@ -1,0 +1,69 @@
+{
+  "id": 873903733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.25006,42.815006,-71.25006,42.815006",
+    "geom:latitude":42.815006,
+    "geom:longitude":-71.25006,
+    "iso:country":"US",
+    "sg:address":"5 Rockingham Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 645 1199",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56eMq1xwRQAdPEuu1arZqY_42.815006_-71.250060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299892,
+    "wof:geomhash":"4a0033fc4fcf69e18d6ec752d2b90149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873903733
+        }
+    ],
+    "wof:id":873903733,
+    "wof:lastmodified":1464299892,
+    "wof:name":"Northeast Saw & Carbide Tool",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -71.25006,
+    42.815006,
+    -71.25006,
+    42.815006
+],
+  "geometry": {"coordinates":[-71.25006,42.815006],"type":"Point"}
+}

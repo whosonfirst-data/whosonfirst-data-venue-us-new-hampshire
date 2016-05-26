@@ -1,0 +1,70 @@
+{
+  "id": 873847201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536426,43.150263,-71.536426,43.150263",
+    "geom:latitude":43.150263,
+    "geom:longitude":-71.536426,
+    "iso:country":"US",
+    "sg:address":"22 Bow Center Rd",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 3049",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.bownet.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iriCMyzCcnIJ0Ouf6rOQl_43.150263_-71.536426@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298738,
+    "wof:geomhash":"4af967d7658503269ff367c519a97ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873847201
+        }
+    ],
+    "wof:id":873847201,
+    "wof:lastmodified":1464298738,
+    "wof:name":"Bow Elementary School",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.536426,
+    43.150263,
+    -71.536426,
+    43.150263
+],
+  "geometry": {"coordinates":[-71.53642600000001,43.150263],"type":"Point"}
+}

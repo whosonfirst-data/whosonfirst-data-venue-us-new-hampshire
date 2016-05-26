@@ -1,0 +1,75 @@
+{
+  "id": 873899683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195723,44.479738,-71.195723,44.479738",
+    "geom:latitude":44.479738,
+    "geom:longitude":-71.195723,
+    "iso:country":"US",
+    "sg:address":"39 Jericho Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3125",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NkshtTJAIqH62y7qyGEWp_44.479738_-71.195723@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299812,
+    "wof:geomhash":"15e3b18e720a0c49f02e77eafa4a79a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873899683
+        }
+    ],
+    "wof:id":873899683,
+    "wof:lastmodified":1464299812,
+    "wof:name":"Canine Cutter",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.195723,
+    44.479738,
+    -71.195723,
+    44.479738
+],
+  "geometry": {"coordinates":[-71.195723,44.479738],"type":"Point"}
+}

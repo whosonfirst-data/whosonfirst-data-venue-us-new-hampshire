@@ -1,0 +1,72 @@
+{
+  "id": 873916473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.374636,42.913727,-71.374636,42.913727",
+    "geom:latitude":42.913727,
+    "geom:longitude":-71.374636,
+    "iso:country":"US",
+    "sg:address":"79a Perkins Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/londonderry/129585-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 7829",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858085,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x8Q84WlVp4TnWrOQTYSY9_42.913727_-71.374636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300150,
+    "wof:geomhash":"a3929bdd8b6404bad3f5a04bc05663a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858085,
+            "region_id":85688689,
+            "venue_id":873916473
+        }
+    ],
+    "wof:id":873916473,
+    "wof:lastmodified":1464300150,
+    "wof:name":"Subway",
+    "wof:parent_id":85858085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.374636,
+    42.913727,
+    -71.374636,
+    42.913727
+],
+  "geometry": {"coordinates":[-71.374636,42.913727],"type":"Point"}
+}

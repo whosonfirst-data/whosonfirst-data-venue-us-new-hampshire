@@ -1,0 +1,74 @@
+{
+  "id": 873931421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.0354,43.217602,-71.0354,43.217602",
+    "geom:latitude":43.217602,
+    "geom:longitude":-71.0354,
+    "iso:country":"US",
+    "sg:address":"219 Route 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2742",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74WC27Us9pdjIhtBzLBRrG_43.217602_-71.035400@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300436,
+    "wof:geomhash":"12c80be099f35d7f6df4a93336a35976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873931421
+        }
+    ],
+    "wof:id":873931421,
+    "wof:lastmodified":1464300436,
+    "wof:name":"Good Shepherd School",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.0354,
+    43.217602,
+    -71.0354,
+    43.217602
+],
+  "geometry": {"coordinates":[-71.0354,43.217602],"type":"Point"}
+}

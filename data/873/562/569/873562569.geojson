@@ -1,0 +1,71 @@
+{
+  "id": 873562569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476464,42.980104,-71.476464,42.980104",
+    "geom:latitude":42.980104,
+    "geom:longitude":-71.476464,
+    "iso:country":"US",
+    "sg:address":"232 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 1415",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uyjSpltwCGAJAEiKXUI1o_42.980104_-71.476464@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294527,
+    "wof:geomhash":"ca10564aab496b83cf2781cbf946d073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873562569
+        }
+    ],
+    "wof:id":873562569,
+    "wof:lastmodified":1464294527,
+    "wof:name":"Auto Rama",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.476464,
+    42.980104,
+    -71.476464,
+    42.980104
+],
+  "geometry": {"coordinates":[-71.47646400000001,42.980104],"type":"Point"}
+}

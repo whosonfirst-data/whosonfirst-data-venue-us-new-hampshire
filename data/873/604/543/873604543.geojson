@@ -1,0 +1,75 @@
+{
+  "id": 873604543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.859545,42.920312,-70.859545,42.920312",
+    "geom:latitude":42.920312,
+    "geom:longitude":-70.859545,
+    "iso:country":"US",
+    "sg:address":"153 Lafayette Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 4286",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldbWN2wMyVepBdyTT3HuP_42.920312_-70.859545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295035,
+    "wof:geomhash":"d5830f5a14af01c4632014b1917592fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823769,
+            "region_id":85688689,
+            "venue_id":873604543
+        }
+    ],
+    "wof:id":873604543,
+    "wof:lastmodified":1464295035,
+    "wof:name":"TRF Swimming Pool Svc",
+    "wof:parent_id":85823769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -70.859545,
+    42.920312,
+    -70.859545,
+    42.920312
+],
+  "geometry": {"coordinates":[-70.859545,42.920312],"type":"Point"}
+}

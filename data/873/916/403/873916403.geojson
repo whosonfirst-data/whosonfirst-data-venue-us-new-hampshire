@@ -1,0 +1,72 @@
+{
+  "id": 873916403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410477,42.770362,-71.410477,42.770362",
+    "geom:latitude":42.770362,
+    "geom:longitude":-71.410477,
+    "iso:country":"US",
+    "sg:address":"222 Central St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/29435-cookies-chuck-wagon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 3424",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mOIoVqHYtdc6p9rBt56y3_42.770362_-71.410477@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300149,
+    "wof:geomhash":"cd19339c59d660ae0eb5e0c262236f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873916403
+        }
+    ],
+    "wof:id":873916403,
+    "wof:lastmodified":1464300149,
+    "wof:name":"Cookie's Chuck Wagon",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -71.410477,
+    42.770362,
+    -71.410477,
+    42.770362
+],
+  "geometry": {"coordinates":[-71.410477,42.770362],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873928391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.584621,43.263869,-71.584621,43.263869",
+    "geom:latitude":43.263869,
+    "geom:longitude":-71.584621,
+    "iso:country":"US",
+    "sg:address":"211 Fisherville Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 1044",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.moviegallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uvepwKht6lBvmJlJ63hL2_43.263869_-71.584621@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300377,
+    "wof:geomhash":"c917c640efad1359d9ea9f9f56978d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873928391
+        }
+    ],
+    "wof:id":873928391,
+    "wof:lastmodified":1464300377,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.584621,
+    43.263869,
+    -71.584621,
+    43.263869
+],
+  "geometry": {"coordinates":[-71.584621,43.263869],"type":"Point"}
+}

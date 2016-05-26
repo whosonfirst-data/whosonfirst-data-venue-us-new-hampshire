@@ -1,0 +1,80 @@
+{
+  "id": 873922505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.64391,42.833251,-71.64391,42.833251",
+    "geom:latitude":42.833251,
+    "geom:longitude":-71.64391,
+    "iso:country":"US",
+    "sg:address":"309 Nashua St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 769 3550",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17oIvb6Wip3WFxUEUwgEYW_42.833251_-71.643910@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300262,
+    "wof:geomhash":"12ea95e84bd14e930a76694f28bfb570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873922505
+        }
+    ],
+    "wof:id":873922505,
+    "wof:lastmodified":1464300262,
+    "wof:name":"Bianchi's Deli",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -71.64391,
+    42.833251,
+    -71.64391,
+    42.833251
+],
+  "geometry": {"coordinates":[-71.64391000000001,42.833251],"type":"Point"}
+}

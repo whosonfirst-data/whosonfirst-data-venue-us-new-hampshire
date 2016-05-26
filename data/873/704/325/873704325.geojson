@@ -1,0 +1,70 @@
+{
+  "id": 873704325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.755457,43.077544,-70.755457,43.077544",
+    "geom:latitude":43.077544,
+    "geom:longitude":-70.755457,
+    "iso:country":"US",
+    "sg:address":"77 Daniel St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 5186",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892305,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71aNWN8BlYq1hokHOBhTPI_43.077544_-70.755457@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296449,
+    "wof:geomhash":"2f52ff6cfb515f09a4cdd2b15b880b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892305,
+            "region_id":85688689,
+            "venue_id":873704325
+        }
+    ],
+    "wof:id":873704325,
+    "wof:lastmodified":1464296449,
+    "wof:name":"Press Room Restaurant",
+    "wof:parent_id":85892305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.755457,
+    43.077544,
+    -70.755457,
+    43.077544
+],
+  "geometry": {"coordinates":[-70.75545700000001,43.077544],"type":"Point"}
+}

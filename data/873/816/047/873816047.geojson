@@ -1,0 +1,71 @@
+{
+  "id": 873816047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.96467,43.15839,-70.96467,43.15839",
+    "geom:latitude":43.15839,
+    "geom:longitude":-70.96467,
+    "iso:country":"US",
+    "sg:address":"66 Lee Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 2111",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TIlWVDvKebQ5mysIdVyv5_43.158390_-70.964670@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298035,
+    "wof:geomhash":"fa9567ea6c0c820ae5522ec588344561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873816047
+        }
+    ],
+    "wof:id":873816047,
+    "wof:lastmodified":1464298035,
+    "wof:name":"Demeritt Hill Farm",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -70.96467,
+    43.15839,
+    -70.96467,
+    43.15839
+],
+  "geometry": {"coordinates":[-70.96467,43.15839],"type":"Point"}
+}

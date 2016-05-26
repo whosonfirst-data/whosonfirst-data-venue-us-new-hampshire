@@ -1,0 +1,73 @@
+{
+  "id": 873818395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270647,43.058798,-71.270647,43.058798",
+    "geom:latitude":43.058798,
+    "geom:longitude":-71.270647,
+    "iso:country":"US",
+    "sg:address":"291 Raymond Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5999",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64CfHElsdYFNblboUOwuzA_43.058798_-71.270647@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298086,
+    "wof:geomhash":"30af9c4e4d73e9140d13a5e6219c0ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873818395
+        }
+    ],
+    "wof:id":873818395,
+    "wof:lastmodified":1464298086,
+    "wof:name":"Dog's Place",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.270647,
+    43.058798,
+    -71.270647,
+    43.058798
+],
+  "geometry": {"coordinates":[-71.270647,43.058798],"type":"Point"}
+}

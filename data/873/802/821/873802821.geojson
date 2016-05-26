@@ -1,0 +1,78 @@
+{
+  "id": 873802821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.29425,42.913929,-72.29425,42.913929",
+    "geom:latitude":42.913929,
+    "geom:longitude":-72.29425,
+    "iso:country":"US",
+    "sg:address":"512 Winchester St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 0138",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.elmcityauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zNhuVD4LW06TfSVKWunVA_42.913929_-72.294250@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297808,
+    "wof:geomhash":"f75e927620c7c4727f70de17ee69f941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873802821
+        }
+    ],
+    "wof:id":873802821,
+    "wof:lastmodified":1464297808,
+    "wof:name":"Elm City Auto Repair",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.29425,
+    42.913929,
+    -72.29425,
+    42.913929
+],
+  "geometry": {"coordinates":[-72.29425000000001,42.913929],"type":"Point"}
+}

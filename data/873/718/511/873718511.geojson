@@ -1,0 +1,74 @@
+{
+  "id": 873718511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241234,42.763213,-71.241234,42.763213",
+    "geom:latitude":42.763213,
+    "geom:longitude":-71.241234,
+    "iso:country":"US",
+    "sg:address":"15 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 6522",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ],
+    "sg:website":"www.kbytememory.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OlnCefP4LkEszbEwdMMFG_42.763213_-71.241234@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296626,
+    "wof:geomhash":"830251dac4f2b5190609d817388ce126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873718511
+        }
+    ],
+    "wof:id":873718511,
+    "wof:lastmodified":1464296626,
+    "wof:name":"Kbyt",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ]
+},
+  "bbox": [
+    -71.241234,
+    42.763213,
+    -71.241234,
+    42.763213
+],
+  "geometry": {"coordinates":[-71.24123400000001,42.763213],"type":"Point"}
+}

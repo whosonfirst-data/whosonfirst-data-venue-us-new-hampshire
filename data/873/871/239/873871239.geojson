@@ -1,0 +1,71 @@
+{
+  "id": 873871239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79526,43.095369,-70.79526,43.095369",
+    "geom:latitude":43.095369,
+    "geom:longitude":-70.79526,
+    "iso:country":"US",
+    "sg:address":"2033 Woodbury Ave",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 2801",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qf6Lt0b20cpbKsTGJbrGY_43.095369_-70.795260@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299261,
+    "wof:geomhash":"7cf759740785ef1738717a836b8cad5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873871239
+        }
+    ],
+    "wof:id":873871239,
+    "wof:lastmodified":1464299261,
+    "wof:name":"Bank of New Hampshire",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -70.79526,
+    43.095369,
+    -70.79526,
+    43.095369
+],
+  "geometry": {"coordinates":[-70.79526,43.095369],"type":"Point"}
+}

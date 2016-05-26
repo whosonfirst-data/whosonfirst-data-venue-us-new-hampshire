@@ -1,0 +1,71 @@
+{
+  "id": 873561569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462661,43.547347,-71.462661,43.547347",
+    "geom:latitude":43.547347,
+    "geom:longitude":-71.462661,
+    "iso:country":"US",
+    "sg:address":"708 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 0077",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Vvdsu5Ih5bu2OPhKbbto_43.547347_-71.462661@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294516,
+    "wof:geomhash":"232728a260403426e86c01eed0ad494a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873561569
+        }
+    ],
+    "wof:id":873561569,
+    "wof:lastmodified":1464294516,
+    "wof:name":"Hydro-Pro Power Wash",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.462661,
+    43.547347,
+    -71.462661,
+    43.547347
+],
+  "geometry": {"coordinates":[-71.462661,43.547347],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873645401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261048,42.941598,-71.261048,42.941598",
+    "geom:latitude":42.941598,
+    "geom:longitude":-71.261048,
+    "iso:country":"US",
+    "sg:address":"18 Webster Ln",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 887 3809",
+    "sg:postcode":"03036",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36sUQ0zSQD0IRzojCGlm2m_42.941598_-71.261048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295540,
+    "wof:geomhash":"88cfc2b6b46315aa091be628c7619305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873645401
+        }
+    ],
+    "wof:id":873645401,
+    "wof:lastmodified":1464295540,
+    "wof:name":"Dalloff Excavating",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.261048,
+    42.941598,
+    -71.261048,
+    42.941598
+],
+  "geometry": {"coordinates":[-71.261048,42.941598],"type":"Point"}
+}

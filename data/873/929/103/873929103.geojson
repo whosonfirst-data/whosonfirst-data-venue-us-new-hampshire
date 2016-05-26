@@ -1,0 +1,87 @@
+{
+  "id": 873929103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02705,42.812148,-72.02705,42.812148",
+    "geom:latitude":42.812148,
+    "geom:longitude":-72.02705,
+    "iso:country":"US",
+    "sg:address":"34 Tyler Hill Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8886",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "arborist",
+        "tree",
+        "bamboo",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QsCMT3LRcTBmlK49X4B1Z_42.812148_-72.027050@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300391,
+    "wof:geomhash":"a144c993011b766771abdd0e806a8a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929103
+        }
+    ],
+    "wof:id":873929103,
+    "wof:lastmodified":1464300391,
+    "wof:name":"Wright Tree Service",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "arborist",
+        "tree",
+        "bamboo",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.02705,
+    42.812148,
+    -72.02705,
+    42.812148
+],
+  "geometry": {"coordinates":[-72.02705,42.812148],"type":"Point"}
+}

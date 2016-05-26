@@ -1,0 +1,71 @@
+{
+  "id": 873783553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429019,42.753334,-71.429019,42.753334",
+    "geom:latitude":42.753334,
+    "geom:longitude":-71.429019,
+    "iso:country":"US",
+    "sg:address":"93 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2907",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Ylx94pdglzvktTPRbXP4_42.753334_-71.429019@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"fb617258f476aa27f99c87444c494fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873783553
+        }
+    ],
+    "wof:id":873783553,
+    "wof:lastmodified":1464297537,
+    "wof:name":"Vertical Etc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.429019,
+    42.753334,
+    -71.429019,
+    42.753334
+],
+  "geometry": {"coordinates":[-71.429019,42.753334],"type":"Point"}
+}

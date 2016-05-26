@@ -1,0 +1,71 @@
+{
+  "id": 873832359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.579972,44.496631,-71.579972,44.496631",
+    "geom:latitude":44.496631,
+    "geom:longitude":-71.579972,
+    "iso:country":"US",
+    "sg:address":"19 Bridge St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2504",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WStM4GhwxHr0DUIvu0bGu_44.496631_-71.579972@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298385,
+    "wof:geomhash":"6f9a662822c1c029aaaa52cfd4033dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873832359
+        }
+    ],
+    "wof:id":873832359,
+    "wof:lastmodified":1464298385,
+    "wof:name":"Mc Devitt Trucks",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.579972,
+    44.496631,
+    -71.579972,
+    44.496631
+],
+  "geometry": {"coordinates":[-71.579972,44.496631],"type":"Point"}
+}

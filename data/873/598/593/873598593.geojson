@@ -1,0 +1,72 @@
+{
+  "id": 873598593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553062,42.709186,-71.553062,42.709186",
+    "geom:latitude":42.709186,
+    "geom:longitude":-71.553062,
+    "iso:country":"US",
+    "sg:address":"18 Clinton Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5326",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "yard",
+        "leasing"
+    ],
+    "sg:website":"www.intents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JOMPekbnRvNJsF4ugbJzY_42.709186_-71.553062@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294965,
+    "wof:geomhash":"f1a7a9b4becfa12e9647b71cb914471c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873598593
+        }
+    ],
+    "wof:id":873598593,
+    "wof:lastmodified":1464294965,
+    "wof:name":"Christian Tent & Party Rental",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.553062,
+    42.709186,
+    -71.553062,
+    42.709186
+],
+  "geometry": {"coordinates":[-71.553062,42.709186],"type":"Point"}
+}

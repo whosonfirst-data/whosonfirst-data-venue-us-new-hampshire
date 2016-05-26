@@ -1,0 +1,71 @@
+{
+  "id": 873802765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.70346,42.837147,-71.70346,42.837147",
+    "geom:latitude":42.837147,
+    "geom:longitude":-71.70346,
+    "iso:country":"US",
+    "sg:address":"18 Meadowbrook Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 8900",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uTtrU7rVyNxfG223BKnhw_42.837147_-71.703460@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297807,
+    "wof:geomhash":"d55c61ea1368286627f601299d30a323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873802765
+        }
+    ],
+    "wof:id":873802765,
+    "wof:lastmodified":1464297807,
+    "wof:name":"Degree C",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.70346,
+    42.837147,
+    -71.70346,
+    42.837147
+],
+  "geometry": {"coordinates":[-71.70346000000001,42.837147],"type":"Point"}
+}

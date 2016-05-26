@@ -1,0 +1,71 @@
+{
+  "id": 873572395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.855483,43.29527,-71.855483,43.29527",
+    "geom:latitude":43.29527,
+    "geom:longitude":-71.855483,
+    "iso:country":"US",
+    "sg:address":"100 E Sutton Rd",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 6043",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7apcFdElsenDZdh94kEzCW_43.295270_-71.855483@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294636,
+    "wof:geomhash":"595349146575acb09f362cdfce3776bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873572395
+        }
+    ],
+    "wof:id":873572395,
+    "wof:lastmodified":1464294636,
+    "wof:name":"DRT Computer Training",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -71.855483,
+    43.29527,
+    -71.855483,
+    43.29527
+],
+  "geometry": {"coordinates":[-71.85548300000001,43.29527],"type":"Point"}
+}

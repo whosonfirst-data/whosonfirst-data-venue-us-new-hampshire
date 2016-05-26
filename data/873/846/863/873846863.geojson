@@ -1,0 +1,73 @@
+{
+  "id": 873846863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.743592,43.614671,-71.743592,43.614671",
+    "geom:latitude":43.614671,
+    "geom:longitude":-71.743592,
+    "iso:country":"US",
+    "sg:address":"18 Walker Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2343",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qwXAJRFyymP6hMAeJeFDM_43.614671_-71.743592@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298728,
+    "wof:geomhash":"a50ed52ce213075cc60ef6fac293f69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873846863
+        }
+    ],
+    "wof:id":873846863,
+    "wof:lastmodified":1464298728,
+    "wof:name":"Wanakee Collision & Repair",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.743592,
+    43.614671,
+    -71.743592,
+    43.614671
+],
+  "geometry": {"coordinates":[-71.74359200000001,43.614671],"type":"Point"}
+}

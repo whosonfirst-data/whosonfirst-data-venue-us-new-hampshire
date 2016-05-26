@@ -1,0 +1,72 @@
+{
+  "id": 873920197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.180846,43.131808,-71.180846,43.131808",
+    "geom:latitude":43.131808,
+    "geom:longitude":-71.180846,
+    "iso:country":"US",
+    "sg:address":"195 Nottingham Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7698",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.catscradl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KFmSJ4MsG4AwlPRyan5XL_43.131808_-71.180846@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300215,
+    "wof:geomhash":"3004a45cfb5cc48b624da53d645ee8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873920197
+        }
+    ],
+    "wof:id":873920197,
+    "wof:lastmodified":1464300215,
+    "wof:name":"The Cats Cradle",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.180846,
+    43.131808,
+    -71.180846,
+    43.131808
+],
+  "geometry": {"coordinates":[-71.180846,43.131808],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873928999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.05793,42.828201,-72.05793,42.828201",
+    "geom:latitude":42.828201,
+    "geom:longitude":-72.05793,
+    "iso:country":"US",
+    "sg:address":"33 Mountain Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6238",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drywall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f0RDXvD4j9ZBn8wqOoUIx_42.828201_-72.057930@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300390,
+    "wof:geomhash":"aa14b5e58b76acf54e61fe5f1754babc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873928999
+        }
+    ],
+    "wof:id":873928999,
+    "wof:lastmodified":1464300390,
+    "wof:name":"Blais Drywall Company",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drywall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.05793,
+    42.828201,
+    -72.05793,
+    42.828201
+],
+  "geometry": {"coordinates":[-72.05793,42.828201],"type":"Point"}
+}

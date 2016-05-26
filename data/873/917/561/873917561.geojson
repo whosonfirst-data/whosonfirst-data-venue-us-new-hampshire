@@ -1,0 +1,80 @@
+{
+  "id": 873917561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412062,42.985053,-71.412062,42.985053",
+    "geom:latitude":42.985053,
+    "geom:longitude":-71.412062,
+    "iso:country":"US",
+    "sg:address":"860 Candia Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/181631-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 222 9074",
+    "sg:postcode":"03109",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526163,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r3bu7Ns3E7hEcxjbheHQM_42.985053_-71.412062@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300168,
+    "wof:geomhash":"ba932b7f071df4e132b7af85623ef100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526163,
+            "region_id":85688689,
+            "venue_id":873917561
+        }
+    ],
+    "wof:id":873917561,
+    "wof:lastmodified":1464300168,
+    "wof:name":"Wendy's",
+    "wof:parent_id":420526163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.412062,
+    42.985053,
+    -71.412062,
+    42.985053
+],
+  "geometry": {"coordinates":[-71.41206200000001,42.985053],"type":"Point"}
+}

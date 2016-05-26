@@ -1,0 +1,78 @@
+{
+  "id": 873597895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.826482,44.315842,-71.826482,44.315842",
+    "geom:latitude":44.315842,
+    "geom:longitude":-71.826482,
+    "iso:country":"US",
+    "sg:address":"600 Saint Johnsbury Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 7731",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KA935a7tUZR9jYksuh6Hm_44.315842_-71.826482@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294958,
+    "wof:geomhash":"cd521ac34d6da920bd7f3690aa3a398b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873597895
+        }
+    ],
+    "wof:id":873597895,
+    "wof:lastmodified":1464294958,
+    "wof:name":"Littleton Regional Hospital",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.826482,
+    44.315842,
+    -71.826482,
+    44.315842
+],
+  "geometry": {"coordinates":[-71.826482,44.315842],"type":"Point"}
+}

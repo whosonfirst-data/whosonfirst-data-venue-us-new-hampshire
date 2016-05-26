@@ -1,0 +1,69 @@
+{
+  "id": 873657413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.137357,43.489886,-72.137357,43.489886",
+    "geom:latitude":43.489886,
+    "geom:longitude":-72.137357,
+    "iso:country":"US",
+    "sg:address":"34 Dunbar Hill Rd",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 6021",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73CoaYFbiLJP7uuEhdvRmr_43.489886_-72.137357@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295672,
+    "wof:geomhash":"449eb2152ed9da5d62f9e2d07ab81a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873657413
+        }
+    ],
+    "wof:id":873657413,
+    "wof:lastmodified":1464295672,
+    "wof:name":"Grantham Town Selectman",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.137357,
+    43.489886,
+    -72.137357,
+    43.489886
+],
+  "geometry": {"coordinates":[-72.13735699999999,43.489886],"type":"Point"}
+}

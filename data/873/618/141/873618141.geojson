@@ -1,0 +1,71 @@
+{
+  "id": 873618141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.577917,43.618008,-71.577917,43.618008",
+    "geom:latitude":43.618008,
+    "geom:longitude":-71.577917,
+    "iso:country":"US",
+    "sg:address":"38 Upper New Hampton Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6533",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FdBeirXkP3ZyiRc8xI58I_43.618008_-71.577917@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295225,
+    "wof:geomhash":"9c66e6b555e3ff068d885defde7e45be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873618141
+        }
+    ],
+    "wof:id":873618141,
+    "wof:lastmodified":1464295225,
+    "wof:name":"Z Electric",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.577917,
+    43.618008,
+    -71.577917,
+    43.618008
+],
+  "geometry": {"coordinates":[-71.577917,43.618008],"type":"Point"}
+}

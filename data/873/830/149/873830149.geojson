@@ -1,0 +1,69 @@
+{
+  "id": 873830149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522363,43.004967,-71.522363,43.004967",
+    "geom:latitude":43.004967,
+    "geom:longitude":-71.522363,
+    "iso:country":"US",
+    "sg:address":"4 Timberwood Dr",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 641 6920",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WFqzR7FPd7n7ugqnPXrEx_43.004967_-71.522363@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298334,
+    "wof:geomhash":"f23ea31f11357e835ffd452d616fdc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873830149
+        }
+    ],
+    "wof:id":873830149,
+    "wof:lastmodified":1464298334,
+    "wof:name":"Timberwood Condominiums",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -71.522363,
+    43.004967,
+    -71.522363,
+    43.004967
+],
+  "geometry": {"coordinates":[-71.522363,43.004967],"type":"Point"}
+}

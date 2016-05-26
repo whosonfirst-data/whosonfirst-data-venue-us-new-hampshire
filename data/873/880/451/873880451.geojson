@@ -1,0 +1,71 @@
+{
+  "id": 873880451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519043,43.008428,-71.519043,43.008428",
+    "geom:latitude":43.008428,
+    "geom:longitude":-71.519043,
+    "iso:country":"US",
+    "sg:address":"53 Lynchville Park Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 6945",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "alternator",
+        "generator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vAs7qalu1aRh5ivauMy4J_43.008428_-71.519043@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299442,
+    "wof:geomhash":"4bcb4363c5458da36533d2960af4a7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873880451
+        }
+    ],
+    "wof:id":873880451,
+    "wof:lastmodified":1464299442,
+    "wof:name":"Volkmann Electric",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternator",
+        "generator"
+    ]
+},
+  "bbox": [
+    -71.519043,
+    43.008428,
+    -71.519043,
+    43.008428
+],
+  "geometry": {"coordinates":[-71.519043,43.008428],"type":"Point"}
+}

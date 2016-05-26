@@ -1,0 +1,71 @@
+{
+  "id": 873818719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.076666,43.388422,-72.076666,43.388422",
+    "geom:latitude":43.388422,
+    "geom:longitude":-72.076666,
+    "iso:country":"US",
+    "sg:address":"96 Lake Ave",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5775",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E5GXHujKaZta7FRuhSrcv_43.388422_-72.076666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298092,
+    "wof:geomhash":"211a287a306b1217a15edcd57617459b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873818719
+        }
+    ],
+    "wof:id":873818719,
+    "wof:lastmodified":1464298092,
+    "wof:name":"Fill-Ins Dental Temps",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.076666,
+    43.388422,
+    -72.076666,
+    43.388422
+],
+  "geometry": {"coordinates":[-72.076666,43.388422],"type":"Point"}
+}

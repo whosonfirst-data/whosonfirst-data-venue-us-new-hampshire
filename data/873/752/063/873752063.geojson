@@ -1,0 +1,71 @@
+{
+  "id": 873752063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182837,44.469208,-71.182837,44.469208",
+    "geom:latitude":44.469208,
+    "geom:longitude":-71.182837,
+    "iso:country":"US",
+    "sg:address":"151 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5500",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "rehab",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4178ErmelFIFl2jjFnvgOn_44.469208_-71.182837@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297101,
+    "wof:geomhash":"950e96fbe0113664b7b48c52977f3127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873752063
+        }
+    ],
+    "wof:id":873752063,
+    "wof:lastmodified":1464297101,
+    "wof:name":"Employment Security Dept",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "government"
+    ]
+},
+  "bbox": [
+    -71.182837,
+    44.469208,
+    -71.182837,
+    44.469208
+],
+  "geometry": {"coordinates":[-71.18283700000001,44.469208],"type":"Point"}
+}

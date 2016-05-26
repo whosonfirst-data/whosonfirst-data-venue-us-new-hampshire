@@ -1,0 +1,78 @@
+{
+  "id": 873928963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520098,42.820577,-72.520098,42.820577",
+    "geom:latitude":42.820577,
+    "geom:longitude":-72.520098,
+    "iso:country":"US",
+    "sg:address":"105 Meetinghouse Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 256 6930",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "churches-non-denominational",
+        "christ",
+        "churches-community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837733,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D8gEx9nmcPe92igV9rg2D_42.820577_-72.520098@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300389,
+    "wof:geomhash":"64773082ba8c983b3b48447246a82ef8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85837733,
+            "region_id":85688689,
+            "venue_id":873928963
+        }
+    ],
+    "wof:id":873928963,
+    "wof:lastmodified":1464300389,
+    "wof:name":"North Hinsdale Community Church Inc",
+    "wof:parent_id":85837733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational",
+        "christ",
+        "churches-community"
+    ]
+},
+  "bbox": [
+    -72.520098,
+    42.820577,
+    -72.520098,
+    42.820577
+],
+  "geometry": {"coordinates":[-72.520098,42.820577],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873832279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424029,43.568911,-71.424029,43.568911",
+    "geom:latitude":43.568911,
+    "geom:longitude":-71.424029,
+    "iso:country":"US",
+    "sg:address":"50 Airport Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2496",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "line",
+        "bus"
+    ],
+    "sg:website":"www.gltabus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CdVQ4apk0Pv8pNGeIWFBI_43.568911_-71.424029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298383,
+    "wof:geomhash":"ed9ca840b38787dbd73c84be99edc3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873832279
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873832279
+        }
+    ],
+    "wof:id":873832279,
+    "wof:lastmodified":1464298383,
+    "wof:name":"Greater Laconia Transit Agency",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "line",
+        "bus"
+    ]
+},
+  "bbox": [
+    -71.424029,
+    43.568911,
+    -71.424029,
+    43.568911
+],
+  "geometry": {"coordinates":[-71.424029,43.568911],"type":"Point"}
+}

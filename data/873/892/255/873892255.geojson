@@ -1,0 +1,73 @@
+{
+  "id": 873892255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035317,44.149253,-72.035317,44.149253",
+    "geom:latitude":44.149253,
+    "geom:longitude":-72.035317,
+    "iso:country":"US",
+    "sg:address":"14 Maple St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3493",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WSobAFSsQuYppKhdpJLtT_44.149253_-72.035317@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299671,
+    "wof:geomhash":"71c42466935debc9e966f3ff264b84f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873892255
+        }
+    ],
+    "wof:id":873892255,
+    "wof:lastmodified":1464299671,
+    "wof:name":"Home For The Aged",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.035317,
+    44.149253,
+    -72.035317,
+    44.149253
+],
+  "geometry": {"coordinates":[-72.03531700000001,44.149253],"type":"Point"}
+}

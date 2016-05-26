@@ -1,0 +1,71 @@
+{
+  "id": 873868801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.144679,42.834612,-71.144679,42.834612",
+    "geom:latitude":42.834612,
+    "geom:longitude":-71.144679,
+    "iso:country":"US",
+    "sg:address":"6 Stage Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5907",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xjhsY6r1Xhvw2iL4aRDeQ_42.834612_-71.144679@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299204,
+    "wof:geomhash":"c9082f2ab9278ffc5928e4af0a3886d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873868801
+        }
+    ],
+    "wof:id":873868801,
+    "wof:lastmodified":1464299204,
+    "wof:name":"Green Tree Farm",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.144679,
+    42.834612,
+    -71.144679,
+    42.834612
+],
+  "geometry": {"coordinates":[-71.144679,42.834612],"type":"Point"}
+}

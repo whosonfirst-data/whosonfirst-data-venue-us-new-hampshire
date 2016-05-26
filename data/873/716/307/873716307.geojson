@@ -1,0 +1,73 @@
+{
+  "id": 873716307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.036457,44.268427,-72.036457,44.268427",
+    "geom:latitude":44.268427,
+    "geom:longitude":-72.036457,
+    "iso:country":"US",
+    "sg:address":"1417 Coppermine Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2069",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P6K0kNv35TCdPQ9e8BIgd_44.268427_-72.036457@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296597,
+    "wof:geomhash":"6adcb45c6a825df2d4c1fc32dd826842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873716307
+        }
+    ],
+    "wof:id":873716307,
+    "wof:lastmodified":1464296597,
+    "wof:name":"A C Chace Trucking",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.036457,
+    44.268427,
+    -72.036457,
+    44.268427
+],
+  "geometry": {"coordinates":[-72.036457,44.268427],"type":"Point"}
+}

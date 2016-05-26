@@ -1,0 +1,73 @@
+{
+  "id": 873823529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.923548,43.07227,-70.923548,43.07227",
+    "geom:latitude":43.07227,
+    "geom:longitude":-70.923548,
+    "iso:country":"US",
+    "sg:address":"34 Smith Garrison Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2858",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DVXsQTNlKCQunqoS1zI6t_43.072270_-70.923548@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298200,
+    "wof:geomhash":"00c292301b27ec26dd8de0d11d4fb9b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873823529
+        }
+    ],
+    "wof:id":873823529,
+    "wof:lastmodified":1464298200,
+    "wof:name":"Stuart L Barr Dent",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.923548,
+    43.07227,
+    -70.923548,
+    43.07227
+],
+  "geometry": {"coordinates":[-70.923548,43.07227],"type":"Point"}
+}

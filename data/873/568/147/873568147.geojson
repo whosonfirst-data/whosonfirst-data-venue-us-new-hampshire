@@ -1,0 +1,81 @@
+{
+  "id": 873568147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516723,42.789503,-71.516723,42.789503",
+    "geom:latitude":42.789503,
+    "geom:longitude":-71.516723,
+    "iso:country":"US",
+    "sg:address":"450 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4080",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "replacement",
+        "co",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sbKgDcGExMBKAvbywPLHZ_42.789503_-71.516723@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294587,
+    "wof:geomhash":"f3bc7387ee764ec312e98adc676fc94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873568147
+        }
+    ],
+    "wof:id":873568147,
+    "wof:lastmodified":1464294587,
+    "wof:name":"Portland/Harmon Autoglass",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement",
+        "co",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.516723,
+    42.789503,
+    -71.516723,
+    42.789503
+],
+  "geometry": {"coordinates":[-71.516723,42.789503],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873923653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468467,42.705242,-71.468467,42.705242",
+    "geom:latitude":42.705242,
+    "geom:longitude":-71.468467,
+    "iso:country":"US",
+    "sg:address":"2 Sky Meadow Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 4000",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.skymeadowrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892285,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GPEa6TDgTHPv8s4ivhVZ8_42.705242_-71.468467@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300282,
+    "wof:geomhash":"016876273b38af0512e7b8ea3254a5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892285,
+            "region_id":85688689,
+            "venue_id":873923653
+        }
+    ],
+    "wof:id":873923653,
+    "wof:lastmodified":1464300282,
+    "wof:name":"Sky Meadow Real Estate",
+    "wof:parent_id":85892285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.468467,
+    42.705242,
+    -71.468467,
+    42.705242
+],
+  "geometry": {"coordinates":[-71.468467,42.705242],"type":"Point"}
+}

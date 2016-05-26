@@ -1,0 +1,71 @@
+{
+  "id": 873849009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245349,42.798561,-71.245349,42.798561",
+    "geom:latitude":42.798561,
+    "geom:longitude":-71.245349,
+    "iso:country":"US",
+    "sg:address":"4 Queen Anne Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 3369",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76yeV4UMgtJG5I3QVALcdi_42.798561_-71.245349@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298793,
+    "wof:geomhash":"8133f2235ea9006935538999d61d613d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873849009
+        }
+    ],
+    "wof:id":873849009,
+    "wof:lastmodified":1464298793,
+    "wof:name":"Parkers Framing & Remodeling",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.245349,
+    42.798561,
+    -71.245349,
+    42.798561
+],
+  "geometry": {"coordinates":[-71.245349,42.798561],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873611009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457442,42.99027,-71.457442,42.99027",
+    "geom:latitude":42.99027,
+    "geom:longitude":-71.457442,
+    "iso:country":"US",
+    "sg:address":"168 Manchester St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 9248",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nvgxw1OwDUjYwG6EJfowr_42.990270_-71.457442@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295154,
+    "wof:geomhash":"1d7e28192ea0e0bff9f4ca76685c676e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873611009
+        }
+    ],
+    "wof:id":873611009,
+    "wof:lastmodified":1464295154,
+    "wof:name":"Winona Social Club Inc",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "social"
+    ]
+},
+  "bbox": [
+    -71.457442,
+    42.99027,
+    -71.457442,
+    42.99027
+],
+  "geometry": {"coordinates":[-71.457442,42.99027],"type":"Point"}
+}

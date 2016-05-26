@@ -1,0 +1,71 @@
+{
+  "id": 873913729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.591264,44.487001,-71.591264,44.487001",
+    "geom:latitude":44.487001,
+    "geom:longitude":-71.591264,
+    "iso:country":"US",
+    "sg:address":"121 Water St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3200",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rl99KsIWGnhIbNktobkof_44.487001_-71.591264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300083,
+    "wof:geomhash":"b440a39727a9f12597a894fe692eb454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873913729
+        }
+    ],
+    "wof:id":873913729,
+    "wof:lastmodified":1464300083,
+    "wof:name":"Recycling Center",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.591264,
+    44.487001,
+    -71.591264,
+    44.487001
+],
+  "geometry": {"coordinates":[-71.591264,44.487001],"type":"Point"}
+}

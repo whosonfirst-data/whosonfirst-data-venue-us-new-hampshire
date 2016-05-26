@@ -1,0 +1,71 @@
+{
+  "id": 873544109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.91379,43.26667,-71.91379,43.26667",
+    "geom:latitude":43.26667,
+    "geom:longitude":-71.91379,
+    "iso:country":"US",
+    "sg:address":"40 Bible Hill Rd",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3396",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BKywCzrM7aa2NC6v0KxkF_43.266670_-71.913790@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"14cc01337829dcf09b9a5708ee4fc74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873544109
+        }
+    ],
+    "wof:id":873544109,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Take-A-Break",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.91379,
+    43.26667,
+    -71.91379,
+    43.26667
+],
+  "geometry": {"coordinates":[-71.91379000000001,43.26667],"type":"Point"}
+}

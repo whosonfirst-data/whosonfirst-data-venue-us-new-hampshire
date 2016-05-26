@@ -1,0 +1,75 @@
+{
+  "id": 873889611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464371,43.544794,-71.464371,43.544794",
+    "geom:latitude":43.544794,
+    "geom:longitude":-71.464371,
+    "iso:country":"US",
+    "sg:address":"670 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4517",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recapping",
+        "retreading",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mpzhRRCx8qT3nqwmxWJVz_43.544794_-71.464371@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299624,
+    "wof:geomhash":"9f052546cf941b75bae87dad18b64d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873889611
+        }
+    ],
+    "wof:id":873889611,
+    "wof:lastmodified":1464299624,
+    "wof:name":"Belknap Tire Company Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recapping",
+        "retreading",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.464371,
+    43.544794,
+    -71.464371,
+    43.544794
+],
+  "geometry": {"coordinates":[-71.464371,43.544794],"type":"Point"}
+}

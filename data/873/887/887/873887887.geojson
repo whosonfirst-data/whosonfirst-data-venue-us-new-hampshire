@@ -1,0 +1,71 @@
+{
+  "id": 873887887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467046,43.093797,-71.467046,43.093797",
+    "geom:latitude":43.093797,
+    "geom:longitude":-71.467046,
+    "iso:country":"US",
+    "sg:address":"3 Riverside St",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 7761",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HVQjMlv2moQG7srzcenFu_43.093797_-71.467046@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299589,
+    "wof:geomhash":"c84ed6d0e5261dbff81337a73b93bb45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873887887
+        }
+    ],
+    "wof:id":873887887,
+    "wof:lastmodified":1464299589,
+    "wof:name":"Robie's Store",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.467046,
+    43.093797,
+    -71.467046,
+    43.093797
+],
+  "geometry": {"coordinates":[-71.467046,43.093797],"type":"Point"}
+}

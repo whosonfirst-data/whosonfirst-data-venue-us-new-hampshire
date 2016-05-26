@@ -1,0 +1,75 @@
+{
+  "id": 873849795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270345,42.897815,-71.270345,42.897815",
+    "geom:latitude":42.897815,
+    "geom:longitude":-71.270345,
+    "iso:country":"US",
+    "sg:address":"126 Hampstead Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 4748",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2txPhddMzJv7zsYJRmfs0H_42.897815_-71.270345@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298807,
+    "wof:geomhash":"00af9afdf9267c742a3fe1c9782a03f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873849795
+        }
+    ],
+    "wof:id":873849795,
+    "wof:lastmodified":1464298807,
+    "wof:name":"D J K Enterprises",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.270345,
+    42.897815,
+    -71.270345,
+    42.897815
+],
+  "geometry": {"coordinates":[-71.27034500000001,42.897815],"type":"Point"}
+}

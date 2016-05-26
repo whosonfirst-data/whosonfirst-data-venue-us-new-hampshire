@@ -1,0 +1,71 @@
+{
+  "id": 873824745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687133,43.76171,-71.687133,43.76171",
+    "geom:latitude":43.76171,
+    "geom:longitude":-71.687133,
+    "iso:country":"US",
+    "sg:address":"190 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4166",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hblv3yV7ge7jW4qgeqoyz_43.761710_-71.687133@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298228,
+    "wof:geomhash":"19321e2664686feff887cb8d9eb6c36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873824745
+        }
+    ],
+    "wof:id":873824745,
+    "wof:lastmodified":1464298228,
+    "wof:name":"Lutz Property Management",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.687133,
+    43.76171,
+    -71.687133,
+    43.76171
+],
+  "geometry": {"coordinates":[-71.687133,43.76171],"type":"Point"}
+}

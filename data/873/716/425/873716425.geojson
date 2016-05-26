@@ -1,0 +1,78 @@
+{
+  "id": 873716425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.803322,43.069339,-70.803322,43.069339",
+    "geom:latitude":43.069339,
+    "geom:longitude":-70.803322,
+    "iso:country":"US",
+    "sg:address":"185 Grafton Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 1100",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"www.cjtrailways.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840365,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EQlu4ZMT5rrvMm19npCj3_43.069339_-70.803322@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296599,
+    "wof:geomhash":"f620a62a9b530296970cd092fba196b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85840365,
+            "region_id":85688689,
+            "venue_id":873716425
+        }
+    ],
+    "wof:id":873716425,
+    "wof:lastmodified":1464296599,
+    "wof:name":"C & J Trailways",
+    "wof:parent_id":85840365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -70.803322,
+    43.069339,
+    -70.803322,
+    43.069339
+],
+  "geometry": {"coordinates":[-70.80332199999999,43.069339],"type":"Point"}
+}

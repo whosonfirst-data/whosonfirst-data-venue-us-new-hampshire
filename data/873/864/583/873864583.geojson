@@ -1,0 +1,71 @@
+{
+  "id": 873864583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488157,42.958149,-71.488157,42.958149",
+    "geom:latitude":42.958149,
+    "geom:longitude":-71.488157,
+    "iso:country":"US",
+    "sg:address":"14 Saratoga Ct",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 232 1487",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74CntNa33U1NyLwBVZpaOv_42.958149_-71.488157@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299130,
+    "wof:geomhash":"211bd16e7b7f91ec0b0f5caab91aed6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873864583
+        }
+    ],
+    "wof:id":873864583,
+    "wof:lastmodified":1464299130,
+    "wof:name":"Cowette Plumbing & Htg Inc",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.488157,
+    42.958149,
+    -71.488157,
+    42.958149
+],
+  "geometry": {"coordinates":[-71.488157,42.958149],"type":"Point"}
+}

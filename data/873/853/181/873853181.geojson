@@ -1,0 +1,71 @@
+{
+  "id": 873853181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.933883,43.074749,-70.933883,43.074749",
+    "geom:latitude":43.074749,
+    "geom:longitude":-70.933883,
+    "iso:country":"US",
+    "sg:address":"1 Young Ln",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 5656",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "router",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i8cWr0US1K50gjnd5fjek_43.074749_-70.933883@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298881,
+    "wof:geomhash":"6b4d0a2aa39579e07a4d309b43a5e82e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873853181
+        }
+    ],
+    "wof:id":873853181,
+    "wof:lastmodified":1464298881,
+    "wof:name":"Damon Automation LLC",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "router",
+        "system"
+    ]
+},
+  "bbox": [
+    -70.933883,
+    43.074749,
+    -70.933883,
+    43.074749
+],
+  "geometry": {"coordinates":[-70.93388299999999,43.074749],"type":"Point"}
+}

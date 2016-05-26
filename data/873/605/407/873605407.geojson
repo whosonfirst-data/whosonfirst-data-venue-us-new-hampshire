@@ -1,0 +1,71 @@
+{
+  "id": 873605407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.31865,42.973473,-71.31865,42.973473",
+    "geom:latitude":42.973473,
+    "geom:longitude":-71.31865,
+    "iso:country":"US",
+    "sg:address":"280 Chester Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5803",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uJyxvUVvVfyuCxWrROjav_42.973473_-71.318650@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295046,
+    "wof:geomhash":"09a2cc97b71891f2fb537b91aef0a5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873605407
+        }
+    ],
+    "wof:id":873605407,
+    "wof:lastmodified":1464295046,
+    "wof:name":"Hobbs Automotive",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.31865,
+    42.973473,
+    -71.31865,
+    42.973473
+],
+  "geometry": {"coordinates":[-71.31865000000001,42.973473],"type":"Point"}
+}

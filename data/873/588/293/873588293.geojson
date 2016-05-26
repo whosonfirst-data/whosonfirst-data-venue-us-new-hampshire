@@ -1,0 +1,73 @@
+{
+  "id": 873588293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.601844,43.28256,-71.601844,43.28256",
+    "geom:latitude":43.28256,
+    "geom:longitude":-71.601844,
+    "iso:country":"US",
+    "sg:address":"369 Village St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 0238",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67bXYh8vWEvfpiODZgkG8v_43.282560_-71.601844@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294811,
+    "wof:geomhash":"d592db25ce4675556dcd62b8019f30c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873588293
+        }
+    ],
+    "wof:id":873588293,
+    "wof:lastmodified":1464294811,
+    "wof:name":"Pearl Russ Excavation",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.601844,
+    43.28256,
+    -71.601844,
+    43.28256
+],
+  "geometry": {"coordinates":[-71.601844,43.28256],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873610171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.017699,42.865582,-71.017699,42.865582",
+    "geom:latitude":42.865582,
+    "geom:longitude":-71.017699,
+    "iso:country":"US",
+    "sg:address":"26 Bear Hill Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 6067",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "interior",
+        "residential",
+        "painting",
+        "exterior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GCIH3BC7SugjZv4KHiHwy_42.865582_-71.017699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295145,
+    "wof:geomhash":"7a653aaa2dde7445b4a1f59abf807d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873610171
+        }
+    ],
+    "wof:id":873610171,
+    "wof:lastmodified":1464295145,
+    "wof:name":"Makonis & Sons Painting",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "residential",
+        "painting",
+        "exterior"
+    ]
+},
+  "bbox": [
+    -71.017699,
+    42.865582,
+    -71.017699,
+    42.865582
+],
+  "geometry": {"coordinates":[-71.01769899999999,42.865582],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873932623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.021629,42.87286,-71.021629,42.87286",
+    "geom:latitude":42.87286,
+    "geom:longitude":-71.021629,
+    "iso:country":"US",
+    "sg:address":"12 Amesbury Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 6566",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.diopitt.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tgAbcFKBkI47DLA8Xsd2h_42.872860_-71.021629@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300458,
+    "wof:geomhash":"c1c927db7bc1a1aa1a085577f0121ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873932623
+        }
+    ],
+    "wof:id":873932623,
+    "wof:lastmodified":1464300458,
+    "wof:name":"Mary Mother Of The Church",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.021629,
+    42.87286,
+    -71.021629,
+    42.87286
+],
+  "geometry": {"coordinates":[-71.021629,42.87286],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873721743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.607829,42.717502,-71.607829,42.717502",
+    "geom:latitude":42.717502,
+    "geom:longitude":-71.607829,
+    "iso:country":"US",
+    "sg:address":"117 Ridge Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 3175",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kAEc5rSZEF29GYlEsnOrd_42.717502_-71.607829@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296671,
+    "wof:geomhash":"2fc04dfb6e7fd7d212d3f113fe5989ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873721743
+        }
+    ],
+    "wof:id":873721743,
+    "wof:lastmodified":1464296671,
+    "wof:name":"Nichols-Smith Conservation Lnd",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association"
+    ]
+},
+  "bbox": [
+    -71.607829,
+    42.717502,
+    -71.607829,
+    42.717502
+],
+  "geometry": {"coordinates":[-71.607829,42.717502],"type":"Point"}
+}

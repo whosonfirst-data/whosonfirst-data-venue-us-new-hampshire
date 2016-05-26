@@ -1,0 +1,77 @@
+{
+  "id": 873817061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412661,42.979795,-71.412661,42.979795",
+    "geom:latitude":42.979795,
+    "geom:longitude":-71.412661,
+    "iso:country":"US",
+    "sg:address":"125 Eastgate Way",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 3443",
+    "sg:postcode":"03109",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526163,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T08Ie5EBDS98ZCf7f72cw_42.979795_-71.412661@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298061,
+    "wof:geomhash":"78d775c03ec55bd0a1ddd8e86b0589ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526163,
+            "region_id":85688689,
+            "venue_id":873817061
+        }
+    ],
+    "wof:id":873817061,
+    "wof:lastmodified":1464298061,
+    "wof:name":"Eastgate Apartments",
+    "wof:parent_id":420526163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.412661,
+    42.979795,
+    -71.412661,
+    42.979795
+],
+  "geometry": {"coordinates":[-71.412661,42.979795],"type":"Point"}
+}

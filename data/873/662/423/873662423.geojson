@@ -1,0 +1,75 @@
+{
+  "id": 873662423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463291,43.535699,-71.463291,43.535699",
+    "geom:latitude":43.535699,
+    "geom:longitude":-71.463291,
+    "iso:country":"US",
+    "sg:address":"382 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3431",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sv9evd9D894j6iT2Qikkm_43.535699_-71.463291@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295724,
+    "wof:geomhash":"05696fa1d277884369c09a1d46cc7ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873662423
+        }
+    ],
+    "wof:id":873662423,
+    "wof:lastmodified":1464295724,
+    "wof:name":"Community Alcohol Information",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -71.463291,
+    43.535699,
+    -71.463291,
+    43.535699
+],
+  "geometry": {"coordinates":[-71.463291,43.535699],"type":"Point"}
+}

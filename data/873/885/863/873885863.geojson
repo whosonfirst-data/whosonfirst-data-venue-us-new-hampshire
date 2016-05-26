@@ -1,0 +1,71 @@
+{
+  "id": 873885863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.094182,43.789713,-71.094182,43.789713",
+    "geom:latitude":43.789713,
+    "geom:longitude":-71.094182,
+    "iso:country":"US",
+    "sg:address":"3 Blueberry Rd",
+    "sg:city":"Center Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 7874",
+    "sg:postcode":"03814",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GBixmi5WNJ57Puboaw5sd_43.789713_-71.094182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299554,
+    "wof:geomhash":"100b9f4eff571e489d66143d8aae23b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873885863
+        }
+    ],
+    "wof:id":873885863,
+    "wof:lastmodified":1464299554,
+    "wof:name":"Custom Drywall & Painting",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.094182,
+    43.789713,
+    -71.094182,
+    43.789713
+],
+  "geometry": {"coordinates":[-71.094182,43.789713],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873638501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467221,43.52344,-71.467221,43.52344",
+    "geom:latitude":43.52344,
+    "geom:longitude":-71.467221,
+    "iso:country":"US",
+    "sg:address":"358 S Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9824",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FIcDKzQlIL1UAvy7dDv91_43.523440_-71.467221@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295460,
+    "wof:geomhash":"de76b033e51db5b9f20111f22a933a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873638501
+        }
+    ],
+    "wof:id":873638501,
+    "wof:lastmodified":1464295460,
+    "wof:name":"Laconia Rod & Gun Club",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.467221,
+    43.52344,
+    -71.467221,
+    43.52344
+],
+  "geometry": {"coordinates":[-71.467221,43.52344],"type":"Point"}
+}

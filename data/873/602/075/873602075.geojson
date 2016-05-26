@@ -1,0 +1,73 @@
+{
+  "id": 873602075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.910006,43.038713,-70.910006,43.038713",
+    "geom:latitude":43.038713,
+    "geom:longitude":-70.910006,
+    "iso:country":"US",
+    "sg:address":"33 Squamscott Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 8850",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "gas",
+        "burner",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHRa7LCaozutw81nIW2Yt_43.038713_-70.910006@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295009,
+    "wof:geomhash":"85685451a0d3ccba531f52e03652885e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873602075
+        }
+    ],
+    "wof:id":873602075,
+    "wof:lastmodified":1464295009,
+    "wof:name":"A H Thermo Heating & Cooling",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "burner",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.910006,
+    43.038713,
+    -70.910006,
+    43.038713
+],
+  "geometry": {"coordinates":[-70.910006,43.038713],"type":"Point"}
+}

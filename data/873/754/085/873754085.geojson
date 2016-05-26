@@ -1,0 +1,69 @@
+{
+  "id": 873754085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541591,42.802883,-71.541591,42.802883",
+    "geom:latitude":42.802883,
+    "geom:longitude":-71.541591,
+    "iso:country":"US",
+    "sg:address":"29 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 9311",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gw3uEj1yw6h6xS1hO1odK_42.802883_-71.541591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297134,
+    "wof:geomhash":"cd071507cbcb0e69bed3985c69d0b90c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873754085
+        }
+    ],
+    "wof:id":873754085,
+    "wof:lastmodified":1464297134,
+    "wof:name":"Slatoff & Ward Psychological",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.541591,
+    42.802883,
+    -71.541591,
+    42.802883
+],
+  "geometry": {"coordinates":[-71.541591,42.802883],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873605109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479021,42.99696,-71.479021,42.99696",
+    "geom:latitude":42.99696,
+    "geom:longitude":-71.479021,
+    "iso:country":"US",
+    "sg:address":"77 Bremer St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 8602",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YTytG0320RyTUXwZZR8wt_42.996960_-71.479021@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295041,
+    "wof:geomhash":"7ed6a1bd25548a455280150451d68f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873605109
+        }
+    ],
+    "wof:id":873605109,
+    "wof:lastmodified":1464295041,
+    "wof:name":"Beaulieu's Market",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.479021,
+    42.99696,
+    -71.479021,
+    42.99696
+],
+  "geometry": {"coordinates":[-71.479021,42.99696],"type":"Point"}
+}

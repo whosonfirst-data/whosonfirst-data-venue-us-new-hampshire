@@ -1,0 +1,71 @@
+{
+  "id": 873558125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398194,43.580059,-71.398194,43.580059",
+    "geom:latitude":43.580059,
+    "geom:longitude":-71.398194,
+    "iso:country":"US",
+    "sg:address":"32 Varney Point Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 4357",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heavy",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JaYRxTodEj8uUYDPptciC_43.580059_-71.398194@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294473,
+    "wof:geomhash":"ca17a09b66d5a94ee403f8c86634a627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873558125
+        }
+    ],
+    "wof:id":873558125,
+    "wof:lastmodified":1464294473,
+    "wof:name":"Island Support Service",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.398194,
+    43.580059,
+    -71.398194,
+    43.580059
+],
+  "geometry": {"coordinates":[-71.398194,43.580059],"type":"Point"}
+}

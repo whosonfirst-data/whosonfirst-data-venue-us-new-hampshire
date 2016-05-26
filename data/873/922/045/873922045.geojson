@@ -1,0 +1,103 @@
+{
+  "id": 873922045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462406,42.899293,-71.462406,42.899293",
+    "geom:latitude":42.899293,
+    "geom:longitude":-71.462406,
+    "iso:country":"US",
+    "sg:address":"715 Daniel Webster Hwy Ste A",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3900",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "steel",
+        "sheet",
+        "work",
+        "warehouse",
+        "metal-wholesale",
+        "distributor",
+        "fabricator",
+        "mill",
+        "welder",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844207,
+        102191575,
+        404477193,
+        85633793,
+        85975251,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5liI6Z1GmA50HtsjYI6Dr7_42.899293_-71.462406@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300253,
+    "wof:geomhash":"309e38251f2107903cbbccc12c35f19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477193,
+            "locality_id":85975251,
+            "neighbourhood_id":85844207,
+            "region_id":85688689,
+            "venue_id":873922045
+        }
+    ],
+    "wof:id":873922045,
+    "wof:lastmodified":1464300253,
+    "wof:name":"Ace Welding Co",
+    "wof:parent_id":85844207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "sheet",
+        "work",
+        "warehouse",
+        "metal-wholesale",
+        "distributor",
+        "fabricator",
+        "mill",
+        "welder",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.462406,
+    42.899293,
+    -71.462406,
+    42.899293
+],
+  "geometry": {"coordinates":[-71.462406,42.899293],"type":"Point"}
+}

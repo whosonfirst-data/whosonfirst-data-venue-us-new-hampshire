@@ -1,0 +1,71 @@
+{
+  "id": 873885601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397522,42.755564,-71.397522,42.755564",
+    "geom:latitude":42.755564,
+    "geom:longitude":-71.397522,
+    "iso:country":"US",
+    "sg:address":"115 Bush Hill Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 577 5552",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGSxueT6LFpxVOdBZ1rUP_42.755564_-71.397522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299550,
+    "wof:geomhash":"db3a36cac2546da9ab23c429193a5314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873885601
+        }
+    ],
+    "wof:id":873885601,
+    "wof:lastmodified":1464299550,
+    "wof:name":"Tours R US Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -71.397522,
+    42.755564,
+    -71.397522,
+    42.755564
+],
+  "geometry": {"coordinates":[-71.397522,42.755564],"type":"Point"}
+}

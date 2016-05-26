@@ -1,0 +1,71 @@
+{
+  "id": 873855195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42602,43.563114,-71.42602,43.563114",
+    "geom:latitude":43.563114,
+    "geom:longitude":-71.42602,
+    "iso:country":"US",
+    "sg:address":"75 Old Lake Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5334",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66yPC6zEHbwROmtkHrO1MD_43.563114_-71.426020@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298917,
+    "wof:geomhash":"101716ec06c58a7c198efbf56af01220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873855195
+        }
+    ],
+    "wof:id":873855195,
+    "wof:lastmodified":1464298917,
+    "wof:name":"CDC Commercial Kitchen Equip",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -71.42602,
+    43.563114,
+    -71.42602,
+    43.563114
+],
+  "geometry": {"coordinates":[-71.42601999999999,43.563114],"type":"Point"}
+}

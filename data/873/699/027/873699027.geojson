@@ -1,0 +1,70 @@
+{
+  "id": 873699027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.817465,43.280943,-71.817465,43.280943",
+    "geom:latitude":43.280943,
+    "geom:longitude":-71.817465,
+    "iso:country":"US",
+    "sg:address":"15 W Main St",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2437",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "historical"
+    ],
+    "sg:website":"www.warnerhistorical.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OOBzfo125NnHWx8vj1zc0_43.280943_-71.817465@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296394,
+    "wof:geomhash":"8e8b884b5ce7c516f947790fd41909e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873699027
+        }
+    ],
+    "wof:id":873699027,
+    "wof:lastmodified":1464296394,
+    "wof:name":"Warner Historical Society",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.817465,
+    43.280943,
+    -71.817465,
+    43.280943
+],
+  "geometry": {"coordinates":[-71.817465,43.280943],"type":"Point"}
+}

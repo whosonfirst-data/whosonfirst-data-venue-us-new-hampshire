@@ -1,0 +1,73 @@
+{
+  "id": 873850843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250047,43.657272,-71.250047,43.657272",
+    "geom:latitude":43.657272,
+    "geom:longitude":-71.250047,
+    "iso:country":"US",
+    "sg:address":"152 Middle Rd",
+    "sg:city":"Ctr Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 9133",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zfmBzIXzm5o5oFzaG1KsW_43.657272_-71.250047@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298829,
+    "wof:geomhash":"c6eb8cf56f75e2f824061fb8516e3f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873850843
+        }
+    ],
+    "wof:id":873850843,
+    "wof:lastmodified":1464298829,
+    "wof:name":"Tuftonboro Repair",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.250047,
+    43.657272,
+    -71.250047,
+    43.657272
+],
+  "geometry": {"coordinates":[-71.250047,43.657272],"type":"Point"}
+}

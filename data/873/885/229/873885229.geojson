@@ -1,0 +1,71 @@
+{
+  "id": 873885229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477176,42.980496,-71.477176,42.980496",
+    "geom:latitude":42.980496,
+    "geom:longitude":-71.477176,
+    "iso:country":"US",
+    "sg:address":"84 Varney St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 4807",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hearing",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YCMvjcw7qnoanhi3s2JMo_42.980496_-71.477176@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299543,
+    "wof:geomhash":"2f9ccb69ec92c2b9baab32ae12d5e358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873885229
+        }
+    ],
+    "wof:id":873885229,
+    "wof:lastmodified":1464299543,
+    "wof:name":"Teresa F Lamontagne",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -71.477176,
+    42.980496,
+    -71.477176,
+    42.980496
+],
+  "geometry": {"coordinates":[-71.477176,42.980496],"type":"Point"}
+}

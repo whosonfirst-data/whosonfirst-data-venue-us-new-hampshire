@@ -1,0 +1,84 @@
+{
+  "id": 873807535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224054,42.782372,-71.224054,42.782372",
+    "geom:latitude":42.782372,
+    "geom:longitude":-71.224054,
+    "iso:country":"US",
+    "sg:address":"151 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 0900",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "memorabilia",
+        "book",
+        "baseball",
+        "cards",
+        "sport",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V3mKx8Y7dkYuQBp5GmL32_42.782372_-71.224054@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297881,
+    "wof:geomhash":"31049dfaf9301c23b9011256eee91046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873807535
+        }
+    ],
+    "wof:id":873807535,
+    "wof:lastmodified":1464297881,
+    "wof:name":"Collector's Coop",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "memorabilia",
+        "book",
+        "baseball",
+        "cards",
+        "sport",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.224054,
+    42.782372,
+    -71.224054,
+    42.782372
+],
+  "geometry": {"coordinates":[-71.224054,42.782372],"type":"Point"}
+}

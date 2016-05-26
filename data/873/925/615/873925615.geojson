@@ -1,0 +1,75 @@
+{
+  "id": 873925615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227028,42.766499,-71.227028,42.766499",
+    "geom:latitude":42.766499,
+    "geom:longitude":-71.227028,
+    "iso:country":"US",
+    "sg:address":"99 Rockingham Park Blvd Ste 1151",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 4799",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "perfume"
+    ],
+    "sg:website":"http://www.thebodyshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IAXraRaddwu8IJ8asun2N_42.766499_-71.227028@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300319,
+    "wof:geomhash":"eba10238c933c3eed5f0813c55d78be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925615
+        }
+    ],
+    "wof:id":873925615,
+    "wof:lastmodified":1464300319,
+    "wof:name":"The Body Shop",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume"
+    ]
+},
+  "bbox": [
+    -71.227028,
+    42.766499,
+    -71.227028,
+    42.766499
+],
+  "geometry": {"coordinates":[-71.227028,42.766499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873912623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.093849,43.688259,-71.093849,43.688259",
+    "geom:latitude":43.688259,
+    "geom:longitude":-71.093849,
+    "iso:country":"US",
+    "sg:address":"851 State Rte 16",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 8249",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28XqO9JqDbynEpf70ykdo0_43.688259_-71.093849@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300061,
+    "wof:geomhash":"6aac7a5c7ba066c8f57a0d30f78f3aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873912623
+        }
+    ],
+    "wof:id":873912623,
+    "wof:lastmodified":1464300061,
+    "wof:name":"Buchanan Public Self Storage",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.093849,
+    43.688259,
+    -71.093849,
+    43.688259
+],
+  "geometry": {"coordinates":[-71.09384900000001,43.688259],"type":"Point"}
+}

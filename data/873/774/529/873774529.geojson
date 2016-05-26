@@ -1,0 +1,73 @@
+{
+  "id": 873774529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.753238,42.825621,-71.753238,42.825621",
+    "geom:latitude":42.825621,
+    "geom:longitude":-71.753238,
+    "iso:country":"US",
+    "sg:address":"424 State Rte 101",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2816",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KsHM1Sw4EvVuGFFlcyR8W_42.825621_-71.753238@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297420,
+    "wof:geomhash":"907d93ead7ccfcd5bafa79c9e6d0b76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873774529
+        }
+    ],
+    "wof:id":873774529,
+    "wof:lastmodified":1464297420,
+    "wof:name":"Page Street Storage",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -71.753238,
+    42.825621,
+    -71.753238,
+    42.825621
+],
+  "geometry": {"coordinates":[-71.753238,42.825621],"type":"Point"}
+}

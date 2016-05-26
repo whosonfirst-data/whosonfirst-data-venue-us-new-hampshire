@@ -1,0 +1,73 @@
+{
+  "id": 873610539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.184829,43.134321,-71.184829,43.134321",
+    "geom:latitude":43.134321,
+    "geom:longitude":-71.184829,
+    "iso:country":"US",
+    "sg:address":"162 Nottingham Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 9046",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WLNIWIRO6m4qWSQHf8iaG_43.134321_-71.184829@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295149,
+    "wof:geomhash":"4bbd25fe321fd5100177be41b128e17b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873610539
+        }
+    ],
+    "wof:id":873610539,
+    "wof:lastmodified":1464295149,
+    "wof:name":"Sucicide Cycles",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.184829,
+    43.134321,
+    -71.184829,
+    43.134321
+],
+  "geometry": {"coordinates":[-71.18482899999999,43.134321],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873677123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.594973,42.895319,-71.594973,42.895319",
+    "geom:latitude":42.895319,
+    "geom:longitude":-71.594973,
+    "iso:country":"US",
+    "sg:address":"16 Williamsburg Dr",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 0950",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51X5A0SQp6EL4fp07irqcs_42.895319_-71.594973@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295915,
+    "wof:geomhash":"3d059d361d2f2b582bf7d20aa16a041d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873677123
+        }
+    ],
+    "wof:id":873677123,
+    "wof:lastmodified":1464295915,
+    "wof:name":"Datasmith",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.594973,
+    42.895319,
+    -71.594973,
+    42.895319
+],
+  "geometry": {"coordinates":[-71.594973,42.895319],"type":"Point"}
+}

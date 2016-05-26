@@ -1,0 +1,73 @@
+{
+  "id": 873684649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534392,42.871362,-71.534392,42.871362",
+    "geom:latitude":42.871362,
+    "geom:longitude":-71.534392,
+    "iso:country":"US",
+    "sg:address":"18 Danbury Dr",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 2748",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "plumber",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQZT6Adrw35CjhgcMFpgG_42.871362_-71.534392@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296128,
+    "wof:geomhash":"43ff2e2bc8bf1b7f607c1643afca019e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873684649
+        }
+    ],
+    "wof:id":873684649,
+    "wof:lastmodified":1464296128,
+    "wof:name":"David Pollock Plumbing",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "plumber",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.534392,
+    42.871362,
+    -71.534392,
+    42.871362
+],
+  "geometry": {"coordinates":[-71.534392,42.871362],"type":"Point"}
+}

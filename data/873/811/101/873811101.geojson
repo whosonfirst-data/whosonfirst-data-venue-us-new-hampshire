@@ -1,0 +1,77 @@
+{
+  "id": 873811101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.392604,43.32375,-72.392604,43.32375",
+    "geom:latitude":43.32375,
+    "geom:longitude":-72.392604,
+    "iso:country":"US",
+    "sg:address":"1176 River Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 3849",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "r",
+        "truck",
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5370ZuvnGkyjU44SIePQhJ_43.323750_-72.392604@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297946,
+    "wof:geomhash":"92ef14e34921eb04425df464a29b3b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873811101
+        }
+    ],
+    "wof:id":873811101,
+    "wof:lastmodified":1464297946,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "r",
+        "truck",
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -72.392604,
+    43.32375,
+    -72.392604,
+    43.32375
+],
+  "geometry": {"coordinates":[-72.39260400000001,43.32375],"type":"Point"}
+}

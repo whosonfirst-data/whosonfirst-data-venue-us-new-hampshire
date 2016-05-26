@@ -1,0 +1,97 @@
+{
+  "id": 873918913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197822,43.598726,-71.197822,43.598726",
+    "geom:latitude":43.598726,
+    "geom:longitude":-71.197822,
+    "iso:country":"US",
+    "sg:address":"23 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/wolfeboro/149330-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 9050",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fw2LLrXPNX1Z3EpTM8pmc_43.598726_-71.197822@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"340e05c9dfdc0ec71d320085c8ecf132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873918913
+        }
+    ],
+    "wof:id":873918913,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.197822,
+    43.598726,
+    -71.197822,
+    43.598726
+],
+  "geometry": {"coordinates":[-71.197822,43.598726],"type":"Point"}
+}

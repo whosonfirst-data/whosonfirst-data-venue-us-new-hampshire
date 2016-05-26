@@ -1,0 +1,75 @@
+{
+  "id": 873906083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448879,42.979824,-71.448879,42.979824",
+    "geom:latitude":42.979824,
+    "geom:longitude":-71.448879,
+    "iso:country":"US",
+    "sg:address":"9 Rogers St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 7482",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V78qlsBO1nIlupP2p1Kgg_42.979824_-71.448879@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299942,
+    "wof:geomhash":"166b030171283c4bff7e59439923ad43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873906083
+        }
+    ],
+    "wof:id":873906083,
+    "wof:lastmodified":1464299942,
+    "wof:name":"Auto Solutions Enterprises",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.448879,
+    42.979824,
+    -71.448879,
+    42.979824
+],
+  "geometry": {"coordinates":[-71.44887900000001,42.979824],"type":"Point"}
+}

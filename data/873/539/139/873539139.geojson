@@ -1,0 +1,73 @@
+{
+  "id": 873539139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510363,43.190457,-71.510363,43.190457",
+    "geom:latitude":43.190457,
+    "geom:longitude":-71.510363,
+    "iso:country":"US",
+    "sg:address":"85 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2366",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hpQRj14HmgcwOXR3SP0Fr_43.190457_-71.510363@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294251,
+    "wof:geomhash":"4322a0b3b0cd4be2bd667169f555380f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873539139
+        }
+    ],
+    "wof:id":873539139,
+    "wof:lastmodified":1464294251,
+    "wof:name":"CTS Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.510363,
+    43.190457,
+    -71.510363,
+    43.190457
+],
+  "geometry": {"coordinates":[-71.510363,43.190457],"type":"Point"}
+}

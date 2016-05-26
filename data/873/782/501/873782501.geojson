@@ -1,0 +1,71 @@
+{
+  "id": 873782501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.837272,43.185995,-71.837272,43.185995",
+    "geom:latitude":43.185995,
+    "geom:longitude":-71.837272,
+    "iso:country":"US",
+    "sg:address":"18 Pine Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 6195",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BBCBrBnPY2slt8ZsRkm5p_43.185995_-71.837272@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297524,
+    "wof:geomhash":"7b75b2a029f71d83d7e9687292dca6e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873782501
+        }
+    ],
+    "wof:id":873782501,
+    "wof:lastmodified":1464297524,
+    "wof:name":"Creative Beginnings",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.837272,
+    43.185995,
+    -71.837272,
+    43.185995
+],
+  "geometry": {"coordinates":[-71.837272,43.185995],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873772107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480281,42.916064,-71.480281,42.916064",
+    "geom:latitude":42.916064,
+    "geom:longitude":-71.480281,
+    "iso:country":"US",
+    "sg:address":"184 Back River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 1768",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_667fTCMrgc7o4JxGXXQWMD_42.916064_-71.480281@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297391,
+    "wof:geomhash":"08d21e8f361d0f5759093499f5238faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873772107
+        }
+    ],
+    "wof:id":873772107,
+    "wof:lastmodified":1464297391,
+    "wof:name":"Nu Coat Auto Body",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.480281,
+    42.916064,
+    -71.480281,
+    42.916064
+],
+  "geometry": {"coordinates":[-71.48028100000001,42.916064],"type":"Point"}
+}

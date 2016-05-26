@@ -1,0 +1,73 @@
+{
+  "id": 873817905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.573286,43.175245,-71.573286,43.175245",
+    "geom:latitude":43.175245,
+    "geom:longitude":-71.573286,
+    "iso:country":"US",
+    "sg:address":"285 Clinton St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 3896",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "well",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J8iIeU86Ce0z0BsS2kST0_43.175245_-71.573286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298078,
+    "wof:geomhash":"a542a1a7522f6689fea43da55aaab2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873817905
+        }
+    ],
+    "wof:id":873817905,
+    "wof:lastmodified":1464298078,
+    "wof:name":"John's Artesian Well Co",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.573286,
+    43.175245,
+    -71.573286,
+    43.175245
+],
+  "geometry": {"coordinates":[-71.573286,43.175245],"type":"Point"}
+}

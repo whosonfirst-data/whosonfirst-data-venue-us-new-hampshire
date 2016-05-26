@@ -1,0 +1,71 @@
+{
+  "id": 873852123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193287,44.448678,-71.193287,44.448678",
+    "geom:latitude":44.448678,
+    "geom:longitude":-71.193287,
+    "iso:country":"US",
+    "sg:address":"18 Gordon Ave",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2912",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t6HjnpjyDCxVJpUb2t5rw_44.448678_-71.193287@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298853,
+    "wof:geomhash":"25f60e58782af3202769f15964e89ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873852123
+        }
+    ],
+    "wof:id":873852123,
+    "wof:lastmodified":1464298853,
+    "wof:name":"Brian R Tupick",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.193287,
+    44.448678,
+    -71.193287,
+    44.448678
+],
+  "geometry": {"coordinates":[-71.193287,44.448678],"type":"Point"}
+}

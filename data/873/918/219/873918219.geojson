@@ -1,0 +1,72 @@
+{
+  "id": 873918219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19648,44.398006,-71.19648,44.398006",
+    "geom:latitude":44.398006,
+    "geom:longitude":-71.19648,
+    "iso:country":"US",
+    "sg:address":"12 Lancaster Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/gorham/183521-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 5885",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c3aIV4LWO5qO1PTaahUD7_44.398006_-71.196480@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300180,
+    "wof:geomhash":"c0f42f9862d7a44e6c98ac1575d8780e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873918219
+        }
+    ],
+    "wof:id":873918219,
+    "wof:lastmodified":1464300180,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -71.19648,
+    44.398006,
+    -71.19648,
+    44.398006
+],
+  "geometry": {"coordinates":[-71.19647999999999,44.398006],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873913121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53432,42.716525,-71.53432,42.716525",
+    "geom:latitude":42.716525,
+    "geom:longitude":-71.53432,
+    "iso:country":"US",
+    "sg:address":"9 Caitlyn Cir",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 4058",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uuHlEERCNdtWUpbIcJXtg_42.716525_-71.534320@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300071,
+    "wof:geomhash":"cf1f454d67757c9fe25b729659b16922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873913121
+        }
+    ],
+    "wof:id":873913121,
+    "wof:lastmodified":1464300071,
+    "wof:name":"Kime Construction",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53432,
+    42.716525,
+    -71.53432,
+    42.716525
+],
+  "geometry": {"coordinates":[-71.53431999999999,42.716525],"type":"Point"}
+}

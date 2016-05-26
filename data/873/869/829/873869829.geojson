@@ -1,0 +1,82 @@
+{
+  "id": 873869829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.56846,44.490899,-71.56846,44.490899",
+    "geom:latitude":44.490899,
+    "geom:longitude":-71.56846,
+    "iso:country":"US",
+    "sg:address":"12 High St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 9887",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "wholesaler",
+        "produce",
+        "commodity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w47nW3rvz17Rve1UiD1x7_44.490899_-71.568460@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299222,
+    "wof:geomhash":"4b093eae109d086f384b16ac46d67f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873869829
+        }
+    ],
+    "wof:id":873869829,
+    "wof:lastmodified":1464299222,
+    "wof:name":"Great Northwoods Food Service",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "wholesaler",
+        "produce",
+        "commodity"
+    ]
+},
+  "bbox": [
+    -71.56846,
+    44.490899,
+    -71.56846,
+    44.490899
+],
+  "geometry": {"coordinates":[-71.56846,44.490899],"type":"Point"}
+}

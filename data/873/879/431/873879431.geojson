@@ -1,0 +1,71 @@
+{
+  "id": 873879431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.289909,43.061795,-71.289909,43.061795",
+    "geom:latitude":43.061795,
+    "geom:longitude":-71.289909,
+    "iso:country":"US",
+    "sg:address":"74 High St",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 5140",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xmZt59RaHPZqd8nHqan0f_43.061795_-71.289909@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299421,
+    "wof:geomhash":"5ce1990809a230464b2c5484c6a9cdbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873879431
+        }
+    ],
+    "wof:id":873879431,
+    "wof:lastmodified":1464299421,
+    "wof:name":"Candia Tax Collector",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -71.289909,
+    43.061795,
+    -71.289909,
+    43.061795
+],
+  "geometry": {"coordinates":[-71.28990899999999,43.061795],"type":"Point"}
+}

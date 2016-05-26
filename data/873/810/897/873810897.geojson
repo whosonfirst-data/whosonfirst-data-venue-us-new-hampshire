@@ -1,0 +1,78 @@
+{
+  "id": 873810897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.888288,43.221099,-70.888288,43.221099",
+    "geom:latitude":43.221099,
+    "geom:longitude":-70.888288,
+    "iso:country":"US",
+    "sg:address":"1 Webb Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 7979",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JXDV9pHg2CigUfqkA5SkA_43.221099_-70.888288@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297942,
+    "wof:geomhash":"c9eaca692870349357b4b20de4fbdc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873810897
+        }
+    ],
+    "wof:id":873810897,
+    "wof:lastmodified":1464297942,
+    "wof:name":"Peter Richards MD",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.888288,
+    43.221099,
+    -70.888288,
+    43.221099
+],
+  "geometry": {"coordinates":[-70.888288,43.221099],"type":"Point"}
+}

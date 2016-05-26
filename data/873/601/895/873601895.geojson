@@ -1,0 +1,69 @@
+{
+  "id": 873601895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512283,42.990917,-71.512283,42.990917",
+    "geom:latitude":42.990917,
+    "geom:longitude":-71.512283,
+    "iso:country":"US",
+    "sg:address":"40 Holly St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 621 3873",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PFII5clBXD0skEc5IQeDG_42.990917_-71.512283@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295007,
+    "wof:geomhash":"55dff70c59964bfd87a9d1a34bc52a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873601895
+        }
+    ],
+    "wof:id":873601895,
+    "wof:lastmodified":1464295007,
+    "wof:name":"Mattell",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.512283,
+    42.990917,
+    -71.512283,
+    42.990917
+],
+  "geometry": {"coordinates":[-71.512283,42.990917],"type":"Point"}
+}

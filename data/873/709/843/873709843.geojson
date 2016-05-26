@@ -1,0 +1,73 @@
+{
+  "id": 873709843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507043,43.190233,-71.507043,43.190233",
+    "geom:latitude":43.190233,
+    "geom:longitude":-71.507043,
+    "iso:country":"US",
+    "sg:address":"8 Old Suncook Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 3000",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mZyuIFvH1SNdkynOz1gpQ_43.190233_-71.507043@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296519,
+    "wof:geomhash":"80b64a216b46aa161924d9eee307284e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873709843
+        }
+    ],
+    "wof:id":873709843,
+    "wof:lastmodified":1464296519,
+    "wof:name":"College For Lifelong Learning",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.507043,
+    43.190233,
+    -71.507043,
+    43.190233
+],
+  "geometry": {"coordinates":[-71.507043,43.190233],"type":"Point"}
+}

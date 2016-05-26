@@ -1,0 +1,73 @@
+{
+  "id": 873543261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.926701,42.900423,-70.926701,42.900423",
+    "geom:latitude":42.900423,
+    "geom:longitude":-70.926701,
+    "iso:country":"US",
+    "sg:address":"9 Old Amesbury Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 2666",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852415,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hbd483FqNhtC6qEbJsOYC_42.900423_-70.926701@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294293,
+    "wof:geomhash":"506631c623a1c0a35d6e286a93166e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852415,
+            "region_id":85688689,
+            "venue_id":873543261
+        }
+    ],
+    "wof:id":873543261,
+    "wof:lastmodified":1464294293,
+    "wof:name":"Dearborn Moving & Storage Inc",
+    "wof:parent_id":85852415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.926701,
+    42.900423,
+    -70.926701,
+    42.900423
+],
+  "geometry": {"coordinates":[-70.92670099999999,42.900423],"type":"Point"}
+}

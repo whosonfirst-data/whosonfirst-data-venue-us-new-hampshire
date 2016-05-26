@@ -1,0 +1,73 @@
+{
+  "id": 873806415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687486,43.758908,-71.687486,43.758908",
+    "geom:latitude":43.758908,
+    "geom:longitude":-71.687486,
+    "iso:country":"US",
+    "sg:address":"111 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 7264",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50E9KNbCOOsiV7EN4meN3R_43.758908_-71.687486@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297857,
+    "wof:geomhash":"9900c0d54bc35449e6ceb13380df4de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873806415
+        }
+    ],
+    "wof:id":873806415,
+    "wof:lastmodified":1464297857,
+    "wof:name":"Pemi Youth Ctr",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.687486,
+    43.758908,
+    -71.687486,
+    43.758908
+],
+  "geometry": {"coordinates":[-71.68748600000001,43.758908],"type":"Point"}
+}

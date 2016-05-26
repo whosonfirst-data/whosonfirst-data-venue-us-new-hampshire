@@ -1,0 +1,75 @@
+{
+  "id": 873819109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500344,43.187908,-71.500344,43.187908",
+    "geom:latitude":43.187908,
+    "geom:longitude":-71.500344,
+    "iso:country":"US",
+    "sg:address":"153 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2989",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cleaners",
+        "household",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s0w5zLXoo8vaxX1Gzi6DA_43.187908_-71.500344@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298103,
+    "wof:geomhash":"fddcf85a591c6551f8f5409027bd9c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873819109
+        }
+    ],
+    "wof:id":873819109,
+    "wof:lastmodified":1464298103,
+    "wof:name":"Electrolux Corp",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "household",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -71.500344,
+    43.187908,
+    -71.500344,
+    43.187908
+],
+  "geometry": {"coordinates":[-71.500344,43.187908],"type":"Point"}
+}

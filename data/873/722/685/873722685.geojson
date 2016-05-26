@@ -1,0 +1,79 @@
+{
+  "id": 873722685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.316745,43.634803,-72.316745,43.634803",
+    "geom:latitude":43.634803,
+    "geom:longitude":-72.316745,
+    "iso:country":"US",
+    "sg:address":"100 Main St",
+    "sg:city":"Orford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 353 9107",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eEwCru8Tt2JNgZdgWF4Ql_43.634803_-72.316745@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296683,
+    "wof:geomhash":"9f2b5a09272ec1c48a4c156c8cda2872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873722685
+        }
+    ],
+    "wof:id":873722685,
+    "wof:lastmodified":1464296683,
+    "wof:name":"Orford Area Senior Svc",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.316745,
+    43.634803,
+    -72.316745,
+    43.634803
+],
+  "geometry": {"coordinates":[-72.316745,43.634803],"type":"Point"}
+}

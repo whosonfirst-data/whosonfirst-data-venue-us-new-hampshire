@@ -1,0 +1,71 @@
+{
+  "id": 873613241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.866421,42.913667,-70.866421,42.913667",
+    "geom:latitude":42.913667,
+    "geom:longitude":-70.866421,
+    "iso:country":"US",
+    "sg:address":"10 Kensington Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 9200",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "yacht",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852429,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sv3NeUYM3OrhPyyNpTgsG_42.913667_-70.866421@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295178,
+    "wof:geomhash":"ad5de639362b55571979554a4876c5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852429,
+            "region_id":85688689,
+            "venue_id":873613241
+        }
+    ],
+    "wof:id":873613241,
+    "wof:lastmodified":1464295178,
+    "wof:name":"Ipswich Bay Yacht Sales",
+    "wof:parent_id":85852429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.866421,
+    42.913667,
+    -70.866421,
+    42.913667
+],
+  "geometry": {"coordinates":[-70.866421,42.913667],"type":"Point"}
+}

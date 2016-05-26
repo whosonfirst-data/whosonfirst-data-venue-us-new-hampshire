@@ -1,0 +1,75 @@
+{
+  "id": 873908499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536384,42.736605,-71.536384,42.736605",
+    "geom:latitude":42.736605,
+    "geom:longitude":-71.536384,
+    "iso:country":"US",
+    "sg:address":"48 Powers Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 6353",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mfg",
+        "pressure",
+        "label",
+        "sensitive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B0ql9SqkpYDPBRMNBFxE5_42.736605_-71.536384@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299984,
+    "wof:geomhash":"1a33ed8b83ca934726693e5671569746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873908499
+        }
+    ],
+    "wof:id":873908499,
+    "wof:lastmodified":1464299984,
+    "wof:name":"Spear Systems",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "pressure",
+        "label",
+        "sensitive"
+    ]
+},
+  "bbox": [
+    -71.536384,
+    42.736605,
+    -71.536384,
+    42.736605
+],
+  "geometry": {"coordinates":[-71.536384,42.736605],"type":"Point"}
+}

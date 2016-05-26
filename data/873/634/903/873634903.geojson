@@ -1,0 +1,71 @@
+{
+  "id": 873634903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483048,42.983437,-71.483048,42.983437",
+    "geom:latitude":42.983437,
+    "geom:longitude":-71.483048,
+    "iso:country":"US",
+    "sg:address":"216 Head St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 8951",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZeZZ6wcKCq6QpmI1gIYQQ_42.983437_-71.483048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295422,
+    "wof:geomhash":"f230ca62a907f01d361fd68fdea0ea1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873634903
+        }
+    ],
+    "wof:id":873634903,
+    "wof:lastmodified":1464295422,
+    "wof:name":"Ricard's Electric",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.483048,
+    42.983437,
+    -71.483048,
+    42.983437
+],
+  "geometry": {"coordinates":[-71.483048,42.983437],"type":"Point"}
+}

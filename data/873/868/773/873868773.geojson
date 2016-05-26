@@ -1,0 +1,70 @@
+{
+  "id": 873868773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453185,43.000311,-71.453185,43.000311",
+    "geom:latitude":43.000311,
+    "geom:longitude":-71.453185,
+    "iso:country":"US",
+    "sg:address":"93 Oak St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 5526",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30DdBoAcqm4YmurbG4SblV_43.000311_-71.453185@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299204,
+    "wof:geomhash":"af2db18633bd3298a005a493a05aa38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873868773
+        }
+    ],
+    "wof:id":873868773,
+    "wof:lastmodified":1464299204,
+    "wof:name":"Bagelcafe",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.453185,
+    43.000311,
+    -71.453185,
+    43.000311
+],
+  "geometry": {"coordinates":[-71.453185,43.000311],"type":"Point"}
+}

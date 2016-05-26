@@ -1,0 +1,75 @@
+{
+  "id": 873551211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.790831,43.042055,-70.790831,43.042055",
+    "geom:latitude":43.042055,
+    "geom:longitude":-70.790831,
+    "iso:country":"US",
+    "sg:address":"254 Banfield Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 7933",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LkPzsq2wxXcfdje8Bdi3H_43.042055_-70.790831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294391,
+    "wof:geomhash":"dc5ab83bf3396b409ea62bac8d561623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873551211
+        }
+    ],
+    "wof:id":873551211,
+    "wof:lastmodified":1464294391,
+    "wof:name":"Auto Motion Towing & Recovery",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -70.790831,
+    43.042055,
+    -70.790831,
+    43.042055
+],
+  "geometry": {"coordinates":[-70.790831,43.042055],"type":"Point"}
+}

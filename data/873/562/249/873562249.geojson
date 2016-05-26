@@ -1,0 +1,72 @@
+{
+  "id": 873562249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023867,42.814821,-72.023867,42.814821",
+    "geom:latitude":42.814821,
+    "geom:longitude":-72.023867,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6644",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "political"
+    ],
+    "sg:website":"www.scmassoc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T9wrETDNDYv0OEpwgs9jS_42.814821_-72.023867@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294523,
+    "wof:geomhash":"5852b20bfae920ca16637389223d0786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873562249
+        }
+    ],
+    "wof:id":873562249,
+    "wof:lastmodified":1464294523,
+    "wof:name":"SCM Assoc",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "political"
+    ]
+},
+  "bbox": [
+    -72.023867,
+    42.814821,
+    -72.023867,
+    42.814821
+],
+  "geometry": {"coordinates":[-72.023867,42.814821],"type":"Point"}
+}

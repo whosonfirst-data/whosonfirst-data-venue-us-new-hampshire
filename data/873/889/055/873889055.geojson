@@ -1,0 +1,73 @@
+{
+  "id": 873889055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200062,43.225972,-71.200062,43.225972",
+    "geom:latitude":43.225972,
+    "geom:longitude":-71.200062,
+    "iso:country":"US",
+    "sg:address":"164 Bow Lake Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8530",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oLAxaMtKNL9tVfyTgs8Uv_43.225972_-71.200062@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299609,
+    "wof:geomhash":"f599516fde2e7a67462e60187ff1da51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873889055
+        }
+    ],
+    "wof:id":873889055,
+    "wof:lastmodified":1464299609,
+    "wof:name":"Marshall's Auto Body",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.200062,
+    43.225972,
+    -71.200062,
+    43.225972
+],
+  "geometry": {"coordinates":[-71.200062,43.225972],"type":"Point"}
+}

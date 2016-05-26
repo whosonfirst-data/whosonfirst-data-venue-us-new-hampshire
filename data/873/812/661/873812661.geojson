@@ -1,0 +1,71 @@
+{
+  "id": 873812661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.239378,42.780614,-71.239378,42.780614",
+    "geom:latitude":42.780614,
+    "geom:longitude":-71.239378,
+    "iso:country":"US",
+    "sg:address":"9 Red Roof Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 1104",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QL6xqtFQENfthRXxNuzue_42.780614_-71.239378@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297973,
+    "wof:geomhash":"1825c00aa414131576e43922c99c81e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873812661
+        }
+    ],
+    "wof:id":873812661,
+    "wof:lastmodified":1464297973,
+    "wof:name":"Brooks Maintenance Corp",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "management"
+    ]
+},
+  "bbox": [
+    -71.239378,
+    42.780614,
+    -71.239378,
+    42.780614
+],
+  "geometry": {"coordinates":[-71.239378,42.780614],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873788611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.620619,43.387317,-71.620619,43.387317",
+    "geom:latitude":43.387317,
+    "geom:longitude":-71.620619,
+    "iso:country":"US",
+    "sg:address":"302 Shaw Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 3753",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "accessory",
+        "carpentry",
+        "closet",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04vtU1ZBgEMiDkGNNPmMNg_43.387317_-71.620619@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297624,
+    "wof:geomhash":"ff5083127ed57b2142be63625d9cca03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873788611
+        }
+    ],
+    "wof:id":873788611,
+    "wof:lastmodified":1464297624,
+    "wof:name":"Old School Carpentry",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory",
+        "carpentry",
+        "closet",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.620619,
+    43.387317,
+    -71.620619,
+    43.387317
+],
+  "geometry": {"coordinates":[-71.620619,43.387317],"type":"Point"}
+}

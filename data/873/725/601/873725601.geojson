@@ -1,0 +1,69 @@
+{
+  "id": 873725601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.328747,42.825241,-71.328747,42.825241",
+    "geom:latitude":42.825241,
+    "geom:longitude":-71.328747,
+    "iso:country":"US",
+    "sg:address":"43 Nashua Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 2473",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xBlQ4wkqd3qrqdNnpyNz4_42.825241_-71.328747@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296720,
+    "wof:geomhash":"c40d4f4265a1164745a2ae6344a43397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873725601
+        }
+    ],
+    "wof:id":873725601,
+    "wof:lastmodified":1464296720,
+    "wof:name":"Meetingplace Mortgage LLC",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.328747,
+    42.825241,
+    -71.328747,
+    42.825241
+],
+  "geometry": {"coordinates":[-71.32874700000001,42.825241],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873935749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.217093,43.585479,-71.217093,43.585479",
+    "geom:latitude":43.585479,
+    "geom:longitude":-71.217093,
+    "iso:country":"US",
+    "sg:address":"25 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 515 1003",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "sg:website":"www.thefolkcellar.com/intro.cfm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_643xhFxMfUTiGBArGT4Uh0_43.585479_-71.217093@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300515,
+    "wof:geomhash":"40f38749dd4d89d5e97841830bfd363c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935749
+        }
+    ],
+    "wof:id":873935749,
+    "wof:lastmodified":1464300515,
+    "wof:name":"Folk Cellar",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -71.217093,
+    43.585479,
+    -71.217093,
+    43.585479
+],
+  "geometry": {"coordinates":[-71.21709300000001,43.585479],"type":"Point"}
+}

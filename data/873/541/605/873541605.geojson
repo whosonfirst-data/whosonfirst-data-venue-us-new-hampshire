@@ -1,0 +1,71 @@
+{
+  "id": 873541605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.131325,43.972748,-71.131325,43.972748",
+    "geom:latitude":43.972748,
+    "geom:longitude":-71.131325,
+    "iso:country":"US",
+    "sg:address":"181 Hobbs St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 6880",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pKMWi9xgYPcAAOq5TxyGG_43.972748_-71.131325@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294276,
+    "wof:geomhash":"05563de058aee2e0dec331c3c79ab7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873541605
+        }
+    ],
+    "wof:id":873541605,
+    "wof:lastmodified":1464294276,
+    "wof:name":"White Mountain Sheet Metal",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.131325,
+    43.972748,
+    -71.131325,
+    43.972748
+],
+  "geometry": {"coordinates":[-71.131325,43.972748],"type":"Point"}
+}

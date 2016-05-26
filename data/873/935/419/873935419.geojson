@@ -1,0 +1,76 @@
+{
+  "id": 873935419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219342,43.586641,-71.219342,43.586641",
+    "geom:latitude":43.586641,
+    "geom:longitude":-71.219342,
+    "iso:country":"US",
+    "sg:address":"60 N Main St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 1080",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tour"
+    ],
+    "sg:website":"www.wolfeborotrolley.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58AzgFp18EoxMnHMXWsSrN_43.586641_-71.219342@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300507,
+    "wof:geomhash":"91a527e6f52246cab1a8c7b05d457bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935419
+        }
+    ],
+    "wof:id":873935419,
+    "wof:lastmodified":1464300507,
+    "wof:name":"Wolfeboro Trolley Company",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [
+    -71.219342,
+    43.586641,
+    -71.219342,
+    43.586641
+],
+  "geometry": {"coordinates":[-71.219342,43.586641],"type":"Point"}
+}

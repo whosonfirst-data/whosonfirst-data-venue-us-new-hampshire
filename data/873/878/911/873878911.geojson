@@ -1,0 +1,69 @@
+{
+  "id": 873878911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.113171,43.140183,-71.113171,43.140183",
+    "geom:latitude":43.140183,
+    "geom:longitude":-71.113171,
+    "iso:country":"US",
+    "sg:address":"221 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 734 2201",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_356G39aBzd188HE1jQq3GB_43.140183_-71.113171@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299412,
+    "wof:geomhash":"eda86692b0a8e6e937eca85bf1e49e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873878911
+        }
+    ],
+    "wof:id":873878911,
+    "wof:lastmodified":1464299412,
+    "wof:name":"Chuck S Welding",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.113171,
+    43.140183,
+    -71.113171,
+    43.140183
+],
+  "geometry": {"coordinates":[-71.11317099999999,43.140183],"type":"Point"}
+}

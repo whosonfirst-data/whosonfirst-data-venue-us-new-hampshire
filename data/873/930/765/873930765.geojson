@@ -1,0 +1,81 @@
+{
+  "id": 873930765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118732,43.978777,-71.118732,43.978777",
+    "geom:latitude":43.978777,
+    "geom:longitude":-71.118732,
+    "iso:country":"US",
+    "sg:address":"6 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 726 0281",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "record",
+        "bookstore",
+        "vinyl",
+        "dvd's"
+    ],
+    "sg:website":"harlanwolfe.mybisi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kX2INGb3jto4fFjKGA00W_43.978777_-71.118732@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300426,
+    "wof:geomhash":"7db31b2b70f53abab4081fa671a07fdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930765
+        }
+    ],
+    "wof:id":873930765,
+    "wof:lastmodified":1464300426,
+    "wof:name":"Harlan Wolfe's Record Shop",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "bookstore",
+        "vinyl",
+        "dvd's"
+    ]
+},
+  "bbox": [
+    -71.118732,
+    43.978777,
+    -71.118732,
+    43.978777
+],
+  "geometry": {"coordinates":[-71.11873199999999,43.978777],"type":"Point"}
+}

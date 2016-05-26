@@ -1,0 +1,71 @@
+{
+  "id": 873825191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.880498,42.90294,-70.880498,42.90294",
+    "geom:latitude":42.90294,
+    "geom:longitude":-70.880498,
+    "iso:country":"US",
+    "sg:address":"45 Stard Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 6350",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NuDbDLhIxWghcGC7l5ARS_42.902940_-70.880498@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298235,
+    "wof:geomhash":"966b69ef9f46678c664892825b62f41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873825191
+        }
+    ],
+    "wof:id":873825191,
+    "wof:lastmodified":1464298235,
+    "wof:name":"Fogg's Auto Recycling",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -70.880498,
+    42.90294,
+    -70.880498,
+    42.90294
+],
+  "geometry": {"coordinates":[-70.880498,42.90294],"type":"Point"}
+}

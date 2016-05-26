@@ -1,0 +1,69 @@
+{
+  "id": 873768149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491267,42.832088,-71.491267,42.832088",
+    "geom:latitude":42.832088,
+    "geom:longitude":-71.491267,
+    "iso:country":"US",
+    "sg:address":"246 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 8100",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "inn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pbWpbiun8WdzsVlWEu47B_42.832088_-71.491267@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297339,
+    "wof:geomhash":"2a1cd9ccea50eb5dd7aa257edbd6722d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873768149
+        }
+    ],
+    "wof:id":873768149,
+    "wof:lastmodified":1464297339,
+    "wof:name":"Residence Inn By Marriott",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -71.491267,
+    42.832088,
+    -71.491267,
+    42.832088
+],
+  "geometry": {"coordinates":[-71.49126699999999,42.832088],"type":"Point"}
+}

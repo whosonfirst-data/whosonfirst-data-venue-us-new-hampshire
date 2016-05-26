@@ -1,0 +1,90 @@
+{
+  "id": 873920759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.069473,43.030209,-71.069473,43.030209",
+    "geom:latitude":43.030209,
+    "geom:longitude":-71.069473,
+    "iso:country":"US",
+    "sg:address":"36 Fresh River Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 471 9739",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "major",
+        "heater",
+        "improvement",
+        "water",
+        "maintenance"
+    ],
+    "sg:website":"http://www.lowes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p9oJ9H2GqeMCSpzqGycjb_43.030209_-71.069473@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300224,
+    "wof:geomhash":"230890f7560b4927f89a0346125d7b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873920759
+        }
+    ],
+    "wof:id":873920759,
+    "wof:lastmodified":1464300224,
+    "wof:name":"Lowe's? Home Improvement",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "major",
+        "heater",
+        "improvement",
+        "water",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.069473,
+    43.030209,
+    -71.069473,
+    43.030209
+],
+  "geometry": {"coordinates":[-71.069473,43.030209],"type":"Point"}
+}

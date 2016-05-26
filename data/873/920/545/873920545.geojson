@@ -1,0 +1,71 @@
+{
+  "id": 873920545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.211029,42.85289,-71.211029,42.85289",
+    "geom:latitude":42.85289,
+    "geom:longitude":-71.211029,
+    "iso:country":"US",
+    "sg:address":"16 Route 111",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 8585",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "course",
+        "courses-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z4MBiE42dIGc3GOVvtcGB_42.852890_-71.211029@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300220,
+    "wof:geomhash":"7893a2e740b4000755ea95efcb26a5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873920545
+        }
+    ],
+    "wof:id":873920545,
+    "wof:lastmodified":1464300220,
+    "wof:name":"Brookstone Golf Club Maintenance",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "courses-private"
+    ]
+},
+  "bbox": [
+    -71.211029,
+    42.85289,
+    -71.211029,
+    42.85289
+],
+  "geometry": {"coordinates":[-71.211029,42.85289],"type":"Point"}
+}

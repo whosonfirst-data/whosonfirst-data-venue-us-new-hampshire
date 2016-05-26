@@ -1,0 +1,73 @@
+{
+  "id": 873631527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481545,42.965931,-71.481545,42.965931",
+    "geom:latitude":42.965931,
+    "geom:longitude":-71.481545,
+    "iso:country":"US",
+    "sg:address":"765 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 6444",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QgyphC5R6t5XxDShyVMeo_42.965931_-71.481545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295379,
+    "wof:geomhash":"f7caa1ad9c09b5adac703da9520b2100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873631527
+        }
+    ],
+    "wof:id":873631527,
+    "wof:lastmodified":1464295379,
+    "wof:name":"Manchester Allergy Inc",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.481545,
+    42.965931,
+    -71.481545,
+    42.965931
+],
+  "geometry": {"coordinates":[-71.481545,42.965931],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873854669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.685939,43.992397,-71.685939,43.992397",
+    "geom:latitude":43.992397,
+    "geom:longitude":-71.685939,
+    "iso:country":"US",
+    "sg:address":"451 US Hwy 3",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 0966",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pTP0cQ3Af17nYzi1w4jlu_43.992397_-71.685939@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298908,
+    "wof:geomhash":"99ae8712bd99077bf56a5f0bc5559121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873854669
+        }
+    ],
+    "wof:id":873854669,
+    "wof:lastmodified":1464298908,
+    "wof:name":"Linwood Auto Ctr",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.685939,
+    43.992397,
+    -71.685939,
+    43.992397
+],
+  "geometry": {"coordinates":[-71.685939,43.992397],"type":"Point"}
+}

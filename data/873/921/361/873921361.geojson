@@ -1,0 +1,71 @@
+{
+  "id": 873921361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428703,42.760808,-71.428703,42.760808",
+    "geom:latitude":42.760808,
+    "geom:longitude":-71.428703,
+    "iso:country":"US",
+    "sg:address":"14 Melendy Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Indoor Arena",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 9345",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bingo",
+        "hall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vOYMnYBognPUkgyd9bTzl_42.760808_-71.428703@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300234,
+    "wof:geomhash":"8d657ead98997505b05dfc9038158c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921361
+        }
+    ],
+    "wof:id":873921361,
+    "wof:lastmodified":1464300234,
+    "wof:name":"Kiwanis Hall",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bingo",
+        "hall"
+    ]
+},
+  "bbox": [
+    -71.428703,
+    42.760808,
+    -71.428703,
+    42.760808
+],
+  "geometry": {"coordinates":[-71.428703,42.760808],"type":"Point"}
+}

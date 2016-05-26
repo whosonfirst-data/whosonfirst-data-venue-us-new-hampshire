@@ -1,0 +1,71 @@
+{
+  "id": 873848165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.365978,42.845368,-71.365978,42.845368",
+    "geom:latitude":42.845368,
+    "geom:longitude":-71.365978,
+    "iso:country":"US",
+    "sg:address":"40 Cross Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 5157",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892259,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JfGfHm0weLroJ8XpK09KY_42.845368_-71.365978@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298774,
+    "wof:geomhash":"cfae45dc31359a2d738216db4d24a209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892259,
+            "region_id":85688689,
+            "venue_id":873848165
+        }
+    ],
+    "wof:id":873848165,
+    "wof:lastmodified":1464298774,
+    "wof:name":"Robert Bannister",
+    "wof:parent_id":85892259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.365978,
+    42.845368,
+    -71.365978,
+    42.845368
+],
+  "geometry": {"coordinates":[-71.365978,42.845368],"type":"Point"}
+}

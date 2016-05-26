@@ -1,0 +1,69 @@
+{
+  "id": 873609951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.91724,43.070319,-70.91724,43.070319",
+    "geom:latitude":43.070319,
+    "geom:longitude":-70.91724,
+    "iso:country":"US",
+    "sg:address":"5 Moody Point Dr",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 8889",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYCxTtvjl0eQgT1uj4nyX_43.070319_-70.917240@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295142,
+    "wof:geomhash":"b7c017b4aca9fa82fd033be1ce2207c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873609951
+        }
+    ],
+    "wof:id":873609951,
+    "wof:lastmodified":1464295142,
+    "wof:name":"Mona Feng MD",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -70.91724,
+    43.070319,
+    -70.91724,
+    43.070319
+],
+  "geometry": {"coordinates":[-70.91724000000001,43.070319],"type":"Point"}
+}

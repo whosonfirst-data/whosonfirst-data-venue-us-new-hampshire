@@ -1,0 +1,73 @@
+{
+  "id": 873732121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.940398,43.128228,-70.940398,43.128228",
+    "geom:latitude":43.128228,
+    "geom:longitude":-70.940398,
+    "iso:country":"US",
+    "sg:address":"5 Hemlock Way",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 5234",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1retA9o3GHSAPudVYJBbkE_43.128228_-70.940398@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296805,
+    "wof:geomhash":"f65071a5ce945906e41c35f01f9cc11d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873732121
+        }
+    ],
+    "wof:id":873732121,
+    "wof:lastmodified":1464296805,
+    "wof:name":"Threshold Fitness",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -70.940398,
+    43.128228,
+    -70.940398,
+    43.128228
+],
+  "geometry": {"coordinates":[-70.940398,43.128228],"type":"Point"}
+}

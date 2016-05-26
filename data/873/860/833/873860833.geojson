@@ -1,0 +1,71 @@
+{
+  "id": 873860833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19317,43.211524,-71.19317,43.211524",
+    "geom:latitude":43.211524,
+    "geom:longitude":-71.19317,
+    "iso:country":"US",
+    "sg:address":"679 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5747",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vIqvub2BZGtb44YUqatoS_43.211524_-71.193170@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299055,
+    "wof:geomhash":"6c0f7e6a934e0ec872651a0492bc637c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873860833
+        }
+    ],
+    "wof:id":873860833,
+    "wof:lastmodified":1464299055,
+    "wof:name":"Northwood Self Storage",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.19317,
+    43.211524,
+    -71.19317,
+    43.211524
+],
+  "geometry": {"coordinates":[-71.19316999999999,43.211524],"type":"Point"}
+}

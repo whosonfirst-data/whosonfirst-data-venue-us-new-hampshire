@@ -1,0 +1,71 @@
+{
+  "id": 873877461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585714,42.802339,-71.585714,42.802339",
+    "geom:latitude":42.802339,
+    "geom:longitude":-71.585714,
+    "iso:country":"US",
+    "sg:address":"10 Northern Blvd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 9633",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Zw7jVoYUkZE6KYHApHqk_42.802339_-71.585714@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299386,
+    "wof:geomhash":"d65bd16c82ba756598d1583e9d305441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873877461
+        }
+    ],
+    "wof:id":873877461,
+    "wof:lastmodified":1464299386,
+    "wof:name":"R & M Computers",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.585714,
+    42.802339,
+    -71.585714,
+    42.802339
+],
+  "geometry": {"coordinates":[-71.585714,42.802339],"type":"Point"}
+}

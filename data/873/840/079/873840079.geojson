@@ -1,0 +1,71 @@
+{
+  "id": 873840079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519424,42.868066,-71.519424,42.868066",
+    "geom:latitude":42.868066,
+    "geom:longitude":-71.519424,
+    "iso:country":"US",
+    "sg:address":"111 Baboosic Lake Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 1055",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g206jLQ70BXuChtfVIdKK_42.868066_-71.519424@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298554,
+    "wof:geomhash":"66402bbfd42229d51c11919c16908937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873840079
+        }
+    ],
+    "wof:id":873840079,
+    "wof:lastmodified":1464298554,
+    "wof:name":"Cotreau's Landscaping",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.519424,
+    42.868066,
+    -71.519424,
+    42.868066
+],
+  "geometry": {"coordinates":[-71.519424,42.868066],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873655451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.250474,42.897196,-72.250474,42.897196",
+    "geom:latitude":42.897196,
+    "geom:longitude":-72.250474,
+    "iso:country":"US",
+    "sg:address":"387 Monadnock Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 1313",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fBU09Bbu90v1havZ0N0m7_42.897196_-72.250474@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"461e545a091b9b212f40e6eb0b04843e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873655451
+        }
+    ],
+    "wof:id":873655451,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Ground Up Landscape Materials",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.250474,
+    42.897196,
+    -72.250474,
+    42.897196
+],
+  "geometry": {"coordinates":[-72.250474,42.897196],"type":"Point"}
+}

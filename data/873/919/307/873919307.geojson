@@ -1,0 +1,87 @@
+{
+  "id": 873919307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531725,43.213784,-71.531725,43.213784",
+    "geom:latitude":43.213784,
+    "geom:longitude":-71.531725,
+    "iso:country":"US",
+    "sg:address":"75 Fort Eddy Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/concord/105915-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 8966",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y6h5TOgMVrwtHgIJ9tU4K_43.213218_-71.532086@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300200,
+    "wof:geomhash":"7685a5e0bb0291f4017fc4e2c4bb97cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873919307
+        }
+    ],
+    "wof:id":873919307,
+    "wof:lastmodified":1464300200,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.531725,
+    43.213784,
+    -71.531725,
+    43.213784
+],
+  "geometry": {"coordinates":[-71.53172499999999,43.213784],"type":"Point"}
+}

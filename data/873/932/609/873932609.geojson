@@ -1,0 +1,70 @@
+{
+  "id": 873932609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.926321,43.054072,-70.926321,43.054072",
+    "geom:latitude":43.054072,
+    "geom:longitude":-70.926321,
+    "iso:country":"US",
+    "sg:address":"210 New Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 9893",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "sg:website":"http://www.hamptonshuttle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tnCgPgPJM6NU44a1O4Az0_43.054072_-70.926321@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300457,
+    "wof:geomhash":"aec3aa7f30c128de120c72009af9f713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873932609
+        }
+    ],
+    "wof:id":873932609,
+    "wof:lastmodified":1464300457,
+    "wof:name":"Hampton Shuttle",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -70.926321,
+    43.054072,
+    -70.926321,
+    43.054072
+],
+  "geometry": {"coordinates":[-70.926321,43.054072],"type":"Point"}
+}

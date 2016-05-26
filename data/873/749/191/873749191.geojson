@@ -1,0 +1,73 @@
+{
+  "id": 873749191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464168,43.537618,-71.464168,43.537618",
+    "geom:latitude":43.537618,
+    "geom:longitude":-71.464168,
+    "iso:country":"US",
+    "sg:address":"415 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8500",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31VtkXYDJYApBEZX1JvLoW_43.537618_-71.464168@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297065,
+    "wof:geomhash":"8724f4fc43bfbb27c607c440a77e742d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873749191
+        }
+    ],
+    "wof:id":873749191,
+    "wof:lastmodified":1464297065,
+    "wof:name":"Union Avenue Automotive Svc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.464168,
+    43.537618,
+    -71.464168,
+    43.537618
+],
+  "geometry": {"coordinates":[-71.464168,43.537618],"type":"Point"}
+}

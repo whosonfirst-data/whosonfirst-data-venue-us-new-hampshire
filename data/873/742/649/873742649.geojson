@@ -1,0 +1,71 @@
+{
+  "id": 873742649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209869,44.399687,-71.209869,44.399687",
+    "geom:latitude":44.399687,
+    "geom:longitude":-71.209869,
+    "iso:country":"US",
+    "sg:address":"97 Lancaster Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2552",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YY9qfLONysel0IafODb5d_44.399687_-71.209869@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296968,
+    "wof:geomhash":"79a9cc0919a10ff12ed7d4ae26426b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873742649
+        }
+    ],
+    "wof:id":873742649,
+    "wof:lastmodified":1464296968,
+    "wof:name":"Pat's Auto Sales Annex",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.209869,
+    44.399687,
+    -71.209869,
+    44.399687
+],
+  "geometry": {"coordinates":[-71.209869,44.399687],"type":"Point"}
+}

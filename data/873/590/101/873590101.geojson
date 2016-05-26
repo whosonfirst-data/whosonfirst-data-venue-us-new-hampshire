@@ -1,0 +1,71 @@
+{
+  "id": 873590101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497255,42.875068,-71.497255,42.875068",
+    "geom:latitude":42.875068,
+    "geom:longitude":-71.497255,
+    "iso:country":"US",
+    "sg:address":"7 Clay St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 1866",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_285ZC7XIzzxCW62f34Q3mf_42.875068_-71.497255@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294832,
+    "wof:geomhash":"e0684d8a8ea3aa24da779529f833eec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873590101
+        }
+    ],
+    "wof:id":873590101,
+    "wof:lastmodified":1464294832,
+    "wof:name":"Yankee Data Group Inc",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.497255,
+    42.875068,
+    -71.497255,
+    42.875068
+],
+  "geometry": {"coordinates":[-71.497255,42.875068],"type":"Point"}
+}

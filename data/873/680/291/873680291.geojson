@@ -1,0 +1,75 @@
+{
+  "id": 873680291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464261,43.532813,-71.464261,43.532813",
+    "geom:latitude":43.532813,
+    "geom:longitude":-71.464261,
+    "iso:country":"US",
+    "sg:address":"8 Strafford St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4803",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "installs",
+        "automotive",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25TzQgr3WWTcmzTzQfNxOA_43.532813_-71.464261@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296004,
+    "wof:geomhash":"4f4e8a740ca6eb21b9e9ccf6f3280d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873680291
+        }
+    ],
+    "wof:id":873680291,
+    "wof:lastmodified":1464296004,
+    "wof:name":"Triumph Auto Glass",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "automotive",
+        "glass"
+    ]
+},
+  "bbox": [
+    -71.464261,
+    43.532813,
+    -71.464261,
+    43.532813
+],
+  "geometry": {"coordinates":[-71.46426099999999,43.532813],"type":"Point"}
+}

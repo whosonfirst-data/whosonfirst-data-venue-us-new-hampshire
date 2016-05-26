@@ -1,0 +1,69 @@
+{
+  "id": 873871881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398583,42.871953,-71.398583,42.871953",
+    "geom:latitude":42.871953,
+    "geom:longitude":-71.398583,
+    "iso:country":"US",
+    "sg:address":"7 Davis Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 4247",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892259,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OPFXRHrQ4hqjVcO2fiDvh_42.871953_-71.398583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299272,
+    "wof:geomhash":"1617362b1b9f3b3e1d0baf5100de6b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892259,
+            "region_id":85688689,
+            "venue_id":873871881
+        }
+    ],
+    "wof:id":873871881,
+    "wof:lastmodified":1464299272,
+    "wof:name":"Hair Do Salon",
+    "wof:parent_id":85892259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.398583,
+    42.871953,
+    -71.398583,
+    42.871953
+],
+  "geometry": {"coordinates":[-71.398583,42.871953],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873903469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440215,43.547906,-71.440215,43.547906",
+    "geom:latitude":43.547906,
+    "geom:longitude":-71.440215,
+    "iso:country":"US",
+    "sg:address":"349 Morrill St",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6267",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vjXH4PApqyKjuyzR4ILXd_43.547906_-71.440215@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299887,
+    "wof:geomhash":"adceeed19c10fb9a134fb3efe74c7f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873903469
+        }
+    ],
+    "wof:id":873903469,
+    "wof:lastmodified":1464299887,
+    "wof:name":"Robert R Lemire Architect",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -71.440215,
+    43.547906,
+    -71.440215,
+    43.547906
+],
+  "geometry": {"coordinates":[-71.44021499999999,43.547906],"type":"Point"}
+}

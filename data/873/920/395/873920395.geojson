@@ -1,0 +1,89 @@
+{
+  "id": 873920395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.334778,42.885738,-71.334778,42.885738",
+    "geom:latitude":42.885738,
+    "geom:longitude":-71.334778,
+    "iso:country":"US",
+    "sg:address":"1 Corporate Park Dr",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 1250",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "television",
+        "electronic",
+        "supplies-repair",
+        "radio-service"
+    ],
+    "sg:website":"http://www.electronicrepairspecialists.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Se9qUvsSrgDP3eppbtngK_42.885738_-71.334778@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300218,
+    "wof:geomhash":"5cbbd43c9688be01a8a8e8ef4151ae87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873920395
+        }
+    ],
+    "wof:id":873920395,
+    "wof:lastmodified":1464300218,
+    "wof:name":"Electronic Repair Specialists",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "television",
+        "electronic",
+        "supplies-repair",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -71.334778,
+    42.885738,
+    -71.334778,
+    42.885738
+],
+  "geometry": {"coordinates":[-71.334778,42.885738],"type":"Point"}
+}

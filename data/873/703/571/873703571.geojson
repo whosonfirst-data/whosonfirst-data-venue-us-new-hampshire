@@ -1,0 +1,73 @@
+{
+  "id": 873703571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257063,43.128118,-71.257063,43.128118",
+    "geom:latitude":43.128118,
+    "geom:longitude":-71.257063,
+    "iso:country":"US",
+    "sg:address":"34 Ridge Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7002",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fya1kSpwd2OWyIreHijjt_43.128118_-71.257063@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296441,
+    "wof:geomhash":"79df83db2ad2bd1792855421197dbb14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873703571
+        }
+    ],
+    "wof:id":873703571,
+    "wof:lastmodified":1464296441,
+    "wof:name":"Inn At Deerfield",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.257063,
+    43.128118,
+    -71.257063,
+    43.128118
+],
+  "geometry": {"coordinates":[-71.257063,43.128118],"type":"Point"}
+}

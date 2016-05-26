@@ -1,0 +1,75 @@
+{
+  "id": 873548837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575867,44.496608,-71.575867,44.496608",
+    "geom:latitude":44.496608,
+    "geom:longitude":-71.575867,
+    "iso:country":"US",
+    "sg:address":"267 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2719",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "syrup",
+        "maple",
+        "sugar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51OFPdrgjMCfOUtgOgk3a9_44.496608_-71.575867@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294365,
+    "wof:geomhash":"8f00f2668fd8448c0f45063c4469d35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873548837
+        }
+    ],
+    "wof:id":873548837,
+    "wof:lastmodified":1464294365,
+    "wof:name":"Fuller's Sugarhouse",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "syrup",
+        "maple",
+        "sugar"
+    ]
+},
+  "bbox": [
+    -71.575867,
+    44.496608,
+    -71.575867,
+    44.496608
+],
+  "geometry": {"coordinates":[-71.575867,44.496608],"type":"Point"}
+}

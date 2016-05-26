@@ -1,0 +1,78 @@
+{
+  "id": 873888835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1858,44.46389,-71.1858,44.46389",
+    "geom:latitude":44.46389,
+    "geom:longitude":-71.1858,
+    "iso:country":"US",
+    "sg:address":"135 Glen Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3400",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZwQNCRI0vqZC6lvAyd0MP_44.463890_-71.185800@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299606,
+    "wof:geomhash":"7e5368b8b17e812c4df1963c2deeeca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873888835
+        }
+    ],
+    "wof:id":873888835,
+    "wof:lastmodified":1464299606,
+    "wof:name":"Rockingham Electrical Sup Co",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "electric"
+    ]
+},
+  "bbox": [
+    -71.1858,
+    44.46389,
+    -71.1858,
+    44.46389
+],
+  "geometry": {"coordinates":[-71.1858,44.46389],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873806331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.403496,43.258536,-72.403496,43.258536",
+    "geom:latitude":43.258536,
+    "geom:longitude":-72.403496,
+    "iso:country":"US",
+    "sg:address":"892 Old Claremont Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 3211",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W1EJ4R9B6EbbyUagUdUOC_43.258536_-72.403496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297856,
+    "wof:geomhash":"7fb3755f7b355605bd7eb9a884b446e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873806331
+        }
+    ],
+    "wof:id":873806331,
+    "wof:lastmodified":1464297856,
+    "wof:name":"Charlestown Garage",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.403496,
+    43.258536,
+    -72.403496,
+    43.258536
+],
+  "geometry": {"coordinates":[-72.403496,43.258536],"type":"Point"}
+}

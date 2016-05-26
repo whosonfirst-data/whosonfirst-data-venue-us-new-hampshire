@@ -1,0 +1,71 @@
+{
+  "id": 873874169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191231,44.450933,-71.191231,44.450933",
+    "geom:latitude":44.450933,
+    "geom:longitude":-71.191231,
+    "iso:country":"US",
+    "sg:address":"38 Corbin St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2494",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZquDXbMXEtJaSg5QpK2p1_44.450933_-71.191231@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299320,
+    "wof:geomhash":"8972fd4c3bb70eebb99fecc07922cc42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873874169
+        }
+    ],
+    "wof:id":873874169,
+    "wof:lastmodified":1464299320,
+    "wof:name":"Mr Neat",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.191231,
+    44.450933,
+    -71.191231,
+    44.450933
+],
+  "geometry": {"coordinates":[-71.191231,44.450933],"type":"Point"}
+}

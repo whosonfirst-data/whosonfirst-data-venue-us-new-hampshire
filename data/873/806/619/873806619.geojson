@@ -1,0 +1,71 @@
+{
+  "id": 873806619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885207,43.219715,-70.885207,43.219715",
+    "geom:latitude":43.219715,
+    "geom:longitude":-70.885207,
+    "iso:country":"US",
+    "sg:address":"920 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 834 6968",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bVAozeumeArJYfhf36nXm_43.219715_-70.885207@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297861,
+    "wof:geomhash":"f27e27ea283cc6081ee71fd673a96fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873806619
+        }
+    ],
+    "wof:id":873806619,
+    "wof:lastmodified":1464297861,
+    "wof:name":"Dover Fish House",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -70.885207,
+    43.219715,
+    -70.885207,
+    43.219715
+],
+  "geometry": {"coordinates":[-70.88520699999999,43.219715],"type":"Point"}
+}

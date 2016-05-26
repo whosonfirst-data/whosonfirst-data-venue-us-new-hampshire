@@ -1,0 +1,78 @@
+{
+  "id": 873629349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.225826,42.782199,-71.225826,42.782199",
+    "geom:latitude":42.782199,
+    "geom:longitude":-71.225826,
+    "iso:country":"US",
+    "sg:address":"163 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 7833",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mail",
+        "fixture",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pgtqvs1DTDr69LtPs7Dvv_42.782199_-71.225826@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295358,
+    "wof:geomhash":"faaa5bd1be0fd0ac4fb54cf888daf4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873629349
+        }
+    ],
+    "wof:id":873629349,
+    "wof:lastmodified":1464295358,
+    "wof:name":"Faneuil Furniture Hardware Str",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "fixture",
+        "order"
+    ]
+},
+  "bbox": [
+    -71.225826,
+    42.782199,
+    -71.225826,
+    42.782199
+],
+  "geometry": {"coordinates":[-71.225826,42.782199],"type":"Point"}
+}

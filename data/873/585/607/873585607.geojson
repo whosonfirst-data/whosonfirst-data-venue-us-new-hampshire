@@ -1,0 +1,71 @@
+{
+  "id": 873585607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.238354,43.136632,-71.238354,43.136632",
+    "geom:latitude":43.136632,
+    "geom:longitude":-71.238354,
+    "iso:country":"US",
+    "sg:address":"3 North Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 8358",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ffsTVHSqlaWAEP3TaFWif_43.136632_-71.238354@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294779,
+    "wof:geomhash":"7cc421e0b2b4a0ad65d8cc3726ba9c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873585607
+        }
+    ],
+    "wof:id":873585607,
+    "wof:lastmodified":1464294779,
+    "wof:name":"P Davidson",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.238354,
+    43.136632,
+    -71.238354,
+    43.136632
+],
+  "geometry": {"coordinates":[-71.238354,43.136632],"type":"Point"}
+}

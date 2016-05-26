@@ -1,0 +1,73 @@
+{
+  "id": 873816825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.668095,44.044737,-71.668095,44.044737",
+    "geom:latitude":44.044737,
+    "geom:longitude":-71.668095,
+    "iso:country":"US",
+    "sg:address":"121 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 6668",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "fountain",
+        "soda"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kl41btPf78Nm2xzm9Kh2A_44.044737_-71.668095@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298050,
+    "wof:geomhash":"da55779344ff6d6bb3d698d0532f3717",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873816825
+        }
+    ],
+    "wof:id":873816825,
+    "wof:lastmodified":1464298050,
+    "wof:name":"Bishop's Ice Cream Shoppe",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "fountain",
+        "soda"
+    ]
+},
+  "bbox": [
+    -71.668095,
+    44.044737,
+    -71.668095,
+    44.044737
+],
+  "geometry": {"coordinates":[-71.66809499999999,44.044737],"type":"Point"}
+}

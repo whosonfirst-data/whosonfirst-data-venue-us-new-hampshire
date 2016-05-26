@@ -1,0 +1,78 @@
+{
+  "id": 873917501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427758,42.987702,-71.427758,42.987702",
+    "geom:latitude":42.987702,
+    "geom:longitude":-71.427758,
+    "iso:country":"US",
+    "sg:address":"881 Hanover St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/129596-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 6424",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kDbL2a86MWE2nCnK8OQM5_42.987702_-71.427758@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300166,
+    "wof:geomhash":"ccffc0ad333a8cfab4ef5f3f0ae9e6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873917501
+        }
+    ],
+    "wof:id":873917501,
+    "wof:lastmodified":1464300166,
+    "wof:name":"Subway",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.427758,
+    42.987702,
+    -71.427758,
+    42.987702
+],
+  "geometry": {"coordinates":[-71.427758,42.987702],"type":"Point"}
+}

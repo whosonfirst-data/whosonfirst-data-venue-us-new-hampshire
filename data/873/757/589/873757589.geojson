@@ -1,0 +1,73 @@
+{
+  "id": 873757589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.94841,43.168189,-70.94841,43.168189",
+    "geom:latitude":43.168189,
+    "geom:longitude":-70.94841,
+    "iso:country":"US",
+    "sg:address":"3 Cherry Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 5118",
+    "sg:postcode":"03823",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GQMdOrlnVzR3VInXApTjf_43.168189_-70.948410@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297177,
+    "wof:geomhash":"3453d3a2ce84d84d0c1382840a2a9206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873757589
+        }
+    ],
+    "wof:id":873757589,
+    "wof:lastmodified":1464297177,
+    "wof:name":"Ayer Electric LLC",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.94841,
+    43.168189,
+    -70.94841,
+    43.168189
+],
+  "geometry": {"coordinates":[-70.94841,43.168189],"type":"Point"}
+}

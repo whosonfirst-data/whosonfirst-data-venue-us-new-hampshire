@@ -1,0 +1,71 @@
+{
+  "id": 873763039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.123292,43.369683,-72.123292,43.369683",
+    "geom:latitude":43.369683,
+    "geom:longitude":-72.123292,
+    "iso:country":"US",
+    "sg:address":"40 Depot St",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 4385",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57DtMoFwWxDj6Z4nFmqjSj_43.369683_-72.123292@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297259,
+    "wof:geomhash":"529a5acfa8713faeda83a809a450b9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873763039
+        }
+    ],
+    "wof:id":873763039,
+    "wof:lastmodified":1464297259,
+    "wof:name":"Jackson's Garage",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.123292,
+    43.369683,
+    -72.123292,
+    43.369683
+],
+  "geometry": {"coordinates":[-72.12329200000001,43.369683],"type":"Point"}
+}

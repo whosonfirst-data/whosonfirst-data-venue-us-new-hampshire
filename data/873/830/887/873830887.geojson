@@ -1,0 +1,71 @@
+{
+  "id": 873830887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479866,43.169757,-71.479866,43.169757",
+    "geom:latitude":43.169757,
+    "geom:longitude":-71.479866,
+    "iso:country":"US",
+    "sg:address":"542 Pembroke St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 415 4040",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cqwqRWJfQibe9cnCVwIyL_43.169757_-71.479866@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298348,
+    "wof:geomhash":"4e28a348cfb5fffe94c2a809f57898fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873830887
+        }
+    ],
+    "wof:id":873830887,
+    "wof:lastmodified":1464298348,
+    "wof:name":"Northern New England",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.479866,
+    43.169757,
+    -71.479866,
+    43.169757
+],
+  "geometry": {"coordinates":[-71.479866,43.169757],"type":"Point"}
+}

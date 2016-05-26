@@ -1,0 +1,69 @@
+{
+  "id": 873631857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460722,43.084735,-71.460722,43.084735",
+    "geom:latitude":43.084735,
+    "geom:longitude":-71.460722,
+    "iso:country":"US",
+    "sg:address":"1606 Hooksett Rd",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 268 0636",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VjPjJWjmoJcTeytTfm19b_43.084735_-71.460722@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295383,
+    "wof:geomhash":"84eec74061da86bf2eeeb96827b02501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873631857
+        }
+    ],
+    "wof:id":873631857,
+    "wof:lastmodified":1464295383,
+    "wof:name":"Patty's Cleaning Svc",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.460722,
+    43.084735,
+    -71.460722,
+    43.084735
+],
+  "geometry": {"coordinates":[-71.460722,43.084735],"type":"Point"}
+}

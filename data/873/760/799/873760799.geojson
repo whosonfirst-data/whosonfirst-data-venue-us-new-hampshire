@@ -1,0 +1,75 @@
+{
+  "id": 873760799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484923,43.194604,-71.484923,43.194604",
+    "geom:latitude":43.194604,
+    "geom:longitude":-71.484923,
+    "iso:country":"US",
+    "sg:address":"714 Riverwood St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 1727",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CvzA2dM37i3vt2nFrCIrk_43.194604_-71.484923@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297217,
+    "wof:geomhash":"1569d235e1f59e526028042c2ae34045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873760799
+        }
+    ],
+    "wof:id":873760799,
+    "wof:lastmodified":1464297217,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.484923,
+    43.194604,
+    -71.484923,
+    43.194604
+],
+  "geometry": {"coordinates":[-71.48492299999999,43.194604],"type":"Point"}
+}

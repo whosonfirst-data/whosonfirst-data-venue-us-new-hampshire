@@ -1,0 +1,71 @@
+{
+  "id": 873906387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508798,43.298896,-71.508798,43.298896",
+    "geom:latitude":43.298896,
+    "geom:longitude":-71.508798,
+    "iso:country":"US",
+    "sg:address":"185 Old Shaker Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 8971",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cqNIgXWprp9kH3Z4T58Sw_43.298896_-71.508798@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299947,
+    "wof:geomhash":"d88a8d2521f330cd5f3aa0029b9097da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873906387
+        }
+    ],
+    "wof:id":873906387,
+    "wof:lastmodified":1464299947,
+    "wof:name":"Fearless Events",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.508798,
+    43.298896,
+    -71.508798,
+    43.298896
+],
+  "geometry": {"coordinates":[-71.508798,43.298896],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873872539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507344,42.969193,-71.507344,42.969193",
+    "geom:latitude":42.969193,
+    "geom:longitude":-71.507344,
+    "iso:country":"US",
+    "sg:address":"549 Donald St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 0503",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "range",
+        "practice",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i83sMizJNppGRYKqLdXcD_42.969193_-71.507344@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299287,
+    "wof:geomhash":"1ac46f6fcba7ed0c32a00111fb1410d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873872539
+        }
+    ],
+    "wof:id":873872539,
+    "wof:lastmodified":1464299287,
+    "wof:name":"Bedford Golfland",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "practice",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.507344,
+    42.969193,
+    -71.507344,
+    42.969193
+],
+  "geometry": {"coordinates":[-71.507344,42.969193],"type":"Point"}
+}

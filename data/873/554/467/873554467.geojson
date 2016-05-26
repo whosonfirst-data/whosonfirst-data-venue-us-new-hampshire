@@ -1,0 +1,77 @@
+{
+  "id": 873554467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.950334,42.873704,-71.950334,42.873704",
+    "geom:latitude":42.873704,
+    "geom:longitude":-71.950334,
+    "iso:country":"US",
+    "sg:address":"64 Grove St",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 2072",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nklq8MbhmHPsdjvST0N0G_42.873704_-71.950334@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294429,
+    "wof:geomhash":"de1cfe565541565568c1e499faa9b107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873554467
+        }
+    ],
+    "wof:id":873554467,
+    "wof:lastmodified":1464294429,
+    "wof:name":"Scott's Clock Repair",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.950334,
+    42.873704,
+    -71.950334,
+    42.873704
+],
+  "geometry": {"coordinates":[-71.950334,42.873704],"type":"Point"}
+}

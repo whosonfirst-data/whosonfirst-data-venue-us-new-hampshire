@@ -1,0 +1,81 @@
+{
+  "id": 873919083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46922,42.986969,-71.46922,42.986969",
+    "geom:latitude":42.986969,
+    "geom:longitude":-71.46922,
+    "iso:country":"US",
+    "sg:address":"50 Phillippe Cote St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39840-jillians/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 7636",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21PbECzvBB5fSMwF5fcWj3_42.986708_-71.469239@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300196,
+    "wof:geomhash":"d818814ab1729327bff6bbafb0e320a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873919083
+        }
+    ],
+    "wof:id":873919083,
+    "wof:lastmodified":1464300196,
+    "wof:name":"Jillian's",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.46922,
+    42.986969,
+    -71.46922,
+    42.986969
+],
+  "geometry": {"coordinates":[-71.46922000000001,42.986969],"type":"Point"}
+}

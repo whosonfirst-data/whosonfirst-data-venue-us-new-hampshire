@@ -1,0 +1,73 @@
+{
+  "id": 873830767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468592,43.174342,-71.468592,43.174342",
+    "geom:latitude":43.174342,
+    "geom:longitude":-71.468592,
+    "iso:country":"US",
+    "sg:address":"345 Brickett Hill Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 3200",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x4IWfixJFlwVVoPlzmMPp_43.174342_-71.468592@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298345,
+    "wof:geomhash":"6d059bacdeed21a2e5b30dee3359f86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873830767
+        }
+    ],
+    "wof:id":873830767,
+    "wof:lastmodified":1464298345,
+    "wof:name":"Brickett Hill",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -71.468592,
+    43.174342,
+    -71.468592,
+    43.174342
+],
+  "geometry": {"coordinates":[-71.468592,43.174342],"type":"Point"}
+}

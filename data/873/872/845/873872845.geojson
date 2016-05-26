@@ -1,0 +1,70 @@
+{
+  "id": 873872845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.909327,43.112592,-71.909327,43.112592",
+    "geom:latitude":43.112592,
+    "geom:longitude":-71.909327,
+    "iso:country":"US",
+    "sg:address":"22 Dump Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 464 5512",
+    "sg:postcode":"03244",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.hillsboro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825573,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zcd6ffLixdWNhad7VkKMx_43.112592_-71.909327@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299295,
+    "wof:geomhash":"ce0162019f0ee81e29abd4ccc1b71b66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825573,
+            "region_id":85688689,
+            "venue_id":873872845
+        }
+    ],
+    "wof:id":873872845,
+    "wof:lastmodified":1464299295,
+    "wof:name":"Hillsboro Police Dept",
+    "wof:parent_id":85825573,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.909327,
+    43.112592,
+    -71.909327,
+    43.112592
+],
+  "geometry": {"coordinates":[-71.909327,43.112592],"type":"Point"}
+}

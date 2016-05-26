@@ -1,0 +1,75 @@
+{
+  "id": 873656093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470368,42.758311,-71.470368,42.758311",
+    "geom:latitude":42.758311,
+    "geom:longitude":-71.470368,
+    "iso:country":"US",
+    "sg:address":"52 Ash St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 3549",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aeIAbV3aonlYLiuRGYXH9_42.758311_-71.470368@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295657,
+    "wof:geomhash":"ecdf73b834ae39d0cfe3ed6da5afadea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873656093
+        }
+    ],
+    "wof:id":873656093,
+    "wof:lastmodified":1464295657,
+    "wof:name":"Nashua Police Athletic League",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.470368,
+    42.758311,
+    -71.470368,
+    42.758311
+],
+  "geometry": {"coordinates":[-71.47036799999999,42.758311],"type":"Point"}
+}

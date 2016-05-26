@@ -1,0 +1,71 @@
+{
+  "id": 873892725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.559046,42.803368,-71.559046,42.803368",
+    "geom:latitude":42.803368,
+    "geom:longitude":-71.559046,
+    "iso:country":"US",
+    "sg:address":"199 State Rte 101A",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4132",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZtIAUNWZYJX6uugejy4e_42.803368_-71.559046@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299679,
+    "wof:geomhash":"a352338f561963b4dd07c3a5fe76c080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873892725
+        }
+    ],
+    "wof:id":873892725,
+    "wof:lastmodified":1464299679,
+    "wof:name":"Amherst Post Office",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.559046,
+    42.803368,
+    -71.559046,
+    42.803368
+],
+  "geometry": {"coordinates":[-71.559046,42.803368],"type":"Point"}
+}

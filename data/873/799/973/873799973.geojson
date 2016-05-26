@@ -1,0 +1,71 @@
+{
+  "id": 873799973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251117,42.790259,-71.251117,42.790259",
+    "geom:latitude":42.790259,
+    "geom:longitude":-71.251117,
+    "iso:country":"US",
+    "sg:address":"10 Canobie Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 1270",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nFQavrMe7d1U60Czz7uq2_42.790259_-71.251117@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297773,
+    "wof:geomhash":"65d22207c1ba94704f287753f076a9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873799973
+        }
+    ],
+    "wof:id":873799973,
+    "wof:lastmodified":1464297773,
+    "wof:name":"KIRK Mac Donald Construction",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.251117,
+    42.790259,
+    -71.251117,
+    42.790259
+],
+  "geometry": {"coordinates":[-71.25111699999999,42.790259],"type":"Point"}
+}

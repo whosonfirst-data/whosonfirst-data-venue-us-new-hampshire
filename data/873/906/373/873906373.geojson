@@ -1,0 +1,73 @@
+{
+  "id": 873906373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468216,43.525169,-71.468216,43.525169",
+    "geom:latitude":43.525169,
+    "geom:longitude":-71.468216,
+    "iso:country":"US",
+    "sg:address":"426 S Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1396",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShIPNdsxym3UlFXa9WyJ2_43.525169_-71.468216@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299947,
+    "wof:geomhash":"2f4723475eac0c35d782ecc5607c0369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873906373
+        }
+    ],
+    "wof:id":873906373,
+    "wof:lastmodified":1464299947,
+    "wof:name":"Raymond James Financial Svc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.468216,
+    43.525169,
+    -71.468216,
+    43.525169
+],
+  "geometry": {"coordinates":[-71.468216,43.525169],"type":"Point"}
+}

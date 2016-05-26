@@ -1,0 +1,71 @@
+{
+  "id": 873702949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.842308,43.235618,-70.842308,43.235618",
+    "geom:latitude":43.235618,
+    "geom:longitude":-70.842308,
+    "iso:country":"US",
+    "sg:address":"162 Somersworth Rd",
+    "sg:city":"Rollinsford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 7699",
+    "sg:postcode":"03869",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845815,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lTyvENyr4FYoMAknjfXMs_43.235618_-70.842308@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296435,
+    "wof:geomhash":"344ee5160275c1ec9095d8a0f01dd0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85845815,
+            "region_id":85688689,
+            "venue_id":873702949
+        }
+    ],
+    "wof:id":873702949,
+    "wof:lastmodified":1464296435,
+    "wof:name":"Day's Auto Salvage",
+    "wof:parent_id":85845815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -70.842308,
+    43.235618,
+    -70.842308,
+    43.235618
+],
+  "geometry": {"coordinates":[-70.842308,43.235618],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 873932239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.845706,42.944549,-70.845706,42.944549",
+    "geom:latitude":42.944549,
+    "geom:longitude":-70.845706,
+    "iso:country":"US",
+    "sg:address":"10 Merrill Industrial Dr",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 3088",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scanning",
+        "labels-wholesale",
+        "printer",
+        "form",
+        "labels-plastic",
+        "metal",
+        "services-commercial",
+        "printers-business",
+        "foil",
+        "label",
+        "plotting",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.labelsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817949,
+        102191575,
+        404476755,
+        85633793,
+        85975123,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3na4BJ9XxzlyBTaAVvCoKO_42.944549_-70.845706@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300450,
+    "wof:geomhash":"28141b2d7ebca728e6d5d6e0352e5c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975123,
+            "neighbourhood_id":85817949,
+            "region_id":85688689,
+            "venue_id":873932239
+        }
+    ],
+    "wof:id":873932239,
+    "wof:lastmodified":1464300450,
+    "wof:name":"Labels, Inc.",
+    "wof:parent_id":85817949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "labels-wholesale",
+        "printer",
+        "form",
+        "labels-plastic",
+        "metal",
+        "services-commercial",
+        "printers-business",
+        "foil",
+        "label",
+        "plotting",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -70.845706,
+    42.944549,
+    -70.845706,
+    42.944549
+],
+  "geometry": {"coordinates":[-70.84570600000001,42.944549],"type":"Point"}
+}

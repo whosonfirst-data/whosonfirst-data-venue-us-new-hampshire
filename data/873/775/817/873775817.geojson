@@ -1,0 +1,73 @@
+{
+  "id": 873775817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.930474,44.139555,-71.930474,44.139555",
+    "geom:latitude":44.139555,
+    "geom:longitude":-71.930474,
+    "iso:country":"US",
+    "sg:address":"63 Aldrich Rd",
+    "sg:city":"Bath",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3888",
+    "sg:postcode":"03740",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VpzxLECAqAld9M8MfEomq_44.139555_-71.930474@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297435,
+    "wof:geomhash":"0be23eccf4451035344b6c1199cf779c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873775817
+        }
+    ],
+    "wof:id":873775817,
+    "wof:lastmodified":1464297435,
+    "wof:name":"Berkshire Technical Devices",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.930474,
+    44.139555,
+    -71.930474,
+    44.139555
+],
+  "geometry": {"coordinates":[-71.930474,44.139555],"type":"Point"}
+}

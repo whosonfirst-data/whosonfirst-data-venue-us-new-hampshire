@@ -1,0 +1,71 @@
+{
+  "id": 873926245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197415,42.795849,-71.197415,42.795849",
+    "geom:latitude":42.795849,
+    "geom:longitude":-71.197415,
+    "iso:country":"US",
+    "sg:address":"7 Kimball Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 3250",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pumps-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gQ72nmHdMAL7eMSfOnwqB_42.795849_-71.197415@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300331,
+    "wof:geomhash":"c30153a3ceb3f102b4acf942f0cb022b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873926245
+        }
+    ],
+    "wof:id":873926245,
+    "wof:lastmodified":1464300331,
+    "wof:name":"A S A P Well & Pump",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumps-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.197415,
+    42.795849,
+    -71.197415,
+    42.795849
+],
+  "geometry": {"coordinates":[-71.19741500000001,42.795849],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873623149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476374,43.525437,-71.476374,43.525437",
+    "geom:latitude":43.525437,
+    "geom:longitude":-71.476374,
+    "iso:country":"US",
+    "sg:address":"202 Water St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 6746",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rHEvjv3e6NPm4YiX4r4XA_43.525437_-71.476374@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295283,
+    "wof:geomhash":"289dfef8e06e561282714e9013196486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873623149
+        }
+    ],
+    "wof:id":873623149,
+    "wof:lastmodified":1464295283,
+    "wof:name":"State of New Hampshire",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.476374,
+    43.525437,
+    -71.476374,
+    43.525437
+],
+  "geometry": {"coordinates":[-71.47637400000001,43.525437],"type":"Point"}
+}

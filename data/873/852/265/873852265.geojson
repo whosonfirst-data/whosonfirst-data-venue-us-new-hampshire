@@ -1,0 +1,71 @@
+{
+  "id": 873852265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.12393,42.79158,-72.12393,42.79158",
+    "geom:latitude":42.79158,
+    "geom:longitude":-72.12393,
+    "iso:country":"US",
+    "sg:address":"55 Hemlock Dr",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 3357",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "waterproofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueBGQVcw1jMp3oPmCsTBR_42.791580_-72.123930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298856,
+    "wof:geomhash":"857e9a799772cd83d2af88860d5207d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873852265
+        }
+    ],
+    "wof:id":873852265,
+    "wof:lastmodified":1464298856,
+    "wof:name":"Elete Waterproofing",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waterproofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.12393,
+    42.79158,
+    -72.12393,
+    42.79158
+],
+  "geometry": {"coordinates":[-72.12393,42.79158],"type":"Point"}
+}

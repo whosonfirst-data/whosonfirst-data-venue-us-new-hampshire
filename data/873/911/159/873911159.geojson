@@ -1,0 +1,69 @@
+{
+  "id": 873911159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407182,43.547894,-71.407182,43.547894",
+    "geom:latitude":43.547894,
+    "geom:longitude":-71.407182,
+    "iso:country":"US",
+    "sg:address":"7 Belknap Mountain Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1031",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yi4GD1OqZwAs7UTCIUq65_43.547894_-71.407182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300034,
+    "wof:geomhash":"befabee14f7dc34b496ca9030e4b41da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873911159
+        }
+    ],
+    "wof:id":873911159,
+    "wof:lastmodified":1464300034,
+    "wof:name":"Gilford Village Store",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.407182,
+    43.547894,
+    -71.407182,
+    43.547894
+],
+  "geometry": {"coordinates":[-71.40718200000001,43.547894],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873612799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467256,43.554549,-71.467256,43.554549",
+    "geom:latitude":43.554549,
+    "geom:longitude":-71.467256,
+    "iso:country":"US",
+    "sg:address":"160 Belvidere St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 5281",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02EXWt3vSMGgWungjd81My_43.554549_-71.467256@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295174,
+    "wof:geomhash":"1e0fc74a3f2d1e10f724addc1680e9ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873612799
+        }
+    ],
+    "wof:id":873612799,
+    "wof:lastmodified":1464295174,
+    "wof:name":"Rosemaries Boutique",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.467256,
+    43.554549,
+    -71.467256,
+    43.554549
+],
+  "geometry": {"coordinates":[-71.46725600000001,43.554549],"type":"Point"}
+}

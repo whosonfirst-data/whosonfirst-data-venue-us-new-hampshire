@@ -1,0 +1,67 @@
+{
+  "id": 873928505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599503,43.279301,-71.599503,43.279301",
+    "geom:latitude":43.279301,
+    "geom:longitude":-71.599503,
+    "iso:country":"US",
+    "sg:address":"339 Village St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 0104",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:website":"www.citizensbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KVyEO38CyFFSC48YNKgqQ_43.279301_-71.599503@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300379,
+    "wof:geomhash":"6bf0e9047a5a36f9437081ddb2a69080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928505
+        }
+    ],
+    "wof:id":873928505,
+    "wof:lastmodified":1464300379,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.599503,
+    43.279301,
+    -71.599503,
+    43.279301
+],
+  "geometry": {"coordinates":[-71.599503,43.279301],"type":"Point"}
+}

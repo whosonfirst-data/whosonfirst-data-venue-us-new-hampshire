@@ -1,0 +1,64 @@
+{
+  "id": 873737659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.229473,43.220529,-71.229473,43.220529",
+    "geom:latitude":43.220529,
+    "geom:longitude":-71.229473,
+    "iso:country":"US",
+    "sg:address":"984 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 8368",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eVfbyeWTQVAAhzIxayAJc_43.220529_-71.229473@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296891,
+    "wof:geomhash":"bead00bca48113f1d3278023d5e00cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873737659
+        }
+    ],
+    "wof:id":873737659,
+    "wof:lastmodified":1464296891,
+    "wof:name":"Northwood Veterinary Hospital",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.229473,
+    43.220529,
+    -71.229473,
+    43.220529
+],
+  "geometry": {"coordinates":[-71.229473,43.220529],"type":"Point"}
+}

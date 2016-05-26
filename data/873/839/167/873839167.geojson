@@ -1,0 +1,74 @@
+{
+  "id": 873839167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.098732,42.945454,-72.098732,42.945454",
+    "geom:latitude":42.945454,
+    "geom:longitude":-72.098732,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 827 4139",
+    "sg:postcode":"03450",
+    "sg:province":"NH",
+    "sg:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ],
+    "sg:website":"www.lifesaving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85810705,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RQoIrIoNLFtw6CCifbThu_42.945454_-72.098732@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298530,
+    "wof:geomhash":"f9854641f033173008605689fd4e5322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85810705,
+            "region_id":85688689,
+            "venue_id":873839167
+        }
+    ],
+    "wof:id":873839167,
+    "wof:lastmodified":1464298530,
+    "wof:name":"Lifesaving Resources Inc",
+    "wof:parent_id":85810705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aid",
+        "instruction",
+        "first"
+    ]
+},
+  "bbox": [
+    -72.098732,
+    42.945454,
+    -72.098732,
+    42.945454
+],
+  "geometry": {"coordinates":[-72.098732,42.945454],"type":"Point"}
+}

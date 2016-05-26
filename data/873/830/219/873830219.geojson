@@ -1,0 +1,71 @@
+{
+  "id": 873830219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.2811,42.874361,-72.2811,42.874361",
+    "geom:latitude":42.874361,
+    "geom:longitude":-72.2811,
+    "iso:country":"US",
+    "sg:address":"620 Old Homestead Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 5143",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BssKTJk6hKkKvLCEuz2t2_42.874361_-72.281100@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298335,
+    "wof:geomhash":"5d35f06c7356b18cf323b6dae6b1aa52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873830219
+        }
+    ],
+    "wof:id":873830219,
+    "wof:lastmodified":1464298335,
+    "wof:name":"Swanzey Town Tax Collector",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -72.2811,
+    42.874361,
+    -72.2811,
+    42.874361
+],
+  "geometry": {"coordinates":[-72.2811,42.874361],"type":"Point"}
+}

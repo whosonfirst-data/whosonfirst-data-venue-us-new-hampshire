@@ -1,0 +1,79 @@
+{
+  "id": 873823315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471589,43.528076,-71.471589,43.528076",
+    "geom:latitude":43.528076,
+    "geom:longitude":-71.471589,
+    "iso:country":"US",
+    "sg:address":"36 Pleasant St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3406",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "drycleaning",
+        "agent",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vA8iASnOrZzVkSn24rCID_43.528076_-71.471589@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298196,
+    "wof:geomhash":"95a767675439b0d8b1b8dbfec3b32f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873823315
+        }
+    ],
+    "wof:id":873823315,
+    "wof:lastmodified":1464298196,
+    "wof:name":"Henry's Dry Cleaners Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "drycleaning",
+        "agent",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.471589,
+    43.528076,
+    -71.471589,
+    43.528076
+],
+  "geometry": {"coordinates":[-71.47158899999999,43.528076],"type":"Point"}
+}

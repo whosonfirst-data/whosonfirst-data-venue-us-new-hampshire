@@ -1,0 +1,91 @@
+{
+  "id": 873918235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.180815,44.390114,-71.180815,44.390114",
+    "geom:latitude":44.390114,
+    "geom:longitude":-71.180815,
+    "iso:country":"US",
+    "sg:address":"191 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/gorham/149273-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2979",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fIUAc0aAMampybdp0X747_44.390114_-71.180815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300181,
+    "wof:geomhash":"1d3786f89d205f9a36397d964ae503be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873918235
+        }
+    ],
+    "wof:id":873918235,
+    "wof:lastmodified":1464300181,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.180815,
+    44.390114,
+    -71.180815,
+    44.390114
+],
+  "geometry": {"coordinates":[-71.180815,44.390114],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873653089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474832,43.194082,-71.474832,43.194082",
+    "geom:latitude":43.194082,
+    "geom:longitude":-71.474832,
+    "iso:country":"US",
+    "sg:address":"318 Borough Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 5275",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FcVvmz9JarjB6l9bL6U67_43.194082_-71.474832@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295625,
+    "wof:geomhash":"a4fbf56716c168dc9f21fbf30a480d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873653089
+        }
+    ],
+    "wof:id":873653089,
+    "wof:lastmodified":1464295625,
+    "wof:name":"Mason Transportation",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.474832,
+    43.194082,
+    -71.474832,
+    43.194082
+],
+  "geometry": {"coordinates":[-71.47483200000001,43.194082],"type":"Point"}
+}

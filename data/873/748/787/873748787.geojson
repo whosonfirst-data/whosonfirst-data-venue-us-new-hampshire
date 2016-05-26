@@ -1,0 +1,75 @@
+{
+  "id": 873748787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182189,44.469697,-71.182189,44.469697",
+    "geom:latitude":44.469697,
+    "geom:longitude":-71.182189,
+    "iso:country":"US",
+    "sg:address":"133 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2040",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.coosfamilyhealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ok9LGdvZdSr6XC7weytLB_44.469697_-71.182189@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297059,
+    "wof:geomhash":"bc52a4e1ac132125c4153b9de8f43731",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873748787
+        }
+    ],
+    "wof:id":873748787,
+    "wof:lastmodified":1464297059,
+    "wof:name":"Coos County Family Health Svcs",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.182189,
+    44.469697,
+    -71.182189,
+    44.469697
+],
+  "geometry": {"coordinates":[-71.18218899999999,44.469697],"type":"Point"}
+}

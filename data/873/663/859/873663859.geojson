@@ -1,0 +1,71 @@
+{
+  "id": 873663859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.086616,43.374547,-72.086616,43.374547",
+    "geom:latitude":43.374547,
+    "geom:longitude":-72.086616,
+    "iso:country":"US",
+    "sg:address":"308 Edgemont Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 4260",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s3nPHWhlmHNBWRO7RFYB2_43.374547_-72.086616@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"52bade4674846b30507c50dea65421a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873663859
+        }
+    ],
+    "wof:id":873663859,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Bonin's Machine Shop",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.086616,
+    43.374547,
+    -72.086616,
+    43.374547
+],
+  "geometry": {"coordinates":[-72.08661600000001,43.374547],"type":"Point"}
+}

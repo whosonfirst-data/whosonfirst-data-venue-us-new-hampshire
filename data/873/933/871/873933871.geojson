@@ -1,0 +1,73 @@
+{
+  "id": 873933871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.101007,42.815343,-71.101007,42.815343",
+    "geom:latitude":42.815343,
+    "geom:longitude":-71.101007,
+    "iso:country":"US",
+    "sg:address":"5 Main St",
+    "sg:city":"Plaistow",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 2244",
+    "sg:postcode":"03865",
+    "sg:province":"NH",
+    "sg:tags":[
+        "centers-adult",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950417,
+        102084463,
+        85846033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KCdEVm98fNE5N8iByTXR8_42.815343_-71.101007@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300479,
+    "wof:geomhash":"a38d297aba6559def0afcdeb8af34b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85846033,
+            "region_id":85688645,
+            "venue_id":873933871
+        }
+    ],
+    "wof:id":873933871,
+    "wof:lastmodified":1464300479,
+    "wof:name":"Life Visions",
+    "wof:parent_id":85846033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "centers-adult",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.101007,
+    42.815343,
+    -71.101007,
+    42.815343
+],
+  "geometry": {"coordinates":[-71.101007,42.815343],"type":"Point"}
+}

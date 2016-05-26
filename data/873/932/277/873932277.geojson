@@ -1,0 +1,73 @@
+{
+  "id": 873932277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.794083,42.941219,-70.794083,42.941219",
+    "geom:latitude":42.941219,
+    "geom:longitude":-70.794083,
+    "iso:country":"US",
+    "sg:address":"931 Ocean Blvd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 498 3126",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842115,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QaBhrtkvJsSqBl0pZD4Va_42.941219_-70.794083@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300451,
+    "wof:geomhash":"b50210f1e548d220e986a0c099147c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85842115,
+            "region_id":85688689,
+            "venue_id":873932277
+        }
+    ],
+    "wof:id":873932277,
+    "wof:lastmodified":1464300451,
+    "wof:name":"North Beach Bar & Grill",
+    "wof:parent_id":85842115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -70.794083,
+    42.941219,
+    -70.794083,
+    42.941219
+],
+  "geometry": {"coordinates":[-70.794083,42.941219],"type":"Point"}
+}

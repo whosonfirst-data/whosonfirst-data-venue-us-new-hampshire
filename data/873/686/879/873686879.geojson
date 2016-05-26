@@ -1,0 +1,71 @@
+{
+  "id": 873686879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.630479,42.825803,-71.630479,42.825803",
+    "geom:latitude":42.825803,
+    "geom:longitude":-71.630479,
+    "iso:country":"US",
+    "sg:address":"504 Nashua St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4800",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816579,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iVlPySqIEuFbXtka7aToX_42.825803_-71.630479@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296189,
+    "wof:geomhash":"22cb20d7635b9301bde60d50f166748c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85816579,
+            "region_id":85688689,
+            "venue_id":873686879
+        }
+    ],
+    "wof:id":873686879,
+    "wof:lastmodified":1464296189,
+    "wof:name":"Heritage Estates",
+    "wof:parent_id":85816579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.630479,
+    42.825803,
+    -71.630479,
+    42.825803
+],
+  "geometry": {"coordinates":[-71.63047899999999,42.825803],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873757133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.065359,43.389482,-71.065359,43.389482",
+    "geom:latitude":43.389482,
+    "geom:longitude":-71.065359,
+    "iso:country":"US",
+    "sg:address":"8 Central St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 755 2255",
+    "sg:postcode":"03835",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bmBhJ2Jzw2qP7yd3DrG6d_43.389482_-71.065359@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297171,
+    "wof:geomhash":"6892ee71458294d3fe9dc7038a1d3780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873757133
+        }
+    ],
+    "wof:id":873757133,
+    "wof:lastmodified":1464297171,
+    "wof:name":"Bank of New Hampshire",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.065359,
+    43.389482,
+    -71.065359,
+    43.389482
+],
+  "geometry": {"coordinates":[-71.065359,43.389482],"type":"Point"}
+}

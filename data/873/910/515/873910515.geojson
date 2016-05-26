@@ -1,0 +1,76 @@
+{
+  "id": 873910515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535714,43.204237,-71.535714,43.204237",
+    "geom:latitude":43.204237,
+    "geom:longitude":-71.535714,
+    "iso:country":"US",
+    "sg:address":"2 S Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 3834",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.foodeesconcord.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GQoSSH5iWq1TGBAsX3rnn_43.204237_-71.535714@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300023,
+    "wof:geomhash":"b618c452644dbf77af8b3989e6c7315f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873910515
+        }
+    ],
+    "wof:id":873910515,
+    "wof:lastmodified":1464300023,
+    "wof:name":"Foodee's Pizza",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.535714,
+    43.204237,
+    -71.535714,
+    43.204237
+],
+  "geometry": {"coordinates":[-71.535714,43.204237],"type":"Point"}
+}

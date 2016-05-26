@@ -1,0 +1,104 @@
+{
+  "id": 873918917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580282,42.811889,-71.580282,42.811889",
+    "geom:latitude":42.811889,
+    "geom:longitude":-71.580282,
+    "iso:country":"US",
+    "sg:address":"84 State Route 101a",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/amherst/149145-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 249 3306",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEr3CkatCopAHC7W2DRjB_42.811598_-71.580573@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"8cac2e37dd6c4f6c05329c32e18d087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873918917
+        }
+    ],
+    "wof:id":873918917,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "sandwich",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -71.580282,
+    42.811889,
+    -71.580282,
+    42.811889
+],
+  "geometry": {"coordinates":[-71.580282,42.811889],"type":"Point"}
+}

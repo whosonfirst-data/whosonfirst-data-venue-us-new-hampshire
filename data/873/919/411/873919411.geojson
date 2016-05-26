@@ -1,0 +1,82 @@
+{
+  "id": 873919411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.795434,43.095692,-70.795434,43.095692",
+    "geom:latitude":43.095692,
+    "geom:longitude":-70.795434,
+    "iso:country":"US",
+    "sg:address":"2028 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/96712-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 4981",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dsjs75n7WuAhEk3Y4WVOz_43.095479_-70.795358@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"a42da10628e12fdc58c916c5d30595cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873919411
+        }
+    ],
+    "wof:id":873919411,
+    "wof:lastmodified":1464300201,
+    "wof:name":"IHOP",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -70.795434,
+    43.095692,
+    -70.795434,
+    43.095692
+],
+  "geometry": {"coordinates":[-70.795434,43.095692],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873535525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.171057,44.475601,-71.171057,44.475601",
+    "geom:latitude":44.475601,
+    "geom:longitude":-71.171057,
+    "iso:country":"US",
+    "sg:address":"795 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7505",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N6sqMH3I0YE9YX0m3IB2Z_44.475601_-71.171057@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294210,
+    "wof:geomhash":"6c1a4653112e16bfbd0e5d3961787dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873535525
+        }
+    ],
+    "wof:id":873535525,
+    "wof:lastmodified":1464294210,
+    "wof:name":"Androscoggin Vly Hm Care Svcs",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.171057,
+    44.475601,
+    -71.171057,
+    44.475601
+],
+  "geometry": {"coordinates":[-71.171057,44.475601],"type":"Point"}
+}

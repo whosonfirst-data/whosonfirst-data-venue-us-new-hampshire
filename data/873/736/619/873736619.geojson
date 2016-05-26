@@ -1,0 +1,73 @@
+{
+  "id": 873736619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.320418,43.543744,-72.320418,43.543744",
+    "geom:latitude":43.543744,
+    "geom:longitude":-72.320418,
+    "iso:country":"US",
+    "sg:address":"207 Center of Town Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 675 2559",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xLvZyojkCvhpzEiu0PMFR_43.543744_-72.320418@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296878,
+    "wof:geomhash":"07986b28d5ca8aa2ca8fc8dd8792e0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873736619
+        }
+    ],
+    "wof:id":873736619,
+    "wof:lastmodified":1464296878,
+    "wof:name":"Classy Chassis Auto Body",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.320418,
+    43.543744,
+    -72.320418,
+    43.543744
+],
+  "geometry": {"coordinates":[-72.320418,43.543744],"type":"Point"}
+}

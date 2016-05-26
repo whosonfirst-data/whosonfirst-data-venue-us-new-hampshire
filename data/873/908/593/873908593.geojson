@@ -1,0 +1,71 @@
+{
+  "id": 873908593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035733,44.149224,-72.035733,44.149224",
+    "geom:latitude":44.149224,
+    "geom:longitude":-72.035733,
+    "iso:country":"US",
+    "sg:address":"9 Maple St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 3442",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MrrcerAVd1M2WhpHejoGu_44.149224_-72.035733@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299986,
+    "wof:geomhash":"6382c1a8a1cf8e3cd7512dc360f2a86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873908593
+        }
+    ],
+    "wof:id":873908593,
+    "wof:lastmodified":1464299986,
+    "wof:name":"United Methodist Church Study",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.035733,
+    44.149224,
+    -72.035733,
+    44.149224
+],
+  "geometry": {"coordinates":[-72.03573299999999,44.149224],"type":"Point"}
+}

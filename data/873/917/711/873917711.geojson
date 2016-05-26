@@ -1,0 +1,93 @@
+{
+  "id": 873917711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428699,43.56576,-71.428699,43.56576",
+    "geom:latitude":43.56576,
+    "geom:longitude":-71.428699,
+    "iso:country":"US",
+    "sg:address":"63 Gilford East Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/gilford/149234-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7182",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68nyUTGC97Nrs24niyFuAJ_43.565760_-71.428699@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300172,
+    "wof:geomhash":"a80b2c008fdd056410bccf95a85bee68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873917711
+        }
+    ],
+    "wof:id":873917711,
+    "wof:lastmodified":1464300172,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.428699,
+    43.56576,
+    -71.428699,
+    43.56576
+],
+  "geometry": {"coordinates":[-71.42869899999999,43.56576],"type":"Point"}
+}

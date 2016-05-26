@@ -1,0 +1,71 @@
+{
+  "id": 873851137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.826099,43.181908,-71.826099,43.181908",
+    "geom:latitude":43.181908,
+    "geom:longitude":-71.826099,
+    "iso:country":"US",
+    "sg:address":"1 Fairview Ave",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7717",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jTcaoxJTm40pcWcdPlhWR_43.181908_-71.826099@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298834,
+    "wof:geomhash":"6f037dc8f778d1b023fbdb41c876533b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873851137
+        }
+    ],
+    "wof:id":873851137,
+    "wof:lastmodified":1464298834,
+    "wof:name":"Gerard Kreister",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.826099,
+    43.181908,
+    -71.826099,
+    43.181908
+],
+  "geometry": {"coordinates":[-71.826099,43.181908],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873909967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511934,42.871119,-71.511934,42.871119",
+    "geom:latitude":42.871119,
+    "geom:longitude":-71.511934,
+    "iso:country":"US",
+    "sg:address":"8 Pinetree Ln",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 7085",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78L8qeLWMn71Cz0q3xYBEa_42.871119_-71.511934@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300013,
+    "wof:geomhash":"8c53b3a1037f0cb7626747a7a1274e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873909967
+        }
+    ],
+    "wof:id":873909967,
+    "wof:lastmodified":1464300013,
+    "wof:name":"Alliance Mechanical Svcs LLC",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.511934,
+    42.871119,
+    -71.511934,
+    42.871119
+],
+  "geometry": {"coordinates":[-71.511934,42.871119],"type":"Point"}
+}

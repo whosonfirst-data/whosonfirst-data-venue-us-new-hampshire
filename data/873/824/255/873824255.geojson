@@ -1,0 +1,71 @@
+{
+  "id": 873824255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.857619,43.022348,-70.857619,43.022348",
+    "geom:latitude":43.022348,
+    "geom:longitude":-70.857619,
+    "iso:country":"US",
+    "sg:address":"333 Winnicut Rd",
+    "sg:city":"Greenland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 4738",
+    "sg:postcode":"03840",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MmgHi8OhTOz62Ullju2Za_43.022348_-70.857619@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298217,
+    "wof:geomhash":"112e9568ae8fc5f38ee2dea7274f2fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873824255
+        }
+    ],
+    "wof:id":873824255,
+    "wof:lastmodified":1464298217,
+    "wof:name":"Animal Manners Inc",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -70.857619,
+    43.022348,
+    -70.857619,
+    43.022348
+],
+  "geometry": {"coordinates":[-70.857619,43.022348],"type":"Point"}
+}

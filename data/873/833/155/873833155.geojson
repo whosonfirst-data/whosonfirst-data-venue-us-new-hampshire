@@ -1,0 +1,71 @@
+{
+  "id": 873833155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.199632,42.905767,-72.199632,42.905767",
+    "geom:latitude":42.905767,
+    "geom:longitude":-72.199632,
+    "iso:country":"US",
+    "sg:address":"258 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4613",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZkvtWEQDd4HURQgYRUYWs_42.905767_-72.199632@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298407,
+    "wof:geomhash":"0ba39ca11823d345530270fdfb56d384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873833155
+        }
+    ],
+    "wof:id":873833155,
+    "wof:lastmodified":1464298407,
+    "wof:name":"Cheshire Foreign Auto Svc Inc",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.199632,
+    42.905767,
+    -72.199632,
+    42.905767
+],
+  "geometry": {"coordinates":[-72.19963199999999,42.905767],"type":"Point"}
+}

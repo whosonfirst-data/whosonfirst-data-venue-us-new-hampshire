@@ -1,0 +1,71 @@
+{
+  "id": 873644505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.867514,42.881319,-70.867514,42.881319",
+    "geom:latitude":42.881319,
+    "geom:longitude":-70.867514,
+    "iso:country":"US",
+    "sg:address":"255 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 5568",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eBJsknFKfk1tJLNbzkogA_42.881319_-70.867514@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295531,
+    "wof:geomhash":"3bd05502c5ec49ba2bfebdb7c3ec805d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873644505
+        }
+    ],
+    "wof:id":873644505,
+    "wof:lastmodified":1464295531,
+    "wof:name":"Neil's Electronics",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -70.867514,
+    42.881319,
+    -70.867514,
+    42.881319
+],
+  "geometry": {"coordinates":[-70.867514,42.881319],"type":"Point"}
+}

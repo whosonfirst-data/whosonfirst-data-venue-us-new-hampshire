@@ -1,0 +1,71 @@
+{
+  "id": 873652705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420515,42.767734,-71.420515,42.767734",
+    "geom:latitude":42.767734,
+    "geom:longitude":-71.420515,
+    "iso:country":"US",
+    "sg:address":"12 Alpine Ave",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 4463",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RFPhW1Ssng4XjzAleR6uw_42.767734_-71.420515@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295621,
+    "wof:geomhash":"412eb3ce9b9af25e9a19263f709da36f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873652705
+        }
+    ],
+    "wof:id":873652705,
+    "wof:lastmodified":1464295621,
+    "wof:name":"Four Season's Roofing",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.420515,
+    42.767734,
+    -71.420515,
+    42.767734
+],
+  "geometry": {"coordinates":[-71.42051499999999,42.767734],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 873921215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437472,42.768919,-71.437472,42.768919",
+    "geom:latitude":42.768919,
+    "geom:longitude":-71.437472,
+    "iso:country":"US",
+    "sg:address":"20 Haverhill St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 9849",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kqcbw1Dfye9AHB2D3Dy8O_42.768919_-71.437472@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300231,
+    "wof:geomhash":"634e71e6c8714642b7284284e5687e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873921215
+        }
+    ],
+    "wof:id":873921215,
+    "wof:lastmodified":1464300231,
+    "wof:name":"Carpet Craft",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.437472,
+    42.768919,
+    -71.437472,
+    42.768919
+],
+  "geometry": {"coordinates":[-71.437472,42.768919],"type":"Point"}
+}

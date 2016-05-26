@@ -1,0 +1,71 @@
+{
+  "id": 873642145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484923,43.194604,-71.484923,43.194604",
+    "geom:latitude":43.194604,
+    "geom:longitude":-71.484923,
+    "iso:country":"US",
+    "sg:address":"714 Riverwood St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 229 3226",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VJ50W2muc9GyI5Kbq4E3s_43.194604_-71.484923@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295501,
+    "wof:geomhash":"1569d235e1f59e526028042c2ae34045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873642145
+        }
+    ],
+    "wof:id":873642145,
+    "wof:lastmodified":1464295501,
+    "wof:name":"College Bound Movers",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -71.484923,
+    43.194604,
+    -71.484923,
+    43.194604
+],
+  "geometry": {"coordinates":[-71.48492299999999,43.194604],"type":"Point"}
+}

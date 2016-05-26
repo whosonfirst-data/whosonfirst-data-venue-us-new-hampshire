@@ -1,0 +1,69 @@
+{
+  "id": 873820295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.06083,43.499171,-72.06083,43.499171",
+    "geom:latitude":43.499171,
+    "geom:longitude":-72.06083,
+    "iso:country":"US",
+    "sg:address":"384 Main St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 9528",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aB8J3w6gDf6orMHhywXHd_43.499171_-72.060830@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298125,
+    "wof:geomhash":"d30c4f84a2b87a4c60623053f241bc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873820295
+        }
+    ],
+    "wof:id":873820295,
+    "wof:lastmodified":1464298125,
+    "wof:name":"New London Svc Ctr",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.06083,
+    43.499171,
+    -72.06083,
+    43.499171
+],
+  "geometry": {"coordinates":[-72.06083,43.499171],"type":"Point"}
+}

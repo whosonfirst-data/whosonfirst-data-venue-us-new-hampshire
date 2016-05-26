@@ -1,0 +1,69 @@
+{
+  "id": 873701969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.716436,43.072223,-70.716436,43.072223",
+    "geom:latitude":43.072223,
+    "geom:longitude":-70.716436,
+    "iso:country":"US",
+    "sg:address":"1 Steamboat Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 6421",
+    "sg:postcode":"03854",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lobster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85848091,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EbnRy3r4DuHzlOlfVTvci_43.072223_-70.716436@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296425,
+    "wof:geomhash":"e417574db871f844800ff230cfb56f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85848091,
+            "region_id":85688689,
+            "venue_id":873701969
+        }
+    ],
+    "wof:id":873701969,
+    "wof:lastmodified":1464296425,
+    "wof:name":"Ricker Lobster Co",
+    "wof:parent_id":85848091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lobster"
+    ]
+},
+  "bbox": [
+    -70.716436,
+    43.072223,
+    -70.716436,
+    43.072223
+],
+  "geometry": {"coordinates":[-70.716436,43.072223],"type":"Point"}
+}

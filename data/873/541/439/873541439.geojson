@@ -1,0 +1,73 @@
+{
+  "id": 873541439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.17202,44.383796,-71.17202,44.383796",
+    "geom:latitude":44.383796,
+    "geom:longitude":-71.17202,
+    "iso:country":"US",
+    "sg:address":"19 Libby St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2682",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n0A0uDpGbGecao6k0Gmq2_44.383796_-71.172020@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294275,
+    "wof:geomhash":"2a1f3e66f7bdea5dd663cf5763ec216d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873541439
+        }
+    ],
+    "wof:id":873541439,
+    "wof:lastmodified":1464294275,
+    "wof:name":"T T Auto & Cycle",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.17202,
+    44.383796,
+    -71.17202,
+    44.383796
+],
+  "geometry": {"coordinates":[-71.17202,44.383796],"type":"Point"}
+}

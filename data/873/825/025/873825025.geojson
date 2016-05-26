@@ -1,0 +1,71 @@
+{
+  "id": 873825025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561399,42.99342,-71.561399,42.99342",
+    "geom:latitude":42.99342,
+    "geom:longitude":-71.561399,
+    "iso:country":"US",
+    "sg:address":"377 Wallace Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 3025",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ma9craO9Ia7De4EmmPgQS_42.993420_-71.561399@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298233,
+    "wof:geomhash":"e8e766c6141a21da358d2cd4f61454cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873825025
+        }
+    ],
+    "wof:id":873825025,
+    "wof:lastmodified":1464298233,
+    "wof:name":"Veary R C & Sons Excvtg LLC",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.561399,
+    42.99342,
+    -71.561399,
+    42.99342
+],
+  "geometry": {"coordinates":[-71.56139899999999,42.99342],"type":"Point"}
+}

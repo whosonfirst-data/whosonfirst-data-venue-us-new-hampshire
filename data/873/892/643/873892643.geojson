@@ -1,0 +1,77 @@
+{
+  "id": 873892643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.659035,42.877616,-71.659035,42.877616",
+    "geom:latitude":42.877616,
+    "geom:longitude":-71.659035,
+    "iso:country":"US",
+    "sg:address":"25 Green Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 262 9350",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mb80Oc3ZGWaDUL42oI4Dy_42.877616_-71.659035@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299678,
+    "wof:geomhash":"44579242d601b209dad155174f0a058f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873892643
+        }
+    ],
+    "wof:id":873892643,
+    "wof:lastmodified":1464299678,
+    "wof:name":"Powercon Electric",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.659035,
+    42.877616,
+    -71.659035,
+    42.877616
+],
+  "geometry": {"coordinates":[-71.659035,42.877616],"type":"Point"}
+}

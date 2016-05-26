@@ -1,0 +1,100 @@
+{
+  "id": 873924451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502339,42.776333,-71.502339,42.776333",
+    "geom:latitude":42.776333,
+    "geom:longitude":-71.502339,
+    "iso:country":"US",
+    "sg:address":"28 Charron Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2668",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "permanent",
+        "stylist",
+        "make-up"
+    ],
+    "sg:website":"http://www.shiningimagesalon.com/default.asp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SpkzPagbhGYJrgQ1k4nsR_42.776333_-71.502339@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300295,
+    "wof:geomhash":"1b7e1775d1607f0488eaf6140cecde70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873924451
+        }
+    ],
+    "wof:id":873924451,
+    "wof:lastmodified":1464300295,
+    "wof:name":"Shining Image Salon",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "permanent",
+        "stylist",
+        "make-up"
+    ]
+},
+  "bbox": [
+    -71.502339,
+    42.776333,
+    -71.502339,
+    42.776333
+],
+  "geometry": {"coordinates":[-71.50233900000001,42.776333],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873655377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.9194,43.004599,-70.9194,43.004599",
+    "geom:latitude":43.004599,
+    "geom:longitude":-70.9194,
+    "iso:country":"US",
+    "sg:address":"74 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5592",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bathroom",
+        "remodeling",
+        "architectural",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rm1oZxRnEKUpZ4pp4HSYB_43.004599_-70.919400@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295650,
+    "wof:geomhash":"ce547be6f27d3d1d890024c75d65503b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873655377
+        }
+    ],
+    "wof:id":873655377,
+    "wof:lastmodified":1464295650,
+    "wof:name":"Custom Kitchens and Baths",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling",
+        "architectural",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.9194,
+    43.004599,
+    -70.9194,
+    43.004599
+],
+  "geometry": {"coordinates":[-70.9194,43.004599],"type":"Point"}
+}

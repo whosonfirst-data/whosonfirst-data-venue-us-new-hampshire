@@ -1,0 +1,73 @@
+{
+  "id": 873760703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569498,44.489134,-71.569498,44.489134",
+    "geom:latitude":44.489134,
+    "geom:longitude":-71.569498,
+    "iso:country":"US",
+    "sg:address":"97 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4321",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "help",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qN3h2pooDJLH7BMTOrd1A_44.489134_-71.569498@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297216,
+    "wof:geomhash":"f63942d937fd15209aea880c0350339e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873760703
+        }
+    ],
+    "wof:id":873760703,
+    "wof:lastmodified":1464297216,
+    "wof:name":"Westaff",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.569498,
+    44.489134,
+    -71.569498,
+    44.489134
+],
+  "geometry": {"coordinates":[-71.569498,44.489134],"type":"Point"}
+}

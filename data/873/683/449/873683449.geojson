@@ -1,0 +1,75 @@
+{
+  "id": 873683449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.164002,43.035259,-71.164002,43.035259",
+    "geom:latitude":43.035259,
+    "geom:longitude":-71.164002,
+    "iso:country":"US",
+    "sg:address":"17 Freetown Rd",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 1129",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bsEYWJOKnXKPg6ZeQFjHg_43.035259_-71.164002@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296093,
+    "wof:geomhash":"2da48d671ec0d6180c71467a6ceb4576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873683449
+        }
+    ],
+    "wof:id":873683449,
+    "wof:lastmodified":1464296093,
+    "wof:name":"Director's Cut Video",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.164002,
+    43.035259,
+    -71.164002,
+    43.035259
+],
+  "geometry": {"coordinates":[-71.164002,43.035259],"type":"Point"}
+}

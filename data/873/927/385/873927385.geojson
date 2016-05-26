@@ -1,0 +1,75 @@
+{
+  "id": 873927385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525703,43.366402,-71.525703,43.366402",
+    "geom:latitude":43.366402,
+    "geom:longitude":-71.525703,
+    "iso:country":"US",
+    "sg:address":"Hackleboro Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4248",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veggie"
+    ],
+    "sg:website":"www.hackleboroorchards.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25A1aiJ3ywplezmmjeQUMR_43.366402_-71.525703@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300352,
+    "wof:geomhash":"859dea5a5da9f74323640ae93560d8a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873927385
+        }
+    ],
+    "wof:id":873927385,
+    "wof:lastmodified":1464300352,
+    "wof:name":"Hackleboro Orchards",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -71.525703,
+    43.366402,
+    -71.525703,
+    43.366402
+],
+  "geometry": {"coordinates":[-71.52570299999999,43.366402],"type":"Point"}
+}

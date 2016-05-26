@@ -1,0 +1,76 @@
+{
+  "id": 873858117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.995227,43.213726,-70.995227,43.213726",
+    "geom:latitude":43.213726,
+    "geom:longitude":-70.995227,
+    "iso:country":"US",
+    "sg:address":"258 State Rte 125",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2266",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YlYSEkHBKs8lxNR8Ji6cR_43.213726_-70.995227@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298975,
+    "wof:geomhash":"00ebe9db88e10eac4057a424b01b5d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873858117
+        }
+    ],
+    "wof:id":873858117,
+    "wof:lastmodified":1464298975,
+    "wof:name":"Affordable Electrical",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.995227,
+    43.213726,
+    -70.995227,
+    43.213726
+],
+  "geometry": {"coordinates":[-70.995227,43.213726],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873920983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566772,42.798679,-71.566772,42.798679",
+    "geom:latitude":42.798679,
+    "geom:longitude":-71.566772,
+    "iso:country":"US",
+    "sg:address":"295 S Merrimack Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2251",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ],
+    "sg:website":"http://www.hollisline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5990KXdk8WG1d6ngCCA15q_42.798679_-71.566772@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300227,
+    "wof:geomhash":"8d2951f24528dd6f3c2518c41334e9b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873920983
+        }
+    ],
+    "wof:id":873920983,
+    "wof:lastmodified":1464300227,
+    "wof:name":"Hollis Line Machine Co., Inc.",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "welder",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.566772,
+    42.798679,
+    -71.566772,
+    42.798679
+],
+  "geometry": {"coordinates":[-71.566772,42.798679],"type":"Point"}
+}

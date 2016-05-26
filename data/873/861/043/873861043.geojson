@@ -1,0 +1,73 @@
+{
+  "id": 873861043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569439,44.488891,-71.569439,44.488891",
+    "geom:latitude":44.488891,
+    "geom:longitude":-71.569439,
+    "iso:country":"US",
+    "sg:address":"63 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3377",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23qVJI5sxxAWoEanpxTrCi_44.488891_-71.569439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299060,
+    "wof:geomhash":"6f16e22dec1a05df635204b7405d29fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873861043
+        }
+    ],
+    "wof:id":873861043,
+    "wof:lastmodified":1464299060,
+    "wof:name":"New To You",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -71.569439,
+    44.488891,
+    -71.569439,
+    44.488891
+],
+  "geometry": {"coordinates":[-71.569439,44.488891],"type":"Point"}
+}

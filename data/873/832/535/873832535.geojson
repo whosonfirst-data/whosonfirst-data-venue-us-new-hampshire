@@ -1,0 +1,71 @@
+{
+  "id": 873832535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648092,42.835458,-71.648092,42.835458",
+    "geom:latitude":42.835458,
+    "geom:longitude":-71.648092,
+    "iso:country":"US",
+    "sg:address":"49 Nashua St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 2408",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:website":"www.wadleigh.lib.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pHeFA6uvRnMz8skU3nFjo_42.835458_-71.648092@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298389,
+    "wof:geomhash":"189257f3998148c7e1801c5c60cb36f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873832535
+        }
+    ],
+    "wof:id":873832535,
+    "wof:lastmodified":1464298389,
+    "wof:name":"Wadleigh Memorial Library",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.648092,
+    42.835458,
+    -71.648092,
+    42.835458
+],
+  "geometry": {"coordinates":[-71.64809200000001,42.835458],"type":"Point"}
+}

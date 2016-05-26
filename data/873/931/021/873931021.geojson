@@ -1,0 +1,71 @@
+{
+  "id": 873931021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1213,43.978699,-71.1213,43.978699",
+    "geom:latitude":43.978699,
+    "geom:longitude":-71.1213,
+    "iso:country":"US",
+    "sg:address":"66 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 6300",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "breakfast",
+        "brunch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y5hPZZjR97i74Bt2vZRHI_43.978699_-71.121300@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300430,
+    "wof:geomhash":"ded190ec7df1d96eced6526e7db64766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931021
+        }
+    ],
+    "wof:id":873931021,
+    "wof:lastmodified":1464300430,
+    "wof:name":"Chinook Cafe",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "brunch"
+    ]
+},
+  "bbox": [
+    -71.1213,
+    43.978699,
+    -71.1213,
+    43.978699
+],
+  "geometry": {"coordinates":[-71.12130000000001,43.978699],"type":"Point"}
+}

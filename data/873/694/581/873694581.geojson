@@ -1,0 +1,71 @@
+{
+  "id": 873694581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.007628,43.209287,-71.007628,43.209287",
+    "geom:latitude":43.209287,
+    "geom:longitude":-71.007628,
+    "iso:country":"US",
+    "sg:address":"5 Mallego Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 9382",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LcrfRzMVqe8I5OlmFNWEo_43.209287_-71.007628@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296344,
+    "wof:geomhash":"735fe831de07e06be1bf25341dd93266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873694581
+        }
+    ],
+    "wof:id":873694581,
+    "wof:lastmodified":1464296344,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.007628,
+    43.209287,
+    -71.007628,
+    43.209287
+],
+  "geometry": {"coordinates":[-71.007628,43.209287],"type":"Point"}
+}

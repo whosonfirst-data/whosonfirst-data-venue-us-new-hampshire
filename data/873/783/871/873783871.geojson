@@ -1,0 +1,71 @@
+{
+  "id": 873783871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79026,42.943779,-70.79026,42.943779",
+    "geom:latitude":42.943779,
+    "geom:longitude":-70.79026,
+    "iso:country":"US",
+    "sg:address":"975 Ocean Blvd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 0439",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842115,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_192vYPCfQHL7u2SHsNoK17_42.943779_-70.790260@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297542,
+    "wof:geomhash":"257a110e355299ac63f7374183971fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85842115,
+            "region_id":85688689,
+            "venue_id":873783871
+        }
+    ],
+    "wof:id":873783871,
+    "wof:lastmodified":1464297542,
+    "wof:name":"Tides Landscaping",
+    "wof:parent_id":85842115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.79026,
+    42.943779,
+    -70.79026,
+    42.943779
+],
+  "geometry": {"coordinates":[-70.79026,42.943779],"type":"Point"}
+}

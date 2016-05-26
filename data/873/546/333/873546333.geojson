@@ -1,0 +1,71 @@
+{
+  "id": 873546333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.017359,42.823194,-72.017359,42.823194",
+    "geom:latitude":42.823194,
+    "geom:longitude":-72.017359,
+    "iso:country":"US",
+    "sg:address":"41 Letourneau Dr",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7200",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XH9hCzVqcgKJo7SFsQW9I_42.823194_-72.017359@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294332,
+    "wof:geomhash":"1852892ee17044cc175210f6595f5461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873546333
+        }
+    ],
+    "wof:id":873546333,
+    "wof:lastmodified":1464294332,
+    "wof:name":"A Sweep Above",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.017359,
+    42.823194,
+    -72.017359,
+    42.823194
+],
+  "geometry": {"coordinates":[-72.017359,42.823194],"type":"Point"}
+}

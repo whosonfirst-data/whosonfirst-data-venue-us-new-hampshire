@@ -1,0 +1,73 @@
+{
+  "id": 873846625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.392787,43.32395,-72.392787,43.32395",
+    "geom:latitude":43.32395,
+    "geom:longitude":-72.392787,
+    "iso:country":"US",
+    "sg:address":"1105 River Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 5135",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engine",
+        "aircraft",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wj4ygnlPdtX8tQR20NNTU_43.323950_-72.392787@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298717,
+    "wof:geomhash":"416cfe6d024d8c18bed84a089d51c721",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873846625
+        }
+    ],
+    "wof:id":873846625,
+    "wof:lastmodified":1464298717,
+    "wof:name":"Sermatech-Mal Tool",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "aircraft",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.392787,
+    43.32395,
+    -72.392787,
+    43.32395
+],
+  "geometry": {"coordinates":[-72.392787,43.32395],"type":"Point"}
+}

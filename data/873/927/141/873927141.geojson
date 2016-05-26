@@ -1,0 +1,75 @@
+{
+  "id": 873927141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537674,42.921658,-71.537674,42.921658",
+    "geom:latitude":42.921658,
+    "geom:longitude":-71.537674,
+    "iso:country":"US",
+    "sg:address":"360 Route 101",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 5860",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.elliothospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i2QBraO3GyFiIq2IEv28t_42.921658_-71.537674@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300348,
+    "wof:geomhash":"b354a2b34e27110747f7d5d1e06a559d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927141
+        }
+    ],
+    "wof:id":873927141,
+    "wof:lastmodified":1464300348,
+    "wof:name":"Pediatric Health Assoc At Bedford",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.537674,
+    42.921658,
+    -71.537674,
+    42.921658
+],
+  "geometry": {"coordinates":[-71.537674,42.921658],"type":"Point"}
+}

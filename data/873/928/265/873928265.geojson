@@ -1,0 +1,93 @@
+{
+  "id": 873928265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540128,43.213545,-71.540128,43.213545",
+    "geom:latitude":43.213545,
+    "geom:longitude":-71.540128,
+    "iso:country":"US",
+    "sg:address":"244 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 4477",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.saudet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uJSv2fjydpAOQ8kTGohMj_43.213545_-71.540128@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300374,
+    "wof:geomhash":"86d75f206a1e74dfd4f95373b0dc75ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873928265
+        }
+    ],
+    "wof:id":873928265,
+    "wof:lastmodified":1464300374,
+    "wof:name":"Audet Stephen Ins",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -71.540128,
+    43.213545,
+    -71.540128,
+    43.213545
+],
+  "geometry": {"coordinates":[-71.540128,43.213545],"type":"Point"}
+}

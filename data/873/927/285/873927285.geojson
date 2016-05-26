@@ -1,0 +1,80 @@
+{
+  "id": 873927285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495358,42.971371,-71.495358,42.971371",
+    "geom:latitude":42.971371,
+    "geom:longitude":-71.495358,
+    "iso:country":"US",
+    "sg:address":"414 Donald St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 2998",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wedding"
+    ],
+    "sg:website":"http://www.dixielandflorist.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nMbbabDAlTcqyhJTSXdwq_42.971371_-71.495358@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300351,
+    "wof:geomhash":"8b9f635d0ec89e13c86d5750006949f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927285
+        }
+    ],
+    "wof:id":873927285,
+    "wof:lastmodified":1464300351,
+    "wof:name":"Dixieland Florist & Gift Shop Inc.",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding"
+    ]
+},
+  "bbox": [
+    -71.495358,
+    42.971371,
+    -71.495358,
+    42.971371
+],
+  "geometry": {"coordinates":[-71.495358,42.971371],"type":"Point"}
+}

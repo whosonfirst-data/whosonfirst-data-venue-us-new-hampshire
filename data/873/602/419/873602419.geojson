@@ -1,0 +1,71 @@
+{
+  "id": 873602419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51475,42.935311,-71.51475,42.935311",
+    "geom:latitude":42.935311,
+    "geom:longitude":-71.51475,
+    "iso:country":"US",
+    "sg:address":"69 Nashua Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 7147",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K42dXWLsg8W1eDzb0tgOV_42.935311_-71.514750@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295013,
+    "wof:geomhash":"70373a4ce3bfb528f3e7deea4f5323f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873602419
+        }
+    ],
+    "wof:id":873602419,
+    "wof:lastmodified":1464295013,
+    "wof:name":"Bedford Bluffs",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -71.51475,
+    42.935311,
+    -71.51475,
+    42.935311
+],
+  "geometry": {"coordinates":[-71.51475000000001,42.935311],"type":"Point"}
+}

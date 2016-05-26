@@ -1,0 +1,71 @@
+{
+  "id": 873847069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.789088,44.309182,-71.789088,44.309182",
+    "geom:latitude":44.309182,
+    "geom:longitude":-71.789088,
+    "iso:country":"US",
+    "sg:address":"390 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 9846",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GBkWmXBiSujRe5iG7sGX7_44.309182_-71.789088@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298734,
+    "wof:geomhash":"1641b6802e9df623c304f3fff724f796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873847069
+        }
+    ],
+    "wof:id":873847069,
+    "wof:lastmodified":1464298734,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.789088,
+    44.309182,
+    -71.789088,
+    44.309182
+],
+  "geometry": {"coordinates":[-71.78908800000001,44.309182],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873847825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.309279,43.644687,-72.309279,43.644687",
+    "geom:latitude":43.644687,
+    "geom:longitude":-72.309279,
+    "iso:country":"US",
+    "sg:address":"1 Main St",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 5395",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "lab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aFVxCezGV50tGb7uwMnit_43.644687_-72.309279@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298766,
+    "wof:geomhash":"5a69b9ca3cd0be148f5073f95d5fcb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873847825
+        }
+    ],
+    "wof:id":873847825,
+    "wof:lastmodified":1464298766,
+    "wof:name":"Vermont Color Photo Labs",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "lab"
+    ]
+},
+  "bbox": [
+    -72.309279,
+    43.644687,
+    -72.309279,
+    43.644687
+],
+  "geometry": {"coordinates":[-72.309279,43.644687],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873823533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.930788,42.887472,-70.930788,42.887472",
+    "geom:latitude":42.887472,
+    "geom:longitude":-70.930788,
+    "iso:country":"US",
+    "sg:address":"77 Exeter Rd",
+    "sg:city":"South Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 394 7955",
+    "sg:postcode":"03827",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852415,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rk7evgdVLDlk54cmHXYkB_42.887472_-70.930788@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298200,
+    "wof:geomhash":"9d54465d090753d5038421bdffab6785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852415,
+            "region_id":85688689,
+            "venue_id":873823533
+        }
+    ],
+    "wof:id":873823533,
+    "wof:lastmodified":1464298200,
+    "wof:name":"Atlantic Trucking Inc",
+    "wof:parent_id":85852415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -70.930788,
+    42.887472,
+    -70.930788,
+    42.887472
+],
+  "geometry": {"coordinates":[-70.93078800000001,42.887472],"type":"Point"}
+}

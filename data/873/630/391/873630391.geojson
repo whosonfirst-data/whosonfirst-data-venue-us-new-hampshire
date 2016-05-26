@@ -1,0 +1,75 @@
+{
+  "id": 873630391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.250353,43.641317,-72.250353,43.641317",
+    "geom:latitude":43.641317,
+    "geom:longitude":-72.250353,
+    "iso:country":"US",
+    "sg:address":"14 School St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 2011",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JYcpMj3OiRHQlWJMLmtUS_43.641317_-72.250353@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"0d665b424899365026264162e76cc9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873630391
+        }
+    ],
+    "wof:id":873630391,
+    "wof:lastmodified":1464295369,
+    "wof:name":"Clear Water Plumbing & Heating",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -72.250353,
+    43.641317,
+    -72.250353,
+    43.641317
+],
+  "geometry": {"coordinates":[-72.250353,43.641317],"type":"Point"}
+}

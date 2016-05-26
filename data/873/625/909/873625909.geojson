@@ -1,0 +1,69 @@
+{
+  "id": 873625909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.231241,42.784424,-71.231241,42.784424",
+    "geom:latitude":42.784424,
+    "geom:longitude":-71.231241,
+    "iso:country":"US",
+    "sg:address":"2 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2099",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GwLWa58HBu9C1wzQT7hmy_42.784424_-71.231241@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295319,
+    "wof:geomhash":"c8762e8e7f5d3c0f95401e4141d8e9a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873625909
+        }
+    ],
+    "wof:id":873625909,
+    "wof:lastmodified":1464295319,
+    "wof:name":"Salem Sunoco",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.231241,
+    42.784424,
+    -71.231241,
+    42.784424
+],
+  "geometry": {"coordinates":[-71.231241,42.784424],"type":"Point"}
+}

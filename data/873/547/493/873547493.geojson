@@ -1,0 +1,79 @@
+{
+  "id": 873547493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531099,43.195376,-71.531099,43.195376",
+    "geom:latitude":43.195376,
+    "geom:longitude":-71.531099,
+    "iso:country":"US",
+    "sg:address":"223 S Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 8675",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZKN5jxV8gQJ3DvqmdfmJL_43.195376_-71.531099@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294345,
+    "wof:geomhash":"6fd227cc2e5caf7bf4dbe4ad4f22ec96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873547493
+        }
+    ],
+    "wof:id":873547493,
+    "wof:lastmodified":1464294345,
+    "wof:name":"Steve & Dave's Tire & Auto Svc",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.531099,
+    43.195376,
+    -71.531099,
+    43.195376
+],
+  "geometry": {"coordinates":[-71.531099,43.195376],"type":"Point"}
+}

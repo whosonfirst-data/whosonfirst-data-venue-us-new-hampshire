@@ -1,0 +1,69 @@
+{
+  "id": 873598335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477961,42.962622,-71.477961,42.962622",
+    "geom:latitude":42.962622,
+    "geom:longitude":-71.477961,
+    "iso:country":"US",
+    "sg:address":"7 Riverway Pl",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 3770",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SG7ImPhVVBgmnY86pE1F7_42.962622_-71.477961@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294962,
+    "wof:geomhash":"d832f813b6a19f4b83bc1dc0c49666f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873598335
+        }
+    ],
+    "wof:id":873598335,
+    "wof:lastmodified":1464294962,
+    "wof:name":"Elliot Hospital Labs",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.477961,
+    42.962622,
+    -71.477961,
+    42.962622
+],
+  "geometry": {"coordinates":[-71.47796099999999,42.962622],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873557125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575717,44.496442,-71.575717,44.496442",
+    "geom:latitude":44.496442,
+    "geom:longitude":-71.575717,
+    "iso:country":"US",
+    "sg:address":"457 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2582",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70yI138ODD7rEW5k9vCoOw_44.496442_-71.575717@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294462,
+    "wof:geomhash":"21f86824deb6738861e8704cdb4bb5b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873557125
+        }
+    ],
+    "wof:id":873557125,
+    "wof:lastmodified":1464294462,
+    "wof:name":"Kelley's Auto Supply Inc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.575717,
+    44.496442,
+    -71.575717,
+    44.496442
+],
+  "geometry": {"coordinates":[-71.575717,44.496442],"type":"Point"}
+}

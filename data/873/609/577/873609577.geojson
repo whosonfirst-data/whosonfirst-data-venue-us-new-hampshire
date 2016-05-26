@@ -1,0 +1,74 @@
+{
+  "id": 873609577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571295,42.87901,-71.571295,42.87901",
+    "geom:latitude":42.87901,
+    "geom:longitude":-71.571295,
+    "iso:country":"US",
+    "sg:address":"8 Autumn Ln",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 7024",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R0xKxH3zn8BgG8lIwXJH3_42.879010_-71.571295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295134,
+    "wof:geomhash":"e813f938c3b51f4245c84ebdc33a27ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873609577
+        }
+    ],
+    "wof:id":873609577,
+    "wof:lastmodified":1464295134,
+    "wof:name":"Ernest D Jeffrey PE",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.571295,
+    42.87901,
+    -71.571295,
+    42.87901
+],
+  "geometry": {"coordinates":[-71.57129500000001,42.87901],"type":"Point"}
+}

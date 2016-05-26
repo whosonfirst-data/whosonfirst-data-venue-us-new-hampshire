@@ -1,0 +1,69 @@
+{
+  "id": 873860541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527398,42.880936,-71.527398,42.880936",
+    "geom:latitude":42.880936,
+    "geom:longitude":-71.527398,
+    "iso:country":"US",
+    "sg:address":"9 Jakes Ln",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 3114",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0czmM652fbA0GYjlCxSRaQ_42.880936_-71.527398@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299049,
+    "wof:geomhash":"31c2671a7b93c091d237f918f7f7b3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873860541
+        }
+    ],
+    "wof:id":873860541,
+    "wof:lastmodified":1464299049,
+    "wof:name":"Preferential Treatment Clg",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.527398,
+    42.880936,
+    -71.527398,
+    42.880936
+],
+  "geometry": {"coordinates":[-71.52739800000001,42.880936],"type":"Point"}
+}

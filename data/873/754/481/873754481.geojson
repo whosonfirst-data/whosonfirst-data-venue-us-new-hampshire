@@ -1,0 +1,75 @@
+{
+  "id": 873754481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491048,42.858542,-71.491048,42.858542",
+    "geom:latitude":42.858542,
+    "geom:longitude":-71.491048,
+    "iso:country":"US",
+    "sg:address":"417 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 4747",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v1x5V8uZzXI8UxlO6tyXf_42.858542_-71.491048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297138,
+    "wof:geomhash":"1c8844aa05614aad3a8fe99b6f81ec4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873754481
+        }
+    ],
+    "wof:id":873754481,
+    "wof:lastmodified":1464297138,
+    "wof:name":"Drain King Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -71.491048,
+    42.858542,
+    -71.491048,
+    42.858542
+],
+  "geometry": {"coordinates":[-71.49104800000001,42.858542],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873894311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209783,42.755924,-71.209783,42.755924",
+    "geom:latitude":42.755924,
+    "geom:longitude":-71.209783,
+    "iso:country":"US",
+    "sg:address":"323 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 9937",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "brake",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OJP8ICwXKNOSSdEWRLjmq_42.755924_-71.209783@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299710,
+    "wof:geomhash":"fc9b29a23883d0dc3a914afea7f6b142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873894311
+        }
+    ],
+    "wof:id":873894311,
+    "wof:lastmodified":1464299710,
+    "wof:name":"Meineke Discount Mufflers",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "brake",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -71.209783,
+    42.755924,
+    -71.209783,
+    42.755924
+],
+  "geometry": {"coordinates":[-71.209783,42.755924],"type":"Point"}
+}

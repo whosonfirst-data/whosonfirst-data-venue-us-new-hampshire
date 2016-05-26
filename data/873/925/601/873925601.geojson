@@ -1,0 +1,99 @@
+{
+  "id": 873925601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244141,42.80356,-71.244141,42.80356",
+    "geom:latitude":42.80356,
+    "geom:longitude":-71.244141,
+    "iso:country":"US",
+    "sg:address":"99 Old Rockingham Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 6914",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LJHcchTCW5KzweFI5K6Xp_42.803560_-71.244141@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300319,
+    "wof:geomhash":"e3813f7026aa231b2727f6924df101ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925601
+        }
+    ],
+    "wof:id":873925601,
+    "wof:lastmodified":1464300319,
+    "wof:name":"AT&T",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ]
+},
+  "bbox": [
+    -71.244141,
+    42.80356,
+    -71.244141,
+    42.80356
+],
+  "geometry": {"coordinates":[-71.244141,42.80356],"type":"Point"}
+}

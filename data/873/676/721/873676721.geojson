@@ -1,0 +1,71 @@
+{
+  "id": 873676721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.939163,43.06093,-70.939163,43.06093",
+    "geom:latitude":43.06093,
+    "geom:longitude":-70.939163,
+    "iso:country":"US",
+    "sg:address":"156 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3234",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SOgsYxxZKGX9Hayf1sGfC_43.060930_-70.939163@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295905,
+    "wof:geomhash":"0a636f2155ddfd32a26356e7d1dd3c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873676721
+        }
+    ],
+    "wof:id":873676721,
+    "wof:lastmodified":1464295905,
+    "wof:name":"Dole Dental Lab Inc",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -70.939163,
+    43.06093,
+    -70.939163,
+    43.06093
+],
+  "geometry": {"coordinates":[-70.93916299999999,43.06093],"type":"Point"}
+}

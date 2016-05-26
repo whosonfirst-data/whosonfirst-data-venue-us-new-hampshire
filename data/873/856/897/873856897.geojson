@@ -1,0 +1,71 @@
+{
+  "id": 873856897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.689496,43.757529,-71.689496,43.757529",
+    "geom:latitude":43.757529,
+    "geom:longitude":-71.689496,
+    "iso:country":"US",
+    "sg:address":"20 Highland St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 6900",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h2znOSbwJSgnMb70vrGVO_43.757529_-71.689496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298950,
+    "wof:geomhash":"8f654dc6899acd7b22f60c3df1d30169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873856897
+        }
+    ],
+    "wof:id":873856897,
+    "wof:lastmodified":1464298950,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.689496,
+    43.757529,
+    -71.689496,
+    43.757529
+],
+  "geometry": {"coordinates":[-71.68949600000001,43.757529],"type":"Point"}
+}

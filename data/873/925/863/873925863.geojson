@@ -1,0 +1,71 @@
+{
+  "id": 873925863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.235857,42.766765,-71.235857,42.766765",
+    "geom:latitude":42.766765,
+    "geom:longitude":-71.235857,
+    "iso:country":"US",
+    "sg:address":"22 Trolley Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 505 5771",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dry",
+        "goods-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YrJeodnf79qgh3F2yr0B2_42.766765_-71.235857@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300324,
+    "wof:geomhash":"d54b69f24d00d449d817d4294158d653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873925863
+        }
+    ],
+    "wof:id":873925863,
+    "wof:lastmodified":1464300324,
+    "wof:name":"Interlink Supply",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "goods-wholesale"
+    ]
+},
+  "bbox": [
+    -71.235857,
+    42.766765,
+    -71.235857,
+    42.766765
+],
+  "geometry": {"coordinates":[-71.235857,42.766765],"type":"Point"}
+}

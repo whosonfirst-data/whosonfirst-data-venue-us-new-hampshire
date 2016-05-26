@@ -1,0 +1,71 @@
+{
+  "id": 873835827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569847,42.881407,-71.569847,42.881407",
+    "geom:latitude":42.881407,
+    "geom:longitude":-71.569847,
+    "iso:country":"US",
+    "sg:address":"11 Four Seasons Ln",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3263",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mNal10mfOdCS4mv9WpzRC_42.881407_-71.569847@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298461,
+    "wof:geomhash":"f8ce07e24872f05ae5e7c55de9102218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873835827
+        }
+    ],
+    "wof:id":873835827,
+    "wof:lastmodified":1464298461,
+    "wof:name":"Ameriseal Asphalt Sealing",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -71.569847,
+    42.881407,
+    -71.569847,
+    42.881407
+],
+  "geometry": {"coordinates":[-71.569847,42.881407],"type":"Point"}
+}

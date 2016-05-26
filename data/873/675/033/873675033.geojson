@@ -1,0 +1,78 @@
+{
+  "id": 873675033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.862439,42.918223,-70.862439,42.918223",
+    "geom:latitude":42.918223,
+    "geom:longitude":-70.862439,
+    "iso:country":"US",
+    "sg:address":"123 Lafayette Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 1072",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852429,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cs8a1klWFvCeFQNxBvZRZ_42.918223_-70.862439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295869,
+    "wof:geomhash":"ec4e01a2f201e4267818008cb670cf7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852429,
+            "region_id":85688689,
+            "venue_id":873675033
+        }
+    ],
+    "wof:id":873675033,
+    "wof:lastmodified":1464295869,
+    "wof:name":"State Line Landscape PA",
+    "wof:parent_id":85852429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.862439,
+    42.918223,
+    -70.862439,
+    42.918223
+],
+  "geometry": {"coordinates":[-70.86243899999999,42.918223],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873544795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.828681,43.283121,-71.828681,43.283121",
+    "geom:latitude":43.283121,
+    "geom:longitude":-71.828681,
+    "iso:country":"US",
+    "sg:address":"28 Willey Ln",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3431",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07XSApaI7gbp6XX5s2WwQT_43.283121_-71.828681@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294314,
+    "wof:geomhash":"83422c1578414d0e2c6911e63ad8a66b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873544795
+        }
+    ],
+    "wof:id":873544795,
+    "wof:lastmodified":1464294314,
+    "wof:name":"John H Willey",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.828681,
+    43.283121,
+    -71.828681,
+    43.283121
+],
+  "geometry": {"coordinates":[-71.828681,43.283121],"type":"Point"}
+}

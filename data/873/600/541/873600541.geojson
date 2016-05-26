@@ -1,0 +1,69 @@
+{
+  "id": 873600541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485767,42.969368,-71.485767,42.969368",
+    "geom:latitude":42.969368,
+    "geom:longitude":-71.485767,
+    "iso:country":"US",
+    "sg:address":"170 Erie St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 6427",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oK5pTINGyE3WWQSSSz1j6_42.969368_-71.485767@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"da75ec46efd4b05c52f9340c4d46420c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873600541
+        }
+    ],
+    "wof:id":873600541,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Total Mechanized Maintenance",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.485767,
+    42.969368,
+    -71.485767,
+    42.969368
+],
+  "geometry": {"coordinates":[-71.485767,42.969368],"type":"Point"}
+}

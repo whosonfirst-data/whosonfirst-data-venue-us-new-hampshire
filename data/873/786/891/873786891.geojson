@@ -1,0 +1,69 @@
+{
+  "id": 873786891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.976867,43.203803,-70.976867,43.203803",
+    "geom:latitude":43.203803,
+    "geom:longitude":-70.976867,
+    "iso:country":"US",
+    "sg:address":"38 Ham Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 4232",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iPZcth9sgfJ3EIEkXNZHo_43.203803_-70.976867@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297588,
+    "wof:geomhash":"4d6d89cc3103401e3a0a6e282a439c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873786891
+        }
+    ],
+    "wof:id":873786891,
+    "wof:lastmodified":1464297588,
+    "wof:name":"Jerry Burks Auto Service",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -70.976867,
+    43.203803,
+    -70.976867,
+    43.203803
+],
+  "geometry": {"coordinates":[-70.976867,43.203803],"type":"Point"}
+}

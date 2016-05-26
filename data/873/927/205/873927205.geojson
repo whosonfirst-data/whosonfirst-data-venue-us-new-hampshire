@@ -1,0 +1,69 @@
+{
+  "id": 873927205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521138,42.94333,-71.521138,42.94333",
+    "geom:latitude":42.94333,
+    "geom:longitude":-71.521138,
+    "iso:country":"US",
+    "sg:address":"20 N Amherst Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Adult",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 1911",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "entertainment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D9Aq3jyyZo5EKFlLhhjg3_42.943330_-71.521138@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300349,
+    "wof:geomhash":"a47373f9c1f1bf6f655ee156d9da6dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927205
+        }
+    ],
+    "wof:id":873927205,
+    "wof:lastmodified":1464300349,
+    "wof:name":"Adult Video",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "entertainment"
+    ]
+},
+  "bbox": [
+    -71.521138,
+    42.94333,
+    -71.521138,
+    42.94333
+],
+  "geometry": {"coordinates":[-71.52113799999999,42.94333],"type":"Point"}
+}

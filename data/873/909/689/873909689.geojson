@@ -1,0 +1,73 @@
+{
+  "id": 873909689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499447,42.854123,-71.499447,42.854123",
+    "geom:latitude":42.854123,
+    "geom:longitude":-71.499447,
+    "iso:country":"US",
+    "sg:address":"2 Vanden Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 429 4047",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "development",
+        "web",
+        "hosting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V2RP2xQyZOPIQO7CJzwgT_42.854123_-71.499447@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300008,
+    "wof:geomhash":"38707cffaafb9e23e6d29783b0abe709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873909689
+        }
+    ],
+    "wof:id":873909689,
+    "wof:lastmodified":1464300008,
+    "wof:name":"Seeuhome",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "web",
+        "hosting"
+    ]
+},
+  "bbox": [
+    -71.499447,
+    42.854123,
+    -71.499447,
+    42.854123
+],
+  "geometry": {"coordinates":[-71.499447,42.854123],"type":"Point"}
+}

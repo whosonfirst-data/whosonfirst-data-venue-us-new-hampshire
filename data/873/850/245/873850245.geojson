@@ -1,0 +1,71 @@
+{
+  "id": 873850245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.032437,44.144226,-72.032437,44.144226",
+    "geom:latitude":44.144226,
+    "geom:longitude":-72.032437,
+    "iso:country":"US",
+    "sg:address":"50 Smith St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 2592",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NL6l59HW8P0LzYsxL1Pim_44.144226_-72.032437@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298817,
+    "wof:geomhash":"6edd8e61cddb0c57f154a83461dcd55b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873850245
+        }
+    ],
+    "wof:id":873850245,
+    "wof:lastmodified":1464298817,
+    "wof:name":"Woodsville Optical",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -72.032437,
+    44.144226,
+    -72.032437,
+    44.144226
+],
+  "geometry": {"coordinates":[-72.032437,44.144226],"type":"Point"}
+}

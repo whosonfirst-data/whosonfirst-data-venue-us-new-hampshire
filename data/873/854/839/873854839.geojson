@@ -1,0 +1,79 @@
+{
+  "id": 873854839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.769431,43.058307,-70.769431,43.058307",
+    "geom:latitude":43.058307,
+    "geom:longitude":-70.769431,
+    "iso:country":"US",
+    "sg:address":"445 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 1177",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892303,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73WWR9DsZVsWtWSo0FULh3_43.058307_-70.769431@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298911,
+    "wof:geomhash":"8ed211633df43f23f2c84405c22839b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892303,
+            "region_id":85688689,
+            "venue_id":873854839
+        }
+    ],
+    "wof:id":873854839,
+    "wof:lastmodified":1464298911,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85892303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -70.769431,
+    43.058307,
+    -70.769431,
+    43.058307
+],
+  "geometry": {"coordinates":[-70.769431,43.058307],"type":"Point"}
+}

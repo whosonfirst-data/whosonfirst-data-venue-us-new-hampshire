@@ -1,0 +1,71 @@
+{
+  "id": 873870315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667469,44.045264,-71.667469,44.045264",
+    "geom:latitude":44.045264,
+    "geom:longitude":-71.667469,
+    "iso:country":"US",
+    "sg:address":"137 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 8852",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gy43z61hPgJY9YM5FvqKA_44.045264_-71.667469@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299230,
+    "wof:geomhash":"f4c2fe534c901e9a336d56c5a4cf4acd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873870315
+        }
+    ],
+    "wof:id":873870315,
+    "wof:lastmodified":1464299230,
+    "wof:name":"Village Ski & Sport",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -71.667469,
+    44.045264,
+    -71.667469,
+    44.045264
+],
+  "geometry": {"coordinates":[-71.667469,44.045264],"type":"Point"}
+}

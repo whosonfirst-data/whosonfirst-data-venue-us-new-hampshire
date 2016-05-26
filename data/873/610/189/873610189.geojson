@@ -1,0 +1,81 @@
+{
+  "id": 873610189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.974362,43.293324,-70.974362,43.293324",
+    "geom:latitude":43.293324,
+    "geom:longitude":-70.974362,
+    "iso:country":"US",
+    "sg:address":"163 Charles St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 8455",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sdWXbFu7fN7adDVqndlye_43.293324_-70.974362@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295145,
+    "wof:geomhash":"d99bd6bafb6b07d91abefcb7e5573139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873610189
+        }
+    ],
+    "wof:id":873610189,
+    "wof:lastmodified":1464295145,
+    "wof:name":"Kje Automotive Machine",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -70.974362,
+    43.293324,
+    -70.974362,
+    43.293324
+],
+  "geometry": {"coordinates":[-70.974362,43.293324],"type":"Point"}
+}

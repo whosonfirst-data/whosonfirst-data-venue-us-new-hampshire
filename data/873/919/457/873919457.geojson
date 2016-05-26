@@ -1,0 +1,76 @@
+{
+  "id": 873919457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.890605,43.220698,-70.890605,43.220698",
+    "geom:latitude":43.220698,
+    "geom:longitude":-70.890605,
+    "iso:country":"US",
+    "sg:address":"238 Indian Brook Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/dover/68261-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 2200",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69pEhOeNvw4Z1f1qVao1Vp_43.220661_-70.890529@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300202,
+    "wof:geomhash":"bf6a6604b4b9ea1bb32938080e4faaad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873919457
+        }
+    ],
+    "wof:id":873919457,
+    "wof:lastmodified":1464300202,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.890605,
+    43.220698,
+    -70.890605,
+    43.220698
+],
+  "geometry": {"coordinates":[-70.89060499999999,43.220698],"type":"Point"}
+}

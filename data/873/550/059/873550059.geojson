@@ -1,0 +1,73 @@
+{
+  "id": 873550059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.428449,43.25022,-72.428449,43.25022",
+    "geom:latitude":43.25022,
+    "geom:longitude":-72.428449,
+    "iso:country":"US",
+    "sg:address":"223 Old Springfield Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 5987",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45YUSWQ9cAN8DfbxVePRet_43.250220_-72.428449@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294379,
+    "wof:geomhash":"a9f43b2dd0352817c337760f5f7e87f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873550059
+        }
+    ],
+    "wof:id":873550059,
+    "wof:lastmodified":1464294379,
+    "wof:name":"Charlestown Senior Citizens",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -72.428449,
+    43.25022,
+    -72.428449,
+    43.25022
+],
+  "geometry": {"coordinates":[-72.428449,43.25022],"type":"Point"}
+}

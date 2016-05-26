@@ -1,0 +1,71 @@
+{
+  "id": 873832829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.829987,42.987503,-70.829987,42.987503",
+    "geom:latitude":42.987503,
+    "geom:longitude":-70.829987,
+    "iso:country":"US",
+    "sg:address":"10 Juniper Rd",
+    "sg:city":"North Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 9234",
+    "sg:postcode":"03862",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837679,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OIRcTMTBAuxXz8cA2sWp2_42.987503_-70.829987@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298396,
+    "wof:geomhash":"d852c0abcbc88d03b214474ffd809f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837679,
+            "region_id":85688689,
+            "venue_id":873832829
+        }
+    ],
+    "wof:id":873832829,
+    "wof:lastmodified":1464298396,
+    "wof:name":"Gray Construction LLC",
+    "wof:parent_id":85837679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.829987,
+    42.987503,
+    -70.829987,
+    42.987503
+],
+  "geometry": {"coordinates":[-70.829987,42.987503],"type":"Point"}
+}

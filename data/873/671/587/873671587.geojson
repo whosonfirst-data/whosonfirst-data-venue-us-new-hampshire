@@ -1,0 +1,71 @@
+{
+  "id": 873671587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448255,43.56487,-71.448255,43.56487",
+    "geom:latitude":43.56487,
+    "geom:longitude":-71.448255,
+    "iso:country":"US",
+    "sg:address":"76 Lake St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7060",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cpzIdxkCiFOu68DUDYhZW_43.564870_-71.448255@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295817,
+    "wof:geomhash":"847caee4ad73ed78ca75453754273e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873671587
+        }
+    ],
+    "wof:id":873671587,
+    "wof:lastmodified":1464295817,
+    "wof:name":"Blackstone's",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.448255,
+    43.56487,
+    -71.448255,
+    43.56487
+],
+  "geometry": {"coordinates":[-71.448255,43.56487],"type":"Point"}
+}

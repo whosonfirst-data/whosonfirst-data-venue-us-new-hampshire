@@ -1,0 +1,71 @@
+{
+  "id": 873801179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281781,42.800788,-71.281781,42.800788",
+    "geom:latitude":42.800788,
+    "geom:longitude":-71.281781,
+    "iso:country":"US",
+    "sg:address":"7 Cross St",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 0143",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vO9F6iWAmK7mVBespNqrS_42.800788_-71.281781@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297787,
+    "wof:geomhash":"9f26d7a01788fa21ecde366f6182d3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873801179
+        }
+    ],
+    "wof:id":873801179,
+    "wof:lastmodified":1464297787,
+    "wof:name":"Senior Solutions Cmpt Training",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.281781,
+    42.800788,
+    -71.281781,
+    42.800788
+],
+  "geometry": {"coordinates":[-71.281781,42.800788],"type":"Point"}
+}

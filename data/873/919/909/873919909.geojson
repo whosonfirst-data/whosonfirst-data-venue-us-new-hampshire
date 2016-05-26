@@ -1,0 +1,72 @@
+{
+  "id": 873919909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667045,42.735444,-71.667045,42.735444",
+    "geom:latitude":42.735444,
+    "geom:longitude":-71.667045,
+    "iso:country":"US",
+    "sg:address":"16 Meetinghouse Hill Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 5007",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pottery-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.thevoiceofclay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VNsWWEAibolYtQqELjwQq_42.735444_-71.667045@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300210,
+    "wof:geomhash":"6ee8649bf2b2f79b9f3dd6e7374a4175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919909
+        }
+    ],
+    "wof:id":873919909,
+    "wof:lastmodified":1464300210,
+    "wof:name":"The Voice Of Clay",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.667045,
+    42.735444,
+    -71.667045,
+    42.735444
+],
+  "geometry": {"coordinates":[-71.667045,42.735444],"type":"Point"}
+}

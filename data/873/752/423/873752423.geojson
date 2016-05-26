@@ -1,0 +1,71 @@
+{
+  "id": 873752423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.005128,43.046926,-71.005128,43.046926",
+    "geom:latitude":43.046926,
+    "geom:longitude":-71.005128,
+    "iso:country":"US",
+    "sg:address":"27 Sanborn Dr",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 7429",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J1LRftEyljlh2SGKkRnsp_43.046926_-71.005128@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297106,
+    "wof:geomhash":"76af61f37e190e302b4e5f12993bb974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873752423
+        }
+    ],
+    "wof:id":873752423,
+    "wof:lastmodified":1464297106,
+    "wof:name":"Exeter River Electrical Contrs",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.005128,
+    43.046926,
+    -71.005128,
+    43.046926
+],
+  "geometry": {"coordinates":[-71.005128,43.046926],"type":"Point"}
+}

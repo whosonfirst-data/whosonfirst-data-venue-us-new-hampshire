@@ -1,0 +1,71 @@
+{
+  "id": 873769207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.194486,44.42056,-71.194486,44.42056",
+    "geom:latitude":44.42056,
+    "geom:longitude":-71.194486,
+    "iso:country":"US",
+    "sg:address":"435 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2267",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fDdUkOKm87RxRzGdtV4nA_44.420560_-71.194486@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297352,
+    "wof:geomhash":"c6a35ed725233b67d3ca92f7b64bcacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873769207
+        }
+    ],
+    "wof:id":873769207,
+    "wof:lastmodified":1464297352,
+    "wof:name":"Pat's Auto Sales",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.194486,
+    44.42056,
+    -71.194486,
+    44.42056
+],
+  "geometry": {"coordinates":[-71.194486,44.42056],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873815831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.171566,43.619171,-71.171566,43.619171",
+    "geom:latitude":43.619171,
+    "geom:longitude":-71.171566,
+    "iso:country":"US",
+    "sg:address":"635 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 1068",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.millerauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qUqyfP5jQaoxIY6VHvxCf_43.619171_-71.171566@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298030,
+    "wof:geomhash":"196c1aa04bc53d6b432f8100ab604b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873815831
+        }
+    ],
+    "wof:id":873815831,
+    "wof:lastmodified":1464298030,
+    "wof:name":"Miller-Chrysler-Dodge-Jeep",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.171566,
+    43.619171,
+    -71.171566,
+    43.619171
+],
+  "geometry": {"coordinates":[-71.171566,43.619171],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873664357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503889,43.625294,-71.503889,43.625294",
+    "geom:latitude":43.625294,
+    "geom:longitude":-71.503889,
+    "iso:country":"US",
+    "sg:address":"142 Parade Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6943",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xXW3P7BvhlPsPpBs4mo5l_43.625294_-71.503889@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295743,
+    "wof:geomhash":"913f50fd6cfaa29e675641fc463620ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873664357
+        }
+    ],
+    "wof:id":873664357,
+    "wof:lastmodified":1464295743,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.503889,
+    43.625294,
+    -71.503889,
+    43.625294
+],
+  "geometry": {"coordinates":[-71.503889,43.625294],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873880801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.598773,43.281709,-71.598773,43.281709",
+    "geom:latitude":43.281709,
+    "geom:longitude":-71.598773,
+    "iso:country":"US",
+    "sg:address":"14 Merrimack St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4002",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vB66b60tgKRJcLIg2WQL4_43.281709_-71.598773@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299448,
+    "wof:geomhash":"3237b369c447dc28f377d081ad5efff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873880801
+        }
+    ],
+    "wof:id":873880801,
+    "wof:lastmodified":1464299448,
+    "wof:name":"Robert A Bernier",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -71.598773,
+    43.281709,
+    -71.598773,
+    43.281709
+],
+  "geometry": {"coordinates":[-71.59877299999999,43.281709],"type":"Point"}
+}

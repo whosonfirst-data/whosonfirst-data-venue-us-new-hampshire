@@ -1,0 +1,71 @@
+{
+  "id": 873843529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.680235,43.744728,-71.680235,43.744728",
+    "geom:latitude":43.744728,
+    "geom:longitude":-71.680235,
+    "iso:country":"US",
+    "sg:address":"300 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1080",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ulcxgfI0uWJ59MgKXSGfN_43.744728_-71.680235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298643,
+    "wof:geomhash":"3fdd16537a4867abba9b3199a7103c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873843529
+        }
+    ],
+    "wof:id":873843529,
+    "wof:lastmodified":1464298643,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.680235,
+    43.744728,
+    -71.680235,
+    43.744728
+],
+  "geometry": {"coordinates":[-71.680235,43.744728],"type":"Point"}
+}

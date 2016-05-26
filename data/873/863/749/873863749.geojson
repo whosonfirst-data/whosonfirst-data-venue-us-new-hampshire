@@ -1,0 +1,71 @@
+{
+  "id": 873863749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457604,43.286945,-71.457604,43.286945",
+    "geom:latitude":43.286945,
+    "geom:longitude":-71.457604,
+    "iso:country":"US",
+    "sg:address":"35 Plateau Ridge Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 3411",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gC8INC8DI3zEqfOWj8lBF_43.286945_-71.457604@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299110,
+    "wof:geomhash":"e7e0236dd0b0dba6093263411fee98c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873863749
+        }
+    ],
+    "wof:id":873863749,
+    "wof:lastmodified":1464299110,
+    "wof:name":"Carbone Plumbing & Heating",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.457604,
+    43.286945,
+    -71.457604,
+    43.286945
+],
+  "geometry": {"coordinates":[-71.457604,43.286945],"type":"Point"}
+}

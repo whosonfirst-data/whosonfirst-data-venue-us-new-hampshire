@@ -1,0 +1,77 @@
+{
+  "id": 873636535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543739,43.203775,-71.543739,43.203775",
+    "geom:latitude":43.203775,
+    "geom:longitude":-71.543739,
+    "iso:country":"US",
+    "sg:address":"28 Merrimack St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 0055",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdamjCEavfhTkgFYN8NO1_43.203775_-71.543739@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295437,
+    "wof:geomhash":"a54bde1c1e0db008f6f1cd9e409b60b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873636535
+        }
+    ],
+    "wof:id":873636535,
+    "wof:lastmodified":1464295437,
+    "wof:name":"Home Source",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.543739,
+    43.203775,
+    -71.543739,
+    43.203775
+],
+  "geometry": {"coordinates":[-71.543739,43.203775],"type":"Point"}
+}

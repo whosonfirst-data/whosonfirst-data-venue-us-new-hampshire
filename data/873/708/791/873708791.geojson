@@ -1,0 +1,84 @@
+{
+  "id": 873708791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.94386,42.981307,-70.94386,42.981307",
+    "geom:latitude":42.981307,
+    "geom:longitude":-70.94386,
+    "iso:country":"US",
+    "sg:address":"15 Hall Pl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 3905",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "produce",
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NIxM2W5TEh6uCH46xVfnQ_42.981307_-70.943860@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296505,
+    "wof:geomhash":"69163b84abefa4919909c3d264ff3d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873708791
+        }
+    ],
+    "wof:id":873708791,
+    "wof:lastmodified":1464296505,
+    "wof:name":"Shaw's Hill Farm",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.94386,
+    42.981307,
+    -70.94386,
+    42.981307
+],
+  "geometry": {"coordinates":[-70.94386,42.981307],"type":"Point"}
+}

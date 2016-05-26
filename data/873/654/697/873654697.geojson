@@ -1,0 +1,64 @@
+{
+  "id": 873654697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183386,44.467911,-71.183386,44.467911",
+    "geom:latitude":44.467911,
+    "geom:longitude":-71.183386,
+    "iso:country":"US",
+    "sg:address":"25 Green Sq",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5554",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OmkvscaABQYgmRHmeymVa_44.467911_-71.183386@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"fdc7c16256f0a4199884eb84cad83f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873654697
+        }
+    ],
+    "wof:id":873654697,
+    "wof:lastmodified":1464295642,
+    "wof:name":"Royal Cinema",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.183386,
+    44.467911,
+    -71.183386,
+    44.467911
+],
+  "geometry": {"coordinates":[-71.183386,44.467911],"type":"Point"}
+}

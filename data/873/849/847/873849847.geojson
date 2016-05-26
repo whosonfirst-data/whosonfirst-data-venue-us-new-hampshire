@@ -1,0 +1,71 @@
+{
+  "id": 873849847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.994429,43.314568,-70.994429,43.314568",
+    "geom:latitude":43.314568,
+    "geom:longitude":-70.994429,
+    "iso:country":"US",
+    "sg:address":"400 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 2999",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:website":"www.foxridgeoutfitters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75D5wQBe7nDO1uCK2nfAZC_43.314568_-70.994429@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298808,
+    "wof:geomhash":"2b133d045519abb2a27fde30e604b3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873849847
+        }
+    ],
+    "wof:id":873849847,
+    "wof:lastmodified":1464298808,
+    "wof:name":"Fox Ridge Outfitters",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.994429,
+    43.314568,
+    -70.994429,
+    43.314568
+],
+  "geometry": {"coordinates":[-70.994429,43.314568],"type":"Point"}
+}

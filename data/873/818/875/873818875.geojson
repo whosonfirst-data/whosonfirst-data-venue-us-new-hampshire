@@ -1,0 +1,71 @@
+{
+  "id": 873818875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46507,43.531366,-71.46507,43.531366",
+    "geom:latitude":43.531366,
+    "geom:longitude":-71.46507,
+    "iso:country":"US",
+    "sg:address":"139 Church St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1477",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_164ZFSEDkxyRSaSbzuhNiG_43.531366_-71.465070@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298097,
+    "wof:geomhash":"c5200146d239d58556ad5c5c63997381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873818875
+        }
+    ],
+    "wof:id":873818875,
+    "wof:lastmodified":1464298097,
+    "wof:name":"Simoneau & Lambert Funeral Hm",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.46507,
+    43.531366,
+    -71.46507,
+    43.531366
+],
+  "geometry": {"coordinates":[-71.46507,43.531366],"type":"Point"}
+}

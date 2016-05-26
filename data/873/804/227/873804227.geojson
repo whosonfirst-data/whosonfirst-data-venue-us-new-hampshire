@@ -1,0 +1,71 @@
+{
+  "id": 873804227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.168143,42.849419,-71.168143,42.849419",
+    "geom:latitude":42.849419,
+    "geom:longitude":-71.168143,
+    "iso:country":"US",
+    "sg:address":"170 Main St",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5552",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ivsaqDl2L8G0BsHho4Joq_42.849419_-71.168143@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297825,
+    "wof:geomhash":"c995bb82e50dbcb769791c68c54df572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873804227
+        }
+    ],
+    "wof:id":873804227,
+    "wof:lastmodified":1464297825,
+    "wof:name":"Kinney's Garage",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.168143,
+    42.849419,
+    -71.168143,
+    42.849419
+],
+  "geometry": {"coordinates":[-71.168143,42.849419],"type":"Point"}
+}

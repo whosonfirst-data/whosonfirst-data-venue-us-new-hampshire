@@ -1,0 +1,71 @@
+{
+  "id": 873808331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.128131,43.084216,-71.128131,43.084216",
+    "geom:latitude":43.084216,
+    "geom:longitude":-71.128131,
+    "iso:country":"US",
+    "sg:address":"61 White Grove Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 3857",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rL4UJ598UNJMsuV68ENQU_43.084216_-71.128131@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297897,
+    "wof:geomhash":"cb89c6725ce096da2e26ac8c498ebe7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873808331
+        }
+    ],
+    "wof:id":873808331,
+    "wof:lastmodified":1464297897,
+    "wof:name":"White Electricians",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.128131,
+    43.084216,
+    -71.128131,
+    43.084216
+],
+  "geometry": {"coordinates":[-71.128131,43.084216],"type":"Point"}
+}

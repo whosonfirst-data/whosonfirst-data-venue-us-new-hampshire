@@ -1,0 +1,77 @@
+{
+  "id": 873875303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.372259,43.381314,-72.372259,43.381314",
+    "geom:latitude":43.381314,
+    "geom:longitude":-72.372259,
+    "iso:country":"US",
+    "sg:address":"20 Cross St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 0374",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855301,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m8judj8LuEQOMd7QrWu6u_43.381314_-72.372259@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299341,
+    "wof:geomhash":"b68e5cfc952f8a99126ef7989c0de76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":85855301,
+            "region_id":85688689,
+            "venue_id":873875303
+        }
+    ],
+    "wof:id":873875303,
+    "wof:lastmodified":1464299341,
+    "wof:name":"Gray's Sheet Metal",
+    "wof:parent_id":85855301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -72.372259,
+    43.381314,
+    -72.372259,
+    43.381314
+],
+  "geometry": {"coordinates":[-72.372259,43.381314],"type":"Point"}
+}

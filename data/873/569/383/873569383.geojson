@@ -1,0 +1,71 @@
+{
+  "id": 873569383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464817,43.552428,-71.464817,43.552428",
+    "geom:latitude":43.552428,
+    "geom:longitude":-71.464817,
+    "iso:country":"US",
+    "sg:address":"35 North St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1944",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oq0fUqqMe6kwm5RVIwwRH_43.552428_-71.464817@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294599,
+    "wof:geomhash":"9aac7d245b2e2f32de13c948a67bef3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873569383
+        }
+    ],
+    "wof:id":873569383,
+    "wof:lastmodified":1464294599,
+    "wof:name":"W F Mudge Co",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.464817,
+    43.552428,
+    -71.464817,
+    43.552428
+],
+  "geometry": {"coordinates":[-71.464817,43.552428],"type":"Point"}
+}

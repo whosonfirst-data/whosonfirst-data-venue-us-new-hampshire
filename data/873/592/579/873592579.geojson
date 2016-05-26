@@ -1,0 +1,81 @@
+{
+  "id": 873592579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440371,42.783514,-71.440371,42.783514",
+    "geom:latitude":42.783514,
+    "geom:longitude":-71.440371,
+    "iso:country":"US",
+    "sg:address":"2 Wagner Way",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 7496",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06LV7uM2PNjMN1SchiB05Y_42.783514_-71.440371@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294864,
+    "wof:geomhash":"a3146093f72a2d79ea60acd9374d6480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873592579
+        }
+    ],
+    "wof:id":873592579,
+    "wof:lastmodified":1464294864,
+    "wof:name":"Drain Masters",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -71.440371,
+    42.783514,
+    -71.440371,
+    42.783514
+],
+  "geometry": {"coordinates":[-71.440371,42.783514],"type":"Point"}
+}

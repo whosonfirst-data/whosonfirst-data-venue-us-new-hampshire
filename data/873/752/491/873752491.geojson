@@ -1,0 +1,77 @@
+{
+  "id": 873752491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.090366,43.045671,-71.090366,43.045671",
+    "geom:latitude":43.045671,
+    "geom:longitude":-71.090366,
+    "iso:country":"US",
+    "sg:address":"119 Prescott Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5743",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "feedlot",
+        "cattle",
+        "crop",
+        "beef",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJyJPqiZnz0uIVFes5KWk_43.045671_-71.090366@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297106,
+    "wof:geomhash":"51e79d3b6a3358d032ae0a4d230ed1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873752491
+        }
+    ],
+    "wof:id":873752491,
+    "wof:lastmodified":1464297106,
+    "wof:name":"White Gate Farm",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feedlot",
+        "cattle",
+        "crop",
+        "beef",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.090366,
+    43.045671,
+    -71.090366,
+    43.045671
+],
+  "geometry": {"coordinates":[-71.090366,43.045671],"type":"Point"}
+}

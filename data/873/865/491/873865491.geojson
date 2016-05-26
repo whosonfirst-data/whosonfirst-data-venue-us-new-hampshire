@@ -1,0 +1,71 @@
+{
+  "id": 873865491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185537,44.464499,-71.185537,44.464499",
+    "geom:latitude":44.464499,
+    "geom:longitude":-71.185537,
+    "iso:country":"US",
+    "sg:address":"123 Glen Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4405",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Yw0bKMHgc9wn5y1TT0nb_44.464499_-71.185537@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299147,
+    "wof:geomhash":"72c7436f00d9dd76b942582447cc98ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873865491
+        }
+    ],
+    "wof:id":873865491,
+    "wof:lastmodified":1464299147,
+    "wof:name":"Kelley's Auto Parts Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.185537,
+    44.464499,
+    -71.185537,
+    44.464499
+],
+  "geometry": {"coordinates":[-71.185537,44.464499],"type":"Point"}
+}

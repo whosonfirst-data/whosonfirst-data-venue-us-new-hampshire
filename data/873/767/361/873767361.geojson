@@ -1,0 +1,73 @@
+{
+  "id": 873767361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.129598,43.97489,-71.129598,43.97489",
+    "geom:latitude":43.97489,
+    "geom:longitude":-71.129598,
+    "iso:country":"US",
+    "sg:address":"73 Hobbs St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 3841",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "health",
+        "human",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cmPB7V5GG1yzovNVjG4yH_43.974890_-71.129598@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297329,
+    "wof:geomhash":"1c100c40d356af768cf05c2c062c59c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873767361
+        }
+    ],
+    "wof:id":873767361,
+    "wof:lastmodified":1464297329,
+    "wof:name":"HHS / Welfare",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "human",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.129598,
+    43.97489,
+    -71.129598,
+    43.97489
+],
+  "geometry": {"coordinates":[-71.129598,43.97489],"type":"Point"}
+}

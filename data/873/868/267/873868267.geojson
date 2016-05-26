@@ -1,0 +1,71 @@
+{
+  "id": 873868267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.586249,42.87236,-71.586249,42.87236",
+    "geom:latitude":42.87236,
+    "geom:longitude":-71.586249,
+    "iso:country":"US",
+    "sg:address":"66 Baboosic Lake Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 5811",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wX0YqtHAJT1yC0hYIlFtM_42.872360_-71.586249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299195,
+    "wof:geomhash":"e9b6925e2b21ea85c0ebc4a814863dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873868267
+        }
+    ],
+    "wof:id":873868267,
+    "wof:lastmodified":1464299195,
+    "wof:name":"Ultimate Foods Inc",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.586249,
+    42.87236,
+    -71.586249,
+    42.87236
+],
+  "geometry": {"coordinates":[-71.586249,42.87236],"type":"Point"}
+}

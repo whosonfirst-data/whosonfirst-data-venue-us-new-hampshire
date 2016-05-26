@@ -1,0 +1,71 @@
+{
+  "id": 873890513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.288121,42.88722,-72.288121,42.88722",
+    "geom:latitude":42.88722,
+    "geom:longitude":-72.288121,
+    "iso:country":"US",
+    "sg:address":"231 Sawyers Crossing Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 6661",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70ITAGisD2x1K1n7uEJTK8_42.887220_-72.288121@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299640,
+    "wof:geomhash":"9d5cc8261825b5b640519abd6fd2e447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873890513
+        }
+    ],
+    "wof:id":873890513,
+    "wof:lastmodified":1464299640,
+    "wof:name":"Woody's Auto Sales",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.288121,
+    42.88722,
+    -72.288121,
+    42.88722
+],
+  "geometry": {"coordinates":[-72.288121,42.88722],"type":"Point"}
+}

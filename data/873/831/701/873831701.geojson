@@ -1,0 +1,71 @@
+{
+  "id": 873831701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.150021,44.046584,-71.150021,44.046584",
+    "geom:latitude":44.046584,
+    "geom:longitude":-71.150021,
+    "iso:country":"US",
+    "sg:address":"2659 W Side Rd",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 4848",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZFV0FoxxSZdQXSjucrGOe_44.046584_-71.150021@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298368,
+    "wof:geomhash":"8d859c6781b497cefc52d0dea65a63ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873831701
+        }
+    ],
+    "wof:id":873831701,
+    "wof:lastmodified":1464298368,
+    "wof:name":"D W Electrical Contractors Inc",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.150021,
+    44.046584,
+    -71.150021,
+    44.046584
+],
+  "geometry": {"coordinates":[-71.150021,44.046584],"type":"Point"}
+}

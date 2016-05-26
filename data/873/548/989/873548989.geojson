@@ -1,0 +1,73 @@
+{
+  "id": 873548989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438036,43.245106,-71.438036,43.245106",
+    "geom:latitude":43.245106,
+    "geom:longitude":-71.438036,
+    "iso:country":"US",
+    "sg:address":"340 Dover Rd",
+    "sg:city":"Chichester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 4232",
+    "sg:postcode":"03258",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lII6if4CPQmACC91trQ2v_43.245106_-71.438036@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294367,
+    "wof:geomhash":"03d0cb885c4b0bc80ef40748ea618734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873548989
+        }
+    ],
+    "wof:id":873548989,
+    "wof:lastmodified":1464294367,
+    "wof:name":"Dickinson Cycle",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.438036,
+    43.245106,
+    -71.438036,
+    43.245106
+],
+  "geometry": {"coordinates":[-71.438036,43.245106],"type":"Point"}
+}

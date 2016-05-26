@@ -1,0 +1,71 @@
+{
+  "id": 873550973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118492,43.978588,-71.118492,43.978588",
+    "geom:latitude":43.978588,
+    "geom:longitude":-71.118492,
+    "iso:country":"US",
+    "sg:address":"30 Pleasant St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 5020",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i6SmEJ8XNSapaEBrEudH7_43.978588_-71.118492@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294388,
+    "wof:geomhash":"2a1b5de1dde29ad94101a79db6021720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873550973
+        }
+    ],
+    "wof:id":873550973,
+    "wof:lastmodified":1464294388,
+    "wof:name":"Pleasant Street Massage Thrpy",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -71.118492,
+    43.978588,
+    -71.118492,
+    43.978588
+],
+  "geometry": {"coordinates":[-71.118492,43.978588],"type":"Point"}
+}

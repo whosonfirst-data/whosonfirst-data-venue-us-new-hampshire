@@ -1,0 +1,71 @@
+{
+  "id": 873831225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314746,42.801474,-71.314746,42.801474",
+    "geom:latitude":42.801474,
+    "geom:longitude":-71.314746,
+    "iso:country":"US",
+    "sg:address":"7 Ledge Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 2474",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ventilating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wxEo9r0X8tIuZWTUgWNcc_42.801474_-71.314746@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298354,
+    "wof:geomhash":"81a729eb01bd8feff787100a8ad4949c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873831225
+        }
+    ],
+    "wof:id":873831225,
+    "wof:lastmodified":1464298354,
+    "wof:name":"Edington Glover Mechanical Inc",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.314746,
+    42.801474,
+    -71.314746,
+    42.801474
+],
+  "geometry": {"coordinates":[-71.314746,42.801474],"type":"Point"}
+}

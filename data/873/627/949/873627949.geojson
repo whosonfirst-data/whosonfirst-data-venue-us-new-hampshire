@@ -1,0 +1,69 @@
+{
+  "id": 873627949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.93215,43.042158,-70.93215,43.042158",
+    "geom:latitude":43.042158,
+    "geom:longitude":-70.93215,
+    "iso:country":"US",
+    "sg:address":"8 Main St",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 7687",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tI1NJlH2vx7EzTYTMltjd_43.042158_-70.932150@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295340,
+    "wof:geomhash":"ba360b7fbd4911c6b079b4a93eb577e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873627949
+        }
+    ],
+    "wof:id":873627949,
+    "wof:lastmodified":1464295340,
+    "wof:name":"Stratham-Newfields Veterinary",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -70.93215,
+    43.042158,
+    -70.93215,
+    43.042158
+],
+  "geometry": {"coordinates":[-70.93214999999999,43.042158],"type":"Point"}
+}

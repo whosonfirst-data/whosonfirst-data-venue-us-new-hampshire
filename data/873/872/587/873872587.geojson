@@ -1,0 +1,74 @@
+{
+  "id": 873872587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.780336,44.308184,-71.780336,44.308184",
+    "geom:latitude":44.308184,
+    "geom:longitude":-71.780336,
+    "iso:country":"US",
+    "sg:address":"281 Main St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 5912",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ozNH2NSe2Gc5e0yjVsASS_44.308184_-71.780336@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299289,
+    "wof:geomhash":"736e9befa555cbcb0ad8b69cdd99ca8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873872587
+        }
+    ],
+    "wof:id":873872587,
+    "wof:lastmodified":1464299289,
+    "wof:name":"Littleton Office Supply Inc",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.780336,
+    44.308184,
+    -71.780336,
+    44.308184
+],
+  "geometry": {"coordinates":[-71.78033600000001,44.308184],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873710603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.313296,43.03373,-71.313296,43.03373",
+    "geom:latitude":43.03373,
+    "geom:longitude":-71.313296,
+    "iso:country":"US",
+    "sg:address":"195 Brown Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8186",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IBfmM7W7ToC8tn3v8bFeg_43.033730_-71.313296@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296528,
+    "wof:geomhash":"c5d1012352d23462f5c22efb3c343878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873710603
+        }
+    ],
+    "wof:id":873710603,
+    "wof:lastmodified":1464296528,
+    "wof:name":"Taurus Construction",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.313296,
+    43.03373,
+    -71.313296,
+    43.03373
+],
+  "geometry": {"coordinates":[-71.31329599999999,43.03373],"type":"Point"}
+}

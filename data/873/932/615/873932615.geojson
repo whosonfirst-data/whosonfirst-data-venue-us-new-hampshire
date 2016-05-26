@@ -1,0 +1,89 @@
+{
+  "id": 873932615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.935891,43.050621,-70.935891,43.050621",
+    "geom:latitude":43.050621,
+    "geom:longitude":-70.935891,
+    "iso:country":"US",
+    "sg:address":"22 Ash Swamp Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Exhibition Hall",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 4410",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ballroom",
+        "facility",
+        "banquet",
+        "reception",
+        "halls",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RKmHfCNg5r0oob2bzSnQl_43.050621_-70.935891@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300458,
+    "wof:geomhash":"6de07e48732406b7f09163289acd2775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873932615
+        }
+    ],
+    "wof:id":873932615,
+    "wof:lastmodified":1464300458,
+    "wof:name":"Rockingham Ballroom",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ballroom",
+        "facility",
+        "banquet",
+        "reception",
+        "halls",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -70.935891,
+    43.050621,
+    -70.935891,
+    43.050621
+],
+  "geometry": {"coordinates":[-70.935891,43.050621],"type":"Point"}
+}

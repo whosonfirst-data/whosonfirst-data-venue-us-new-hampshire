@@ -1,0 +1,77 @@
+{
+  "id": 873789441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.983518,43.305429,-70.983518,43.305429",
+    "geom:latitude":43.305429,
+    "geom:longitude":-70.983518,
+    "iso:country":"US",
+    "sg:address":"153 N Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 5004",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BarXuK0DiJR1rQm0sHKO3_43.305429_-70.983518@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297634,
+    "wof:geomhash":"3f2f10723869ef5fbe2a5f691c34dfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873789441
+        }
+    ],
+    "wof:id":873789441,
+    "wof:lastmodified":1464297634,
+    "wof:name":"Rochester Tire & Auto Ctr",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.983518,
+    43.305429,
+    -70.983518,
+    43.305429
+],
+  "geometry": {"coordinates":[-70.983518,43.305429],"type":"Point"}
+}

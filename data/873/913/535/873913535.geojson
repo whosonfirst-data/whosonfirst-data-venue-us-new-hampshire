@@ -1,0 +1,71 @@
+{
+  "id": 873913535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486177,43.176526,-71.486177,43.176526",
+    "geom:latitude":43.176526,
+    "geom:longitude":-71.486177,
+    "iso:country":"US",
+    "sg:address":"550 Pembroke St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 6710",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TBolXfh0jYcPoiX26QCNf_43.176526_-71.486177@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300079,
+    "wof:geomhash":"f834bf6a32f55a43ff741ef2cc3574a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873913535
+        }
+    ],
+    "wof:id":873913535,
+    "wof:lastmodified":1464300079,
+    "wof:name":"Vista Foods Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -71.486177,
+    43.176526,
+    -71.486177,
+    43.176526
+],
+  "geometry": {"coordinates":[-71.486177,43.176526],"type":"Point"}
+}

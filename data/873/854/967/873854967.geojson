@@ -1,0 +1,73 @@
+{
+  "id": 873854967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.299156,42.904824,-72.299156,42.904824",
+    "geom:latitude":42.904824,
+    "geom:longitude":-72.299156,
+    "iso:country":"US",
+    "sg:address":"92 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 6598",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oawFffLSHDazG4RnlU4Je_42.904824_-72.299156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298913,
+    "wof:geomhash":"1eb12601154662457da8b3318e459efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873854967
+        }
+    ],
+    "wof:id":873854967,
+    "wof:lastmodified":1464298913,
+    "wof:name":"EC Floor Sanding",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.299156,
+    42.904824,
+    -72.299156,
+    42.904824
+],
+  "geometry": {"coordinates":[-72.299156,42.904824],"type":"Point"}
+}

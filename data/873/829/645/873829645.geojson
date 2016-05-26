@@ -1,0 +1,71 @@
+{
+  "id": 873829645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.58008,42.819314,-71.58008,42.819314",
+    "geom:latitude":42.819314,
+    "geom:longitude":-71.58008,
+    "iso:country":"US",
+    "sg:address":"446 Boston Post Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 0551",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lQcFyI9YFGAtxdJFHCLkk_42.819314_-71.580080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298325,
+    "wof:geomhash":"a555529be02c01cead7f23cba3578d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873829645
+        }
+    ],
+    "wof:id":873829645,
+    "wof:lastmodified":1464298325,
+    "wof:name":"New England Loan Reduction",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.58008,
+    42.819314,
+    -71.58008,
+    42.819314
+],
+  "geometry": {"coordinates":[-71.58008,42.819314],"type":"Point"}
+}

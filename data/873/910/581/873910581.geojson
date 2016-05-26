@@ -1,0 +1,73 @@
+{
+  "id": 873910581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.820013,43.20859,-71.820013,43.20859",
+    "geom:latitude":43.20859,
+    "geom:longitude":-71.820013,
+    "iso:country":"US",
+    "sg:address":"9 Rush Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 8386",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6INCwhHrMoXr6wyz5pH5tX_43.208590_-71.820013@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300024,
+    "wof:geomhash":"2496f8034ae02c198fa7c08bb5f31b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873910581
+        }
+    ],
+    "wof:id":873910581,
+    "wof:lastmodified":1464300024,
+    "wof:name":"Henniker Physical Therapy",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.820013,
+    43.20859,
+    -71.820013,
+    43.20859
+],
+  "geometry": {"coordinates":[-71.820013,43.20859],"type":"Point"}
+}

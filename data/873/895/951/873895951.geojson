@@ -1,0 +1,71 @@
+{
+  "id": 873895951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472855,43.532033,-71.472855,43.532033",
+    "geom:latitude":43.532033,
+    "geom:longitude":-71.472855,
+    "iso:country":"US",
+    "sg:address":"783 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7404",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OQq4dhfycIuK0fSSLrjEs_43.532033_-71.472855@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299740,
+    "wof:geomhash":"e923339faaf07d688db23d415a30459a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873895951
+        }
+    ],
+    "wof:id":873895951,
+    "wof:lastmodified":1464299740,
+    "wof:name":"Roy A Carsen DDS Msd",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.472855,
+    43.532033,
+    -71.472855,
+    43.532033
+],
+  "geometry": {"coordinates":[-71.472855,43.532033],"type":"Point"}
+}

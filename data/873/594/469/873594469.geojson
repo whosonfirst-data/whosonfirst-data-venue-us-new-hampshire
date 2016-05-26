@@ -1,0 +1,71 @@
+{
+  "id": 873594469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454447,43.531478,-71.454447,43.531478",
+    "geom:latitude":43.531478,
+    "geom:longitude":-71.454447,
+    "iso:country":"US",
+    "sg:address":"15 Brook St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 9430",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MgIHlqNiwSNos99z76u7w_43.531478_-71.454447@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294893,
+    "wof:geomhash":"ae9e1f55a1bb3cbd4d30eac6dff1c2f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873594469
+        }
+    ],
+    "wof:id":873594469,
+    "wof:lastmodified":1464294893,
+    "wof:name":"Rooftop Construction",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.454447,
+    43.531478,
+    -71.454447,
+    43.531478
+],
+  "geometry": {"coordinates":[-71.454447,43.531478],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873559761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475926,42.974111,-71.475926,42.974111",
+    "geom:latitude":42.974111,
+    "geom:longitude":-71.475926,
+    "iso:country":"US",
+    "sg:address":"591 2nd St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 8893",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wheel",
+        "automotive",
+        "alignment",
+        "axle",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uyrot274N8yKkdL51cgN9_42.974111_-71.475926@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294497,
+    "wof:geomhash":"3a727d0d5df30a6799f07379e3ab0b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873559761
+        }
+    ],
+    "wof:id":873559761,
+    "wof:lastmodified":1464294497,
+    "wof:name":"John's Garage",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "automotive",
+        "alignment",
+        "axle",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.475926,
+    42.974111,
+    -71.475926,
+    42.974111
+],
+  "geometry": {"coordinates":[-71.475926,42.974111],"type":"Point"}
+}

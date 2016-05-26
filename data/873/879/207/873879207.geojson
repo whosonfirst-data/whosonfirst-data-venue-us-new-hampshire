@@ -1,0 +1,71 @@
+{
+  "id": 873879207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.335063,43.579405,-72.335063,43.579405",
+    "geom:latitude":43.579405,
+    "geom:longitude":-72.335063,
+    "iso:country":"US",
+    "sg:address":"295 Old County Rd",
+    "sg:city":"Haverhill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 989 5170",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y15syKsoLKYoBH1mgvuj7_43.579405_-72.335063@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299418,
+    "wof:geomhash":"b86f47582d28a31f39262f3a6ec2a39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873879207
+        }
+    ],
+    "wof:id":873879207,
+    "wof:lastmodified":1464299418,
+    "wof:name":"Haverhill Home Improvement",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -72.335063,
+    43.579405,
+    -72.335063,
+    43.579405
+],
+  "geometry": {"coordinates":[-72.33506300000001,43.579405],"type":"Point"}
+}

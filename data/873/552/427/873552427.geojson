@@ -1,0 +1,69 @@
+{
+  "id": 873552427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.923282,42.998308,-70.923282,42.998308",
+    "geom:latitude":42.998308,
+    "geom:longitude":-70.923282,
+    "iso:country":"US",
+    "sg:address":"23 State Rte 108",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 7446",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04ZKf5PkcL7RambOKwS6SR_42.998308_-70.923282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294406,
+    "wof:geomhash":"1cf0728adad6f1b1eeadb39a85a75154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873552427
+        }
+    ],
+    "wof:id":873552427,
+    "wof:lastmodified":1464294406,
+    "wof:name":"Seacoast Taxidermy",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -70.923282,
+    42.998308,
+    -70.923282,
+    42.998308
+],
+  "geometry": {"coordinates":[-70.923282,42.998308],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873891551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508612,42.995066,-71.508612,42.995066",
+    "geom:latitude":42.995066,
+    "geom:longitude":-71.508612,
+    "iso:country":"US",
+    "sg:address":"626 S Mast Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 8268",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MhfAcIbkmnimkXYxiuGHR_42.995066_-71.508612@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299657,
+    "wof:geomhash":"b327b86b6afad50f12953a415fba0013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873891551
+        }
+    ],
+    "wof:id":873891551,
+    "wof:lastmodified":1464299657,
+    "wof:name":"Chico's Driving Ctr LLC",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -71.508612,
+    42.995066,
+    -71.508612,
+    42.995066
+],
+  "geometry": {"coordinates":[-71.508612,42.995066],"type":"Point"}
+}

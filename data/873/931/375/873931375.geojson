@@ -1,0 +1,90 @@
+{
+  "id": 873931375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.873268,43.192631,-70.873268,43.192631",
+    "geom:latitude":43.192631,
+    "geom:longitude":-70.873268,
+    "iso:country":"US",
+    "sg:address":"250 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 8411",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892231,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WvFz67UbwXsLk2uOeRVnL_43.192631_-70.873268@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300436,
+    "wof:geomhash":"88cbfa8ab2ff1d03b886f1a594ffdf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892231,
+            "region_id":85688689,
+            "venue_id":873931375
+        }
+    ],
+    "wof:id":873931375,
+    "wof:lastmodified":1464300436,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85892231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.873268,
+    43.192631,
+    -70.873268,
+    43.192631
+],
+  "geometry": {"coordinates":[-70.873268,43.192631],"type":"Point"}
+}

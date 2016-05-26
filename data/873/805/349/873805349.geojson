@@ -1,0 +1,71 @@
+{
+  "id": 873805349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.252076,42.898963,-72.252076,42.898963",
+    "geom:latitude":42.898963,
+    "geom:longitude":-72.252076,
+    "iso:country":"US",
+    "sg:address":"148 Monadnock Hwy",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 0519",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xtCfZyAnKaCe5hUq0IHmC_42.898963_-72.252076@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297839,
+    "wof:geomhash":"79c6e9855a50136c6c7096f6bd49ada0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873805349
+        }
+    ],
+    "wof:id":873805349,
+    "wof:lastmodified":1464297839,
+    "wof:name":"Sheldons Clocks",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -72.252076,
+    42.898963,
+    -72.252076,
+    42.898963
+],
+  "geometry": {"coordinates":[-72.252076,42.898963],"type":"Point"}
+}

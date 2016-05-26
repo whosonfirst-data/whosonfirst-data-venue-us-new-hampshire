@@ -1,0 +1,71 @@
+{
+  "id": 873743709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.165317,44.494164,-71.165317,44.494164",
+    "geom:latitude":44.494164,
+    "geom:longitude":-71.165317,
+    "iso:country":"US",
+    "sg:address":"29 Providence Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1820",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I7hVVXbu9yW5Ip8OrFjv1_44.494164_-71.165317@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296985,
+    "wof:geomhash":"0c2b1bca92d27fd4d11759870d70635c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873743709
+        }
+    ],
+    "wof:id":873743709,
+    "wof:lastmodified":1464296985,
+    "wof:name":"St Vincent De Paul",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.165317,
+    44.494164,
+    -71.165317,
+    44.494164
+],
+  "geometry": {"coordinates":[-71.165317,44.494164],"type":"Point"}
+}

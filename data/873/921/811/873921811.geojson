@@ -1,0 +1,73 @@
+{
+  "id": 873921811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419983,42.889801,-71.419983,42.889801",
+    "geom:latitude":42.889801,
+    "geom:longitude":-71.419983,
+    "iso:country":"US",
+    "sg:address":"2 Faucher Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 217 3541",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bc0OIUtzkLb6H0IF9UuD1_42.889801_-71.419983@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300243,
+    "wof:geomhash":"f7942a630c552dde739cab38520cba45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873921811
+        }
+    ],
+    "wof:id":873921811,
+    "wof:lastmodified":1464300243,
+    "wof:name":"SCD Mechanical Service",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.419983,
+    42.889801,
+    -71.419983,
+    42.889801
+],
+  "geometry": {"coordinates":[-71.419983,42.889801],"type":"Point"}
+}

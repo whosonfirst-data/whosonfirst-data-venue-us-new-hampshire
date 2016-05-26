@@ -1,0 +1,87 @@
+{
+  "id": 873924681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467033,42.765411,-71.467033,42.765411",
+    "geom:latitude":42.765411,
+    "geom:longitude":-71.467033,
+    "iso:country":"US",
+    "sg:address":"1 Lock St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 3401",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ],
+    "sg:website":"http://www.davisfuneralhomenh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7awy9t4ehw81QhDZVrWnYx_42.765411_-71.467033@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300299,
+    "wof:geomhash":"c09f3cbfea7300c02159adfb7097e461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873924681
+        }
+    ],
+    "wof:id":873924681,
+    "wof:lastmodified":1464300299,
+    "wof:name":"Davis Funeral Home",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.467033,
+    42.765411,
+    -71.467033,
+    42.765411
+],
+  "geometry": {"coordinates":[-71.467033,42.765411],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873921099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424973,42.764462,-71.424973,42.764462",
+    "geom:latitude":42.764462,
+    "geom:longitude":-71.424973,
+    "iso:country":"US",
+    "sg:address":"1 Memorial Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1240",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:website":"http://www.campbellhs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26QnLWqdWsNognFRsxX5G3_42.764462_-71.424973@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300229,
+    "wof:geomhash":"3d636d87b6b118d06547b8c2d98c5749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921099
+        }
+    ],
+    "wof:id":873921099,
+    "wof:lastmodified":1464300229,
+    "wof:name":"Hudson Memorial School",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.424973,
+    42.764462,
+    -71.424973,
+    42.764462
+],
+  "geometry": {"coordinates":[-71.42497299999999,42.764462],"type":"Point"}
+}

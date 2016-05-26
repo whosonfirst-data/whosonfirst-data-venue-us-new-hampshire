@@ -1,0 +1,71 @@
+{
+  "id": 873759185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.057648,42.946237,-71.057648,42.946237",
+    "geom:latitude":42.946237,
+    "geom:longitude":-71.057648,
+    "iso:country":"US",
+    "sg:address":"51 Church St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 3910",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jocX8t3Izr1GJPlYEtTsk_42.946237_-71.057648@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297197,
+    "wof:geomhash":"1d654dee96b748355aa5b889362fa9cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873759185
+        }
+    ],
+    "wof:id":873759185,
+    "wof:lastmodified":1464297197,
+    "wof:name":"Kingstonhealth",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.057648,
+    42.946237,
+    -71.057648,
+    42.946237
+],
+  "geometry": {"coordinates":[-71.057648,42.946237],"type":"Point"}
+}

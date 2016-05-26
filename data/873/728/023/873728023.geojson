@@ -1,0 +1,79 @@
+{
+  "id": 873728023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308571,43.03061,-71.308571,43.03061",
+    "geom:latitude":43.03061,
+    "geom:longitude":-71.308571,
+    "iso:country":"US",
+    "sg:address":"124 Brown Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2003",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "auto",
+        "trucking",
+        "operator",
+        "sanitary",
+        "general",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BWc1OK6QqXd6QWMrdI8fJ_43.030610_-71.308571@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296754,
+    "wof:geomhash":"0b19729eefdae307b97d3290dd85fff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873728023
+        }
+    ],
+    "wof:id":873728023,
+    "wof:lastmodified":1464296754,
+    "wof:name":"Richard Schreiber Trucking",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "trucking",
+        "operator",
+        "sanitary",
+        "general",
+        "local"
+    ]
+},
+  "bbox": [
+    -71.308571,
+    43.03061,
+    -71.308571,
+    43.03061
+],
+  "geometry": {"coordinates":[-71.308571,43.03061],"type":"Point"}
+}

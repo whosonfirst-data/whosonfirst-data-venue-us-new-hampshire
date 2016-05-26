@@ -1,0 +1,69 @@
+{
+  "id": 873852413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.68733,43.759715,-71.68733,43.759715",
+    "geom:latitude":43.759715,
+    "geom:longitude":-71.68733,
+    "iso:country":"US",
+    "sg:address":"61 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 2669",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O83TKJbDTGV0r0Rh3hmmQ_43.759715_-71.687330@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298859,
+    "wof:geomhash":"45483f25fb8df9ddbdb785f21cd232f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873852413
+        }
+    ],
+    "wof:id":873852413,
+    "wof:lastmodified":1464298859,
+    "wof:name":"Anderson's Bakery",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.68733,
+    43.759715,
+    -71.68733,
+    43.759715
+],
+  "geometry": {"coordinates":[-71.68733,43.759715],"type":"Point"}
+}

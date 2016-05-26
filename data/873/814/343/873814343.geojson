@@ -1,0 +1,74 @@
+{
+  "id": 873814343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433152,42.922886,-71.433152,42.922886",
+    "geom:latitude":42.922886,
+    "geom:longitude":-71.433152,
+    "iso:country":"US",
+    "sg:address":"1050 Perimeter Rd E",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 314 5600",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programming"
+    ],
+    "sg:website":"www.neps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533885,
+        85688689,
+        102191575,
+        404476761,
+        85633793,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ah8yS3OlxMu6q3FS2CCro_42.922886_-71.433152@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298002,
+    "wof:geomhash":"e2caab27603d90bbc17c719e82436bd5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533885,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "region_id":85688689,
+            "venue_id":873814343
+        }
+    ],
+    "wof:id":873814343,
+    "wof:lastmodified":1464298002,
+    "wof:name":"NEPS",
+    "wof:parent_id":102533885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -71.433152,
+    42.922886,
+    -71.433152,
+    42.922886
+],
+  "geometry": {"coordinates":[-71.43315200000001,42.922886],"type":"Point"}
+}

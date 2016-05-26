@@ -1,0 +1,80 @@
+{
+  "id": 873918313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.288622,43.70058,-72.288622,43.70058",
+    "geom:latitude":43.70058,
+    "geom:longitude":-72.288622,
+    "iso:country":"US",
+    "sg:address":"3 Lebanon St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hanover/115899-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 5390",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2et2eSliYE7hZoxjsZ8UxF_43.700580_-72.288622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300182,
+    "wof:geomhash":"3950eb847892eef4974cfdbf2f5b32da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873918313
+        }
+    ],
+    "wof:id":873918313,
+    "wof:lastmodified":1464300182,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.288622,
+    43.70058,
+    -72.288622,
+    43.70058
+],
+  "geometry": {"coordinates":[-72.288622,43.70058],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873899315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.201182,42.808508,-71.201182,42.808508",
+    "geom:latitude":42.808508,
+    "geom:longitude":-71.201182,
+    "iso:country":"US",
+    "sg:address":"123 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 6050",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jm4soRsssLPmlcjVKNCe8_42.808508_-71.201182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299805,
+    "wof:geomhash":"f5f46e91a16352de0aca303de39b402a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873899315
+        }
+    ],
+    "wof:id":873899315,
+    "wof:lastmodified":1464299805,
+    "wof:name":"Conlon Company",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.201182,
+    42.808508,
+    -71.201182,
+    42.808508
+],
+  "geometry": {"coordinates":[-71.201182,42.808508],"type":"Point"}
+}

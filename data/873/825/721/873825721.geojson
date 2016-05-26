@@ -1,0 +1,71 @@
+{
+  "id": 873825721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.099145,43.660314,-71.099145,43.660314",
+    "geom:latitude":43.660314,
+    "geom:longitude":-71.099145,
+    "iso:country":"US",
+    "sg:address":"35 Stoneview Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 4204",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JBMRLzhUBHZFBMuWQjsG1_43.660314_-71.099145@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298250,
+    "wof:geomhash":"dc5ffb04524273676887e7574790b170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873825721
+        }
+    ],
+    "wof:id":873825721,
+    "wof:lastmodified":1464298250,
+    "wof:name":"MRS Construction",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.099145,
+    43.660314,
+    -71.099145,
+    43.660314
+],
+  "geometry": {"coordinates":[-71.09914499999999,43.660314],"type":"Point"}
+}

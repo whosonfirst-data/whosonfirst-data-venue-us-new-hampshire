@@ -1,0 +1,73 @@
+{
+  "id": 873586443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.88459,43.221056,-70.88459,43.221056",
+    "geom:latitude":43.221056,
+    "geom:longitude":-70.88459,
+    "iso:country":"US",
+    "sg:address":"6 Old English Village",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 3155",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J4p6yanQ0B3XE02k6ilpx_43.221056_-70.884590@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294789,
+    "wof:geomhash":"f63fbd069159e9fd8b2a09d6dd204038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873586443
+        }
+    ],
+    "wof:id":873586443,
+    "wof:lastmodified":1464294789,
+    "wof:name":"Granite Village Apts",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -70.88459,
+    43.221056,
+    -70.88459,
+    43.221056
+],
+  "geometry": {"coordinates":[-70.88459,43.221056],"type":"Point"}
+}

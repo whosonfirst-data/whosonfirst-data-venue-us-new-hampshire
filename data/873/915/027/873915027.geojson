@@ -1,0 +1,79 @@
+{
+  "id": 873915027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466809,42.750547,-71.466809,42.750547",
+    "geom:latitude":42.750547,
+    "geom:longitude":-71.466809,
+    "iso:country":"US",
+    "sg:address":"51 Lake St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 0303",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Sz0WINusxlZABmrdBfRW_42.750899_-71.466528@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300107,
+    "wof:geomhash":"8e725a7fbb138007736ca29a6689d2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873915027
+        }
+    ],
+    "wof:id":873915027,
+    "wof:lastmodified":1464300107,
+    "wof:name":"Es Warehouse",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.466809,
+    42.750547,
+    -71.466809,
+    42.750547
+],
+  "geometry": {"coordinates":[-71.466809,42.750547],"type":"Point"}
+}

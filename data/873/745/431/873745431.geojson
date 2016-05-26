@@ -1,0 +1,73 @@
+{
+  "id": 873745431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.392254,42.910391,-71.392254,42.910391",
+    "geom:latitude":42.910391,
+    "geom:longitude":-71.392254,
+    "iso:country":"US",
+    "sg:address":"527 Mammoth Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 9941",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FCBAUg9ghIXp0Bh8TN6CE_42.910391_-71.392254@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297018,
+    "wof:geomhash":"05675ea439c5959fc09d60702eb34f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873745431
+        }
+    ],
+    "wof:id":873745431,
+    "wof:lastmodified":1464297018,
+    "wof:name":"Ben's Auto Ctr",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.392254,
+    42.910391,
+    -71.392254,
+    42.910391
+],
+  "geometry": {"coordinates":[-71.39225399999999,42.910391],"type":"Point"}
+}

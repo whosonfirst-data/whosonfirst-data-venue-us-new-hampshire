@@ -1,0 +1,71 @@
+{
+  "id": 873707757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.916629,43.016579,-70.916629,43.016579",
+    "geom:latitude":43.016579,
+    "geom:longitude":-70.916629,
+    "iso:country":"US",
+    "sg:address":"129 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5165",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1waRe2OhYfZMxWcJurW2oh_43.016579_-70.916629@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296492,
+    "wof:geomhash":"577aaea395126e23941e14d56396506a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873707757
+        }
+    ],
+    "wof:id":873707757,
+    "wof:lastmodified":1464296492,
+    "wof:name":"Phinney Music Svc",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -70.916629,
+    43.016579,
+    -70.916629,
+    43.016579
+],
+  "geometry": {"coordinates":[-70.916629,43.016579],"type":"Point"}
+}

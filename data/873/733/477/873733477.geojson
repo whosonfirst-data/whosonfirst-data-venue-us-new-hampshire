@@ -1,0 +1,69 @@
+{
+  "id": 873733477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.641978,43.445903,-71.641978,43.445903",
+    "geom:latitude":43.445903,
+    "geom:longitude":-71.641978,
+    "iso:country":"US",
+    "sg:address":"546 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3337",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_300ih3uKE1QgqI7MJs9QXJ_43.445903_-71.641978@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296821,
+    "wof:geomhash":"2d1c69f9369208031456eb41af1c6ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873733477
+        }
+    ],
+    "wof:id":873733477,
+    "wof:lastmodified":1464296821,
+    "wof:name":"Taxi Cookies Car Svc",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.641978,
+    43.445903,
+    -71.641978,
+    43.445903
+],
+  "geometry": {"coordinates":[-71.64197799999999,43.445903],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873763243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251289,43.656904,-71.251289,43.656904",
+    "geom:latitude":43.656904,
+    "geom:longitude":-71.251289,
+    "iso:country":"US",
+    "sg:address":"1 Pine Tree Dr",
+    "sg:city":"Ctr Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 8766",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hQm1aTAlBqivlhSQlXN9Y_43.656904_-71.251289@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297262,
+    "wof:geomhash":"029ab33cd40d3fef02b30b62a7edd667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873763243
+        }
+    ],
+    "wof:id":873763243,
+    "wof:lastmodified":1464297262,
+    "wof:name":"Golive Heaven Training Inc",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -71.251289,
+    43.656904,
+    -71.251289,
+    43.656904
+],
+  "geometry": {"coordinates":[-71.251289,43.656904],"type":"Point"}
+}

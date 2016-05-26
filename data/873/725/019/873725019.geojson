@@ -1,0 +1,70 @@
+{
+  "id": 873725019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649108,42.834792,-71.649108,42.834792",
+    "geom:latitude":42.834792,
+    "geom:longitude":-71.649108,
+    "iso:country":"US",
+    "sg:address":"57 South St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 249 4014",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v2ITOc4XijqT44aLOF2yE_42.834792_-71.649108@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296712,
+    "wof:geomhash":"465dd3bfd971893859faad0d3f47fea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873725019
+        }
+    ],
+    "wof:id":873725019,
+    "wof:lastmodified":1464296712,
+    "wof:name":"Bank Of New Hampshire",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.649108,
+    42.834792,
+    -71.649108,
+    42.834792
+],
+  "geometry": {"coordinates":[-71.649108,42.834792],"type":"Point"}
+}

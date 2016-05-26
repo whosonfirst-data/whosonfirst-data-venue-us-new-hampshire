@@ -1,0 +1,71 @@
+{
+  "id": 873875973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440541,43.528976,-71.440541,43.528976",
+    "geom:latitude":43.528976,
+    "geom:longitude":-71.440541,
+    "iso:country":"US",
+    "sg:address":"21 Country Club Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 0216",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63lBH8lA7R3TuWV4kiPlKs_43.528976_-71.440541@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299353,
+    "wof:geomhash":"fb9e87df87d0ce52eb13f7434cc60bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873875973
+        }
+    ],
+    "wof:id":873875973,
+    "wof:lastmodified":1464299353,
+    "wof:name":"Franklin Career Academy",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charter"
+    ]
+},
+  "bbox": [
+    -71.440541,
+    43.528976,
+    -71.440541,
+    43.528976
+],
+  "geometry": {"coordinates":[-71.440541,43.528976],"type":"Point"}
+}

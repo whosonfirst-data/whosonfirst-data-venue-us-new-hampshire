@@ -1,0 +1,71 @@
+{
+  "id": 873859111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.182397,44.476828,-71.182397,44.476828",
+    "geom:latitude":44.476828,
+    "geom:longitude":-71.182397,
+    "iso:country":"US",
+    "sg:address":"179 Park St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 8674",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jDob9Pvntn15tWOByUuWp_44.476828_-71.182397@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298999,
+    "wof:geomhash":"10f96f9837c7a7bc349eb7f019a75b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873859111
+        }
+    ],
+    "wof:id":873859111,
+    "wof:lastmodified":1464298999,
+    "wof:name":"Big D Roofing",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.182397,
+    44.476828,
+    -71.182397,
+    44.476828
+],
+  "geometry": {"coordinates":[-71.18239699999999,44.476828],"type":"Point"}
+}

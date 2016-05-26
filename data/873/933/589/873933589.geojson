@@ -1,0 +1,69 @@
+{
+  "id": 873933589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.137703,44.0317,-71.137703,44.0317",
+    "geom:latitude":44.0317,
+    "geom:longitude":-71.137703,
+    "iso:country":"US",
+    "sg:address":"2902 W Side Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5342",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sYKGX1gc7ykOTZ3i9Cxzb_44.031700_-71.137703@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300474,
+    "wof:geomhash":"68674e672ccccbab97eedf79ac0c5eb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933589
+        }
+    ],
+    "wof:id":873933589,
+    "wof:lastmodified":1464300474,
+    "wof:name":"Frechette Oil & Backhoe Service",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.137703,
+    44.0317,
+    -71.137703,
+    44.0317
+],
+  "geometry": {"coordinates":[-71.137703,44.0317],"type":"Point"}
+}

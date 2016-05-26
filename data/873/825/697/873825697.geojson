@@ -1,0 +1,71 @@
+{
+  "id": 873825697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.177219,44.391098,-71.177219,44.391098",
+    "geom:latitude":44.391098,
+    "geom:longitude":-71.177219,
+    "iso:country":"US",
+    "sg:address":"19 Mechanic St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3444",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0prihWrKCATRM9H7dvbVwG_44.391098_-71.177219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298249,
+    "wof:geomhash":"f2bee13a4af6ae785af77a8ee86b0fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873825697
+        }
+    ],
+    "wof:id":873825697,
+    "wof:lastmodified":1464298249,
+    "wof:name":"Euphoria Builders",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.177219,
+    44.391098,
+    -71.177219,
+    44.391098
+],
+  "geometry": {"coordinates":[-71.17721899999999,44.391098],"type":"Point"}
+}

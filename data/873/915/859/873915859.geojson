@@ -1,0 +1,73 @@
+{
+  "id": 873915859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.695847,42.71698,-71.695847,42.71698",
+    "geom:latitude":42.71698,
+    "geom:longitude":-71.695847,
+    "iso:country":"US",
+    "sg:address":"1 W Hill Rd",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 6904",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QVIx674k2Y51tjXFJV2fm_42.716462_-71.695973@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300138,
+    "wof:geomhash":"2bc38a872443168241786bf375934983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873915859
+        }
+    ],
+    "wof:id":873915859,
+    "wof:lastmodified":1464300138,
+    "wof:name":"Williams, Owens Wiring Inc",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.695847,
+    42.71698,
+    -71.695847,
+    42.71698
+],
+  "geometry": {"coordinates":[-71.695847,42.71698],"type":"Point"}
+}

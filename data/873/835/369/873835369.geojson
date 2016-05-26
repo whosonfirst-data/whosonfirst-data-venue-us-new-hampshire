@@ -1,0 +1,69 @@
+{
+  "id": 873835369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.454651,42.985181,-72.454651,42.985181",
+    "geom:latitude":42.985181,
+    "geom:longitude":-72.454651,
+    "iso:country":"US",
+    "sg:address":"29 Old Moore Rd",
+    "sg:city":"Westmoreland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 399 7170",
+    "sg:postcode":"03467",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857041,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ezknqhGFyyCrIzZsFkuIk_42.985181_-72.454651@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298452,
+    "wof:geomhash":"b2eb5a9e68c27771a45b51731888549d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857041,
+            "region_id":85688689,
+            "venue_id":873835369
+        }
+    ],
+    "wof:id":873835369,
+    "wof:lastmodified":1464298452,
+    "wof:name":"Wash On Wheels",
+    "wof:parent_id":85857041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.454651,
+    42.985181,
+    -72.454651,
+    42.985181
+],
+  "geometry": {"coordinates":[-72.454651,42.985181],"type":"Point"}
+}

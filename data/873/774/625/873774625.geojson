@@ -1,0 +1,71 @@
+{
+  "id": 873774625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.907545,43.02618,-70.907545,43.02618",
+    "geom:latitude":43.02618,
+    "geom:longitude":-70.907545,
+    "iso:country":"US",
+    "sg:address":"9 Tansy Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 6807",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TECYszbsomDwnuMT913FX_43.026180_-70.907545@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297422,
+    "wof:geomhash":"7f048fe30694282e21862dd76ba9eb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873774625
+        }
+    ],
+    "wof:id":873774625,
+    "wof:lastmodified":1464297422,
+    "wof:name":"Miner Electric",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.907545,
+    43.02618,
+    -70.907545,
+    43.02618
+],
+  "geometry": {"coordinates":[-70.907545,43.02618],"type":"Point"}
+}

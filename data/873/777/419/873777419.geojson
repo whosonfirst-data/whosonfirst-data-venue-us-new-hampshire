@@ -1,0 +1,77 @@
+{
+  "id": 873777419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.265436,43.639233,-72.265436,43.639233",
+    "geom:latitude":43.639233,
+    "geom:longitude":-72.265436,
+    "iso:country":"US",
+    "sg:address":"125 Mascoma St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 7480",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JLBuRixv5aCpSSqNOUBDW_43.639233_-72.265436@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297456,
+    "wof:geomhash":"a7c84eac61ca3cea335122439b145df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873777419
+        }
+    ],
+    "wof:id":873777419,
+    "wof:lastmodified":1464297456,
+    "wof:name":"Upper Valley Anesthesiology",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.265436,
+    43.639233,
+    -72.265436,
+    43.639233
+],
+  "geometry": {"coordinates":[-72.26543599999999,43.639233],"type":"Point"}
+}

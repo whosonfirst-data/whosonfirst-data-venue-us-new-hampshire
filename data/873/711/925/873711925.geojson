@@ -1,0 +1,77 @@
+{
+  "id": 873711925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493631,42.768977,-71.493631,42.768977",
+    "geom:latitude":42.768977,
+    "geom:longitude":-71.493631,
+    "iso:country":"US",
+    "sg:address":"150 Broad St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 4738",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892287,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eFnvzBj2jZKIiQCZRoDBV_42.768977_-71.493631@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296544,
+    "wof:geomhash":"7701121539b09eb2aab1abf3fb21cfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892287,
+            "region_id":85688689,
+            "venue_id":873711925
+        }
+    ],
+    "wof:id":873711925,
+    "wof:lastmodified":1464296544,
+    "wof:name":"Nashua Pet Care Clinic",
+    "wof:parent_id":85892287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.493631,
+    42.768977,
+    -71.493631,
+    42.768977
+],
+  "geometry": {"coordinates":[-71.49363099999999,42.768977],"type":"Point"}
+}

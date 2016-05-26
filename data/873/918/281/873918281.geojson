@@ -1,0 +1,80 @@
+{
+  "id": 873918281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.319026,43.364792,-72.319026,43.364792",
+    "geom:latitude":43.364792,
+    "geom:longitude":-72.319026,
+    "iso:country":"US",
+    "sg:address":"358 Washington St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/claremont/83075-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 1500",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rayvRVmiH1ABpTqjPjYkO_43.364792_-72.319026@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300181,
+    "wof:geomhash":"2c0c9eaa94e86b3c0a6e4dc5dccdd866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873918281
+        }
+    ],
+    "wof:id":873918281,
+    "wof:lastmodified":1464300181,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.319026,
+    43.364792,
+    -72.319026,
+    43.364792
+],
+  "geometry": {"coordinates":[-72.31902599999999,43.364792],"type":"Point"}
+}

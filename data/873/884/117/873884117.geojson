@@ -1,0 +1,69 @@
+{
+  "id": 873884117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48262,43.66171,-71.48262,43.66171",
+    "geom:latitude":43.66171,
+    "geom:longitude":-71.48262,
+    "iso:country":"US",
+    "sg:address":"8 Oak Ledge Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6631",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L9FtxFCPAIiz26QkOxyjD_43.661710_-71.482620@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299519,
+    "wof:geomhash":"a308656575ef4caa2fb158c6df2db48f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873884117
+        }
+    ],
+    "wof:id":873884117,
+    "wof:lastmodified":1464299519,
+    "wof:name":"George L Bent",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.48262,
+    43.66171,
+    -71.48262,
+    43.66171
+],
+  "geometry": {"coordinates":[-71.48262,43.66171],"type":"Point"}
+}

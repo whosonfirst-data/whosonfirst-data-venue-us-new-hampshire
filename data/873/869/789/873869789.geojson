@@ -1,0 +1,73 @@
+{
+  "id": 873869789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.338522,43.668524,-71.338522,43.668524",
+    "geom:latitude":43.668524,
+    "geom:longitude":-71.338522,
+    "iso:country":"US",
+    "sg:address":"216 Sobel Rd",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 4349",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858315,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZXd7FNvpIuBfh6JDfOPEl_43.668524_-71.338522@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299221,
+    "wof:geomhash":"d9d927de0b4baea42024cfbf63ccecdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85858315,
+            "region_id":85688689,
+            "venue_id":873869789
+        }
+    ],
+    "wof:id":873869789,
+    "wof:lastmodified":1464299221,
+    "wof:name":"Classy Canine",
+    "wof:parent_id":85858315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.338522,
+    43.668524,
+    -71.338522,
+    43.668524
+],
+  "geometry": {"coordinates":[-71.338522,43.668524],"type":"Point"}
+}

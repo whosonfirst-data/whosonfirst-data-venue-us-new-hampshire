@@ -1,0 +1,73 @@
+{
+  "id": 873794569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561772,44.48733,-71.561772,44.48733",
+    "geom:latitude":44.48733,
+    "geom:longitude":-71.561772,
+    "iso:country":"US",
+    "sg:address":"111 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2301",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rrQklyqlOzzG6oJBQu65y_44.487330_-71.561772@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297710,
+    "wof:geomhash":"fb169b1a989cca76cd72caa0b179fd7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873794569
+        }
+    ],
+    "wof:id":873794569,
+    "wof:lastmodified":1464297710,
+    "wof:name":"Transportation Dept Garage",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.561772,
+    44.48733,
+    -71.561772,
+    44.48733
+],
+  "geometry": {"coordinates":[-71.561772,44.48733],"type":"Point"}
+}

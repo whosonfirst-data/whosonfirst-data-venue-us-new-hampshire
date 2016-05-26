@@ -1,0 +1,71 @@
+{
+  "id": 873771385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.005236,43.095306,-71.005236,43.095306",
+    "geom:latitude":43.095306,
+    "geom:longitude":-71.005236,
+    "iso:country":"US",
+    "sg:address":"3 Belle Ln",
+    "sg:city":"Lee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 6426",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854075,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oxkWG80OsTfa4Oyktd9C_43.095306_-71.005236@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297382,
+    "wof:geomhash":"dac61c50f5beb0334f3b72455c643c1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85854075,
+            "region_id":85688689,
+            "venue_id":873771385
+        }
+    ],
+    "wof:id":873771385,
+    "wof:lastmodified":1464297382,
+    "wof:name":"West Mechanical Mntnc & Cntrls",
+    "wof:parent_id":85854075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.005236,
+    43.095306,
+    -71.005236,
+    43.095306
+],
+  "geometry": {"coordinates":[-71.005236,43.095306],"type":"Point"}
+}

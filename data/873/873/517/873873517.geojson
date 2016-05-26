@@ -1,0 +1,73 @@
+{
+  "id": 873873517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455469,43.556394,-71.455469,43.556394",
+    "geom:latitude":43.556394,
+    "geom:longitude":-71.455469,
+    "iso:country":"US",
+    "sg:address":"1123 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1523",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XWxIGZ4FAFJHHQTGaZ85k_43.556394_-71.455469@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299307,
+    "wof:geomhash":"1a8952e7973456b61cba386fe8259863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873873517
+        }
+    ],
+    "wof:id":873873517,
+    "wof:lastmodified":1464299307,
+    "wof:name":"Laconia Car Wash Inc",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.455469,
+    43.556394,
+    -71.455469,
+    43.556394
+],
+  "geometry": {"coordinates":[-71.45546899999999,43.556394],"type":"Point"}
+}

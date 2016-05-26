@@ -1,0 +1,73 @@
+{
+  "id": 873615271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504961,43.188882,-71.504961,43.188882",
+    "geom:latitude":43.188882,
+    "geom:longitude":-71.504961,
+    "iso:country":"US",
+    "sg:address":"129 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 4000",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DUD67oWDvm3n4BiObldy9_43.188882_-71.504961@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295198,
+    "wof:geomhash":"0bd34f9f67358f07ccaf5b4ba6497d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873615271
+        }
+    ],
+    "wof:id":873615271,
+    "wof:lastmodified":1464295198,
+    "wof:name":"Automotive Supply Assoc Inc",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.504961,
+    43.188882,
+    -71.504961,
+    43.188882
+],
+  "geometry": {"coordinates":[-71.50496099999999,43.188882],"type":"Point"}
+}

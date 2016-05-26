@@ -1,0 +1,71 @@
+{
+  "id": 873909843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.102938,43.12544,-71.102938,43.12544",
+    "geom:latitude":43.12544,
+    "geom:longitude":-71.102938,
+    "iso:country":"US",
+    "sg:address":"179 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8074",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YjBSIVfYKcdm4BwvvAXWx_43.125440_-71.102938@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300010,
+    "wof:geomhash":"9d578078f0ddde6775ab644292f5259f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873909843
+        }
+    ],
+    "wof:id":873909843,
+    "wof:lastmodified":1464300010,
+    "wof:name":"Marshall Heating & Cooling",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.102938,
+    43.12544,
+    -71.102938,
+    43.12544
+],
+  "geometry": {"coordinates":[-71.10293799999999,43.12544],"type":"Point"}
+}

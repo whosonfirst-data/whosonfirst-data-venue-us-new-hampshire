@@ -1,0 +1,71 @@
+{
+  "id": 873742313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.970607,43.299635,-70.970607,43.299635",
+    "geom:latitude":43.299635,
+    "geom:longitude":-70.970607,
+    "iso:country":"US",
+    "sg:address":"124 S Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 2323",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:website":"www.maxbetty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r5M9ADO2s1enR4XgHA2VO_43.299635_-70.970607@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296960,
+    "wof:geomhash":"bc9c010d219e788ca3080ae065312548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873742313
+        }
+    ],
+    "wof:id":873742313,
+    "wof:lastmodified":1464296960,
+    "wof:name":"Re/Max",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.970607,
+    43.299635,
+    -70.970607,
+    43.299635
+],
+  "geometry": {"coordinates":[-70.970607,43.299635],"type":"Point"}
+}

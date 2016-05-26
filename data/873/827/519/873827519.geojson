@@ -1,0 +1,71 @@
+{
+  "id": 873827519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.078938,42.939824,-72.078938,42.939824",
+    "geom:latitude":42.939824,
+    "geom:longitude":-72.078938,
+    "iso:country":"US",
+    "sg:address":"108 Hancock Rd",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 7105",
+    "sg:postcode":"03450",
+    "sg:province":"NH",
+    "sg:tags":[
+        "school",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806629,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68PGo9X0axZPYgELg5YyT7_42.939824_-72.078938@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298287,
+    "wof:geomhash":"12f39a982321aecd481c89ff2012a35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85806629,
+            "region_id":85688689,
+            "venue_id":873827519
+        }
+    ],
+    "wof:id":873827519,
+    "wof:lastmodified":1464298287,
+    "wof:name":"South Meadow School",
+    "wof:parent_id":85806629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "district"
+    ]
+},
+  "bbox": [
+    -72.078938,
+    42.939824,
+    -72.078938,
+    42.939824
+],
+  "geometry": {"coordinates":[-72.07893799999999,42.939824],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873814115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2051,43.58586,-71.2051,43.58586",
+    "geom:latitude":43.58586,
+    "geom:longitude":-71.2051,
+    "iso:country":"US",
+    "sg:address":"8 Pine St",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 875 7200",
+    "sg:postcode":"03896",
+    "sg:province":"NH",
+    "sg:tags":[
+        "refrigerating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3npZ9xIyFqtoaBjNgvJeEb_43.585860_-71.205100@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297998,
+    "wof:geomhash":"a9b6126647bc21976693b026d65d8b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873814115
+        }
+    ],
+    "wof:id":873814115,
+    "wof:lastmodified":1464297998,
+    "wof:name":"Newlin Refrigeration",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerating"
+    ]
+},
+  "bbox": [
+    -71.2051,
+    43.58586,
+    -71.2051,
+    43.58586
+],
+  "geometry": {"coordinates":[-71.2051,43.58586],"type":"Point"}
+}

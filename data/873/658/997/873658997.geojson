@@ -1,0 +1,71 @@
+{
+  "id": 873658997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227442,42.782115,-71.227442,42.782115",
+    "geom:latitude":42.782115,
+    "geom:longitude":-71.227442,
+    "iso:country":"US",
+    "sg:address":"141 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 1820",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic",
+        "walk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CD49qcXygzMKNY52KDahD_42.782115_-71.227442@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295688,
+    "wof:geomhash":"5b3ad6312084b493e320d93599260865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873658997
+        }
+    ],
+    "wof:id":873658997,
+    "wof:lastmodified":1464295688,
+    "wof:name":"Columbia HCA",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "walk"
+    ]
+},
+  "bbox": [
+    -71.227442,
+    42.782115,
+    -71.227442,
+    42.782115
+],
+  "geometry": {"coordinates":[-71.227442,42.782115],"type":"Point"}
+}

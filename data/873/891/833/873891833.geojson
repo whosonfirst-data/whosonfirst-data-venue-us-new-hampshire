@@ -1,0 +1,73 @@
+{
+  "id": 873891833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462108,43.528665,-71.462108,43.528665",
+    "geom:latitude":43.528665,
+    "geom:longitude":-71.462108,
+    "iso:country":"US",
+    "sg:address":"85 Spring St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 7114",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yhKe1C2nAP98JKZuceunj_43.528665_-71.462108@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299662,
+    "wof:geomhash":"ce8de7bcefad01799d36e57450ef1b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873891833
+        }
+    ],
+    "wof:id":873891833,
+    "wof:lastmodified":1464299662,
+    "wof:name":"Laconia Health Care",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.462108,
+    43.528665,
+    -71.462108,
+    43.528665
+],
+  "geometry": {"coordinates":[-71.462108,43.528665],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873564443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468391,43.004911,-71.468391,43.004911",
+    "geom:latitude":43.004911,
+    "geom:longitude":-71.468391,
+    "iso:country":"US",
+    "sg:address":"150 River Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 2305",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3udpTTYh1dflQUwvGRrnsi_43.004911_-71.468391@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294548,
+    "wof:geomhash":"3bbabaff1642b1404614d5c86e7872d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873564443
+        }
+    ],
+    "wof:id":873564443,
+    "wof:lastmodified":1464294548,
+    "wof:name":"The Merrimack Towers",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.468391,
+    43.004911,
+    -71.468391,
+    43.004911
+],
+  "geometry": {"coordinates":[-71.468391,43.004911],"type":"Point"}
+}

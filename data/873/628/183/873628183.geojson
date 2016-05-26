@@ -1,0 +1,69 @@
+{
+  "id": 873628183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480831,42.964038,-71.480831,42.964038",
+    "geom:latitude":42.964038,
+    "geom:longitude":-71.480831,
+    "iso:country":"US",
+    "sg:address":"5 Colby Ct",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 5431",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FnKoKjzIX8QzEVyZOD6Mm_42.964038_-71.480831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295342,
+    "wof:geomhash":"515abc62ee72ee9dcdb4e38e5655e992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873628183
+        }
+    ],
+    "wof:id":873628183,
+    "wof:lastmodified":1464295342,
+    "wof:name":"Shopn Save",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -71.480831,
+    42.964038,
+    -71.480831,
+    42.964038
+],
+  "geometry": {"coordinates":[-71.48083099999999,42.964038],"type":"Point"}
+}

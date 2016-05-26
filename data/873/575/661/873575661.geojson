@@ -1,0 +1,75 @@
+{
+  "id": 873575661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.761323,43.07567,-70.761323,43.07567",
+    "geom:latitude":43.07567,
+    "geom:longitude":-70.761323,
+    "iso:country":"US",
+    "sg:address":"64 Bridge St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 9301",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oQ14J7RLff7ALl4p5f9Wi_43.075670_-70.761323@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294671,
+    "wof:geomhash":"f2df4ad05dd920baf60502720bcd41e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873575661
+        }
+    ],
+    "wof:id":873575661,
+    "wof:lastmodified":1464294671,
+    "wof:name":"Cafe Mirabelle",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.761323,
+    43.07567,
+    -70.761323,
+    43.07567
+],
+  "geometry": {"coordinates":[-70.761323,43.07567],"type":"Point"}
+}

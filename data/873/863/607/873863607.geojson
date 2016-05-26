@@ -1,0 +1,71 @@
+{
+  "id": 873863607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400423,42.789308,-71.400423,42.789308",
+    "geom:latitude":42.789308,
+    "geom:longitude":-71.400423,
+    "iso:country":"US",
+    "sg:address":"26 Oliver Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 1388",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4liWcI9YTvOypyUV6opbYJ_42.789308_-71.400423@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299107,
+    "wof:geomhash":"8519ab20f58792fa9b40a3fc07006091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873863607
+        }
+    ],
+    "wof:id":873863607,
+    "wof:lastmodified":1464299107,
+    "wof:name":"Eds Electric Service",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.400423,
+    42.789308,
+    -71.400423,
+    42.789308
+],
+  "geometry": {"coordinates":[-71.400423,42.789308],"type":"Point"}
+}

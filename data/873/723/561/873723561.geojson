@@ -1,0 +1,75 @@
+{
+  "id": 873723561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.277898,42.930375,-72.277898,42.930375",
+    "geom:latitude":42.930375,
+    "geom:longitude":-72.277898,
+    "iso:country":"US",
+    "sg:address":"133 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 5370",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43J9qGSjnHzbpLjvaovJ4H_42.930375_-72.277898@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296694,
+    "wof:geomhash":"dc008cb8e9a7dfe6fa9eda2193ef64fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873723561
+        }
+    ],
+    "wof:id":873723561,
+    "wof:lastmodified":1464296694,
+    "wof:name":"Athens Pizza House",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.277898,
+    42.930375,
+    -72.277898,
+    42.930375
+],
+  "geometry": {"coordinates":[-72.27789799999999,42.930375],"type":"Point"}
+}

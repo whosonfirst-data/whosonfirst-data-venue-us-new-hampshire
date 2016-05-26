@@ -1,0 +1,72 @@
+{
+  "id": 873875415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.805126,43.10116,-70.805126,43.10116",
+    "geom:latitude":43.10116,
+    "geom:longitude":-70.805126,
+    "iso:country":"US",
+    "sg:address":"122 Old Dover Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 8000",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "gypsum"
+    ],
+    "sg:website":"www.gapac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qnS3PdwViG3PSuXWFGArF_43.101160_-70.805126@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299343,
+    "wof:geomhash":"1ab205037384d8cb701e15d579e1170f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873875415
+        }
+    ],
+    "wof:id":873875415,
+    "wof:lastmodified":1464299343,
+    "wof:name":"G-P Gypsum Corp",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "gypsum"
+    ]
+},
+  "bbox": [
+    -70.805126,
+    43.10116,
+    -70.805126,
+    43.10116
+],
+  "geometry": {"coordinates":[-70.805126,43.10116],"type":"Point"}
+}

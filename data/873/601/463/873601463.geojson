@@ -1,0 +1,71 @@
+{
+  "id": 873601463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466337,43.529491,-71.466337,43.529491",
+    "geom:latitude":43.529491,
+    "geom:longitude":-71.466337,
+    "iso:country":"US",
+    "sg:address":"15 Jewett St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9707",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SnkuiVbth5xAzRKMcJ6Rm_43.529491_-71.466337@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295003,
+    "wof:geomhash":"80163aca4a497153b6a7e76549b8cc8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873601463
+        }
+    ],
+    "wof:id":873601463,
+    "wof:lastmodified":1464295003,
+    "wof:name":"Bean H & P Apartments",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.466337,
+    43.529491,
+    -71.466337,
+    43.529491
+],
+  "geometry": {"coordinates":[-71.466337,43.529491],"type":"Point"}
+}

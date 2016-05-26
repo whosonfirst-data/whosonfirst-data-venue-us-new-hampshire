@@ -1,0 +1,71 @@
+{
+  "id": 873811445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.38853,42.780036,-71.38853,42.780036",
+    "geom:latitude":42.780036,
+    "geom:longitude":-71.38853,
+    "iso:country":"US",
+    "sg:address":"74 Windham Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 6634",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5apq9OGaGF8A5XA9ir2min_42.780036_-71.388530@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297951,
+    "wof:geomhash":"4d874696ac1d8dc10994066a9bc9f05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873811445
+        }
+    ],
+    "wof:id":873811445,
+    "wof:lastmodified":1464297951,
+    "wof:name":"Better Way Merchandise",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -71.38853,
+    42.780036,
+    -71.38853,
+    42.780036
+],
+  "geometry": {"coordinates":[-71.38853,42.780036],"type":"Point"}
+}

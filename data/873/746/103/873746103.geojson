@@ -1,0 +1,69 @@
+{
+  "id": 873746103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.424497,43.260215,-72.424497,43.260215",
+    "geom:latitude":43.260215,
+    "geom:longitude":-72.424497,
+    "iso:country":"US",
+    "sg:address":"603 Lovers Lane Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 4435",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VwHHejoH39UPlKwF44MVM_43.260215_-72.424497@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297027,
+    "wof:geomhash":"97e3d66baddcf614bd1e89e283f8fd0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873746103
+        }
+    ],
+    "wof:id":873746103,
+    "wof:lastmodified":1464297027,
+    "wof:name":"Lane Road Cycle Shop",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.424497,
+    43.260215,
+    -72.424497,
+    43.260215
+],
+  "geometry": {"coordinates":[-72.424497,43.260215],"type":"Point"}
+}

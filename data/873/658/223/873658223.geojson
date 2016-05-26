@@ -1,0 +1,71 @@
+{
+  "id": 873658223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466627,42.830905,-71.466627,42.830905",
+    "geom:latitude":42.830905,
+    "geom:longitude":-71.466627,
+    "iso:country":"US",
+    "sg:address":"31 Cummings Dr",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 5300",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6puoYTPfjvdM4mvirHWgi6_42.830905_-71.466627@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295680,
+    "wof:geomhash":"22360be261de84174c028fd215132202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873658223
+        }
+    ],
+    "wof:id":873658223,
+    "wof:lastmodified":1464295680,
+    "wof:name":"M E Laustsen Construction",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.466627,
+    42.830905,
+    -71.466627,
+    42.830905
+],
+  "geometry": {"coordinates":[-71.466627,42.830905],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873610723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367054,43.279537,-71.367054,43.279537",
+    "geom:latitude":43.279537,
+    "geom:longitude":-71.367054,
+    "iso:country":"US",
+    "sg:address":"44 Swiggey Brook Rd",
+    "sg:city":"Chichester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 798 3833",
+    "sg:postcode":"03258",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827943,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OHQfJHrT5CdeokKL0eFyG_43.279537_-71.367054@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295151,
+    "wof:geomhash":"7e3e3096ab8cf51a0c9109f9c7ec994a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85827943,
+            "region_id":85688689,
+            "venue_id":873610723
+        }
+    ],
+    "wof:id":873610723,
+    "wof:lastmodified":1464295151,
+    "wof:name":"Kelly Brook Excavation",
+    "wof:parent_id":85827943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.367054,
+    43.279537,
+    -71.367054,
+    43.279537
+],
+  "geometry": {"coordinates":[-71.367054,43.279537],"type":"Point"}
+}

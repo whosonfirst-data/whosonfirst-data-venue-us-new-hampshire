@@ -1,0 +1,69 @@
+{
+  "id": 873869195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.906568,43.032478,-70.906568,43.032478",
+    "geom:latitude":43.032478,
+    "geom:longitude":-70.906568,
+    "iso:country":"US",
+    "sg:address":"218 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 1039",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AluPiTSeYx7Xjtyn4gsiD_43.032478_-70.906568@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299211,
+    "wof:geomhash":"5d283377a3e0bae57ba5e58dc878656a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873869195
+        }
+    ],
+    "wof:id":873869195,
+    "wof:lastmodified":1464299211,
+    "wof:name":"Barker's Farm Stand",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -70.906568,
+    43.032478,
+    -70.906568,
+    43.032478
+],
+  "geometry": {"coordinates":[-70.90656799999999,43.032478],"type":"Point"}
+}

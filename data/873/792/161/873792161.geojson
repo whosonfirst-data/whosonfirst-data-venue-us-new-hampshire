@@ -1,0 +1,75 @@
+{
+  "id": 873792161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.810605,42.915884,-70.810605,42.915884",
+    "geom:latitude":42.915884,
+    "geom:longitude":-70.810605,
+    "iso:country":"US",
+    "sg:address":"5 Williams St",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9286",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526367,
+        102191575,
+        404476755,
+        85633793,
+        85975133,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCSrCtHtDB2D1LdGyBPZc_42.915884_-70.810605@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297679,
+    "wof:geomhash":"8dff6de1dd3236ea49de33a634ea737f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975133,
+            "neighbourhood_id":420526367,
+            "region_id":85688689,
+            "venue_id":873792161
+        }
+    ],
+    "wof:id":873792161,
+    "wof:lastmodified":1464297679,
+    "wof:name":"Church Street Parking Lot",
+    "wof:parent_id":420526367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.810605,
+    42.915884,
+    -70.810605,
+    42.915884
+],
+  "geometry": {"coordinates":[-70.810605,42.915884],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873890321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.016267,43.228937,-71.016267,43.228937",
+    "geom:latitude":43.228937,
+    "geom:longitude":-71.016267,
+    "iso:country":"US",
+    "sg:address":"64 Brewster Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2316",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KCqzkPAzcPYxmORAOhypT_43.228937_-71.016267@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299637,
+    "wof:geomhash":"6abf4759c362339607a1945364de0d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873890321
+        }
+    ],
+    "wof:id":873890321,
+    "wof:lastmodified":1464299637,
+    "wof:name":"Front Street Gulf",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.016267,
+    43.228937,
+    -71.016267,
+    43.228937
+],
+  "geometry": {"coordinates":[-71.016267,43.228937],"type":"Point"}
+}

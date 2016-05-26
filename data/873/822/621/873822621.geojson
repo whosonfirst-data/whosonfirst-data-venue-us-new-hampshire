@@ -1,0 +1,71 @@
+{
+  "id": 873822621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.585797,42.848363,-71.585797,42.848363",
+    "geom:latitude":42.848363,
+    "geom:longitude":-71.585797,
+    "iso:country":"US",
+    "sg:address":"21 Upham Rd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 8822",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DNSPmg8TiczdSnQBC8wwn_42.848363_-71.585797@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298180,
+    "wof:geomhash":"11f39a5e881620b05de90c58a80cd5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873822621
+        }
+    ],
+    "wof:id":873822621,
+    "wof:lastmodified":1464298180,
+    "wof:name":"Knight Custom Homes",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.585797,
+    42.848363,
+    -71.585797,
+    42.848363
+],
+  "geometry": {"coordinates":[-71.585797,42.848363],"type":"Point"}
+}

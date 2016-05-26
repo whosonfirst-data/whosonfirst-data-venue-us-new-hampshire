@@ -1,0 +1,73 @@
+{
+  "id": 873897133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.908145,44.096113,-71.908145,44.096113",
+    "geom:latitude":44.096113,
+    "geom:longitude":-71.908145,
+    "iso:country":"US",
+    "sg:address":"11 Howe Hill Rd",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 787 6688",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wYqcBCWOMSfCBzgsKYXeA_44.096113_-71.908145@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299768,
+    "wof:geomhash":"89cd620a4f82f86893ff7cb4a029845b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873897133
+        }
+    ],
+    "wof:id":873897133,
+    "wof:lastmodified":1464299768,
+    "wof:name":"Richard Saffo Con Contg Co",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.908145,
+    44.096113,
+    -71.908145,
+    44.096113
+],
+  "geometry": {"coordinates":[-71.908145,44.096113],"type":"Point"}
+}

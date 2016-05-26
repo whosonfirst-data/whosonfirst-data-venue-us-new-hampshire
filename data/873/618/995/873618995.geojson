@@ -1,0 +1,69 @@
+{
+  "id": 873618995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.380329,43.318583,-72.380329,43.318583",
+    "geom:latitude":43.318583,
+    "geom:longitude":-72.380329,
+    "iso:country":"US",
+    "sg:address":"291 Calavant Hill Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 5614",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AeiprXGEEnjuCcsq6FgFm_43.318583_-72.380329@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295240,
+    "wof:geomhash":"646e31ec115f740f2fd9b5e581351e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873618995
+        }
+    ],
+    "wof:id":873618995,
+    "wof:lastmodified":1464295240,
+    "wof:name":"R & L Sharpening Svc",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -72.380329,
+    43.318583,
+    -72.380329,
+    43.318583
+],
+  "geometry": {"coordinates":[-72.380329,43.318583],"type":"Point"}
+}

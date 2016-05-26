@@ -1,0 +1,94 @@
+{
+  "id": 873928241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536835,43.205025,-71.536835,43.205025",
+    "geom:latitude":43.205025,
+    "geom:longitude":-71.536835,
+    "iso:country":"US",
+    "sg:address":"1 Bicentennial Sq",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2821",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mexican",
+        "cocktail",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2szTWmcIaPdbn2FVwF20qn_43.205025_-71.536835@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300373,
+    "wof:geomhash":"692b987632fe7c695fd6696ca357a753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873928241
+        }
+    ],
+    "wof:id":873928241,
+    "wof:lastmodified":1464300373,
+    "wof:name":"Margaritas",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "cocktail",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.536835,
+    43.205025,
+    -71.536835,
+    43.205025
+],
+  "geometry": {"coordinates":[-71.536835,43.205025],"type":"Point"}
+}

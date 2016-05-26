@@ -1,0 +1,71 @@
+{
+  "id": 873789773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.168156,43.024794,-71.168156,43.024794",
+    "geom:latitude":43.024794,
+    "geom:longitude":-71.168156,
+    "iso:country":"US",
+    "sg:address":"7 Old Fremont Rd",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 0272",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WeLBTjy3519FrC37jL0Jx_43.024794_-71.168156@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297638,
+    "wof:geomhash":"85a3bef7b664027d6291037b755e3e2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873789773
+        }
+    ],
+    "wof:id":873789773,
+    "wof:lastmodified":1464297638,
+    "wof:name":"John Taylor & Sons",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.168156,
+    43.024794,
+    -71.168156,
+    43.024794
+],
+  "geometry": {"coordinates":[-71.168156,43.024794],"type":"Point"}
+}

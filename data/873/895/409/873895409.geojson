@@ -1,0 +1,71 @@
+{
+  "id": 873895409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393518,43.68579,-71.393518,43.68579",
+    "geom:latitude":43.68579,
+    "geom:longitude":-71.393518,
+    "iso:country":"US",
+    "sg:address":"30 King's Ct",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 7843",
+    "sg:postcode":"03226",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858315,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w4v8G8A3V7JZNb1Y0U4oB_43.685790_-71.393518@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299728,
+    "wof:geomhash":"2dc9e42aad9d5c6edeb6121ab291f0c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85858315,
+            "region_id":85688689,
+            "venue_id":873895409
+        }
+    ],
+    "wof:id":873895409,
+    "wof:lastmodified":1464299728,
+    "wof:name":"King's Stone Masonry",
+    "wof:parent_id":85858315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.393518,
+    43.68579,
+    -71.393518,
+    43.68579
+],
+  "geometry": {"coordinates":[-71.393518,43.68579],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873631301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.736467,43.587925,-71.736467,43.587925",
+    "geom:latitude":43.587925,
+    "geom:longitude":-71.736467,
+    "iso:country":"US",
+    "sg:address":"10 Prospect St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 8570",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QEgSf6dWdhKr3enSvEYVv_43.587925_-71.736467@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295378,
+    "wof:geomhash":"2707c42bac027e7e58bfa5d06246651b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873631301
+        }
+    ],
+    "wof:id":873631301,
+    "wof:lastmodified":1464295378,
+    "wof:name":"Kim Thompson Plumbing & Htg",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.736467,
+    43.587925,
+    -71.736467,
+    43.587925
+],
+  "geometry": {"coordinates":[-71.736467,43.587925],"type":"Point"}
+}

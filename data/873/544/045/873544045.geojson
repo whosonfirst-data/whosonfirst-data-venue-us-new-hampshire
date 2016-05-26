@@ -1,0 +1,71 @@
+{
+  "id": 873544045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.657493,43.439555,-71.657493,43.439555",
+    "geom:latitude":43.439555,
+    "geom:longitude":-71.657493,
+    "iso:country":"US",
+    "sg:address":"128 S Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3287",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XAPbaIwlM4d6y1xB9jArV_43.439555_-71.657493@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294307,
+    "wof:geomhash":"a0115822e2a30c991cb335bddc360d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873544045
+        }
+    ],
+    "wof:id":873544045,
+    "wof:lastmodified":1464294307,
+    "wof:name":"Rainbow Investments LLC",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -71.657493,
+    43.439555,
+    -71.657493,
+    43.439555
+],
+  "geometry": {"coordinates":[-71.657493,43.439555],"type":"Point"}
+}

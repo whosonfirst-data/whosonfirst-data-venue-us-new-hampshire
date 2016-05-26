@@ -1,0 +1,80 @@
+{
+  "id": 873897447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423464,43.567208,-71.423464,43.567208",
+    "geom:latitude":43.567208,
+    "geom:longitude":-71.423464,
+    "iso:country":"US",
+    "sg:address":"29 Gilford East Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 4000",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dock"
+    ],
+    "sg:website":"www.docksource.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hWsIVw6annF8yWi3V7Mo4_43.567208_-71.423464@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299773,
+    "wof:geomhash":"a63b93e2a1a46da397cd7e845c92a14c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873897447
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873897447
+        }
+    ],
+    "wof:id":873897447,
+    "wof:lastmodified":1464299773,
+    "wof:name":"Watermark Marine Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock"
+    ]
+},
+  "bbox": [
+    -71.423464,
+    43.567208,
+    -71.423464,
+    43.567208
+],
+  "geometry": {"coordinates":[-71.423464,43.567208],"type":"Point"}
+}

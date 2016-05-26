@@ -1,0 +1,71 @@
+{
+  "id": 873836453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.110662,43.011792,-71.110662,43.011792",
+    "geom:latitude":43.011792,
+    "geom:longitude":-71.110662,
+    "iso:country":"US",
+    "sg:address":"96 North Rd",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 5140",
+    "sg:postcode":"03044",
+    "sg:province":"NH",
+    "sg:tags":[
+        "justice",
+        "peace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qNLdE3lP9WSsmu9cnIZe7_43.011792_-71.110662@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298475,
+    "wof:geomhash":"ea1ff42d57c30791f2cc80f84c9eb6ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873836453
+        }
+    ],
+    "wof:id":873836453,
+    "wof:lastmodified":1464298475,
+    "wof:name":"Thomas J Repcznski",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "peace"
+    ]
+},
+  "bbox": [
+    -71.110662,
+    43.011792,
+    -71.110662,
+    43.011792
+],
+  "geometry": {"coordinates":[-71.110662,43.011792],"type":"Point"}
+}

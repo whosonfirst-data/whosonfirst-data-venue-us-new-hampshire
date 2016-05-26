@@ -1,0 +1,71 @@
+{
+  "id": 873643817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.25486,44.525651,-71.25486,44.525651",
+    "geom:latitude":44.525651,
+    "geom:longitude":-71.25486,
+    "iso:country":"US",
+    "sg:address":"228 W Milan Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5217",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17rZKr3pezQNuXs7ZpyBof_44.525651_-71.254860@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295523,
+    "wof:geomhash":"5356204b12ccecc23123097684d06f24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873643817
+        }
+    ],
+    "wof:id":873643817,
+    "wof:lastmodified":1464295523,
+    "wof:name":"Paul Cloutier Constr Inc",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.25486,
+    44.525651,
+    -71.25486,
+    44.525651
+],
+  "geometry": {"coordinates":[-71.25485999999999,44.525651],"type":"Point"}
+}

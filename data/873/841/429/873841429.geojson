@@ -1,0 +1,65 @@
+{
+  "id": 873841429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.004745,43.215276,-71.004745,43.215276",
+    "geom:latitude":43.215276,
+    "geom:longitude":-71.004745,
+    "iso:country":"US",
+    "sg:address":"143 State Rte 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 5503",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:website":"www.irvingoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11VLxtjwEpnWFphyneEKlS_43.215276_-71.004745@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298585,
+    "wof:geomhash":"d1d27a8b216c3c5598e30967eeab5fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873841429
+        }
+    ],
+    "wof:id":873841429,
+    "wof:lastmodified":1464298585,
+    "wof:name":"Irving Oil Corp",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.004745,
+    43.215276,
+    -71.004745,
+    43.215276
+],
+  "geometry": {"coordinates":[-71.004745,43.215276],"type":"Point"}
+}

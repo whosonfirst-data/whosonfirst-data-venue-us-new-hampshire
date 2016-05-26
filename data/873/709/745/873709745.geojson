@@ -1,0 +1,71 @@
+{
+  "id": 873709745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498762,43.187531,-71.498762,43.187531",
+    "geom:latitude":43.187531,
+    "geom:longitude":-71.498762,
+    "iso:country":"US",
+    "sg:address":"163 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 4941",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LrZHGSVHO7IAMVkjJCzXL_43.187531_-71.498762@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296518,
+    "wof:geomhash":"7438c3727be00519f915aefc856de7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873709745
+        }
+    ],
+    "wof:id":873709745,
+    "wof:lastmodified":1464296518,
+    "wof:name":"Merriam Graves Medical Div",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -71.498762,
+    43.187531,
+    -71.498762,
+    43.187531
+],
+  "geometry": {"coordinates":[-71.498762,43.187531],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873916991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467105,42.764544,-71.467105,42.764544",
+    "geom:latitude":42.764544,
+    "geom:longitude":-71.467105,
+    "iso:country":"US",
+    "sg:address":"23 Main St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/30503-sopranos-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 0443",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HXGfqzO5wIBZtsn2lkskt_42.764544_-71.467105@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300158,
+    "wof:geomhash":"9cfb03160968406595b91d66a1a3a8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873916991
+        }
+    ],
+    "wof:id":873916991,
+    "wof:lastmodified":1464300158,
+    "wof:name":"Sopranos Pizzeria",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.467105,
+    42.764544,
+    -71.467105,
+    42.764544
+],
+  "geometry": {"coordinates":[-71.467105,42.764544],"type":"Point"}
+}

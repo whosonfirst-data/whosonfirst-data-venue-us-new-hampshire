@@ -1,0 +1,77 @@
+{
+  "id": 873569351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411255,43.58723,-71.411255,43.58723",
+    "geom:latitude":43.58723,
+    "geom:longitude":-71.411255,
+    "iso:country":"US",
+    "sg:address":"45 Dockham Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 9300",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w4JN3oTU6jiIfjxY59hz3_43.587230_-71.411255@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294598,
+    "wof:geomhash":"cbfd4f6b1f597e9e8641a77ea248fcf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873569351
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873569351
+        }
+    ],
+    "wof:id":873569351,
+    "wof:lastmodified":1464294598,
+    "wof:name":"Winnipesaukee Yacht Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.411255,
+    43.58723,
+    -71.411255,
+    43.58723
+],
+  "geometry": {"coordinates":[-71.411255,43.58723],"type":"Point"}
+}

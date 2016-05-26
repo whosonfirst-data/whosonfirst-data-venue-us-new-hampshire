@@ -1,0 +1,73 @@
+{
+  "id": 873697803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476401,43.523036,-71.476401,43.523036",
+    "geom:latitude":43.523036,
+    "geom:longitude":-71.476401,
+    "iso:country":"US",
+    "sg:address":"55 Bay St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5063",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jBQge6uDIMFNaTwaoa4Qz_43.523036_-71.476401@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296382,
+    "wof:geomhash":"0ea268f1288a8f83c9d03d2320a08380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873697803
+        }
+    ],
+    "wof:id":873697803,
+    "wof:lastmodified":1464296382,
+    "wof:name":"Fuller Oil",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.476401,
+    43.523036,
+    -71.476401,
+    43.523036
+],
+  "geometry": {"coordinates":[-71.476401,43.523036],"type":"Point"}
+}

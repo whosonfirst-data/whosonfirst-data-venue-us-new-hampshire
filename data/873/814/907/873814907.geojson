@@ -1,0 +1,73 @@
+{
+  "id": 873814907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.32215,42.878636,-72.32215,42.878636",
+    "geom:latitude":42.878636,
+    "geom:longitude":-72.32215,
+    "iso:country":"US",
+    "sg:address":"98 Pine St",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 7116",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hm19bMCh3mpT6oywvEnCH_42.878636_-72.322150@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298012,
+    "wof:geomhash":"64b12cdad29202fb657c601113376258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873814907
+        }
+    ],
+    "wof:id":873814907,
+    "wof:lastmodified":1464298012,
+    "wof:name":"Swanzey Town Highway Dept",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -72.32215,
+    42.878636,
+    -72.32215,
+    42.878636
+],
+  "geometry": {"coordinates":[-72.32214999999999,42.878636],"type":"Point"}
+}

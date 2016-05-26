@@ -1,0 +1,71 @@
+{
+  "id": 873654635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.380846,42.779945,-71.380846,42.779945",
+    "geom:latitude":42.779945,
+    "geom:longitude":-71.380846,
+    "iso:country":"US",
+    "sg:address":"8 Park Ave",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 5560",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHYMVFP2OcNTSj6rqKmmP_42.779945_-71.380846@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295642,
+    "wof:geomhash":"c8045000f79758050c761e234793af26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873654635
+        }
+    ],
+    "wof:id":873654635,
+    "wof:lastmodified":1464295642,
+    "wof:name":"Gringeri Brothers",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.380846,
+    42.779945,
+    -71.380846,
+    42.779945
+],
+  "geometry": {"coordinates":[-71.38084600000001,42.779945],"type":"Point"}
+}

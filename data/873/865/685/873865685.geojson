@@ -1,0 +1,71 @@
+{
+  "id": 873865685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500904,42.956301,-71.500904,42.956301",
+    "geom:latitude":42.956301,
+    "geom:longitude":-71.500904,
+    "iso:country":"US",
+    "sg:address":"48 Constitution Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8888",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "spinal",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_524K4CUg0CL797ut9nUf3b_42.956301_-71.500904@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299150,
+    "wof:geomhash":"cf3975a3ad6df3e558407146bd4f64b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873865685
+        }
+    ],
+    "wof:id":873865685,
+    "wof:lastmodified":1464299150,
+    "wof:name":"New Hmpshire Nerospine Inst PA",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spinal",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.500904,
+    42.956301,
+    -71.500904,
+    42.956301
+],
+  "geometry": {"coordinates":[-71.50090400000001,42.956301],"type":"Point"}
+}

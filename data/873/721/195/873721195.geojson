@@ -1,0 +1,73 @@
+{
+  "id": 873721195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.316723,42.874959,-71.316723,42.874959",
+    "geom:latitude":42.874959,
+    "geom:longitude":-71.316723,
+    "iso:country":"US",
+    "sg:address":"67 Birch St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 2304",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tzvt1Gkff7zBbwE0qdbG3_42.874959_-71.316723@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296665,
+    "wof:geomhash":"9968d3d3c89065f4691444ad7cd5eb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873721195
+        }
+    ],
+    "wof:id":873721195,
+    "wof:lastmodified":1464296665,
+    "wof:name":"Cars Direct",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.316723,
+    42.874959,
+    -71.316723,
+    42.874959
+],
+  "geometry": {"coordinates":[-71.316723,42.874959],"type":"Point"}
+}

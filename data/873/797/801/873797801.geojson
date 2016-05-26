@@ -1,0 +1,73 @@
+{
+  "id": 873797801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.755863,43.239826,-71.755863,43.239826",
+    "geom:latitude":43.239826,
+    "geom:longitude":-71.755863,
+    "iso:country":"US",
+    "sg:address":"5 Marsh Ln",
+    "sg:city":"Warner",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 4175",
+    "sg:postcode":"03278",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vRkaMaEa4L7Wlsq6htQ4V_43.239826_-71.755863@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297747,
+    "wof:geomhash":"c7460af747cb7928a2f4fed81026bfe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873797801
+        }
+    ],
+    "wof:id":873797801,
+    "wof:lastmodified":1464297747,
+    "wof:name":"BJ Carpentry",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.755863,
+    43.239826,
+    -71.755863,
+    43.239826
+],
+  "geometry": {"coordinates":[-71.75586300000001,43.239826],"type":"Point"}
+}

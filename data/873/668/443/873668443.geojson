@@ -1,0 +1,69 @@
+{
+  "id": 873668443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517519,42.81804,-71.517519,42.81804",
+    "geom:latitude":42.81804,
+    "geom:longitude":-71.517519,
+    "iso:country":"US",
+    "sg:address":"134 Camp Sargent Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 1577",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NsTV6OcUKhPsR07E41uKD_42.818040_-71.517519@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295785,
+    "wof:geomhash":"430d9cf542025995491e09c45f45d6d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873668443
+        }
+    ],
+    "wof:id":873668443,
+    "wof:lastmodified":1464295785,
+    "wof:name":"Thorntons Frry Elementary Schl",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.517519,
+    42.81804,
+    -71.517519,
+    42.81804
+],
+  "geometry": {"coordinates":[-71.51751899999999,42.81804],"type":"Point"}
+}

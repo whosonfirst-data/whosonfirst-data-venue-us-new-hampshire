@@ -1,0 +1,71 @@
+{
+  "id": 873812183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241205,42.763115,-71.241205,42.763115",
+    "geom:latitude":42.763115,
+    "geom:longitude":-71.241205,
+    "iso:country":"US",
+    "sg:address":"11 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0099",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D1mAmLXCeYmrQYFZM8pys_42.763115_-71.241205@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297964,
+    "wof:geomhash":"049881ca589c4473a8a6baffe5a3f69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873812183
+        }
+    ],
+    "wof:id":873812183,
+    "wof:lastmodified":1464297964,
+    "wof:name":"Foreign Autopart",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.241205,
+    42.763115,
+    -71.241205,
+    42.763115
+],
+  "geometry": {"coordinates":[-71.24120499999999,42.763115],"type":"Point"}
+}

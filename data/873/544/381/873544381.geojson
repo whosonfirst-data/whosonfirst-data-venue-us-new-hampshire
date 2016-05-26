@@ -1,0 +1,75 @@
+{
+  "id": 873544381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467601,43.521625,-71.467601,43.521625",
+    "geom:latitude":43.521625,
+    "geom:longitude":-71.467601,
+    "iso:country":"US",
+    "sg:address":"29 Center St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4880",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "masonry",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NDe0BsKDHudJE4qAjENJR_43.521625_-71.467601@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294310,
+    "wof:geomhash":"f2cff87bfa77e59ca873a65e952c9eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873544381
+        }
+    ],
+    "wof:id":873544381,
+    "wof:lastmodified":1464294310,
+    "wof:name":"Mas-Con Corp",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "masonry",
+        "work"
+    ]
+},
+  "bbox": [
+    -71.467601,
+    43.521625,
+    -71.467601,
+    43.521625
+],
+  "geometry": {"coordinates":[-71.467601,43.521625],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873686351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424224,43.568782,-71.424224,43.568782",
+    "geom:latitude":43.568782,
+    "geom:longitude":-71.424224,
+    "iso:country":"US",
+    "sg:address":"22 Airport Rd",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 476 2591",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t4d0YLeobEXutML3yvGJ4_43.568782_-71.424224@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296176,
+    "wof:geomhash":"f826e6af14e65e1948c9a628e5e83492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873686351
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873686351
+        }
+    ],
+    "wof:id":873686351,
+    "wof:lastmodified":1464296176,
+    "wof:name":"Larson's Automotive Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.424224,
+    43.568782,
+    -71.424224,
+    43.568782
+],
+  "geometry": {"coordinates":[-71.424224,43.568782],"type":"Point"}
+}

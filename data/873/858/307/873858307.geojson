@@ -1,0 +1,75 @@
+{
+  "id": 873858307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1974,44.480457,-71.1974,44.480457",
+    "geom:latitude":44.480457,
+    "geom:longitude":-71.1974,
+    "iso:country":"US",
+    "sg:address":"17 Jericho Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1266",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pwM8KGLpT2frH7W3WIHsn_44.480457_-71.197400@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298978,
+    "wof:geomhash":"4a574c375c7cecffbe18257feaf66ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873858307
+        }
+    ],
+    "wof:id":873858307,
+    "wof:lastmodified":1464298978,
+    "wof:name":"Dave's Auto Tech",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.1974,
+    44.480457,
+    -71.1974,
+    44.480457
+],
+  "geometry": {"coordinates":[-71.1974,44.480457],"type":"Point"}
+}

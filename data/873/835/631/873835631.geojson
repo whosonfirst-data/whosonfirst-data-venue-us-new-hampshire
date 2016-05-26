@@ -1,0 +1,71 @@
+{
+  "id": 873835631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.810296,43.190311,-71.810296,43.190311",
+    "geom:latitude":43.190311,
+    "geom:longitude":-71.810296,
+    "iso:country":"US",
+    "sg:address":"24 Foster Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 4163",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CRvvNA6nQsEATTfrD2Vxg_43.190311_-71.810296@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298457,
+    "wof:geomhash":"28eef40aa4137672bae51547400a1ccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873835631
+        }
+    ],
+    "wof:id":873835631,
+    "wof:lastmodified":1464298457,
+    "wof:name":"New London Septic Svc",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.810296,
+    43.190311,
+    -71.810296,
+    43.190311
+],
+  "geometry": {"coordinates":[-71.81029599999999,43.190311],"type":"Point"}
+}

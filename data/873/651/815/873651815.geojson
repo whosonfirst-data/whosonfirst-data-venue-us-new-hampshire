@@ -1,0 +1,69 @@
+{
+  "id": 873651815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192493,44.430699,-71.192493,44.430699",
+    "geom:latitude":44.430699,
+    "geom:longitude":-71.192493,
+    "iso:country":"US",
+    "sg:address":"515 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5588",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Joj7bGt25xBCHO1BP0jR_44.430699_-71.192493@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295611,
+    "wof:geomhash":"0a17c5220a54600514683d52e776324f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873651815
+        }
+    ],
+    "wof:id":873651815,
+    "wof:lastmodified":1464295611,
+    "wof:name":"Proquip LLC",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.192493,
+    44.430699,
+    -71.192493,
+    44.430699
+],
+  "geometry": {"coordinates":[-71.192493,44.430699],"type":"Point"}
+}

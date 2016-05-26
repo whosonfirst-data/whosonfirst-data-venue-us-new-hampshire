@@ -1,0 +1,71 @@
+{
+  "id": 873587549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519752,42.941526,-71.519752,42.941526",
+    "geom:latitude":42.941526,
+    "geom:longitude":-71.519752,
+    "iso:country":"US",
+    "sg:address":"172 State Rte 101",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 8226",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "claim",
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VjtT5R0eTdhbwCcGvSlK3_42.941526_-71.519752@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"df63b0466f8d3bed75feb57db65f9dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873587549
+        }
+    ],
+    "wof:id":873587549,
+    "wof:lastmodified":1464294803,
+    "wof:name":"Insurance Adjustment Service",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "claim",
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -71.519752,
+    42.941526,
+    -71.519752,
+    42.941526
+],
+  "geometry": {"coordinates":[-71.519752,42.941526],"type":"Point"}
+}

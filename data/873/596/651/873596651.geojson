@@ -1,0 +1,70 @@
+{
+  "id": 873596651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.740095,43.590976,-71.740095,43.590976",
+    "geom:latitude":43.590976,
+    "geom:longitude":-71.740095,
+    "iso:country":"US",
+    "sg:address":"150 Lake St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 5331",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ironwork"
+    ],
+    "sg:website":"www.ironhorsemetalworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ISPgBiSedX6X4taChauBl_43.590976_-71.740095@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"3b0dabb85965b523ba0bfdce5d04b9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873596651
+        }
+    ],
+    "wof:id":873596651,
+    "wof:lastmodified":1464294939,
+    "wof:name":"Iron Horse Metal Works",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ironwork"
+    ]
+},
+  "bbox": [
+    -71.740095,
+    43.590976,
+    -71.740095,
+    43.590976
+],
+  "geometry": {"coordinates":[-71.740095,43.590976],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873785235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.05955,44.011278,-71.05955,44.011278",
+    "geom:latitude":44.011278,
+    "geom:longitude":-71.05955,
+    "iso:country":"US",
+    "sg:address":"1800 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 6501",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MqrtIrzs4KYV8x5Zcvrpq_44.011278_-71.059550@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297559,
+    "wof:geomhash":"4a0a15c771f7f4e8f840e2fd356332e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873785235
+        }
+    ],
+    "wof:id":873785235,
+    "wof:lastmodified":1464297559,
+    "wof:name":"Country Clipper",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.05955,
+    44.011278,
+    -71.05955,
+    44.011278
+],
+  "geometry": {"coordinates":[-71.05955,44.011278],"type":"Point"}
+}

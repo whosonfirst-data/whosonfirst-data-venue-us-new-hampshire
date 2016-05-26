@@ -1,0 +1,69 @@
+{
+  "id": 873892401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.163022,44.482302,-71.163022,44.482302",
+    "geom:latitude":44.482302,
+    "geom:longitude":-71.163022,
+    "iso:country":"US",
+    "sg:address":"148 Bridge St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1235",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TVie43V1Ssji0OWteVVWH_44.482302_-71.163022@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299674,
+    "wof:geomhash":"a32457e6b2d1b987725a925faf253416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873892401
+        }
+    ],
+    "wof:id":873892401,
+    "wof:lastmodified":1464299674,
+    "wof:name":"Sevigny Trucking",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.163022,
+    44.482302,
+    -71.163022,
+    44.482302
+],
+  "geometry": {"coordinates":[-71.163022,44.482302],"type":"Point"}
+}

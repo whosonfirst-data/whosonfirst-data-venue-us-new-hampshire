@@ -1,0 +1,75 @@
+{
+  "id": 873920991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599973,42.710397,-71.599973,42.710397",
+    "geom:latitude":42.710397,
+    "geom:longitude":-71.599973,
+    "iso:country":"US",
+    "sg:address":"114 N Pepperell Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 9560",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocers-wholesale"
+    ],
+    "sg:website":"http://www.cargill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LWXR229JVVA5FhFng79Xc_42.710397_-71.599973@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300227,
+    "wof:geomhash":"abc8a2b78e5cab19b5c4bb6575f2b11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873920991
+        }
+    ],
+    "wof:id":873920991,
+    "wof:lastmodified":1464300227,
+    "wof:name":"Cargill",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale"
+    ]
+},
+  "bbox": [
+    -71.599973,
+    42.710397,
+    -71.599973,
+    42.710397
+],
+  "geometry": {"coordinates":[-71.59997300000001,42.710397],"type":"Point"}
+}

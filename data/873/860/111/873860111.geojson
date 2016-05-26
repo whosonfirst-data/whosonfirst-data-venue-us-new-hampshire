@@ -1,0 +1,69 @@
+{
+  "id": 873860111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.721482,43.068719,-71.721482,43.068719",
+    "geom:latitude":43.068719,
+    "geom:longitude":-71.721482,
+    "iso:country":"US",
+    "sg:address":"11 Maplewold Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 2475",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53X67KSgJIcb4H1wJUrbOR_43.068719_-71.721482@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299022,
+    "wof:geomhash":"05f6989eb3dc3b1596f0fff956659012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873860111
+        }
+    ],
+    "wof:id":873860111,
+    "wof:lastmodified":1464299022,
+    "wof:name":"Garard Catering",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.721482,
+    43.068719,
+    -71.721482,
+    43.068719
+],
+  "geometry": {"coordinates":[-71.72148199999999,43.068719],"type":"Point"}
+}

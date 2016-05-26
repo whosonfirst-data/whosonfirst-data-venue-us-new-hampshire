@@ -1,0 +1,71 @@
+{
+  "id": 873715173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.203766,44.597565,-71.203766,44.597565",
+    "geom:latitude":44.597565,
+    "geom:longitude":-71.203766,
+    "iso:country":"US",
+    "sg:address":"31 State Garage Rd",
+    "sg:city":"Milan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 449 3332",
+    "sg:postcode":"03588",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oRWGpFlkxRHyKm6BxhRxA_44.597565_-71.203766@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296583,
+    "wof:geomhash":"ab3e3f9a78a6d22b4df2d5c8e4ca4b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873715173
+        }
+    ],
+    "wof:id":873715173,
+    "wof:lastmodified":1464296583,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.203766,
+    44.597565,
+    -71.203766,
+    44.597565
+],
+  "geometry": {"coordinates":[-71.203766,44.597565],"type":"Point"}
+}

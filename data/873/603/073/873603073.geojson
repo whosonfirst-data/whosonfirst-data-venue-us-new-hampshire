@@ -1,0 +1,69 @@
+{
+  "id": 873603073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.804631,43.100829,-70.804631,43.100829",
+    "geom:latitude":43.100829,
+    "geom:longitude":-70.804631,
+    "iso:country":"US",
+    "sg:address":"40 Old Dover Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 3500",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z8ZyfRlxnQ7rmbQh5H0xQ_43.100829_-70.804631@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295019,
+    "wof:geomhash":"c00e0e62989f5c6fb3bbe3f3644cf31e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873603073
+        }
+    ],
+    "wof:id":873603073,
+    "wof:lastmodified":1464295019,
+    "wof:name":"Rainbow North American Van",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -70.804631,
+    43.100829,
+    -70.804631,
+    43.100829
+],
+  "geometry": {"coordinates":[-70.804631,43.100829],"type":"Point"}
+}

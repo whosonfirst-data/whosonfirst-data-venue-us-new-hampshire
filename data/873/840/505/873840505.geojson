@@ -1,0 +1,71 @@
+{
+  "id": 873840505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469795,43.527464,-71.469795,43.527464",
+    "geom:latitude":43.527464,
+    "geom:longitude":-71.469795,
+    "iso:country":"US",
+    "sg:address":"556 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8777",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACfGHZGBFsXT6LmxG0cnA_43.527464_-71.469795@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298563,
+    "wof:geomhash":"67c62ea35a361ae05f9738def58740a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873840505
+        }
+    ],
+    "wof:id":873840505,
+    "wof:lastmodified":1464298563,
+    "wof:name":"Empire Beauty School Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -71.469795,
+    43.527464,
+    -71.469795,
+    43.527464
+],
+  "geometry": {"coordinates":[-71.469795,43.527464],"type":"Point"}
+}

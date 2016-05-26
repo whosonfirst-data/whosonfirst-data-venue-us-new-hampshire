@@ -1,0 +1,71 @@
+{
+  "id": 873854557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42958,42.761051,-71.42958,42.761051",
+    "geom:latitude":42.761051,
+    "geom:longitude":-71.42958,
+    "iso:country":"US",
+    "sg:address":"13 Melendy Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 3409",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GxAkI8CthvupB9UYP1ssk_42.761051_-71.429580@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298906,
+    "wof:geomhash":"2eed6c122924bec076c8254870888ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873854557
+        }
+    ],
+    "wof:id":873854557,
+    "wof:lastmodified":1464298906,
+    "wof:name":"Delta Electric",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.42958,
+    42.761051,
+    -71.42958,
+    42.761051
+],
+  "geometry": {"coordinates":[-71.42958,42.761051],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873545197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241725,42.781102,-71.241725,42.781102",
+    "geom:latitude":42.781102,
+    "geom:longitude":-71.241725,
+    "iso:country":"US",
+    "sg:address":"4 Northeastern Blvd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 896 6000",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "other",
+        "plan",
+        "card"
+    ],
+    "sg:website":"www.paymentech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KXX2RIQv596x2lzjjKFzs_42.781102_-71.241725@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294318,
+    "wof:geomhash":"e0d0ca80405f5f35f1435336ee1bf240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873545197
+        }
+    ],
+    "wof:id":873545197,
+    "wof:lastmodified":1464294318,
+    "wof:name":"Paymentech",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "other",
+        "plan",
+        "card"
+    ]
+},
+  "bbox": [
+    -71.241725,
+    42.781102,
+    -71.241725,
+    42.781102
+],
+  "geometry": {"coordinates":[-71.241725,42.781102],"type":"Point"}
+}

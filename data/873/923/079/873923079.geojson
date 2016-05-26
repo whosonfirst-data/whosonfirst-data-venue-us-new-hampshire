@@ -1,0 +1,99 @@
+{
+  "id": 873923079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46106,42.7561,-71.46106,42.7561",
+    "geom:latitude":42.7561,
+    "geom:longitude":-71.46106,
+    "iso:country":"US",
+    "sg:address":"10 Prospect St Ste 102",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 1626",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "pediatrics",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R3BZpqUDJ12RCoV1F1LUO_42.756100_-71.461060@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300272,
+    "wof:geomhash":"e83a79fc454b6f7cf6e44959ef89705b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923079
+        }
+    ],
+    "wof:id":873923079,
+    "wof:lastmodified":1464300272,
+    "wof:name":"Nashua Area Health Center",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -71.46106,
+    42.7561,
+    -71.46106,
+    42.7561
+],
+  "geometry": {"coordinates":[-71.46106,42.7561],"type":"Point"}
+}

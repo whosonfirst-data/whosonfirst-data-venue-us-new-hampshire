@@ -1,0 +1,71 @@
+{
+  "id": 873905991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.93681,43.079073,-70.93681,43.079073",
+    "geom:latitude":43.079073,
+    "geom:longitude":-70.93681,
+    "iso:country":"US",
+    "sg:address":"2 Chapel St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 3140",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u6ec4lr2letQw5frCRmB5_43.079073_-70.936810@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299940,
+    "wof:geomhash":"af5792050fec15c256e1693e7206b9d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873905991
+        }
+    ],
+    "wof:id":873905991,
+    "wof:lastmodified":1464299940,
+    "wof:name":"Great Bay Electrical Service",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.93681,
+    43.079073,
+    -70.93681,
+    43.079073
+],
+  "geometry": {"coordinates":[-70.93680999999999,43.079073],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873838981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467591,43.526557,-71.467591,43.526557",
+    "geom:latitude":43.526557,
+    "geom:longitude":-71.467591,
+    "iso:country":"US",
+    "sg:address":"84 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 9199",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UKfDwuwlIMqB2y5EnpRRw_43.526557_-71.467591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298525,
+    "wof:geomhash":"60fda1b9728fe038025a8f330c3db4ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873838981
+        }
+    ],
+    "wof:id":873838981,
+    "wof:lastmodified":1464298525,
+    "wof:name":"Sottak Orthopedic & Surgical",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -71.467591,
+    43.526557,
+    -71.467591,
+    43.526557
+],
+  "geometry": {"coordinates":[-71.467591,43.526557],"type":"Point"}
+}

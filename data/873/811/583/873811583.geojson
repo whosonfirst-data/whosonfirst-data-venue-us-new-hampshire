@@ -1,0 +1,73 @@
+{
+  "id": 873811583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.801988,43.015472,-70.801988,43.015472",
+    "geom:latitude":43.015472,
+    "geom:longitude":-70.801988,
+    "iso:country":"US",
+    "sg:address":"25 Lafayette Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 3443",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HT0LyJLreX2SQXVqHgavo_43.015472_-70.801988@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297954,
+    "wof:geomhash":"bfe0c580c8bc314c40129dfe3b2112bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873811583
+        }
+    ],
+    "wof:id":873811583,
+    "wof:lastmodified":1464297954,
+    "wof:name":"Dents R Us Auto Body",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -70.801988,
+    43.015472,
+    -70.801988,
+    43.015472
+],
+  "geometry": {"coordinates":[-70.80198799999999,43.015472],"type":"Point"}
+}

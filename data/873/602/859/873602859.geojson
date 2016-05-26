@@ -1,0 +1,75 @@
+{
+  "id": 873602859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.809734,42.912963,-70.809734,42.912963",
+    "geom:latitude":42.912963,
+    "geom:longitude":-70.809734,
+    "iso:country":"US",
+    "sg:address":"12 Island Path",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9285",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526367,
+        102191575,
+        404476755,
+        85633793,
+        85975133,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J1kQE0vWGnFIrHfOBmxB9_42.912963_-70.809734@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295017,
+    "wof:geomhash":"d0d0b71727cbc0f283ec21431e0a27ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975133,
+            "neighbourhood_id":420526367,
+            "region_id":85688689,
+            "venue_id":873602859
+        }
+    ],
+    "wof:id":873602859,
+    "wof:lastmodified":1464295017,
+    "wof:name":"Island Path Parking Lot",
+    "wof:parent_id":420526367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -70.809734,
+    42.912963,
+    -70.809734,
+    42.912963
+],
+  "geometry": {"coordinates":[-70.80973400000001,42.912963],"type":"Point"}
+}

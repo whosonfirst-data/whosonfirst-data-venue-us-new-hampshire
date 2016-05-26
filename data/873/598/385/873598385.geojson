@@ -1,0 +1,71 @@
+{
+  "id": 873598385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.051578,44.255955,-72.051578,44.255955",
+    "geom:latitude":44.255955,
+    "geom:longitude":-72.051578,
+    "iso:country":"US",
+    "sg:address":"200 Woodsville Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2585",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yYwRmIBXTpjoTOhtey1z7_44.255955_-72.051578@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294963,
+    "wof:geomhash":"24d596b65e3b73c80d08718982d61c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873598385
+        }
+    ],
+    "wof:id":873598385,
+    "wof:lastmodified":1464294963,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.051578,
+    44.255955,
+    -72.051578,
+    44.255955
+],
+  "geometry": {"coordinates":[-72.05157800000001,44.255955],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873687327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452519,43.603662,-71.452519,43.603662",
+    "geom:latitude":43.603662,
+    "geom:longitude":-71.452519,
+    "iso:country":"US",
+    "sg:address":"7 Lucerne Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 366 2229",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841143,
+        102191575,
+        404477095,
+        85633793,
+        85975071,
+        102086503,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HHoPC0J4kEVath1wTIyRk_43.603662_-71.452519@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296201,
+    "wof:geomhash":"40b0cbc067007b67299933dc3cc03219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086503,
+            "localadmin_id":404477095,
+            "locality_id":85975071,
+            "neighbourhood_id":85841143,
+            "region_id":85688689,
+            "venue_id":873687327
+        }
+    ],
+    "wof:id":873687327,
+    "wof:lastmodified":1464296201,
+    "wof:name":"Laconia Fire Dept",
+    "wof:parent_id":85841143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.452519,
+    43.603662,
+    -71.452519,
+    43.603662
+],
+  "geometry": {"coordinates":[-71.452519,43.603662],"type":"Point"}
+}

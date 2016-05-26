@@ -1,0 +1,77 @@
+{
+  "id": 873821533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402109,42.975211,-71.402109,42.975211",
+    "geom:latitude":42.975211,
+    "geom:longitude":-71.402109,
+    "iso:country":"US",
+    "sg:address":"127 Pepsi Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 5764",
+    "sg:postcode":"03109",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drink",
+        "soft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526163,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hDkjCycSpEMrEG8tJqUR1_42.975211_-71.402109@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298147,
+    "wof:geomhash":"bfd852f1d8dc4597d9a62e55da636a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526163,
+            "region_id":85688689,
+            "venue_id":873821533
+        }
+    ],
+    "wof:id":873821533,
+    "wof:lastmodified":1464298147,
+    "wof:name":"Pepsi-Cola",
+    "wof:parent_id":420526163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink",
+        "soft"
+    ]
+},
+  "bbox": [
+    -71.402109,
+    42.975211,
+    -71.402109,
+    42.975211
+],
+  "geometry": {"coordinates":[-71.402109,42.975211],"type":"Point"}
+}

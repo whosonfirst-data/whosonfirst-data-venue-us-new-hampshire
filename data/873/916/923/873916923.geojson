@@ -1,0 +1,72 @@
+{
+  "id": 873916923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527824,42.795642,-71.527824,42.795642",
+    "geom:latitude":42.795642,
+    "geom:longitude":-71.527824,
+    "iso:country":"US",
+    "sg:address":"537 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/31049-nathaniels-family-eatery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 4052",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VWtOGAmwIGtCOuVFjVyCA_42.795642_-71.527824@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300157,
+    "wof:geomhash":"9bf0bc919a4d6c0ec2273a43eebc16ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873916923
+        }
+    ],
+    "wof:id":873916923,
+    "wof:lastmodified":1464300157,
+    "wof:name":"Nathaniel's Family Eatery",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.527824,
+    42.795642,
+    -71.527824,
+    42.795642
+],
+  "geometry": {"coordinates":[-71.527824,42.795642],"type":"Point"}
+}

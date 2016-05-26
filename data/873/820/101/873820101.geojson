@@ -1,0 +1,71 @@
+{
+  "id": 873820101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44957,43.562458,-71.44957,43.562458",
+    "geom:latitude":43.562458,
+    "geom:longitude":-71.44957,
+    "iso:country":"US",
+    "sg:address":"1367 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 9111",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_625piYYXhOh9MHrKFvblJM_43.562458_-71.449570@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298121,
+    "wof:geomhash":"1ee6da47fb547de6cd7ea67a1ac3b0ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873820101
+        }
+    ],
+    "wof:id":873820101,
+    "wof:lastmodified":1464298121,
+    "wof:name":"Jon's Roast Beef & Deli",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -71.44957,
+    43.562458,
+    -71.44957,
+    43.562458
+],
+  "geometry": {"coordinates":[-71.44956999999999,43.562458],"type":"Point"}
+}

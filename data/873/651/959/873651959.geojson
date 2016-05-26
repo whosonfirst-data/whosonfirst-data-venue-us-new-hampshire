@@ -1,0 +1,69 @@
+{
+  "id": 873651959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.073407,43.035817,-71.073407,43.035817",
+    "geom:latitude":43.035817,
+    "geom:longitude":-71.073407,
+    "iso:country":"US",
+    "sg:address":"84 Main St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1505",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtdXcc3ybxKszP8Zdv12z_43.035817_-71.073407@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295613,
+    "wof:geomhash":"53928a690cdfb0994d05a69a3efa4a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873651959
+        }
+    ],
+    "wof:id":873651959,
+    "wof:lastmodified":1464295613,
+    "wof:name":"Rockingham Billing Svc",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -71.073407,
+    43.035817,
+    -71.073407,
+    43.035817
+],
+  "geometry": {"coordinates":[-71.073407,43.035817],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873664223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.637082,43.448275,-71.637082,43.448275",
+    "geom:latitude":43.448275,
+    "geom:longitude":-71.637082,
+    "iso:country":"US",
+    "sg:address":"75 Chestnut St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3454",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RFnTRSJQcrODkMa29iDQH_43.448275_-71.637082@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"950aed902872a2f5f4fde3dcc75a3ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873664223
+        }
+    ],
+    "wof:id":873664223,
+    "wof:lastmodified":1464295742,
+    "wof:name":"Franklin Visiting Nurse Assn",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.637082,
+    43.448275,
+    -71.637082,
+    43.448275
+],
+  "geometry": {"coordinates":[-71.63708200000001,43.448275],"type":"Point"}
+}

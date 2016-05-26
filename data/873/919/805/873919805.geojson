@@ -1,0 +1,76 @@
+{
+  "id": 873919805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.669312,42.749329,-71.669312,42.749329",
+    "geom:latitude":42.749329,
+    "geom:longitude":-71.669312,
+    "iso:country":"US",
+    "sg:address":"194 Rt 13",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 3368",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://finelinescollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35D5CE77OYHdtIwpwulJAY_42.749329_-71.669312@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"e557cec900df4dc0e938713768b02383",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919805
+        }
+    ],
+    "wof:id":873919805,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Milford Collision Repair",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -71.669312,
+    42.749329,
+    -71.669312,
+    42.749329
+],
+  "geometry": {"coordinates":[-71.66931200000001,42.749329],"type":"Point"}
+}

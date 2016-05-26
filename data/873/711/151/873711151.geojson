@@ -1,0 +1,77 @@
+{
+  "id": 873711151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531842,43.192893,-71.531842,43.192893",
+    "geom:latitude":43.192893,
+    "geom:longitude":-71.531842,
+    "iso:country":"US",
+    "sg:address":"267 S Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 4461",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdD3rnE7wVUi8VaoLLS7t_43.192893_-71.531842@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296535,
+    "wof:geomhash":"93f7135ab79014113fc10d624742d237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873711151
+        }
+    ],
+    "wof:id":873711151,
+    "wof:lastmodified":1464296535,
+    "wof:name":"Arnos Cleaners",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.531842,
+    43.192893,
+    -71.531842,
+    43.192893
+],
+  "geometry": {"coordinates":[-71.531842,43.192893],"type":"Point"}
+}

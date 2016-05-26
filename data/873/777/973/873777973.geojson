@@ -1,0 +1,69 @@
+{
+  "id": 873777973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571404,43.013787,-71.571404,43.013787",
+    "geom:latitude":43.013787,
+    "geom:longitude":-71.571404,
+    "iso:country":"US",
+    "sg:address":"129 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 8512",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18hmDLLFT3n33BeF5iERQU_43.013787_-71.571404@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297463,
+    "wof:geomhash":"d99f30315dbd0d15da96edbd0c2bc3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873777973
+        }
+    ],
+    "wof:id":873777973,
+    "wof:lastmodified":1464297463,
+    "wof:name":"Accelerated Automotive Tech",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.571404,
+    43.013787,
+    -71.571404,
+    43.013787
+],
+  "geometry": {"coordinates":[-71.571404,43.013787],"type":"Point"}
+}

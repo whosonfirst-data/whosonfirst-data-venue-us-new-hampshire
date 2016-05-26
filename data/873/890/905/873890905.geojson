@@ -1,0 +1,69 @@
+{
+  "id": 873890905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.777372,43.178989,-71.777372,43.178989",
+    "geom:latitude":43.178989,
+    "geom:longitude":-71.777372,
+    "iso:country":"US",
+    "sg:address":"15 Old Concord Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 4289",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824217,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45wZOqxV84kC99j5aqM7iC_43.178989_-71.777372@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299647,
+    "wof:geomhash":"fed31dd5c93b01c9b3cb49da914f07fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85824217,
+            "region_id":85688689,
+            "venue_id":873890905
+        }
+    ],
+    "wof:id":873890905,
+    "wof:lastmodified":1464299647,
+    "wof:name":"Back Bay Stone",
+    "wof:parent_id":85824217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [
+    -71.777372,
+    43.178989,
+    -71.777372,
+    43.178989
+],
+  "geometry": {"coordinates":[-71.777372,43.178989],"type":"Point"}
+}

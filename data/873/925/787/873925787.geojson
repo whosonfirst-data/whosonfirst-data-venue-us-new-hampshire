@@ -1,0 +1,82 @@
+{
+  "id": 873925787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.244569,42.798488,-71.244569,42.798488",
+    "geom:latitude":42.798488,
+    "geom:longitude":-71.244569,
+    "iso:country":"US",
+    "sg:address":"140 N Policy St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 1769",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "personal",
+        "living",
+        "assisted",
+        "home",
+        "elder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pmwiIhF7iQ63vNdPXH8cP_42.798488_-71.244569@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300322,
+    "wof:geomhash":"e49e8661adf7ce1618f15819f9cdd181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873925787
+        }
+    ],
+    "wof:id":873925787,
+    "wof:lastmodified":1464300322,
+    "wof:name":"Coping Life",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "living",
+        "assisted",
+        "home",
+        "elder"
+    ]
+},
+  "bbox": [
+    -71.244569,
+    42.798488,
+    -71.244569,
+    42.798488
+],
+  "geometry": {"coordinates":[-71.244569,42.798488],"type":"Point"}
+}

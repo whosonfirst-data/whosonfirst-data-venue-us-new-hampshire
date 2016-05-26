@@ -1,0 +1,71 @@
+{
+  "id": 873906433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.572792,44.498693,-71.572792,44.498693",
+    "geom:latitude":44.498693,
+    "geom:longitude":-71.572792,
+    "iso:country":"US",
+    "sg:address":"23 Kilkenny St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2333",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AhFfg0FAmLjpw9Unw8rcZ_44.498693_-71.572792@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299948,
+    "wof:geomhash":"9858a13a030eb8630d61a81f5efff101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873906433
+        }
+    ],
+    "wof:id":873906433,
+    "wof:lastmodified":1464299948,
+    "wof:name":"Hodgdon & Son Logging",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -71.572792,
+    44.498693,
+    -71.572792,
+    44.498693
+],
+  "geometry": {"coordinates":[-71.57279200000001,44.498693],"type":"Point"}
+}

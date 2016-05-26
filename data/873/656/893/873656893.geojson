@@ -1,0 +1,71 @@
+{
+  "id": 873656893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430204,43.564346,-71.430204,43.564346",
+    "geom:latitude":43.564346,
+    "geom:longitude":-71.430204,
+    "iso:country":"US",
+    "sg:address":"47 Annis Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3235",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a4vHSW3c78MsCYPhDWCpm_43.564346_-71.430204@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295666,
+    "wof:geomhash":"0cf9592bfca193ffa9926ba22008fdc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873656893
+        }
+    ],
+    "wof:id":873656893,
+    "wof:lastmodified":1464295666,
+    "wof:name":"Sunshine Cleaning Sevices",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.430204,
+    43.564346,
+    -71.430204,
+    43.564346
+],
+  "geometry": {"coordinates":[-71.430204,43.564346],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873559403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.921555,43.000134,-70.921555,43.000134",
+    "geom:latitude":43.000134,
+    "geom:longitude":-70.921555,
+    "iso:country":"US",
+    "sg:address":"37 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0300",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.exeter.subarudealer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZPlVqYseBtIvtxnVwKMf_43.000134_-70.921555@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294493,
+    "wof:geomhash":"91ffa462c0bc67eb9cea2624d7f953ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873559403
+        }
+    ],
+    "wof:id":873559403,
+    "wof:lastmodified":1464294493,
+    "wof:name":"Exeter Subaru",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -70.921555,
+    43.000134,
+    -70.921555,
+    43.000134
+],
+  "geometry": {"coordinates":[-70.921555,43.000134],"type":"Point"}
+}

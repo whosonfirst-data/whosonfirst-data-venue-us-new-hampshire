@@ -1,0 +1,69 @@
+{
+  "id": 873815773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257432,43.339541,-71.257432,43.339541",
+    "geom:latitude":43.339541,
+    "geom:longitude":-71.257432,
+    "iso:country":"US",
+    "sg:address":"10 Shackford Corner Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 435 8320",
+    "sg:postcode":"03225",
+    "sg:province":"NH",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IIxLKN6DEaGRTMb8mmLYP_43.339541_-71.257432@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298029,
+    "wof:geomhash":"bcb6f1ad1d0ada2099ea659a92eb7687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873815773
+        }
+    ],
+    "wof:id":873815773,
+    "wof:lastmodified":1464298029,
+    "wof:name":"Pittsfield Appliance Company",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -71.257432,
+    43.339541,
+    -71.257432,
+    43.339541
+],
+  "geometry": {"coordinates":[-71.25743199999999,43.339541],"type":"Point"}
+}

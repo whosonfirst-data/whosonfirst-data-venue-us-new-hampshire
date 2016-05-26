@@ -1,0 +1,69 @@
+{
+  "id": 873545025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.652152,43.034115,-71.652152,43.034115",
+    "geom:latitude":43.034115,
+    "geom:longitude":-71.652152,
+    "iso:country":"US",
+    "sg:address":"23 N Riverdale Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 8470",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844859,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pjnt93dibv4jGwhtVQUMO_43.034115_-71.652152@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294316,
+    "wof:geomhash":"3900eeced5df36a13a642546ea0ca2bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85844859,
+            "region_id":85688689,
+            "venue_id":873545025
+        }
+    ],
+    "wof:id":873545025,
+    "wof:lastmodified":1464294316,
+    "wof:name":"Riverdale Perennials",
+    "wof:parent_id":85844859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.652152,
+    43.034115,
+    -71.652152,
+    43.034115
+],
+  "geometry": {"coordinates":[-71.652152,43.034115],"type":"Point"}
+}

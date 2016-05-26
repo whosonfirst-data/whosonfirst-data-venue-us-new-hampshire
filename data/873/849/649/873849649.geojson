@@ -1,0 +1,73 @@
+{
+  "id": 873849649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314458,42.873887,-71.314458,42.873887",
+    "geom:latitude":42.873887,
+    "geom:longitude":-71.314458,
+    "iso:country":"US",
+    "sg:address":"3 Windham Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 0590",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X3v1uyH6TFewxEj2qxyIW_42.873887_-71.314458@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298804,
+    "wof:geomhash":"0241e4fb416c617771e6fd28b223a20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873849649
+        }
+    ],
+    "wof:id":873849649,
+    "wof:lastmodified":1464298804,
+    "wof:name":"Southern New Hampshire Sports",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.314458,
+    42.873887,
+    -71.314458,
+    42.873887
+],
+  "geometry": {"coordinates":[-71.314458,42.873887],"type":"Point"}
+}

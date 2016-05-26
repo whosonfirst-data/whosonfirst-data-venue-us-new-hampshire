@@ -1,0 +1,89 @@
+{
+  "id": 873927291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522098,42.940114,-71.522098,42.940114",
+    "geom:latitude":42.940114,
+    "geom:longitude":-71.522098,
+    "iso:country":"US",
+    "sg:address":"178 Route 101 Shoppes Of Bedford",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 3505",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cosmetologist",
+        "salons-equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.preferencestyling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bwZIpOp6miBM7kA3bf8nL_42.940114_-71.522098@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300351,
+    "wof:geomhash":"b5274beda05d0a3c67d95b2be5ffa096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927291
+        }
+    ],
+    "wof:id":873927291,
+    "wof:lastmodified":1464300351,
+    "wof:name":"Preference Styling Salon",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetologist",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.522098,
+    42.940114,
+    -71.522098,
+    42.940114
+],
+  "geometry": {"coordinates":[-71.522098,42.940114],"type":"Point"}
+}

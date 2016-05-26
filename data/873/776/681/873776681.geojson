@@ -1,0 +1,75 @@
+{
+  "id": 873776681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648171,43.439266,-71.648171,43.439266",
+    "geom:latitude":43.439266,
+    "geom:longitude":-71.648171,
+    "iso:country":"US",
+    "sg:address":"105 Elkins St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 4033",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "radio",
+        "television",
+        "consumer",
+        "electron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vxJbeHQwP3VAGhnSOcCI7_43.439266_-71.648171@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297445,
+    "wof:geomhash":"e0c3e181ec3be87ebc8ffb6cc9ee4df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873776681
+        }
+    ],
+    "wof:id":873776681,
+    "wof:lastmodified":1464297445,
+    "wof:name":"Phils TV",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "television",
+        "consumer",
+        "electron"
+    ]
+},
+  "bbox": [
+    -71.648171,
+    43.439266,
+    -71.648171,
+    43.439266
+],
+  "geometry": {"coordinates":[-71.648171,43.439266],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873787683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.797845,43.001174,-70.797845,43.001174",
+    "geom:latitude":43.001174,
+    "geom:longitude":-70.797845,
+    "iso:country":"US",
+    "sg:address":"1020 Washington Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 964 4406",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807159,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KoSpZwQOxZCrYJJ3BbO9f_43.001174_-70.797845@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297606,
+    "wof:geomhash":"c7f2ef98632a474173e633f060ab4509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807159,
+            "region_id":85688689,
+            "venue_id":873787683
+        }
+    ],
+    "wof:id":873787683,
+    "wof:lastmodified":1464297606,
+    "wof:name":"Steve Turner",
+    "wof:parent_id":85807159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -70.797845,
+    43.001174,
+    -70.797845,
+    43.001174
+],
+  "geometry": {"coordinates":[-70.797845,43.001174],"type":"Point"}
+}

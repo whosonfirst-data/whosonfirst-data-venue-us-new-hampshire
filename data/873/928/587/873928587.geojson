@@ -1,0 +1,75 @@
+{
+  "id": 873928587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.588501,43.269001,-71.588501,43.269001",
+    "geom:latitude":43.269001,
+    "geom:longitude":-71.588501,
+    "iso:country":"US",
+    "sg:address":"60 Village St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4891",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yl2nNrKXeux76njDjnq8R_43.269001_-71.588501@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300381,
+    "wof:geomhash":"03cb7b1685bfe732aec295df1f758be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928587
+        }
+    ],
+    "wof:id":873928587,
+    "wof:lastmodified":1464300381,
+    "wof:name":"Merrimack Valley School Dist",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.588501,
+    43.269001,
+    -71.588501,
+    43.269001
+],
+  "geometry": {"coordinates":[-71.58850099999999,43.269001],"type":"Point"}
+}

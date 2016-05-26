@@ -1,0 +1,69 @@
+{
+  "id": 873810753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.232521,43.062437,-71.232521,43.062437",
+    "geom:latitude":43.062437,
+    "geom:longitude":-71.232521,
+    "iso:country":"US",
+    "sg:address":"312 State Rte 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 0613",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lVB5vqlImJ7pyAKfhxaFV_43.062437_-71.232521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297940,
+    "wof:geomhash":"f48f730cb40cd61aa78e477237c6c57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873810753
+        }
+    ],
+    "wof:id":873810753,
+    "wof:lastmodified":1464297940,
+    "wof:name":"Teamwork Carpet & Janitorial",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.232521,
+    43.062437,
+    -71.232521,
+    43.062437
+],
+  "geometry": {"coordinates":[-71.23252100000001,43.062437],"type":"Point"}
+}

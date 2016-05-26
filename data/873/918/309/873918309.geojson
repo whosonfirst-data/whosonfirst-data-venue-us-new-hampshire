@@ -1,0 +1,78 @@
+{
+  "id": 873918309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.288104,43.700895,-72.288104,43.700895",
+    "geom:latitude":43.700895,
+    "geom:longitude":-72.288104,
+    "iso:country":"US",
+    "sg:address":"11 Lebanon St",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hanover/129623-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 0360",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sXypnNTBaTSG7sgqfSasK_43.700895_-72.288104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300182,
+    "wof:geomhash":"3da8df0aee90bb1920610c8b434fdd2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873918309
+        }
+    ],
+    "wof:id":873918309,
+    "wof:lastmodified":1464300182,
+    "wof:name":"Subway",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.288104,
+    43.700895,
+    -72.288104,
+    43.700895
+],
+  "geometry": {"coordinates":[-72.288104,43.700895],"type":"Point"}
+}

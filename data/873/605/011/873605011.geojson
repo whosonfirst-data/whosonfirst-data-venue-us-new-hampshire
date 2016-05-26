@@ -1,0 +1,76 @@
+{
+  "id": 873605011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488332,42.745889,-71.488332,42.745889",
+    "geom:latitude":42.745889,
+    "geom:longitude":-71.488332,
+    "iso:country":"US",
+    "sg:address":"33 Lund Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5764",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.trinitynh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l6ZeKYVgISyB5V1iOCbMe_42.745889_-71.488332@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295040,
+    "wof:geomhash":"23a7e0fb05ca2a51f8ef16a70fb203f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873605011
+        }
+    ],
+    "wof:id":873605011,
+    "wof:lastmodified":1464295040,
+    "wof:name":"Trinity Baptist Church",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.488332,
+    42.745889,
+    -71.488332,
+    42.745889
+],
+  "geometry": {"coordinates":[-71.488332,42.745889],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873876255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498096,42.941708,-71.498096,42.941708",
+    "geom:latitude":42.941708,
+    "geom:longitude":-71.498096,
+    "iso:country":"US",
+    "sg:address":"19 Maple Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 3853",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bDa2jbHWkKjEvb87mIHc_42.941708_-71.498096@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299358,
+    "wof:geomhash":"bef526ca7db83c3cfa7a144d01883def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873876255
+        }
+    ],
+    "wof:id":873876255,
+    "wof:lastmodified":1464299358,
+    "wof:name":"Hercules Nagios",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.498096,
+    42.941708,
+    -71.498096,
+    42.941708
+],
+  "geometry": {"coordinates":[-71.498096,42.941708],"type":"Point"}
+}

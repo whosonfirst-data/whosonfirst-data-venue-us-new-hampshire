@@ -1,0 +1,73 @@
+{
+  "id": 873782035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463052,43.532769,-71.463052,43.532769",
+    "geom:latitude":43.532769,
+    "geom:longitude":-71.463052,
+    "iso:country":"US",
+    "sg:address":"3 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0404",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3paNnIBBdbxgGXiAPvcbrJ_43.532769_-71.463052@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297518,
+    "wof:geomhash":"c7dba1c0cbaee91cefa71b2838da73a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873782035
+        }
+    ],
+    "wof:id":873782035,
+    "wof:lastmodified":1464297518,
+    "wof:name":"Laconia Animal Hospital",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.463052,
+    43.532769,
+    -71.463052,
+    43.532769
+],
+  "geometry": {"coordinates":[-71.463052,43.532769],"type":"Point"}
+}

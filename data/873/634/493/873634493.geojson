@@ -1,0 +1,74 @@
+{
+  "id": 873634493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.783871,43.641053,-71.783871,43.641053",
+    "geom:latitude":43.641053,
+    "geom:longitude":-71.783871,
+    "iso:country":"US",
+    "sg:address":"15 Cove Dr",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 0222",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "sg:website":"www.kenneyskennel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w3GV5yW0PghUPQAwQvRVN_43.641053_-71.783871@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295418,
+    "wof:geomhash":"d2dbfd6d41fef85765c56987f52548f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873634493
+        }
+    ],
+    "wof:id":873634493,
+    "wof:lastmodified":1464295418,
+    "wof:name":"Kenney's Kennel",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.783871,
+    43.641053,
+    -71.783871,
+    43.641053
+],
+  "geometry": {"coordinates":[-71.783871,43.641053],"type":"Point"}
+}

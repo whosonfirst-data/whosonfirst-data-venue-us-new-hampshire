@@ -1,0 +1,80 @@
+{
+  "id": 873849893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.955659,42.883556,-71.955659,42.883556",
+    "geom:latitude":42.883556,
+    "geom:longitude":-71.955659,
+    "iso:country":"US",
+    "sg:address":"100 High St",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 3886",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49f7seTpMSLhSXBmub6KoW_42.883556_-71.955659@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298809,
+    "wof:geomhash":"a770622852a6af5b407613a6c7c7c10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873849893
+        }
+    ],
+    "wof:id":873849893,
+    "wof:lastmodified":1464298809,
+    "wof:name":"Mac Dowell Colony Inc",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -71.955659,
+    42.883556,
+    -71.955659,
+    42.883556
+],
+  "geometry": {"coordinates":[-71.955659,42.883556],"type":"Point"}
+}

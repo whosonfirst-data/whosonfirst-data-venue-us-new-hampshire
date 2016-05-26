@@ -1,0 +1,69 @@
+{
+  "id": 873678509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506237,42.919251,-71.506237,42.919251",
+    "geom:latitude":42.919251,
+    "geom:longitude":-71.506237,
+    "iso:country":"US",
+    "sg:address":"31 Olde English Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 488 1055",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ovAhrJDZX6Q2BJyPeuk8H_42.919251_-71.506237@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295954,
+    "wof:geomhash":"c6f660fda93ccd773c11dba9ed21e530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873678509
+        }
+    ],
+    "wof:id":873678509,
+    "wof:lastmodified":1464295954,
+    "wof:name":"Hope Garage",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.506237,
+    42.919251,
+    -71.506237,
+    42.919251
+],
+  "geometry": {"coordinates":[-71.506237,42.919251],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873841955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.872614,42.874784,-70.872614,42.874784",
+    "geom:latitude":42.874784,
+    "geom:longitude":-70.872614,
+    "iso:country":"US",
+    "sg:address":"5 Main St",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 3523",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85846799,
+        102084463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vt7OT8eIGf0tWoFwDHNqc_42.874784_-70.872614@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298601,
+    "wof:geomhash":"57c68cb030b507f8a8ab74c59378c764",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "neighbourhood_id":85846799,
+            "region_id":85688645,
+            "venue_id":873841955
+        }
+    ],
+    "wof:id":873841955,
+    "wof:lastmodified":1464298601,
+    "wof:name":"Circle Motor Sales",
+    "wof:parent_id":85846799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -70.872614,
+    42.874784,
+    -70.872614,
+    42.874784
+],
+  "geometry": {"coordinates":[-70.872614,42.874784],"type":"Point"}
+}

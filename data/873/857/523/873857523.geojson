@@ -1,0 +1,75 @@
+{
+  "id": 873857523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460779,42.988586,-71.460779,42.988586",
+    "geom:latitude":42.988586,
+    "geom:longitude":-71.460779,
+    "iso:country":"US",
+    "sg:address":"300 Chestnut St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 5609",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PPnXdp0ZXQK331Oyf6S8d_42.988586_-71.460779@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298963,
+    "wof:geomhash":"d3cfab0c2e82442443db67040280c4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873857523
+        }
+    ],
+    "wof:id":873857523,
+    "wof:lastmodified":1464298963,
+    "wof:name":"Hillsborough Judge Of Probate",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -71.460779,
+    42.988586,
+    -71.460779,
+    42.988586
+],
+  "geometry": {"coordinates":[-71.460779,42.988586],"type":"Point"}
+}

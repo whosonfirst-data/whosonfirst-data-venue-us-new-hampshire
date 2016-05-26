@@ -1,0 +1,86 @@
+{
+  "id": 873928281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53537,43.205009,-71.53537,43.205009",
+    "geom:latitude":43.205009,
+    "geom:longitude":-71.53537,
+    "iso:country":"US",
+    "sg:address":"1 Depot St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 223 0132",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "model",
+        "hobby",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892219,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p7HUpS1WeC9Eyx3x7m7cG_43.205009_-71.535370@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300374,
+    "wof:geomhash":"3ef0dd34647b7ccd3a59fe1940a8488a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892219,
+            "region_id":85688689,
+            "venue_id":873928281
+        }
+    ],
+    "wof:id":873928281,
+    "wof:lastmodified":1464300374,
+    "wof:name":"Hobbys With A Twist",
+    "wof:parent_id":85892219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "model",
+        "hobby",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.53537,
+    43.205009,
+    -71.53537,
+    43.205009
+],
+  "geometry": {"coordinates":[-71.53537,43.205009],"type":"Point"}
+}

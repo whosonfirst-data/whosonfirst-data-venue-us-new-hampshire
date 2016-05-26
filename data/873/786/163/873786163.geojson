@@ -1,0 +1,71 @@
+{
+  "id": 873786163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514433,43.645333,-71.514433,43.645333",
+    "geom:latitude":43.645333,
+    "geom:longitude":-71.514433,
+    "iso:country":"US",
+    "sg:address":"170 Waukewan St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 5909",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SxaTniLycAJTyD3mz4r73_43.645333_-71.514433@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297573,
+    "wof:geomhash":"30514364657110e81b44ba87b4356290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873786163
+        }
+    ],
+    "wof:id":873786163,
+    "wof:lastmodified":1464297573,
+    "wof:name":"Bruce's Landscaping",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.514433,
+    43.645333,
+    -71.514433,
+    43.645333
+],
+  "geometry": {"coordinates":[-71.514433,43.645333],"type":"Point"}
+}

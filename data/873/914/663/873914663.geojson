@@ -1,0 +1,72 @@
+{
+  "id": 873914663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.369935,43.023611,-71.369935,43.023611",
+    "geom:latitude":43.023611,
+    "geom:longitude":-71.369935,
+    "iso:country":"US",
+    "sg:address":"392 Hooksett Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2104",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "donut",
+        "doughnut"
+    ],
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37zn9FOVsHpLskAAY8BeOx_43.023667_-71.369769@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300100,
+    "wof:geomhash":"0cca906be6561aa1d915bba875184b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873914663
+        }
+    ],
+    "wof:id":873914663,
+    "wof:lastmodified":1464300100,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "donut",
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.369935,
+    43.023611,
+    -71.369935,
+    43.023611
+],
+  "geometry": {"coordinates":[-71.369935,43.023611],"type":"Point"}
+}

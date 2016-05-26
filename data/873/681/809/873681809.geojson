@@ -1,0 +1,69 @@
+{
+  "id": 873681809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751255,42.832591,-71.751255,42.832591",
+    "geom:latitude":42.832591,
+    "geom:longitude":-71.751255,
+    "iso:country":"US",
+    "sg:address":"340 Gibbons Hwy",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 5290",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IybvqfT6PMcQ6VVThRdLe_42.832591_-71.751255@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296047,
+    "wof:geomhash":"e0bea8deaf72fe4c3f37d8ba467a0298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873681809
+        }
+    ],
+    "wof:id":873681809,
+    "wof:lastmodified":1464296047,
+    "wof:name":"J & D Auto Truck Repair",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.751255,
+    42.832591,
+    -71.751255,
+    42.832591
+],
+  "geometry": {"coordinates":[-71.751255,42.832591],"type":"Point"}
+}

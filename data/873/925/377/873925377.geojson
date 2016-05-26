@@ -1,0 +1,73 @@
+{
+  "id": 873925377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2557,42.773117,-71.2557,42.773117",
+    "geom:latitude":42.773117,
+    "geom:longitude":-71.2557,
+    "iso:country":"US",
+    "sg:address":"8 Commercial Dr Ste 802",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 9555",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "designer",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a2q4238SQO2ZQeOnr9Dow_42.773117_-71.255700@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300312,
+    "wof:geomhash":"91349d5a3434e28ef40d18483c43002c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925377
+        }
+    ],
+    "wof:id":873925377,
+    "wof:lastmodified":1464300312,
+    "wof:name":"Sentinel Data Networks",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.2557,
+    42.773117,
+    -71.2557,
+    42.773117
+],
+  "geometry": {"coordinates":[-71.2557,42.773117],"type":"Point"}
+}

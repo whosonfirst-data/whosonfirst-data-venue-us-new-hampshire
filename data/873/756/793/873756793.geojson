@@ -1,0 +1,84 @@
+{
+  "id": 873756793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484559,42.995039,-71.484559,42.995039",
+    "geom:latitude":42.995039,
+    "geom:longitude":-71.484559,
+    "iso:country":"US",
+    "sg:address":"332 Kelley St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 624 8212",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "flagging",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48WwTHijA2HU0wM0PZQBwQ_42.995039_-71.484559@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297167,
+    "wof:geomhash":"73ae1e6b6d35103b8ebd1c6b8e2ae169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873756793
+        }
+    ],
+    "wof:id":873756793,
+    "wof:lastmodified":1464297167,
+    "wof:name":"New England Traffic Control",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "flagging",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -71.484559,
+    42.995039,
+    -71.484559,
+    42.995039
+],
+  "geometry": {"coordinates":[-71.484559,42.995039],"type":"Point"}
+}

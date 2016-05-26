@@ -1,0 +1,71 @@
+{
+  "id": 873634757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.33858,42.785259,-71.33858,42.785259",
+    "geom:latitude":42.785259,
+    "geom:longitude":-71.33858,
+    "iso:country":"US",
+    "sg:address":"85 Castle Hill Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 5339",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13dXT7AdkMAi4L9BCDCSHM_42.785259_-71.338580@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295420,
+    "wof:geomhash":"de1a35189fc2e500f009c889e5e5bc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873634757
+        }
+    ],
+    "wof:id":873634757,
+    "wof:lastmodified":1464295420,
+    "wof:name":"Danis Concrete Construction",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.33858,
+    42.785259,
+    -71.33858,
+    42.785259
+],
+  "geometry": {"coordinates":[-71.33857999999999,42.785259],"type":"Point"}
+}

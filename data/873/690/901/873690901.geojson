@@ -1,0 +1,74 @@
+{
+  "id": 873690901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567148,44.488409,-71.567148,44.488409",
+    "geom:latitude":44.488409,
+    "geom:longitude":-71.567148,
+    "iso:country":"US",
+    "sg:address":"29 Middle St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2311",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.northcountrymotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BVd5aJs2HxgpdLONBj26Z_44.488409_-71.567148@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296297,
+    "wof:geomhash":"53a9c30c2f3083a61037bca75e9fc057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873690901
+        }
+    ],
+    "wof:id":873690901,
+    "wof:lastmodified":1464296297,
+    "wof:name":"North Country Ford Motor Sales",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.567148,
+    44.488409,
+    -71.567148,
+    44.488409
+],
+  "geometry": {"coordinates":[-71.567148,44.488409],"type":"Point"}
+}

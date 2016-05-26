@@ -1,0 +1,73 @@
+{
+  "id": 873871949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562456,44.481571,-71.562456,44.481571",
+    "geom:latitude":44.481571,
+    "geom:longitude":-71.562456,
+    "iso:country":"US",
+    "sg:address":"85 Portland St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2014",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T1Lgtoa37XUGwxS1ggpcs_44.481571_-71.562456@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299273,
+    "wof:geomhash":"886f5ce9ac9c09b195e0fbdfecee5f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873871949
+        }
+    ],
+    "wof:id":873871949,
+    "wof:lastmodified":1464299273,
+    "wof:name":"Assembly Of God Church Parsng",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -71.562456,
+    44.481571,
+    -71.562456,
+    44.481571
+],
+  "geometry": {"coordinates":[-71.562456,44.481571],"type":"Point"}
+}

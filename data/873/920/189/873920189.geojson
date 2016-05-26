@@ -1,0 +1,69 @@
+{
+  "id": 873920189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264503,43.129799,-71.264503,43.129799",
+    "geom:latitude":43.129799,
+    "geom:longitude":-71.264503,
+    "iso:country":"US",
+    "sg:address":"Old Center Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7239",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01P50vIZKHWZfLh9MulI7j_43.129799_-71.264503@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300214,
+    "wof:geomhash":"a8c371065723652e8930f216ce27872c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873920189
+        }
+    ],
+    "wof:id":873920189,
+    "wof:lastmodified":1464300214,
+    "wof:name":"Pelletier Electric Inc",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.264503,
+    43.129799,
+    -71.264503,
+    43.129799
+],
+  "geometry": {"coordinates":[-71.264503,43.129799],"type":"Point"}
+}

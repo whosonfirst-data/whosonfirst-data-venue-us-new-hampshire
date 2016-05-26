@@ -1,0 +1,76 @@
+{
+  "id": 873853347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.121581,43.401993,-71.121581,43.401993",
+    "geom:latitude":43.401993,
+    "geom:longitude":-71.121581,
+    "iso:country":"US",
+    "sg:address":"10 Quaker Rd",
+    "sg:city":"New Durham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 859 2688",
+    "sg:postcode":"03855",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813637,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66KQDW09PG7G76F2QACT54_43.401993_-71.121581@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298884,
+    "wof:geomhash":"edbfe2af931f7787e059af53e0f9ba6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85813637,
+            "region_id":85688689,
+            "venue_id":873853347
+        }
+    ],
+    "wof:id":873853347,
+    "wof:lastmodified":1464298884,
+    "wof:name":"Benoit's Welding",
+    "wof:parent_id":85813637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.121581,
+    43.401993,
+    -71.121581,
+    43.401993
+],
+  "geometry": {"coordinates":[-71.12158100000001,43.401993],"type":"Point"}
+}

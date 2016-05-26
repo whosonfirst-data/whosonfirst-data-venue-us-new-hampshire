@@ -1,0 +1,69 @@
+{
+  "id": 873842665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.631317,43.457635,-71.631317,43.457635",
+    "geom:latitude":43.457635,
+    "geom:longitude":-71.631317,
+    "iso:country":"US",
+    "sg:address":"269 Sanborn St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5949",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bP0sbXZDhFG6WVx74vV4m_43.457635_-71.631317@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298624,
+    "wof:geomhash":"a1ea2f68be17052e0e2f507ace83d604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873842665
+        }
+    ],
+    "wof:id":873842665,
+    "wof:lastmodified":1464298624,
+    "wof:name":"Defosses Systematic Cleaners",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.631317,
+    43.457635,
+    -71.631317,
+    43.457635
+],
+  "geometry": {"coordinates":[-71.631317,43.457635],"type":"Point"}
+}

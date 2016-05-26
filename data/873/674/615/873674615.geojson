@@ -1,0 +1,71 @@
+{
+  "id": 873674615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544613,43.543218,-71.544613,43.543218",
+    "geom:latitude":43.543218,
+    "geom:longitude":-71.544613,
+    "iso:country":"US",
+    "sg:address":"29 Woodman Rd",
+    "sg:city":"Sanbornton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 8408",
+    "sg:postcode":"03269",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X68ge2M5KHLVQknylP13K_43.543218_-71.544613@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295860,
+    "wof:geomhash":"958255bfdcc7c126d42421a84555faff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873674615
+        }
+    ],
+    "wof:id":873674615,
+    "wof:lastmodified":1464295860,
+    "wof:name":"Claridge Construction",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.544613,
+    43.543218,
+    -71.544613,
+    43.543218
+],
+  "geometry": {"coordinates":[-71.544613,43.543218],"type":"Point"}
+}

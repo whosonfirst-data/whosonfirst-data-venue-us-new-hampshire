@@ -1,0 +1,71 @@
+{
+  "id": 873635591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.083526,43.684806,-71.083526,43.684806",
+    "geom:latitude":43.684806,
+    "geom:longitude":-71.083526,
+    "iso:country":"US",
+    "sg:address":"13 Granite Rd",
+    "sg:city":"Effingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 4133",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816955,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K8Ep5LwpQV4NMefxNkmNC_43.684806_-71.083526@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295428,
+    "wof:geomhash":"411cb05679239409f8f0e12e57f837cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85816955,
+            "region_id":85688689,
+            "venue_id":873635591
+        }
+    ],
+    "wof:id":873635591,
+    "wof:lastmodified":1464295428,
+    "wof:name":"Granite Road Svc & Repair",
+    "wof:parent_id":85816955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.083526,
+    43.684806,
+    -71.083526,
+    43.684806
+],
+  "geometry": {"coordinates":[-71.08352600000001,43.684806],"type":"Point"}
+}

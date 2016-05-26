@@ -1,0 +1,69 @@
+{
+  "id": 873904709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505875,42.830604,-71.505875,42.830604",
+    "geom:latitude":42.830604,
+    "geom:longitude":-71.505875,
+    "iso:country":"US",
+    "sg:address":"52 Camp Sargent Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 4126",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WTOvaqPMgk3XaIhMFkdEd_42.830604_-71.505875@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299913,
+    "wof:geomhash":"ba4fb8bb3c8b1dd110769b87009608d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873904709
+        }
+    ],
+    "wof:id":873904709,
+    "wof:lastmodified":1464299913,
+    "wof:name":"Willard Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.505875,
+    42.830604,
+    -71.505875,
+    42.830604
+],
+  "geometry": {"coordinates":[-71.505875,42.830604],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873661881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.861181,42.919274,-70.861181,42.919274",
+    "geom:latitude":42.919274,
+    "geom:longitude":-70.861181,
+    "iso:country":"US",
+    "sg:address":"137 Lafayette Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 4007",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4scXysjCuE1gt5EMJt8T1n_42.919274_-70.861181@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295718,
+    "wof:geomhash":"31d047f2225ee1110deec29537913dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85823769,
+            "region_id":85688689,
+            "venue_id":873661881
+        }
+    ],
+    "wof:id":873661881,
+    "wof:lastmodified":1464295718,
+    "wof:name":"Atlantic Golf Workshop",
+    "wof:parent_id":85823769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -70.861181,
+    42.919274,
+    -70.861181,
+    42.919274
+],
+  "geometry": {"coordinates":[-70.861181,42.919274],"type":"Point"}
+}

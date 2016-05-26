@@ -1,0 +1,79 @@
+{
+  "id": 873733551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457521,42.753042,-71.457521,42.753042",
+    "geom:latitude":42.753042,
+    "geom:longitude":-71.457521,
+    "iso:country":"US",
+    "sg:address":"22 Pond St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 3844",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C3jNTSTHrBq9KBLEBNUFq_42.753042_-71.457521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296821,
+    "wof:geomhash":"2157ff096f37b52f58e241e9245018a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873733551
+        }
+    ],
+    "wof:id":873733551,
+    "wof:lastmodified":1464296821,
+    "wof:name":"Kingsley Automotive Machine",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.457521,
+    42.753042,
+    -71.457521,
+    42.753042
+],
+  "geometry": {"coordinates":[-71.457521,42.753042],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873804067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.750261,42.836035,-71.750261,42.836035",
+    "geom:latitude":42.836035,
+    "geom:longitude":-71.750261,
+    "iso:country":"US",
+    "sg:address":"291 Gibbons Hwy",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 6150",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FNDVk0tZ9OpNmsqMYImAV_42.836035_-71.750261@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297823,
+    "wof:geomhash":"9808b8ba021be563b1dbedf0054cb170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873804067
+        }
+    ],
+    "wof:id":873804067,
+    "wof:lastmodified":1464297823,
+    "wof:name":"Wilton Recycling Ctr",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.750261,
+    42.836035,
+    -71.750261,
+    42.836035
+],
+  "geometry": {"coordinates":[-71.75026099999999,42.836035],"type":"Point"}
+}

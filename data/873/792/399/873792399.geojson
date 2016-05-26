@@ -1,0 +1,70 @@
+{
+  "id": 873792399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.742625,43.777246,-71.742625,43.777246",
+    "geom:latitude":43.777246,
+    "geom:longitude":-71.742625,
+    "iso:country":"US",
+    "sg:address":"141 Smith Bridge Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4154",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.rmpiper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wKSla5zRgPLFnsGOb3fmc_43.777246_-71.742625@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297682,
+    "wof:geomhash":"c05b2aea26ba605ffa015787a5efdfa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873792399
+        }
+    ],
+    "wof:id":873792399,
+    "wof:lastmodified":1464297682,
+    "wof:name":"R M Piper Inc",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.742625,
+    43.777246,
+    -71.742625,
+    43.777246
+],
+  "geometry": {"coordinates":[-71.742625,43.777246],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873896939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.027785,42.881408,-71.027785,42.881408",
+    "geom:latitude":42.881408,
+    "geom:longitude":-71.027785,
+    "iso:country":"US",
+    "sg:address":"62 N Main St",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 6000",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55oTsT7VKWax9kYmrl8dUM_42.881408_-71.027785@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299762,
+    "wof:geomhash":"2e9bb7485afe78832a1c1fc792bfd0db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873896939
+        }
+    ],
+    "wof:id":873896939,
+    "wof:lastmodified":1464299762,
+    "wof:name":"Kolias Trucking",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.027785,
+    42.881408,
+    -71.027785,
+    42.881408
+],
+  "geometry": {"coordinates":[-71.02778499999999,42.881408],"type":"Point"}
+}

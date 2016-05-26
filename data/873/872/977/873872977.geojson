@@ -1,0 +1,71 @@
+{
+  "id": 873872977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.091002,43.38729,-72.091002,43.38729",
+    "geom:latitude":43.38729,
+    "geom:longitude":-72.091002,
+    "iso:country":"US",
+    "sg:address":"46 Lower Main St",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5109",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qqIX0XzodJxTLpkctCog9_43.387290_-72.091002@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299297,
+    "wof:geomhash":"fa4ed7e39c1453d678d1eb8b4458751f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873872977
+        }
+    ],
+    "wof:id":873872977,
+    "wof:lastmodified":1464299297,
+    "wof:name":"Bailey Electric",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.091002,
+    43.38729,
+    -72.091002,
+    43.38729
+],
+  "geometry": {"coordinates":[-72.091002,43.38729],"type":"Point"}
+}

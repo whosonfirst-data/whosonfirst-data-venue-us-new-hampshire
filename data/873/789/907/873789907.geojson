@@ -1,0 +1,69 @@
+{
+  "id": 873789907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.925864,43.018215,-70.925864,43.018215",
+    "geom:latitude":43.018215,
+    "geom:longitude":-70.925864,
+    "iso:country":"US",
+    "sg:address":"38 Butterfield Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 777 5000",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38lb5QE9R9jUuWs8cHQA83_43.018215_-70.925864@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297639,
+    "wof:geomhash":"9d8f7e936d35f46a28aec5cb7eb6e2db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873789907
+        }
+    ],
+    "wof:id":873789907,
+    "wof:lastmodified":1464297639,
+    "wof:name":"Valley Painting & Restoration",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -70.925864,
+    43.018215,
+    -70.925864,
+    43.018215
+],
+  "geometry": {"coordinates":[-70.925864,43.018215],"type":"Point"}
+}

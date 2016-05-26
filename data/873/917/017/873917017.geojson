@@ -1,0 +1,72 @@
+{
+  "id": 873917017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.221231,42.763123,-71.221231,42.763123",
+    "geom:latitude":42.763123,
+    "geom:longitude":-71.221231,
+    "iso:country":"US",
+    "sg:address":"92 Cluff Crossing Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/11452-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5455",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TiogG0e2kwKsJvHTKAAHX_42.763123_-71.221231@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300159,
+    "wof:geomhash":"32e40b69e0a51061c44125cfc0764c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873917017
+        }
+    ],
+    "wof:id":873917017,
+    "wof:lastmodified":1464300159,
+    "wof:name":"Denny's",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -71.221231,
+    42.763123,
+    -71.221231,
+    42.763123
+],
+  "geometry": {"coordinates":[-71.221231,42.763123],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873643251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481578,42.966202,-71.481578,42.966202",
+    "geom:latitude":42.966202,
+    "geom:longitude":-71.481578,
+    "iso:country":"US",
+    "sg:address":"760 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8223",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JotCQT4FYuCrIkopkubk7_42.966202_-71.481578@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295518,
+    "wof:geomhash":"0d366d0e4ce6c327a9aee4d659066957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873643251
+        }
+    ],
+    "wof:id":873643251,
+    "wof:lastmodified":1464295518,
+    "wof:name":"Second Street Mobil",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.481578,
+    42.966202,
+    -71.481578,
+    42.966202
+],
+  "geometry": {"coordinates":[-71.481578,42.966202],"type":"Point"}
+}

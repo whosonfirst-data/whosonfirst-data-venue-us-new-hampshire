@@ -1,0 +1,71 @@
+{
+  "id": 873750649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.158902,42.83886,-71.158902,42.83886",
+    "geom:latitude":42.83886,
+    "geom:longitude":-71.158902,
+    "iso:country":"US",
+    "sg:address":"8 Bittersweet Ln",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 4535",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "justice",
+        "peace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tZz3ubh425Orn0rSUfJ2Q_42.838860_-71.158902@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297082,
+    "wof:geomhash":"36015fa621e7ad7c34011221da6929d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873750649
+        }
+    ],
+    "wof:id":873750649,
+    "wof:lastmodified":1464297082,
+    "wof:name":"A Justice Of The Peace",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "justice",
+        "peace"
+    ]
+},
+  "bbox": [
+    -71.158902,
+    42.83886,
+    -71.158902,
+    42.83886
+],
+  "geometry": {"coordinates":[-71.158902,42.83886],"type":"Point"}
+}

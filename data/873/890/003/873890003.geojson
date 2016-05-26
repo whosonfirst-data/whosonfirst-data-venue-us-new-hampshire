@@ -1,0 +1,71 @@
+{
+  "id": 873890003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.160044,44.518172,-71.160044,44.518172",
+    "geom:latitude":44.518172,
+    "geom:longitude":-71.160044,
+    "iso:country":"US",
+    "sg:address":"2169 Riverside Dr",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5071",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M5IboT4lxFHBf7VBIy4ud_44.518172_-71.160044@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299631,
+    "wof:geomhash":"116be1f8a88bc417b99386b63dfd5648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873890003
+        }
+    ],
+    "wof:id":873890003,
+    "wof:lastmodified":1464299631,
+    "wof:name":"US Army National Guard",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.160044,
+    44.518172,
+    -71.160044,
+    44.518172
+],
+  "geometry": {"coordinates":[-71.160044,44.518172],"type":"Point"}
+}

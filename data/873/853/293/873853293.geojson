@@ -1,0 +1,69 @@
+{
+  "id": 873853293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.203182,43.215546,-71.203182,43.215546",
+    "geom:latitude":43.215546,
+    "geom:longitude":-71.203182,
+    "iso:country":"US",
+    "sg:address":"931 First New Hampshire Tpke",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 682 3581",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16S1M0jWw78KUzWufPKRlB_43.215546_-71.203182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298883,
+    "wof:geomhash":"33b54aea57db638b7cf18a5146a151b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873853293
+        }
+    ],
+    "wof:id":873853293,
+    "wof:lastmodified":1464298883,
+    "wof:name":"Estes & Son Builders",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.203182,
+    43.215546,
+    -71.203182,
+    43.215546
+],
+  "geometry": {"coordinates":[-71.203182,43.215546],"type":"Point"}
+}

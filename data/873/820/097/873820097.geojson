@@ -1,0 +1,71 @@
+{
+  "id": 873820097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.638589,43.423083,-71.638589,43.423083",
+    "geom:latitude":43.423083,
+    "geom:longitude":-71.638589,
+    "iso:country":"US",
+    "sg:address":"505 Prospect St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 2081",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "copper",
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KWDmWcXcG9QG4R0gghkm5_43.423083_-71.638589@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298121,
+    "wof:geomhash":"154fe2478824e246bcc111a10e938266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873820097
+        }
+    ],
+    "wof:id":873820097,
+    "wof:lastmodified":1464298121,
+    "wof:name":"Franklin Pewter",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "foundry"
+    ]
+},
+  "bbox": [
+    -71.638589,
+    43.423083,
+    -71.638589,
+    43.423083
+],
+  "geometry": {"coordinates":[-71.638589,43.423083],"type":"Point"}
+}

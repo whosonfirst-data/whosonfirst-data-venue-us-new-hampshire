@@ -1,0 +1,73 @@
+{
+  "id": 873832273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.154288,42.7632,-72.154288,42.7632",
+    "geom:latitude":42.7632,
+    "geom:longitude":-72.154288,
+    "iso:country":"US",
+    "sg:address":"21 Creamery Rd",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 7100",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62NYCsXPGyOH1BDQvkFjbF_42.763200_-72.154288@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298383,
+    "wof:geomhash":"b815ceb9e9650b56fa6ec5d98a4feea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873832273
+        }
+    ],
+    "wof:id":873832273,
+    "wof:lastmodified":1464298383,
+    "wof:name":"Kennedy Drilling",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.154288,
+    42.7632,
+    -72.154288,
+    42.7632
+],
+  "geometry": {"coordinates":[-72.15428799999999,42.7632],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873796007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.353219,42.842308,-71.353219,42.842308",
+    "geom:latitude":42.842308,
+    "geom:longitude":-71.353219,
+    "iso:country":"US",
+    "sg:address":"23 Meadow Dr",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 421 9000",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526317,
+        102191575,
+        404476761,
+        85633793,
+        85975125,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WW81Ewsd9SJG1ZdzHjsug_42.842308_-71.353219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297727,
+    "wof:geomhash":"ab6c45104694708e2561e1908ec39488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476761,
+            "locality_id":85975125,
+            "neighbourhood_id":420526317,
+            "region_id":85688689,
+            "venue_id":873796007
+        }
+    ],
+    "wof:id":873796007,
+    "wof:lastmodified":1464297727,
+    "wof:name":"Freightliner Of New Hamphsire",
+    "wof:parent_id":420526317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.353219,
+    42.842308,
+    -71.353219,
+    42.842308
+],
+  "geometry": {"coordinates":[-71.353219,42.842308],"type":"Point"}
+}

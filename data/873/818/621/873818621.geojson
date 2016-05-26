@@ -1,0 +1,73 @@
+{
+  "id": 873818621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.224041,42.782222,-71.224041,42.782222",
+    "geom:latitude":42.782222,
+    "geom:longitude":-71.224041,
+    "iso:country":"US",
+    "sg:address":"152 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 6121",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "regional",
+        "safety",
+        "committee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_645OoXYKZTRKQLfPWmfDCn_42.782222_-71.224041@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298091,
+    "wof:geomhash":"f32619acb64a8868ff977d179ba49654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873818621
+        }
+    ],
+    "wof:id":873818621,
+    "wof:lastmodified":1464298091,
+    "wof:name":"Southeastern NH Hazardous",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "regional",
+        "safety",
+        "committee"
+    ]
+},
+  "bbox": [
+    -71.224041,
+    42.782222,
+    -71.224041,
+    42.782222
+],
+  "geometry": {"coordinates":[-71.224041,42.782222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873835979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504065,42.994396,-71.504065,42.994396",
+    "geom:latitude":42.994396,
+    "geom:longitude":-71.504065,
+    "iso:country":"US",
+    "sg:address":"26 Cross St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 7509",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IXhNT135MxhfLqcuTqeRe_42.994396_-71.504065@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298466,
+    "wof:geomhash":"38a8ac348963e319bfdb806f82a7e98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873835979
+        }
+    ],
+    "wof:id":873835979,
+    "wof:lastmodified":1464298466,
+    "wof:name":"Lemay Excavation",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.504065,
+    42.994396,
+    -71.504065,
+    42.994396
+],
+  "geometry": {"coordinates":[-71.504065,42.994396],"type":"Point"}
+}

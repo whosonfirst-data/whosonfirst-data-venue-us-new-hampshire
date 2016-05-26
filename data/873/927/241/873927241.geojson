@@ -1,0 +1,87 @@
+{
+  "id": 873927241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49646,42.930401,-71.49646,42.930401",
+    "geom:latitude":42.930401,
+    "geom:longitude":-71.49646,
+    "iso:country":"US",
+    "sg:address":"32 Old Sawmill Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 8009",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "appraisers-business",
+        "industrial",
+        "appraisers-commercial",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gPAOOnL30DyZAX4RIcGhB_42.930401_-71.496460@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300350,
+    "wof:geomhash":"ec50e020eb99bb1c41bd655034f4c5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927241
+        }
+    ],
+    "wof:id":873927241,
+    "wof:lastmodified":1464300350,
+    "wof:name":"E D I Appraisal Services",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "appraisers-business",
+        "industrial",
+        "appraisers-commercial",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.49646,
+    42.930401,
+    -71.49646,
+    42.930401
+],
+  "geometry": {"coordinates":[-71.49646,42.930401],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873893303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470823,43.528829,-71.470823,43.528829",
+    "geom:latitude":43.528829,
+    "geom:longitude":-71.470823,
+    "iso:country":"US",
+    "sg:address":"666 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3523",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m7OdtdDfAL8DNEAJexzxN_43.528829_-71.470823@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299693,
+    "wof:geomhash":"156e729320a5ec17d508ebdcc0f673e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873893303
+        }
+    ],
+    "wof:id":873893303,
+    "wof:lastmodified":1464299693,
+    "wof:name":"Navigant International",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ]
+},
+  "bbox": [
+    -71.470823,
+    43.528829,
+    -71.470823,
+    43.528829
+],
+  "geometry": {"coordinates":[-71.470823,43.528829],"type":"Point"}
+}

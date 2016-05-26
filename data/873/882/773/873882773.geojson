@@ -1,0 +1,71 @@
+{
+  "id": 873882773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686679,44.032019,-71.686679,44.032019",
+    "geom:latitude":44.032019,
+    "geom:longitude":-71.686679,
+    "iso:country":"US",
+    "sg:address":"123 Main St",
+    "sg:city":"North Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 3677",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QAuXFH4FZgLlexf4uGq8B_44.032019_-71.686679@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299485,
+    "wof:geomhash":"38c814d3cd38779ace6b8c20e46a43e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873882773
+        }
+    ],
+    "wof:id":873882773,
+    "wof:lastmodified":1464299485,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.686679,
+    44.032019,
+    -71.686679,
+    44.032019
+],
+  "geometry": {"coordinates":[-71.686679,44.032019],"type":"Point"}
+}

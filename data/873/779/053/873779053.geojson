@@ -1,0 +1,69 @@
+{
+  "id": 873779053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261789,42.807078,-71.261789,42.807078",
+    "geom:latitude":42.807078,
+    "geom:longitude":-71.261789,
+    "iso:country":"US",
+    "sg:address":"56 Range Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 2105",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xq4T58dFbxrSlqfD1FABx_42.807078_-71.261789@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297477,
+    "wof:geomhash":"c54161ef70f831e3f717e0c01765e52e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873779053
+        }
+    ],
+    "wof:id":873779053,
+    "wof:lastmodified":1464297477,
+    "wof:name":"Klemm's Bakery",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.261789,
+    42.807078,
+    -71.261789,
+    42.807078
+],
+  "geometry": {"coordinates":[-71.26178899999999,42.807078],"type":"Point"}
+}

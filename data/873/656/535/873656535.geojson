@@ -1,0 +1,74 @@
+{
+  "id": 873656535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.641496,43.437729,-71.641496,43.437729",
+    "geom:latitude":43.437729,
+    "geom:longitude":-71.641496,
+    "iso:country":"US",
+    "sg:address":"223 Prospect St",
+    "sg:city":"Holderness",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3204",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "sg:website":"www.karriadkennel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QaM0zZHWcc3aE2ISPHo4K_43.437729_-71.641496@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295662,
+    "wof:geomhash":"d7585b75abd0040bc0c3f3a62025bed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873656535
+        }
+    ],
+    "wof:id":873656535,
+    "wof:lastmodified":1464295662,
+    "wof:name":"Karriad Kennels",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.641496,
+    43.437729,
+    -71.641496,
+    43.437729
+],
+  "geometry": {"coordinates":[-71.641496,43.437729],"type":"Point"}
+}

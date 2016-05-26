@@ -1,0 +1,76 @@
+{
+  "id": 873925421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.223712,42.782351,-71.223712,42.782351",
+    "geom:latitude":42.782351,
+    "geom:longitude":-71.223712,
+    "iso:country":"US",
+    "sg:address":"159 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 1646",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.mainstreetanimal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FWTnEiWDaxobr0tUVxaH8_42.782351_-71.223712@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300315,
+    "wof:geomhash":"48a7f555a5962e5f2f5492e4a9135072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925421
+        }
+    ],
+    "wof:id":873925421,
+    "wof:lastmodified":1464300315,
+    "wof:name":"Wignall Animal Hospital",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.223712,
+    42.782351,
+    -71.223712,
+    42.782351
+],
+  "geometry": {"coordinates":[-71.22371200000001,42.782351],"type":"Point"}
+}

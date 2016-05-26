@@ -1,0 +1,71 @@
+{
+  "id": 873791173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.810419,43.426252,-71.810419,43.426252",
+    "geom:latitude":43.426252,
+    "geom:longitude":-71.810419,
+    "iso:country":"US",
+    "sg:address":"102 Beech Hill Rd",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 735 5555",
+    "sg:postcode":"03216",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842955,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Onl51qfGoqBsSGOLknAIz_43.426252_-71.810419@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297655,
+    "wof:geomhash":"89ed7bca51c4aeb41a53e85c9e3cb02f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85842955,
+            "region_id":85688689,
+            "venue_id":873791173
+        }
+    ],
+    "wof:id":873791173,
+    "wof:lastmodified":1464297655,
+    "wof:name":"Mc Leod & Sons Masonry",
+    "wof:parent_id":85842955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.810419,
+    43.426252,
+    -71.810419,
+    43.426252
+],
+  "geometry": {"coordinates":[-71.810419,43.426252],"type":"Point"}
+}

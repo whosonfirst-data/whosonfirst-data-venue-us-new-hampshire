@@ -1,0 +1,69 @@
+{
+  "id": 873700349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.296743,42.906466,-72.296743,42.906466",
+    "geom:latitude":42.906466,
+    "geom:longitude":-72.296743,
+    "iso:country":"US",
+    "sg:address":"57 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 355 4787",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HneN2gX2iBLp9iY1CYhoo_42.906466_-72.296743@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296410,
+    "wof:geomhash":"ad525c8dd473f7e92a064fba0fcc9366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873700349
+        }
+    ],
+    "wof:id":873700349,
+    "wof:lastmodified":1464296410,
+    "wof:name":"Pugs Auto Repair Inc",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.296743,
+    42.906466,
+    -72.296743,
+    42.906466
+],
+  "geometry": {"coordinates":[-72.29674300000001,42.906466],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 873918569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.897161,43.231762,-70.897161,43.231762",
+    "geom:latitude":43.231762,
+    "geom:longitude":-70.897161,
+    "iso:country":"US",
+    "sg:address":"1 Long Hill Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/dover/149295-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 0707",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526423,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wogBIlK4vi4jtCWXfIlaR_43.231762_-70.897161@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300188,
+    "wof:geomhash":"d9d153a16ac823b9b2afcb8b19703d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":420526423,
+            "region_id":85688689,
+            "venue_id":873918569
+        }
+    ],
+    "wof:id":873918569,
+    "wof:lastmodified":1464300188,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":420526423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -70.897161,
+    43.231762,
+    -70.897161,
+    43.231762
+],
+  "geometry": {"coordinates":[-70.897161,43.231762],"type":"Point"}
+}

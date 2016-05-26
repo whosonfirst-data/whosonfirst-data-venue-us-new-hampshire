@@ -1,0 +1,71 @@
+{
+  "id": 873763327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.327198,42.748996,-71.327198,42.748996",
+    "geom:latitude":42.748996,
+    "geom:longitude":-71.327198,
+    "iso:country":"US",
+    "sg:address":"54 Simpson Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 1050",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I4u9LPjskeBIUc5eoqnGi_42.748996_-71.327198@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297263,
+    "wof:geomhash":"a338ba3dc38473ea2144069736e51cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873763327
+        }
+    ],
+    "wof:id":873763327,
+    "wof:lastmodified":1464297263,
+    "wof:name":"MVP Home Improvements",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.327198,
+    42.748996,
+    -71.327198,
+    42.748996
+],
+  "geometry": {"coordinates":[-71.327198,42.748996],"type":"Point"}
+}

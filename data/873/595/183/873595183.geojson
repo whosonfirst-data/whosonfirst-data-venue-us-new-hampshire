@@ -1,0 +1,74 @@
+{
+  "id": 873595183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448051,43.565676,-71.448051,43.565676",
+    "geom:latitude":43.565676,
+    "geom:longitude":-71.448051,
+    "iso:country":"US",
+    "sg:address":"143 Lake St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8552",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.easterseals.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GTCqXiGs4G9N9Fj7K2dmq_43.565676_-71.448051@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294907,
+    "wof:geomhash":"abd0288179f68229badaa8bcc91e176a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873595183
+        }
+    ],
+    "wof:id":873595183,
+    "wof:lastmodified":1464294907,
+    "wof:name":"Easter Seal Society",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.448051,
+    43.565676,
+    -71.448051,
+    43.565676
+],
+  "geometry": {"coordinates":[-71.44805100000001,43.565676],"type":"Point"}
+}

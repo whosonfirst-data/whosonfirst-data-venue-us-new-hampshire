@@ -1,0 +1,69 @@
+{
+  "id": 873714903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.902701,43.046359,-70.902701,43.046359",
+    "geom:latitude":43.046359,
+    "geom:longitude":-70.902701,
+    "iso:country":"US",
+    "sg:address":"57 Brookside Dr",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 8845",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fnt2QTUAFmBfxA6aRpiDb_43.046359_-70.902701@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296580,
+    "wof:geomhash":"1460194162700092fb7cce5abcc27820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873714903
+        }
+    ],
+    "wof:id":873714903,
+    "wof:lastmodified":1464296580,
+    "wof:name":"Yost Remodeling Svc",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.902701,
+    43.046359,
+    -70.902701,
+    43.046359
+],
+  "geometry": {"coordinates":[-70.90270099999999,43.046359],"type":"Point"}
+}

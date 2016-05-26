@@ -1,0 +1,83 @@
+{
+  "id": 873809999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445495,42.753344,-71.445495,42.753344",
+    "geom:latitude":42.753344,
+    "geom:longitude":-71.445495,
+    "iso:country":"US",
+    "sg:address":"80 Arlington St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 5187",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "product",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPDtSVQmR9wqqrgD2PasI_42.753344_-71.445495@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297926,
+    "wof:geomhash":"37907f67f5818836943df04c28c1b9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873809999
+        }
+    ],
+    "wof:id":873809999,
+    "wof:lastmodified":1464297926,
+    "wof:name":"Hershey's Ice Cream",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "product",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.445495,
+    42.753344,
+    -71.445495,
+    42.753344
+],
+  "geometry": {"coordinates":[-71.44549499999999,42.753344],"type":"Point"}
+}

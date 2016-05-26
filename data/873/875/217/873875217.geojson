@@ -1,0 +1,71 @@
+{
+  "id": 873875217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170526,43.075736,-71.170526,43.075736",
+    "geom:latitude":43.075736,
+    "geom:longitude":-71.170526,
+    "iso:country":"US",
+    "sg:address":"128 Mountain Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 3031",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V3si8Coz01v7GC2njQqFT_43.075736_-71.170526@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299340,
+    "wof:geomhash":"c20b6044e4180902c888c94e466d834e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873875217
+        }
+    ],
+    "wof:id":873875217,
+    "wof:lastmodified":1464299340,
+    "wof:name":"Pawtuckway State Pk Campground",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -71.170526,
+    43.075736,
+    -71.170526,
+    43.075736
+],
+  "geometry": {"coordinates":[-71.170526,43.075736],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873888319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.974249,43.304819,-70.974249,43.304819",
+    "geom:latitude":43.304819,
+    "geom:longitude":-70.974249,
+    "iso:country":"US",
+    "sg:address":"58 Hanson St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 330 3099",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uIIVv3NRdZeEFISXlArMo_43.304819_-70.974249@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299596,
+    "wof:geomhash":"4694220ed9d39dd7b8ccab6ae40ffb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873888319
+        }
+    ],
+    "wof:id":873888319,
+    "wof:lastmodified":1464299596,
+    "wof:name":"Rochester Historical Society",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -70.974249,
+    43.304819,
+    -70.974249,
+    43.304819
+],
+  "geometry": {"coordinates":[-70.974249,43.304819],"type":"Point"}
+}

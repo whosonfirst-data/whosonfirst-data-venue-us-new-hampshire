@@ -1,0 +1,71 @@
+{
+  "id": 873759329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.586657,43.266399,-71.586657,43.266399",
+    "geom:latitude":43.266399,
+    "geom:longitude":-71.586657,
+    "iso:country":"US",
+    "sg:address":"9 Village St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 6306",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hxaykc3FlM7LdP98KNXQF_43.266399_-71.586657@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297198,
+    "wof:geomhash":"bb20081795da130df65de3addbc00788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873759329
+        }
+    ],
+    "wof:id":873759329,
+    "wof:lastmodified":1464297198,
+    "wof:name":"Thirty Pines Market",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.586657,
+    43.266399,
+    -71.586657,
+    43.266399
+],
+  "geometry": {"coordinates":[-71.586657,43.266399],"type":"Point"}
+}

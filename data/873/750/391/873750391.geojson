@@ -1,0 +1,71 @@
+{
+  "id": 873750391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452884,43.540234,-71.452884,43.540234",
+    "geom:latitude":43.540234,
+    "geom:longitude":-71.452884,
+    "iso:country":"US",
+    "sg:address":"6 Skyline Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9436",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37PT62olR4GPXE7zUscBli_43.540234_-71.452884@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297079,
+    "wof:geomhash":"b3f881fb8083f7cfaaf27495c18036d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873750391
+        }
+    ],
+    "wof:id":873750391,
+    "wof:lastmodified":1464297079,
+    "wof:name":"Architectural Design",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -71.452884,
+    43.540234,
+    -71.452884,
+    43.540234
+],
+  "geometry": {"coordinates":[-71.452884,43.540234],"type":"Point"}
+}

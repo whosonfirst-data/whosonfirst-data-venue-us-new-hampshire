@@ -1,0 +1,72 @@
+{
+  "id": 873915353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885228,43.219944,-70.885228,43.219944",
+    "geom:latitude":43.219944,
+    "geom:longitude":-70.885228,
+    "iso:country":"US",
+    "sg:address":"912 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 834 6123",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ejh48WzkkmwytMrqCuGw_43.219872_-70.885333@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300124,
+    "wof:geomhash":"b0896e996325fe30669e2ef76b95c113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873915353
+        }
+    ],
+    "wof:id":873915353,
+    "wof:lastmodified":1464300124,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.885228,
+    43.219944,
+    -70.885228,
+    43.219944
+],
+  "geometry": {"coordinates":[-70.885228,43.219944],"type":"Point"}
+}

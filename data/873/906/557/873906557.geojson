@@ -1,0 +1,71 @@
+{
+  "id": 873906557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470265,43.528114,-71.470265,43.528114",
+    "geom:latitude":43.528114,
+    "geom:longitude":-71.470265,
+    "iso:country":"US",
+    "sg:address":"614 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9792",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ckDGBb8TgHhIGyNZc79kr_43.528114_-71.470265@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299950,
+    "wof:geomhash":"76ec1018f4b8425bd6929d504223d933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873906557
+        }
+    ],
+    "wof:id":873906557,
+    "wof:lastmodified":1464299950,
+    "wof:name":"Roll-Con",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.470265,
+    43.528114,
+    -71.470265,
+    43.528114
+],
+  "geometry": {"coordinates":[-71.470265,43.528114],"type":"Point"}
+}

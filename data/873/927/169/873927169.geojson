@@ -1,0 +1,76 @@
+{
+  "id": 873927169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521987,42.929441,-71.521987,42.929441",
+    "geom:latitude":42.929441,
+    "geom:longitude":-71.521987,
+    "iso:country":"US",
+    "sg:address":"7 Alder Way",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 0789",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_441uDoEFiHFhbwn7eYARzf_42.929441_-71.521987@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300349,
+    "wof:geomhash":"f4b96b5d1fc1056cf4b7493e20c9e84c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927169
+        }
+    ],
+    "wof:id":873927169,
+    "wof:lastmodified":1464300349,
+    "wof:name":"Larry Voloshin Mortg Spec",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -71.521987,
+    42.929441,
+    -71.521987,
+    42.929441
+],
+  "geometry": {"coordinates":[-71.521987,42.929441],"type":"Point"}
+}

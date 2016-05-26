@@ -1,0 +1,69 @@
+{
+  "id": 873928769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477624,43.308016,-71.477624,43.308016",
+    "geom:latitude":43.308016,
+    "geom:longitude":-71.477624,
+    "iso:country":"US",
+    "sg:address":"54 Lesmerises Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4640",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RgsRTXxrePCmwOtmBz8h4_43.308016_-71.477624@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300384,
+    "wof:geomhash":"1f0e2d2d004ccbaf1e44eb3fba2eb6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873928769
+        }
+    ],
+    "wof:id":873928769,
+    "wof:lastmodified":1464300384,
+    "wof:name":"Drake's Painting",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.477624,
+    43.308016,
+    -71.477624,
+    43.308016
+],
+  "geometry": {"coordinates":[-71.47762400000001,43.308016],"type":"Point"}
+}

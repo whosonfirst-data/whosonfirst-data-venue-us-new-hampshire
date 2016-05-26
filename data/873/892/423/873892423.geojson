@@ -1,0 +1,77 @@
+{
+  "id": 873892423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420487,43.590836,-71.420487,43.590836",
+    "geom:latitude":43.590836,
+    "geom:longitude":-71.420487,
+    "iso:country":"US",
+    "sg:address":"26 Sanborn Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4813",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D0Y6oaNchEm9inXfXVZsh_43.590836_-71.420487@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299674,
+    "wof:geomhash":"324aa10ac35dd7a7d43ba45edf3fadf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873892423
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873892423
+        }
+    ],
+    "wof:id":873892423,
+    "wof:lastmodified":1464299674,
+    "wof:name":"Scott Poire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.420487,
+    43.590836,
+    -71.420487,
+    43.590836
+],
+  "geometry": {"coordinates":[-71.42048699999999,43.590836],"type":"Point"}
+}

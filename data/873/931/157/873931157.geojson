@@ -1,0 +1,69 @@
+{
+  "id": 873931157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.120107,43.97867,-71.120107,43.97867",
+    "geom:latitude":43.97867,
+    "geom:longitude":-71.120107,
+    "iso:country":"US",
+    "sg:address":"32 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.conwaycafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VUMj2TwTctmbTb1pMw3o7_43.978670_-71.120107@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300432,
+    "wof:geomhash":"6a3f161f5af73052f633bf0570177493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931157
+        }
+    ],
+    "wof:id":873931157,
+    "wof:lastmodified":1464300432,
+    "wof:name":"Conway Cafe",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.120107,
+    43.97867,
+    -71.120107,
+    43.97867
+],
+  "geometry": {"coordinates":[-71.120107,43.97867],"type":"Point"}
+}

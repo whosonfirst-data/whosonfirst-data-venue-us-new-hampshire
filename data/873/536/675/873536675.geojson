@@ -1,0 +1,73 @@
+{
+  "id": 873536675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507443,43.189658,-71.507443,43.189658",
+    "geom:latitude":43.189658,
+    "geom:longitude":-71.507443,
+    "iso:country":"US",
+    "sg:address":"109 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 9274",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BRSOYmKmJDa2p2yZZ5bzw_43.189658_-71.507443@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294221,
+    "wof:geomhash":"66ec48714df63398b7a018830c94608f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873536675
+        }
+    ],
+    "wof:id":873536675,
+    "wof:lastmodified":1464294221,
+    "wof:name":"109 Manchester Street Car Wash",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.507443,
+    43.189658,
+    -71.507443,
+    43.189658
+],
+  "geometry": {"coordinates":[-71.50744299999999,43.189658],"type":"Point"}
+}

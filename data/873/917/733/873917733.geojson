@@ -1,0 +1,72 @@
+{
+  "id": 873917733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498821,43.651255,-71.498821,43.651255",
+    "geom:latitude":43.651255,
+    "geom:longitude":-71.498821,
+    "iso:country":"US",
+    "sg:address":"5 Mill St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/meredith/129605-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 0005",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JP5yO0kXn4DZA9Do9zTOY_43.651255_-71.498821@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300173,
+    "wof:geomhash":"64a6f7d3b96cfcfcc72d26f3740888c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873917733
+        }
+    ],
+    "wof:id":873917733,
+    "wof:lastmodified":1464300173,
+    "wof:name":"Subway",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.498821,
+    43.651255,
+    -71.498821,
+    43.651255
+],
+  "geometry": {"coordinates":[-71.49882100000001,43.651255],"type":"Point"}
+}

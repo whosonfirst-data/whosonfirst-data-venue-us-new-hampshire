@@ -1,0 +1,101 @@
+{
+  "id": 873924229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51787,42.79021,-71.51787,42.79021",
+    "geom:latitude":42.79021,
+    "geom:longitude":-71.51787,
+    "iso:country":"US",
+    "sg:address":"460 Amherst St Ste 3",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 7970",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "manipulative",
+        "osteopathic",
+        "treatment",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HrWubbrZeb4lVB2ndQPas_42.790210_-71.517870@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300292,
+    "wof:geomhash":"2e70e00f0bde14234a1d0298a1ecbc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873924229
+        }
+    ],
+    "wof:id":873924229,
+    "wof:lastmodified":1464300292,
+    "wof:name":"Sj Family Medical Centers",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "manipulative",
+        "osteopathic",
+        "treatment",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -71.51787,
+    42.79021,
+    -71.51787,
+    42.79021
+],
+  "geometry": {"coordinates":[-71.51787,42.79021],"type":"Point"}
+}

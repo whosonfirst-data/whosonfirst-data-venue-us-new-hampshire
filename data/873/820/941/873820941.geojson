@@ -1,0 +1,71 @@
+{
+  "id": 873820941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.231788,42.785256,-71.231788,42.785256",
+    "geom:latitude":42.785256,
+    "geom:longitude":-71.231788,
+    "iso:country":"US",
+    "sg:address":"166 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0209",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nxOQd8e0ckRr3rw07kg36_42.785256_-71.231788@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298137,
+    "wof:geomhash":"db80a51135aebba710a5e478cc693ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873820941
+        }
+    ],
+    "wof:id":873820941,
+    "wof:lastmodified":1464298137,
+    "wof:name":"Quality Music Lessons",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -71.231788,
+    42.785256,
+    -71.231788,
+    42.785256
+],
+  "geometry": {"coordinates":[-71.23178799999999,42.785256],"type":"Point"}
+}

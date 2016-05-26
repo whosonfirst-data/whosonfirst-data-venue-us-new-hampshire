@@ -1,0 +1,85 @@
+{
+  "id": 873897757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424489,43.568326,-71.424489,43.568326",
+    "geom:latitude":43.568326,
+    "geom:longitude":-71.424489,
+    "iso:country":"US",
+    "sg:address":"2 Airport Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 3057",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "sg:website":"www.bcedc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AXfTQVcozWdnlut75LDxQ_43.568326_-71.424489@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299778,
+    "wof:geomhash":"f87af920c863a33fd3e9c405ccdb657c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873897757
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873897757
+        }
+    ],
+    "wof:id":873897757,
+    "wof:lastmodified":1464299778,
+    "wof:name":"Belknap County Economic Dev Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.424489,
+    43.568326,
+    -71.424489,
+    43.568326
+],
+  "geometry": {"coordinates":[-71.42448899999999,43.568326],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873852279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.88019,43.215927,-70.88019,43.215927",
+    "geom:latitude":43.215927,
+    "geom:longitude":-70.88019,
+    "iso:country":"US",
+    "sg:address":"835 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 2060",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ornamental",
+        "nursery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDaRfjby7H1jvC8xf55ZP_43.215927_-70.880190@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298857,
+    "wof:geomhash":"31cb49b880f61121ff6b9b9af5d7451c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873852279
+        }
+    ],
+    "wof:id":873852279,
+    "wof:lastmodified":1464298857,
+    "wof:name":"Garrison Hill Florists Inc",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "nursery"
+    ]
+},
+  "bbox": [
+    -70.88019,
+    43.215927,
+    -70.88019,
+    43.215927
+],
+  "geometry": {"coordinates":[-70.88019,43.215927],"type":"Point"}
+}

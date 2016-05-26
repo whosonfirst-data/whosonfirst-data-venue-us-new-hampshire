@@ -1,0 +1,71 @@
+{
+  "id": 873603143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441777,43.047693,-71.441777,43.047693",
+    "geom:latitude":43.047693,
+    "geom:longitude":-71.441777,
+    "iso:country":"US",
+    "sg:address":"29 Benton Rd",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 2992",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pkoU9xgzweNzmVoYlKuFK_43.047693_-71.441777@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295020,
+    "wof:geomhash":"27f45026ab2d3d2e74f20b4d216b94fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873603143
+        }
+    ],
+    "wof:id":873603143,
+    "wof:lastmodified":1464295020,
+    "wof:name":"Absolute Control Electric",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.441777,
+    43.047693,
+    -71.441777,
+    43.047693
+],
+  "geometry": {"coordinates":[-71.441777,43.047693],"type":"Point"}
+}

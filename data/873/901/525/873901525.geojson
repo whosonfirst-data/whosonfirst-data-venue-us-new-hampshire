@@ -1,0 +1,69 @@
+{
+  "id": 873901525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.040239,43.371873,-72.040239,43.371873",
+    "geom:latitude":43.371873,
+    "geom:longitude":-72.040239,
+    "iso:country":"US",
+    "sg:address":"25 Washington St",
+    "sg:city":"Newbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 9732",
+    "sg:postcode":"03255",
+    "sg:province":"NH",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806431,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ClbwfVtbLpBoGDgkpqsK_43.371873_-72.040239@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299849,
+    "wof:geomhash":"8c807627bb8f9277cdcedb43bb2108f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806431,
+            "region_id":85688689,
+            "venue_id":873901525
+        }
+    ],
+    "wof:id":873901525,
+    "wof:lastmodified":1464299849,
+    "wof:name":"Tax Preparer",
+    "wof:parent_id":85806431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -72.040239,
+    43.371873,
+    -72.040239,
+    43.371873
+],
+  "geometry": {"coordinates":[-72.040239,43.371873],"type":"Point"}
+}

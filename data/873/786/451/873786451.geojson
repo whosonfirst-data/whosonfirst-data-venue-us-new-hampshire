@@ -1,0 +1,74 @@
+{
+  "id": 873786451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425018,43.566528,-71.425018,43.566528",
+    "geom:latitude":43.566528,
+    "geom:longitude":-71.425018,
+    "iso:country":"US",
+    "sg:address":"44 Gilford East Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5671",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r0V5vQuxp4uwbGrzOjoBd_43.566528_-71.425018@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297579,
+    "wof:geomhash":"08f07fcaa26a9e7e421d73d882d16a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873786451
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873786451
+        }
+    ],
+    "wof:id":873786451,
+    "wof:lastmodified":1464297579,
+    "wof:name":"Roderick J Bachmann DPM",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.425018,
+    43.566528,
+    -71.425018,
+    43.566528
+],
+  "geometry": {"coordinates":[-71.42501799999999,43.566528],"type":"Point"}
+}

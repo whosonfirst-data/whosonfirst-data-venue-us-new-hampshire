@@ -1,0 +1,75 @@
+{
+  "id": 873865619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466512,42.722553,-71.466512,42.722553",
+    "geom:latitude":42.722553,
+    "geom:longitude":-71.466512,
+    "iso:country":"US",
+    "sg:address":"90 Tennyson Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 888 6327",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XXugNb2SQWTcnpw7LzK79_42.722553_-71.466512@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299149,
+    "wof:geomhash":"0fa4a1d234b1e6818eaff4a46cb02ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873865619
+        }
+    ],
+    "wof:id":873865619,
+    "wof:lastmodified":1464299149,
+    "wof:name":"House Works",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.466512,
+    42.722553,
+    -71.466512,
+    42.722553
+],
+  "geometry": {"coordinates":[-71.46651199999999,42.722553],"type":"Point"}
+}

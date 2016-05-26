@@ -1,0 +1,71 @@
+{
+  "id": 873848283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.929378,43.020123,-70.929378,43.020123",
+    "geom:latitude":43.020123,
+    "geom:longitude":-70.929378,
+    "iso:country":"US",
+    "sg:address":"21 Butterfield Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 3811",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SfdP5bOIeslHr0ByJNP2t_43.020123_-70.929378@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298777,
+    "wof:geomhash":"c0c5cb9f2920bbf7a2d0fca1b88a6f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873848283
+        }
+    ],
+    "wof:id":873848283,
+    "wof:lastmodified":1464298777,
+    "wof:name":"Another Option",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -70.929378,
+    43.020123,
+    -70.929378,
+    43.020123
+],
+  "geometry": {"coordinates":[-70.929378,43.020123],"type":"Point"}
+}

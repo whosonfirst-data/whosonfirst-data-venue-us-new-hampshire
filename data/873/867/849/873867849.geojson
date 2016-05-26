@@ -1,0 +1,71 @@
+{
+  "id": 873867849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367523,42.747689,-71.367523,42.747689",
+    "geom:latitude":42.747689,
+    "geom:longitude":-71.367523,
+    "iso:country":"US",
+    "sg:address":"146 Jeremy Hill Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2440",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dBTdPVRxTDWCFHwVIYQhG_42.747689_-71.367523@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299188,
+    "wof:geomhash":"d137658985720072b00830c4ee463bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873867849
+        }
+    ],
+    "wof:id":873867849,
+    "wof:lastmodified":1464299188,
+    "wof:name":"Steck Farm",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.367523,
+    42.747689,
+    -71.367523,
+    42.747689
+],
+  "geometry": {"coordinates":[-71.36752300000001,42.747689],"type":"Point"}
+}

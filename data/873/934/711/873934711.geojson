@@ -1,0 +1,77 @@
+{
+  "id": 873934711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.916946,43.01926,-70.916946,43.01926",
+    "geom:latitude":43.01926,
+    "geom:longitude":-70.916946,
+    "iso:country":"US",
+    "sg:address":"118 Portsmouth Ave A201",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 1620",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Md5PtDvZDxfIctD3iJhqs_43.019260_-70.916946@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300493,
+    "wof:geomhash":"bb5ddedc6ff6de1c64d2ca61639a3a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873934711
+        }
+    ],
+    "wof:id":873934711,
+    "wof:lastmodified":1464300493,
+    "wof:name":"Seacoast Family Practice",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -70.916946,
+    43.01926,
+    -70.916946,
+    43.01926
+],
+  "geometry": {"coordinates":[-70.916946,43.01926],"type":"Point"}
+}

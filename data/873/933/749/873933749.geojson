@@ -1,0 +1,71 @@
+{
+  "id": 873933749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.103798,42.819901,-71.103798,42.819901",
+    "geom:latitude":42.819901,
+    "geom:longitude":-71.103798,
+    "iso:country":"US",
+    "sg:address":"23 Plaistow Rd Ste 4",
+    "sg:city":"Plaistow",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 1036",
+    "sg:postcode":"03865",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950417,
+        102084463,
+        85846033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1COtasfKcQ8UBC4JktmGJd_42.819901_-71.103798@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300477,
+    "wof:geomhash":"cca4e062872b9fd434ac05b85706cc95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85846033,
+            "region_id":85688645,
+            "venue_id":873933749
+        }
+    ],
+    "wof:id":873933749,
+    "wof:lastmodified":1464300477,
+    "wof:name":"Fred C Church",
+    "wof:parent_id":85846033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.103798,
+    42.819901,
+    -71.103798,
+    42.819901
+],
+  "geometry": {"coordinates":[-71.103798,42.819901],"type":"Point"}
+}

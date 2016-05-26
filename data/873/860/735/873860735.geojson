@@ -1,0 +1,71 @@
+{
+  "id": 873860735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.040197,43.107512,-71.040197,43.107512",
+    "geom:latitude":43.107512,
+    "geom:longitude":-71.040197,
+    "iso:country":"US",
+    "sg:address":"450 State Rte 125",
+    "sg:city":"Lee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 5454",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849819,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VT1SM6wAf0Kyg2mvu1Zjm_43.107512_-71.040197@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299053,
+    "wof:geomhash":"457f681776cef1ed40118092a490bbe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85849819,
+            "region_id":85688689,
+            "venue_id":873860735
+        }
+    ],
+    "wof:id":873860735,
+    "wof:lastmodified":1464299053,
+    "wof:name":"Car Works",
+    "wof:parent_id":85849819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.040197,
+    43.107512,
+    -71.040197,
+    43.107512
+],
+  "geometry": {"coordinates":[-71.04019700000001,43.107512],"type":"Point"}
+}

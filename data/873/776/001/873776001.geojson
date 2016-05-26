@@ -1,0 +1,69 @@
+{
+  "id": 873776001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500142,43.653909,-71.500142,43.653909",
+    "geom:latitude":43.653909,
+    "geom:longitude":-71.500142,
+    "iso:country":"US",
+    "sg:address":"41 Main St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4538",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DSJtzpdHTbOb85XwNwEPK_43.653909_-71.500142@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297437,
+    "wof:geomhash":"a09d590349ad7d901d9576efc3dcc888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873776001
+        }
+    ],
+    "wof:id":873776001,
+    "wof:lastmodified":1464297437,
+    "wof:name":"Meredith Recreation",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.500142,
+    43.653909,
+    -71.500142,
+    43.653909
+],
+  "geometry": {"coordinates":[-71.500142,43.653909],"type":"Point"}
+}

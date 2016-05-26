@@ -1,0 +1,71 @@
+{
+  "id": 873655683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488333,43.326943,-71.488333,43.326943",
+    "geom:latitude":43.326943,
+    "geom:longitude":-71.488333,
+    "iso:country":"US",
+    "sg:address":"612 Old Shaker Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 4364",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mEDvAupjm4h7qPAmpPWY_43.326943_-71.488333@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295653,
+    "wof:geomhash":"d3d500acf5232bf89870a6687cc68422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873655683
+        }
+    ],
+    "wof:id":873655683,
+    "wof:lastmodified":1464295653,
+    "wof:name":"Fabiano Asphalt Truck",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.488333,
+    43.326943,
+    -71.488333,
+    43.326943
+],
+  "geometry": {"coordinates":[-71.488333,43.326943],"type":"Point"}
+}

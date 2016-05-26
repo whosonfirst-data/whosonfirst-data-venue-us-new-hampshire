@@ -1,0 +1,74 @@
+{
+  "id": 873930907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.118462,43.978715,-71.118462,43.978715",
+    "geom:latitude":43.978715,
+    "geom:longitude":-71.118462,
+    "iso:country":"US",
+    "sg:address":"1371 Nh Route 16",
+    "sg:city":"Albany",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 3168",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44JMrmP2QPNgMNx1M3g1xT_43.978715_-71.118462@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300428,
+    "wof:geomhash":"487cc5045bc4a0ef1d03dc2ea9ee77ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873930907
+        }
+    ],
+    "wof:id":873930907,
+    "wof:lastmodified":1464300428,
+    "wof:name":"White Mountain Waldorf School",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.118462,
+    43.978715,
+    -71.118462,
+    43.978715
+],
+  "geometry": {"coordinates":[-71.11846199999999,43.978715],"type":"Point"}
+}

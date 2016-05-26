@@ -1,0 +1,76 @@
+{
+  "id": 873567313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459951,42.919973,-71.459951,42.919973",
+    "geom:latitude":42.919973,
+    "geom:longitude":-71.459951,
+    "iso:country":"US",
+    "sg:address":"404 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8500",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ],
+    "sg:website":"www.lr-nh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822099,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jMkO0dL0Z5mlEW3eNKzeP_42.919973_-71.459951@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294579,
+    "wof:geomhash":"86befb018d867a7a740e06b947516429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822099,
+            "region_id":85688689,
+            "venue_id":873567313
+        }
+    ],
+    "wof:id":873567313,
+    "wof:lastmodified":1464294579,
+    "wof:name":"Land Rover Of Bedford",
+    "wof:parent_id":85822099,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.459951,
+    42.919973,
+    -71.459951,
+    42.919973
+],
+  "geometry": {"coordinates":[-71.459951,42.919973],"type":"Point"}
+}

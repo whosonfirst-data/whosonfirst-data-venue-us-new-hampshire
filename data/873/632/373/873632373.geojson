@@ -1,0 +1,71 @@
+{
+  "id": 873632373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245647,44.399511,-71.245647,44.399511",
+    "geom:latitude":44.399511,
+    "geom:longitude":-71.245647,
+    "iso:country":"US",
+    "sg:address":"38 Spring Rd",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2984",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803261,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pkCV2W330r5Nd3fERYnEc_44.399511_-71.245647@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295390,
+    "wof:geomhash":"89b01f2293f3071437c585708f861123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85803261,
+            "region_id":85688689,
+            "venue_id":873632373
+        }
+    ],
+    "wof:id":873632373,
+    "wof:lastmodified":1464295390,
+    "wof:name":"K R Heating & Repairs",
+    "wof:parent_id":85803261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.245647,
+    44.399511,
+    -71.245647,
+    44.399511
+],
+  "geometry": {"coordinates":[-71.24564700000001,44.399511],"type":"Point"}
+}

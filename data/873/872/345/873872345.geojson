@@ -1,0 +1,71 @@
+{
+  "id": 873872345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464535,43.531012,-71.464535,43.531012",
+    "geom:latitude":43.531012,
+    "geom:longitude":-71.464535,
+    "iso:country":"US",
+    "sg:address":"235 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 0083",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oAv4uGAowLzppaJNbdJPO_43.531012_-71.464535@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299282,
+    "wof:geomhash":"39393db5cf2411aeaef6b685707ae4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873872345
+        }
+    ],
+    "wof:id":873872345,
+    "wof:lastmodified":1464299282,
+    "wof:name":"J & J Sandwich Shop",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.464535,
+    43.531012,
+    -71.464535,
+    43.531012
+],
+  "geometry": {"coordinates":[-71.464535,43.531012],"type":"Point"}
+}

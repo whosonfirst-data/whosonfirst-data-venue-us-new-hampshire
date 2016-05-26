@@ -1,0 +1,73 @@
+{
+  "id": 873905215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.75026,43.314056,-71.75026,43.314056",
+    "geom:latitude":43.314056,
+    "geom:longitude":-71.75026,
+    "iso:country":"US",
+    "sg:address":"532 White Plains Rd",
+    "sg:city":"Webster",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 3525",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "information",
+        "program",
+        "referral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I4E7EZvezBXSmvb8MjOiO_43.314056_-71.750260@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299926,
+    "wof:geomhash":"9ac4d9e7c0a9f5b0fd6a2d1d8d8873ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873905215
+        }
+    ],
+    "wof:id":873905215,
+    "wof:lastmodified":1464299926,
+    "wof:name":"Austin Home",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "program",
+        "referral"
+    ]
+},
+  "bbox": [
+    -71.75026,
+    43.314056,
+    -71.75026,
+    43.314056
+],
+  "geometry": {"coordinates":[-71.75026,43.314056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873786191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.333742,43.050801,-72.333742,43.050801",
+    "geom:latitude":43.050801,
+    "geom:longitude":-72.333742,
+    "iso:country":"US",
+    "sg:address":"1039 State Rte 12A",
+    "sg:city":"Surry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 3675",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85848085,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HKKfnkN1C2X0AYN5gSRDq_43.050801_-72.333742@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297574,
+    "wof:geomhash":"55f1d7dc4c653e83ef2ddc7485cecb55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85848085,
+            "region_id":85688689,
+            "venue_id":873786191
+        }
+    ],
+    "wof:id":873786191,
+    "wof:lastmodified":1464297574,
+    "wof:name":"Surry Mountain Chimney Sweeps",
+    "wof:parent_id":85848085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -72.333742,
+    43.050801,
+    -72.333742,
+    43.050801
+],
+  "geometry": {"coordinates":[-72.333742,43.050801],"type":"Point"}
+}

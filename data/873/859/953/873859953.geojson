@@ -1,0 +1,71 @@
+{
+  "id": 873859953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565136,43.001628,-71.565136,43.001628",
+    "geom:latitude":43.001628,
+    "geom:longitude":-71.565136,
+    "iso:country":"US",
+    "sg:address":"115 Normand Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 3361",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mv84bq26Sk7hv2yqdpTfW_43.001628_-71.565136@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299018,
+    "wof:geomhash":"00c712932ac02d90aaaaec62d37b3a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873859953
+        }
+    ],
+    "wof:id":873859953,
+    "wof:lastmodified":1464299018,
+    "wof:name":"Stephen J Benson Landscaping",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.565136,
+    43.001628,
+    -71.565136,
+    43.001628
+],
+  "geometry": {"coordinates":[-71.565136,43.001628],"type":"Point"}
+}

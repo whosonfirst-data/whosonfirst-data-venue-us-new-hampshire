@@ -1,0 +1,82 @@
+{
+  "id": 873827043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.813782,43.110406,-70.813782,43.110406",
+    "geom:latitude":43.110406,
+    "geom:longitude":-70.813782,
+    "iso:country":"US",
+    "sg:address":"142 River Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 2420",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "disposal",
+        "hazardous",
+        "oil",
+        "transportation",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V8HWtbZYcMOQ6KunePXRg_43.110406_-70.813782@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298278,
+    "wof:geomhash":"b4ad2c87008f43c4215f4ddda92c0e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873827043
+        }
+    ],
+    "wof:id":873827043,
+    "wof:lastmodified":1464298278,
+    "wof:name":"United Oil Recovery Inc",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "hazardous",
+        "oil",
+        "transportation",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -70.813782,
+    43.110406,
+    -70.813782,
+    43.110406
+],
+  "geometry": {"coordinates":[-70.813782,43.110406],"type":"Point"}
+}

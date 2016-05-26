@@ -1,0 +1,71 @@
+{
+  "id": 873641609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474235,43.533646,-71.474235,43.533646",
+    "geom:latitude":43.533646,
+    "geom:longitude":-71.474235,
+    "iso:country":"US",
+    "sg:address":"811 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9415",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c0kgjX795NhS2vCLUaZY1_43.533646_-71.474235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295494,
+    "wof:geomhash":"18410b046a389700db22b67223943d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873641609
+        }
+    ],
+    "wof:id":873641609,
+    "wof:lastmodified":1464295494,
+    "wof:name":"Greek Orthodox Church",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.474235,
+    43.533646,
+    -71.474235,
+    43.533646
+],
+  "geometry": {"coordinates":[-71.47423499999999,43.533646],"type":"Point"}
+}

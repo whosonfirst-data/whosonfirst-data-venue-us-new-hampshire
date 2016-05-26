@@ -1,0 +1,69 @@
+{
+  "id": 873671257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405081,42.794325,-71.405081,42.794325",
+    "geom:latitude":42.794325,
+    "geom:longitude":-71.405081,
+    "iso:country":"US",
+    "sg:address":"20 Sandalwood Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 3634",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qQceInZn7O99HIzBGhmJy_42.794325_-71.405081@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295814,
+    "wof:geomhash":"81e422688cf3ddb5a0fff4e88d70daa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873671257
+        }
+    ],
+    "wof:id":873671257,
+    "wof:lastmodified":1464295814,
+    "wof:name":"Pride In Cleaning",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.405081,
+    42.794325,
+    -71.405081,
+    42.794325
+],
+  "geometry": {"coordinates":[-71.405081,42.794325],"type":"Point"}
+}

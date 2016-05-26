@@ -1,0 +1,73 @@
+{
+  "id": 873741363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525384,43.176502,-71.525384,43.176502",
+    "geom:latitude":43.176502,
+    "geom:longitude":-71.525384,
+    "iso:country":"US",
+    "sg:address":"520 Hall St",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 0323",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gRDxmDGozjnVgcWBRmOBi_43.176502_-71.525384@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296943,
+    "wof:geomhash":"35cb89106ab89921a562deffc17bcbaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873741363
+        }
+    ],
+    "wof:id":873741363,
+    "wof:lastmodified":1464296943,
+    "wof:name":"Blue Seal Feeds & Needs",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.525384,
+    43.176502,
+    -71.525384,
+    43.176502
+],
+  "geometry": {"coordinates":[-71.525384,43.176502],"type":"Point"}
+}

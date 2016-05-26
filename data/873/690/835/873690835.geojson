@@ -1,0 +1,73 @@
+{
+  "id": 873690835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604755,42.740237,-71.604755,42.740237",
+    "geom:latitude":42.740237,
+    "geom:longitude":-71.604755,
+    "iso:country":"US",
+    "sg:address":"14 Proctor Hill Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 7553",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B2pbnVbyPiR8nA3tu8dB2_42.740237_-71.604755@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296295,
+    "wof:geomhash":"cdd15fa9ce05e66c22d430ab9049739c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873690835
+        }
+    ],
+    "wof:id":873690835,
+    "wof:lastmodified":1464296295,
+    "wof:name":"Village Sentry Kennel",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.604755,
+    42.740237,
+    -71.604755,
+    42.740237
+],
+  "geometry": {"coordinates":[-71.604755,42.740237],"type":"Point"}
+}

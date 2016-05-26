@@ -1,0 +1,71 @@
+{
+  "id": 873604725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241543,43.393073,-71.241543,43.393073",
+    "geom:latitude":43.393073,
+    "geom:longitude":-71.241543,
+    "iso:country":"US",
+    "sg:address":"1414 Suncook Valley Rd",
+    "sg:city":"Center Barnstead",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 3561",
+    "sg:postcode":"03809",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Una8GHvTC2q8uu9KgwULZ_43.393073_-71.241543@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295037,
+    "wof:geomhash":"a9e634b3e32a2d9457b3770da1aa3702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873604725
+        }
+    ],
+    "wof:id":873604725,
+    "wof:lastmodified":1464295037,
+    "wof:name":"Meister Rest Corp",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.241543,
+    43.393073,
+    -71.241543,
+    43.393073
+],
+  "geometry": {"coordinates":[-71.24154299999999,43.393073],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873766515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409272,42.71268,-71.409272,42.71268",
+    "geom:latitude":42.71268,
+    "geom:longitude":-71.409272,
+    "iso:country":"US",
+    "sg:address":"40 Dracut Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6029",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "typesetting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O2aEvQ19Bbf0jmyjptr0z_42.712680_-71.409272@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297319,
+    "wof:geomhash":"a553d71408848cab840084ef9b85d4c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873766515
+        }
+    ],
+    "wof:id":873766515,
+    "wof:lastmodified":1464297319,
+    "wof:name":"International Typographical Un",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "typesetting"
+    ]
+},
+  "bbox": [
+    -71.409272,
+    42.71268,
+    -71.409272,
+    42.71268
+],
+  "geometry": {"coordinates":[-71.409272,42.71268],"type":"Point"}
+}

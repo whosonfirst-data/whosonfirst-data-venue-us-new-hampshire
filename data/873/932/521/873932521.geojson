@@ -1,0 +1,73 @@
+{
+  "id": 873932521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.074966,42.905701,-71.074966,42.905701",
+    "geom:latitude":42.905701,
+    "geom:longitude":-71.074966,
+    "iso:country":"US",
+    "sg:address":"10 Stoneybrook Ln",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 6001",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "place",
+        "arcade",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855763,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TRdcMhUEhzZ5UfkwCL1RL_42.905701_-71.074966@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300456,
+    "wof:geomhash":"f96aa4dfab29733a3b1583570103cef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855763,
+            "region_id":85688689,
+            "venue_id":873932521
+        }
+    ],
+    "wof:id":873932521,
+    "wof:lastmodified":1464300456,
+    "wof:name":"Green Rides",
+    "wof:parent_id":85855763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "arcade",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -71.074966,
+    42.905701,
+    -71.074966,
+    42.905701
+],
+  "geometry": {"coordinates":[-71.074966,42.905701],"type":"Point"}
+}

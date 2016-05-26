@@ -1,0 +1,81 @@
+{
+  "id": 873927251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474255,42.947523,-71.474255,42.947523",
+    "geom:latitude":42.947523,
+    "geom:longitude":-71.474255,
+    "iso:country":"US",
+    "sg:address":"3 Executive Park Dr # 10",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 0778",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "loan",
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"http://www.gmacbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X6W6KJgkhTm52fZEIONWb_42.947523_-71.474255@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300350,
+    "wof:geomhash":"869e2276edc931b860a9cef5b5c4f5dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927251
+        }
+    ],
+    "wof:id":873927251,
+    "wof:lastmodified":1464300350,
+    "wof:name":"Gmac",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "loan",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.474255,
+    42.947523,
+    -71.474255,
+    42.947523
+],
+  "geometry": {"coordinates":[-71.474255,42.947523],"type":"Point"}
+}

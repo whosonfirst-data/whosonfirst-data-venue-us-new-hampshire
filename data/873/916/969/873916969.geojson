@@ -1,0 +1,78 @@
+{
+  "id": 873916969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463469,42.764479,-71.463469,42.764479",
+    "geom:latitude":42.764479,
+    "geom:longitude":-71.463469,
+    "iso:country":"US",
+    "sg:address":"13 Canal St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/nashua/30512-mint-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 0669",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E804z8hm5tDJnEnqnXaCH_42.764479_-71.463469@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300158,
+    "wof:geomhash":"57c377fa138d1efd04a6a782d4855474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873916969
+        }
+    ],
+    "wof:id":873916969,
+    "wof:lastmodified":1464300158,
+    "wof:name":"Mint Cafe",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.463469,
+    42.764479,
+    -71.463469,
+    42.764479
+],
+  "geometry": {"coordinates":[-71.463469,42.764479],"type":"Point"}
+}

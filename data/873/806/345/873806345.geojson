@@ -1,0 +1,77 @@
+{
+  "id": 873806345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.989391,43.296703,-70.989391,43.296703",
+    "geom:latitude":43.296703,
+    "geom:longitude":-70.989391,
+    "iso:country":"US",
+    "sg:address":"3 Brock St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 6043",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28PKGMm2HFbTWhGrEtMUzg_43.296703_-70.989391@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297856,
+    "wof:geomhash":"1c15d2b07059e6eca7b0809c92e85811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873806345
+        }
+    ],
+    "wof:id":873806345,
+    "wof:lastmodified":1464297856,
+    "wof:name":"Carroll Jacobs Electrical",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.989391,
+    43.296703,
+    -70.989391,
+    43.296703
+],
+  "geometry": {"coordinates":[-70.989391,43.296703],"type":"Point"}
+}

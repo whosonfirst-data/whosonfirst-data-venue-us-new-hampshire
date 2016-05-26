@@ -1,0 +1,71 @@
+{
+  "id": 873732209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.162621,42.912904,-72.162621,42.912904",
+    "geom:latitude":42.912904,
+    "geom:longitude":-72.162621,
+    "iso:country":"US",
+    "sg:address":"678 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4300",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printer",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85810705,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hjQqkEcT5tMoIqNVj7BXP_42.912904_-72.162621@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296806,
+    "wof:geomhash":"dc86878c61c017fdf4e4a74bc29a5745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85810705,
+            "region_id":85688689,
+            "venue_id":873732209
+        }
+    ],
+    "wof:id":873732209,
+    "wof:lastmodified":1464296806,
+    "wof:name":"Silver Direct Inc",
+    "wof:parent_id":85810705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.162621,
+    42.912904,
+    -72.162621,
+    42.912904
+],
+  "geometry": {"coordinates":[-72.162621,42.912904],"type":"Point"}
+}

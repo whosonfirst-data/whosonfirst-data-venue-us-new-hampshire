@@ -1,0 +1,73 @@
+{
+  "id": 873822101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.885343,42.887835,-70.885343,42.887835",
+    "geom:latitude":42.887835,
+    "geom:longitude":-70.885343,
+    "iso:country":"US",
+    "sg:address":"15 Woodworkers Way",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 1919",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "precision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849117,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57SRGVV9rZdTobYPgbrEtF_42.887835_-70.885343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298162,
+    "wof:geomhash":"bb7d9d21c8af0005b30c8b1af5b9aece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849117,
+            "region_id":85688689,
+            "venue_id":873822101
+        }
+    ],
+    "wof:id":873822101,
+    "wof:lastmodified":1464298162,
+    "wof:name":"Seabrook International LLC",
+    "wof:parent_id":85849117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "precision"
+    ]
+},
+  "bbox": [
+    -70.885343,
+    42.887835,
+    -70.885343,
+    42.887835
+],
+  "geometry": {"coordinates":[-70.88534300000001,42.887835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873730255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.972469,43.300979,-70.972469,43.300979",
+    "geom:latitude":43.300979,
+    "geom:longitude":-70.972469,
+    "iso:country":"US",
+    "sg:address":"101 S Main St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 9764",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26bqxxEPcfqYZ7Xz9YIs2D_43.300979_-70.972469@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296782,
+    "wof:geomhash":"beb1ae4249d6c126469a9ab085b0b426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873730255
+        }
+    ],
+    "wof:id":873730255,
+    "wof:lastmodified":1464296782,
+    "wof:name":"China Palace Restaurant",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.972469,
+    43.300979,
+    -70.972469,
+    43.300979
+],
+  "geometry": {"coordinates":[-70.972469,43.300979],"type":"Point"}
+}

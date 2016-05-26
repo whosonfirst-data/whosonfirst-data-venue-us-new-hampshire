@@ -1,0 +1,77 @@
+{
+  "id": 873577689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79337,43.083411,-70.79337,43.083411",
+    "geom:latitude":43.083411,
+    "geom:longitude":-70.79337,
+    "iso:country":"US",
+    "sg:address":"400 Spaulding Tpke",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 373 6764",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892293,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r8oHJMHN8HhlJTgOZ5QBa_43.083411_-70.793370@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294691,
+    "wof:geomhash":"564e59646a3d3c908df0cabf949a479a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892293,
+            "region_id":85688689,
+            "venue_id":873577689
+        }
+    ],
+    "wof:id":873577689,
+    "wof:lastmodified":1464294691,
+    "wof:name":"Enterprise Rent A Car Co",
+    "wof:parent_id":85892293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.79337,
+    43.083411,
+    -70.79337,
+    43.083411
+],
+  "geometry": {"coordinates":[-70.79337,43.083411],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873630339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.907303,43.03217,-70.907303,43.03217",
+    "geom:latitude":43.03217,
+    "geom:longitude":-70.907303,
+    "iso:country":"US",
+    "sg:address":"219 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 0005",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hy0FOaCaAxm4iRlYD93nI_43.032170_-70.907303@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"cbddf9f1c9612add384ded543419b58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873630339
+        }
+    ],
+    "wof:id":873630339,
+    "wof:lastmodified":1464295369,
+    "wof:name":"Exeter Land Contractors",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.907303,
+    43.03217,
+    -70.907303,
+    43.03217
+],
+  "geometry": {"coordinates":[-70.907303,43.03217],"type":"Point"}
+}

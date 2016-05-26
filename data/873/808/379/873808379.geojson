@@ -1,0 +1,71 @@
+{
+  "id": 873808379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19765,44.400217,-71.19765,44.400217",
+    "geom:latitude":44.400217,
+    "geom:longitude":-71.19765,
+    "iso:country":"US",
+    "sg:address":"399 Main St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 2584",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tevu6FvARP5UknIzkvKsS_44.400217_-71.197650@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297898,
+    "wof:geomhash":"0a1b079e4e00ff4814243978ca8270b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873808379
+        }
+    ],
+    "wof:id":873808379,
+    "wof:lastmodified":1464297898,
+    "wof:name":"Andy's Electric Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.19765,
+    44.400217,
+    -71.19765,
+    44.400217
+],
+  "geometry": {"coordinates":[-71.19765,44.400217],"type":"Point"}
+}

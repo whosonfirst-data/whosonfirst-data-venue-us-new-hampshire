@@ -1,0 +1,72 @@
+{
+  "id": 873649603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.795401,43.167593,-71.795401,43.167593",
+    "geom:latitude":43.167593,
+    "geom:longitude":-71.795401,
+    "iso:country":"US",
+    "sg:address":"24 Flanders Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7653",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "skiing"
+    ],
+    "sg:website":"www.patspeak.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BGiSiMyFEwHYgvNq9ycCY_43.167593_-71.795401@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295582,
+    "wof:geomhash":"105b5a4931aff6fca35ac2d17509c39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873649603
+        }
+    ],
+    "wof:id":873649603,
+    "wof:lastmodified":1464295582,
+    "wof:name":"Pat's Peak Ski School",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -71.795401,
+    43.167593,
+    -71.795401,
+    43.167593
+],
+  "geometry": {"coordinates":[-71.795401,43.167593],"type":"Point"}
+}

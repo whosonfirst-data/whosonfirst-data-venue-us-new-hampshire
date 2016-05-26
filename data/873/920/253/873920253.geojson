@@ -1,0 +1,70 @@
+{
+  "id": 873920253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.231675,43.101143,-71.231675,43.101143",
+    "geom:latitude":43.101143,
+    "geom:longitude":-71.231675,
+    "iso:country":"US",
+    "sg:address":"4 Reservation Rd",
+    "sg:city":"Rockingham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 290 3505",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.rightshadepainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ExLkIPyovsTWuYqs8Pqhl_43.101143_-71.231675@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300215,
+    "wof:geomhash":"e84f07be5142f3aa960f507a25d7f520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873920253
+        }
+    ],
+    "wof:id":873920253,
+    "wof:lastmodified":1464300215,
+    "wof:name":"Right Shade Painting",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.231675,
+    43.101143,
+    -71.231675,
+    43.101143
+],
+  "geometry": {"coordinates":[-71.231675,43.101143],"type":"Point"}
+}

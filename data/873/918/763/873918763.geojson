@@ -1,0 +1,78 @@
+{
+  "id": 873918763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.973021,43.297054,-70.973021,43.297054",
+    "geom:latitude":43.297054,
+    "geom:longitude":-70.973021,
+    "iso:country":"US",
+    "sg:address":"65 Columbus Ave",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/rochester/183530-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 8111",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vkYuMDhnQcM3C7XP5OIDx_43.297054_-70.973021@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"b4a848b33d9adff4f1c3aa1a07a774a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873918763
+        }
+    ],
+    "wof:id":873918763,
+    "wof:lastmodified":1464300191,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -70.973021,
+    43.297054,
+    -70.973021,
+    43.297054
+],
+  "geometry": {"coordinates":[-70.973021,43.297054],"type":"Point"}
+}

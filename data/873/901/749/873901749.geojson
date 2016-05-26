@@ -1,0 +1,77 @@
+{
+  "id": 873901749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.371632,43.36538,-72.371632,43.36538",
+    "geom:latitude":43.36538,
+    "geom:longitude":-72.371632,
+    "iso:country":"US",
+    "sg:address":"7 Bavier St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 5873",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855301,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bJJ8xVLedtyukGTNio21_43.365380_-72.371632@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299853,
+    "wof:geomhash":"bf56207aa2fc058fef2ac4d2e941833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":85855301,
+            "region_id":85688689,
+            "venue_id":873901749
+        }
+    ],
+    "wof:id":873901749,
+    "wof:lastmodified":1464299853,
+    "wof:name":"Donovan Electric",
+    "wof:parent_id":85855301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.371632,
+    43.36538,
+    -72.371632,
+    43.36538
+],
+  "geometry": {"coordinates":[-72.37163200000001,43.36538],"type":"Point"}
+}

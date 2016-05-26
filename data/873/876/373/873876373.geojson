@@ -1,0 +1,71 @@
+{
+  "id": 873876373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47536,43.529762,-71.47536,43.529762",
+    "geom:latitude":43.529762,
+    "geom:longitude":-71.47536,
+    "iso:country":"US",
+    "sg:address":"172 Pleasant St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6488",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v5TONfLrifiw23TxqWCCN_43.529762_-71.475360@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299360,
+    "wof:geomhash":"d764e7b607b39449b4b88060e92d08de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873876373
+        }
+    ],
+    "wof:id":873876373,
+    "wof:lastmodified":1464299360,
+    "wof:name":"Unitarian Universalist Society",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.47536,
+    43.529762,
+    -71.47536,
+    43.529762
+],
+  "geometry": {"coordinates":[-71.47535999999999,43.529762],"type":"Point"}
+}

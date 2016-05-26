@@ -1,0 +1,79 @@
+{
+  "id": 873798901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497813,42.732015,-71.497813,42.732015",
+    "geom:latitude":42.732015,
+    "geom:longitude":-71.497813,
+    "iso:country":"US",
+    "sg:address":"3 Loring Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 9517",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15JWzz3AU8K9pmfB2nor74_42.732015_-71.497813@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297760,
+    "wof:geomhash":"e75d3a52c4d93b3def6d32734db84e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873798901
+        }
+    ],
+    "wof:id":873798901,
+    "wof:lastmodified":1464297760,
+    "wof:name":"T Monbleau Trucking",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.497813,
+    42.732015,
+    -71.497813,
+    42.732015
+],
+  "geometry": {"coordinates":[-71.49781299999999,42.732015],"type":"Point"}
+}

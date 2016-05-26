@@ -1,0 +1,76 @@
+{
+  "id": 873924539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482391,42.775131,-71.482391,42.775131",
+    "geom:latitude":42.775131,
+    "geom:longitude":-71.482391,
+    "iso:country":"US",
+    "sg:address":"48 Charlotte Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 4334",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.nashua.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892287,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24O9IvJVnhPWatXWsTKLaB_42.775131_-71.482391@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300297,
+    "wof:geomhash":"96ea1d7139c0ecee9946c174c5694d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892287,
+            "region_id":85688689,
+            "venue_id":873924539
+        }
+    ],
+    "wof:id":873924539,
+    "wof:lastmodified":1464300297,
+    "wof:name":"Charlotte Ave Elementary School",
+    "wof:parent_id":85892287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.482391,
+    42.775131,
+    -71.482391,
+    42.775131
+],
+  "geometry": {"coordinates":[-71.48239100000001,42.775131],"type":"Point"}
+}

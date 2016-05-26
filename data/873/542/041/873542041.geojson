@@ -1,0 +1,71 @@
+{
+  "id": 873542041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575857,44.496598,-71.575857,44.496598",
+    "geom:latitude":44.496598,
+    "geom:longitude":-71.575857,
+    "iso:country":"US",
+    "sg:address":"279 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4000",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eRb8MjFLHqmDTKnssVOhi_44.496598_-71.575857@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"cc212d45e76cb06fea48110def551c6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873542041
+        }
+    ],
+    "wof:id":873542041,
+    "wof:lastmodified":1464294281,
+    "wof:name":"George E Sansoucy LLC",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.575857,
+    44.496598,
+    -71.575857,
+    44.496598
+],
+  "geometry": {"coordinates":[-71.575857,44.496598],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873665529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.821728,43.175899,-71.821728,43.175899",
+    "geom:latitude":43.175899,
+    "geom:longitude":-71.821728,
+    "iso:country":"US",
+    "sg:address":"2 Depot Hill Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3221",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dept",
+        "police"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KDs6OslvC7xU7VqE61poI_43.175899_-71.821728@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295755,
+    "wof:geomhash":"6fa06094e1e78d080a594521cc9a279c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873665529
+        }
+    ],
+    "wof:id":873665529,
+    "wof:lastmodified":1464295755,
+    "wof:name":"Henniker Police Dept",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "police"
+    ]
+},
+  "bbox": [
+    -71.821728,
+    43.175899,
+    -71.821728,
+    43.175899
+],
+  "geometry": {"coordinates":[-71.82172799999999,43.175899],"type":"Point"}
+}

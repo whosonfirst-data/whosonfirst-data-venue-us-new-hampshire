@@ -1,0 +1,72 @@
+{
+  "id": 873917251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485884,42.995058,-71.485884,42.995058",
+    "geom:latitude":42.995058,
+    "geom:longitude":-71.485884,
+    "iso:country":"US",
+    "sg:address":"381 Kelley St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/279506-tanos-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 8200",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y4pDhRJRYKZg8qD0wX1G6_42.995058_-71.485884@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300163,
+    "wof:geomhash":"be5e4ee99a8bfa58bf940e49b32a085d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873917251
+        }
+    ],
+    "wof:id":873917251,
+    "wof:lastmodified":1464300163,
+    "wof:name":"Tano's Pizzeria",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.485884,
+    42.995058,
+    -71.485884,
+    42.995058
+],
+  "geometry": {"coordinates":[-71.485884,42.995058],"type":"Point"}
+}

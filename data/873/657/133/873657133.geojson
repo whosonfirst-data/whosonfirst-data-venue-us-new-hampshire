@@ -1,0 +1,71 @@
+{
+  "id": 873657133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257998,42.957953,-71.257998,42.957953",
+    "geom:latitude":42.957953,
+    "geom:longitude":-71.257998,
+    "iso:country":"US",
+    "sg:address":"39 Chester St",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 887 3511",
+    "sg:postcode":"03036",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PValXF5hEvWxh7EDUjbbX_42.957953_-71.257998@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295669,
+    "wof:geomhash":"61d2ee3dce7fcfd7fa28b979d84c7402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873657133
+        }
+    ],
+    "wof:id":873657133,
+    "wof:lastmodified":1464295669,
+    "wof:name":"Stephen A Bergeron DDS",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.257998,
+    42.957953,
+    -71.257998,
+    42.957953
+],
+  "geometry": {"coordinates":[-71.257998,42.957953],"type":"Point"}
+}

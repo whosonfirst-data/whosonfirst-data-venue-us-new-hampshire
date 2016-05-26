@@ -1,0 +1,71 @@
+{
+  "id": 873557323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.874524,42.933352,-70.874524,42.933352",
+    "geom:latitude":42.933352,
+    "geom:longitude":-70.874524,
+    "iso:country":"US",
+    "sg:address":"55 Brown Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 8402",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852429,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20wYGi3ZjxdvPDuO73TeqQ_42.933352_-70.874524@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294464,
+    "wof:geomhash":"106f0c77af82f437c89835561d4dbea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852429,
+            "region_id":85688689,
+            "venue_id":873557323
+        }
+    ],
+    "wof:id":873557323,
+    "wof:lastmodified":1464294464,
+    "wof:name":"Marston Farm & Market",
+    "wof:parent_id":85852429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -70.874524,
+    42.933352,
+    -70.874524,
+    42.933352
+],
+  "geometry": {"coordinates":[-70.87452399999999,42.933352],"type":"Point"}
+}

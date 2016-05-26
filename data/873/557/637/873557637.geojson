@@ -1,0 +1,71 @@
+{
+  "id": 873557637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.90038,42.949987,-70.90038,42.949987",
+    "geom:latitude":42.949987,
+    "geom:longitude":-70.90038,
+    "iso:country":"US",
+    "sg:address":"298 Exeter Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 7266",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846951,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WVumAfAd67VLYGrsMC0tP_42.949987_-70.900380@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294467,
+    "wof:geomhash":"a6e9b2c343e99bdcabafe5cae63d52be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846951,
+            "region_id":85688689,
+            "venue_id":873557637
+        }
+    ],
+    "wof:id":873557637,
+    "wof:lastmodified":1464294467,
+    "wof:name":"Johnsrud Enterprises",
+    "wof:parent_id":85846951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -70.90038,
+    42.949987,
+    -70.90038,
+    42.949987
+],
+  "geometry": {"coordinates":[-70.90038,42.949987],"type":"Point"}
+}

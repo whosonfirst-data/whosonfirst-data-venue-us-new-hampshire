@@ -1,0 +1,71 @@
+{
+  "id": 873729265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52568,42.87162,-71.52568,42.87162",
+    "geom:latitude":42.87162,
+    "geom:longitude":-71.52568,
+    "iso:country":"US",
+    "sg:address":"12 Patten Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 2510",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830005,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w66HLfBnKLfIaYsYoeuUE_42.871620_-71.525680@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296771,
+    "wof:geomhash":"4b95acdb88d61580461f4befaa7e2c32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85830005,
+            "region_id":85688689,
+            "venue_id":873729265
+        }
+    ],
+    "wof:id":873729265,
+    "wof:lastmodified":1464296771,
+    "wof:name":"Munzing Corp",
+    "wof:parent_id":85830005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.52568,
+    42.87162,
+    -71.52568,
+    42.87162
+],
+  "geometry": {"coordinates":[-71.52567999999999,42.87162],"type":"Point"}
+}

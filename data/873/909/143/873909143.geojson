@@ -1,0 +1,71 @@
+{
+  "id": 873909143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.614829,43.577345,-71.614829,43.577345",
+    "geom:latitude":43.577345,
+    "geom:longitude":-71.614829,
+    "iso:country":"US",
+    "sg:address":"208 Pinnacle Ridge Rd",
+    "sg:city":"Sanbornton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 6386",
+    "sg:postcode":"03269",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837999,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qku4caZnE3iVMjA1IDcLZ_43.577345_-71.614829@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299996,
+    "wof:geomhash":"917f79b3ee9e6fb50ac80d15eb5e3e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85837999,
+            "region_id":85688689,
+            "venue_id":873909143
+        }
+    ],
+    "wof:id":873909143,
+    "wof:lastmodified":1464299996,
+    "wof:name":"Winnipesaukee Electric",
+    "wof:parent_id":85837999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.614829,
+    43.577345,
+    -71.614829,
+    43.577345
+],
+  "geometry": {"coordinates":[-71.614829,43.577345],"type":"Point"}
+}

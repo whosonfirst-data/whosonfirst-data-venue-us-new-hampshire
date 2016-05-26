@@ -1,0 +1,77 @@
+{
+  "id": 873854789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.905001,43.261727,-70.905001,43.261727",
+    "geom:latitude":43.261727,
+    "geom:longitude":-70.905001,
+    "iso:country":"US",
+    "sg:address":"362 State Rte 108",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 2646",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526419,
+        102191575,
+        404477061,
+        85633793,
+        85975057,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iDGcgP0riTyiu3JIlW73W_43.261727_-70.905001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298910,
+    "wof:geomhash":"a7253a9cfea2e2fff1c29ab5496f0649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404477061,
+            "locality_id":85975057,
+            "neighbourhood_id":420526419,
+            "region_id":85688689,
+            "venue_id":873854789
+        }
+    ],
+    "wof:id":873854789,
+    "wof:lastmodified":1464298910,
+    "wof:name":"Dave's Septic",
+    "wof:parent_id":420526419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -70.905001,
+    43.261727,
+    -70.905001,
+    43.261727
+],
+  "geometry": {"coordinates":[-70.905001,43.261727],"type":"Point"}
+}

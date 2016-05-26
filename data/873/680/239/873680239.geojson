@@ -1,0 +1,71 @@
+{
+  "id": 873680239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.809071,43.102641,-70.809071,43.102641",
+    "geom:latitude":43.102641,
+    "geom:longitude":-70.809071,
+    "iso:country":"US",
+    "sg:address":"2299 Woodbury Ave",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9100",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ChKthr625yzVeNilsjbB_43.102641_-70.809071@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296002,
+    "wof:geomhash":"e1315fdc1c135a522b5b2295bb1a4697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873680239
+        }
+    ],
+    "wof:id":873680239,
+    "wof:lastmodified":1464296002,
+    "wof:name":"Joseph Nossiff MD",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.809071,
+    43.102641,
+    -70.809071,
+    43.102641
+],
+  "geometry": {"coordinates":[-70.809071,43.102641],"type":"Point"}
+}

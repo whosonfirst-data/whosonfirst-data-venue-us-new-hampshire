@@ -1,0 +1,73 @@
+{
+  "id": 873926471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.351499,42.80345,-71.351499,42.80345",
+    "geom:latitude":42.80345,
+    "geom:longitude":-71.351499,
+    "iso:country":"US",
+    "sg:address":"3 Kendall Pond Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 8884",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sleep",
+        "treatment",
+        "disorders-information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_289fntprBaJnRkIMn0hTEM_42.803450_-71.351499@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300337,
+    "wof:geomhash":"731d388a4d9e66413126b948b3245692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873926471
+        }
+    ],
+    "wof:id":873926471,
+    "wof:lastmodified":1464300337,
+    "wof:name":"Gnostic Arts",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sleep",
+        "treatment",
+        "disorders-information"
+    ]
+},
+  "bbox": [
+    -71.351499,
+    42.80345,
+    -71.351499,
+    42.80345
+],
+  "geometry": {"coordinates":[-71.351499,42.80345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873815059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187676,44.474459,-71.187676,44.474459",
+    "geom:latitude":44.474459,
+    "geom:longitude":-71.187676,
+    "iso:country":"US",
+    "sg:address":"46 Wight St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3100",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NsqGJB6FuffG7pOeQ40If_44.474459_-71.187676@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298015,
+    "wof:geomhash":"f9000a7b09a99a987afd5759f470da0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873815059
+        }
+    ],
+    "wof:id":873815059,
+    "wof:lastmodified":1464298015,
+    "wof:name":"Morneau Movers LLC",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.187676,
+    44.474459,
+    -71.187676,
+    44.474459
+],
+  "geometry": {"coordinates":[-71.187676,44.474459],"type":"Point"}
+}

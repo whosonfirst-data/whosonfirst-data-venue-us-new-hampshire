@@ -1,0 +1,78 @@
+{
+  "id": 873869047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.245004,43.643691,-72.245004,43.643691",
+    "geom:latitude":43.643691,
+    "geom:longitude":-72.245004,
+    "iso:country":"US",
+    "sg:address":"75 Bank St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 3056",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "sg:website":"www.lebanon.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65NpLhwB8wBkenhT0G6YRF_43.643691_-72.245004@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299209,
+    "wof:geomhash":"9bdee871d989eb94d2e7347a0628a3a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873869047
+        }
+    ],
+    "wof:id":873869047,
+    "wof:lastmodified":1464299209,
+    "wof:name":"Lebanon Junior High School",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -72.245004,
+    43.643691,
+    -72.245004,
+    43.643691
+],
+  "geometry": {"coordinates":[-72.24500399999999,43.643691],"type":"Point"}
+}

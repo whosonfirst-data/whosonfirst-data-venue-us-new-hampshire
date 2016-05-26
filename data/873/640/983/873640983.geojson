@@ -1,0 +1,69 @@
+{
+  "id": 873640983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45408,42.815987,-71.45408,42.815987",
+    "geom:latitude":42.815987,
+    "geom:longitude":-71.45408,
+    "iso:country":"US",
+    "sg:address":"117 Page Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 1231",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0liXNO9AFoDUEo0bQqYqmx_42.815987_-71.454080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295487,
+    "wof:geomhash":"7f2bb289bf2e2a1b3e3c79b08be109bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873640983
+        }
+    ],
+    "wof:id":873640983,
+    "wof:lastmodified":1464295487,
+    "wof:name":"Immaculate Cleaning Svc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.45408,
+    42.815987,
+    -71.45408,
+    42.815987
+],
+  "geometry": {"coordinates":[-71.45408,42.815987],"type":"Point"}
+}

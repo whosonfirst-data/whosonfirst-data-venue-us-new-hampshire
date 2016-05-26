@@ -1,0 +1,74 @@
+{
+  "id": 873932599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.931622,43.046415,-70.931622,43.046415",
+    "geom:latitude":43.046415,
+    "geom:longitude":-70.931622,
+    "iso:country":"US",
+    "sg:address":"56 Route 108",
+    "sg:city":"Newfields",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 9443",
+    "sg:postcode":"03856",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "sg:website":"http://www.greatbaycamping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K2ig0wT1TWzmOx5lEZ4Al_43.046415_-70.931622@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300457,
+    "wof:geomhash":"1f3748a1886ed52a6f272bd17196a992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873932599
+        }
+    ],
+    "wof:id":873932599,
+    "wof:lastmodified":1464300457,
+    "wof:name":"Great Bay Camping",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -70.931622,
+    43.046415,
+    -70.931622,
+    43.046415
+],
+  "geometry": {"coordinates":[-70.931622,43.046415],"type":"Point"}
+}

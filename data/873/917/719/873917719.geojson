@@ -1,0 +1,74 @@
+{
+  "id": 873917719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442054,43.563054,-71.442054,43.563054",
+    "geom:latitude":43.563054,
+    "geom:longitude":-71.442054,
+    "iso:country":"US",
+    "sg:address":"1425a Lake Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/gilford/69975-papa-ginos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3355",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s0PhohUWG2iC7ESW27ztL_43.563054_-71.442054@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300172,
+    "wof:geomhash":"522143d9571a6addd7a772752a2af183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873917719
+        }
+    ],
+    "wof:id":873917719,
+    "wof:lastmodified":1464300172,
+    "wof:name":"Papa Gino's",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.442054,
+    43.563054,
+    -71.442054,
+    43.563054
+],
+  "geometry": {"coordinates":[-71.442054,43.563054],"type":"Point"}
+}

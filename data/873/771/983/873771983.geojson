@@ -1,0 +1,73 @@
+{
+  "id": 873771983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.082489,43.386244,-72.082489,43.386244",
+    "geom:latitude":43.386244,
+    "geom:longitude":-72.082489,
+    "iso:country":"US",
+    "sg:address":"51 Main St",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 7364",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mhd3k3UNsljMNkvQIfXZC_43.386244_-72.082489@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"87ff42e24d602462721f62a956e8df87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873771983
+        }
+    ],
+    "wof:id":873771983,
+    "wof:lastmodified":1464297389,
+    "wof:name":"Harbor Gallery",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.082489,
+    43.386244,
+    -72.082489,
+    43.386244
+],
+  "geometry": {"coordinates":[-72.082489,43.386244],"type":"Point"}
+}

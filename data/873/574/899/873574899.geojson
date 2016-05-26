@@ -1,0 +1,73 @@
+{
+  "id": 873574899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533686,42.745345,-71.533686,42.745345",
+    "geom:latitude":42.745345,
+    "geom:longitude":-71.533686,
+    "iso:country":"US",
+    "sg:address":"327 Broad St",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 5353",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bwUVoegafoFpkvcyujeqh_42.745345_-71.533686@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294662,
+    "wof:geomhash":"d75e2f08ebc9705ae1c645a5c789b230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873574899
+        }
+    ],
+    "wof:id":873574899,
+    "wof:lastmodified":1464294662,
+    "wof:name":"Lawn Systems Inc",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -71.533686,
+    42.745345,
+    -71.533686,
+    42.745345
+],
+  "geometry": {"coordinates":[-71.533686,42.745345],"type":"Point"}
+}

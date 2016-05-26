@@ -1,0 +1,79 @@
+{
+  "id": 873697435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.251385,43.64299,-72.251385,43.64299",
+    "geom:latitude":43.64299,
+    "geom:longitude":-72.251385,
+    "iso:country":"US",
+    "sg:address":"51 N Park St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 2944",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "resource",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28mggkJ51NqizYu4FERR6T_43.642990_-72.251385@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296379,
+    "wof:geomhash":"7fc20e3a795ca4714b88519b9767a973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873697435
+        }
+    ],
+    "wof:id":873697435,
+    "wof:lastmodified":1464296379,
+    "wof:name":"Lebanon Welfare Office",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    -72.251385,
+    43.64299,
+    -72.251385,
+    43.64299
+],
+  "geometry": {"coordinates":[-72.251385,43.64299],"type":"Point"}
+}

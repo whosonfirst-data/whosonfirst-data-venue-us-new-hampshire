@@ -1,0 +1,71 @@
+{
+  "id": 873869963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.169358,44.481632,-71.169358,44.481632",
+    "geom:latitude":44.481632,
+    "geom:longitude":-71.169358,
+    "iso:country":"US",
+    "sg:address":"35 7th St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2600",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zgnmVm6tbgMcDqAZKtf6g_44.481632_-71.169358@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299224,
+    "wof:geomhash":"0b78b4b27bfc1075fa6f4559663d4b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873869963
+        }
+    ],
+    "wof:id":873869963,
+    "wof:lastmodified":1464299224,
+    "wof:name":"T Z Auto",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.169358,
+    44.481632,
+    -71.169358,
+    44.481632
+],
+  "geometry": {"coordinates":[-71.169358,44.481632],"type":"Point"}
+}

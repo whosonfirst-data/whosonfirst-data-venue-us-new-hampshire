@@ -1,0 +1,71 @@
+{
+  "id": 873921485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394718,42.704411,-71.394718,42.704411",
+    "geom:latitude":42.704411,
+    "geom:longitude":-71.394718,
+    "iso:country":"US",
+    "sg:address":"112 Dracut Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 8750",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "promoter",
+        "tours-operators"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85837137,
+        102084643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48YeMruxm7qMQ0W31bB3Hg_42.704411_-71.394718@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300235,
+    "wof:geomhash":"6dc0051a3981bca352ed792b67cb2106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084643,
+            "neighbourhood_id":85837137,
+            "region_id":85688645,
+            "venue_id":873921485
+        }
+    ],
+    "wof:id":873921485,
+    "wof:lastmodified":1464300235,
+    "wof:name":"Stateline Tours",
+    "wof:parent_id":85837137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -71.394718,
+    42.704411,
+    -71.394718,
+    42.704411
+],
+  "geometry": {"coordinates":[-71.394718,42.704411],"type":"Point"}
+}

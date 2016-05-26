@@ -1,0 +1,88 @@
+{
+  "id": 873931493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.996692,43.213223,-70.996692,43.213223",
+    "geom:latitude":43.213223,
+    "geom:longitude":-70.996692,
+    "iso:country":"US",
+    "sg:address":"149 Route 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2231",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mail",
+        "online",
+        "order",
+        "merchandise",
+        "variety"
+    ],
+    "sg:website":"http://www.calefscountrystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GZ6ib7d0rabMufeETZE2T_43.213223_-70.996692@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300437,
+    "wof:geomhash":"e2b4e1f2ac6f249aafe14a6ded2758d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873931493
+        }
+    ],
+    "wof:id":873931493,
+    "wof:lastmodified":1464300437,
+    "wof:name":"Calef's Country Store",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "online",
+        "order",
+        "merchandise",
+        "variety"
+    ]
+},
+  "bbox": [
+    -70.996692,
+    43.213223,
+    -70.996692,
+    43.213223
+],
+  "geometry": {"coordinates":[-70.996692,43.213223],"type":"Point"}
+}

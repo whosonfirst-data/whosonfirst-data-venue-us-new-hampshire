@@ -1,0 +1,75 @@
+{
+  "id": 873860887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.967324,43.29651,-70.967324,43.29651",
+    "geom:latitude":43.29651,
+    "geom:longitude":-70.967324,
+    "iso:country":"US",
+    "sg:address":"11 Brook St",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 862 2355",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XairwrmJi68ISs0TWoCCa_43.296510_-70.967324@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299056,
+    "wof:geomhash":"e019a584e387f0f86a73944ea54dcdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873860887
+        }
+    ],
+    "wof:id":873860887,
+    "wof:lastmodified":1464299056,
+    "wof:name":"Council Of Presidents",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.967324,
+    43.29651,
+    -70.967324,
+    43.29651
+],
+  "geometry": {"coordinates":[-70.967324,43.29651],"type":"Point"}
+}

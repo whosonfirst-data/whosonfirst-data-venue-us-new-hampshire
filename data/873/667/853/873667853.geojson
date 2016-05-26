@@ -1,0 +1,77 @@
+{
+  "id": 873667853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.251456,43.641901,-72.251456,43.641901",
+    "geom:latitude":43.641901,
+    "geom:longitude":-72.251456,
+    "iso:country":"US",
+    "sg:address":"6 S Park St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 6008",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_701uMTcl9JrjV5FM6rbsxG_43.641901_-72.251456@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295778,
+    "wof:geomhash":"2b132962c27c095ebd0a2b2ab1f97911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873667853
+        }
+    ],
+    "wof:id":873667853,
+    "wof:lastmodified":1464295778,
+    "wof:name":"Patrick J Morhun MD",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.251456,
+    43.641901,
+    -72.251456,
+    43.641901
+],
+  "geometry": {"coordinates":[-72.251456,43.641901],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873918437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.790316,43.088535,-70.790316,43.088535",
+    "geom:latitude":43.088535,
+    "geom:longitude":-70.790316,
+    "iso:country":"US",
+    "sg:address":"1574 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/103804-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 559 9740",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892293,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59gwhF6c0YdUVot6UURP0M_43.088535_-70.790316@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300185,
+    "wof:geomhash":"5316066abe94990196bb9a84d7160ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892293,
+            "region_id":85688689,
+            "venue_id":873918437
+        }
+    ],
+    "wof:id":873918437,
+    "wof:lastmodified":1464300185,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85892293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.790316,
+    43.088535,
+    -70.790316,
+    43.088535
+],
+  "geometry": {"coordinates":[-70.790316,43.088535],"type":"Point"}
+}

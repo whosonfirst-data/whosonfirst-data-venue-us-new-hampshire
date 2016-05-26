@@ -1,0 +1,75 @@
+{
+  "id": 873859381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452483,42.763855,-71.452483,42.763855",
+    "geom:latitude":42.763855,
+    "geom:longitude":-71.452483,
+    "iso:country":"US",
+    "sg:address":"6 Bridge St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 3130",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X99K2VJNkODoQ13iPnOC6_42.763855_-71.452483@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299004,
+    "wof:geomhash":"9b9f53185bf9311685f89c22bb815248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873859381
+        }
+    ],
+    "wof:id":873859381,
+    "wof:lastmodified":1464299004,
+    "wof:name":"Bainz Autobody",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.452483,
+    42.763855,
+    -71.452483,
+    42.763855
+],
+  "geometry": {"coordinates":[-71.452483,42.763855],"type":"Point"}
+}

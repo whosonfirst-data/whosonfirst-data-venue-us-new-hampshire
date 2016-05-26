@@ -1,0 +1,80 @@
+{
+  "id": 873625593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1763,44.473725,-71.1763,44.473725",
+    "geom:latitude":44.473725,
+    "geom:longitude":-71.1763,
+    "iso:country":"US",
+    "sg:address":"25 Success St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 6259",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "authorities",
+        "housing",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HgYpf5ODnn2yeEzt6XYsc_44.473725_-71.176300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295316,
+    "wof:geomhash":"a12fc023d7242fd1e0ec4d8f86f78952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873625593
+        }
+    ],
+    "wof:id":873625593,
+    "wof:lastmodified":1464295316,
+    "wof:name":"Northern Lights Housing",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "authorities",
+        "housing",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.1763,
+    44.473725,
+    -71.1763,
+    44.473725
+],
+  "geometry": {"coordinates":[-71.1763,44.473725],"type":"Point"}
+}

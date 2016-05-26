@@ -1,0 +1,78 @@
+{
+  "id": 873934725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.9196,43.005758,-70.9196,43.005758",
+    "geom:latitude":43.005758,
+    "geom:longitude":-70.9196,
+    "iso:country":"US",
+    "sg:address":"64 Portsmouth Ave Ste 5",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 8222",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NevB5T1QF8I69DupJUblI_43.005758_-70.919600@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300493,
+    "wof:geomhash":"cad99cef077a8d4b813456a307c73d7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873934725
+        }
+    ],
+    "wof:id":873934725,
+    "wof:lastmodified":1464300493,
+    "wof:name":"Stratham Physical Therapy",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -70.9196,
+    43.005758,
+    -70.9196,
+    43.005758
+],
+  "geometry": {"coordinates":[-70.9196,43.005758],"type":"Point"}
+}

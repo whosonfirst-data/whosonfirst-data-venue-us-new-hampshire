@@ -1,0 +1,71 @@
+{
+  "id": 873767929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.345211,43.005362,-71.345211,43.005362",
+    "geom:latitude":43.005362,
+    "geom:longitude":-71.345211,
+    "iso:country":"US",
+    "sg:address":"7 Raymond Rd",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2212",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FNspTJFUKy34ZFF5VHioG_43.005362_-71.345211@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297337,
+    "wof:geomhash":"41e967f5d9f787278f20b374508ef719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873767929
+        }
+    ],
+    "wof:id":873767929,
+    "wof:lastmodified":1464297337,
+    "wof:name":"Get A Pet",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.345211,
+    43.005362,
+    -71.345211,
+    43.005362
+],
+  "geometry": {"coordinates":[-71.34521100000001,43.005362],"type":"Point"}
+}

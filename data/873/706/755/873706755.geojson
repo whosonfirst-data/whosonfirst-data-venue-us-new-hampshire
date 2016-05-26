@@ -1,0 +1,71 @@
+{
+  "id": 873706755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.101699,43.384268,-72.101699,43.384268",
+    "geom:latitude":43.384268,
+    "geom:longitude":-72.101699,
+    "iso:country":"US",
+    "sg:address":"416 State Rte 11",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 5663",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vi3JKupKVXb0gJTUiBpJ8_43.384268_-72.101699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296479,
+    "wof:geomhash":"0264adb78e348fe04850ec8ef98b7280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873706755
+        }
+    ],
+    "wof:id":873706755,
+    "wof:lastmodified":1464296479,
+    "wof:name":"William E Austin & Son",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.101699,
+    43.384268,
+    -72.101699,
+    43.384268
+],
+  "geometry": {"coordinates":[-72.101699,43.384268],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873701895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.138658,43.964389,-71.138658,43.964389",
+    "geom:latitude":43.964389,
+    "geom:longitude":-71.138658,
+    "iso:country":"US",
+    "sg:address":"4 A St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 775 0056",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LdoTGa9h7faluXREAd5fG_43.964389_-71.138658@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296424,
+    "wof:geomhash":"2f8b963c16014914b0b54f4e941aad7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873701895
+        }
+    ],
+    "wof:id":873701895,
+    "wof:lastmodified":1464296424,
+    "wof:name":"Custom Paving",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.138658,
+    43.964389,
+    -71.138658,
+    43.964389
+],
+  "geometry": {"coordinates":[-71.13865800000001,43.964389],"type":"Point"}
+}

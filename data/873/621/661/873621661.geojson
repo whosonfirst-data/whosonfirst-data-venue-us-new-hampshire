@@ -1,0 +1,71 @@
+{
+  "id": 873621661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.162012,42.843798,-71.162012,42.843798",
+    "geom:latitude":42.843798,
+    "geom:longitude":-71.162012,
+    "iso:country":"US",
+    "sg:address":"7 Stone Pond Ln",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 4342",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I3QZa6ruA522qwQGEg1wK_42.843798_-71.162012@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295267,
+    "wof:geomhash":"5f5f92f5c679a9be7a5088aece0602b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873621661
+        }
+    ],
+    "wof:id":873621661,
+    "wof:lastmodified":1464295267,
+    "wof:name":"Broderick Electrical Co Inc",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.162012,
+    42.843798,
+    -71.162012,
+    42.843798
+],
+  "geometry": {"coordinates":[-71.162012,42.843798],"type":"Point"}
+}

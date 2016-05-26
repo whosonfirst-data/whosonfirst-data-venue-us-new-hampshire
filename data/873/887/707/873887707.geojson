@@ -1,0 +1,71 @@
+{
+  "id": 873887707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520318,42.820306,-72.520318,42.820306",
+    "geom:latitude":42.820306,
+    "geom:longitude":-72.520318,
+    "iso:country":"US",
+    "sg:address":"9 Meetinghouse Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 256 8248",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837733,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D763jrh3COTy31rmJkaiW_42.820306_-72.520318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299586,
+    "wof:geomhash":"ad92fd5225de22d2549fe571cca6b821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85837733,
+            "region_id":85688689,
+            "venue_id":873887707
+        }
+    ],
+    "wof:id":873887707,
+    "wof:lastmodified":1464299586,
+    "wof:name":"BRI Roofing & Siding",
+    "wof:parent_id":85837733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.520318,
+    42.820306,
+    -72.520318,
+    42.820306
+],
+  "geometry": {"coordinates":[-72.520318,42.820306],"type":"Point"}
+}

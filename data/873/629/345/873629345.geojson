@@ -1,0 +1,69 @@
+{
+  "id": 873629345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.936309,43.077366,-70.936309,43.077366",
+    "geom:latitude":43.077366,
+    "geom:longitude":-70.936309,
+    "iso:country":"US",
+    "sg:address":"2 Creighton St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 0240",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nQTZkossSld6iLy8otIJo_43.077366_-70.936309@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295358,
+    "wof:geomhash":"84baf2071a79c9ffde2cbdcce95dae03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873629345
+        }
+    ],
+    "wof:id":873629345,
+    "wof:lastmodified":1464295358,
+    "wof:name":"Kingston Auction Co",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -70.936309,
+    43.077366,
+    -70.936309,
+    43.077366
+],
+  "geometry": {"coordinates":[-70.93630899999999,43.077366],"type":"Point"}
+}

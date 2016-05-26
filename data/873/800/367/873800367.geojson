@@ -1,0 +1,71 @@
+{
+  "id": 873800367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.208906,42.826502,-71.208906,42.826502",
+    "geom:latitude":42.826502,
+    "geom:longitude":-71.208906,
+    "iso:country":"US",
+    "sg:address":"300 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 3077",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sh7vzE7UQnmBPtyM2GCDV_42.826502_-71.208906@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297778,
+    "wof:geomhash":"803fbe5d039764186026ea381fecd745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873800367
+        }
+    ],
+    "wof:id":873800367,
+    "wof:lastmodified":1464297778,
+    "wof:name":"Dowgiert Building & Remodeling",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.208906,
+    42.826502,
+    -71.208906,
+    42.826502
+],
+  "geometry": {"coordinates":[-71.208906,42.826502],"type":"Point"}
+}

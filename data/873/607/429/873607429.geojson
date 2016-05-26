@@ -1,0 +1,71 @@
+{
+  "id": 873607429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.005769,43.215636,-71.005769,43.215636",
+    "geom:latitude":43.215636,
+    "geom:longitude":-71.005769,
+    "iso:country":"US",
+    "sg:address":"161 State Rte 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 5279",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_793ZIBNY1SLQjW0Owkdx4q_43.215636_-71.005769@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295086,
+    "wof:geomhash":"7df6846b9d78bfcaa47ffc25f405e500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873607429
+        }
+    ],
+    "wof:id":873607429,
+    "wof:lastmodified":1464295086,
+    "wof:name":"Focal Point Tile & Stone",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.005769,
+    43.215636,
+    -71.005769,
+    43.215636
+],
+  "geometry": {"coordinates":[-71.005769,43.215636],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873765043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578251,42.7442,-71.578251,42.7442",
+    "geom:latitude":42.7442,
+    "geom:longitude":-71.578251,
+    "iso:country":"US",
+    "sg:address":"65 Broad St",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 7079",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vLNQ4jbtlKPPJ6WgqgjCp_42.744200_-71.578251@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297297,
+    "wof:geomhash":"f220e56dba69839adca879e64b20b81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873765043
+        }
+    ],
+    "wof:id":873765043,
+    "wof:lastmodified":1464297297,
+    "wof:name":"Lull Farm",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.578251,
+    42.7442,
+    -71.578251,
+    42.7442
+],
+  "geometry": {"coordinates":[-71.57825099999999,42.7442],"type":"Point"}
+}

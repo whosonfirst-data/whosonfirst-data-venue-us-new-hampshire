@@ -1,0 +1,71 @@
+{
+  "id": 873876413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.879144,43.015238,-70.879144,43.015238",
+    "geom:latitude":43.015238,
+    "geom:longitude":-70.879144,
+    "iso:country":"US",
+    "sg:address":"5 Humes Ct",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 0498",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858303,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PdLj8CR6p21eL7UdUvATK_43.015238_-70.879144@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299361,
+    "wof:geomhash":"bb0cd2e3b67b0b64ae675cf013a093c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858303,
+            "region_id":85688689,
+            "venue_id":873876413
+        }
+    ],
+    "wof:id":873876413,
+    "wof:lastmodified":1464299361,
+    "wof:name":"Black Diamond Food Brokers",
+    "wof:parent_id":85858303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -70.879144,
+    43.015238,
+    -70.879144,
+    43.015238
+],
+  "geometry": {"coordinates":[-70.879144,43.015238],"type":"Point"}
+}

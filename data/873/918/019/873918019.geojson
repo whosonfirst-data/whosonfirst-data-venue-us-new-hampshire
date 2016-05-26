@@ -1,0 +1,78 @@
+{
+  "id": 873918019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.580582,43.259243,-71.580582,43.259243",
+    "geom:latitude":43.259243,
+    "geom:longitude":-71.580582,
+    "iso:country":"US",
+    "sg:address":"111 Fisherville Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/concord/194422-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 2297",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jCUWRwaSn5P5jcqTwr9cO_43.259243_-71.580582@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300177,
+    "wof:geomhash":"9e7cb6bc5ff434e64e329168add0ea4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873918019
+        }
+    ],
+    "wof:id":873918019,
+    "wof:lastmodified":1464300177,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.580582,
+    43.259243,
+    -71.580582,
+    43.259243
+],
+  "geometry": {"coordinates":[-71.58058200000001,43.259243],"type":"Point"}
+}

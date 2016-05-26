@@ -1,0 +1,73 @@
+{
+  "id": 873579705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.201248,42.742257,-71.201248,42.742257",
+    "geom:latitude":42.742257,
+    "geom:longitude":-71.201248,
+    "iso:country":"US",
+    "sg:address":"20 Hampshire Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8888",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PnspAOvJ68olZV7xoyv7W_42.742257_-71.201248@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294714,
+    "wof:geomhash":"d260f61357c358e822092d734e2d7215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873579705
+        }
+    ],
+    "wof:id":873579705,
+    "wof:lastmodified":1464294714,
+    "wof:name":"Festival Flea Market",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -71.201248,
+    42.742257,
+    -71.201248,
+    42.742257
+],
+  "geometry": {"coordinates":[-71.20124800000001,42.742257],"type":"Point"}
+}

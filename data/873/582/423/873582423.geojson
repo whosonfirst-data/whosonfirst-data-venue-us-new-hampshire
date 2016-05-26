@@ -1,0 +1,71 @@
+{
+  "id": 873582423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.166715,42.829123,-71.166715,42.829123",
+    "geom:latitude":42.829123,
+    "geom:longitude":-71.166715,
+    "iso:country":"US",
+    "sg:address":"20 Walker Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 6177",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srcIyrF12BIgYfBY85WWA_42.829123_-71.166715@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294746,
+    "wof:geomhash":"18eb2265f2d6155d7f043992ff729c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873582423
+        }
+    ],
+    "wof:id":873582423,
+    "wof:lastmodified":1464294746,
+    "wof:name":"R Desroche Plumbing & Heating",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.166715,
+    42.829123,
+    -71.166715,
+    42.829123
+],
+  "geometry": {"coordinates":[-71.166715,42.829123],"type":"Point"}
+}

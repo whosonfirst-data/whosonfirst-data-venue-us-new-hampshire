@@ -1,0 +1,69 @@
+{
+  "id": 873594579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.691561,43.757948,-71.691561,43.757948",
+    "geom:latitude":43.757948,
+    "geom:longitude":-71.691561,
+    "iso:country":"US",
+    "sg:address":"21 Highland St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3710",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZujktRZt44sDDpcvMJZ4x_43.757948_-71.691561@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294894,
+    "wof:geomhash":"6135a14c15cf130209f58a6f3f96e0a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873594579
+        }
+    ],
+    "wof:id":873594579,
+    "wof:lastmodified":1464294894,
+    "wof:name":"Brian Goulet DDS",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.691561,
+    43.757948,
+    -71.691561,
+    43.757948
+],
+  "geometry": {"coordinates":[-71.69156099999999,43.757948],"type":"Point"}
+}

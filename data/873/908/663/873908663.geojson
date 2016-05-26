@@ -1,0 +1,71 @@
+{
+  "id": 873908663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.426765,43.24832,-72.426765,43.24832",
+    "geom:latitude":43.24832,
+    "geom:longitude":-72.426765,
+    "iso:country":"US",
+    "sg:address":"72 Hammond Acres",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 4664",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VDQG91xhLrFLBxNVfUk4A_43.248320_-72.426765@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299987,
+    "wof:geomhash":"1bc119e15ad4d3b17a58ce3ad99c7e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873908663
+        }
+    ],
+    "wof:id":873908663,
+    "wof:lastmodified":1464299987,
+    "wof:name":"AGCO",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.426765,
+    43.24832,
+    -72.426765,
+    43.24832
+],
+  "geometry": {"coordinates":[-72.426765,43.24832],"type":"Point"}
+}

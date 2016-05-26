@@ -1,0 +1,71 @@
+{
+  "id": 873757435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.439456,43.040965,-72.439456,43.040965",
+    "geom:latitude":43.040965,
+    "geom:longitude":-72.439456,
+    "iso:country":"US",
+    "sg:address":"543 Old Keene Rd",
+    "sg:city":"Walpole",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 756 4348",
+    "sg:postcode":"03608",
+    "sg:province":"NH",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857041,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0as6kmCGdKm1kt2fiqWXtl_43.040965_-72.439456@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297175,
+    "wof:geomhash":"92eb4658ac7d2179d274affa9d0ab5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857041,
+            "region_id":85688689,
+            "venue_id":873757435
+        }
+    ],
+    "wof:id":873757435,
+    "wof:lastmodified":1464297175,
+    "wof:name":"Horse Haven Saddlery & Stable",
+    "wof:parent_id":85857041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -72.439456,
+    43.040965,
+    -72.439456,
+    43.040965
+],
+  "geometry": {"coordinates":[-72.43945600000001,43.040965],"type":"Point"}
+}

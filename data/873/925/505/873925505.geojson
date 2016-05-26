@@ -1,0 +1,88 @@
+{
+  "id": 873925505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250221,42.773661,-71.250221,42.773661",
+    "geom:latitude":42.773661,
+    "geom:longitude":-71.250221,
+    "iso:country":"US",
+    "sg:address":"68 Stiles Rd Ste B",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 6618",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dishwashing",
+        "specialty",
+        "system",
+        "machine",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M1w56to5JxKgspR6JzPUh_42.773661_-71.250221@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300317,
+    "wof:geomhash":"4e02de662a04489112609a4707784b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925505
+        }
+    ],
+    "wof:id":873925505,
+    "wof:lastmodified":1464300317,
+    "wof:name":"Enplas Tesko Inc",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dishwashing",
+        "specialty",
+        "system",
+        "machine",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.250221,
+    42.773661,
+    -71.250221,
+    42.773661
+],
+  "geometry": {"coordinates":[-71.250221,42.773661],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873823425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575818,44.496554,-71.575818,44.496554",
+    "geom:latitude":44.496554,
+    "geom:longitude":-71.575818,
+    "iso:country":"US",
+    "sg:address":"329 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3351",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "harvesting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WY93yCy7MvBl6htcaDXAo_44.496554_-71.575818@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298198,
+    "wof:geomhash":"a418e0ccfe0d1d15ea5e723a2d15751d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873823425
+        }
+    ],
+    "wof:id":873823425,
+    "wof:lastmodified":1464298198,
+    "wof:name":"Lancaster Veterinary Hospital",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "harvesting"
+    ]
+},
+  "bbox": [
+    -71.575818,
+    44.496554,
+    -71.575818,
+    44.496554
+],
+  "geometry": {"coordinates":[-71.575818,44.496554],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873821503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453697,43.142247,-71.453697,43.142247",
+    "geom:latitude":43.142247,
+    "geom:longitude":-71.453697,
+    "iso:country":"US",
+    "sg:address":"268 Pembroke St",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 3980",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "refrigeration",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gS0P2t1iUyDaavv9sCrV7_43.142247_-71.453697@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298147,
+    "wof:geomhash":"4a40de11d56ff365d57453c865fd636c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873821503
+        }
+    ],
+    "wof:id":873821503,
+    "wof:lastmodified":1464298147,
+    "wof:name":"American Refrigeration",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "refrigeration",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.453697,
+    43.142247,
+    -71.453697,
+    43.142247
+],
+  "geometry": {"coordinates":[-71.45369700000001,43.142247],"type":"Point"}
+}

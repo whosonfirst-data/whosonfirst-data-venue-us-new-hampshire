@@ -1,0 +1,73 @@
+{
+  "id": 873893883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.181418,44.475559,-71.181418,44.475559",
+    "geom:latitude":44.475559,
+    "geom:longitude":-71.181418,
+    "iso:country":"US",
+    "sg:address":"213 High St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4302",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5k5ric2tfy4z3QGquZkx_44.475559_-71.181418@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299703,
+    "wof:geomhash":"924d3043ca488509d551c7db901880f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873893883
+        }
+    ],
+    "wof:id":873893883,
+    "wof:lastmodified":1464299703,
+    "wof:name":"Saadat U Khan MD",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.181418,
+    44.475559,
+    -71.181418,
+    44.475559
+],
+  "geometry": {"coordinates":[-71.18141799999999,44.475559],"type":"Point"}
+}

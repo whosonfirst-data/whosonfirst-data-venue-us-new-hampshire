@@ -1,0 +1,75 @@
+{
+  "id": 873671869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449824,42.890448,-71.449824,42.890448",
+    "geom:latitude":42.890448,
+    "geom:longitude":-71.449824,
+    "iso:country":"US",
+    "sg:address":"19 Brook Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 5704",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844207,
+        102191575,
+        404477193,
+        85633793,
+        85975251,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AT2mkMcLPnjNqf8YSTk7F_42.890448_-71.449824@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295820,
+    "wof:geomhash":"853a025224ae1dcc6228c117c0bab770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477193,
+            "locality_id":85975251,
+            "neighbourhood_id":85844207,
+            "region_id":85688689,
+            "venue_id":873671869
+        }
+    ],
+    "wof:id":873671869,
+    "wof:lastmodified":1464295820,
+    "wof:name":"Safe Haven Cat Rescue Inc",
+    "wof:parent_id":85844207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -71.449824,
+    42.890448,
+    -71.449824,
+    42.890448
+],
+  "geometry": {"coordinates":[-71.44982400000001,42.890448],"type":"Point"}
+}

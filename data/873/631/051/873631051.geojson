@@ -1,0 +1,71 @@
+{
+  "id": 873631051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476752,43.520095,-71.476752,43.520095",
+    "geom:latitude":43.520095,
+    "geom:longitude":-71.476752,
+    "iso:country":"US",
+    "sg:address":"277 Court St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2962",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vRLwPqAhMe3qirlyu9BcZ_43.520095_-71.476752@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295375,
+    "wof:geomhash":"34eadf3bf52ebc708e856ec8a8b9afb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873631051
+        }
+    ],
+    "wof:id":873631051,
+    "wof:lastmodified":1464295375,
+    "wof:name":"Kelleher Appliance",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.476752,
+    43.520095,
+    -71.476752,
+    43.520095
+],
+  "geometry": {"coordinates":[-71.476752,43.520095],"type":"Point"}
+}

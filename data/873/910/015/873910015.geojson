@@ -1,0 +1,71 @@
+{
+  "id": 873910015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514921,44.603997,-71.514921,44.603997",
+    "geom:latitude":44.603997,
+    "geom:longitude":-71.514921,
+    "iso:country":"US",
+    "sg:address":"59 Hillside Ave",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 9799",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SLfhJFvWCo4AH388fosdt_44.603997_-71.514921@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300014,
+    "wof:geomhash":"ffe289b9918c2a1f3150747459aa8ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873910015
+        }
+    ],
+    "wof:id":873910015,
+    "wof:lastmodified":1464300014,
+    "wof:name":"Laundry Marshall & Samantha",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.514921,
+    44.603997,
+    -71.514921,
+    44.603997
+],
+  "geometry": {"coordinates":[-71.514921,44.603997],"type":"Point"}
+}

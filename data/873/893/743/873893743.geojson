@@ -1,0 +1,69 @@
+{
+  "id": 873893743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.821587,43.436716,-71.821587,43.436716",
+    "geom:latitude":43.436716,
+    "geom:longitude":-71.821587,
+    "iso:country":"US",
+    "sg:address":"156 Main St",
+    "sg:city":"Andover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 735 5708",
+    "sg:postcode":"03216",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842955,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PzKkVKmepDyCNl8I81c2n_43.436716_-71.821587@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299701,
+    "wof:geomhash":"d07192782622f6bed28944c8a96dfb08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85842955,
+            "region_id":85688689,
+            "venue_id":873893743
+        }
+    ],
+    "wof:id":873893743,
+    "wof:lastmodified":1464299701,
+    "wof:name":"Bob's Towing",
+    "wof:parent_id":85842955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.821587,
+    43.436716,
+    -71.821587,
+    43.436716
+],
+  "geometry": {"coordinates":[-71.82158699999999,43.436716],"type":"Point"}
+}

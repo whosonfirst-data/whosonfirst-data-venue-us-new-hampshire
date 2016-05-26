@@ -1,0 +1,71 @@
+{
+  "id": 873805787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660563,43.459974,-71.660563,43.459974",
+    "geom:latitude":43.459974,
+    "geom:longitude":-71.660563,
+    "iso:country":"US",
+    "sg:address":"93 Hill Rd",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 523 8290",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7allQCZUrnmoZDEx64gliP_43.459974_-71.660563@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297849,
+    "wof:geomhash":"162a552f764a1623a02c9657686920a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873805787
+        }
+    ],
+    "wof:id":873805787,
+    "wof:lastmodified":1464297849,
+    "wof:name":"Home Tech Building",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.660563,
+    43.459974,
+    -71.660563,
+    43.459974
+],
+  "geometry": {"coordinates":[-71.660563,43.459974],"type":"Point"}
+}

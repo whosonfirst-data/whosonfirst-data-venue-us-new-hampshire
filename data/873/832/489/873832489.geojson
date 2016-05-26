@@ -1,0 +1,69 @@
+{
+  "id": 873832489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.159648,44.479806,-71.159648,44.479806",
+    "geom:latitude":44.479806,
+    "geom:longitude":-71.159648,
+    "iso:country":"US",
+    "sg:address":"102 Mercier St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1193",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mWXuZHCBt5UPAuZ8YB8jk_44.479806_-71.159648@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298388,
+    "wof:geomhash":"3e345e44d8d54067cba66084301c0472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873832489
+        }
+    ],
+    "wof:id":873832489,
+    "wof:lastmodified":1464298388,
+    "wof:name":"J C Painting",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.159648,
+    44.479806,
+    -71.159648,
+    44.479806
+],
+  "geometry": {"coordinates":[-71.159648,44.479806],"type":"Point"}
+}

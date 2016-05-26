@@ -1,0 +1,73 @@
+{
+  "id": 873733233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502851,43.184931,-71.502851,43.184931",
+    "geom:latitude":43.184931,
+    "geom:longitude":-71.502851,
+    "iso:country":"US",
+    "sg:address":"11 Integra Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 3303",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "moving",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69rp5IsfRAGXmTH5bfwPHl_43.184931_-71.502851@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296818,
+    "wof:geomhash":"6b9b93469808360eda5d8c65e4cb0c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873733233
+        }
+    ],
+    "wof:id":873733233,
+    "wof:lastmodified":1464296818,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.502851,
+    43.184931,
+    -71.502851,
+    43.184931
+],
+  "geometry": {"coordinates":[-71.50285100000001,43.184931],"type":"Point"}
+}

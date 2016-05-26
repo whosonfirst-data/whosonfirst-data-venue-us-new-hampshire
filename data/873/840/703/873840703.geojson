@@ -1,0 +1,69 @@
+{
+  "id": 873840703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.056271,42.825302,-72.056271,42.825302",
+    "geom:latitude":42.825302,
+    "geom:longitude":-72.056271,
+    "iso:country":"US",
+    "sg:address":"773 Gilmore Pond Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 4905",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NxHSDUadsEQigtHGGX38j_42.825302_-72.056271@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298568,
+    "wof:geomhash":"05ce9aed3255b00646b9b07d6d6b47dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873840703
+        }
+    ],
+    "wof:id":873840703,
+    "wof:lastmodified":1464298568,
+    "wof:name":"Monadnock Management Inc",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -72.056271,
+    42.825302,
+    -72.056271,
+    42.825302
+],
+  "geometry": {"coordinates":[-72.056271,42.825302],"type":"Point"}
+}

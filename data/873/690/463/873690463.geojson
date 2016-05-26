@@ -1,0 +1,71 @@
+{
+  "id": 873690463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.67709,44.014487,-71.67709,44.014487",
+    "geom:latitude":44.014487,
+    "geom:longitude":-71.67709,
+    "iso:country":"US",
+    "sg:address":"121 Eastside Rd",
+    "sg:city":"North Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 4868",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h5vsPDP07PcGQazxYpmpL_44.014487_-71.677090@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296286,
+    "wof:geomhash":"7715f6fde305627dfd7fdfd31851ea94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873690463
+        }
+    ],
+    "wof:id":873690463,
+    "wof:lastmodified":1464296286,
+    "wof:name":"Sabourn Electric Inc",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.67709,
+    44.014487,
+    -71.67709,
+    44.014487
+],
+  "geometry": {"coordinates":[-71.67709000000001,44.014487],"type":"Point"}
+}

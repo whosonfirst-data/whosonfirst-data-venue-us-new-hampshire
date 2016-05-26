@@ -1,0 +1,69 @@
+{
+  "id": 873709537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.789757,43.62847,-71.789757,43.62847",
+    "geom:latitude":43.62847,
+    "geom:longitude":-71.789757,
+    "iso:country":"US",
+    "sg:address":"108 Fairview Ln",
+    "sg:city":"Alexandria",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 9198",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hzO8SBRFCgDZw8kphHscm_43.628470_-71.789757@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296515,
+    "wof:geomhash":"961aa40676a8d7605611a2d72fac4fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873709537
+        }
+    ],
+    "wof:id":873709537,
+    "wof:lastmodified":1464296515,
+    "wof:name":"Frontier Taxidermy",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -71.789757,
+    43.62847,
+    -71.789757,
+    43.62847
+],
+  "geometry": {"coordinates":[-71.78975699999999,43.62847],"type":"Point"}
+}

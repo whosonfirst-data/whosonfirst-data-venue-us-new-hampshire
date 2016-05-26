@@ -1,0 +1,71 @@
+{
+  "id": 873757801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509457,43.639956,-71.509457,43.639956",
+    "geom:latitude":43.639956,
+    "geom:longitude":-71.509457,
+    "iso:country":"US",
+    "sg:address":"16 Enterprise Ct",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 7884",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15pputbhJSW7AJJfO7IOV6_43.639956_-71.509457@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297179,
+    "wof:geomhash":"b0f2cbdc39667339d94ef11e17620e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873757801
+        }
+    ],
+    "wof:id":873757801,
+    "wof:lastmodified":1464297179,
+    "wof:name":"Meredith Self Storage",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.509457,
+    43.639956,
+    -71.509457,
+    43.639956
+],
+  "geometry": {"coordinates":[-71.509457,43.639956],"type":"Point"}
+}

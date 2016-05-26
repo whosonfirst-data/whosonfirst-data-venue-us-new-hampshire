@@ -1,0 +1,71 @@
+{
+  "id": 873901945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.343828,43.568985,-71.343828,43.568985",
+    "geom:latitude":43.568985,
+    "geom:longitude":-71.343828,
+    "iso:country":"US",
+    "sg:address":"2696 Lake Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 8823",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803025,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qhclSmMjDxviLwZxsx1LY_43.568985_-71.343828@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299855,
+    "wof:geomhash":"b9ba3908a65973f113fc527d4c36738c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85803025,
+            "region_id":85688689,
+            "venue_id":873901945
+        }
+    ],
+    "wof:id":873901945,
+    "wof:lastmodified":1464299855,
+    "wof:name":"Samoset At Winnipesaukee Assn",
+    "wof:parent_id":85803025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.343828,
+    43.568985,
+    -71.343828,
+    43.568985
+],
+  "geometry": {"coordinates":[-71.343828,43.568985],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873876939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491315,43.320004,-71.491315,43.320004",
+    "geom:latitude":43.320004,
+    "geom:longitude":-71.491315,
+    "iso:country":"US",
+    "sg:address":"539 Old Shaker Rd",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 0225",
+    "sg:postcode":"03307",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841021,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46V18edgXdymPzfCmbEQDO_43.320004_-71.491315@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299375,
+    "wof:geomhash":"93a51dc35632179225b9819c3c2b343b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85841021,
+            "region_id":85688689,
+            "venue_id":873876939
+        }
+    ],
+    "wof:id":873876939,
+    "wof:lastmodified":1464299375,
+    "wof:name":"Peterson's Auto Body",
+    "wof:parent_id":85841021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.491315,
+    43.320004,
+    -71.491315,
+    43.320004
+],
+  "geometry": {"coordinates":[-71.491315,43.320004],"type":"Point"}
+}

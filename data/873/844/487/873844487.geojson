@@ -1,0 +1,79 @@
+{
+  "id": 873844487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.253632,43.645221,-72.253632,43.645221",
+    "geom:latitude":43.645221,
+    "geom:longitude":-72.253632,
+    "iso:country":"US",
+    "sg:address":"87 Hanover St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 6400",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LyPv2qtOsK7QZcP3iX5XH_43.645221_-72.253632@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298672,
+    "wof:geomhash":"2df6851559c134bbb0d76f2e791753ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873844487
+        }
+    ],
+    "wof:id":873844487,
+    "wof:lastmodified":1464298672,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -72.253632,
+    43.645221,
+    -72.253632,
+    43.645221
+],
+  "geometry": {"coordinates":[-72.253632,43.645221],"type":"Point"}
+}

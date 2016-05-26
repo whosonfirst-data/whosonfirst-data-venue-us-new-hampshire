@@ -1,0 +1,69 @@
+{
+  "id": 873558805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.877023,42.895317,-70.877023,42.895317",
+    "geom:latitude":42.895317,
+    "geom:longitude":-70.877023,
+    "iso:country":"US",
+    "sg:address":"171 New Zealand Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 7500",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69OcJhBoOK275TdeFtyLg3_42.895317_-70.877023@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294485,
+    "wof:geomhash":"a9cabe85af4960daebe6216e542e1ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873558805
+        }
+    ],
+    "wof:id":873558805,
+    "wof:lastmodified":1464294485,
+    "wof:name":"Pat's Towing Co",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -70.877023,
+    42.895317,
+    -70.877023,
+    42.895317
+],
+  "geometry": {"coordinates":[-70.87702299999999,42.895317],"type":"Point"}
+}

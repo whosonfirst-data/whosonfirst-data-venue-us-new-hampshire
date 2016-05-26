@@ -1,0 +1,72 @@
+{
+  "id": 873917555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455176,43.045846,-71.455176,43.045846",
+    "geom:latitude":43.045846,
+    "geom:longitude":-71.455176,
+    "iso:country":"US",
+    "sg:address":"204 Quality Dr",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hooksett/129598-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 666 0863",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dKld0KP0cTfT8eD6pK7ow_43.045846_-71.455176@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300168,
+    "wof:geomhash":"221488ba0035f781901c9d696e012e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873917555
+        }
+    ],
+    "wof:id":873917555,
+    "wof:lastmodified":1464300168,
+    "wof:name":"Subway",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.455176,
+    43.045846,
+    -71.455176,
+    43.045846
+],
+  "geometry": {"coordinates":[-71.45517599999999,43.045846],"type":"Point"}
+}

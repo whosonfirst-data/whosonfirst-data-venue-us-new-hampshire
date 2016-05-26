@@ -1,0 +1,70 @@
+{
+  "id": 873919821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.663971,42.73893,-71.663971,42.73893",
+    "geom:latitude":42.73893,
+    "geom:longitude":-71.663971,
+    "iso:country":"US",
+    "sg:address":"22 Milford St",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 4640",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.hbhs.k12.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MZxOEzqu48dYiTkOjvyFI_42.738930_-71.663971@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300208,
+    "wof:geomhash":"38ad77adbd16e7000ac4e3f7dbcbfc36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873919821
+        }
+    ],
+    "wof:id":873919821,
+    "wof:lastmodified":1464300208,
+    "wof:name":"Brookline Elementary School",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.663971,
+    42.73893,
+    -71.663971,
+    42.73893
+],
+  "geometry": {"coordinates":[-71.663971,42.73893],"type":"Point"}
+}

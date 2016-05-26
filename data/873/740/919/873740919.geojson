@@ -1,0 +1,71 @@
+{
+  "id": 873740919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.07256,43.044934,-71.07256,43.044934",
+    "geom:latitude":43.044934,
+    "geom:longitude":-71.07256,
+    "iso:country":"US",
+    "sg:address":"277 Main St",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1896",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "society",
+        "humane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yKVYYKIeaP0tjSplAxwSf_43.044934_-71.072560@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296935,
+    "wof:geomhash":"53fd9d13baa0a1c118d586800262f6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873740919
+        }
+    ],
+    "wof:id":873740919,
+    "wof:lastmodified":1464296935,
+    "wof:name":"EPONA",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "society",
+        "humane"
+    ]
+},
+  "bbox": [
+    -71.07256,
+    43.044934,
+    -71.07256,
+    43.044934
+],
+  "geometry": {"coordinates":[-71.07256,43.044934],"type":"Point"}
+}

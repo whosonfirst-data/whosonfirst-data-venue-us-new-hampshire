@@ -1,0 +1,71 @@
+{
+  "id": 873872555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.142259,43.490138,-72.142259,43.490138",
+    "geom:latitude":43.490138,
+    "geom:longitude":-72.142259,
+    "iso:country":"US",
+    "sg:address":"196 Sugar Wood Ln",
+    "sg:city":"Grantham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 1399",
+    "sg:postcode":"03753",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868789,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xkY4vyPRVRrQMrVnXhJrT_43.490138_-72.142259@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299288,
+    "wof:geomhash":"ea99d2a52b893ec67ead00dfb6797b0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85868789,
+            "region_id":85688689,
+            "venue_id":873872555
+        }
+    ],
+    "wof:id":873872555,
+    "wof:lastmodified":1464299288,
+    "wof:name":"Combustion Services Corp",
+    "wof:parent_id":85868789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -72.142259,
+    43.490138,
+    -72.142259,
+    43.490138
+],
+  "geometry": {"coordinates":[-72.142259,43.490138],"type":"Point"}
+}

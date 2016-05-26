@@ -1,0 +1,79 @@
+{
+  "id": 873857741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.123236,43.182121,-71.123236,43.182121",
+    "geom:latitude":43.182121,
+    "geom:longitude":-71.123236,
+    "iso:country":"US",
+    "sg:address":"226 Old Turnpike Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5384",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837873,
+        102086507,
+        85838565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19DPIkrik32ncob3eHRCf9_43.182121_-71.123236@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298967,
+    "wof:geomhash":"a68b743f52160d2acf5e7990faeca2cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837873,
+            "region_id":85688689,
+            "venue_id":873857741
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873857741
+        }
+    ],
+    "wof:id":873857741,
+    "wof:lastmodified":1464298967,
+    "wof:name":"Environmental Clean Up",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.123236,
+    43.182121,
+    -71.123236,
+    43.182121
+],
+  "geometry": {"coordinates":[-71.12323600000001,43.182121],"type":"Point"}
+}

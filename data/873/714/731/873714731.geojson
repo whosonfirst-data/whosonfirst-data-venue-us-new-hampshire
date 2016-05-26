@@ -1,0 +1,70 @@
+{
+  "id": 873714731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.780933,44.308469,-71.780933,44.308469",
+    "geom:latitude":44.308469,
+    "geom:longitude":-71.780933,
+    "iso:country":"US",
+    "sg:address":"230 Main St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2137",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.littletonfirerescue.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CL4SI0BiqJx49hEvkfBEi_44.308469_-71.780933@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296578,
+    "wof:geomhash":"48317f1bbce62735b199c628b70b5d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873714731
+        }
+    ],
+    "wof:id":873714731,
+    "wof:lastmodified":1464296578,
+    "wof:name":"Littleton Fire Dept",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.780933,
+    44.308469,
+    -71.780933,
+    44.308469
+],
+  "geometry": {"coordinates":[-71.780933,44.308469],"type":"Point"}
+}

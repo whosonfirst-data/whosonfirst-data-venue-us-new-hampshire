@@ -1,0 +1,71 @@
+{
+  "id": 873892483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.043055,43.221343,-71.043055,43.221343",
+    "geom:latitude":43.221343,
+    "geom:longitude":-71.043055,
+    "iso:country":"US",
+    "sg:address":"382 State Rte 9",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2358",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dVARKgapf3WjxdJk5NoAc_43.221343_-71.043055@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299675,
+    "wof:geomhash":"b9bf3ec510159134e184eaa6ccf4ba4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873892483
+        }
+    ],
+    "wof:id":873892483,
+    "wof:lastmodified":1464299675,
+    "wof:name":"Barrington Hills Apartments",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.043055,
+    43.221343,
+    -71.043055,
+    43.221343
+],
+  "geometry": {"coordinates":[-71.043055,43.221343],"type":"Point"}
+}

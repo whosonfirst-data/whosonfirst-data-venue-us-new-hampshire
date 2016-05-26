@@ -1,0 +1,95 @@
+{
+  "id": 873921511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42968,42.754443,-71.42968,42.754443",
+    "geom:latitude":42.754443,
+    "geom:longitude":-71.42968,
+    "iso:country":"US",
+    "sg:address":"74 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 821 0573",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://national.citysearch.com/profile/external/603817260/hudson_nh/dunkin_donuts.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H05MJlljb7El3BAQfFj1c_42.754443_-71.429680@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300236,
+    "wof:geomhash":"0cb9d59a4830abe33135fa9a5f540e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873921511
+        }
+    ],
+    "wof:id":873921511,
+    "wof:lastmodified":1464300236,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.42968,
+    42.754443,
+    -71.42968,
+    42.754443
+],
+  "geometry": {"coordinates":[-71.42968,42.754443],"type":"Point"}
+}

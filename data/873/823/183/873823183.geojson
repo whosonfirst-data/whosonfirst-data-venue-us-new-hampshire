@@ -1,0 +1,71 @@
+{
+  "id": 873823183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529921,43.614062,-71.529921,43.614062",
+    "geom:latitude":43.614062,
+    "geom:longitude":-71.529921,
+    "iso:country":"US",
+    "sg:address":"165 Meredith Center Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 4690",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XCEbTAUfG7XGsqt66gmh3_43.614062_-71.529921@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298194,
+    "wof:geomhash":"192e2c0705d064fef6c5fce0eff27da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873823183
+        }
+    ],
+    "wof:id":873823183,
+    "wof:lastmodified":1464298194,
+    "wof:name":"Dave's Maintenance",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.529921,
+    43.614062,
+    -71.529921,
+    43.614062
+],
+  "geometry": {"coordinates":[-71.529921,43.614062],"type":"Point"}
+}

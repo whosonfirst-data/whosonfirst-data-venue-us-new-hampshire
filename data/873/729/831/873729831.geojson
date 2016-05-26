@@ -1,0 +1,69 @@
+{
+  "id": 873729831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.151343,42.764855,-72.151343,42.764855",
+    "geom:latitude":42.764855,
+    "geom:longitude":-72.151343,
+    "iso:country":"US",
+    "sg:address":"4 E Lake Rd",
+    "sg:city":"Fitzwilliam",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 585 3385",
+    "sg:postcode":"03447",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819413,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efCa5xjZSDoumSVW30VNa_42.764855_-72.151343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296777,
+    "wof:geomhash":"3473e9d0debe1b4e6571529313e1fb3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85819413,
+            "region_id":85688689,
+            "venue_id":873729831
+        }
+    ],
+    "wof:id":873729831,
+    "wof:lastmodified":1464296777,
+    "wof:name":"Depot General Store",
+    "wof:parent_id":85819413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.151343,
+    42.764855,
+    -72.151343,
+    42.764855
+],
+  "geometry": {"coordinates":[-72.151343,42.764855],"type":"Point"}
+}

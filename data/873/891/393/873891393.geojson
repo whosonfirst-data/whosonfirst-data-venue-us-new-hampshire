@@ -1,0 +1,69 @@
+{
+  "id": 873891393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484527,42.978078,-71.484527,42.978078",
+    "geom:latitude":42.978078,
+    "geom:longitude":-71.484527,
+    "iso:country":"US",
+    "sg:address":"68 Carroll St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 5595",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOPNwFDkjqGBisttU1GWD_42.978078_-71.484527@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299655,
+    "wof:geomhash":"f904b2e80a2c435af6e2de0d696fe17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873891393
+        }
+    ],
+    "wof:id":873891393,
+    "wof:lastmodified":1464299655,
+    "wof:name":"Carroll Street Auto",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -71.484527,
+    42.978078,
+    -71.484527,
+    42.978078
+],
+  "geometry": {"coordinates":[-71.484527,42.978078],"type":"Point"}
+}

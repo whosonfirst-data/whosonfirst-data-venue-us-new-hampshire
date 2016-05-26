@@ -1,0 +1,84 @@
+{
+  "id": 873918739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.102816,42.81555,-71.102816,42.81555",
+    "geom:latitude":42.81555,
+    "geom:longitude":-71.102816,
+    "iso:country":"US",
+    "sg:address":"5 Plaistow Rd",
+    "sg:city":"Plaistow",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/plaistow/222449-donut-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 3311",
+    "sg:postcode":"03865",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950417,
+        102084463,
+        85846033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mDnHbU8qFLp8sga52AcC1_42.815550_-71.102816@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300190,
+    "wof:geomhash":"192eba3992f8a5230de44f8aa0f62f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950417,
+            "neighbourhood_id":85846033,
+            "region_id":85688645,
+            "venue_id":873918739
+        }
+    ],
+    "wof:id":873918739,
+    "wof:lastmodified":1464300190,
+    "wof:name":"Donut Connection",
+    "wof:parent_id":85846033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.102816,
+    42.81555,
+    -71.102816,
+    42.81555
+],
+  "geometry": {"coordinates":[-71.102816,42.81555],"type":"Point"}
+}

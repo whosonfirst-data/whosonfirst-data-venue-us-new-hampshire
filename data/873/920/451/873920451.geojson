@@ -1,0 +1,86 @@
+{
+  "id": 873920451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302002,42.878471,-71.302002,42.878471",
+    "geom:latitude":42.878471,
+    "geom:longitude":-71.302002,
+    "iso:country":"US",
+    "sg:address":"123 Rockingham Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 7223",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil",
+        "tire",
+        "automobile",
+        "diagnostic",
+        "lube",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ky18tPVxCOqf04cITkqSC_42.878471_-71.302002@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300219,
+    "wof:geomhash":"8eece3f598225593f93c5c305a8a1a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873920451
+        }
+    ],
+    "wof:id":873920451,
+    "wof:lastmodified":1464300219,
+    "wof:name":"Cal's Corner Automotive",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "tire",
+        "automobile",
+        "diagnostic",
+        "lube",
+        "brake"
+    ]
+},
+  "bbox": [
+    -71.302002,
+    42.878471,
+    -71.302002,
+    42.878471
+],
+  "geometry": {"coordinates":[-71.302002,42.878471],"type":"Point"}
+}

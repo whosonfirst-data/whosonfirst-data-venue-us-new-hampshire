@@ -1,0 +1,105 @@
+{
+  "id": 873926805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444397,42.96397,-71.444397,42.96397",
+    "geom:latitude":42.96397,
+    "geom:longitude":-71.444397,
+    "iso:country":"US",
+    "sg:address":"777 S Willow St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 626 6110",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "register",
+        "autographic",
+        "duplicating",
+        "copying",
+        "plotting",
+        "furniture"
+    ],
+    "sg:website":"http://www.officemax.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AqBOie60PAlyNbjOvEV48_42.963970_-71.444397@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300342,
+    "wof:geomhash":"c58e318db8c50bca0c8cb60184794ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873926805
+        }
+    ],
+    "wof:id":873926805,
+    "wof:lastmodified":1464300342,
+    "wof:name":"OfficeMax",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "register",
+        "autographic",
+        "duplicating",
+        "copying",
+        "plotting",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.444397,
+    42.96397,
+    -71.444397,
+    42.96397
+],
+  "geometry": {"coordinates":[-71.444397,42.96397],"type":"Point"}
+}

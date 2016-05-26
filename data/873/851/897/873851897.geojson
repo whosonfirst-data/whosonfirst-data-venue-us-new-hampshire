@@ -1,0 +1,71 @@
+{
+  "id": 873851897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.898505,43.042428,-70.898505,43.042428",
+    "geom:latitude":43.042428,
+    "geom:longitude":-70.898505,
+    "iso:country":"US",
+    "sg:address":"14 Depot Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 773 5551",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hDkYnuvyctxUIBaZ1l1P0_43.042428_-70.898505@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298849,
+    "wof:geomhash":"9481e362dc9618606a71f6a05a02284e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873851897
+        }
+    ],
+    "wof:id":873851897,
+    "wof:lastmodified":1464298849,
+    "wof:name":"H & H Hydroseeding",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.898505,
+    43.042428,
+    -70.898505,
+    43.042428
+],
+  "geometry": {"coordinates":[-70.898505,43.042428],"type":"Point"}
+}

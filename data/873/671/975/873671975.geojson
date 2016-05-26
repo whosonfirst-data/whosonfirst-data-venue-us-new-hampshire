@@ -1,0 +1,73 @@
+{
+  "id": 873671975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497021,42.938308,-71.497021,42.938308",
+    "geom:latitude":42.938308,
+    "geom:longitude":-71.497021,
+    "iso:country":"US",
+    "sg:address":"103 County Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 4506",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oU7KUDmlrtd7rxVXIu2v_42.938308_-71.497021@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295821,
+    "wof:geomhash":"ec99e846324bc6c024650dbe022032d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873671975
+        }
+    ],
+    "wof:id":873671975,
+    "wof:lastmodified":1464295821,
+    "wof:name":"Transportation Office",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -71.497021,
+    42.938308,
+    -71.497021,
+    42.938308
+],
+  "geometry": {"coordinates":[-71.497021,42.938308],"type":"Point"}
+}

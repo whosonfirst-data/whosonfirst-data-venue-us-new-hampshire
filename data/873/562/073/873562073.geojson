@@ -1,0 +1,81 @@
+{
+  "id": 873562073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430923,42.756532,-71.430923,42.756532",
+    "geom:latitude":42.756532,
+    "geom:longitude":-71.430923,
+    "iso:country":"US",
+    "sg:address":"56 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 9191",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_249dTSWXfrE2s9bKyvNKRe_42.756532_-71.430923@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294521,
+    "wof:geomhash":"556ef8bb8964b64b5042b8582370a709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873562073
+        }
+    ],
+    "wof:id":873562073,
+    "wof:lastmodified":1464294521,
+    "wof:name":"Willard's Auto Radiator Shop",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "radiator",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.430923,
+    42.756532,
+    -71.430923,
+    42.756532
+],
+  "geometry": {"coordinates":[-71.43092300000001,42.756532],"type":"Point"}
+}

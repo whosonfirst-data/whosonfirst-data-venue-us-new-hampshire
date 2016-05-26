@@ -1,0 +1,71 @@
+{
+  "id": 873684529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.613901,44.373542,-71.613901,44.373542",
+    "geom:latitude":44.373542,
+    "geom:longitude":-71.613901,
+    "iso:country":"US",
+    "sg:address":"7 Main St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 9342",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "dentistry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j6aUYWm8kIVmZl7xOeC2e_44.373542_-71.613901@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296125,
+    "wof:geomhash":"479a49f806111113bd82aa374fc3ea38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873684529
+        }
+    ],
+    "wof:id":873684529,
+    "wof:lastmodified":1464296125,
+    "wof:name":"Roy D Brewster DDS PA",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "dentistry"
+    ]
+},
+  "bbox": [
+    -71.613901,
+    44.373542,
+    -71.613901,
+    44.373542
+],
+  "geometry": {"coordinates":[-71.613901,44.373542],"type":"Point"}
+}

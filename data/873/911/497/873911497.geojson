@@ -1,0 +1,71 @@
+{
+  "id": 873911497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.693308,43.754179,-71.693308,43.754179",
+    "geom:latitude":43.754179,
+    "geom:longitude":-71.693308,
+    "iso:country":"US",
+    "sg:address":"11 Langdon St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4027",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Ct9QYGsmTEHMPTpYhEvR_43.754179_-71.693308@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300040,
+    "wof:geomhash":"1ae371d4def450ac2ac7ae0052e2dd6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873911497
+        }
+    ],
+    "wof:id":873911497,
+    "wof:lastmodified":1464300040,
+    "wof:name":"Fox Park Apartments",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.693308,
+    43.754179,
+    -71.693308,
+    43.754179
+],
+  "geometry": {"coordinates":[-71.693308,43.754179],"type":"Point"}
+}

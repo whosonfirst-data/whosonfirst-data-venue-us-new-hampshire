@@ -1,0 +1,71 @@
+{
+  "id": 873665099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.255231,43.411557,-71.255231,43.411557",
+    "geom:latitude":43.411557,
+    "geom:longitude":-71.255231,
+    "iso:country":"US",
+    "sg:address":"230 Stockbridge Corner Rd",
+    "sg:city":"Alton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 776 6172",
+    "sg:postcode":"03809",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868799,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HnRe3QG8DAQ3Qbjno8yin_43.411557_-71.255231@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295751,
+    "wof:geomhash":"1646dcf7e50990665bfa0f480d461322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85868799,
+            "region_id":85688689,
+            "venue_id":873665099
+        }
+    ],
+    "wof:id":873665099,
+    "wof:lastmodified":1464295751,
+    "wof:name":"Sf Electric",
+    "wof:parent_id":85868799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.255231,
+    43.411557,
+    -71.255231,
+    43.411557
+],
+  "geometry": {"coordinates":[-71.25523099999999,43.411557],"type":"Point"}
+}

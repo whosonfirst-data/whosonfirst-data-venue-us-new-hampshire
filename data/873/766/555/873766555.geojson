@@ -1,0 +1,71 @@
+{
+  "id": 873766555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400575,42.885558,-71.400575,42.885558",
+    "geom:latitude":42.885558,
+    "geom:longitude":-71.400575,
+    "iso:country":"US",
+    "sg:address":"4 Manasquan Cir",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 8632",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3udIYk1j0EICn6WIxPt9Kd_42.885558_-71.400575@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297319,
+    "wof:geomhash":"43e818f3914605d2c27a3a64f87f2a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873766555
+        }
+    ],
+    "wof:id":873766555,
+    "wof:lastmodified":1464297319,
+    "wof:name":"Cox Contracting",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.400575,
+    42.885558,
+    -71.400575,
+    42.885558
+],
+  "geometry": {"coordinates":[-71.400575,42.885558],"type":"Point"}
+}

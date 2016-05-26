@@ -1,0 +1,71 @@
+{
+  "id": 873586889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.065448,42.911563,-71.065448,42.911563",
+    "geom:latitude":42.911563,
+    "geom:longitude":-71.065448,
+    "iso:country":"US",
+    "sg:address":"13 Main St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 5336",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855763,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TEG2PmpuzNOzZQA3HXtin_42.911563_-71.065448@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294795,
+    "wof:geomhash":"26c4d158caf8ba6f5e51472c81b683d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855763,
+            "region_id":85688689,
+            "venue_id":873586889
+        }
+    ],
+    "wof:id":873586889,
+    "wof:lastmodified":1464294795,
+    "wof:name":"Thompson Electric",
+    "wof:parent_id":85855763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.065448,
+    42.911563,
+    -71.065448,
+    42.911563
+],
+  "geometry": {"coordinates":[-71.065448,42.911563],"type":"Point"}
+}

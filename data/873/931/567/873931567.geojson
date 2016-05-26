@@ -1,0 +1,88 @@
+{
+  "id": 873931567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.969658,42.991032,-70.969658,42.991032",
+    "geom:latitude":42.991032,
+    "geom:longitude":-70.969658,
+    "iso:country":"US",
+    "sg:address":"135 Epping Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 6433",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dnoPIoYmtj3zwSliBqjQd_42.991032_-70.969658@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300439,
+    "wof:geomhash":"ffd611af97d05a438c35c203c0046997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873931567
+        }
+    ],
+    "wof:id":873931567,
+    "wof:lastmodified":1464300439,
+    "wof:name":"Derek's Auto Repair & Sales",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -70.969658,
+    42.991032,
+    -70.969658,
+    42.991032
+],
+  "geometry": {"coordinates":[-70.969658,42.991032],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873923241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474019,42.760575,-71.474019,42.760575",
+    "geom:latitude":42.760575,
+    "geom:longitude":-71.474019,
+    "iso:country":"US",
+    "sg:address":"15 Pine Street Ext",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 578 9820",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manufacturer",
+        "jewelers-wholesale",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YvS7ZT4w0gJBVpxrPj77A_42.760575_-71.474019@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300275,
+    "wof:geomhash":"19d333c04d206f9964436e01d586df0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923241
+        }
+    ],
+    "wof:id":873923241,
+    "wof:lastmodified":1464300275,
+    "wof:name":"The Terryberry Co",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "jewelers-wholesale",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.474019,
+    42.760575,
+    -71.474019,
+    42.760575
+],
+  "geometry": {"coordinates":[-71.474019,42.760575],"type":"Point"}
+}

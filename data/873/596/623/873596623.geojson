@@ -1,0 +1,71 @@
+{
+  "id": 873596623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438278,42.844115,-71.438278,42.844115",
+    "geom:latitude":42.844115,
+    "geom:longitude":-71.438278,
+    "iso:country":"US",
+    "sg:address":"6 Locke Mill Dr",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 8133",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "refrigeration",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K7G6Ea8lkPgCaPJwOalIY_42.844115_-71.438278@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294939,
+    "wof:geomhash":"83b36347aa8256f411527d08b536d5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892255,
+            "region_id":85688689,
+            "venue_id":873596623
+        }
+    ],
+    "wof:id":873596623,
+    "wof:lastmodified":1464294939,
+    "wof:name":"Old Time Air",
+    "wof:parent_id":85892255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.438278,
+    42.844115,
+    -71.438278,
+    42.844115
+],
+  "geometry": {"coordinates":[-71.438278,42.844115],"type":"Point"}
+}

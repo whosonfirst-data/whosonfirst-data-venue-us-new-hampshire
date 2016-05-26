@@ -1,0 +1,69 @@
+{
+  "id": 873900185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649479,43.443721,-71.649479,43.443721",
+    "geom:latitude":43.443721,
+    "geom:longitude":-71.649479,
+    "iso:country":"US",
+    "sg:address":"26 Peabody Pl",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5359",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dh2Q05TNPHaiT2s6qNwvz_43.443721_-71.649479@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299820,
+    "wof:geomhash":"8035d9b81e94da4526762d79a9797435",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873900185
+        }
+    ],
+    "wof:id":873900185,
+    "wof:lastmodified":1464299820,
+    "wof:name":"VFW Kitchen",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.649479,
+    43.443721,
+    -71.649479,
+    43.443721
+],
+  "geometry": {"coordinates":[-71.649479,43.443721],"type":"Point"}
+}

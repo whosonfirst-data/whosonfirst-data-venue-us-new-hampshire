@@ -1,0 +1,78 @@
+{
+  "id": 873740945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540549,43.214037,-71.540549,43.214037",
+    "geom:latitude":43.214037,
+    "geom:longitude":-71.540549,
+    "iso:country":"US",
+    "sg:address":"207 N Main St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8910",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.nhpr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RbCAaoeMLV835x0e8kqBP_43.214037_-71.540549@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296936,
+    "wof:geomhash":"1a9f77af38442e82d726fa57277a69af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873740945
+        }
+    ],
+    "wof:id":873740945,
+    "wof:lastmodified":1464296936,
+    "wof:name":"New Hampshire Public Radio Inc",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -71.540549,
+    43.214037,
+    -71.540549,
+    43.214037
+],
+  "geometry": {"coordinates":[-71.540549,43.214037],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873929145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.02379,42.814318,-72.02379,42.814318",
+    "geom:latitude":42.814318,
+    "geom:longitude":-72.02379,
+    "iso:country":"US",
+    "sg:address":"12 River St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6642",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.coopertire.com/html/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NeRq1gYVy4Mkodqx5tYY5_42.814318_-72.023790@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300392,
+    "wof:geomhash":"df1c54ffa4f12f3bc4f242ab569cbfaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929145
+        }
+    ],
+    "wof:id":873929145,
+    "wof:lastmodified":1464300392,
+    "wof:name":"Red's Of Jaffery",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.02379,
+    42.814318,
+    -72.02379,
+    42.814318
+],
+  "geometry": {"coordinates":[-72.02379000000001,42.814318],"type":"Point"}
+}

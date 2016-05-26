@@ -1,0 +1,79 @@
+{
+  "id": 873884107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45939,42.754508,-71.45939,42.754508",
+    "geom:latitude":42.754508,
+    "geom:longitude":-71.45939,
+    "iso:country":"US",
+    "sg:address":"7 Otterson Ct",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 598 2700",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LwMkBKBWfnXpOrNRcndkX_42.754508_-71.459390@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299519,
+    "wof:geomhash":"a2c1f8d406b98c69d75d5286b5e9225f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873884107
+        }
+    ],
+    "wof:id":873884107,
+    "wof:lastmodified":1464299519,
+    "wof:name":"Statewide Collision Ctr",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.45939,
+    42.754508,
+    -71.45939,
+    42.754508
+],
+  "geometry": {"coordinates":[-71.45939,42.754508],"type":"Point"}
+}

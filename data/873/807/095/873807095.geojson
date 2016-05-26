@@ -1,0 +1,71 @@
+{
+  "id": 873807095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054065,44.285346,-72.054065,44.285346",
+    "geom:latitude":44.285346,
+    "geom:longitude":-72.054065,
+    "iso:country":"US",
+    "sg:address":"41 Barnet Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2679",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26SYvi5nli30XN9LAGH3w9_44.285346_-72.054065@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297873,
+    "wof:geomhash":"cc8aaa865d7ba3a96ee576315a431b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873807095
+        }
+    ],
+    "wof:id":873807095,
+    "wof:lastmodified":1464297873,
+    "wof:name":"Dairy Veterinary Services PA",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -72.054065,
+    44.285346,
+    -72.054065,
+    44.285346
+],
+  "geometry": {"coordinates":[-72.05406499999999,44.285346],"type":"Point"}
+}

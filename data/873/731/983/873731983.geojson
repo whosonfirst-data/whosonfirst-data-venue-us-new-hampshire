@@ -1,0 +1,71 @@
+{
+  "id": 873731983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.80765,43.199318,-71.80765,43.199318",
+    "geom:latitude":43.199318,
+    "geom:longitude":-71.80765,
+    "iso:country":"US",
+    "sg:address":"10 Evergreen Cir",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7997",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LGA0fyxSG4BRBhwZ1AP65_43.199318_-71.807650@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296804,
+    "wof:geomhash":"ae53b7cbee92d8760984a8d6e0c845b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873731983
+        }
+    ],
+    "wof:id":873731983,
+    "wof:lastmodified":1464296804,
+    "wof:name":"Matthew Greenhalgh Svc",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.80765,
+    43.199318,
+    -71.80765,
+    43.199318
+],
+  "geometry": {"coordinates":[-71.80765,43.199318],"type":"Point"}
+}

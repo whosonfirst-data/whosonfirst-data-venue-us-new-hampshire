@@ -1,0 +1,71 @@
+{
+  "id": 873660563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384744,42.788356,-71.384744,42.788356",
+    "geom:latitude":42.788356,
+    "geom:longitude":-71.384744,
+    "iso:country":"US",
+    "sg:address":"14 Dugout Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 578 0708",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oym0Ihu4smvP53iVDzEed_42.788356_-71.384744@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295704,
+    "wof:geomhash":"dfbda0985e635207bd11742b8c6f13d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873660563
+        }
+    ],
+    "wof:id":873660563,
+    "wof:lastmodified":1464295704,
+    "wof:name":"D R Twins Heating",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.384744,
+    42.788356,
+    -71.384744,
+    42.788356
+],
+  "geometry": {"coordinates":[-71.384744,42.788356],"type":"Point"}
+}

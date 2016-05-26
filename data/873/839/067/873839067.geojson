@@ -1,0 +1,73 @@
+{
+  "id": 873839067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533571,43.179546,-71.533571,43.179546",
+    "geom:latitude":43.179546,
+    "geom:longitude":-71.533571,
+    "iso:country":"US",
+    "sg:address":"49 Donovan St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 271 6762",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VUvSVjQDXVYYab7ay7azX_43.179546_-71.533571@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298527,
+    "wof:geomhash":"59d2962c82ed9c4cbcd097aa94b80de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873839067
+        }
+    ],
+    "wof:id":873839067,
+    "wof:lastmodified":1464298527,
+    "wof:name":"Board Mental Health Practice",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -71.533571,
+    43.179546,
+    -71.533571,
+    43.179546
+],
+  "geometry": {"coordinates":[-71.53357099999999,43.179546],"type":"Point"}
+}

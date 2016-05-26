@@ -1,0 +1,79 @@
+{
+  "id": 873774601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.327106,42.88169,-71.327106,42.88169",
+    "geom:latitude":42.88169,
+    "geom:longitude":-71.327106,
+    "iso:country":"US",
+    "sg:address":"14 Manning St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 6753",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "resource",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892223,
+        102191575,
+        404476743,
+        85633793,
+        85975115,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SNKylrtQIjNDNRBGpvxQ1_42.881690_-71.327106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297421,
+    "wof:geomhash":"e342ac2ed6bf2bbdcfa374d2b32a6aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476743,
+            "locality_id":85975115,
+            "neighbourhood_id":85892223,
+            "region_id":85688689,
+            "venue_id":873774601
+        }
+    ],
+    "wof:id":873774601,
+    "wof:lastmodified":1464297421,
+    "wof:name":"Derry Human Svc Dept",
+    "wof:parent_id":85892223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    -71.327106,
+    42.88169,
+    -71.327106,
+    42.88169
+],
+  "geometry": {"coordinates":[-71.327106,42.88169],"type":"Point"}
+}

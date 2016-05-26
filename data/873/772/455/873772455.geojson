@@ -1,0 +1,71 @@
+{
+  "id": 873772455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42274,42.916903,-71.42274,42.916903",
+    "geom:latitude":42.916903,
+    "geom:longitude":-71.42274,
+    "iso:country":"US",
+    "sg:address":"100 Harvey Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 0878",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i6Gbb6ZmKjKPRQzjOpBlV_42.916903_-71.422740@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297395,
+    "wof:geomhash":"468dc38498cd69e299a114b700518b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873772455
+        }
+    ],
+    "wof:id":873772455,
+    "wof:lastmodified":1464297395,
+    "wof:name":"Gerard A LA Flamme Inc",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.42274,
+    42.916903,
+    -71.42274,
+    42.916903
+],
+  "geometry": {"coordinates":[-71.42274,42.916903],"type":"Point"}
+}

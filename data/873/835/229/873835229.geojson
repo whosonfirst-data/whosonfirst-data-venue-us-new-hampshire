@@ -1,0 +1,73 @@
+{
+  "id": 873835229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.201945,42.801322,-71.201945,42.801322",
+    "geom:latitude":42.801322,
+    "geom:longitude":-71.201945,
+    "iso:country":"US",
+    "sg:address":"12 Kyle Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 3443",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "video",
+        "game",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ReoHnEF3MsmUlb77ASqvX_42.801322_-71.201945@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298449,
+    "wof:geomhash":"1424ffd12088e44239ab1d42a141a44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873835229
+        }
+    ],
+    "wof:id":873835229,
+    "wof:lastmodified":1464298449,
+    "wof:name":"State-Line Amusements & Vndng",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.201945,
+    42.801322,
+    -71.201945,
+    42.801322
+],
+  "geometry": {"coordinates":[-71.20194499999999,42.801322],"type":"Point"}
+}

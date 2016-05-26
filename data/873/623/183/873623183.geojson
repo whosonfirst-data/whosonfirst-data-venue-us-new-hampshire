@@ -1,0 +1,69 @@
+{
+  "id": 873623183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.616146,42.858883,-71.616146,42.858883",
+    "geom:latitude":42.858883,
+    "geom:longitude":-71.616146,
+    "iso:country":"US",
+    "sg:address":"1 Thornton Ferry Road I",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 2400",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W64GJ7P5wzamGler2nyIc_42.858883_-71.616146@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295283,
+    "wof:geomhash":"5c9ac4d449ebe9f19394b2f273e39f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873623183
+        }
+    ],
+    "wof:id":873623183,
+    "wof:lastmodified":1464295283,
+    "wof:name":"J T Art & Frame",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.616146,
+    42.858883,
+    -71.616146,
+    42.858883
+],
+  "geometry": {"coordinates":[-71.616146,42.858883],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873628075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.064211,42.912431,-71.064211,42.912431",
+    "geom:latitude":42.912431,
+    "geom:longitude":-71.064211,
+    "iso:country":"US",
+    "sg:address":"22 Main St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 8589",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855763,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bUJZWNTQJnvyuZNpY8E5K_42.912431_-71.064211@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295341,
+    "wof:geomhash":"8b0e25c517820915f8db4f7b3596ccf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855763,
+            "region_id":85688689,
+            "venue_id":873628075
+        }
+    ],
+    "wof:id":873628075,
+    "wof:lastmodified":1464295341,
+    "wof:name":"Lakeside Restaurant",
+    "wof:parent_id":85855763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.064211,
+    42.912431,
+    -71.064211,
+    42.912431
+],
+  "geometry": {"coordinates":[-71.064211,42.912431],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873664375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454395,43.540683,-71.454395,43.540683",
+    "geom:latitude":43.540683,
+    "geom:longitude":-71.454395,
+    "iso:country":"US",
+    "sg:address":"49 Pinecrest Dr",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 7813",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lF4hbeww9r0abX7jkuEed_43.540683_-71.454395@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295744,
+    "wof:geomhash":"824a2c469c2ea47b70f3d5f8410a8403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873664375
+        }
+    ],
+    "wof:id":873664375,
+    "wof:lastmodified":1464295744,
+    "wof:name":"Messier & Sons Transport",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.454395,
+    43.540683,
+    -71.454395,
+    43.540683
+],
+  "geometry": {"coordinates":[-71.45439500000001,43.540683],"type":"Point"}
+}

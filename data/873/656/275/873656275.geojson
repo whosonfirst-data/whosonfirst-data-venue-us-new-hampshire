@@ -1,0 +1,79 @@
+{
+  "id": 873656275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432583,43.577365,-71.432583,43.577365",
+    "geom:latitude":43.577365,
+    "geom:longitude":-71.432583,
+    "iso:country":"US",
+    "sg:address":"182 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8885",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85975071,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Au1J59TwVtyJs07V2sVNH_43.577365_-71.432583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295659,
+    "wof:geomhash":"d08331ca9535d6ecfab6c334572327ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873656275
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873656275
+        }
+    ],
+    "wof:id":873656275,
+    "wof:lastmodified":1464295659,
+    "wof:name":"Belknap Sportsman's Club Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.432583,
+    43.577365,
+    -71.432583,
+    43.577365
+],
+  "geometry": {"coordinates":[-71.43258299999999,43.577365],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873917669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.627384,43.447066,-71.627384,43.447066",
+    "geom:latitude":43.447066,
+    "geom:longitude":-71.627384,
+    "iso:country":"US",
+    "sg:address":"826 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/franklin/129601-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 4391",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dYCyTC3AFKI0hFTorDrfA_43.447066_-71.627384@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300171,
+    "wof:geomhash":"44f35559217cbc58f1f2d044d23cdbdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873917669
+        }
+    ],
+    "wof:id":873917669,
+    "wof:lastmodified":1464300171,
+    "wof:name":"Subway",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.627384,
+    43.447066,
+    -71.627384,
+    43.447066
+],
+  "geometry": {"coordinates":[-71.62738400000001,43.447066],"type":"Point"}
+}

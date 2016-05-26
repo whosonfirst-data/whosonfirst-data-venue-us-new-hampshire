@@ -1,0 +1,71 @@
+{
+  "id": 873906673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183478,44.477084,-71.183478,44.477084",
+    "geom:latitude":44.477084,
+    "geom:longitude":-71.183478,
+    "iso:country":"US",
+    "sg:address":"58 Jasper St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 4855",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kQttceDlsztH3Io7mIIhu_44.477084_-71.183478@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299953,
+    "wof:geomhash":"4010e424d943c1af7b84906d472e2d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873906673
+        }
+    ],
+    "wof:id":873906673,
+    "wof:lastmodified":1464299953,
+    "wof:name":"Paulin & Sons",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.183478,
+    44.477084,
+    -71.183478,
+    44.477084
+],
+  "geometry": {"coordinates":[-71.18347799999999,44.477084],"type":"Point"}
+}

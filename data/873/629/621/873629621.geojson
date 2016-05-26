@@ -1,0 +1,73 @@
+{
+  "id": 873629621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.926698,42.998393,-71.926698,42.998393",
+    "geom:latitude":42.998393,
+    "geom:longitude":-71.926698,
+    "iso:country":"US",
+    "sg:address":"198 US Hwy 202",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 588 2261",
+    "sg:postcode":"03442",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "industrial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_699kkWsZZSknxATEkJUvUt_42.998393_-71.926698@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295362,
+    "wof:geomhash":"9287d73bc05b5cec52a87d08fbdd4e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873629621
+        }
+    ],
+    "wof:id":873629621,
+    "wof:lastmodified":1464295362,
+    "wof:name":"Paul Wilson & Sons Inc",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "industrial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.926698,
+    42.998393,
+    -71.926698,
+    42.998393
+],
+  "geometry": {"coordinates":[-71.926698,42.998393],"type":"Point"}
+}

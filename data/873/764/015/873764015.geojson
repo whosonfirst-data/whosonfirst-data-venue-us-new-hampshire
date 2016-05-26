@@ -1,0 +1,80 @@
+{
+  "id": 873764015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.992508,43.221857,-70.992508,43.221857",
+    "geom:latitude":43.221857,
+    "geom:longitude":-70.992508,
+    "iso:country":"US",
+    "sg:address":"288 Calef Hwy",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 4611",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wzh4mEfh8cUYRW8QDhrCo_43.221857_-70.992508@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297274,
+    "wof:geomhash":"f2c8bdc090994bb2b175fe2f7016cb46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873764015
+        }
+    ],
+    "wof:id":873764015,
+    "wof:lastmodified":1464297274,
+    "wof:name":"N H Solar Control",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.992508,
+    43.221857,
+    -70.992508,
+    43.221857
+],
+  "geometry": {"coordinates":[-70.992508,43.221857],"type":"Point"}
+}

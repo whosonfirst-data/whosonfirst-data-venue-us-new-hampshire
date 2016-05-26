@@ -1,0 +1,69 @@
+{
+  "id": 873713131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.909577,43.025304,-70.909577,43.025304",
+    "geom:latitude":43.025304,
+    "geom:longitude":-70.909577,
+    "iso:country":"US",
+    "sg:address":"2 Winnicutt Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 9756",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OF8vOH1bOc6tKlPTYgO3O_43.025304_-70.909577@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296558,
+    "wof:geomhash":"a860d164bd9be93ed09c88e8b8178bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873713131
+        }
+    ],
+    "wof:id":873713131,
+    "wof:lastmodified":1464296558,
+    "wof:name":"Stratham Fire House",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -70.909577,
+    43.025304,
+    -70.909577,
+    43.025304
+],
+  "geometry": {"coordinates":[-70.909577,43.025304],"type":"Point"}
+}

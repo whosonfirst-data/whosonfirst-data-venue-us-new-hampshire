@@ -1,0 +1,71 @@
+{
+  "id": 873588765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480332,43.160368,-71.480332,43.160368",
+    "geom:latitude":43.160368,
+    "geom:longitude":-71.480332,
+    "iso:country":"US",
+    "sg:address":"454 Micol Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1144",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KdLhWZPvlLQIA7LTGUFQ1_43.160368_-71.480332@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294815,
+    "wof:geomhash":"4d27dccb67340ec9bb3ebbecf02eda18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873588765
+        }
+    ],
+    "wof:id":873588765,
+    "wof:lastmodified":1464294815,
+    "wof:name":"Johnson Lenn Electrical",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.480332,
+    43.160368,
+    -71.480332,
+    43.160368
+],
+  "geometry": {"coordinates":[-71.480332,43.160368],"type":"Point"}
+}

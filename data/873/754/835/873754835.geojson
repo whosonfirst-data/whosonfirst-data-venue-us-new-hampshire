@@ -1,0 +1,70 @@
+{
+  "id": 873754835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46404,42.823644,-71.46404,42.823644",
+    "geom:latitude":42.823644,
+    "geom:longitude":-71.46404,
+    "iso:country":"US",
+    "sg:address":"6 Birch St",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 7464",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "calibration"
+    ],
+    "sg:website":"www.kon-sult.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sT9ylhgwQOdHIzWCuUo6s_42.823644_-71.464040@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"8c7cac16eb5848475167ea6861eaa0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873754835
+        }
+    ],
+    "wof:id":873754835,
+    "wof:lastmodified":1464297143,
+    "wof:name":"Kon-Sult Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [
+    -71.46404,
+    42.823644,
+    -71.46404,
+    42.823644
+],
+  "geometry": {"coordinates":[-71.46404,42.823644],"type":"Point"}
+}

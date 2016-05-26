@@ -1,0 +1,71 @@
+{
+  "id": 873662053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.026352,43.089761,-71.026352,43.089761",
+    "geom:latitude":43.089761,
+    "geom:longitude":-71.026352,
+    "iso:country":"US",
+    "sg:address":"206 N River Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 6586",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849819,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uUvuYDKlN2OTeFU3UrMxU_43.089761_-71.026352@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295720,
+    "wof:geomhash":"0988ea751d3fcc2ff9ade4c72cc6e979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85849819,
+            "region_id":85688689,
+            "venue_id":873662053
+        }
+    ],
+    "wof:id":873662053,
+    "wof:lastmodified":1464295720,
+    "wof:name":"Kirkwood Corners",
+    "wof:parent_id":85849819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.026352,
+    43.089761,
+    -71.026352,
+    43.089761
+],
+  "geometry": {"coordinates":[-71.026352,43.089761],"type":"Point"}
+}

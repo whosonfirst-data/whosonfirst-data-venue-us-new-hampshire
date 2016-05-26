@@ -1,0 +1,71 @@
+{
+  "id": 873582495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.429514,43.250498,-72.429514,43.250498",
+    "geom:latitude":43.250498,
+    "geom:longitude":-72.429514,
+    "iso:country":"US",
+    "sg:address":"30 Riverview Dr",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 826 3906",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850745,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C39uyyT16jteKsWK2Vnfh_43.250498_-72.429514@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"940ce122ca0f65c088ef02bc852450e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850745,
+            "region_id":85688689,
+            "venue_id":873582495
+        }
+    ],
+    "wof:id":873582495,
+    "wof:lastmodified":1464294747,
+    "wof:name":"S & L Management Corp",
+    "wof:parent_id":85850745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.429514,
+    43.250498,
+    -72.429514,
+    43.250498
+],
+  "geometry": {"coordinates":[-72.429514,43.250498],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873882735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.808106,42.836888,-71.808106,42.836888",
+    "geom:latitude":42.836888,
+    "geom:longitude":-71.808106,
+    "iso:country":"US",
+    "sg:address":"23 Ring Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 2579",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43iLTVi74os3Qdj9mJo9ks_42.836888_-71.808106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299485,
+    "wof:geomhash":"f40403288d85f4da6cd44270cf799684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873882735
+        }
+    ],
+    "wof:id":873882735,
+    "wof:lastmodified":1464299485,
+    "wof:name":"Ralph's Tractor Svc",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.808106,
+    42.836888,
+    -71.808106,
+    42.836888
+],
+  "geometry": {"coordinates":[-71.808106,42.836888],"type":"Point"}
+}

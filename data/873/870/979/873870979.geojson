@@ -1,0 +1,71 @@
+{
+  "id": 873870979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487154,43.628201,-71.487154,43.628201",
+    "geom:latitude":43.628201,
+    "geom:longitude":-71.487154,
+    "iso:country":"US",
+    "sg:address":"34 Daniel Webster Hwy",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6272",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892249,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G5ntsC0zNyO3b1H78E5JM_43.628201_-71.487154@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299256,
+    "wof:geomhash":"5da87042ccf81286f9d279c06373c953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85892249,
+            "region_id":85688689,
+            "venue_id":873870979
+        }
+    ],
+    "wof:id":873870979,
+    "wof:lastmodified":1464299256,
+    "wof:name":"Independent Volkswagen Svc",
+    "wof:parent_id":85892249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.487154,
+    43.628201,
+    -71.487154,
+    43.628201
+],
+  "geometry": {"coordinates":[-71.487154,43.628201],"type":"Point"}
+}

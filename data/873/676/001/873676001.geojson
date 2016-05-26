@@ -1,0 +1,71 @@
+{
+  "id": 873676001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.911045,42.889675,-70.911045,42.889675",
+    "geom:latitude":42.889675,
+    "geom:longitude":-70.911045,
+    "iso:country":"US",
+    "sg:address":"53 True Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 5742",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xIDVu3HWUPcG7YwqJQKFn_42.889675_-70.911045@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295890,
+    "wof:geomhash":"0efb7eb164528fae4f188aaf55047773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873676001
+        }
+    ],
+    "wof:id":873676001,
+    "wof:lastmodified":1464295890,
+    "wof:name":"Syvinski Landscaping",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.911045,
+    42.889675,
+    -70.911045,
+    42.889675
+],
+  "geometry": {"coordinates":[-70.911045,42.889675],"type":"Point"}
+}

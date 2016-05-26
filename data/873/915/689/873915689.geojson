@@ -1,0 +1,76 @@
+{
+  "id": 873915689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477707,42.745842,-71.477707,42.745842",
+    "geom:latitude":42.745842,
+    "geom:longitude":-71.477707,
+    "iso:country":"US",
+    "sg:address":"37 Blanchard St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 4318",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.nashua.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68XbNs6Ts3pS4FLDegBxdr_42.745789_-71.477033@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300133,
+    "wof:geomhash":"60b960e43ad461547a0bc7921beaacf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873915689
+        }
+    ],
+    "wof:id":873915689,
+    "wof:lastmodified":1464300133,
+    "wof:name":"Fairgrounds Elementary School",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.477707,
+    42.745842,
+    -71.477707,
+    42.745842
+],
+  "geometry": {"coordinates":[-71.477707,42.745842],"type":"Point"}
+}

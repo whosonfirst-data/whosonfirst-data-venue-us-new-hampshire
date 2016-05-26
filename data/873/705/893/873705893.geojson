@@ -1,0 +1,71 @@
+{
+  "id": 873705893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268184,42.89434,-71.268184,42.89434",
+    "geom:latitude":42.89434,
+    "geom:longitude":-71.268184,
+    "iso:country":"US",
+    "sg:address":"35 Redfield Cir",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 0423",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1akhVRwRyPDgSrUuzZ6Flh_42.894340_-71.268184@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296468,
+    "wof:geomhash":"56c53a5d4ce0d7c696e4eb9be44b06dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873705893
+        }
+    ],
+    "wof:id":873705893,
+    "wof:lastmodified":1464296468,
+    "wof:name":"Bitim Enterprises Inc",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.268184,
+    42.89434,
+    -71.268184,
+    42.89434
+],
+  "geometry": {"coordinates":[-71.26818400000001,42.89434],"type":"Point"}
+}

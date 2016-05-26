@@ -1,0 +1,75 @@
+{
+  "id": 873817409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467725,42.754578,-71.467725,42.754578",
+    "geom:latitude":42.754578,
+    "geom:longitude":-71.467725,
+    "iso:country":"US",
+    "sg:address":"106 Vine St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 0540",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tjqAA1TP179EYZp2eE7xu_42.754578_-71.467725@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298067,
+    "wof:geomhash":"5936125a104f1de8fb7ef25d0138834d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873817409
+        }
+    ],
+    "wof:id":873817409,
+    "wof:lastmodified":1464298067,
+    "wof:name":"Barnes Transportation",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.467725,
+    42.754578,
+    -71.467725,
+    42.754578
+],
+  "geometry": {"coordinates":[-71.467725,42.754578],"type":"Point"}
+}

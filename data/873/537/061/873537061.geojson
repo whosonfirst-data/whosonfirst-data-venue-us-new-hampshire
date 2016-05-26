@@ -1,0 +1,69 @@
+{
+  "id": 873537061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.593865,42.747551,-71.593865,42.747551",
+    "geom:latitude":42.747551,
+    "geom:longitude":-71.593865,
+    "iso:country":"US",
+    "sg:address":"36 Silver Lake Rd",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 465 2260",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855687,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c2s4WVnEw8z9YmIh9SMuf_42.747551_-71.593865@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294229,
+    "wof:geomhash":"0bcb3a29bca347f1eb0b3016f6e80209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855687,
+            "region_id":85688689,
+            "venue_id":873537061
+        }
+    ],
+    "wof:id":873537061,
+    "wof:lastmodified":1464294229,
+    "wof:name":"Hollis Primary School",
+    "wof:parent_id":85855687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.593865,
+    42.747551,
+    -71.593865,
+    42.747551
+],
+  "geometry": {"coordinates":[-71.59386499999999,42.747551],"type":"Point"}
+}

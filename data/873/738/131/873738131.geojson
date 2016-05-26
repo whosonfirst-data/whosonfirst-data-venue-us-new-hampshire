@@ -1,0 +1,71 @@
+{
+  "id": 873738131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.786947,43.18229,-71.786947,43.18229",
+    "geom:latitude":43.18229,
+    "geom:longitude":-71.786947,
+    "iso:country":"US",
+    "sg:address":"8 Stone Falls Rd",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3525",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811651,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PKhVutvbP7putF2pEX8sX_43.182290_-71.786947@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296898,
+    "wof:geomhash":"356905e30d21fe7d2540cda9fa98b4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85811651,
+            "region_id":85688689,
+            "venue_id":873738131
+        }
+    ],
+    "wof:id":873738131,
+    "wof:lastmodified":1464296898,
+    "wof:name":"Water Systems Operators",
+    "wof:parent_id":85811651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.786947,
+    43.18229,
+    -71.786947,
+    43.18229
+],
+  "geometry": {"coordinates":[-71.786947,43.18229],"type":"Point"}
+}

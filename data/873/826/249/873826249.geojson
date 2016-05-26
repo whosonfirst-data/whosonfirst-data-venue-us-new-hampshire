@@ -1,0 +1,71 @@
+{
+  "id": 873826249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.731605,43.594328,-71.731605,43.594328",
+    "geom:latitude":43.594328,
+    "geom:longitude":-71.731605,
+    "iso:country":"US",
+    "sg:address":"284 Summer St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 0056",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iuiqghUEmFaG87FL1ktYE_43.594328_-71.731605@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298259,
+    "wof:geomhash":"ef2f815ba2c147985825dfd0d199eb96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873826249
+        }
+    ],
+    "wof:id":873826249,
+    "wof:lastmodified":1464298259,
+    "wof:name":"Flat Rate Plumbing & Heating",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.731605,
+    43.594328,
+    -71.731605,
+    43.594328
+],
+  "geometry": {"coordinates":[-71.731605,43.594328],"type":"Point"}
+}

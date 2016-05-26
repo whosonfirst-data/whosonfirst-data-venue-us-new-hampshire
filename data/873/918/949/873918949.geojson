@@ -1,0 +1,81 @@
+{
+  "id": 873918949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426619,42.768255,-71.426619,42.768255",
+    "geom:latitude":42.768255,
+    "geom:longitude":-71.426619,
+    "iso:country":"US",
+    "sg:address":"119 Ferry St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/167765-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 0400",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xenK5IByHNXOUeW0aNRwj_42.768594_-71.426309@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300194,
+    "wof:geomhash":"d6af8d599c8d03e6248134dd3b776b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873918949
+        }
+    ],
+    "wof:id":873918949,
+    "wof:lastmodified":1464300194,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.426619,
+    42.768255,
+    -71.426619,
+    42.768255
+],
+  "geometry": {"coordinates":[-71.426619,42.768255],"type":"Point"}
+}

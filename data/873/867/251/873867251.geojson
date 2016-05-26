@@ -1,0 +1,73 @@
+{
+  "id": 873867251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.598565,43.279893,-71.598565,43.279893",
+    "geom:latitude":43.279893,
+    "geom:longitude":-71.598565,
+    "iso:country":"US",
+    "sg:address":"19 High St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 6066",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M5JRgKlX1LFAfeJ5enue4_43.279893_-71.598565@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299177,
+    "wof:geomhash":"d9abbfb447a00cc0db5dd4486970a616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873867251
+        }
+    ],
+    "wof:id":873867251,
+    "wof:lastmodified":1464299177,
+    "wof:name":"Boscawen Family Practice",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.598565,
+    43.279893,
+    -71.598565,
+    43.279893
+],
+  "geometry": {"coordinates":[-71.59856499999999,43.279893],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873844343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.347073,42.791058,-71.347073,42.791058",
+    "geom:latitude":42.791058,
+    "geom:longitude":-71.347073,
+    "iso:country":"US",
+    "sg:address":"9 Sunridge Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 6344",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TdZllaCtkp6FSX2vX1VOp_42.791058_-71.347073@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298667,
+    "wof:geomhash":"639dee7e16963aca0149b37ce1f1b802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873844343
+        }
+    ],
+    "wof:id":873844343,
+    "wof:lastmodified":1464298667,
+    "wof:name":"David Searles",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.347073,
+    42.791058,
+    -71.347073,
+    42.791058
+],
+  "geometry": {"coordinates":[-71.34707299999999,42.791058],"type":"Point"}
+}

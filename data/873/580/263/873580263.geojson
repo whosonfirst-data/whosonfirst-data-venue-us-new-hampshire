@@ -1,0 +1,71 @@
+{
+  "id": 873580263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46209,43.52866,-71.46209,43.52866",
+    "geom:latitude":43.52866,
+    "geom:longitude":-71.46209,
+    "iso:country":"US",
+    "sg:address":"87 Spring St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 3738",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkLD9SPgj0YU5qHwvUxkq_43.528660_-71.462090@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294721,
+    "wof:geomhash":"370e9b18ef07195707c11ddddf6eb01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873580263
+        }
+    ],
+    "wof:id":873580263,
+    "wof:lastmodified":1464294721,
+    "wof:name":"Central New Hampshire Kidney",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.46209,
+    43.52866,
+    -71.46209,
+    43.52866
+],
+  "geometry": {"coordinates":[-71.46209,43.52866],"type":"Point"}
+}

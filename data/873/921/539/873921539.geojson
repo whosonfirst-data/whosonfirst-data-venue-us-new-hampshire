@@ -1,0 +1,85 @@
+{
+  "id": 873921539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409927,42.77351,-71.409927,42.77351",
+    "geom:latitude":42.77351,
+    "geom:longitude":-71.409927,
+    "iso:country":"US",
+    "sg:address":"14 Greeley St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 2946",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "furnaces-heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.aegis-hvac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCNvxn7ygadAXhNPHsivG_42.773510_-71.409927@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300237,
+    "wof:geomhash":"daaa92ebd22915d38ea0a76f31ae6cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921539
+        }
+    ],
+    "wof:id":873921539,
+    "wof:lastmodified":1464300237,
+    "wof:name":"Aegis Comfort Systems Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "specialty",
+        "heating",
+        "furnaces-heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.409927,
+    42.77351,
+    -71.409927,
+    42.77351
+],
+  "geometry": {"coordinates":[-71.409927,42.77351],"type":"Point"}
+}

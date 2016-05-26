@@ -1,0 +1,71 @@
+{
+  "id": 873712255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462115,43.202871,-71.462115,43.202871",
+    "geom:latitude":43.202871,
+    "geom:longitude":-71.462115,
+    "iso:country":"US",
+    "sg:address":"743 Borough Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 0018",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vNFNo5yHu4e5JJF1w9HBX_43.202871_-71.462115@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296548,
+    "wof:geomhash":"05ab1eb5366521c494a396fde2c2c304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873712255
+        }
+    ],
+    "wof:id":873712255,
+    "wof:lastmodified":1464296548,
+    "wof:name":"Foster Concrete Form Co",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.462115,
+    43.202871,
+    -71.462115,
+    43.202871
+],
+  "geometry": {"coordinates":[-71.462115,43.202871],"type":"Point"}
+}

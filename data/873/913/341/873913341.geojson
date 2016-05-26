@@ -1,0 +1,76 @@
+{
+  "id": 873913341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.284624,43.712128,-72.284624,43.712128",
+    "geom:latitude":43.712128,
+    "geom:longitude":-72.284624,
+    "iso:country":"US",
+    "sg:address":"1 Rope Ferry Rd",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 650 1200",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "sg:website":"www.dartmouth.edu/~dms",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830371,
+        102191575,
+        404477237,
+        85633793,
+        85975143,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_462Y1TDo3boQGHjBxp4Cyp_43.712128_-72.284624@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300075,
+    "wof:geomhash":"8222d67395d85ba0686478d051a41bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477237,
+            "locality_id":85975143,
+            "neighbourhood_id":85830371,
+            "region_id":85688689,
+            "venue_id":873913341
+        }
+    ],
+    "wof:id":873913341,
+    "wof:lastmodified":1464300075,
+    "wof:name":"Dartmouth Medical School",
+    "wof:parent_id":85830371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.284624,
+    43.712128,
+    -72.284624,
+    43.712128
+],
+  "geometry": {"coordinates":[-72.28462399999999,43.712128],"type":"Point"}
+}

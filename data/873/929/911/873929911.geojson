@@ -1,0 +1,80 @@
+{
+  "id": 873929911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.793884,43.094039,-70.793884,43.094039",
+    "geom:latitude":43.094039,
+    "geom:longitude":-70.793884,
+    "iso:country":"US",
+    "sg:address":"1981 Woodbury Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 1402",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j2aiaz3HDEWrkjmYmNpS9_43.094039_-70.793884@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300408,
+    "wof:geomhash":"cf4a3402384daf679825fdd36c706821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873929911
+        }
+    ],
+    "wof:id":873929911,
+    "wof:lastmodified":1464300408,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -70.793884,
+    43.094039,
+    -70.793884,
+    43.094039
+],
+  "geometry": {"coordinates":[-70.79388400000001,43.094039],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873852845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.977946,42.978373,-71.977946,42.978373",
+    "geom:latitude":42.978373,
+    "geom:longitude":-71.977946,
+    "iso:country":"US",
+    "sg:address":"40 Bennington Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 525 3366",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nvlwkaq8ZLg0XjWvectPj_42.978373_-71.977946@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298873,
+    "wof:geomhash":"15f9fa9ae15881d1ac442c7bf2e711c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873852845
+        }
+    ],
+    "wof:id":873852845,
+    "wof:lastmodified":1464298873,
+    "wof:name":"Hancock Fire Dept",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.977946,
+    42.978373,
+    -71.977946,
+    42.978373
+],
+  "geometry": {"coordinates":[-71.977946,42.978373],"type":"Point"}
+}

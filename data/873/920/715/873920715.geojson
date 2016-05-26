@@ -1,0 +1,85 @@
+{
+  "id": 873920715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.062109,43.04353,-71.062109,43.04353",
+    "geom:latitude":43.04353,
+    "geom:longitude":-71.062109,
+    "iso:country":"US",
+    "sg:address":"285 Calef Hwy Unit 1",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 1175",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rV21Qx1GK6EptL7LR0cdn_43.043530_-71.062109@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300223,
+    "wof:geomhash":"9328cd3a8367ffb16873b52795b1b49e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873920715
+        }
+    ],
+    "wof:id":873920715,
+    "wof:lastmodified":1464300223,
+    "wof:name":"Fences Unlimited Inc",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.062109,
+    43.04353,
+    -71.062109,
+    43.04353
+],
+  "geometry": {"coordinates":[-71.06210900000001,43.04353],"type":"Point"}
+}

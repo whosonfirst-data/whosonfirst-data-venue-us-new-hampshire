@@ -1,0 +1,77 @@
+{
+  "id": 873756167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.481326,42.771639,-72.481326,42.771639",
+    "geom:latitude":42.771639,
+    "geom:longitude":-72.481326,
+    "iso:country":"US",
+    "sg:address":"218 Northfield Rd",
+    "sg:city":"Hinsdale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 336 7166",
+    "sg:postcode":"03451",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526073,
+        102191575,
+        404477025,
+        85633793,
+        85975167,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BY9UcEQyzAyAORWdTFqbb_42.771639_-72.481326@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297159,
+    "wof:geomhash":"ffca413be261bd69f2a2f29352f9aa17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477025,
+            "locality_id":85975167,
+            "neighbourhood_id":420526073,
+            "region_id":85688689,
+            "venue_id":873756167
+        }
+    ],
+    "wof:id":873756167,
+    "wof:lastmodified":1464297159,
+    "wof:name":"Hinsdale Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.481326,
+    42.771639,
+    -72.481326,
+    42.771639
+],
+  "geometry": {"coordinates":[-72.481326,42.771639],"type":"Point"}
+}

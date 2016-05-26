@@ -1,0 +1,70 @@
+{
+  "id": 873624387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687476,43.758972,-71.687476,43.758972",
+    "geom:latitude":43.758972,
+    "geom:longitude":-71.687476,
+    "iso:country":"US",
+    "sg:address":"107 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4009",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.msdental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KxXbqtceOCLFYBQDgOXCN_43.758972_-71.687476@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295304,
+    "wof:geomhash":"3c5d0c5439a81b70426bedd9e6d8a3f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873624387
+        }
+    ],
+    "wof:id":873624387,
+    "wof:lastmodified":1464295304,
+    "wof:name":"Main Street Dental LLC",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.687476,
+    43.758972,
+    -71.687476,
+    43.758972
+],
+  "geometry": {"coordinates":[-71.687476,43.758972],"type":"Point"}
+}

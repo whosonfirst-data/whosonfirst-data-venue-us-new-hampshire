@@ -1,0 +1,82 @@
+{
+  "id": 873605233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.77263,43.069054,-70.77263,43.069054",
+    "geom:latitude":43.069054,
+    "geom:longitude":-70.77263,
+    "iso:country":"US",
+    "sg:address":"833 Islington St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 5717",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892303,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2azD4ZyMByZYWS401Jq6l3_43.069054_-70.772630@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295043,
+    "wof:geomhash":"028e020d2306c217ea7be8fc5c4604cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892303,
+            "region_id":85688689,
+            "venue_id":873605233
+        }
+    ],
+    "wof:id":873605233,
+    "wof:lastmodified":1464295043,
+    "wof:name":"Tony's Television & Video",
+    "wof:parent_id":85892303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -70.77263,
+    43.069054,
+    -70.77263,
+    43.069054
+],
+  "geometry": {"coordinates":[-70.77263000000001,43.069054],"type":"Point"}
+}

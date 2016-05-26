@@ -1,0 +1,69 @@
+{
+  "id": 873894435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.150385,43.808671,-72.150385,43.808671",
+    "geom:latitude":43.808671,
+    "geom:longitude":-72.150385,
+    "iso:country":"US",
+    "sg:address":"44 High St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 2047",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pp5QHrUbAH5OV3OYbpUQR_43.808671_-72.150385@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299712,
+    "wof:geomhash":"cfcde7d9a5d3a09fc40863d84fb72982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873894435
+        }
+    ],
+    "wof:id":873894435,
+    "wof:lastmodified":1464299712,
+    "wof:name":"Lyme Town Police Dept",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.150385,
+    43.808671,
+    -72.150385,
+    43.808671
+],
+  "geometry": {"coordinates":[-72.150385,43.808671],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873632329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.719318,43.071086,-70.719318,43.071086",
+    "geom:latitude":43.071086,
+    "geom:longitude":-70.719318,
+    "iso:country":"US",
+    "sg:address":"155 Main St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 2283",
+    "sg:postcode":"03854",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scientist",
+        "industry",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85848091,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RyNfKtuwK9YmnTXMFHzyO_43.071086_-70.719318@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295390,
+    "wof:geomhash":"0ff1111d85ebed78cb7c6befd0362570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85848091,
+            "region_id":85688689,
+            "venue_id":873632329
+        }
+    ],
+    "wof:id":873632329,
+    "wof:lastmodified":1464295390,
+    "wof:name":"Knowledge Acquisition Site",
+    "wof:parent_id":85848091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scientist",
+        "industry",
+        "construction"
+    ]
+},
+  "bbox": [
+    -70.719318,
+    43.071086,
+    -70.719318,
+    43.071086
+],
+  "geometry": {"coordinates":[-70.719318,43.071086],"type":"Point"}
+}

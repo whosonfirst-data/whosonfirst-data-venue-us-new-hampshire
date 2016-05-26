@@ -1,0 +1,90 @@
+{
+  "id": 873925921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250221,42.773661,-71.250221,42.773661",
+    "geom:latitude":42.773661,
+    "geom:longitude":-71.250221,
+    "iso:country":"US",
+    "sg:address":"68 Stiles Rd Ste D",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8080",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "supply",
+        "hardware",
+        "equipment",
+        "computer-wholesale",
+        "manufacturer",
+        "software"
+    ],
+    "sg:website":"http://www.memteccorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f5IncW61JkazR4etiKQLZ_42.773661_-71.250221@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300325,
+    "wof:geomhash":"4e02de662a04489112609a4707784b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925921
+        }
+    ],
+    "wof:id":873925921,
+    "wof:lastmodified":1464300325,
+    "wof:name":"Memtec Corporation",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "hardware",
+        "equipment",
+        "computer-wholesale",
+        "manufacturer",
+        "software"
+    ]
+},
+  "bbox": [
+    -71.250221,
+    42.773661,
+    -71.250221,
+    42.773661
+],
+  "geometry": {"coordinates":[-71.250221,42.773661],"type":"Point"}
+}

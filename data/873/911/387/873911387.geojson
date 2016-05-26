@@ -1,0 +1,69 @@
+{
+  "id": 873911387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.199417,42.905743,-72.199417,42.905743",
+    "geom:latitude":42.905743,
+    "geom:longitude":-72.199417,
+    "iso:country":"US",
+    "sg:address":"327 Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4450",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ftHKfxxZmnQb51rOecUga_42.905743_-72.199417@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300039,
+    "wof:geomhash":"5e9ef6cf1f01a2fe7a3b53332cdfcec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873911387
+        }
+    ],
+    "wof:id":873911387,
+    "wof:lastmodified":1464300039,
+    "wof:name":"Chads Cycle Works",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.199417,
+    42.905743,
+    -72.199417,
+    42.905743
+],
+  "geometry": {"coordinates":[-72.199417,42.905743],"type":"Point"}
+}

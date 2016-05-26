@@ -1,0 +1,77 @@
+{
+  "id": 873618035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.766297,43.083984,-70.766297,43.083984",
+    "geom:latitude":43.083984,
+    "geom:longitude":-70.766297,
+    "iso:country":"US",
+    "sg:address":"555 Market St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8500",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838825,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CRxmCkaBJ6UOi8E9yLMrD_43.083984_-70.766297@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"43b6b4607cdd10c6159cdc74d584b03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85838825,
+            "region_id":85688689,
+            "venue_id":873618035
+        }
+    ],
+    "wof:id":873618035,
+    "wof:lastmodified":1464295224,
+    "wof:name":"N H State Port Authority",
+    "wof:parent_id":85838825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -70.766297,
+    43.083984,
+    -70.766297,
+    43.083984
+],
+  "geometry": {"coordinates":[-70.76629699999999,43.083984],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873683561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.787374,44.288681,-71.787374,44.288681",
+    "geom:latitude":44.288681,
+    "geom:longitude":-71.787374,
+    "iso:country":"US",
+    "sg:address":"1213 Mount Eustis Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 1447",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DT01gi2q4fZ0yxATudeoW_44.288681_-71.787374@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296096,
+    "wof:geomhash":"53002c38c3400489b9eb575e3e5cb9c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873683561
+        }
+    ],
+    "wof:id":873683561,
+    "wof:lastmodified":1464296096,
+    "wof:name":"Littleton Transfer Station",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.787374,
+    44.288681,
+    -71.787374,
+    44.288681
+],
+  "geometry": {"coordinates":[-71.787374,44.288681],"type":"Point"}
+}

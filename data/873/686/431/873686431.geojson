@@ -1,0 +1,73 @@
+{
+  "id": 873686431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175561,43.683021,-71.175561,43.683021",
+    "geom:latitude":43.683021,
+    "geom:longitude":-71.175561,
+    "iso:country":"US",
+    "sg:address":"15 Lower Beecham Hill Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 5579",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WDqpUGMkS0ZuTKIQcKYRg_43.683021_-71.175561@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296178,
+    "wof:geomhash":"77b919c24408512b59ba4f4fbaaf5f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873686431
+        }
+    ],
+    "wof:id":873686431,
+    "wof:lastmodified":1464296178,
+    "wof:name":"Water Village Auto Service",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.175561,
+    43.683021,
+    -71.175561,
+    43.683021
+],
+  "geometry": {"coordinates":[-71.175561,43.683021],"type":"Point"}
+}

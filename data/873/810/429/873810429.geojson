@@ -1,0 +1,71 @@
+{
+  "id": 873810429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3023,42.855902,-71.3023,42.855902",
+    "geom:latitude":42.855902,
+    "geom:longitude":-71.3023,
+    "iso:country":"US",
+    "sg:address":"11 Willow St",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 421 1844",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0315Fxyl5mCUEHNiK9wJFT_42.855902_-71.302300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297934,
+    "wof:geomhash":"c8da53ffe272af3988500c373f445459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873810429
+        }
+    ],
+    "wof:id":873810429,
+    "wof:lastmodified":1464297934,
+    "wof:name":"Miss Darlenes Day Care",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.3023,
+    42.855902,
+    -71.3023,
+    42.855902
+],
+  "geometry": {"coordinates":[-71.3023,42.855902],"type":"Point"}
+}

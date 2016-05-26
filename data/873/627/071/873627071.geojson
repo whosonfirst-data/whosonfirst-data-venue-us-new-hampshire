@@ -1,0 +1,71 @@
+{
+  "id": 873627071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463683,43.548067,-71.463683,43.548067",
+    "geom:latitude":43.548067,
+    "geom:longitude":-71.463683,
+    "iso:country":"US",
+    "sg:address":"59 Elm St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5473",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58aftRT42N1fQ26eNCEGbv_43.548067_-71.463683@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295330,
+    "wof:geomhash":"b5614ce198d7ed96c287a9a61beb3355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873627071
+        }
+    ],
+    "wof:id":873627071,
+    "wof:lastmodified":1464295330,
+    "wof:name":"Wanda's Beauty Shop",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.463683,
+    43.548067,
+    -71.463683,
+    43.548067
+],
+  "geometry": {"coordinates":[-71.463683,43.548067],"type":"Point"}
+}

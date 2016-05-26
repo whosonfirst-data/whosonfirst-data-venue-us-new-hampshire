@@ -1,0 +1,71 @@
+{
+  "id": 873570325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459495,43.533013,-71.459495,43.533013",
+    "geom:latitude":43.533013,
+    "geom:longitude":-71.459495,
+    "iso:country":"US",
+    "sg:address":"69 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7775",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EbOn6svxlWky0vBL7Rsuy_43.533013_-71.459495@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294613,
+    "wof:geomhash":"7c6cb8aa576164c558c042557fe340d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873570325
+        }
+    ],
+    "wof:id":873570325,
+    "wof:lastmodified":1464294613,
+    "wof:name":"Sally L Eshelman",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.459495,
+    43.533013,
+    -71.459495,
+    43.533013
+],
+  "geometry": {"coordinates":[-71.459495,43.533013],"type":"Point"}
+}

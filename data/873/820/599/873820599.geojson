@@ -1,0 +1,71 @@
+{
+  "id": 873820599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.880005,43.218641,-71.880005,43.218641",
+    "geom:latitude":43.218641,
+    "geom:longitude":-71.880005,
+    "iso:country":"US",
+    "sg:address":"3191 State Rte 114",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 5573",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AILW4YtMvxGwEsayY1dHA_43.218641_-71.880005@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298131,
+    "wof:geomhash":"6c7283c31cd6c6e101884d50d43fe73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873820599
+        }
+    ],
+    "wof:id":873820599,
+    "wof:lastmodified":1464298131,
+    "wof:name":"Hugos Electric Service",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.880005,
+    43.218641,
+    -71.880005,
+    43.218641
+],
+  "geometry": {"coordinates":[-71.880005,43.218641],"type":"Point"}
+}

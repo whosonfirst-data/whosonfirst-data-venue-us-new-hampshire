@@ -1,0 +1,70 @@
+{
+  "id": 873917603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507983,42.955983,-71.507983,42.955983",
+    "geom:latitude":42.955983,
+    "geom:longitude":-71.507983,
+    "iso:country":"US",
+    "sg:address":"2 Olde Bedford Way",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bedford/39814-bedford-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 2001",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hnpzhhFKmb9g66qIZJVNQ_42.955983_-71.507983@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300170,
+    "wof:geomhash":"cc457eb0026655f0965e33bb99a7e05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873917603
+        }
+    ],
+    "wof:id":873917603,
+    "wof:lastmodified":1464300170,
+    "wof:name":"Bedford Village Inn",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.507983,
+    42.955983,
+    -71.507983,
+    42.955983
+],
+  "geometry": {"coordinates":[-71.507983,42.955983],"type":"Point"}
+}

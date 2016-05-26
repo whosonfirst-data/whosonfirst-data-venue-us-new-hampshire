@@ -1,0 +1,71 @@
+{
+  "id": 873689781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.948087,43.083921,-70.948087,43.083921",
+    "geom:latitude":43.083921,
+    "geom:longitude":-70.948087,
+    "iso:country":"US",
+    "sg:address":"71 Packers Falls Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 817 1374",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qf8LLoH7g8HtTeMUnbKHV_43.083921_-70.948087@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296267,
+    "wof:geomhash":"6ee1d4b38ad73cc0f7a577883c4c53b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873689781
+        }
+    ],
+    "wof:id":873689781,
+    "wof:lastmodified":1464296267,
+    "wof:name":"Scotty's Lock",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -70.948087,
+    43.083921,
+    -70.948087,
+    43.083921
+],
+  "geometry": {"coordinates":[-70.948087,43.083921],"type":"Point"}
+}

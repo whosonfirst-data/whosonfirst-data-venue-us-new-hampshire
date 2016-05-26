@@ -1,0 +1,81 @@
+{
+  "id": 873930037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.776074,43.04809,-70.776074,43.04809",
+    "geom:latitude":43.04809,
+    "geom:longitude":-70.776074,
+    "iso:country":"US",
+    "sg:address":"24 Mirona Road Ext",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 8991",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892303,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IkZD1Yy4lvoohqpTa6yd8_43.048090_-70.776074@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300411,
+    "wof:geomhash":"258e1644baed6251a19d365c53c05280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892303,
+            "region_id":85688689,
+            "venue_id":873930037
+        }
+    ],
+    "wof:id":873930037,
+    "wof:lastmodified":1464300411,
+    "wof:name":"Key Collision Center Of Portsmouth",
+    "wof:parent_id":85892303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -70.776074,
+    43.04809,
+    -70.776074,
+    43.04809
+],
+  "geometry": {"coordinates":[-70.77607399999999,43.04809],"type":"Point"}
+}

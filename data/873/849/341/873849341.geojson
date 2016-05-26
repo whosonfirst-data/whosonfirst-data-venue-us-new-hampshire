@@ -1,0 +1,73 @@
+{
+  "id": 873849341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472205,43.531003,-71.472205,43.531003",
+    "geom:latitude":43.531003,
+    "geom:longitude":-71.472205,
+    "iso:country":"US",
+    "sg:address":"745 N Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 2781",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wObZ20hjteTcN1Iw9zOQR_43.531003_-71.472205@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298799,
+    "wof:geomhash":"68f39b173b2c314065992dcbb5dab544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873849341
+        }
+    ],
+    "wof:id":873849341,
+    "wof:lastmodified":1464298799,
+    "wof:name":"Laconia Physical Therapy",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.472205,
+    43.531003,
+    -71.472205,
+    43.531003
+],
+  "geometry": {"coordinates":[-71.472205,43.531003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873928315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.587196,43.266998,-71.587196,43.266998",
+    "geom:latitude":43.266998,
+    "geom:longitude":-71.587196,
+    "iso:country":"US",
+    "sg:address":"27 Village St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 6687",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D8RCJ3kaUu7L3J7HW7bXp_43.266998_-71.587196@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300375,
+    "wof:geomhash":"4d55787b5301fe3ef88d9407ddc4e056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928315
+        }
+    ],
+    "wof:id":873928315,
+    "wof:lastmodified":1464300375,
+    "wof:name":"Labranche Francis DDS",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.587196,
+    43.266998,
+    -71.587196,
+    43.266998
+],
+  "geometry": {"coordinates":[-71.58719600000001,43.266998],"type":"Point"}
+}

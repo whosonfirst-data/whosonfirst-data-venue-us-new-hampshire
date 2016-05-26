@@ -1,0 +1,69 @@
+{
+  "id": 873575593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.120446,43.805294,-71.120446,43.805294",
+    "geom:latitude":43.805294,
+    "geom:longitude":-71.120446,
+    "iso:country":"US",
+    "sg:address":"184 Pequawket Trl",
+    "sg:city":"Freedom",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 2725",
+    "sg:postcode":"03836",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51qp2B03mI3Vb9N43GvAk5_43.805294_-71.120446@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294670,
+    "wof:geomhash":"0a4077ed534fdd273c526c7cad1e4a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873575593
+        }
+    ],
+    "wof:id":873575593,
+    "wof:lastmodified":1464294670,
+    "wof:name":"Kondrat Kustoms",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.120446,
+    43.805294,
+    -71.120446,
+    43.805294
+],
+  "geometry": {"coordinates":[-71.120446,43.805294],"type":"Point"}
+}

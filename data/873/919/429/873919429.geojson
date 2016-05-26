@@ -1,0 +1,78 @@
+{
+  "id": 873919429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.759719,43.0765,-70.759719,43.0765",
+    "geom:latitude":43.0765,
+    "geom:longitude":-70.759719,
+    "iso:country":"US",
+    "sg:address":"29 Vaughan Mall",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/129628-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 431 2354",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892291,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20dRcdpAmJBM9zCHxe80tN_43.077074_-70.760064@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300202,
+    "wof:geomhash":"9e20fc5eebc5d33daf9d452b882de6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892291,
+            "region_id":85688689,
+            "venue_id":873919429
+        }
+    ],
+    "wof:id":873919429,
+    "wof:lastmodified":1464300202,
+    "wof:name":"Subway",
+    "wof:parent_id":85892291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.759719,
+    43.0765,
+    -70.759719,
+    43.0765
+],
+  "geometry": {"coordinates":[-70.759719,43.0765],"type":"Point"}
+}

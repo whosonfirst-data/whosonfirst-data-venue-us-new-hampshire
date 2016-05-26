@@ -1,0 +1,79 @@
+{
+  "id": 873594841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.556268,43.226785,-71.556268,43.226785",
+    "geom:latitude":43.226785,
+    "geom:longitude":-71.556268,
+    "iso:country":"US",
+    "sg:address":"281 N State St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 271 1801",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c1XC6iSxT9M57IUMIkdqA_43.226785_-71.556268@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294900,
+    "wof:geomhash":"f0669260a564645b6cf9a4dfa301d5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873594841
+        }
+    ],
+    "wof:id":873594841,
+    "wof:lastmodified":1464294900,
+    "wof:name":"State Prison",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -71.556268,
+    43.226785,
+    -71.556268,
+    43.226785
+],
+  "geometry": {"coordinates":[-71.556268,43.226785],"type":"Point"}
+}

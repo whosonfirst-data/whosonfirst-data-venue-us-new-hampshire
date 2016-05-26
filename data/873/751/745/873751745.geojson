@@ -1,0 +1,73 @@
+{
+  "id": 873751745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463196,43.534607,-71.463196,43.534607",
+    "geom:latitude":43.534607,
+    "geom:longitude":-71.463196,
+    "iso:country":"US",
+    "sg:address":"328 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 7742",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hsuCmQTXRZv3731J9lPrq_43.534607_-71.463196@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297097,
+    "wof:geomhash":"73cbba2561c62d69f99377e2c6c92101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873751745
+        }
+    ],
+    "wof:id":873751745,
+    "wof:lastmodified":1464297097,
+    "wof:name":"Corner Bridge Cmnty Support",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.463196,
+    43.534607,
+    -71.463196,
+    43.534607
+],
+  "geometry": {"coordinates":[-71.463196,43.534607],"type":"Point"}
+}

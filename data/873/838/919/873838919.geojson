@@ -1,0 +1,71 @@
+{
+  "id": 873838919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.950966,43.275195,-71.950966,43.275195",
+    "geom:latitude":43.275195,
+    "geom:longitude":-71.950966,
+    "iso:country":"US",
+    "sg:address":"2005 State Rte 114",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2623",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iohIY9wTwrdwviWYYDUyW_43.275195_-71.950966@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298523,
+    "wof:geomhash":"d742382ad1f30458ae2ee1f81336c3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873838919
+        }
+    ],
+    "wof:id":873838919,
+    "wof:lastmodified":1464298523,
+    "wof:name":"Autocraft",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.950966,
+    43.275195,
+    -71.950966,
+    43.275195
+],
+  "geometry": {"coordinates":[-71.95096599999999,43.275195],"type":"Point"}
+}

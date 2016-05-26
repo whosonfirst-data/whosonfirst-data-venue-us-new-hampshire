@@ -1,0 +1,82 @@
+{
+  "id": 873766763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48005,42.77447,-71.48005,42.77447",
+    "geom:latitude":42.77447,
+    "geom:longitude":-71.48005,
+    "iso:country":"US",
+    "sg:address":"11 Plymouth Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 8285",
+    "sg:postcode":"03064",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892287,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VcEKIiK1GdcDNPIIxl90V_42.774470_-71.480050@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297322,
+    "wof:geomhash":"402eada266b45bbadb8a9d09156099d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892287,
+            "region_id":85688689,
+            "venue_id":873766763
+        }
+    ],
+    "wof:id":873766763,
+    "wof:lastmodified":1464297322,
+    "wof:name":"Farrell S R Machine Tool Svc",
+    "wof:parent_id":85892287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "tool"
+    ]
+},
+  "bbox": [
+    -71.48005,
+    42.77447,
+    -71.48005,
+    42.77447
+],
+  "geometry": {"coordinates":[-71.48005000000001,42.77447],"type":"Point"}
+}

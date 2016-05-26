@@ -1,0 +1,89 @@
+{
+  "id": 873925015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.165062,43.039532,-71.165062,43.039532",
+    "geom:latitude":43.039532,
+    "geom:longitude":-71.165062,
+    "iso:country":"US",
+    "sg:address":"85 Route 27",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 4441",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plate",
+        "glazier",
+        "glass-auto",
+        "window",
+        "windshield",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08TVXXE7mY9AXKNlJWJ87v_43.039532_-71.165062@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300304,
+    "wof:geomhash":"fcf0cfcd546eaf867386b970088d886e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873925015
+        }
+    ],
+    "wof:id":873925015,
+    "wof:lastmodified":1464300304,
+    "wof:name":"Glass Walls",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glazier",
+        "glass-auto",
+        "window",
+        "windshield",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -71.165062,
+    43.039532,
+    -71.165062,
+    43.039532
+],
+  "geometry": {"coordinates":[-71.16506200000001,43.039532],"type":"Point"}
+}

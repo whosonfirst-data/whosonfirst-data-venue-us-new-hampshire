@@ -1,0 +1,71 @@
+{
+  "id": 873906019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463117,43.533645,-71.463117,43.533645",
+    "geom:latitude":43.533645,
+    "geom:longitude":-71.463117,
+    "iso:country":"US",
+    "sg:address":"306 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0521",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EQz4PRVuc2G8CrdBDkA4b_43.533645_-71.463117@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299940,
+    "wof:geomhash":"a36943524ec2cdc8a0c0c580ce3e2804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873906019
+        }
+    ],
+    "wof:id":873906019,
+    "wof:lastmodified":1464299940,
+    "wof:name":"Laconia Parks & Rec Mntnc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.463117,
+    43.533645,
+    -71.463117,
+    43.533645
+],
+  "geometry": {"coordinates":[-71.463117,43.533645],"type":"Point"}
+}

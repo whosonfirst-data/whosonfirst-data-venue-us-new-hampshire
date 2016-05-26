@@ -1,0 +1,79 @@
+{
+  "id": 873782273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409465,43.577847,-71.409465,43.577847",
+    "geom:latitude":43.577847,
+    "geom:longitude":-71.409465,
+    "iso:country":"US",
+    "sg:address":"72 Meadowbrook Ln",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 4700",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65R7NR1nkuUdRw4kedP3zk_43.577847_-71.409465@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297522,
+    "wof:geomhash":"f83001c51e6dd5f74f807e918065fd95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873782273
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873782273
+        }
+    ],
+    "wof:id":873782273,
+    "wof:lastmodified":1464297522,
+    "wof:name":"Meadowbrook Farm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -71.409465,
+    43.577847,
+    -71.409465,
+    43.577847
+],
+  "geometry": {"coordinates":[-71.409465,43.577847],"type":"Point"}
+}

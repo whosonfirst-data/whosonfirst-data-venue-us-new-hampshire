@@ -1,0 +1,73 @@
+{
+  "id": 873787297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.202155,42.746709,-71.202155,42.746709",
+    "geom:latitude":42.746709,
+    "geom:longitude":-71.202155,
+    "iso:country":"US",
+    "sg:address":"471 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 9342",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uYO931aaHrWAsXOXA0fge_42.746709_-71.202155@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297593,
+    "wof:geomhash":"6d15db9ac27d1c6981b705865eae67ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873787297
+        }
+    ],
+    "wof:id":873787297,
+    "wof:lastmodified":1464297593,
+    "wof:name":"De Colores Christian Bookstore",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.202155,
+    42.746709,
+    -71.202155,
+    42.746709
+],
+  "geometry": {"coordinates":[-71.202155,42.746709],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873748465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.883931,42.963114,-70.883931,42.963114",
+    "geom:latitude":42.963114,
+    "geom:longitude":-70.883931,
+    "iso:country":"US",
+    "sg:address":"663 Exeter Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 929 4975",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "show"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815141,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L05kc7WwBHRoWuXpFB79E_42.963114_-70.883931@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297055,
+    "wof:geomhash":"63253cfb4aeffa62cd09f07bf5eb10aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85815141,
+            "region_id":85688689,
+            "venue_id":873748465
+        }
+    ],
+    "wof:id":873748465,
+    "wof:lastmodified":1464297055,
+    "wof:name":"Seacoast Area Feline Education",
+    "wof:parent_id":85815141,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "show"
+    ]
+},
+  "bbox": [
+    -70.883931,
+    42.963114,
+    -70.883931,
+    42.963114
+],
+  "geometry": {"coordinates":[-70.883931,42.963114],"type":"Point"}
+}

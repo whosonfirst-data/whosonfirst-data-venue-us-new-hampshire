@@ -1,0 +1,69 @@
+{
+  "id": 873796861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.826182,44.31593,-71.826182,44.31593",
+    "geom:latitude":44.31593,
+    "geom:longitude":-71.826182,
+    "iso:country":"US",
+    "sg:address":"580 Saint Johnsbury Rd",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2803",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MFpQiquqz02BChZ8ydFkV_44.315930_-71.826182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297736,
+    "wof:geomhash":"1333c5ea1c9e87c8b9ef7b5f3431d1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873796861
+        }
+    ],
+    "wof:id":873796861,
+    "wof:lastmodified":1464297736,
+    "wof:name":"North Country Pediatrics",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.826182,
+    44.31593,
+    -71.826182,
+    44.31593
+],
+  "geometry": {"coordinates":[-71.826182,44.31593],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873918953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42844,42.752936,-71.42844,42.752936",
+    "geom:latitude":42.752936,
+    "geom:longitude":-71.42844,
+    "iso:country":"US",
+    "sg:address":"94 Lowell Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/hudson/26359-hudson-house-of-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 0444",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OwwI3yfdslSTN3oim6SGf_42.752831_-71.428807@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300194,
+    "wof:geomhash":"db0d15ab72e0bad64b6422f5d38a3f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873918953
+        }
+    ],
+    "wof:id":873918953,
+    "wof:lastmodified":1464300194,
+    "wof:name":"Hudson House of Pizza",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.42844,
+    42.752936,
+    -71.42844,
+    42.752936
+],
+  "geometry": {"coordinates":[-71.42843999999999,42.752936],"type":"Point"}
+}

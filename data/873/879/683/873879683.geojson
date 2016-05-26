@@ -1,0 +1,73 @@
+{
+  "id": 873879683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.035373,44.150312,-72.035373,44.150312",
+    "geom:latitude":44.150312,
+    "geom:longitude":-72.035373,
+    "iso:country":"US",
+    "sg:address":"119 Central St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 2051",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yomV6KNDsodcPrFn7hnU4_44.150312_-72.035373@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299426,
+    "wof:geomhash":"85411b79e3419af081323f547087b571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873879683
+        }
+    ],
+    "wof:id":873879683,
+    "wof:lastmodified":1464299426,
+    "wof:name":"Chamberlin's Greenhouses",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gift"
+    ]
+},
+  "bbox": [
+    -72.035373,
+    44.150312,
+    -72.035373,
+    44.150312
+],
+  "geometry": {"coordinates":[-72.03537300000001,44.150312],"type":"Point"}
+}

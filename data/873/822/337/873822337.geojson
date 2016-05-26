@@ -1,0 +1,71 @@
+{
+  "id": 873822337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518328,43.192148,-71.518328,43.192148",
+    "geom:latitude":43.192148,
+    "geom:longitude":-71.518328,
+    "iso:country":"US",
+    "sg:address":"30 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 5787",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automotive",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnkAfWuNCd8DmSTdzqjRs_43.192148_-71.518328@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298170,
+    "wof:geomhash":"68acc36dccfbd373ae1c25eec10602c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873822337
+        }
+    ],
+    "wof:id":873822337,
+    "wof:lastmodified":1464298170,
+    "wof:name":"Johnsons Performance Center",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.518328,
+    43.192148,
+    -71.518328,
+    43.192148
+],
+  "geometry": {"coordinates":[-71.518328,43.192148],"type":"Point"}
+}

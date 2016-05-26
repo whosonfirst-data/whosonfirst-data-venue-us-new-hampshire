@@ -1,0 +1,69 @@
+{
+  "id": 873774979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299033,42.805838,-71.299033,42.805838",
+    "geom:latitude":42.805838,
+    "geom:longitude":-71.299033,
+    "iso:country":"US",
+    "sg:address":"3 N Lowell Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 5075",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jvOCaie6d9eKXSCRH18JN_42.805838_-71.299033@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297425,
+    "wof:geomhash":"839fe1737f3c0a9c2d52ec69b43b47ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873774979
+        }
+    ],
+    "wof:id":873774979,
+    "wof:lastmodified":1464297425,
+    "wof:name":"Windham Town Clerk",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.299033,
+    42.805838,
+    -71.299033,
+    42.805838
+],
+  "geometry": {"coordinates":[-71.29903299999999,42.805838],"type":"Point"}
+}

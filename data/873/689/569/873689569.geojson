@@ -1,0 +1,74 @@
+{
+  "id": 873689569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476374,43.525437,-71.476374,43.525437",
+    "geom:latitude":43.525437,
+    "geom:longitude":-71.476374,
+    "iso:country":"US",
+    "sg:address":"202 Water St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 0388",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.des.state.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OBPXolm4g2Vd1zoNrCXEX_43.525437_-71.476374@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296262,
+    "wof:geomhash":"289dfef8e06e561282714e9013196486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873689569
+        }
+    ],
+    "wof:id":873689569,
+    "wof:lastmodified":1464296262,
+    "wof:name":"Waste Water Treatment Plant",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.476374,
+    43.525437,
+    -71.476374,
+    43.525437
+],
+  "geometry": {"coordinates":[-71.47637400000001,43.525437],"type":"Point"}
+}

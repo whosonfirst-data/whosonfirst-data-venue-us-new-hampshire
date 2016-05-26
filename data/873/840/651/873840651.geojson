@@ -1,0 +1,73 @@
+{
+  "id": 873840651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197087,44.480409,-71.197087,44.480409",
+    "geom:latitude":44.480409,
+    "geom:longitude":-71.197087,
+    "iso:country":"US",
+    "sg:address":"30 Jericho Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1040",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xhPiwdYV1HsMgLxVRlDB7_44.480409_-71.197087@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298566,
+    "wof:geomhash":"1dfd62f0467f7f306ca3355b3291d757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873840651
+        }
+    ],
+    "wof:id":873840651,
+    "wof:lastmodified":1464298566,
+    "wof:name":"P & L Auto Parts",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -71.197087,
+    44.480409,
+    -71.197087,
+    44.480409
+],
+  "geometry": {"coordinates":[-71.197087,44.480409],"type":"Point"}
+}

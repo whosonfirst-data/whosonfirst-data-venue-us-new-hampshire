@@ -1,0 +1,71 @@
+{
+  "id": 873680875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.341258,42.871863,-72.341258,42.871863",
+    "geom:latitude":42.871863,
+    "geom:longitude":-72.341258,
+    "iso:country":"US",
+    "sg:address":"109 West St",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 5333",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85857135,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZYp2SNYT6Ry8HwPqY0Ew2_42.871863_-72.341258@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296019,
+    "wof:geomhash":"7d03ca6f85b4397149098e6ee6db7d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85857135,
+            "region_id":85688689,
+            "venue_id":873680875
+        }
+    ],
+    "wof:id":873680875,
+    "wof:lastmodified":1464296019,
+    "wof:name":"Dan Nesbitt's Auto Repair",
+    "wof:parent_id":85857135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.341258,
+    42.871863,
+    -72.341258,
+    42.871863
+],
+  "geometry": {"coordinates":[-72.341258,42.871863],"type":"Point"}
+}

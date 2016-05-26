@@ -1,0 +1,65 @@
+{
+  "id": 873932825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.119847,44.030018,-71.119847,44.030018",
+    "geom:latitude":44.030018,
+    "geom:longitude":-71.119847,
+    "iso:country":"US",
+    "sg:address":"Rte 16",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6108",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:website":"www.friendlys.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6lo1FT16AovThdMkJ8id_44.030018_-71.119847@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300461,
+    "wof:geomhash":"679f3a31773c26994b982ca51c71eb6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932825
+        }
+    ],
+    "wof:id":873932825,
+    "wof:lastmodified":1464300461,
+    "wof:name":"Friendly's Restaurant",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.119847,
+    44.030018,
+    -71.119847,
+    44.030018
+],
+  "geometry": {"coordinates":[-71.11984699999999,44.030018],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873777747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.988643,43.300884,-70.988643,43.300884",
+    "geom:latitude":43.300884,
+    "geom:longitude":-70.988643,
+    "iso:country":"US",
+    "sg:address":"86 Washington St",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 0286",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KE7KQSX6W4ukBGVndrMc9_43.300884_-70.988643@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297460,
+    "wof:geomhash":"e9d5426b2f539a11f21ca0d7c74aa2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873777747
+        }
+    ],
+    "wof:id":873777747,
+    "wof:lastmodified":1464297460,
+    "wof:name":"Rochester Radiator & A/C LLC",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -70.988643,
+    43.300884,
+    -70.988643,
+    43.300884
+],
+  "geometry": {"coordinates":[-70.988643,43.300884],"type":"Point"}
+}

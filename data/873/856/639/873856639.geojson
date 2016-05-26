@@ -1,0 +1,77 @@
+{
+  "id": 873856639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.907687,42.987267,-70.907687,42.987267",
+    "geom:latitude":42.987267,
+    "geom:longitude":-70.907687,
+    "iso:country":"US",
+    "sg:address":"67 Stratham Heights Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4348",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "farm",
+        "field",
+        "horse",
+        "training",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bux1UMxDkI0qwKvQvtoRm_42.987267_-70.907687@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298946,
+    "wof:geomhash":"bde8f25fdf8e64a1bc401c187e8d1936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873856639
+        }
+    ],
+    "wof:id":873856639,
+    "wof:lastmodified":1464298946,
+    "wof:name":"Evergreen Farm Inc",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "field",
+        "horse",
+        "training",
+        "crop"
+    ]
+},
+  "bbox": [
+    -70.907687,
+    42.987267,
+    -70.907687,
+    42.987267
+],
+  "geometry": {"coordinates":[-70.907687,42.987267],"type":"Point"}
+}

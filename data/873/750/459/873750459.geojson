@@ -1,0 +1,71 @@
+{
+  "id": 873750459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.910425,43.038696,-70.910425,43.038696",
+    "geom:latitude":43.038696,
+    "geom:longitude":-70.910425,
+    "iso:country":"US",
+    "sg:address":"41 Squamscott Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 773 0001",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M6iJ8bqpw7Owx0UVA0bYe_43.038696_-70.910425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297080,
+    "wof:geomhash":"08ab86130f32941461cccca1895b91a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873750459
+        }
+    ],
+    "wof:id":873750459,
+    "wof:lastmodified":1464297080,
+    "wof:name":"Mcnulty Landscaping",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.910425,
+    43.038696,
+    -70.910425,
+    43.038696
+],
+  "geometry": {"coordinates":[-70.910425,43.038696],"type":"Point"}
+}

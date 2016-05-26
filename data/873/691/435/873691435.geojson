@@ -1,0 +1,71 @@
+{
+  "id": 873691435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241365,42.763128,-71.241365,42.763128",
+    "geom:latitude":42.763128,
+    "geom:longitude":-71.241365,
+    "iso:country":"US",
+    "sg:address":"14 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2606",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "commercial",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OFTmJb0IYqGvI7O3vGJlJ_42.763128_-71.241365@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296309,
+    "wof:geomhash":"8bc1c171e1ef5925391255e141f8c43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873691435
+        }
+    ],
+    "wof:id":873691435,
+    "wof:lastmodified":1464296309,
+    "wof:name":"Chamberlain Companies Inc",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -71.241365,
+    42.763128,
+    -71.241365,
+    42.763128
+],
+  "geometry": {"coordinates":[-71.241365,42.763128],"type":"Point"}
+}

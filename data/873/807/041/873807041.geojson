@@ -1,0 +1,71 @@
+{
+  "id": 873807041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446989,43.067392,-71.446989,43.067392",
+    "geom:latitude":43.067392,
+    "geom:longitude":-71.446989,
+    "iso:country":"US",
+    "sg:address":"3 Dartmouth St",
+    "sg:city":"Hooksett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 5233",
+    "sg:postcode":"03106",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832711,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qwelsx2XcYCcQ9kRixzTZ_43.067392_-71.446989@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297872,
+    "wof:geomhash":"86ca142a8a15e3457591ee3672f4dac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85832711,
+            "region_id":85688689,
+            "venue_id":873807041
+        }
+    ],
+    "wof:id":873807041,
+    "wof:lastmodified":1464297872,
+    "wof:name":"Armand E Lemire Co",
+    "wof:parent_id":85832711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.446989,
+    43.067392,
+    -71.446989,
+    43.067392
+],
+  "geometry": {"coordinates":[-71.446989,43.067392],"type":"Point"}
+}

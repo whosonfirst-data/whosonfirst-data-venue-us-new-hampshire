@@ -1,0 +1,71 @@
+{
+  "id": 873928607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599297,43.282299,-71.599297,43.282299",
+    "geom:latitude":43.282299,
+    "geom:longitude":-71.599297,
+    "iso:country":"US",
+    "sg:address":"N Main",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 6631",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hr25qQKbmKVISlyOpLYJR_43.282299_-71.599297@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300381,
+    "wof:geomhash":"24d05020b725eea28cb1c3dc86447f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928607
+        }
+    ],
+    "wof:id":873928607,
+    "wof:lastmodified":1464300381,
+    "wof:name":"Alan's of Boscawen Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -71.599297,
+    43.282299,
+    -71.599297,
+    43.282299
+],
+  "geometry": {"coordinates":[-71.59929700000001,43.282299],"type":"Point"}
+}

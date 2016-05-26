@@ -1,0 +1,71 @@
+{
+  "id": 873703311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.977786,43.202835,-70.977786,43.202835",
+    "geom:latitude":43.202835,
+    "geom:longitude":-70.977786,
+    "iso:country":"US",
+    "sg:address":"52 Ham Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 750 7555",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X1HQAAJTvm9AjzKKvAN71_43.202835_-70.977786@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296438,
+    "wof:geomhash":"5ab558f0d8f0c3ba999ef0c7406766f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873703311
+        }
+    ],
+    "wof:id":873703311,
+    "wof:lastmodified":1464296438,
+    "wof:name":"Barnett & Sons Foundations",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.977786,
+    43.202835,
+    -70.977786,
+    43.202835
+],
+  "geometry": {"coordinates":[-70.97778599999999,43.202835],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873580629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.171111,42.823974,-71.171111,42.823974",
+    "geom:latitude":42.823974,
+    "geom:longitude":-71.171111,
+    "iso:country":"US",
+    "sg:address":"35 Providence Hill Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5657",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wg1dewJjj75oWenEweZ88_42.823974_-71.171111@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294727,
+    "wof:geomhash":"b9976e2145c3c6827e4045fccb0550c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873580629
+        }
+    ],
+    "wof:id":873580629,
+    "wof:lastmodified":1464294727,
+    "wof:name":"Bunting's Auto Body",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.171111,
+    42.823974,
+    -71.171111,
+    42.823974
+],
+  "geometry": {"coordinates":[-71.171111,42.823974],"type":"Point"}
+}

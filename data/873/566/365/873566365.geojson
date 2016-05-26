@@ -1,0 +1,69 @@
+{
+  "id": 873566365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.023508,42.81473,-72.023508,42.81473",
+    "geom:latitude":42.81473,
+    "geom:longitude":-72.023508,
+    "iso:country":"US",
+    "sg:address":"6 River St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7406",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qxq6zrED7RN5kU2aWTiai_42.814730_-72.023508@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"fb7a9419dc9cd297f6fd6f3169566e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873566365
+        }
+    ],
+    "wof:id":873566365,
+    "wof:lastmodified":1464294570,
+    "wof:name":"Stan's Barber Shop",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.023508,
+    42.81473,
+    -72.023508,
+    42.81473
+],
+  "geometry": {"coordinates":[-72.02350800000001,42.81473],"type":"Point"}
+}

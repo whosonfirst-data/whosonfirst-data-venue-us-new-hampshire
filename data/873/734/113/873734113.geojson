@@ -1,0 +1,71 @@
+{
+  "id": 873734113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562307,44.364875,-71.562307,44.364875",
+    "geom:latitude":44.364875,
+    "geom:longitude":-71.562307,
+    "iso:country":"US",
+    "sg:address":"178 Colby Rd",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 3048",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85824449,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mc6PhTlWNSIRzv25d3PhJ_44.364875_-71.562307@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296834,
+    "wof:geomhash":"77632dc84e66503e94d648955a93b23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85824449,
+            "region_id":85688689,
+            "venue_id":873734113
+        }
+    ],
+    "wof:id":873734113,
+    "wof:lastmodified":1464296834,
+    "wof:name":"Rexford Constructions",
+    "wof:parent_id":85824449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.562307,
+    44.364875,
+    -71.562307,
+    44.364875
+],
+  "geometry": {"coordinates":[-71.562307,44.364875],"type":"Point"}
+}

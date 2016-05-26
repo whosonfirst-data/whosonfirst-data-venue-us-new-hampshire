@@ -1,0 +1,74 @@
+{
+  "id": 873930503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.152632,42.822483,-71.152632,42.822483",
+    "geom:latitude":42.822483,
+    "geom:longitude":-71.152632,
+    "iso:country":"US",
+    "sg:address":"5 Scottsdale Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 6046",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ],
+    "sg:website":"http://www.turnkeyelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65IKmNNS1gUhBWovkM4Iuj_42.822483_-71.152632@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300420,
+    "wof:geomhash":"23dd1ce3dc798d08ea9c82867664175c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873930503
+        }
+    ],
+    "wof:id":873930503,
+    "wof:lastmodified":1464300420,
+    "wof:name":"United Power Group",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "equipment",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.152632,
+    42.822483,
+    -71.152632,
+    42.822483
+],
+  "geometry": {"coordinates":[-71.152632,42.822483],"type":"Point"}
+}

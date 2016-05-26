@@ -1,0 +1,73 @@
+{
+  "id": 873910165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191301,44.477675,-71.191301,44.477675",
+    "geom:latitude":44.477675,
+    "geom:longitude":-71.191301,
+    "iso:country":"US",
+    "sg:address":"203 Wight St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3252",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0be6QkXjhgnxjpNhoZWcbN_44.477675_-71.191301@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300016,
+    "wof:geomhash":"07786765c173e5b941ed63b635d8c00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873910165
+        }
+    ],
+    "wof:id":873910165,
+    "wof:lastmodified":1464300016,
+    "wof:name":"Roy Normand Water Pumps",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.191301,
+    44.477675,
+    -71.191301,
+    44.477675
+],
+  "geometry": {"coordinates":[-71.191301,44.477675],"type":"Point"}
+}

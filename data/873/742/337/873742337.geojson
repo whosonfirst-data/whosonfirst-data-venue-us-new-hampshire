@@ -1,0 +1,77 @@
+{
+  "id": 873742337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453054,42.978332,-71.453054,42.978332",
+    "geom:latitude":42.978332,
+    "geom:longitude":-71.453054,
+    "iso:country":"US",
+    "sg:address":"186 Maple St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 3133",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ciXrptWsQEyCXKGBjrixd_42.978332_-71.453054@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296961,
+    "wof:geomhash":"6ab09c21da47bd387ec3ce4cd2f2ff59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873742337
+        }
+    ],
+    "wof:id":873742337,
+    "wof:lastmodified":1464296961,
+    "wof:name":"Bob's Locksmith Shop",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.453054,
+    42.978332,
+    -71.453054,
+    42.978332
+],
+  "geometry": {"coordinates":[-71.45305399999999,42.978332],"type":"Point"}
+}

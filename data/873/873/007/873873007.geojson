@@ -1,0 +1,71 @@
+{
+  "id": 873873007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.72756,44.377777,-71.72756,44.377777",
+    "geom:latitude":44.377777,
+    "geom:longitude":-71.72756,
+    "iso:country":"US",
+    "sg:address":"295 Harriman Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2446",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62xwyl5Be2cgFzIJXFjGsC_44.377777_-71.727560@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299298,
+    "wof:geomhash":"924f1aef2417100df340f1bd5a86eb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873873007
+        }
+    ],
+    "wof:id":873873007,
+    "wof:lastmodified":1464299298,
+    "wof:name":"Henry's Electric",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.72756,
+    44.377777,
+    -71.72756,
+    44.377777
+],
+  "geometry": {"coordinates":[-71.72756,44.377777],"type":"Point"}
+}

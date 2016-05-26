@@ -1,0 +1,71 @@
+{
+  "id": 873657421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272288,45.126332,-71.272288,45.126332",
+    "geom:latitude":45.126332,
+    "geom:longitude":-71.272288,
+    "iso:country":"US",
+    "sg:address":"78 Round Pond Rd",
+    "sg:city":"Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 538 7001",
+    "sg:postcode":"03592",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852029,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E2xJdncmUA2BbUpGgVy8W_45.126332_-71.272288@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295672,
+    "wof:geomhash":"6130324255b891719b262e54ac186a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85852029,
+            "region_id":85688689,
+            "venue_id":873657421
+        }
+    ],
+    "wof:id":873657421,
+    "wof:lastmodified":1464295672,
+    "wof:name":"Pathfinders Snow Tours",
+    "wof:parent_id":85852029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -71.272288,
+    45.126332,
+    -71.272288,
+    45.126332
+],
+  "geometry": {"coordinates":[-71.272288,45.126332],"type":"Point"}
+}

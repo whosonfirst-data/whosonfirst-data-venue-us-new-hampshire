@@ -1,0 +1,71 @@
+{
+  "id": 873807009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.255481,42.75535,-71.255481,42.75535",
+    "geom:latitude":42.75535,
+    "geom:longitude":-71.255481,
+    "iso:country":"US",
+    "sg:address":"34 Golden Oaks Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 6757",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50u5qyPJkw1pRa1z3E9pnh_42.755350_-71.255481@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297872,
+    "wof:geomhash":"1c5cbab387f8df136c0e3fb4b000d653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873807009
+        }
+    ],
+    "wof:id":873807009,
+    "wof:lastmodified":1464297872,
+    "wof:name":"Prime Products Co",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.255481,
+    42.75535,
+    -71.255481,
+    42.75535
+],
+  "geometry": {"coordinates":[-71.255481,42.75535],"type":"Point"}
+}

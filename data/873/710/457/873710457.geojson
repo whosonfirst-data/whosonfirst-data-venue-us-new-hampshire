@@ -1,0 +1,75 @@
+{
+  "id": 873710457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.240704,42.971247,-71.240704,42.971247",
+    "geom:latitude":42.971247,
+    "geom:longitude":-71.240704,
+    "iso:country":"US",
+    "sg:address":"268 Raymond Rd",
+    "sg:city":"Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 887 2133",
+    "sg:postcode":"03036",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uTudeajsl64OXGb2ZBi0t_42.971247_-71.240704@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296526,
+    "wof:geomhash":"1047f396b2b536cc9758ba7bd77e3580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873710457
+        }
+    ],
+    "wof:id":873710457,
+    "wof:lastmodified":1464296526,
+    "wof:name":"Chester Highway Dept Garage",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.240704,
+    42.971247,
+    -71.240704,
+    42.971247
+],
+  "geometry": {"coordinates":[-71.24070399999999,42.971247],"type":"Point"}
+}

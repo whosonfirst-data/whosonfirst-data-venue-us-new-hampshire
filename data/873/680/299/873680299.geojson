@@ -1,0 +1,71 @@
+{
+  "id": 873680299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.591357,43.335271,-71.591357,43.335271",
+    "geom:latitude":43.335271,
+    "geom:longitude":-71.591357,
+    "iso:country":"US",
+    "sg:address":"35 Fife Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 9886",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VxI5f6vFZmqNkxtbQosxP_43.335271_-71.591357@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296004,
+    "wof:geomhash":"11724f3af043ea1acfe9568d86fa995f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873680299
+        }
+    ],
+    "wof:id":873680299,
+    "wof:lastmodified":1464296004,
+    "wof:name":"Grand View Farm",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.591357,
+    43.335271,
+    -71.591357,
+    43.335271
+],
+  "geometry": {"coordinates":[-71.591357,43.335271],"type":"Point"}
+}

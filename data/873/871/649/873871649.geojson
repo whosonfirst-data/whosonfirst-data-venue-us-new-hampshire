@@ -1,0 +1,69 @@
+{
+  "id": 873871649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.21144,42.786387,-71.21144,42.786387",
+    "geom:latitude":42.786387,
+    "geom:longitude":-71.21144,
+    "iso:country":"US",
+    "sg:address":"44 Meisner Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 7221",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zcZQjss2G2t3St2U7ZBAJ_42.786387_-71.211440@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299267,
+    "wof:geomhash":"b8a9d89e2cc2479a105d81233c34753a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873871649
+        }
+    ],
+    "wof:id":873871649,
+    "wof:lastmodified":1464299267,
+    "wof:name":"John A DAgata",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.21144,
+    42.786387,
+    -71.21144,
+    42.786387
+],
+  "geometry": {"coordinates":[-71.21144,42.786387],"type":"Point"}
+}

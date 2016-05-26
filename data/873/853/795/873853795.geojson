@@ -1,0 +1,71 @@
+{
+  "id": 873853795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45851,43.52354,-71.45851,43.52354",
+    "geom:latitude":43.52354,
+    "geom:longitude":-71.45851,
+    "iso:country":"US",
+    "sg:address":"106 Warren St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4547",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdBIo5DyvekPB4X0RG34Y_43.523540_-71.458510@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298893,
+    "wof:geomhash":"23ec76b6078ac6241fd278af7a4cec60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873853795
+        }
+    ],
+    "wof:id":873853795,
+    "wof:lastmodified":1464298893,
+    "wof:name":"Helping Hands Daycare",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.45851,
+    43.52354,
+    -71.45851,
+    43.52354
+],
+  "geometry": {"coordinates":[-71.45851,43.52354],"type":"Point"}
+}

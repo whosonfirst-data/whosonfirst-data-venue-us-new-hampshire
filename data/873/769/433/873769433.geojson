@@ -1,0 +1,70 @@
+{
+  "id": 873769433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.933769,43.087315,-70.933769,43.087315",
+    "geom:latitude":43.087315,
+    "geom:longitude":-70.933769,
+    "iso:country":"US",
+    "sg:address":"10 N Main St",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2788",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.capriolipainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EHqSy9xZuUoswAmJH95Ct_43.087315_-70.933769@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297355,
+    "wof:geomhash":"36136e66e68f1887571207ced296d879",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873769433
+        }
+    ],
+    "wof:id":873769433,
+    "wof:lastmodified":1464297355,
+    "wof:name":"Caprioli Painting Inc",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -70.933769,
+    43.087315,
+    -70.933769,
+    43.087315
+],
+  "geometry": {"coordinates":[-70.933769,43.087315],"type":"Point"}
+}

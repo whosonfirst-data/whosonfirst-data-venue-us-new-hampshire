@@ -1,0 +1,69 @@
+{
+  "id": 873906819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751928,42.825305,-71.751928,42.825305",
+    "geom:latitude":42.825305,
+    "geom:longitude":-71.751928,
+    "iso:country":"US",
+    "sg:address":"133 Intervale Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 2861",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KofLc5tbrAfQyBkYqYGVp_42.825305_-71.751928@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299955,
+    "wof:geomhash":"672779f8832cc54baae7635bd22348d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873906819
+        }
+    ],
+    "wof:id":873906819,
+    "wof:lastmodified":1464299955,
+    "wof:name":"Boutwell Sharpening Service",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -71.751928,
+    42.825305,
+    -71.751928,
+    42.825305
+],
+  "geometry": {"coordinates":[-71.75192800000001,42.825305],"type":"Point"}
+}

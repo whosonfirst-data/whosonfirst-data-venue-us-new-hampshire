@@ -1,0 +1,71 @@
+{
+  "id": 873592877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.758602,43.599135,-71.758602,43.599135",
+    "geom:latitude":43.599135,
+    "geom:longitude":-71.758602,
+    "iso:country":"US",
+    "sg:address":"30 Bristol Hill Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2290",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jPBTOAzZkUXRUhTH9CWtT_43.599135_-71.758602@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294867,
+    "wof:geomhash":"9e37d7d2a9dff16913ab1af9ba5f8f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873592877
+        }
+    ],
+    "wof:id":873592877,
+    "wof:lastmodified":1464294867,
+    "wof:name":"Morrison Construction LLC",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.758602,
+    43.599135,
+    -71.758602,
+    43.599135
+],
+  "geometry": {"coordinates":[-71.758602,43.599135],"type":"Point"}
+}

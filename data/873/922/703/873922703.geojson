@@ -1,0 +1,94 @@
+{
+  "id": 873922703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649348,42.835895,-71.649348,42.835895",
+    "geom:latitude":42.835895,
+    "geom:longitude":-71.649348,
+    "iso:country":"US",
+    "sg:address":"37 Union Sq Apt A",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 673 1191",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849885,
+        102191575,
+        404477195,
+        85633793,
+        85975247,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lYHHAwvhFLCtuio531V9G_42.835895_-71.649348@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300266,
+    "wof:geomhash":"4cbdb241381c0fede6161291cbefde5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477195,
+            "locality_id":85975247,
+            "neighbourhood_id":85849885,
+            "region_id":85688689,
+            "venue_id":873922703
+        }
+    ],
+    "wof:id":873922703,
+    "wof:lastmodified":1464300266,
+    "wof:name":"Wetherbee Plumbing & Heating",
+    "wof:parent_id":85849885,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.649348,
+    42.835895,
+    -71.649348,
+    42.835895
+],
+  "geometry": {"coordinates":[-71.649348,42.835895],"type":"Point"}
+}

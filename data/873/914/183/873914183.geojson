@@ -1,0 +1,75 @@
+{
+  "id": 873914183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485748,42.995075,-71.485748,42.995075",
+    "geom:latitude":42.995075,
+    "geom:longitude":-71.485748,
+    "iso:country":"US",
+    "sg:address":"378 Kelley St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 7775",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "security",
+        "coin",
+        "merchandise",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kAH2nu9u4StsYZjapuVAt_42.994994_-71.486061@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"1c79d92df3c2739160138e8ea7f5e1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873914183
+        }
+    ],
+    "wof:id":873914183,
+    "wof:lastmodified":1464300091,
+    "wof:name":"Bob's Coins Of Manchester",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "coin",
+        "merchandise",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.485748,
+    42.995075,
+    -71.485748,
+    42.995075
+],
+  "geometry": {"coordinates":[-71.485748,42.995075],"type":"Point"}
+}

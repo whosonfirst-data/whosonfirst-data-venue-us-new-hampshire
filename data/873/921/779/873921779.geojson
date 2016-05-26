@@ -1,0 +1,83 @@
+{
+  "id": 873921779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.377077,42.870856,-71.377077,42.870856",
+    "geom:latitude":42.870856,
+    "geom:longitude":-71.377077,
+    "iso:country":"US",
+    "sg:address":"290 Mammoth Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 2801",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director",
+        "embalmer",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ],
+    "sg:website":"http://www.peabodyfuneralhome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892259,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eqmUMBir2xRXcd5ViRBjr_42.870856_-71.377077@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300243,
+    "wof:geomhash":"ea6a763f4a5ecb198cca91243a437ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892259,
+            "region_id":85688689,
+            "venue_id":873921779
+        }
+    ],
+    "wof:id":873921779,
+    "wof:lastmodified":1464300243,
+    "wof:name":"Peabody, Erik E - Peabody Funeral Homes",
+    "wof:parent_id":85892259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "embalmer",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.377077,
+    42.870856,
+    -71.377077,
+    42.870856
+],
+  "geometry": {"coordinates":[-71.377077,42.870856],"type":"Point"}
+}

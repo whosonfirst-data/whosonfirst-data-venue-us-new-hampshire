@@ -1,0 +1,77 @@
+{
+  "id": 873817003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.368877,42.791495,-71.368877,42.791495",
+    "geom:latitude":42.791495,
+    "geom:longitude":-71.368877,
+    "iso:country":"US",
+    "sg:address":"12 Bockes Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 9444",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hauler",
+        "household",
+        "good",
+        "transport",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qlw4m49rJJnJgSLKxg4wf_42.791495_-71.368877@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298059,
+    "wof:geomhash":"05707b67901adfeb24e8d5b371d2d34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873817003
+        }
+    ],
+    "wof:id":873817003,
+    "wof:lastmodified":1464298059,
+    "wof:name":"ABC Moving & Storage",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauler",
+        "household",
+        "good",
+        "transport",
+        "contract"
+    ]
+},
+  "bbox": [
+    -71.368877,
+    42.791495,
+    -71.368877,
+    42.791495
+],
+  "geometry": {"coordinates":[-71.368877,42.791495],"type":"Point"}
+}

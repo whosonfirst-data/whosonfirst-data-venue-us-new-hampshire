@@ -1,0 +1,71 @@
+{
+  "id": 873907013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47394,42.821199,-71.47394,42.821199",
+    "geom:latitude":42.821199,
+    "geom:longitude":-71.47394,
+    "iso:country":"US",
+    "sg:address":"16 Riverview Cir",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 3341",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Il0vcZHsvkeFh7GZ4fQs_42.821199_-71.473940@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299959,
+    "wof:geomhash":"a72da154b7468dacc1fa154a70a0ee67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873907013
+        }
+    ],
+    "wof:id":873907013,
+    "wof:lastmodified":1464299959,
+    "wof:name":"Colonial Lawn Care",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.47394,
+    42.821199,
+    -71.47394,
+    42.821199
+],
+  "geometry": {"coordinates":[-71.47394,42.821199],"type":"Point"}
+}

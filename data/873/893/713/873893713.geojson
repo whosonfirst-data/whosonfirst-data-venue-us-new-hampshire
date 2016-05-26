@@ -1,0 +1,71 @@
+{
+  "id": 873893713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251495,42.779797,-71.251495,42.779797",
+    "geom:latitude":42.779797,
+    "geom:longitude":-71.251495,
+    "iso:country":"US",
+    "sg:address":"5 Industrial Way",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 4906",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "optical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fTDoOGUhZYnarQdU0gcwE_42.779797_-71.251495@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299700,
+    "wof:geomhash":"e6dfbae102b36e05c880710fbfefc183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873893713
+        }
+    ],
+    "wof:id":873893713,
+    "wof:lastmodified":1464299700,
+    "wof:name":"Confluent Photonics Corp",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.251495,
+    42.779797,
+    -71.251495,
+    42.779797
+],
+  "geometry": {"coordinates":[-71.25149500000001,42.779797],"type":"Point"}
+}

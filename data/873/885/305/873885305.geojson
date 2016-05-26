@@ -1,0 +1,74 @@
+{
+  "id": 873885305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472315,43.52842,-71.472315,43.52842",
+    "geom:latitude":43.52842,
+    "geom:longitude":-71.472315,
+    "iso:country":"US",
+    "sg:address":"62 Pleasant St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1212",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "sg:website":"www.lsbdirect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZcraiqSIbUeovGO4fx4Xo_43.528420_-71.472315@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299544,
+    "wof:geomhash":"9185a814085837a2592d9d9b58e9650f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873885305
+        }
+    ],
+    "wof:id":873885305,
+    "wof:lastmodified":1464299544,
+    "wof:name":"LSB Financial",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -71.472315,
+    43.52842,
+    -71.472315,
+    43.52842
+],
+  "geometry": {"coordinates":[-71.47231499999999,43.52842],"type":"Point"}
+}

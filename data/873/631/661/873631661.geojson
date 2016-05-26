@@ -1,0 +1,69 @@
+{
+  "id": 873631661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751299,42.825297,-71.751299,42.825297",
+    "geom:latitude":42.825297,
+    "geom:longitude":-71.751299,
+    "iso:country":"US",
+    "sg:address":"22 Riverbend Way",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 2752",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ArHSdpFohIkvRcmxs1nB0_42.825297_-71.751299@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295381,
+    "wof:geomhash":"cc7ce11be65ddcfa6992a017e520ec35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873631661
+        }
+    ],
+    "wof:id":873631661,
+    "wof:lastmodified":1464295381,
+    "wof:name":"River Bend Pottery",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -71.751299,
+    42.825297,
+    -71.751299,
+    42.825297
+],
+  "geometry": {"coordinates":[-71.751299,42.825297],"type":"Point"}
+}

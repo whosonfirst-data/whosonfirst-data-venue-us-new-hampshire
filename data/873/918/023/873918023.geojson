@@ -1,0 +1,72 @@
+{
+  "id": 873918023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529313,43.175319,-71.529313,43.175319",
+    "geom:latitude":43.175319,
+    "geom:longitude":-71.529313,
+    "iso:country":"US",
+    "sg:address":"501 Route 3a",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/bow/129614-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 1406",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aWqVhTHFESMLQMO1WtHCF_43.175319_-71.529313@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300177,
+    "wof:geomhash":"a16d82c08726deeb31add9a0b35bff80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873918023
+        }
+    ],
+    "wof:id":873918023,
+    "wof:lastmodified":1464300177,
+    "wof:name":"Subway",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.529313,
+    43.175319,
+    -71.529313,
+    43.175319
+],
+  "geometry": {"coordinates":[-71.529313,43.175319],"type":"Point"}
+}

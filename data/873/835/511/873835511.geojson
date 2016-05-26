@@ -1,0 +1,71 @@
+{
+  "id": 873835511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.311536,43.006312,-71.311536,43.006312",
+    "geom:latitude":43.006312,
+    "geom:longitude":-71.311536,
+    "iso:country":"US",
+    "sg:address":"441 Chester Tpke",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8432",
+    "sg:postcode":"03032",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847833,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l8On4QWf8VafiF4rV3mDj_43.006312_-71.311536@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298455,
+    "wof:geomhash":"03c75415d663ee2fa726f7b950bfe3c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85847833,
+            "region_id":85688689,
+            "venue_id":873835511
+        }
+    ],
+    "wof:id":873835511,
+    "wof:lastmodified":1464298455,
+    "wof:name":"Dan Carpenter Rubbish Removal",
+    "wof:parent_id":85847833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.311536,
+    43.006312,
+    -71.311536,
+    43.006312
+],
+  "geometry": {"coordinates":[-71.311536,43.006312],"type":"Point"}
+}

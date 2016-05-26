@@ -1,0 +1,76 @@
+{
+  "id": 873926157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.242073,42.765251,-71.242073,42.765251",
+    "geom:latitude":42.765251,
+    "geom:longitude":-71.242073,
+    "iso:country":"US",
+    "sg:address":"1 Delaware Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 1919",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "typewriter",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61IqeYjPd2ezOsoRSjwsHh_42.765251_-71.242073@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300330,
+    "wof:geomhash":"3c1adf6f034bd9a0a627edb56f99b069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873926157
+        }
+    ],
+    "wof:id":873926157,
+    "wof:lastmodified":1464300330,
+    "wof:name":"Resource Office Furniture",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "typewriter",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.242073,
+    42.765251,
+    -71.242073,
+    42.765251
+],
+  "geometry": {"coordinates":[-71.242073,42.765251],"type":"Point"}
+}

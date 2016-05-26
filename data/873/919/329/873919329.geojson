@@ -1,0 +1,78 @@
+{
+  "id": 873919329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.277995,42.931278,-72.277995,42.931278",
+    "geom:latitude":42.931278,
+    "geom:longitude":-72.277995,
+    "iso:country":"US",
+    "sg:address":"118 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/280941-thai-garden/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 357 4567",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "thai",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FgPqachn2EOZd1mkSH7Zi_42.931052_-72.277931@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300200,
+    "wof:geomhash":"63103171e4c63619e492a724a2f4440d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873919329
+        }
+    ],
+    "wof:id":873919329,
+    "wof:lastmodified":1464300200,
+    "wof:name":"Thai Garden",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai",
+        "asian"
+    ]
+},
+  "bbox": [
+    -72.277995,
+    42.931278,
+    -72.277995,
+    42.931278
+],
+  "geometry": {"coordinates":[-72.277995,42.931278],"type":"Point"}
+}

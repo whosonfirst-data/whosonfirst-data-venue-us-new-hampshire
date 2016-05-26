@@ -1,0 +1,75 @@
+{
+  "id": 873792125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.952598,42.975429,-70.952598,42.975429",
+    "geom:latitude":42.975429,
+    "geom:longitude":-70.952598,
+    "iso:country":"US",
+    "sg:address":"34 Pine St",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 430 9780",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85827281,
+        102191575,
+        404476747,
+        85633793,
+        85975121,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11iUEuZqNbrWESiMjoVtaI_42.975429_-70.952598@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297679,
+    "wof:geomhash":"e60cb53a624b5b197b42b5727d5950f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476747,
+            "locality_id":85975121,
+            "neighbourhood_id":85827281,
+            "region_id":85688689,
+            "venue_id":873792125
+        }
+    ],
+    "wof:id":873792125,
+    "wof:lastmodified":1464297679,
+    "wof:name":"Seacoast Psychotherapy",
+    "wof:parent_id":85827281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -70.952598,
+    42.975429,
+    -70.952598,
+    42.975429
+],
+  "geometry": {"coordinates":[-70.95259799999999,42.975429],"type":"Point"}
+}

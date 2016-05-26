@@ -1,0 +1,73 @@
+{
+  "id": 873803253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404469,43.551311,-71.404469,43.551311",
+    "geom:latitude":43.551311,
+    "geom:longitude":-71.404469,
+    "iso:country":"US",
+    "sg:address":"55 Cherry Valley Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 4787",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wD9anRJ7hO3IrFxBLdvul_43.551311_-71.404469@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297812,
+    "wof:geomhash":"018ce5c5d5d47b642495ae3dbe1b8365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873803253
+        }
+    ],
+    "wof:id":873803253,
+    "wof:lastmodified":1464297812,
+    "wof:name":"Gilford Public Works Dept",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.404469,
+    43.551311,
+    -71.404469,
+    43.551311
+],
+  "geometry": {"coordinates":[-71.40446900000001,43.551311],"type":"Point"}
+}

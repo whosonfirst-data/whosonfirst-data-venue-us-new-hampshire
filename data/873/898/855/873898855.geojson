@@ -1,0 +1,71 @@
+{
+  "id": 873898855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.163088,43.80728,-72.163088,43.80728",
+    "geom:latitude":43.80728,
+    "geom:longitude":-72.163088,
+    "iso:country":"US",
+    "sg:address":"38 Union St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 2535",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E3g1kLp226o3zur7TYwEg_43.807280_-72.163088@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299797,
+    "wof:geomhash":"c95ae322c2c86632a0909fcba39eea52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873898855
+        }
+    ],
+    "wof:id":873898855,
+    "wof:lastmodified":1464299797,
+    "wof:name":"Town Council",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -72.163088,
+    43.80728,
+    -72.163088,
+    43.80728
+],
+  "geometry": {"coordinates":[-72.163088,43.80728],"type":"Point"}
+}

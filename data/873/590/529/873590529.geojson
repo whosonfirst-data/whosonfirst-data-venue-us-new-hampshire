@@ -1,0 +1,71 @@
+{
+  "id": 873590529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.232465,43.213511,-71.232465,43.213511",
+    "geom:latitude":43.213511,
+    "geom:longitude":-71.232465,
+    "iso:country":"US",
+    "sg:address":"198 Blakes Hill Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 219 3300",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_783dLOX7UciPfh2daNjmxM_43.213511_-71.232465@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294837,
+    "wof:geomhash":"b70b349f7360abad74d55fcd45ae7ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873590529
+        }
+    ],
+    "wof:id":873590529,
+    "wof:lastmodified":1464294837,
+    "wof:name":"Michael Gourley",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.232465,
+    43.213511,
+    -71.232465,
+    43.213511
+],
+  "geometry": {"coordinates":[-71.232465,43.213511],"type":"Point"}
+}

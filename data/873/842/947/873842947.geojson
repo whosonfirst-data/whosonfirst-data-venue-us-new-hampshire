@@ -1,0 +1,86 @@
+{
+  "id": 873842947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442985,42.990798,-71.442985,42.990798",
+    "geom:latitude":42.990798,
+    "geom:longitude":-71.442985,
+    "iso:country":"US",
+    "sg:address":"519 Hanover St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 647 2001",
+    "sg:postcode":"03104",
+    "sg:province":"NH",
+    "sg:tags":[
+        "field",
+        "testing",
+        "inspection",
+        "tank"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526209,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pPNW36SJiUj0bH7F9Mi9w_42.990798_-71.442985@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298631,
+    "wof:geomhash":"513f21c94689d1f146aa3d396e509d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526209,
+            "region_id":85688689,
+            "venue_id":873842947
+        }
+    ],
+    "wof:id":873842947,
+    "wof:lastmodified":1464298631,
+    "wof:name":"American Tank Management Inc",
+    "wof:parent_id":420526209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "testing",
+        "inspection",
+        "tank"
+    ]
+},
+  "bbox": [
+    -71.442985,
+    42.990798,
+    -71.442985,
+    42.990798
+],
+  "geometry": {"coordinates":[-71.44298499999999,42.990798],"type":"Point"}
+}

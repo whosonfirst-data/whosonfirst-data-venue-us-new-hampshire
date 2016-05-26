@@ -1,0 +1,71 @@
+{
+  "id": 873839999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542129,43.186896,-71.542129,43.186896",
+    "geom:latitude":43.186896,
+    "geom:longitude":-71.542129,
+    "iso:country":"US",
+    "sg:address":"2 Rundlett St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 8598",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "specializing",
+        "ski"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0li6DtBgFEcIUE8ocIymXx_43.186896_-71.542129@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298553,
+    "wof:geomhash":"bacc4e5d9f6cc48e46d627b948cd8d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873839999
+        }
+    ],
+    "wof:id":873839999,
+    "wof:lastmodified":1464298553,
+    "wof:name":"Waite Sports Specialists",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "ski"
+    ]
+},
+  "bbox": [
+    -71.542129,
+    43.186896,
+    -71.542129,
+    43.186896
+],
+  "geometry": {"coordinates":[-71.542129,43.186896],"type":"Point"}
+}

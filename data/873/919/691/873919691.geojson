@@ -1,0 +1,69 @@
+{
+  "id": 873919691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575072,42.803527,-71.575072,42.803527",
+    "geom:latitude":42.803527,
+    "geom:longitude":-71.575072,
+    "iso:country":"US",
+    "sg:address":"8 Manhattan Drive",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 594 4000",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iQOnIZJMHPBX41V4TSjyu_42.803527_-71.575072@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300206,
+    "wof:geomhash":"0fd3263ed1093845fabab9955b8d2301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873919691
+        }
+    ],
+    "wof:id":873919691,
+    "wof:lastmodified":1464300206,
+    "wof:name":"The Bread Chef",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -71.575072,
+    42.803527,
+    -71.575072,
+    42.803527
+],
+  "geometry": {"coordinates":[-71.57507200000001,42.803527],"type":"Point"}
+}

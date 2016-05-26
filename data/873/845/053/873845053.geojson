@@ -1,0 +1,71 @@
+{
+  "id": 873845053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3211,42.863389,-71.3211,42.863389",
+    "geom:latitude":42.863389,
+    "geom:longitude":-71.3211,
+    "iso:country":"US",
+    "sg:address":"84 Fordway Exd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 437 4734",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tGRpd25BVmMAsNLfK25Xa_42.863389_-71.321100@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298684,
+    "wof:geomhash":"eda71e2d39a008d157e776ca9d05026d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873845053
+        }
+    ],
+    "wof:id":873845053,
+    "wof:lastmodified":1464298684,
+    "wof:name":"Art of Stone",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.3211,
+    42.863389,
+    -71.3211,
+    42.863389
+],
+  "geometry": {"coordinates":[-71.3211,42.863389],"type":"Point"}
+}

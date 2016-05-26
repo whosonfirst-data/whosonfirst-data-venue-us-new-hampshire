@@ -1,0 +1,72 @@
+{
+  "id": 873849001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.129965,43.182568,-71.129965,43.182568",
+    "geom:latitude":43.182568,
+    "geom:longitude":-71.129965,
+    "iso:country":"US",
+    "sg:address":"77 Garland Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 335 7489",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837873,
+        102086507,
+        85838565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78yPhfcLBe6bw4BfUA9b92_43.182568_-71.129965@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298792,
+    "wof:geomhash":"89dde7da0442a5a7aa888cdb93899a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837873,
+            "region_id":85688689,
+            "venue_id":873849001
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873849001
+        }
+    ],
+    "wof:id":873849001,
+    "wof:lastmodified":1464298792,
+    "wof:name":"Rolo Hill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.129965,
+    43.182568,
+    -71.129965,
+    43.182568
+],
+  "geometry": {"coordinates":[-71.129965,43.182568],"type":"Point"}
+}

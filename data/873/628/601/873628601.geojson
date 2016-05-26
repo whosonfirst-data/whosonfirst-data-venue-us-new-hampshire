@@ -1,0 +1,71 @@
+{
+  "id": 873628601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.013415,43.062183,-71.013415,43.062183",
+    "geom:latitude":43.062183,
+    "geom:longitude":-71.013415,
+    "iso:country":"US",
+    "sg:address":"12 Camp Lee Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 2758",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85820369,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60YOsijhGgrGJoPxDcjumT_43.062183_-71.013415@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295346,
+    "wof:geomhash":"f01e44139fbf585172f505673dd0c270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85820369,
+            "region_id":85688689,
+            "venue_id":873628601
+        }
+    ],
+    "wof:id":873628601,
+    "wof:lastmodified":1464295346,
+    "wof:name":"Town Line Machine",
+    "wof:parent_id":85820369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.013415,
+    43.062183,
+    -71.013415,
+    43.062183
+],
+  "geometry": {"coordinates":[-71.01341499999999,43.062183],"type":"Point"}
+}

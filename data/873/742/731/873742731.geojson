@@ -1,0 +1,72 @@
+{
+  "id": 873742731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.733672,43.017022,-70.733672,43.017022",
+    "geom:latitude":43.017022,
+    "geom:longitude":-70.733672,
+    "iso:country":"US",
+    "sg:address":"1313 Ocean Blvd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 9000",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tool",
+        "used"
+    ],
+    "sg:website":"www.roadtools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846523,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_250HNYotUssMLdIBRkyk7n_43.017022_-70.733672@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296969,
+    "wof:geomhash":"3de13715606231239e590a788c9429c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846523,
+            "region_id":85688689,
+            "venue_id":873742731
+        }
+    ],
+    "wof:id":873742731,
+    "wof:lastmodified":1464296969,
+    "wof:name":"Road Tools",
+    "wof:parent_id":85846523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "used"
+    ]
+},
+  "bbox": [
+    -70.733672,
+    43.017022,
+    -70.733672,
+    43.017022
+],
+  "geometry": {"coordinates":[-70.733672,43.017022],"type":"Point"}
+}

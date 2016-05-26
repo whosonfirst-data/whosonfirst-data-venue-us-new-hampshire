@@ -1,0 +1,77 @@
+{
+  "id": 873818277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.804874,42.929205,-70.804874,42.929205",
+    "geom:latitude":42.929205,
+    "geom:longitude":-70.804874,
+    "iso:country":"US",
+    "sg:address":"5 Spruce St",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 4656",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837299,
+        102191575,
+        404476755,
+        85633793,
+        85975123,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ZNc7nEqQrbzl8Sh4eM2A_42.929205_-70.804874@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298085,
+    "wof:geomhash":"ec58ada87fddfa6f6a22d03d5e94dad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476755,
+            "locality_id":85975123,
+            "neighbourhood_id":85837299,
+            "region_id":85688689,
+            "venue_id":873818277
+        }
+    ],
+    "wof:id":873818277,
+    "wof:lastmodified":1464298085,
+    "wof:name":"New England Kitchens",
+    "wof:parent_id":85837299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -70.804874,
+    42.929205,
+    -70.804874,
+    42.929205
+],
+  "geometry": {"coordinates":[-70.804874,42.929205],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873828001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551668,43.023357,-71.551668,43.023357",
+    "geom:latitude":43.023357,
+    "geom:longitude":-71.551668,
+    "iso:country":"US",
+    "sg:address":"29 Center St",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 4871",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63tNN0N1thwobNHDSVLi8H_43.023357_-71.551668@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298295,
+    "wof:geomhash":"d561523451bae9e91a7ebd8b1820bf70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873828001
+        }
+    ],
+    "wof:id":873828001,
+    "wof:lastmodified":1464298295,
+    "wof:name":"Bel-Air Nursing Home",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.551668,
+    43.023357,
+    -71.551668,
+    43.023357
+],
+  "geometry": {"coordinates":[-71.55166800000001,43.023357],"type":"Point"}
+}

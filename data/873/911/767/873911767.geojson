@@ -1,0 +1,75 @@
+{
+  "id": 873911767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.169104,43.325944,-72.169104,43.325944",
+    "geom:latitude":43.325944,
+    "geom:longitude":-72.169104,
+    "iso:country":"US",
+    "sg:address":"828 State Rte 10",
+    "sg:city":"Croydon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 6916",
+    "sg:postcode":"03773",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837859,
+        102191575,
+        404477077,
+        85633793,
+        85975187,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZqsZMCGh3dPD6kLA5xvfe_43.325944_-72.169104@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300045,
+    "wof:geomhash":"058feaf3c67a22f1bd4a2a9e24a90212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477077,
+            "locality_id":85975187,
+            "neighbourhood_id":85837859,
+            "region_id":85688689,
+            "venue_id":873911767
+        }
+    ],
+    "wof:id":873911767,
+    "wof:lastmodified":1464300045,
+    "wof:name":"Croydon Fire Dept",
+    "wof:parent_id":85837859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.169104,
+    43.325944,
+    -72.169104,
+    43.325944
+],
+  "geometry": {"coordinates":[-72.169104,43.325944],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873847367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508342,42.784891,-71.508342,42.784891",
+    "geom:latitude":42.784891,
+    "geom:longitude":-71.508342,
+    "iso:country":"US",
+    "sg:address":"379 Amherst St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6245",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P1L9jvddwfeGvW467HD5l_42.784891_-71.508342@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298747,
+    "wof:geomhash":"cdc2799c2bf4824b950fea77b1578f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873847367
+        }
+    ],
+    "wof:id":873847367,
+    "wof:lastmodified":1464298747,
+    "wof:name":"Postal Center USA",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -71.508342,
+    42.784891,
+    -71.508342,
+    42.784891
+],
+  "geometry": {"coordinates":[-71.508342,42.784891],"type":"Point"}
+}

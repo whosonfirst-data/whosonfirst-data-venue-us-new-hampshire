@@ -1,0 +1,69 @@
+{
+  "id": 873563115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449351,43.712219,-71.449351,43.712219",
+    "geom:latitude":43.712219,
+    "geom:longitude":-71.449351,
+    "iso:country":"US",
+    "sg:address":"9 Bentley Rd",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 3040",
+    "sg:postcode":"03226",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85835419,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TUPhRvdkC8lzg7RGNjUxB_43.712219_-71.449351@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294532,
+    "wof:geomhash":"f0eb64f4827d485563acc7006365766d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85835419,
+            "region_id":85688689,
+            "venue_id":873563115
+        }
+    ],
+    "wof:id":873563115,
+    "wof:lastmodified":1464294532,
+    "wof:name":"Imsa Educational Foundation",
+    "wof:parent_id":85835419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -71.449351,
+    43.712219,
+    -71.449351,
+    43.712219
+],
+  "geometry": {"coordinates":[-71.44935099999999,43.712219],"type":"Point"}
+}

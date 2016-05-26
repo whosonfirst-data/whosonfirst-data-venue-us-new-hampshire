@@ -1,0 +1,87 @@
+{
+  "id": 873935045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.214748,43.585686,-71.214748,43.585686",
+    "geom:latitude":43.585686,
+    "geom:longitude":-71.214748,
+    "iso:country":"US",
+    "sg:address":"67 Mill St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 0022",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.myspace.com/271352871",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42dHluZwDrCO8UcxC9qJ7j_43.585686_-71.214748@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300501,
+    "wof:geomhash":"1a7bf8a36f906b72210a35b5daf9e230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935045
+        }
+    ],
+    "wof:id":873935045,
+    "wof:lastmodified":1464300501,
+    "wof:name":"Mill Street Meat Market",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.214748,
+    43.585686,
+    -71.214748,
+    43.585686
+],
+  "geometry": {"coordinates":[-71.214748,43.585686],"type":"Point"}
+}

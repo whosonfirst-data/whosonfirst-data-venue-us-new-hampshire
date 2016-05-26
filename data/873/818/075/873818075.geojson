@@ -1,0 +1,71 @@
+{
+  "id": 873818075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.074694,43.014611,-71.074694,43.014611",
+    "geom:latitude":43.014611,
+    "geom:longitude":-71.074694,
+    "iso:country":"US",
+    "sg:address":"453 State Rte 125",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2299",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fr5ydqLNzIWYDV4MG8mSI_43.014611_-71.074694@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298081,
+    "wof:geomhash":"cec9c768ddc190e742fbe9b297ba104d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873818075
+        }
+    ],
+    "wof:id":873818075,
+    "wof:lastmodified":1464298081,
+    "wof:name":"Bestway Disposal Svc",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.074694,
+    43.014611,
+    -71.074694,
+    43.014611
+],
+  "geometry": {"coordinates":[-71.07469399999999,43.014611],"type":"Point"}
+}

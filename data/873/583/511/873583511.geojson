@@ -1,0 +1,69 @@
+{
+  "id": 873583511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686538,44.030453,-71.686538,44.030453",
+    "geom:latitude":44.030453,
+    "geom:longitude":-71.686538,
+    "iso:country":"US",
+    "sg:address":"144 Main St",
+    "sg:city":"North Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 3925",
+    "sg:postcode":"03262",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVofK5nVZL8RhuQp5ZKg8_44.030453_-71.686538@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294757,
+    "wof:geomhash":"a8b8e7adca4807f163fc15b26f852fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873583511
+        }
+    ],
+    "wof:id":873583511,
+    "wof:lastmodified":1464294757,
+    "wof:name":"Fournier Funeral Svc",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -71.686538,
+    44.030453,
+    -71.686538,
+    44.030453
+],
+  "geometry": {"coordinates":[-71.686538,44.030453],"type":"Point"}
+}

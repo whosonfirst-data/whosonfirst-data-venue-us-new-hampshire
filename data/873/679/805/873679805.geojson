@@ -1,0 +1,71 @@
+{
+  "id": 873679805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.369481,43.579309,-71.369481,43.579309",
+    "geom:latitude":43.579309,
+    "geom:longitude":-71.369481,
+    "iso:country":"US",
+    "sg:address":"80 Scenic Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 2120",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821829,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JZRp5gqW96AzkgB0CKbFr_43.579309_-71.369481@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295991,
+    "wof:geomhash":"c3c17db337cdf60a37005503d1936c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873679805
+        }
+    ],
+    "wof:id":873679805,
+    "wof:lastmodified":1464295991,
+    "wof:name":"Stokes Landscaping",
+    "wof:parent_id":85821829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.369481,
+    43.579309,
+    -71.369481,
+    43.579309
+],
+  "geometry": {"coordinates":[-71.36948099999999,43.579309],"type":"Point"}
+}

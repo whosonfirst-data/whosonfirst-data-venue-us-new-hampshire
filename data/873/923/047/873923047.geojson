@@ -1,0 +1,78 @@
+{
+  "id": 873923047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4478,42.728226,-71.4478,42.728226",
+    "geom:latitude":42.728226,
+    "geom:longitude":-71.4478,
+    "iso:country":"US",
+    "sg:address":"112 Daniel Webster Hwy Ste 26",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 891 0506",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "boots-retail",
+        "store"
+    ],
+    "sg:website":"http://www.redwingshoes.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tkE8Dii70dXPYNEptdNi7_42.728226_-71.447800@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300272,
+    "wof:geomhash":"acd7a0acddcb8f0d74e7e056478fadc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873923047
+        }
+    ],
+    "wof:id":873923047,
+    "wof:lastmodified":1464300272,
+    "wof:name":"Red Wing Shoes",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boots-retail",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.4478,
+    42.728226,
+    -71.4478,
+    42.728226
+],
+  "geometry": {"coordinates":[-71.4478,42.728226],"type":"Point"}
+}

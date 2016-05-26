@@ -1,0 +1,77 @@
+{
+  "id": 873610631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452941,42.707941,-71.452941,42.707941",
+    "geom:latitude":42.707941,
+    "geom:longitude":-71.452941,
+    "iso:country":"US",
+    "sg:address":"98 Spit Brook Rd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 821 6900",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892289,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRwAEGukK0oPEO5yZlAlS_42.707941_-71.452941@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295150,
+    "wof:geomhash":"2322da4bf886176466d4a1a81596c41b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892289,
+            "region_id":85688689,
+            "venue_id":873610631
+        }
+    ],
+    "wof:id":873610631,
+    "wof:lastmodified":1464295150,
+    "wof:name":"Orthopedic Surgical Assoc",
+    "wof:parent_id":85892289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.452941,
+    42.707941,
+    -71.452941,
+    42.707941
+],
+  "geometry": {"coordinates":[-71.452941,42.707941],"type":"Point"}
+}

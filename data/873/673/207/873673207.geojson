@@ -1,0 +1,69 @@
+{
+  "id": 873673207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687412,43.759359,-71.687412,43.759359",
+    "geom:latitude":43.759359,
+    "geom:longitude":-71.687412,
+    "iso:country":"US",
+    "sg:address":"83 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 3663",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cu5QjouBLEsMmRBG0jaRW_43.759359_-71.687412@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295832,
+    "wof:geomhash":"4622d368920ed326a7a1b3eaf26f6480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873673207
+        }
+    ],
+    "wof:id":873673207,
+    "wof:lastmodified":1464295832,
+    "wof:name":"Chase St Market",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.687412,
+    43.759359,
+    -71.687412,
+    43.759359
+],
+  "geometry": {"coordinates":[-71.68741199999999,43.759359],"type":"Point"}
+}

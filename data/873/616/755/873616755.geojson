@@ -1,0 +1,78 @@
+{
+  "id": 873616755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.839818,43.170889,-70.839818,43.170889",
+    "geom:latitude":43.170889,
+    "geom:longitude":-70.839818,
+    "iso:country":"US",
+    "sg:address":"292 Middle Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 9750",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wokq.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892235,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eH3yGidc0WVPTA8ngKQK3_43.170889_-70.839818@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295213,
+    "wof:geomhash":"d28d75ba0cee3a97cd7509290ea2d0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892235,
+            "region_id":85688689,
+            "venue_id":873616755
+        }
+    ],
+    "wof:id":873616755,
+    "wof:lastmodified":1464295213,
+    "wof:name":"WOKQ",
+    "wof:parent_id":85892235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -70.839818,
+    43.170889,
+    -70.839818,
+    43.170889
+],
+  "geometry": {"coordinates":[-70.83981799999999,43.170889],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873643933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020639,42.828365,-72.020639,42.828365",
+    "geom:latitude":42.828365,
+    "geom:longitude":-72.020639,
+    "iso:country":"US",
+    "sg:address":"40 Amos Fortune Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 6960",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_292bEYTP4ZtjDIVIeLwZUB_42.828365_-72.020639@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295524,
+    "wof:geomhash":"2911ff118f65815beef68f9c41c6bb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873643933
+        }
+    ],
+    "wof:id":873643933,
+    "wof:lastmodified":1464295524,
+    "wof:name":"C & C Trucking",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.020639,
+    42.828365,
+    -72.020639,
+    42.828365
+],
+  "geometry": {"coordinates":[-72.020639,42.828365],"type":"Point"}
+}

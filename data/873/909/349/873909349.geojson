@@ -1,0 +1,73 @@
+{
+  "id": 873909349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.791275,44.308643,-71.791275,44.308643",
+    "geom:latitude":44.308643,
+    "geom:longitude":-71.791275,
+    "iso:country":"US",
+    "sg:address":"339 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 2431",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RGXXgAhdOhPp8Ww8a5D6h_44.308643_-71.791275@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300000,
+    "wof:geomhash":"c2053cee2c3726e2fc4f29b188f34248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873909349
+        }
+    ],
+    "wof:id":873909349,
+    "wof:lastmodified":1464300000,
+    "wof:name":"Meadow Ice Cream",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.791275,
+    44.308643,
+    -71.791275,
+    44.308643
+],
+  "geometry": {"coordinates":[-71.791275,44.308643],"type":"Point"}
+}

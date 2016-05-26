@@ -1,0 +1,78 @@
+{
+  "id": 873729845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.354893,43.572098,-71.354893,43.572098",
+    "geom:latitude":43.572098,
+    "geom:longitude":-71.354893,
+    "iso:country":"US",
+    "sg:address":"2600 Lake Shore Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 2284",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "membership",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803025,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eSvfrVsasskmz28aqhXBa_43.572098_-71.354893@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296777,
+    "wof:geomhash":"20a002ce29a94763f108a0a3ff1a8b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85803025,
+            "region_id":85688689,
+            "venue_id":873729845
+        }
+    ],
+    "wof:id":873729845,
+    "wof:lastmodified":1464296777,
+    "wof:name":"Lake Shore Park Assn",
+    "wof:parent_id":85803025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership",
+        "social"
+    ]
+},
+  "bbox": [
+    -71.354893,
+    43.572098,
+    -71.354893,
+    43.572098
+],
+  "geometry": {"coordinates":[-71.354893,43.572098],"type":"Point"}
+}

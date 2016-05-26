@@ -1,0 +1,70 @@
+{
+  "id": 873934575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.156799,43.240299,-71.156799,43.240299",
+    "geom:latitude":43.240299,
+    "geom:longitude":-71.156799,
+    "iso:country":"US",
+    "sg:address":"Province Rd",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 2100",
+    "sg:postcode":"03884",
+    "sg:province":"NH",
+    "sg:tags":[
+        "veggie"
+    ],
+    "sg:website":"www.berryboggfarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sLtKN7qyQRCTZhVhscQTm_43.240299_-71.156799@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300491,
+    "wof:geomhash":"1639b2cd81340b43caecb90c31128cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873934575
+        }
+    ],
+    "wof:id":873934575,
+    "wof:lastmodified":1464300491,
+    "wof:name":"Berrybogg Farm",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -71.156799,
+    43.240299,
+    -71.156799,
+    43.240299
+],
+  "geometry": {"coordinates":[-71.15679900000001,43.240299],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873925399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249939,42.77549,-71.249939,42.77549",
+    "geom:latitude":42.77549,
+    "geom:longitude":-71.249939,
+    "iso:country":"US",
+    "sg:address":"2 Manor Pkwy Ste 1",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 1013",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mNEx9phwGeJvPQd9kKRvr_42.775490_-71.249939@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300312,
+    "wof:geomhash":"0e772cd9cb13b081a239ba3010ba1d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873925399
+        }
+    ],
+    "wof:id":873925399,
+    "wof:lastmodified":1464300312,
+    "wof:name":"Gabriel Chiropractic",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -71.249939,
+    42.77549,
+    -71.249939,
+    42.77549
+],
+  "geometry": {"coordinates":[-71.249939,42.77549],"type":"Point"}
+}

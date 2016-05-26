@@ -1,0 +1,78 @@
+{
+  "id": 873830015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.875331,43.194873,-70.875331,43.194873",
+    "geom:latitude":43.194873,
+    "geom:longitude":-70.875331,
+    "iso:country":"US",
+    "sg:address":"46 Locust St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 742 4646",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.ci.dover.nh.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892237,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f69HBcw1rqkWZqRPFo2Dz_43.194873_-70.875331@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298332,
+    "wof:geomhash":"cc889503fe97bdefcee9b3b0d1e72d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":85892237,
+            "region_id":85688689,
+            "venue_id":873830015
+        }
+    ],
+    "wof:id":873830015,
+    "wof:lastmodified":1464298332,
+    "wof:name":"Dover Police Department",
+    "wof:parent_id":85892237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -70.875331,
+    43.194873,
+    -70.875331,
+    43.194873
+],
+  "geometry": {"coordinates":[-70.875331,43.194873],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873599819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.355551,44.61667,-71.355551,44.61667",
+    "geom:latitude":44.61667,
+    "geom:longitude":-71.355551,
+    "iso:country":"US",
+    "sg:address":"54 S Pond Rd",
+    "sg:city":"Colebrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 237 8900",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qbIsvD1U8tEm8mCPqgnjx_44.616670_-71.355551@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294985,
+    "wof:geomhash":"288be40a397f32b6ed5bf4c2d6916d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873599819
+        }
+    ],
+    "wof:id":873599819,
+    "wof:lastmodified":1464294985,
+    "wof:name":"Syracuse Commercial Floors",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.355551,
+    44.61667,
+    -71.355551,
+    44.61667
+],
+  "geometry": {"coordinates":[-71.35555100000001,44.61667],"type":"Point"}
+}

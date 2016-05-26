@@ -1,0 +1,73 @@
+{
+  "id": 873899529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.797084,43.789652,-71.797084,43.789652",
+    "geom:latitude":43.789652,
+    "geom:longitude":-71.797084,
+    "iso:country":"US",
+    "sg:address":"536 School St",
+    "sg:city":"Rumney",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 786 9995",
+    "sg:postcode":"03266",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843507,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hszIC7eNujBCRmAkwoLsR_43.789652_-71.797084@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299809,
+    "wof:geomhash":"4d5c376360ca0c29c4e08cc338eb3f5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85843507,
+            "region_id":85688689,
+            "venue_id":873899529
+        }
+    ],
+    "wof:id":873899529,
+    "wof:lastmodified":1464299809,
+    "wof:name":"ECL Trucking",
+    "wof:parent_id":85843507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.797084,
+    43.789652,
+    -71.797084,
+    43.789652
+],
+  "geometry": {"coordinates":[-71.797084,43.789652],"type":"Point"}
+}

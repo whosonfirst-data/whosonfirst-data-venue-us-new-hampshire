@@ -1,0 +1,79 @@
+{
+  "id": 873555797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52473,43.234622,-71.52473,43.234622",
+    "geom:latitude":43.234622,
+    "geom:longitude":-71.52473,
+    "iso:country":"US",
+    "sg:address":"219 E Side Dr",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 5632",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812041,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qhLippNdAYDlpl5rbytCU_43.234622_-71.524730@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294447,
+    "wof:geomhash":"84b8f7b21a52ec19645b1ebf74bd61a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85812041,
+            "region_id":85688689,
+            "venue_id":873555797
+        }
+    ],
+    "wof:id":873555797,
+    "wof:lastmodified":1464294447,
+    "wof:name":"Site Organizers",
+    "wof:parent_id":85812041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.52473,
+    43.234622,
+    -71.52473,
+    43.234622
+],
+  "geometry": {"coordinates":[-71.52473000000001,43.234622],"type":"Point"}
+}

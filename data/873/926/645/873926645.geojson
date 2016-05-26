@@ -1,0 +1,75 @@
+{
+  "id": 873926645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483832,43.027464,-71.483832,43.027464",
+    "geom:latitude":43.027464,
+    "geom:longitude":-71.483832,
+    "iso:country":"US",
+    "sg:address":"1642 Front St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 622 8494",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526207,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b7ncLJ3ve7A8B5DV5LHc0_43.027464_-71.483832@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300340,
+    "wof:geomhash":"753f98fefc631baf3d40fbb793c2e858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":420526207,
+            "region_id":85688689,
+            "venue_id":873926645
+        }
+    ],
+    "wof:id":873926645,
+    "wof:lastmodified":1464300340,
+    "wof:name":"Julian's Pizzeria",
+    "wof:parent_id":420526207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.483832,
+    43.027464,
+    -71.483832,
+    43.027464
+],
+  "geometry": {"coordinates":[-71.48383200000001,43.027464],"type":"Point"}
+}

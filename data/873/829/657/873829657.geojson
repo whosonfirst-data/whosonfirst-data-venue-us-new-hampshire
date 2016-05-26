@@ -1,0 +1,82 @@
+{
+  "id": 873829657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432511,43.577661,-71.432511,43.577661",
+    "geom:latitude":43.577661,
+    "geom:longitude":-71.432511,
+    "iso:country":"US",
+    "sg:address":"160 Lily Pond Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2798",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "sg:website":"www.belknaplandscape.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251,
+        85814675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sz23rYVUXIbA3DE7sSomy_43.577661_-71.432511@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298326,
+    "wof:geomhash":"e12396dbd31c303c62b8028e35843150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873829657
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873829657
+        }
+    ],
+    "wof:id":873829657,
+    "wof:lastmodified":1464298326,
+    "wof:name":"Belknap Landscape Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.432511,
+    43.577661,
+    -71.432511,
+    43.577661
+],
+  "geometry": {"coordinates":[-71.43251100000001,43.577661],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873666597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.21013,42.756119,-71.21013,42.756119",
+    "geom:latitude":42.756119,
+    "geom:longitude":-71.21013,
+    "iso:country":"US",
+    "sg:address":"320 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 7661",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pZ4Bd35Lcl9Wu7OGqHtKC_42.756119_-71.210130@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295765,
+    "wof:geomhash":"1354b92b5c6dcc1a7338bc2dabe97053",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873666597
+        }
+    ],
+    "wof:id":873666597,
+    "wof:lastmodified":1464295765,
+    "wof:name":"Anderson Auto Repairs",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.21013,
+    42.756119,
+    -71.21013,
+    42.756119
+],
+  "geometry": {"coordinates":[-71.21013000000001,42.756119],"type":"Point"}
+}

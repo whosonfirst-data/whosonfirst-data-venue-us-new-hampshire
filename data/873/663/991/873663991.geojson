@@ -1,0 +1,73 @@
+{
+  "id": 873663991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569677,44.48728,-71.569677,44.48728",
+    "geom:latitude":44.48728,
+    "geom:longitude":-71.569677,
+    "iso:country":"US",
+    "sg:address":"25 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3221",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IoyNcmlekKC1PP37Ho7cV_44.487280_-71.569677@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295740,
+    "wof:geomhash":"4d35249d0461b767cb3e02ec127722e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873663991
+        }
+    ],
+    "wof:id":873663991,
+    "wof:lastmodified":1464295740,
+    "wof:name":"Lancaster Emergency Services",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -71.569677,
+    44.48728,
+    -71.569677,
+    44.48728
+],
+  "geometry": {"coordinates":[-71.569677,44.48728],"type":"Point"}
+}

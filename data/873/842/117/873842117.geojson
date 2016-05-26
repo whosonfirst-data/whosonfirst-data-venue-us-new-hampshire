@@ -1,0 +1,71 @@
+{
+  "id": 873842117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.877844,43.209637,-70.877844,43.209637",
+    "geom:latitude":43.209637,
+    "geom:longitude":-70.877844,
+    "iso:country":"US",
+    "sg:address":"120 Grove St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 2192",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ymVPLcLdkx5YtVlApK4Qz_43.209637_-70.877844@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298606,
+    "wof:geomhash":"36c1b2f4b52f7c3cbdaf590c31fddccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873842117
+        }
+    ],
+    "wof:id":873842117,
+    "wof:lastmodified":1464298606,
+    "wof:name":"Daf Inc",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -70.877844,
+    43.209637,
+    -70.877844,
+    43.209637
+],
+  "geometry": {"coordinates":[-70.877844,43.209637],"type":"Point"}
+}

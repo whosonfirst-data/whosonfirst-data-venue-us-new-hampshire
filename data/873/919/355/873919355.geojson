@@ -1,0 +1,87 @@
+{
+  "id": 873919355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.284839,42.932629,-72.284839,42.932629",
+    "geom:latitude":42.932629,
+    "geom:longitude":-72.284839,
+    "iso:country":"US",
+    "sg:address":"166 West St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/99195-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 5573",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VNEDg2IsQU4lujFiF3PCV_42.932541_-72.284687@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"366ed6e83336f39b49349e8f99fa29a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873919355
+        }
+    ],
+    "wof:id":873919355,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -72.284839,
+    42.932629,
+    -72.284839,
+    42.932629
+],
+  "geometry": {"coordinates":[-72.28483900000001,42.932629],"type":"Point"}
+}

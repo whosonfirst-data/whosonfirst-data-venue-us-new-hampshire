@@ -1,0 +1,71 @@
+{
+  "id": 873816243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469672,43.551343,-71.469672,43.551343",
+    "geom:latitude":43.551343,
+    "geom:longitude":-71.469672,
+    "iso:country":"US",
+    "sg:address":"23 School St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 0702",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RHfja2dBiQepey7nTru0H_43.551343_-71.469672@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298039,
+    "wof:geomhash":"2db69100afd32ddee667372de5397c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873816243
+        }
+    ],
+    "wof:id":873816243,
+    "wof:lastmodified":1464298039,
+    "wof:name":"ServiceMaster",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.469672,
+    43.551343,
+    -71.469672,
+    43.551343
+],
+  "geometry": {"coordinates":[-71.469672,43.551343],"type":"Point"}
+}

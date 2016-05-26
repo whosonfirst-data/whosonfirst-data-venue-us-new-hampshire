@@ -1,0 +1,82 @@
+{
+  "id": 873824885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.707332,43.20573,-71.707332,43.20573",
+    "geom:latitude":43.20573,
+    "geom:longitude":-71.707332,
+    "iso:country":"US",
+    "sg:address":"633 Maple St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 7245",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "physician",
+        "surgeon",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RKfftXD03FpipimGZ9aet_43.205730_-71.707332@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298230,
+    "wof:geomhash":"ee2fb8de3379291c492ba9b55bf5551f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873824885
+        }
+    ],
+    "wof:id":873824885,
+    "wof:lastmodified":1464298230,
+    "wof:name":"Family Tree Health Care",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "physician",
+        "surgeon",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.707332,
+    43.20573,
+    -71.707332,
+    43.20573
+],
+  "geometry": {"coordinates":[-71.70733199999999,43.20573],"type":"Point"}
+}

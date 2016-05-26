@@ -1,0 +1,79 @@
+{
+  "id": 873549637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.117905,43.181917,-71.117905,43.181917",
+    "geom:latitude":43.181917,
+    "geom:longitude":-71.117905,
+    "iso:country":"US",
+    "sg:address":"184 Old Turnpike Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7100",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837873,
+        102086507,
+        85838565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bl69errA13NK3BkUvTvrk_43.181917_-71.117905@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294373,
+    "wof:geomhash":"4831dd5dba7ae89d5150856ea3f7aee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837873,
+            "region_id":85688689,
+            "venue_id":873549637
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873549637
+        }
+    ],
+    "wof:id":873549637,
+    "wof:lastmodified":1464294373,
+    "wof:name":"Automeister",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.117905,
+    43.181917,
+    -71.117905,
+    43.181917
+],
+  "geometry": {"coordinates":[-71.11790499999999,43.181917],"type":"Point"}
+}

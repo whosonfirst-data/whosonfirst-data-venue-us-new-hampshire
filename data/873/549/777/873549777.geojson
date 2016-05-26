@@ -1,0 +1,69 @@
+{
+  "id": 873549777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.990414,42.834505,-71.990414,42.834505",
+    "geom:latitude":42.834505,
+    "geom:longitude":-71.990414,
+    "iso:country":"US",
+    "sg:address":"16 Skyline Dr",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7214",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bsVUAF0bC8FGJM8LWfu16_42.834505_-71.990414@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294375,
+    "wof:geomhash":"32e2536b7b1fce329442a3c82eef4111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873549777
+        }
+    ],
+    "wof:id":873549777,
+    "wof:lastmodified":1464294375,
+    "wof:name":"Sorby & Son Heating",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.990414,
+    42.834505,
+    -71.990414,
+    42.834505
+],
+  "geometry": {"coordinates":[-71.990414,42.834505],"type":"Point"}
+}

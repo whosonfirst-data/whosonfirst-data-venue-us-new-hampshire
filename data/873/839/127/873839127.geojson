@@ -1,0 +1,76 @@
+{
+  "id": 873839127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.266379,42.91299,-72.266379,42.91299",
+    "geom:latitude":42.91299,
+    "geom:longitude":-72.266379,
+    "iso:country":"US",
+    "sg:address":"668 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 0100",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dX6PIdYQM3nTrmLzvpoo5_42.912990_-72.266379@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298529,
+    "wof:geomhash":"be5abc4fd76e1b8fd91ff5bdafc6eb1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873839127
+        }
+    ],
+    "wof:id":873839127,
+    "wof:lastmodified":1464298529,
+    "wof:name":"Config Systems Inc",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -72.266379,
+    42.91299,
+    -72.266379,
+    42.91299
+],
+  "geometry": {"coordinates":[-72.266379,42.91299],"type":"Point"}
+}

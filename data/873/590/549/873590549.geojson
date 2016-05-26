@@ -1,0 +1,71 @@
+{
+  "id": 873590549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.020365,43.226311,-71.020365,43.226311",
+    "geom:latitude":43.226311,
+    "geom:longitude":-71.020365,
+    "iso:country":"US",
+    "sg:address":"31 Leeanna Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 5249",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k11GvNZBrjMZIn2ZM36Ic_43.226311_-71.020365@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294837,
+    "wof:geomhash":"256d38cfcf60e570c49b5d97ca6b0e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873590549
+        }
+    ],
+    "wof:id":873590549,
+    "wof:lastmodified":1464294837,
+    "wof:name":"Precision Paving",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.020365,
+    43.226311,
+    -71.020365,
+    43.226311
+],
+  "geometry": {"coordinates":[-71.020365,43.226311],"type":"Point"}
+}

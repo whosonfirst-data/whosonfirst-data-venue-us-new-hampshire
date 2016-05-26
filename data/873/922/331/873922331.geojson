@@ -1,0 +1,86 @@
+{
+  "id": 873922331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.556282,42.83783,-71.556282,42.83783",
+    "geom:latitude":42.83783,
+    "geom:longitude":-71.556282,
+    "iso:country":"US",
+    "sg:address":"225 Amherst Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 533 0274",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "drainage",
+        "logging",
+        "contractor"
+    ],
+    "sg:website":"http://www.numarkexcavation.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YLpoz3ROx7fmGqlHf4Ury_42.837830_-71.556282@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300259,
+    "wof:geomhash":"1ebbaceae5e9d37c5d1119e4d4714e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873922331
+        }
+    ],
+    "wof:id":873922331,
+    "wof:lastmodified":1464300259,
+    "wof:name":"NuMark Excavation & Land Clearing Inc",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "drainage",
+        "logging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.556282,
+    42.83783,
+    -71.556282,
+    42.83783
+],
+  "geometry": {"coordinates":[-71.556282,42.83783],"type":"Point"}
+}

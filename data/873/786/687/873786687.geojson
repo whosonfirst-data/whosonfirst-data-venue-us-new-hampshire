@@ -1,0 +1,71 @@
+{
+  "id": 873786687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.085182,43.380441,-72.085182,43.380441",
+    "geom:latitude":43.380441,
+    "geom:longitude":-72.085182,
+    "iso:country":"US",
+    "sg:address":"127 Edgemont Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 763 4233",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XDb2xRpAIv9jYpzs704m0_43.380441_-72.085182@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297585,
+    "wof:geomhash":"9e3d58f840e92b0e8a3553d9336b552a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873786687
+        }
+    ],
+    "wof:id":873786687,
+    "wof:lastmodified":1464297585,
+    "wof:name":"Bly Machine",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.085182,
+    43.380441,
+    -72.085182,
+    43.380441
+],
+  "geometry": {"coordinates":[-72.085182,43.380441],"type":"Point"}
+}

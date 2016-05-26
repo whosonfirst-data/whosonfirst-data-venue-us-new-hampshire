@@ -1,0 +1,69 @@
+{
+  "id": 873730631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.022666,42.814507,-72.022666,42.814507",
+    "geom:latitude":42.814507,
+    "geom:longitude":-72.022666,
+    "iso:country":"US",
+    "sg:address":"31 Peterborough St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 7384",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f2Ca7NEzGU0bRkURIAFv3_42.814507_-72.022666@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296786,
+    "wof:geomhash":"ba759de1e54a43e3065e86b3fcbba519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873730631
+        }
+    ],
+    "wof:id":873730631,
+    "wof:lastmodified":1464296786,
+    "wof:name":"T-Bird Gas Station",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -72.022666,
+    42.814507,
+    -72.022666,
+    42.814507
+],
+  "geometry": {"coordinates":[-72.022666,42.814507],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873915603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219036,42.786105,-71.219036,42.786105",
+    "geom:latitude":42.786105,
+    "geom:longitude":-71.219036,
+    "iso:country":"US",
+    "sg:address":"20 Briar Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 472 5544",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wiJvAhMeuZm21iTXPuBuz_42.786321_-71.219516@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300130,
+    "wof:geomhash":"bab5c4bf30bba69053f8d627373c24c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873915603
+        }
+    ],
+    "wof:id":873915603,
+    "wof:lastmodified":1464300130,
+    "wof:name":"Clean A Tronics",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -71.219036,
+    42.786105,
+    -71.219036,
+    42.786105
+],
+  "geometry": {"coordinates":[-71.219036,42.786105],"type":"Point"}
+}

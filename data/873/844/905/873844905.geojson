@@ -1,0 +1,74 @@
+{
+  "id": 873844905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569439,44.4956,-71.569439,44.4956",
+    "geom:latitude":44.4956,
+    "geom:longitude":-71.569439,
+    "iso:country":"US",
+    "sg:address":"50 Railroad St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2530",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "sg:website":"www.northerngatewaychamber.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zd4imwg2UP3uvKPg3xy9I_44.495600_-71.569439@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298681,
+    "wof:geomhash":"ee8b3fa118bbeb2e455b15723586faec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873844905
+        }
+    ],
+    "wof:id":873844905,
+    "wof:lastmodified":1464298681,
+    "wof:name":"Northern Gateway Chamber",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -71.569439,
+    44.4956,
+    -71.569439,
+    44.4956
+],
+  "geometry": {"coordinates":[-71.569439,44.4956],"type":"Point"}
+}

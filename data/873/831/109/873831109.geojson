@@ -1,0 +1,69 @@
+{
+  "id": 873831109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.736152,43.021967,-71.736152,43.021967",
+    "geom:latitude":43.021967,
+    "geom:longitude":-71.736152,
+    "iso:country":"US",
+    "sg:address":"140 Old Francestown Rd",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 1636",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5I7uFeoF9roTe4Oe27Ay_43.021967_-71.736152@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298352,
+    "wof:geomhash":"dc8ce699ca5707215998ab9ed2dd0fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873831109
+        }
+    ],
+    "wof:id":873831109,
+    "wof:lastmodified":1464298352,
+    "wof:name":"Dayton Ranch",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -71.736152,
+    43.021967,
+    -71.736152,
+    43.021967
+],
+  "geometry": {"coordinates":[-71.736152,43.021967],"type":"Point"}
+}

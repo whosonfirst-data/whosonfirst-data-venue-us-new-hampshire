@@ -1,0 +1,74 @@
+{
+  "id": 873919277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454209,43.558544,-71.454209,43.558544",
+    "geom:latitude":43.558544,
+    "geom:longitude":-71.454209,
+    "iso:country":"US",
+    "sg:address":"1231 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/laconia/194446-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9394",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85892251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E6EUyK8cer0mR32D9AJYE_43.558616_-71.454140@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300199,
+    "wof:geomhash":"d6fe5ce9b5c59e595ae9a5b99c1adbfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85892251,
+            "region_id":85688689,
+            "venue_id":873919277
+        }
+    ],
+    "wof:id":873919277,
+    "wof:lastmodified":1464300199,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85892251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.454209,
+    43.558544,
+    -71.454209,
+    43.558544
+],
+  "geometry": {"coordinates":[-71.45420900000001,43.558544],"type":"Point"}
+}

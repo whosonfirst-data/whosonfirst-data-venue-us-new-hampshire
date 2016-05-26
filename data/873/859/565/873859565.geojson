@@ -1,0 +1,71 @@
+{
+  "id": 873859565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376552,43.555686,-72.376552,43.555686",
+    "geom:latitude":43.555686,
+    "geom:longitude":-72.376552,
+    "iso:country":"US",
+    "sg:address":"740 River Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 675 2079",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wW8wZRIAWqkqKGXe1yKQV_43.555686_-72.376552@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299008,
+    "wof:geomhash":"b79ef20033febab9490b37fb758df233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873859565
+        }
+    ],
+    "wof:id":873859565,
+    "wof:lastmodified":1464299008,
+    "wof:name":"Andrew Dolan",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.376552,
+    43.555686,
+    -72.376552,
+    43.555686
+],
+  "geometry": {"coordinates":[-72.376552,43.555686],"type":"Point"}
+}

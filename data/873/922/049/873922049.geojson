@@ -1,0 +1,75 @@
+{
+  "id": 873922049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.548104,42.80472,-71.548104,42.80472",
+    "geom:latitude":42.80472,
+    "geom:longitude":-71.548104,
+    "iso:country":"US",
+    "sg:address":"717 Milford Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 579 0707",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ug5vZuBjIYiYmnfMYF4A3_42.804720_-71.548104@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300253,
+    "wof:geomhash":"38115f0b5b393b54e35578a2d5b3d975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873922049
+        }
+    ],
+    "wof:id":873922049,
+    "wof:lastmodified":1464300253,
+    "wof:name":"Talarico Auto Collision",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -71.548104,
+    42.80472,
+    -71.548104,
+    42.80472
+],
+  "geometry": {"coordinates":[-71.548104,42.80472],"type":"Point"}
+}

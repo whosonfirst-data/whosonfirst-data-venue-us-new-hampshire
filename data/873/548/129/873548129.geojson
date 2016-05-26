@@ -1,0 +1,82 @@
+{
+  "id": 873548129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525626,42.790504,-71.525626,42.790504",
+    "geom:latitude":42.790504,
+    "geom:longitude":-71.525626,
+    "iso:country":"US",
+    "sg:address":"40 Squire Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2720",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807651,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eEfaB9jXM8Ssm7AaGhU1W_42.790504_-71.525626@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294357,
+    "wof:geomhash":"8707ce7dc852d399b67b39bb5e59fc3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85807651,
+            "region_id":85688689,
+            "venue_id":873548129
+        }
+    ],
+    "wof:id":873548129,
+    "wof:lastmodified":1464294357,
+    "wof:name":"Regent Park Apartments",
+    "wof:parent_id":85807651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.525626,
+    42.790504,
+    -71.525626,
+    42.790504
+],
+  "geometry": {"coordinates":[-71.525626,42.790504],"type":"Point"}
+}

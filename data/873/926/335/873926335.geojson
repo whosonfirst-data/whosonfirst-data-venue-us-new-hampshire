@@ -1,0 +1,79 @@
+{
+  "id": 873926335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.73941,42.845661,-71.73941,42.845661",
+    "geom:latitude":42.845661,
+    "geom:longitude":-71.73941,
+    "iso:country":"US",
+    "sg:address":"27 Forest Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 2611",
+    "sg:postcode":"03086",
+    "sg:province":"NH",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.sovereignbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858123,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jfu4b4FyCz6FzwLy8UguO_42.845661_-71.739410@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300334,
+    "wof:geomhash":"693f813906ffe24be4e6e3ac886f227b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85858123,
+            "region_id":85688689,
+            "venue_id":873926335
+        }
+    ],
+    "wof:id":873926335,
+    "wof:lastmodified":1464300334,
+    "wof:name":"Sovereign Bank",
+    "wof:parent_id":85858123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.73941,
+    42.845661,
+    -71.73941,
+    42.845661
+],
+  "geometry": {"coordinates":[-71.73941000000001,42.845661],"type":"Point"}
+}

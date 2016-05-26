@@ -1,0 +1,73 @@
+{
+  "id": 873728737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549159,43.012272,-71.549159,43.012272",
+    "geom:latitude":43.012272,
+    "geom:longitude":-71.549159,
+    "iso:country":"US",
+    "sg:address":"208 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 497 2200",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BURGgbrGVeY4Ul02QatXA_43.012272_-71.549159@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296764,
+    "wof:geomhash":"3a922f79c0f5719af670af8752a8cf2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873728737
+        }
+    ],
+    "wof:id":873728737,
+    "wof:lastmodified":1464296764,
+    "wof:name":"Mike's Mast Rd Auto Inc",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.549159,
+    43.012272,
+    -71.549159,
+    43.012272
+],
+  "geometry": {"coordinates":[-71.549159,43.012272],"type":"Point"}
+}

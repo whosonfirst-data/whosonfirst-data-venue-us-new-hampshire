@@ -1,0 +1,73 @@
+{
+  "id": 873616931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191386,42.855058,-71.191386,42.855058",
+    "geom:latitude":42.855058,
+    "geom:longitude":-71.191386,
+    "iso:country":"US",
+    "sg:address":"9 Kipkam Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 9600",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812647,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pmSYrU06s6BrMNncQwDlo_42.855058_-71.191386@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295214,
+    "wof:geomhash":"dacf31ebb22b0f40a4e7a3011ae868a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85812647,
+            "region_id":85688689,
+            "venue_id":873616931
+        }
+    ],
+    "wof:id":873616931,
+    "wof:lastmodified":1464295214,
+    "wof:name":"Atkinson Auto Body",
+    "wof:parent_id":85812647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.191386,
+    42.855058,
+    -71.191386,
+    42.855058
+],
+  "geometry": {"coordinates":[-71.19138599999999,42.855058],"type":"Point"}
+}

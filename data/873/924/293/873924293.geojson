@@ -1,0 +1,80 @@
+{
+  "id": 873924293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543054,42.801022,-71.543054,42.801022",
+    "geom:latitude":42.801022,
+    "geom:longitude":-71.543054,
+    "iso:country":"US",
+    "sg:address":"28 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 7123",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "clothing"
+    ],
+    "sg:website":"http://www.marshallsonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yl83aGvqKikRF1fu6F7eG_42.801022_-71.543054@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300293,
+    "wof:geomhash":"9a5ba150753aee02da5d57d798bf270c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873924293
+        }
+    ],
+    "wof:id":873924293,
+    "wof:lastmodified":1464300293,
+    "wof:name":"Marshalls",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [
+    -71.543054,
+    42.801022,
+    -71.543054,
+    42.801022
+],
+  "geometry": {"coordinates":[-71.543054,42.801022],"type":"Point"}
+}

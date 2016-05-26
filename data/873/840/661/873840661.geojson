@@ -1,0 +1,76 @@
+{
+  "id": 873840661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476681,42.947127,-71.476681,42.947127",
+    "geom:latitude":42.947127,
+    "geom:longitude":-71.476681,
+    "iso:country":"US",
+    "sg:address":"176 S River Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 8334",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3deVeLWbPBni9kgGVy3854_42.947127_-71.476681@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298566,
+    "wof:geomhash":"ba82c8f92512781ea5a268b0e3f7fa0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873840661
+        }
+    ],
+    "wof:id":873840661,
+    "wof:lastmodified":1464298566,
+    "wof:name":"Family Physical Therapy Svcs",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.476681,
+    42.947127,
+    -71.476681,
+    42.947127
+],
+  "geometry": {"coordinates":[-71.476681,42.947127],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873909961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.062577,43.052552,-71.062577,43.052552",
+    "geom:latitude":43.052552,
+    "geom:longitude":-71.062577,
+    "iso:country":"US",
+    "sg:address":"35 N River Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 601 0412",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Euuozy0eyAV8c2v29uUL5_43.052552_-71.062577@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300013,
+    "wof:geomhash":"5705a27e50bcdaeff617828359eb2c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85837593,
+            "region_id":85688689,
+            "venue_id":873909961
+        }
+    ],
+    "wof:id":873909961,
+    "wof:lastmodified":1464300013,
+    "wof:name":"Open Market SRC LLC",
+    "wof:parent_id":85837593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.062577,
+    43.052552,
+    -71.062577,
+    43.052552
+],
+  "geometry": {"coordinates":[-71.062577,43.052552],"type":"Point"}
+}

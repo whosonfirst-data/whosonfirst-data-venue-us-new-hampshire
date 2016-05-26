@@ -1,0 +1,73 @@
+{
+  "id": 873629979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575647,44.467926,-71.575647,44.467926",
+    "geom:latitude":44.467926,
+    "geom:longitude":-71.575647,
+    "iso:country":"US",
+    "sg:address":"15 Stebbins Hill Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4484",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "sanitary",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849321,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qU8iSmNxmcpIOQD1KbMuv_44.467926_-71.575647@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295365,
+    "wof:geomhash":"315698fa38f92abcd59ab289fa4be26b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85849321,
+            "region_id":85688689,
+            "venue_id":873629979
+        }
+    ],
+    "wof:id":873629979,
+    "wof:lastmodified":1464295365,
+    "wof:name":"Savage A M Construction",
+    "wof:parent_id":85849321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "sanitary",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.575647,
+    44.467926,
+    -71.575647,
+    44.467926
+],
+  "geometry": {"coordinates":[-71.575647,44.467926],"type":"Point"}
+}

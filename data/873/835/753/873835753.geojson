@@ -1,0 +1,71 @@
+{
+  "id": 873835753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187057,43.225372,-71.187057,43.225372",
+    "geom:latitude":43.225372,
+    "geom:longitude":-71.187057,
+    "iso:country":"US",
+    "sg:address":"199 Sherburne Hill Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 5700",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838443,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vjz0adMGvDT9dB73yDHFu_43.225372_-71.187057@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298460,
+    "wof:geomhash":"0c10994d834b8fa49ccb5cfe3434e573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838443,
+            "region_id":85688689,
+            "venue_id":873835753
+        }
+    ],
+    "wof:id":873835753,
+    "wof:lastmodified":1464298460,
+    "wof:name":"AIRAMAR Mechanical",
+    "wof:parent_id":85838443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.187057,
+    43.225372,
+    -71.187057,
+    43.225372
+],
+  "geometry": {"coordinates":[-71.187057,43.225372],"type":"Point"}
+}

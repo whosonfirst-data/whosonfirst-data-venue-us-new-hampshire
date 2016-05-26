@@ -1,0 +1,75 @@
+{
+  "id": 873795269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170521,44.478098,-71.170521,44.478098",
+    "geom:latitude":44.478098,
+    "geom:longitude":-71.170521,
+    "iso:country":"US",
+    "sg:address":"972 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2353",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ot3td8DawzhBVYBeEmcHP_44.478098_-71.170521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297718,
+    "wof:geomhash":"58113602fceae81819748cc4fbe9aa00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873795269
+        }
+    ],
+    "wof:id":873795269,
+    "wof:lastmodified":1464297718,
+    "wof:name":"Great Northern Energy LLC",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.170521,
+    44.478098,
+    -71.170521,
+    44.478098
+],
+  "geometry": {"coordinates":[-71.17052099999999,44.478098],"type":"Point"}
+}

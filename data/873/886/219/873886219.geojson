@@ -1,0 +1,71 @@
+{
+  "id": 873886219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.9068,43.04449,-70.9068,43.04449",
+    "geom:latitude":43.04449,
+    "geom:longitude":-70.9068,
+    "iso:country":"US",
+    "sg:address":"16 Jason Dr",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 8604",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gm5kyRWNh9beyj8DwH696_43.044490_-70.906800@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299560,
+    "wof:geomhash":"b6ae02a092b777f0112df4650eec42cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873886219
+        }
+    ],
+    "wof:id":873886219,
+    "wof:lastmodified":1464299560,
+    "wof:name":"Minuteman Tool Repair Inc",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -70.9068,
+    43.04449,
+    -70.9068,
+    43.04449
+],
+  "geometry": {"coordinates":[-70.9068,43.04449],"type":"Point"}
+}

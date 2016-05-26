@@ -1,0 +1,75 @@
+{
+  "id": 873652825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.752596,43.067975,-70.752596,43.067975",
+    "geom:latitude":43.067975,
+    "geom:longitude":-70.752596,
+    "iso:country":"US",
+    "sg:address":"64 Brackett Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 5670",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892295,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YFnTQp4grn65sGSpswwpT_43.067975_-70.752596@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295622,
+    "wof:geomhash":"4098a697667d811bdada71c9dfe68587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892295,
+            "region_id":85688689,
+            "venue_id":873652825
+        }
+    ],
+    "wof:id":873652825,
+    "wof:lastmodified":1464295622,
+    "wof:name":"Auto Center of Portsmouth",
+    "wof:parent_id":85892295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -70.752596,
+    43.067975,
+    -70.752596,
+    43.067975
+],
+  "geometry": {"coordinates":[-70.752596,43.067975],"type":"Point"}
+}

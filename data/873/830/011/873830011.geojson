@@ -1,0 +1,72 @@
+{
+  "id": 873830011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059512,44.011298,-71.059512,44.011298",
+    "geom:latitude":44.011298,
+    "geom:longitude":-71.059512,
+    "iso:country":"US",
+    "sg:address":"1319 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 6680",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "golf",
+        "store"
+    ],
+    "sg:website":"www.davesgolfshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IIfhOCDMo1S3fcRAr3ZTH_44.011298_-71.059512@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298332,
+    "wof:geomhash":"525081f051c006aacdba776aaa57b08c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873830011
+        }
+    ],
+    "wof:id":873830011,
+    "wof:lastmodified":1464298332,
+    "wof:name":"Dave's Golf Shop",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.059512,
+    44.011298,
+    -71.059512,
+    44.011298
+],
+  "geometry": {"coordinates":[-71.059512,44.011298],"type":"Point"}
+}

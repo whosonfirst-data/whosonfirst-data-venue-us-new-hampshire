@@ -1,0 +1,71 @@
+{
+  "id": 873813451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474906,43.52351,-71.474906,43.52351",
+    "geom:latitude":43.52351,
+    "geom:longitude":-71.474906,
+    "iso:country":"US",
+    "sg:address":"113 Fair St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2065",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7anB2QUjDakbBWpakahDfw_43.523510_-71.474906@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297986,
+    "wof:geomhash":"dea88e1769e263e055981fff4cac9f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873813451
+        }
+    ],
+    "wof:id":873813451,
+    "wof:lastmodified":1464297986,
+    "wof:name":"Hebert Foundry & Machine Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -71.474906,
+    43.52351,
+    -71.474906,
+    43.52351
+],
+  "geometry": {"coordinates":[-71.474906,43.52351],"type":"Point"}
+}

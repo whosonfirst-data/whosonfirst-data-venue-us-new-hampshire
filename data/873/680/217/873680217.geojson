@@ -1,0 +1,75 @@
+{
+  "id": 873680217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558821,43.229381,-71.558821,43.229381",
+    "geom:latitude":43.229381,
+    "geom:longitude":-71.558821,
+    "iso:country":"US",
+    "sg:address":"311 N State St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 0849",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855315,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rlUA7Dl5hmtja8kfGY3f8_43.229381_-71.558821@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296002,
+    "wof:geomhash":"5b9295d559966d4039ccf1be3ca1c6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85855315,
+            "region_id":85688689,
+            "venue_id":873680217
+        }
+    ],
+    "wof:id":873680217,
+    "wof:lastmodified":1464296002,
+    "wof:name":"Transportation Department",
+    "wof:parent_id":85855315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.558821,
+    43.229381,
+    -71.558821,
+    43.229381
+],
+  "geometry": {"coordinates":[-71.55882099999999,43.229381],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873936151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.98379,44.081056,-71.98379,44.081056",
+    "geom:latitude":44.081056,
+    "geom:longitude":-71.98379,
+    "iso:country":"US",
+    "sg:address":"66 Benning Street Suite 7",
+    "sg:city":"West Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 276 6903",
+    "sg:postcode":"03784",
+    "sg:province":"NH",
+    "sg:tags":[
+        "network-monitoring",
+        "mapping",
+        "alerting",
+        "netflow",
+        "snmp-monitoring"
+    ],
+    "sg:website":"http://www.intermapper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faFDNjRVP7PT21E4UbcZn_44.081056_-71.983790@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464300524,
+    "wof:geomhash":"3dc4bc9f9a12f8fcc2c27692fc5613b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873936151
+        }
+    ],
+    "wof:id":873936151,
+    "wof:lastmodified":1464300524,
+    "wof:name":"InterMapper",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "network-monitoring",
+        "mapping",
+        "alerting",
+        "netflow",
+        "snmp-monitoring"
+    ]
+},
+  "bbox": [
+    -71.98379,
+    44.081056,
+    -71.98379,
+    44.081056
+],
+  "geometry": {"coordinates":[-71.98379,44.081056],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873900223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.189798,44.395333,-71.189798,44.395333",
+    "geom:latitude":44.395333,
+    "geom:longitude":-71.189798,
+    "iso:country":"US",
+    "sg:address":"3 Broadway Ave",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3434",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SqPVEap1apwz4AfxOsRdG_44.395333_-71.189798@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299821,
+    "wof:geomhash":"9de86708d54e8228f20ffed9fc54314b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873900223
+        }
+    ],
+    "wof:id":873900223,
+    "wof:lastmodified":1464299821,
+    "wof:name":"Nea New Hampshire",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative",
+        "membership"
+    ]
+},
+  "bbox": [
+    -71.189798,
+    44.395333,
+    -71.189798,
+    44.395333
+],
+  "geometry": {"coordinates":[-71.189798,44.395333],"type":"Point"}
+}

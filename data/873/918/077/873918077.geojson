@@ -1,0 +1,76 @@
+{
+  "id": 873918077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.306109,42.923955,-72.306109,42.923955",
+    "geom:latitude":42.923955,
+    "geom:longitude":-72.306109,
+    "iso:country":"US",
+    "sg:address":"2 Ash Brook Rd",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/280928-olive-garden-italian-rstrnt/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 5337",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868011,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VtmDDkX6tdbHKLPkNwfMN_42.923955_-72.306109@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300178,
+    "wof:geomhash":"fd518e5fab3208f77e48eae8ebcdc583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85868011,
+            "region_id":85688689,
+            "venue_id":873918077
+        }
+    ],
+    "wof:id":873918077,
+    "wof:lastmodified":1464300178,
+    "wof:name":"Olive Garden Italian Rstrnt",
+    "wof:parent_id":85868011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -72.306109,
+    42.923955,
+    -72.306109,
+    42.923955
+],
+  "geometry": {"coordinates":[-72.30610900000001,42.923955],"type":"Point"}
+}

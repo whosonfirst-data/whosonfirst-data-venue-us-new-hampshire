@@ -1,0 +1,76 @@
+{
+  "id": 873930155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.808001,43.099981,-70.808001,43.099981",
+    "geom:latitude":43.099981,
+    "geom:longitude":-70.808001,
+    "iso:country":"US",
+    "sg:address":"47 Fox Run Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 7427",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "house",
+        "american",
+        "steak",
+        "barbecue"
+    ],
+    "sg:website":"http://www.texasroadhouse.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74eqimwplTsfCyh3usxLCF_43.099981_-70.808001@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300412,
+    "wof:geomhash":"b78e2391a8a71f1475931cfc9f6f43ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873930155
+        }
+    ],
+    "wof:id":873930155,
+    "wof:lastmodified":1464300412,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "american",
+        "steak",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -70.808001,
+    43.099981,
+    -70.808001,
+    43.099981
+],
+  "geometry": {"coordinates":[-70.808001,43.099981],"type":"Point"}
+}

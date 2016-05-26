@@ -1,0 +1,71 @@
+{
+  "id": 873551099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185345,44.46542,-71.185345,44.46542",
+    "geom:latitude":44.46542,
+    "geom:longitude":-71.185345,
+    "iso:country":"US",
+    "sg:address":"17 Pleasant St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1552",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "liquor",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oih4mWtFRheMoJGiqSqUM_44.465420_-71.185345@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294390,
+    "wof:geomhash":"04a3524597c12fba4d19fe3bd3a7a54c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873551099
+        }
+    ],
+    "wof:id":873551099,
+    "wof:lastmodified":1464294390,
+    "wof:name":"State Liquor Store 5",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.185345,
+    44.46542,
+    -71.185345,
+    44.46542
+],
+  "geometry": {"coordinates":[-71.185345,44.46542],"type":"Point"}
+}

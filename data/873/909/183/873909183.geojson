@@ -1,0 +1,71 @@
+{
+  "id": 873909183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544984,43.608467,-71.544984,43.608467",
+    "geom:latitude":43.608467,
+    "geom:longitude":-71.544984,
+    "iso:country":"US",
+    "sg:address":"48 Chemung Rd",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 8084",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WXm9DRBm8nbcVCOU8Wugg_43.608467_-71.544984@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299997,
+    "wof:geomhash":"13b64ded02ed59f87c63cf63e0a1cd27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873909183
+        }
+    ],
+    "wof:id":873909183,
+    "wof:lastmodified":1464299997,
+    "wof:name":"C & B Refuse Disposal",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.544984,
+    43.608467,
+    -71.544984,
+    43.608467
+],
+  "geometry": {"coordinates":[-71.544984,43.608467],"type":"Point"}
+}

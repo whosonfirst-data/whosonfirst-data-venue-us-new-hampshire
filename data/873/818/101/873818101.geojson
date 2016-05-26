@@ -1,0 +1,79 @@
+{
+  "id": 873818101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.10522,43.031168,-71.10522,43.031168",
+    "geom:latitude":43.031168,
+    "geom:longitude":-71.10522,
+    "iso:country":"US",
+    "sg:address":"49 Jenness Rd",
+    "sg:city":"Epping",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8010",
+    "sg:postcode":"03042",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831729,
+        102086507,
+        85855449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76f41rpzw4krZ5DlQxY6nu_43.031168_-71.105220@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298082,
+    "wof:geomhash":"94ff67122d55bdd27168d0612cab5b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85831729,
+            "region_id":85688689,
+            "venue_id":873818101
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873818101
+        }
+    ],
+    "wof:id":873818101,
+    "wof:lastmodified":1464298082,
+    "wof:name":"Epping Auto Salvage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -71.10522,
+    43.031168,
+    -71.10522,
+    43.031168
+],
+  "geometry": {"coordinates":[-71.10522,43.031168],"type":"Point"}
+}

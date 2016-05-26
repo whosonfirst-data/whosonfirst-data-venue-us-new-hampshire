@@ -1,0 +1,71 @@
+{
+  "id": 873571533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.598961,43.280205,-71.598961,43.280205",
+    "geom:latitude":43.280205,
+    "geom:longitude":-71.598961,
+    "iso:country":"US",
+    "sg:address":"12 High St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2565",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sOxrgp0eecf8SMtlEhQyA_43.280205_-71.598961@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294626,
+    "wof:geomhash":"fa84928fdfdca19077e4e511f312532f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873571533
+        }
+    ],
+    "wof:id":873571533,
+    "wof:lastmodified":1464294626,
+    "wof:name":"Boscawen Congregational Church",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.598961,
+    43.280205,
+    -71.598961,
+    43.280205
+],
+  "geometry": {"coordinates":[-71.598961,43.280205],"type":"Point"}
+}

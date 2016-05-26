@@ -1,0 +1,73 @@
+{
+  "id": 873889351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215447,42.938048,-71.215447,42.938048",
+    "geom:latitude":42.938048,
+    "geom:longitude":-71.215447,
+    "iso:country":"US",
+    "sg:address":"132 Wells Village Rd",
+    "sg:city":"Sandown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 887 3118",
+    "sg:postcode":"03873",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x93ZBAfHDs023H27rDSTU_42.938048_-71.215447@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299614,
+    "wof:geomhash":"07b99bcdd1d003fe93ddc68fa5b0f21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873889351
+        }
+    ],
+    "wof:id":873889351,
+    "wof:lastmodified":1464299614,
+    "wof:name":"Herk Enterprises",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.215447,
+    42.938048,
+    -71.215447,
+    42.938048
+],
+  "geometry": {"coordinates":[-71.215447,42.938048],"type":"Point"}
+}

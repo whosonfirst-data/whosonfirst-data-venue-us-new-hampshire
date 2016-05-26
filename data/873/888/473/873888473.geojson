@@ -1,0 +1,80 @@
+{
+  "id": 873888473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.249816,43.660236,-72.249816,43.660236",
+    "geom:latitude":43.660236,
+    "geom:longitude":-72.249816,
+    "iso:country":"US",
+    "sg:address":"30 Wolf Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 448 2474",
+    "sg:postcode":"03766",
+    "sg:province":"NH",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816939,
+        102191575,
+        404477101,
+        85633793,
+        85975067,
+        102086567,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zRpXQkUbMB7bI7Cw8b0u8_43.660236_-72.249816@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299598,
+    "wof:geomhash":"2cede5e4471274599c7b8a3a6cfcadd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086567,
+            "localadmin_id":404477101,
+            "locality_id":85975067,
+            "neighbourhood_id":85816939,
+            "region_id":85688689,
+            "venue_id":873888473
+        }
+    ],
+    "wof:id":873888473,
+    "wof:lastmodified":1464299598,
+    "wof:name":"Ivy Place Condominiums",
+    "wof:parent_id":85816939,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -72.249816,
+    43.660236,
+    -72.249816,
+    43.660236
+],
+  "geometry": {"coordinates":[-72.249816,43.660236],"type":"Point"}
+}

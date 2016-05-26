@@ -1,0 +1,71 @@
+{
+  "id": 873832793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.744953,43.595693,-71.744953,43.595693",
+    "geom:latitude":43.595693,
+    "geom:longitude":-71.744953,
+    "iso:country":"US",
+    "sg:address":"85 Lake St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2632",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y7E6v6tFM5Lh6v4znazd4_43.595693_-71.744953@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298395,
+    "wof:geomhash":"ee7f6d7c530916ca7d2832aa2d2dc2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873832793
+        }
+    ],
+    "wof:id":873832793,
+    "wof:lastmodified":1464298395,
+    "wof:name":"Bristol Fire Department",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.744953,
+    43.595693,
+    -71.744953,
+    43.595693
+],
+  "geometry": {"coordinates":[-71.744953,43.595693],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873743629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464067,43.531549,-71.464067,43.531549",
+    "geom:latitude":43.531549,
+    "geom:longitude":-71.464067,
+    "iso:country":"US",
+    "sg:address":"247 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8052",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SR2AjLv2M1qXsXBZbF1UN_43.531549_-71.464067@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296982,
+    "wof:geomhash":"cc2f09f0e774e13ff7145b5dfb3a4949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873743629
+        }
+    ],
+    "wof:id":873743629,
+    "wof:lastmodified":1464296982,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.464067,
+    43.531549,
+    -71.464067,
+    43.531549
+],
+  "geometry": {"coordinates":[-71.464067,43.531549],"type":"Point"}
+}

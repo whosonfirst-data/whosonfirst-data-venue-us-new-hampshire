@@ -1,0 +1,71 @@
+{
+  "id": 873785775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.110389,43.350866,-72.110389,43.350866",
+    "geom:latitude":43.350866,
+    "geom:longitude":-72.110389,
+    "iso:country":"US",
+    "sg:address":"37 Bradford Rd",
+    "sg:city":"Sunapee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 6077",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85808481,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qwJIX190iqyhWWE2Ny5su_43.350866_-72.110389@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297565,
+    "wof:geomhash":"3856979b7ce7807265f627bb7dfe52e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85808481,
+            "region_id":85688689,
+            "venue_id":873785775
+        }
+    ],
+    "wof:id":873785775,
+    "wof:lastmodified":1464297565,
+    "wof:name":"Atlantic Surface Care",
+    "wof:parent_id":85808481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.110389,
+    43.350866,
+    -72.110389,
+    43.350866
+],
+  "geometry": {"coordinates":[-72.110389,43.350866],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873891003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489524,42.836901,-71.489524,42.836901",
+    "geom:latitude":42.836901,
+    "geom:longitude":-71.489524,
+    "iso:country":"US",
+    "sg:address":"116 Herrick St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 2274",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jJWtrFLQMPyTyVmTic0MU_42.836901_-71.489524@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299648,
+    "wof:geomhash":"b0fa7ff060e63de8c55227a45ae2d3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873891003
+        }
+    ],
+    "wof:id":873891003,
+    "wof:lastmodified":1464299648,
+    "wof:name":"Mike's Auto Body",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.489524,
+    42.836901,
+    -71.489524,
+    42.836901
+],
+  "geometry": {"coordinates":[-71.489524,42.836901],"type":"Point"}
+}

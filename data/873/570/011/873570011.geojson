@@ -1,0 +1,69 @@
+{
+  "id": 873570011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.526071,43.447259,-71.526071,43.447259",
+    "geom:latitude":43.447259,
+    "geom:longitude":-71.526071,
+    "iso:country":"US",
+    "sg:address":"10 Industrial Dr",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 2721",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85821087,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r9vKhZTbfrYPdOvWA3EpU_43.447259_-71.526071@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294610,
+    "wof:geomhash":"9576749252f1c3a4e3427dd25f66830c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821087,
+            "region_id":85688689,
+            "venue_id":873570011
+        }
+    ],
+    "wof:id":873570011,
+    "wof:lastmodified":1464294610,
+    "wof:name":"American Windsurfer",
+    "wof:parent_id":85821087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -71.526071,
+    43.447259,
+    -71.526071,
+    43.447259
+],
+  "geometry": {"coordinates":[-71.526071,43.447259],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873930697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.214432,43.692687,-71.214432,43.692687",
+    "geom:latitude":43.692687,
+    "geom:longitude":-71.214432,
+    "iso:country":"US",
+    "sg:address":"Rte 109",
+    "sg:city":"Tuftonboro",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03816",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "hiking",
+        "historical"
+    ],
+    "sg:website":"www.waymarking.com/waymarks/WM5H...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85853095,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OLNWcAry9Daa3kSMSJoNb_43.692687_-71.214432@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300424,
+    "wof:geomhash":"9b3aab93d3753084a59baa64ff26f15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85853095,
+            "region_id":85688689,
+            "venue_id":873930697
+        }
+    ],
+    "wof:id":873930697,
+    "wof:lastmodified":1464300424,
+    "wof:name":"Abenaki Tower",
+    "wof:parent_id":85853095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "hiking",
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.214432,
+    43.692687,
+    -71.214432,
+    43.692687
+],
+  "geometry": {"coordinates":[-71.214432,43.692687],"type":"Point"}
+}

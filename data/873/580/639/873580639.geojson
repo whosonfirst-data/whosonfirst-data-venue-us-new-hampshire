@@ -1,0 +1,71 @@
+{
+  "id": 873580639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.861841,42.94242,-70.861841,42.94242",
+    "geom:latitude":42.94242,
+    "geom:longitude":-70.861841,
+    "iso:country":"US",
+    "sg:address":"6 Mary Batchelder Rd",
+    "sg:city":"Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 7552",
+    "sg:postcode":"03842",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811635,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SFkIplyiIbiKgt7wsgzC0_42.942420_-70.861841@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294728,
+    "wof:geomhash":"4e3516f2ef93134ee6a11d01e132d148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811635,
+            "region_id":85688689,
+            "venue_id":873580639
+        }
+    ],
+    "wof:id":873580639,
+    "wof:lastmodified":1464294728,
+    "wof:name":"Dion Construction Co",
+    "wof:parent_id":85811635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.861841,
+    42.94242,
+    -70.861841,
+    42.94242
+],
+  "geometry": {"coordinates":[-70.861841,42.94242],"type":"Point"}
+}

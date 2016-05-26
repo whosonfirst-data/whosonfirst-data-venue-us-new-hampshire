@@ -1,0 +1,69 @@
+{
+  "id": 873678075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500759,42.938187,-71.500759,42.938187",
+    "geom:latitude":42.938187,
+    "geom:longitude":-71.500759,
+    "iso:country":"US",
+    "sg:address":"76 County Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8254",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O0yQn7HcgIQESly7c5CxO_42.938187_-71.500759@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295940,
+    "wof:geomhash":"4d3d73688ec96a2256eae9d8a7c29284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873678075
+        }
+    ],
+    "wof:id":873678075,
+    "wof:lastmodified":1464295940,
+    "wof:name":"Bellemores Auto Negotiators",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.500759,
+    42.938187,
+    -71.500759,
+    42.938187
+],
+  "geometry": {"coordinates":[-71.500759,42.938187],"type":"Point"}
+}

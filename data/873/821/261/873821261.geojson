@@ -1,0 +1,77 @@
+{
+  "id": 873821261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462888,42.989423,-71.462888,42.989423",
+    "geom:latitude":42.989423,
+    "geom:longitude":-71.462888,
+    "iso:country":"US",
+    "sg:address":"56 Merrimack St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 8015",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51fXe5niKDJTtWpoAu9sYp_42.989423_-71.462888@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298142,
+    "wof:geomhash":"904a1f8ec081425f4e0da525d1003a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873821261
+        }
+    ],
+    "wof:id":873821261,
+    "wof:lastmodified":1464298142,
+    "wof:name":"Merrimack Street Garage",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.462888,
+    42.989423,
+    -71.462888,
+    42.989423
+],
+  "geometry": {"coordinates":[-71.46288800000001,42.989423],"type":"Point"}
+}

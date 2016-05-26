@@ -1,0 +1,71 @@
+{
+  "id": 873815975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468877,43.528035,-71.468877,43.528035",
+    "geom:latitude":43.528035,
+    "geom:longitude":-71.468877,
+    "iso:country":"US",
+    "sg:address":"45 Beacon St E",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1265",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i0Ogwogva9v3Eyd1jy2B4_43.528035_-71.468877@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298033,
+    "wof:geomhash":"bc116a774674d0403274cd0d8d9467ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873815975
+        }
+    ],
+    "wof:id":873815975,
+    "wof:lastmodified":1464298033,
+    "wof:name":"Laconia City Clerk",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.468877,
+    43.528035,
+    -71.468877,
+    43.528035
+],
+  "geometry": {"coordinates":[-71.46887700000001,43.528035],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873726945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.996265,42.986384,-71.996265,42.986384",
+    "geom:latitude":42.986384,
+    "geom:longitude":-71.996265,
+    "iso:country":"US",
+    "sg:address":"7 Sugarbush Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 525 4455",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11i9D46Ayj27LURhqBZWWS_42.986384_-71.996265@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296740,
+    "wof:geomhash":"bda49f01cdff430dc7977b44e8fbfdd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873726945
+        }
+    ],
+    "wof:id":873726945,
+    "wof:lastmodified":1464296740,
+    "wof:name":"Carpentry By Jean Pierre",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -71.996265,
+    42.986384,
+    -71.996265,
+    42.986384
+],
+  "geometry": {"coordinates":[-71.99626499999999,42.986384],"type":"Point"}
+}

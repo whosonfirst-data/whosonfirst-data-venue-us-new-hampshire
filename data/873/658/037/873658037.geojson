@@ -1,0 +1,71 @@
+{
+  "id": 873658037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.882459,43.217748,-70.882459,43.217748",
+    "geom:latitude":43.217748,
+    "geom:longitude":-70.882459,
+    "iso:country":"US",
+    "sg:address":"859 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 749 4336",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KfP0emGzcjXjkNnhmxmK2_43.217748_-70.882459@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295678,
+    "wof:geomhash":"6e573f20680c234b1993517eeb3cf3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873658037
+        }
+    ],
+    "wof:id":873658037,
+    "wof:lastmodified":1464295678,
+    "wof:name":"Hair Everywhere",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -70.882459,
+    43.217748,
+    -70.882459,
+    43.217748
+],
+  "geometry": {"coordinates":[-70.882459,43.217748],"type":"Point"}
+}

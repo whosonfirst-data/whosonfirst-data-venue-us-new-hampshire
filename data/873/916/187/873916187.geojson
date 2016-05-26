@@ -1,0 +1,72 @@
+{
+  "id": 873916187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.613196,42.873849,-71.613196,42.873849",
+    "geom:latitude":42.873849,
+    "geom:longitude":-71.613196,
+    "iso:country":"US",
+    "sg:address":"131 RT-101",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/amherst/31662-amherst-house-of-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 5543",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85812947,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hUPXjkCKTiPLjGh9XIfXa_42.873849_-71.613196@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300145,
+    "wof:geomhash":"61a48c362efcaa9ca34d296a2c8f947c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85812947,
+            "region_id":85688689,
+            "venue_id":873916187
+        }
+    ],
+    "wof:id":873916187,
+    "wof:lastmodified":1464300145,
+    "wof:name":"Amherst House of Pizza",
+    "wof:parent_id":85812947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.613196,
+    42.873849,
+    -71.613196,
+    42.873849
+],
+  "geometry": {"coordinates":[-71.613196,42.873849],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873735299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534997,44.456078,-71.534997,44.456078",
+    "geom:latitude":44.456078,
+    "geom:longitude":-71.534997,
+    "iso:country":"US",
+    "sg:address":"330 Portland St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4821",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cGj5e2uZ3EleeS2nxmXck_44.456078_-71.534997@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296855,
+    "wof:geomhash":"e7ffabac3be686c1f9c29f4f17650001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873735299
+        }
+    ],
+    "wof:id":873735299,
+    "wof:lastmodified":1464296855,
+    "wof:name":"Burts Repair",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.534997,
+    44.456078,
+    -71.534997,
+    44.456078
+],
+  "geometry": {"coordinates":[-71.534997,44.456078],"type":"Point"}
+}

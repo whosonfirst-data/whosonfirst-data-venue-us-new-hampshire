@@ -1,0 +1,71 @@
+{
+  "id": 873809147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.335029,43.580268,-72.335029,43.580268",
+    "geom:latitude":43.580268,
+    "geom:longitude":-72.335029,
+    "iso:country":"US",
+    "sg:address":"277 Old County Rd",
+    "sg:city":"Plainfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 298 8201",
+    "sg:postcode":"03781",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850831,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71BYXE32renVxu4B52ZcrI_43.580268_-72.335029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297912,
+    "wof:geomhash":"9b344e3fee1b964d29e59c25feb3338c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85850831,
+            "region_id":85688689,
+            "venue_id":873809147
+        }
+    ],
+    "wof:id":873809147,
+    "wof:lastmodified":1464297912,
+    "wof:name":"Harvey's Electric Svc",
+    "wof:parent_id":85850831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.335029,
+    43.580268,
+    -72.335029,
+    43.580268
+],
+  "geometry": {"coordinates":[-72.33502900000001,43.580268],"type":"Point"}
+}

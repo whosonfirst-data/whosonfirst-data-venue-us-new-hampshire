@@ -1,0 +1,78 @@
+{
+  "id": 873901155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.960281,43.269481,-71.960281,43.269481",
+    "geom:latitude":43.269481,
+    "geom:longitude":-71.960281,
+    "iso:country":"US",
+    "sg:address":"85 W Main St",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 5440",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "acoustical",
+        "communication",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HIIGCSy9464pKl2xkIKzu_43.269481_-71.960281@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299840,
+    "wof:geomhash":"f51f6ca525be0a0681dba318eb565a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873901155
+        }
+    ],
+    "wof:id":873901155,
+    "wof:lastmodified":1464299840,
+    "wof:name":"Racal Acoustics USA",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustical",
+        "communication",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.960281,
+    43.269481,
+    -71.960281,
+    43.269481
+],
+  "geometry": {"coordinates":[-71.96028099999999,43.269481],"type":"Point"}
+}

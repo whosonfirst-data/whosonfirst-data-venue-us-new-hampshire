@@ -1,0 +1,80 @@
+{
+  "id": 873901727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446591,42.779235,-71.446591,42.779235",
+    "geom:latitude":42.779235,
+    "geom:longitude":-71.446591,
+    "iso:country":"US",
+    "sg:address":"23 Elm Ave",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 5195",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "measuring",
+        "material",
+        "temperature"
+    ],
+    "sg:website":"www.rdfcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892281,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jI9PVrhoh3LTBRcFaVYLt_42.779235_-71.446591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299852,
+    "wof:geomhash":"aafd8f4bab595d31f13d4a2c8d55f07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":85892281,
+            "region_id":85688689,
+            "venue_id":873901727
+        }
+    ],
+    "wof:id":873901727,
+    "wof:lastmodified":1464299852,
+    "wof:name":"RDF Corp",
+    "wof:parent_id":85892281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "measuring",
+        "material",
+        "temperature"
+    ]
+},
+  "bbox": [
+    -71.446591,
+    42.779235,
+    -71.446591,
+    42.779235
+],
+  "geometry": {"coordinates":[-71.446591,42.779235],"type":"Point"}
+}

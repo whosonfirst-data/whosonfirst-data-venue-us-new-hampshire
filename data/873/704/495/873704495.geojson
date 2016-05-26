@@ -1,0 +1,71 @@
+{
+  "id": 873704495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5693,44.49561,-71.5693,44.49561",
+    "geom:latitude":44.49561,
+    "geom:longitude":-71.5693,
+    "iso:country":"US",
+    "sg:address":"48 Railroad St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4566",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KY2hO4sXrPImyTjDO7eWt_44.495610_-71.569300@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296450,
+    "wof:geomhash":"1a5b6bf0e8d81bc71bb46583cbfd4f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873704495
+        }
+    ],
+    "wof:id":873704495,
+    "wof:lastmodified":1464296450,
+    "wof:name":"North Country Catering",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.5693,
+    44.49561,
+    -71.5693,
+    44.49561
+],
+  "geometry": {"coordinates":[-71.5693,44.49561],"type":"Point"}
+}

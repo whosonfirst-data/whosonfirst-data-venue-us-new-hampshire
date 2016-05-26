@@ -1,0 +1,75 @@
+{
+  "id": 873877043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477567,42.888133,-71.477567,42.888133",
+    "geom:latitude":42.888133,
+    "geom:longitude":-71.477567,
+    "iso:country":"US",
+    "sg:address":"39 Back River Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3802",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844207,
+        102191575,
+        404477193,
+        85633793,
+        85975251,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qdd0zMCxJS1wkUNwshbEU_42.888133_-71.477567@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299377,
+    "wof:geomhash":"acffecc619375b34588947e7b6ff3e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477193,
+            "locality_id":85975251,
+            "neighbourhood_id":85844207,
+            "region_id":85688689,
+            "venue_id":873877043
+        }
+    ],
+    "wof:id":873877043,
+    "wof:lastmodified":1464299377,
+    "wof:name":"Norms Transmission Service",
+    "wof:parent_id":85844207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -71.477567,
+    42.888133,
+    -71.477567,
+    42.888133
+],
+  "geometry": {"coordinates":[-71.47756699999999,42.888133],"type":"Point"}
+}

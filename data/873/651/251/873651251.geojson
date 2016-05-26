@@ -1,0 +1,71 @@
+{
+  "id": 873651251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179435,44.470539,-71.179435,44.470539",
+    "geom:latitude":44.470539,
+    "geom:longitude":-71.179435,
+    "iso:country":"US",
+    "sg:address":"263 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 3135",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_098UPBFZWRJRUF9Xqio8Wt_44.470539_-71.179435@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295600,
+    "wof:geomhash":"d5a1ab592133b933c00dec67279a2e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873651251
+        }
+    ],
+    "wof:id":873651251,
+    "wof:lastmodified":1464295600,
+    "wof:name":"Berlin Fire Department",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.179435,
+    44.470539,
+    -71.179435,
+    44.470539
+],
+  "geometry": {"coordinates":[-71.179435,44.470539],"type":"Point"}
+}

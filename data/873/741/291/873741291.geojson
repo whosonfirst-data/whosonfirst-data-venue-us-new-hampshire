@@ -1,0 +1,69 @@
+{
+  "id": 873741291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517241,43.157727,-71.517241,43.157727",
+    "geom:latitude":43.157727,
+    "geom:longitude":-71.517241,
+    "iso:country":"US",
+    "sg:address":"7 Heather Ln",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 7707",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mnbSy1HC7cz76dbnJlRRx_43.157727_-71.517241@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296942,
+    "wof:geomhash":"408c2a377c270e4df9d5338c4e30f28b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873741291
+        }
+    ],
+    "wof:id":873741291,
+    "wof:lastmodified":1464296942,
+    "wof:name":"Brite Magic Carpet Cleaners",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.517241,
+    43.157727,
+    -71.517241,
+    43.157727
+],
+  "geometry": {"coordinates":[-71.517241,43.157727],"type":"Point"}
+}

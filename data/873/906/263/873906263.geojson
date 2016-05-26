@@ -1,0 +1,71 @@
+{
+  "id": 873906263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395583,42.736093,-71.395583,42.736093",
+    "geom:latitude":42.736093,
+    "geom:longitude":-71.395583,
+    "iso:country":"US",
+    "sg:address":"4 Homestead Ln",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 8229",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZXySxnK0t3X8FMH6oTCMT_42.736093_-71.395583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299945,
+    "wof:geomhash":"598cf2cc8d34bbceb80d22e2880089ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873906263
+        }
+    ],
+    "wof:id":873906263,
+    "wof:lastmodified":1464299945,
+    "wof:name":"Towne Plaza Associates Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.395583,
+    42.736093,
+    -71.395583,
+    42.736093
+],
+  "geometry": {"coordinates":[-71.395583,42.736093],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873713451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.150316,43.80925,-72.150316,43.80925",
+    "geom:latitude":43.80925,
+    "geom:longitude":-72.150316,
+    "iso:country":"US",
+    "sg:address":"24 High St",
+    "sg:city":"Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 795 4042",
+    "sg:postcode":"03768",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85823959,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wKdEN5ew4c3VuUrovwMI8_43.809250_-72.150316@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296561,
+    "wof:geomhash":"411b5c5ca669c29e58ab3b0b48afcc8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85823959,
+            "region_id":85688689,
+            "venue_id":873713451
+        }
+    ],
+    "wof:id":873713451,
+    "wof:lastmodified":1464296561,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85823959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -72.150316,
+    43.80925,
+    -72.150316,
+    43.80925
+],
+  "geometry": {"coordinates":[-72.150316,43.80925],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873565753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.82186,43.177657,-71.82186,43.177657",
+    "geom:latitude":43.177657,
+    "geom:longitude":-71.82186,
+    "iso:country":"US",
+    "sg:address":"25 Bridge St",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 3464",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48DT8oPAARZAZBK51N0gmE_43.177657_-71.821860@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294563,
+    "wof:geomhash":"a81866a914f071c07134b83cfcd3b46e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873565753
+        }
+    ],
+    "wof:id":873565753,
+    "wof:lastmodified":1464294563,
+    "wof:name":"AME Light Delivery",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -71.82186,
+    43.177657,
+    -71.82186,
+    43.177657
+],
+  "geometry": {"coordinates":[-71.82186,43.177657],"type":"Point"}
+}

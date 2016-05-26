@@ -1,0 +1,71 @@
+{
+  "id": 873820435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.378541,42.779447,-71.378541,42.779447",
+    "geom:latitude":42.779447,
+    "geom:longitude":-71.378541,
+    "iso:country":"US",
+    "sg:address":"9 Commercial St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 8383",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FxRAhkhYDYj1oaZRJQuLB_42.779447_-71.378541@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298128,
+    "wof:geomhash":"343be923db420a77a1a264bffc4fe2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873820435
+        }
+    ],
+    "wof:id":873820435,
+    "wof:lastmodified":1464298128,
+    "wof:name":"Csi Group",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.378541,
+    42.779447,
+    -71.378541,
+    42.779447
+],
+  "geometry": {"coordinates":[-71.378541,42.779447],"type":"Point"}
+}

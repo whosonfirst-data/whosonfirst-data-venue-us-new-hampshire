@@ -1,0 +1,71 @@
+{
+  "id": 873831337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604526,43.280788,-71.604526,43.280788",
+    "geom:latitude":43.280788,
+    "geom:longitude":-71.604526,
+    "iso:country":"US",
+    "sg:address":"40 Elm St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9896",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xotpiGSvs5gyIjnnXsId4_43.280788_-71.604526@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298356,
+    "wof:geomhash":"aa2d637cae48b6c87e60d6c70a698490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873831337
+        }
+    ],
+    "wof:id":873831337,
+    "wof:lastmodified":1464298356,
+    "wof:name":"Fit For Royalty Salon",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.604526,
+    43.280788,
+    -71.604526,
+    43.280788
+],
+  "geometry": {"coordinates":[-71.60452600000001,43.280788],"type":"Point"}
+}

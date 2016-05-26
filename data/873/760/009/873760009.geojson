@@ -1,0 +1,71 @@
+{
+  "id": 873760009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459235,44.607488,-71.459235,44.607488",
+    "geom:latitude":44.607488,
+    "geom:longitude":-71.459235,
+    "iso:country":"US",
+    "sg:address":"1882 Stark Hwy",
+    "sg:city":"Groveton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 636 9959",
+    "sg:postcode":"03582",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Heto9CxjiDBpvfZS48TAb_44.607488_-71.459235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297206,
+    "wof:geomhash":"3b38ac236c2050ae5578220846e5aa8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873760009
+        }
+    ],
+    "wof:id":873760009,
+    "wof:lastmodified":1464297206,
+    "wof:name":"Weld Tight",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.459235,
+    44.607488,
+    -71.459235,
+    44.607488
+],
+  "geometry": {"coordinates":[-71.45923500000001,44.607488],"type":"Point"}
+}

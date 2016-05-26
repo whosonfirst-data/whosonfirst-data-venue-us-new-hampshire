@@ -1,0 +1,70 @@
+{
+  "id": 873818515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.061968,43.499366,-72.061968,43.499366",
+    "geom:latitude":43.499366,
+    "geom:longitude":-72.061968,
+    "iso:country":"US",
+    "sg:address":"328 Main St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 526 6575",
+    "sg:postcode":"03257",
+    "sg:province":"NH",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.newlondonareanh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85816361,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uBMkcIsI00UUKMdhIObti_43.499366_-72.061968@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298089,
+    "wof:geomhash":"5933e7508010472f1e6a03cbbd644d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85816361,
+            "region_id":85688689,
+            "venue_id":873818515
+        }
+    ],
+    "wof:id":873818515,
+    "wof:lastmodified":1464298089,
+    "wof:name":"New London Information",
+    "wof:parent_id":85816361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -72.061968,
+    43.499366,
+    -72.061968,
+    43.499366
+],
+  "geometry": {"coordinates":[-72.06196799999999,43.499366],"type":"Point"}
+}

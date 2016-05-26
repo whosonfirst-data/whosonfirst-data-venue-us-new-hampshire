@@ -1,0 +1,71 @@
+{
+  "id": 873729149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059583,44.011259,-71.059583,44.011259",
+    "geom:latitude":44.011259,
+    "geom:longitude":-71.059583,
+    "iso:country":"US",
+    "sg:address":"2224 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 3133",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IljUCjiIEmgWktToeYKuf_44.011259_-71.059583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296769,
+    "wof:geomhash":"8f5aef1d50d116d74d73e79e4a8a97dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873729149
+        }
+    ],
+    "wof:id":873729149,
+    "wof:lastmodified":1464296769,
+    "wof:name":"Sports Outlet",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -71.059583,
+    44.011259,
+    -71.059583,
+    44.011259
+],
+  "geometry": {"coordinates":[-71.059583,44.011259],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873913821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308037,42.80014,-71.308037,42.80014",
+    "geom:latitude":42.80014,
+    "geom:longitude":-71.308037,
+    "iso:country":"US",
+    "sg:address":"22 Haverhill Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 8233",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "sg:website":"http://www.soleil-salon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A4uv9YUjTl86rFwx4mrhK_42.800232_-71.307688@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300085,
+    "wof:geomhash":"560f3f07d44fcd56270ca572e7a8945d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873913821
+        }
+    ],
+    "wof:id":873913821,
+    "wof:lastmodified":1464300085,
+    "wof:name":"Soleil Salon & Spa",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.308037,
+    42.80014,
+    -71.308037,
+    42.80014
+],
+  "geometry": {"coordinates":[-71.308037,42.80014],"type":"Point"}
+}

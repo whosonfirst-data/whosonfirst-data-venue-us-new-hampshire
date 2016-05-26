@@ -1,0 +1,71 @@
+{
+  "id": 873612385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.078732,43.000746,-71.078732,43.000746",
+    "geom:latitude":43.000746,
+    "geom:longitude":-71.078732,
+    "iso:country":"US",
+    "sg:address":"355 State Rte 125",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 2232",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "retail",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74afa71h424NBLSDp179eM_43.000746_-71.078732@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295170,
+    "wof:geomhash":"e9e601015fa99488778be56572c68896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873612385
+        }
+    ],
+    "wof:id":873612385,
+    "wof:lastmodified":1464295170,
+    "wof:name":"Stratham Tire Inc",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.078732,
+    43.000746,
+    -71.078732,
+    43.000746
+],
+  "geometry": {"coordinates":[-71.078732,43.000746],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873616457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506902,43.189554,-71.506902,43.189554",
+    "geom:latitude":43.189554,
+    "geom:longitude":-71.506902,
+    "iso:country":"US",
+    "sg:address":"113 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 8121",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PecmanV4uG1DrAOXzsRb4_43.189554_-71.506902@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295210,
+    "wof:geomhash":"662f2e536b3afedad7963710b4e2ddaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873616457
+        }
+    ],
+    "wof:id":873616457,
+    "wof:lastmodified":1464295210,
+    "wof:name":"Double Discount Auto Parts",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.506902,
+    43.189554,
+    -71.506902,
+    43.189554
+],
+  "geometry": {"coordinates":[-71.506902,43.189554],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873921589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48187,42.841707,-71.48187,42.841707",
+    "geom:latitude":42.841707,
+    "geom:longitude":-71.48187,
+    "iso:country":"US",
+    "sg:address":"255 Charles Bancroft Hwy",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 6190",
+    "sg:postcode":"03052",
+    "sg:province":"NH",
+    "sg:tags":[
+        "township",
+        "village",
+        "government-city",
+        "historical",
+        "employer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lSEmUmJfKQEzKDJndyQcz_42.841707_-71.481870@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300239,
+    "wof:geomhash":"89724d6b60dc85e7414ede49c6c11c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873921589
+        }
+    ],
+    "wof:id":873921589,
+    "wof:lastmodified":1464300239,
+    "wof:name":"Litchfield Historical Society",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "village",
+        "government-city",
+        "historical",
+        "employer"
+    ]
+},
+  "bbox": [
+    -71.48187,
+    42.841707,
+    -71.48187,
+    42.841707
+],
+  "geometry": {"coordinates":[-71.48187,42.841707],"type":"Point"}
+}

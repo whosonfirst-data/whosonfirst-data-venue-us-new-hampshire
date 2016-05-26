@@ -1,0 +1,81 @@
+{
+  "id": 873924905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.318558,42.726471,-71.318558,42.726471",
+    "geom:latitude":42.726471,
+    "geom:longitude":-71.318558,
+    "iso:country":"US",
+    "sg:address":"150 Bridge St",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 879 9001",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ],
+    "sg:website":"http://www.chunkys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21rvHTFv0eaiHrXqCNvFNl_42.726471_-71.318558@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300303,
+    "wof:geomhash":"f2740e0e52a06440efdb98044524ff04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873924905
+        }
+    ],
+    "wof:id":873924905,
+    "wof:lastmodified":1464300303,
+    "wof:name":"Chunky's Cinema Pub",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.318558,
+    42.726471,
+    -71.318558,
+    42.726471
+],
+  "geometry": {"coordinates":[-71.318558,42.726471],"type":"Point"}
+}

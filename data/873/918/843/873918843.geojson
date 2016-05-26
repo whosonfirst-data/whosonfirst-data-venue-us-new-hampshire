@@ -1,0 +1,72 @@
+{
+  "id": 873918843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.872241,42.894181,-70.872241,42.894181",
+    "geom:latitude":42.894181,
+    "geom:longitude":-70.872241,
+    "iso:country":"US",
+    "sg:address":"636 Lafayette Rd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/seabrook/73557-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 1599",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819717,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ycwAjTTsBYa6y8fefS3JP_42.894181_-70.872241@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300192,
+    "wof:geomhash":"08272f54a4069d9f99b3652e5a71856d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85819717,
+            "region_id":85688689,
+            "venue_id":873918843
+        }
+    ],
+    "wof:id":873918843,
+    "wof:lastmodified":1464300192,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85819717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.872241,
+    42.894181,
+    -70.872241,
+    42.894181
+],
+  "geometry": {"coordinates":[-70.872241,42.894181],"type":"Point"}
+}

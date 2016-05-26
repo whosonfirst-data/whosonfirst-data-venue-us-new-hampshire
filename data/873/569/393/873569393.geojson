@@ -1,0 +1,73 @@
+{
+  "id": 873569393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.947849,42.962003,-71.947849,42.962003",
+    "geom:latitude":42.962003,
+    "geom:longitude":-71.947849,
+    "iso:country":"US",
+    "sg:address":"215 Forest Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 654 6526",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WCevUqHTAxI9OBxkpI7da_42.962003_-71.947849@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294599,
+    "wof:geomhash":"2473769de616161386f543a545b2ec81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873569393
+        }
+    ],
+    "wof:id":873569393,
+    "wof:lastmodified":1464294599,
+    "wof:name":"Outback Trucking Inc",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.947849,
+    42.962003,
+    -71.947849,
+    42.962003
+],
+  "geometry": {"coordinates":[-71.94784900000001,42.962003],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873557767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251635,42.77972,-71.251635,42.77972",
+    "geom:latitude":42.77972,
+    "geom:longitude":-71.251635,
+    "iso:country":"US",
+    "sg:address":"7 Industrial Way",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 9007",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "special",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3efbexb5yscMqYNqnCvBYN_42.779720_-71.251635@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294468,
+    "wof:geomhash":"263ff214d8960dd64eb5a7a9d0872815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873557767
+        }
+    ],
+    "wof:id":873557767,
+    "wof:lastmodified":1464294468,
+    "wof:name":"Evolve Technologies Corp",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "special",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.251635,
+    42.77972,
+    -71.251635,
+    42.77972
+],
+  "geometry": {"coordinates":[-71.25163499999999,42.77972],"type":"Point"}
+}

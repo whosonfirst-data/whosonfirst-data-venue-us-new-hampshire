@@ -1,0 +1,69 @@
+{
+  "id": 873781549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059495,44.011308,-71.059495,44.011308",
+    "geom:latitude":44.011308,
+    "geom:longitude":-71.059495,
+    "iso:country":"US",
+    "sg:address":"1098 E Conway Rd",
+    "sg:city":"Center Conway",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 2747",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pnt7XgrS4701j7N1bTRQz_44.011308_-71.059495@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297511,
+    "wof:geomhash":"208a702e735d68f0a88ed61ebd6b8135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873781549
+        }
+    ],
+    "wof:id":873781549,
+    "wof:lastmodified":1464297511,
+    "wof:name":"George Fadden Septic Pumping",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.059495,
+    44.011308,
+    -71.059495,
+    44.011308
+],
+  "geometry": {"coordinates":[-71.059495,44.011308],"type":"Point"}
+}

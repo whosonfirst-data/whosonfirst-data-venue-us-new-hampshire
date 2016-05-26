@@ -1,0 +1,69 @@
+{
+  "id": 873712065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515879,43.584256,-71.515879,43.584256",
+    "geom:latitude":43.584256,
+    "geom:longitude":-71.515879,
+    "iso:country":"US",
+    "sg:address":"930 Meredith Center Rd",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 4348",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sx4kdL0i3EL4ysw9YsCTX_43.584256_-71.515879@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296545,
+    "wof:geomhash":"43b50327b97e6b85fb308f886d1d8a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873712065
+        }
+    ],
+    "wof:id":873712065,
+    "wof:lastmodified":1464296545,
+    "wof:name":"Beede Cemetery Lettering",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.515879,
+    43.584256,
+    -71.515879,
+    43.584256
+],
+  "geometry": {"coordinates":[-71.515879,43.584256],"type":"Point"}
+}

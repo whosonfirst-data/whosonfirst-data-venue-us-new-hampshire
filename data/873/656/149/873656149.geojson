@@ -1,0 +1,73 @@
+{
+  "id": 873656149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.356788,42.791177,-71.356788,42.791177",
+    "geom:latitude":42.791177,
+    "geom:longitude":-71.356788,
+    "iso:country":"US",
+    "sg:address":"16 Bridle Bridge Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 5876",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856621,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10SBm3AbYn7BiXZDWX6mFM_42.791177_-71.356788@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295658,
+    "wof:geomhash":"48dee75e8e450381918b8356b8e0c974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85856621,
+            "region_id":85688689,
+            "venue_id":873656149
+        }
+    ],
+    "wof:id":873656149,
+    "wof:lastmodified":1464295658,
+    "wof:name":"Gendron Trucking",
+    "wof:parent_id":85856621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.356788,
+    42.791177,
+    -71.356788,
+    42.791177
+],
+  "geometry": {"coordinates":[-71.35678799999999,42.791177],"type":"Point"}
+}

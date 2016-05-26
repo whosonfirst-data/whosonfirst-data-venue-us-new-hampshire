@@ -1,0 +1,104 @@
+{
+  "id": 873929327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.950699,42.87674,-71.950699,42.87674",
+    "geom:latitude":42.87674,
+    "geom:longitude":-71.950699,
+    "iso:country":"US",
+    "sg:address":"20 Grove St",
+    "sg:city":"Peterborough",
+    "sg:classifiers":[
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 924 4084",
+    "sg:postcode":"03458",
+    "sg:province":"NH",
+    "sg:tags":[
+        "publisher",
+        "product",
+        "designer",
+        "consultant",
+        "isp",
+        "system",
+        "graphic",
+        "provider",
+        "developer",
+        "software"
+    ],
+    "sg:website":"http://www.consensus-technology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831847,
+        102191575,
+        404477137,
+        85633793,
+        85975265,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E4n6q4BRBIuc8CzIfWpmH_42.876740_-71.950699@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300395,
+    "wof:geomhash":"90f91b44b64958664b70c7903ca6d61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477137,
+            "locality_id":85975265,
+            "neighbourhood_id":85831847,
+            "region_id":85688689,
+            "venue_id":873929327
+        }
+    ],
+    "wof:id":873929327,
+    "wof:lastmodified":1464300395,
+    "wof:name":"Consensus Technology",
+    "wof:parent_id":85831847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "product",
+        "designer",
+        "consultant",
+        "isp",
+        "system",
+        "graphic",
+        "provider",
+        "developer",
+        "software"
+    ]
+},
+  "bbox": [
+    -71.950699,
+    42.87674,
+    -71.950699,
+    42.87674
+],
+  "geometry": {"coordinates":[-71.950699,42.87674],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873881985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.597009,44.465982,-71.597009,44.465982",
+    "geom:latitude":44.465982,
+    "geom:longitude":-71.597009,
+    "iso:country":"US",
+    "sg:address":"88 Buffalo Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 3036",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40DhlHekDJpZJ9bWWzRFmC_44.465982_-71.597009@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299469,
+    "wof:geomhash":"fa037de9d122f790139cbaac24d4b69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873881985
+        }
+    ],
+    "wof:id":873881985,
+    "wof:lastmodified":1464299469,
+    "wof:name":"Log Cabin Building Co",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -71.597009,
+    44.465982,
+    -71.597009,
+    44.465982
+],
+  "geometry": {"coordinates":[-71.597009,44.465982],"type":"Point"}
+}

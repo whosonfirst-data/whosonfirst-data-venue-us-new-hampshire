@@ -1,0 +1,69 @@
+{
+  "id": 873746575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312286,42.746615,-71.312286,42.746615",
+    "geom:latitude":42.746615,
+    "geom:longitude":-71.312286,
+    "iso:country":"US",
+    "sg:address":"38 Balcom Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 8651",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zb8lWVRnkgulZWKnDyYbg_42.746615_-71.312286@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297033,
+    "wof:geomhash":"92a6eb118d789265060d7e6d68da7d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873746575
+        }
+    ],
+    "wof:id":873746575,
+    "wof:lastmodified":1464297033,
+    "wof:name":"Pelham Construction",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.312286,
+    42.746615,
+    -71.312286,
+    42.746615
+],
+  "geometry": {"coordinates":[-71.312286,42.746615],"type":"Point"}
+}

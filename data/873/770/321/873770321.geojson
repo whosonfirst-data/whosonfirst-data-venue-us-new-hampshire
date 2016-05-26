@@ -1,0 +1,71 @@
+{
+  "id": 873770321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686144,43.498724,-71.686144,43.498724",
+    "geom:latitude":43.498724,
+    "geom:longitude":-71.686144,
+    "iso:country":"US",
+    "sg:address":"602 Hill Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3197",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SEiE4hHnolsW9YlYmsfLP_43.498724_-71.686144@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297369,
+    "wof:geomhash":"f695bdf4cf74be95909453ec4dfd456b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873770321
+        }
+    ],
+    "wof:id":873770321,
+    "wof:lastmodified":1464297369,
+    "wof:name":"Chimneys Plus",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.686144,
+    43.498724,
+    -71.686144,
+    43.498724
+],
+  "geometry": {"coordinates":[-71.686144,43.498724],"type":"Point"}
+}

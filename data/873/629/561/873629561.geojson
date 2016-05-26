@@ -1,0 +1,69 @@
+{
+  "id": 873629561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489736,42.835686,-71.489736,42.835686",
+    "geom:latitude":42.835686,
+    "geom:longitude":-71.489736,
+    "iso:country":"US",
+    "sg:address":"4 King St",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 3303",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PnsPzaelK6Wd8eO582ZE7_42.835686_-71.489736@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295361,
+    "wof:geomhash":"e8703dcf0a4745a06860a3166555d3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873629561
+        }
+    ],
+    "wof:id":873629561,
+    "wof:lastmodified":1464295361,
+    "wof:name":"Webster Daniel Auto Service",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.489736,
+    42.835686,
+    -71.489736,
+    42.835686
+],
+  "geometry": {"coordinates":[-71.48973599999999,42.835686],"type":"Point"}
+}

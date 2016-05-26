@@ -1,0 +1,70 @@
+{
+  "id": 873932389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.129303,44.068699,-71.129303,44.068699",
+    "geom:latitude":44.068699,
+    "geom:longitude":-71.129303,
+    "iso:country":"US",
+    "sg:address":"RR 16 Box A",
+    "sg:city":"Intervale",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 5478",
+    "sg:postcode":"03845",
+    "sg:province":"NH",
+    "sg:website":"www.oldfieldhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yBykI9HZ9DGkxsC0yt5sT_44.068699_-71.129303@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300454,
+    "wof:geomhash":"87941d1233473c394cbf9ff4d054e6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873932389
+        }
+    ],
+    "wof:id":873932389,
+    "wof:lastmodified":1464300454,
+    "wof:name":"Old Field House",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.129303,
+    44.068699,
+    -71.129303,
+    44.068699
+],
+  "geometry": {"coordinates":[-71.12930299999999,44.068699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873636101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.601907,43.277666,-71.601907,43.277666",
+    "geom:latitude":43.277666,
+    "geom:longitude":-71.601907,
+    "iso:country":"US",
+    "sg:address":"42 Washington St",
+    "sg:city":"Penacook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 0131",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lm3ktOd5wffq1gs538ruD_43.277666_-71.601907@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295433,
+    "wof:geomhash":"cd88bbd8ce7a9198786f841d120eaf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873636101
+        }
+    ],
+    "wof:id":873636101,
+    "wof:lastmodified":1464295433,
+    "wof:name":"Boutwell & Hussey-Wiren Svc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -71.601907,
+    43.277666,
+    -71.601907,
+    43.277666
+],
+  "geometry": {"coordinates":[-71.601907,43.277666],"type":"Point"}
+}

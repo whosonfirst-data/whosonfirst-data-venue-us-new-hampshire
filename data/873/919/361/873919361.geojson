@@ -1,0 +1,81 @@
+{
+  "id": 873919361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.278519,42.934312,-72.278519,42.934312",
+    "geom:latitude":42.934312,
+    "geom:longitude":-72.278519,
+    "iso:country":"US",
+    "sg:address":"10 Central Sq",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/keene/260988-lucas-mediterranean-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 3335",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mediterranean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nOmzkfiZmSRLGeMzGGGLG_42.934283_-72.278089@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"cfd75e92dc4182a3cab06c97969cf211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873919361
+        }
+    ],
+    "wof:id":873919361,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Luca's Mediterranean Cafe",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -72.278519,
+    42.934312,
+    -72.278519,
+    42.934312
+],
+  "geometry": {"coordinates":[-72.278519,42.934312],"type":"Point"}
+}

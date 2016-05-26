@@ -1,0 +1,73 @@
+{
+  "id": 873878753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.203847,42.78752,-71.203847,42.78752",
+    "geom:latitude":42.78752,
+    "geom:longitude":-71.203847,
+    "iso:country":"US",
+    "sg:address":"281 Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 7250",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vyt7nPyDxjL7fjoIV4Nmp_42.787520_-71.203847@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299410,
+    "wof:geomhash":"eec962775847d5b13fe854a6f4c8f892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873878753
+        }
+    ],
+    "wof:id":873878753,
+    "wof:lastmodified":1464299410,
+    "wof:name":"Jackal Trucking",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.203847,
+    42.78752,
+    -71.203847,
+    42.78752
+],
+  "geometry": {"coordinates":[-71.203847,42.78752],"type":"Point"}
+}

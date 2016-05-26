@@ -1,0 +1,77 @@
+{
+  "id": 873541397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463106,42.978736,-71.463106,42.978736",
+    "geom:latitude":42.978736,
+    "geom:longitude":-71.463106,
+    "iso:country":"US",
+    "sg:address":"136 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 644 8888",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892267,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fnuflq8km0MSrgEVdymSI_42.978736_-71.463106@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294274,
+    "wof:geomhash":"cf4ebd89565b68b0bea043e2e5544a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892267,
+            "region_id":85688689,
+            "venue_id":873541397
+        }
+    ],
+    "wof:id":873541397,
+    "wof:lastmodified":1464294274,
+    "wof:name":"Favorite Nurses",
+    "wof:parent_id":85892267,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.463106,
+    42.978736,
+    -71.463106,
+    42.978736
+],
+  "geometry": {"coordinates":[-71.463106,42.978736],"type":"Point"}
+}

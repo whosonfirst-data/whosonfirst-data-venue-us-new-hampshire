@@ -1,0 +1,91 @@
+{
+  "id": 873918907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.208257,43.833997,-71.208257,43.833997",
+    "geom:latitude":43.833997,
+    "geom:longitude":-71.208257,
+    "iso:country":"US",
+    "sg:address":"1705 White Mountain Hwy",
+    "sg:city":"Tamworth",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/tamworth/149329-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 323 7125",
+    "sg:postcode":"03886",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841291,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IsCO4uTtRtt8CPRgwyVTQ_43.833997_-71.208257@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"b7921649461525688086db2126506b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85841291,
+            "region_id":85688689,
+            "venue_id":873918907
+        }
+    ],
+    "wof:id":873918907,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85841291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.208257,
+    43.833997,
+    -71.208257,
+    43.833997
+],
+  "geometry": {"coordinates":[-71.208257,43.833997],"type":"Point"}
+}

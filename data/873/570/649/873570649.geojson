@@ -1,0 +1,71 @@
+{
+  "id": 873570649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263423,43.224902,-71.263423,43.224902",
+    "geom:latitude":43.224902,
+    "geom:longitude":-71.263423,
+    "iso:country":"US",
+    "sg:address":"148 Old Turnpike Rd",
+    "sg:city":"Northwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 942 7628",
+    "sg:postcode":"03261",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838469,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bsbjvc7kCM8DEguSUvkK5_43.224902_-71.263423@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294617,
+    "wof:geomhash":"842b29c28c3881047e3e55d2168da081",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838469,
+            "region_id":85688689,
+            "venue_id":873570649
+        }
+    ],
+    "wof:id":873570649,
+    "wof:lastmodified":1464294617,
+    "wof:name":"Osborne Concrete",
+    "wof:parent_id":85838469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.263423,
+    43.224902,
+    -71.263423,
+    43.224902
+],
+  "geometry": {"coordinates":[-71.263423,43.224902],"type":"Point"}
+}

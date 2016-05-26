@@ -1,0 +1,80 @@
+{
+  "id": 873783515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453809,42.967887,-71.453809,42.967887",
+    "geom:latitude":42.967887,
+    "geom:longitude":-71.453809,
+    "iso:country":"US",
+    "sg:address":"86 Lingard St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 8468",
+    "sg:postcode":"03103",
+    "sg:province":"NH",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "sg:website":"www.tintit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892263,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vltIVYal5eV4IsyTHr04r_42.967887_-71.453809@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"475d1d19e162399ad559a642338d221f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892263,
+            "region_id":85688689,
+            "venue_id":873783515
+        }
+    ],
+    "wof:id":873783515,
+    "wof:lastmodified":1464297537,
+    "wof:name":"Tint It",
+    "wof:parent_id":85892263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -71.453809,
+    42.967887,
+    -71.453809,
+    42.967887
+],
+  "geometry": {"coordinates":[-71.45380900000001,42.967887],"type":"Point"}
+}

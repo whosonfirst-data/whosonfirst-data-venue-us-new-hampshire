@@ -1,0 +1,71 @@
+{
+  "id": 873704935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.895242,43.041938,-70.895242,43.041938",
+    "geom:latitude":43.041938,
+    "geom:longitude":-70.895242,
+    "iso:country":"US",
+    "sg:address":"257 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 4768",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851241,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BEIVPcCAUu65wwVjp1FAn_43.041938_-70.895242@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296455,
+    "wof:geomhash":"9c61bb168b4997d4c47f3650305db142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85851241,
+            "region_id":85688689,
+            "venue_id":873704935
+        }
+    ],
+    "wof:id":873704935,
+    "wof:lastmodified":1464296455,
+    "wof:name":"Bruce Bartolini MD",
+    "wof:parent_id":85851241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -70.895242,
+    43.041938,
+    -70.895242,
+    43.041938
+],
+  "geometry": {"coordinates":[-70.895242,43.041938],"type":"Point"}
+}

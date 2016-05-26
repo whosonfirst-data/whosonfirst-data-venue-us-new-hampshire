@@ -1,0 +1,71 @@
+{
+  "id": 873931273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.883163,43.218239,-70.883163,43.218239",
+    "geom:latitude":43.218239,
+    "geom:longitude":-70.883163,
+    "iso:country":"US",
+    "sg:address":"859 Central Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 6800",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975057,
+        102085609,
+        85821239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39WRUomy4SjsaFUd6KpcSu_43.218239_-70.883163@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300434,
+    "wof:geomhash":"eda68f5cddfb7f2ab24d664082d9c0db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "locality_id":85975057,
+            "neighbourhood_id":85821239,
+            "region_id":85688689,
+            "venue_id":873931273
+        }
+    ],
+    "wof:id":873931273,
+    "wof:lastmodified":1464300434,
+    "wof:name":"Little Caosar's Pizza",
+    "wof:parent_id":85821239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -70.883163,
+    43.218239,
+    -70.883163,
+    43.218239
+],
+  "geometry": {"coordinates":[-70.883163,43.218239],"type":"Point"}
+}

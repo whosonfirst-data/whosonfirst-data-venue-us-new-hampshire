@@ -1,0 +1,72 @@
+{
+  "id": 873918427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.798825,43.098142,-70.798825,43.098142",
+    "geom:latitude":43.098142,
+    "geom:longitude":-70.798825,
+    "iso:country":"US",
+    "sg:address":"5 Piscataqua Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newington/101076-smokey-bones/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 0345",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892299,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VazMyaRkXtKTmIa30sQY7_43.098142_-70.798825@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300185,
+    "wof:geomhash":"5cc8d41258c8ff71a8d3060ad5ae6023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892299,
+            "region_id":85688689,
+            "venue_id":873918427
+        }
+    ],
+    "wof:id":873918427,
+    "wof:lastmodified":1464300185,
+    "wof:name":"Smokey Bones",
+    "wof:parent_id":85892299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -70.798825,
+    43.098142,
+    -70.798825,
+    43.098142
+],
+  "geometry": {"coordinates":[-70.79882499999999,43.098142],"type":"Point"}
+}

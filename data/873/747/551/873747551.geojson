@@ -1,0 +1,71 @@
+{
+  "id": 873747551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496685,42.97304,-71.496685,42.97304",
+    "geom:latitude":42.97304,
+    "geom:longitude":-71.496685,
+    "iso:country":"US",
+    "sg:address":"18 Johnson St",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 6973",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "control",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hECNAVp7XFZIVrkPoOdyM_42.973040_-71.496685@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297045,
+    "wof:geomhash":"61c9bf44e8a7765f1333e4a53d93f960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873747551
+        }
+    ],
+    "wof:id":873747551,
+    "wof:lastmodified":1464297045,
+    "wof:name":"Southern New Hampshire Traffic",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -71.496685,
+    42.97304,
+    -71.496685,
+    42.97304
+],
+  "geometry": {"coordinates":[-71.496685,42.97304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873933593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.129898,44.055199,-71.129898,44.055199",
+    "geom:latitude":44.055199,
+    "geom:longitude":-71.129898,
+    "iso:country":"US",
+    "sg:address":"2703 White Mountain Hwy",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 7176",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ptad5LDeoxnyGVBdM5tC1_44.055199_-71.129898@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300474,
+    "wof:geomhash":"16e9ad65d5e09f2a24f742b8df6a6156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933593
+        }
+    ],
+    "wof:id":873933593,
+    "wof:lastmodified":1464300474,
+    "wof:name":"Toy Chest",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.129898,
+    44.055199,
+    -71.129898,
+    44.055199
+],
+  "geometry": {"coordinates":[-71.129898,44.055199],"type":"Point"}
+}

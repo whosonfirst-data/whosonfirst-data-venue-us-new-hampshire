@@ -1,0 +1,71 @@
+{
+  "id": 873796129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.73273,43.071956,-70.73273,43.071956",
+    "geom:latitude":43.071956,
+    "geom:longitude":-70.73273,
+    "iso:country":"US",
+    "sg:address":"328 Portsmouth Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 9303",
+    "sg:postcode":"03854",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85848091,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XCqamTMnoaZhCAJQi1dUL_43.071956_-70.732730@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297728,
+    "wof:geomhash":"661056a457c3affdcd5ee16c2f398cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85848091,
+            "region_id":85688689,
+            "venue_id":873796129
+        }
+    ],
+    "wof:id":873796129,
+    "wof:lastmodified":1464297728,
+    "wof:name":"Kittery Point Yacht Club",
+    "wof:parent_id":85848091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "boat"
+    ]
+},
+  "bbox": [
+    -70.73273,
+    43.071956,
+    -70.73273,
+    43.071956
+],
+  "geometry": {"coordinates":[-70.73273,43.071956],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873634461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420914,42.769223,-71.420914,42.769223",
+    "geom:latitude":42.769223,
+    "geom:longitude":-71.420914,
+    "iso:country":"US",
+    "sg:address":"153 Ferry St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 1834",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "dealer",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RUo6Z8xslosOgoLNvD3td_42.769223_-71.420914@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295418,
+    "wof:geomhash":"d801069c83c4a0acf8bead30c691192d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873634461
+        }
+    ],
+    "wof:id":873634461,
+    "wof:lastmodified":1464295418,
+    "wof:name":"Roy's Auto",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.420914,
+    42.769223,
+    -71.420914,
+    42.769223
+],
+  "geometry": {"coordinates":[-71.420914,42.769223],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873711083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.7406,43.313883,-71.7406,43.313883",
+    "geom:latitude":43.313883,
+    "geom:longitude":-71.7406,
+    "iso:country":"US",
+    "sg:address":"54 Hollings Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 456 2443",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "sanitary",
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851699,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f8e7X9kKtwEsQpECo6se7_43.313883_-71.740600@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296534,
+    "wof:geomhash":"98208f3c92947aa21fe7a373731250fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85851699,
+            "region_id":85688689,
+            "venue_id":873711083
+        }
+    ],
+    "wof:id":873711083,
+    "wof:lastmodified":1464296534,
+    "wof:name":"Winnepocket Landscaping",
+    "wof:parent_id":85851699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -71.7406,
+    43.313883,
+    -71.7406,
+    43.313883
+],
+  "geometry": {"coordinates":[-71.7406,43.313883],"type":"Point"}
+}

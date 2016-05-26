@@ -1,0 +1,71 @@
+{
+  "id": 873792983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185555,44.472932,-71.185555,44.472932",
+    "geom:latitude":44.472932,
+    "geom:longitude":-71.185555,
+    "iso:country":"US",
+    "sg:address":"46 Hillside Ave",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 2092",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UjZJb0NvXxbEikzBK6O4L_44.472932_-71.185555@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297689,
+    "wof:geomhash":"ba8195a696344e160b5a1187dc1bba69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873792983
+        }
+    ],
+    "wof:id":873792983,
+    "wof:lastmodified":1464297689,
+    "wof:name":"M & M Auto Body Shop Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.185555,
+    44.472932,
+    -71.185555,
+    44.472932
+],
+  "geometry": {"coordinates":[-71.18555499999999,44.472932],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873825135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.651741,43.259491,-71.651741,43.259491",
+    "geom:latitude":43.259491,
+    "geom:longitude":-71.651741,
+    "iso:country":"US",
+    "sg:address":"59 Blackwater Rd",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 9400",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844917,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uCC5KG0OGCFsiv7FoPi4O_43.259491_-71.651741@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298234,
+    "wof:geomhash":"5ae1ee5214553b02cd2ffb7d916ccf85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85844917,
+            "region_id":85688689,
+            "venue_id":873825135
+        }
+    ],
+    "wof:id":873825135,
+    "wof:lastmodified":1464298234,
+    "wof:name":"Barking Lot",
+    "wof:parent_id":85844917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.651741,
+    43.259491,
+    -71.651741,
+    43.259491
+],
+  "geometry": {"coordinates":[-71.651741,43.259491],"type":"Point"}
+}

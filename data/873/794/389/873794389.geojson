@@ -1,0 +1,75 @@
+{
+  "id": 873794389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466282,43.526036,-71.466282,43.526036",
+    "geom:latitude":43.526036,
+    "geom:longitude":-71.466282,
+    "iso:country":"US",
+    "sg:address":"1 Dixon St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 5348",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ou6pPdT35labIZRQZ2osM_43.526036_-71.466282@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297708,
+    "wof:geomhash":"ee8166bd0d73c1a6b210fd302a91b68f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873794389
+        }
+    ],
+    "wof:id":873794389,
+    "wof:lastmodified":1464297708,
+    "wof:name":"Old Thyme Restoration",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.466282,
+    43.526036,
+    -71.466282,
+    43.526036
+],
+  "geometry": {"coordinates":[-71.46628200000001,43.526036],"type":"Point"}
+}

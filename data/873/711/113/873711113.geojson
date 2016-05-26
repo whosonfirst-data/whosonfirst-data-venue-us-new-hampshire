@@ -1,0 +1,77 @@
+{
+  "id": 873711113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408951,43.578336,-71.408951,43.578336",
+    "geom:latitude":43.578336,
+    "geom:longitude":-71.408951,
+    "iso:country":"US",
+    "sg:address":"34 Meadowbrook Ln",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 2300",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uVK1GbjpTRxnakKz42U9X_43.578336_-71.408951@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296534,
+    "wof:geomhash":"01b4c31c773db493c0385a29654e858e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873711113
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873711113
+        }
+    ],
+    "wof:id":873711113,
+    "wof:lastmodified":1464296534,
+    "wof:name":"Tow Boat US",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -71.408951,
+    43.578336,
+    -71.408951,
+    43.578336
+],
+  "geometry": {"coordinates":[-71.408951,43.578336],"type":"Point"}
+}

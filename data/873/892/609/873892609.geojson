@@ -1,0 +1,70 @@
+{
+  "id": 873892609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491133,42.82878,-71.491133,42.82878",
+    "geom:latitude":42.82878,
+    "geom:longitude":-71.491133,
+    "iso:country":"US",
+    "sg:address":"221 Daniel Webster Hwy",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 6631",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "brewer"
+    ],
+    "sg:website":"www.anheuserbusch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852205,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T4SHyO791ENN09TymeoXj_42.828780_-71.491133@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299677,
+    "wof:geomhash":"5e796ae45729cbd8b2c2357387ba8cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85852205,
+            "region_id":85688689,
+            "venue_id":873892609
+        }
+    ],
+    "wof:id":873892609,
+    "wof:lastmodified":1464299677,
+    "wof:name":"Anheuser-Busch Inc",
+    "wof:parent_id":85852205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -71.491133,
+    42.82878,
+    -71.491133,
+    42.82878
+],
+  "geometry": {"coordinates":[-71.491133,42.82878],"type":"Point"}
+}

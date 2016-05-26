@@ -1,0 +1,72 @@
+{
+  "id": 873916193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566829,42.808508,-71.566829,42.808508",
+    "geom:latitude":42.808508,
+    "geom:longitude":-71.566829,
+    "iso:country":"US",
+    "sg:address":"124 State Route 101a",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/amherst/98629-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 579 6975",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aER5vMhJMKyZIBAchvaiu_42.808508_-71.566829@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300145,
+    "wof:geomhash":"5178d3a3c33935c6b3b07e4f9a80c71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873916193
+        }
+    ],
+    "wof:id":873916193,
+    "wof:lastmodified":1464300145,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.566829,
+    42.808508,
+    -71.566829,
+    42.808508
+],
+  "geometry": {"coordinates":[-71.566829,42.808508],"type":"Point"}
+}

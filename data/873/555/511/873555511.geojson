@@ -1,0 +1,71 @@
+{
+  "id": 873555511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474141,43.528898,-71.474141,43.528898",
+    "geom:latitude":43.528898,
+    "geom:longitude":-71.474141,
+    "iso:country":"US",
+    "sg:address":"136 Pleasant St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7132",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H09OROmMA5YcNAOBTDscm_43.528898_-71.474141@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294443,
+    "wof:geomhash":"632eb71d81733ab3c750d64ff5d18eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873555511
+        }
+    ],
+    "wof:id":873555511,
+    "wof:lastmodified":1464294443,
+    "wof:name":"Christian Science Church",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.474141,
+    43.528898,
+    -71.474141,
+    43.528898
+],
+  "geometry": {"coordinates":[-71.474141,43.528898],"type":"Point"}
+}

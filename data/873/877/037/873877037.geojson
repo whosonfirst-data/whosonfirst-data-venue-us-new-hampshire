@@ -1,0 +1,73 @@
+{
+  "id": 873877037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599264,43.281469,-71.599264,43.281469",
+    "geom:latitude":43.281469,
+    "geom:longitude":-71.599264,
+    "iso:country":"US",
+    "sg:address":"19 Sanders St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 6095",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PwRikx7LEW1QY2Uk3DAMe_43.281469_-71.599264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299377,
+    "wof:geomhash":"87fe83d2dc227c1e126bc23580904476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873877037
+        }
+    ],
+    "wof:id":873877037,
+    "wof:lastmodified":1464299377,
+    "wof:name":"Paul Philippe Painting",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.599264,
+    43.281469,
+    -71.599264,
+    43.281469
+],
+  "geometry": {"coordinates":[-71.59926400000001,43.281469],"type":"Point"}
+}

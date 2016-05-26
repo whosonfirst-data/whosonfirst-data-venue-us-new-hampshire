@@ -1,0 +1,71 @@
+{
+  "id": 873900907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470013,43.523993,-71.470013,43.523993",
+    "geom:latitude":43.523993,
+    "geom:longitude":-71.470013,
+    "iso:country":"US",
+    "sg:address":"26 Academy St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 4128",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06CAbWyrl9xGNS90CUaFPD_43.523993_-71.470013@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299833,
+    "wof:geomhash":"506718cdd129609e82a48ffb0cdf0ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873900907
+        }
+    ],
+    "wof:id":873900907,
+    "wof:lastmodified":1464299833,
+    "wof:name":"Laconia District Court",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.470013,
+    43.523993,
+    -71.470013,
+    43.523993
+],
+  "geometry": {"coordinates":[-71.47001299999999,43.523993],"type":"Point"}
+}

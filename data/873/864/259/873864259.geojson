@@ -1,0 +1,71 @@
+{
+  "id": 873864259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.916863,43.019158,-70.916863,43.019158",
+    "geom:latitude":43.019158,
+    "geom:longitude":-70.916863,
+    "iso:country":"US",
+    "sg:address":"108 Portsmouth Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 0540",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wxjn1o6fmrYXEzzCEjmRy_43.019158_-70.916863@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299124,
+    "wof:geomhash":"39e09744a65147fdc8981447cd8f4ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873864259
+        }
+    ],
+    "wof:id":873864259,
+    "wof:lastmodified":1464299124,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -70.916863,
+    43.019158,
+    -70.916863,
+    43.019158
+],
+  "geometry": {"coordinates":[-70.91686300000001,43.019158],"type":"Point"}
+}

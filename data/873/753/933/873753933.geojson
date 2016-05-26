@@ -1,0 +1,71 @@
+{
+  "id": 873753933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.72356,42.717603,-71.72356,42.717603",
+    "geom:latitude":42.717603,
+    "geom:longitude":-71.72356,
+    "iso:country":"US",
+    "sg:address":"427 Hurricane Hill Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 978 597 2453",
+    "sg:postcode":"03048",
+    "sg:province":"NH",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IIpTdo0ceEnlEQLiJ4MWS_42.717603_-71.723560@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297132,
+    "wof:geomhash":"76589d709d8bbd682522ccdf6a54df9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873753933
+        }
+    ],
+    "wof:id":873753933,
+    "wof:lastmodified":1464297132,
+    "wof:name":"Brian Rollo Electric",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.72356,
+    42.717603,
+    -71.72356,
+    42.717603
+],
+  "geometry": {"coordinates":[-71.72356000000001,42.717603],"type":"Point"}
+}

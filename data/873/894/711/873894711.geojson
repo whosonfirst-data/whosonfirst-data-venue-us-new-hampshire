@@ -1,0 +1,73 @@
+{
+  "id": 873894711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469894,43.527882,-71.469894,43.527882",
+    "geom:latitude":43.527882,
+    "geom:longitude":-71.469894,
+    "iso:country":"US",
+    "sg:address":"575 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 6945",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BpkYGI5Emvfzsy2v6AicG_43.527882_-71.469894@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299717,
+    "wof:geomhash":"68ca00ad3d1353b8999bb519813a7e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873894711
+        }
+    ],
+    "wof:id":873894711,
+    "wof:lastmodified":1464299717,
+    "wof:name":"Service Link Of Belknap County",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -71.469894,
+    43.527882,
+    -71.469894,
+    43.527882
+],
+  "geometry": {"coordinates":[-71.469894,43.527882],"type":"Point"}
+}

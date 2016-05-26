@@ -1,0 +1,78 @@
+{
+  "id": 873929125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.020264,42.816509,-72.020264,42.816509",
+    "geom:latitude":42.816509,
+    "geom:longitude":-72.020264,
+    "iso:country":"US",
+    "sg:address":"28 Peterborough St",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 4466",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "brew",
+        "greek",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RYma4IlG1YrFa3XzFlX6x_42.816509_-72.020264@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300392,
+    "wof:geomhash":"1febe668976af5222b57e8fff8146f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929125
+        }
+    ],
+    "wof:id":873929125,
+    "wof:lastmodified":1464300392,
+    "wof:name":"Athens Pizza House & Rstrnt",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "greek",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.020264,
+    42.816509,
+    -72.020264,
+    42.816509
+],
+  "geometry": {"coordinates":[-72.020264,42.816509],"type":"Point"}
+}

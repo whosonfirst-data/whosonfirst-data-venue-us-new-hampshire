@@ -1,0 +1,77 @@
+{
+  "id": 873640249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.145379,43.379699,-72.145379,43.379699",
+    "geom:latitude":43.379699,
+    "geom:longitude":-72.145379,
+    "iso:country":"US",
+    "sg:address":"453 Sunapee St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 863 3322",
+    "sg:postcode":"03782",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837859,
+        102191575,
+        404477077,
+        85633793,
+        85975187,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EDrIELx3A49Td075G0vAf_43.379699_-72.145379@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295475,
+    "wof:geomhash":"52a6e493da2bb0bcadb897650012acad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477077,
+            "locality_id":85975187,
+            "neighbourhood_id":85837859,
+            "region_id":85688689,
+            "venue_id":873640249
+        }
+    ],
+    "wof:id":873640249,
+    "wof:lastmodified":1464295475,
+    "wof:name":"Brown's Auto & Marine",
+    "wof:parent_id":85837859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.145379,
+    43.379699,
+    -72.145379,
+    43.379699
+],
+  "geometry": {"coordinates":[-72.14537900000001,43.379699],"type":"Point"}
+}

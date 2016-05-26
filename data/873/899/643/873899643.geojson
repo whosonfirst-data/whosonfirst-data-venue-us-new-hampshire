@@ -1,0 +1,82 @@
+{
+  "id": 873899643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.955593,43.298425,-70.955593,43.298425",
+    "geom:latitude":43.298425,
+    "geom:longitude":-70.955593,
+    "iso:country":"US",
+    "sg:address":"40 Whitehall Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 7711",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ],
+    "sg:website":"www.rochestermanor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892309,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E4EFsNdCNPCCusdCTvTl9_43.298425_-70.955593@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299811,
+    "wof:geomhash":"4412f37ea857593c653da286fdf57dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85892309,
+            "region_id":85688689,
+            "venue_id":873899643
+        }
+    ],
+    "wof:id":873899643,
+    "wof:lastmodified":1464299811,
+    "wof:name":"Rochester Manor Inc",
+    "wof:parent_id":85892309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "skilled",
+        "convalescent",
+        "home"
+    ]
+},
+  "bbox": [
+    -70.955593,
+    43.298425,
+    -70.955593,
+    43.298425
+],
+  "geometry": {"coordinates":[-70.95559299999999,43.298425],"type":"Point"}
+}

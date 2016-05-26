@@ -1,0 +1,69 @@
+{
+  "id": 873879311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501659,43.656059,-71.501659,43.656059",
+    "geom:latitude":43.656059,
+    "geom:longitude":-71.501659,
+    "iso:country":"US",
+    "sg:address":"4 Water St",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 0474",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85833797,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DzAlTR8FWEayK1ty81muT_43.656059_-71.501659@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299420,
+    "wof:geomhash":"9531a50abacd9f66cb3b0ba6d8df27be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85833797,
+            "region_id":85688689,
+            "venue_id":873879311
+        }
+    ],
+    "wof:id":873879311,
+    "wof:lastmodified":1464299420,
+    "wof:name":"Initial Shop",
+    "wof:parent_id":85833797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.501659,
+    43.656059,
+    -71.501659,
+    43.656059
+],
+  "geometry": {"coordinates":[-71.501659,43.656059],"type":"Point"}
+}

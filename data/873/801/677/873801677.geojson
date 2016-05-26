@@ -1,0 +1,73 @@
+{
+  "id": 873801677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187396,44.467904,-71.187396,44.467904",
+    "geom:latitude":44.467904,
+    "geom:longitude":-71.187396,
+    "iso:country":"US",
+    "sg:address":"15 Mount Forist St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1700",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "united",
+        "postal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Oq9YXjiNIlwOVwvRgX2NV_44.467904_-71.187396@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297793,
+    "wof:geomhash":"444c8837fc6aeb970dc0857c38460963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873801677
+        }
+    ],
+    "wof:id":873801677,
+    "wof:lastmodified":1464297793,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "united",
+        "postal"
+    ]
+},
+  "bbox": [
+    -71.187396,
+    44.467904,
+    -71.187396,
+    44.467904
+],
+  "geometry": {"coordinates":[-71.18739600000001,44.467904],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873765929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.198931,42.900266,-72.198931,42.900266",
+    "geom:latitude":42.900266,
+    "geom:longitude":-72.198931,
+    "iso:country":"US",
+    "sg:address":"96 Pleasant St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4176",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dw8BWNHvQDJSvq7AiXtsj_42.900266_-72.198931@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297311,
+    "wof:geomhash":"8cfcd081129df2f6834916fca0c28da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873765929
+        }
+    ],
+    "wof:id":873765929,
+    "wof:lastmodified":1464297311,
+    "wof:name":"C & C Healthcare Unlimited Inc",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -72.198931,
+    42.900266,
+    -72.198931,
+    42.900266
+],
+  "geometry": {"coordinates":[-72.198931,42.900266],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873910975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.102655,43.117993,-71.102655,43.117993",
+    "geom:latitude":43.117993,
+    "geom:longitude":-71.102655,
+    "iso:country":"US",
+    "sg:address":"128 Stage Rd",
+    "sg:city":"Nottingham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 679 8903",
+    "sg:postcode":"03290",
+    "sg:province":"NH",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838565,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qtdjfD57gozGFP7AAckML_43.117993_-71.102655@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300031,
+    "wof:geomhash":"8d665875d77c2f0d42c68519b14bd1b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85838565,
+            "region_id":85688689,
+            "venue_id":873910975
+        }
+    ],
+    "wof:id":873910975,
+    "wof:lastmodified":1464300031,
+    "wof:name":"Nottingham Fire and Rescue",
+    "wof:parent_id":85838565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.102655,
+    43.117993,
+    -71.102655,
+    43.117993
+],
+  "geometry": {"coordinates":[-71.102655,43.117993],"type":"Point"}
+}

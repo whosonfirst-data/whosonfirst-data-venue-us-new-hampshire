@@ -1,0 +1,70 @@
+{
+  "id": 873933551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.125725,44.052194,-71.125725,44.052194",
+    "geom:latitude":44.052194,
+    "geom:longitude":-71.125725,
+    "iso:country":"US",
+    "sg:address":"42 Seavey St",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 8700",
+    "sg:postcode":"03860",
+    "sg:province":"NH",
+    "sg:website":"www.kearsargeinn.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85843529,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DDSLfxiaiEA5SRG7PkYBI_44.052194_-71.125725@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300473,
+    "wof:geomhash":"1fa91efe87af20ad13ae695387d6c52f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85843529,
+            "region_id":85688689,
+            "venue_id":873933551
+        }
+    ],
+    "wof:id":873933551,
+    "wof:lastmodified":1464300473,
+    "wof:name":"Kearsage Inn",
+    "wof:parent_id":85843529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.125725,
+    44.052194,
+    -71.125725,
+    44.052194
+],
+  "geometry": {"coordinates":[-71.125725,44.052194],"type":"Point"}
+}

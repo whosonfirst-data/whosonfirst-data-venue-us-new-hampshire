@@ -1,0 +1,75 @@
+{
+  "id": 873569171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197222,44.480323,-71.197222,44.480323",
+    "geom:latitude":44.480323,
+    "geom:longitude":-71.197222,
+    "iso:country":"US",
+    "sg:address":"21 Jericho Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 1243",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rYr4ZS30EhaXvY0BfeWYv_44.480323_-71.197222@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294597,
+    "wof:geomhash":"cd81e866742f8b48b75c140818d0a800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873569171
+        }
+    ],
+    "wof:id":873569171,
+    "wof:lastmodified":1464294597,
+    "wof:name":"Paul's Body Shop",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.197222,
+    44.480323,
+    -71.197222,
+    44.480323
+],
+  "geometry": {"coordinates":[-71.197222,44.480323],"type":"Point"}
+}

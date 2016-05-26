@@ -1,0 +1,69 @@
+{
+  "id": 873595761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.73476,43.163588,-71.73476,43.163588",
+    "geom:latitude":43.163588,
+    "geom:longitude":-71.73476,
+    "iso:country":"US",
+    "sg:address":"978 Hatfield Rd",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 746 5629",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855701,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HmqCjGoTxvfbNWd2pBcoe_43.163588_-71.734760@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294920,
+    "wof:geomhash":"fc40a7861c2d832bee8a299589516498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85855701,
+            "region_id":85688689,
+            "venue_id":873595761
+        }
+    ],
+    "wof:id":873595761,
+    "wof:lastmodified":1464294920,
+    "wof:name":"Weldon Transport",
+    "wof:parent_id":85855701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -71.73476,
+    43.163588,
+    -71.73476,
+    43.163588
+],
+  "geometry": {"coordinates":[-71.73475999999999,43.163588],"type":"Point"}
+}

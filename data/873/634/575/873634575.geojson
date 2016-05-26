@@ -1,0 +1,73 @@
+{
+  "id": 873634575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41836,43.487377,-71.41836,43.487377",
+    "geom:latitude":43.487377,
+    "geom:longitude":-71.41836,
+    "iso:country":"US",
+    "sg:address":"267 Durrell Mountain Rd",
+    "sg:city":"Belmont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 528 2073",
+    "sg:postcode":"03220",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bLsFuXfEcYqIuyQCvQspF_43.487377_-71.418360@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295419,
+    "wof:geomhash":"2e7e3f72d03b7729606b1efcff264e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873634575
+        }
+    ],
+    "wof:id":873634575,
+    "wof:lastmodified":1464295419,
+    "wof:name":"Roberts Painting",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.41836,
+    43.487377,
+    -71.41836,
+    43.487377
+],
+  "geometry": {"coordinates":[-71.41836000000001,43.487377],"type":"Point"}
+}

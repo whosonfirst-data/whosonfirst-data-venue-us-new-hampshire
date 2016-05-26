@@ -1,0 +1,89 @@
+{
+  "id": 873931801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.979729,43.014811,-70.979729,43.014811",
+    "geom:latitude":43.014811,
+    "geom:longitude":-70.979729,
+    "iso:country":"US",
+    "sg:address":"62 Beech Hill Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 778 9988",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavation",
+        "firewood",
+        "snow",
+        "removal",
+        "contractor",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0UA3SaNRFPoaNnaYThUR_43.014811_-70.979729@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300443,
+    "wof:geomhash":"76e76fb0c16d7665cf09df987d44bd8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873931801
+        }
+    ],
+    "wof:id":873931801,
+    "wof:lastmodified":1464300443,
+    "wof:name":"Barker Backhoe Etc",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "firewood",
+        "snow",
+        "removal",
+        "contractor",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -70.979729,
+    43.014811,
+    -70.979729,
+    43.014811
+],
+  "geometry": {"coordinates":[-70.97972900000001,43.014811],"type":"Point"}
+}

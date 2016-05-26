@@ -1,0 +1,71 @@
+{
+  "id": 873540119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.697869,42.838044,-71.697869,42.838044",
+    "geom:latitude":42.838044,
+    "geom:longitude":-71.697869,
+    "iso:country":"US",
+    "sg:address":"19 Perry Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 3773",
+    "sg:postcode":"03055",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841309,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A1O8m8OLFt3koTXDf3no1_42.838044_-71.697869@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294260,
+    "wof:geomhash":"5d86ca5af55af767ee7bf15a27a642f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841309,
+            "region_id":85688689,
+            "venue_id":873540119
+        }
+    ],
+    "wof:id":873540119,
+    "wof:lastmodified":1464294260,
+    "wof:name":"GTA Auto Svc LLC",
+    "wof:parent_id":85841309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.697869,
+    42.838044,
+    -71.697869,
+    42.838044
+],
+  "geometry": {"coordinates":[-71.697869,42.838044],"type":"Point"}
+}

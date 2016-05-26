@@ -1,0 +1,89 @@
+{
+  "id": 873926275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.212349,42.758403,-71.212349,42.758403",
+    "geom:latitude":42.758403,
+    "geom:longitude":-71.212349,
+    "iso:country":"US",
+    "sg:address":"289 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 894 1900",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "paint",
+        "store",
+        "improvement"
+    ],
+    "sg:website":"http://www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01EpB5G92iqrdWrljH1AB6_42.758403_-71.212349@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300332,
+    "wof:geomhash":"b9c57b351b381b9438a4521ea2c8d792",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873926275
+        }
+    ],
+    "wof:id":873926275,
+    "wof:lastmodified":1464300332,
+    "wof:name":"The Home Depot",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.212349,
+    42.758403,
+    -71.212349,
+    42.758403
+],
+  "geometry": {"coordinates":[-71.212349,42.758403],"type":"Point"}
+}

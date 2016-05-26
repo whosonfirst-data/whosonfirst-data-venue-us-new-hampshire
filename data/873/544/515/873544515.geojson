@@ -1,0 +1,73 @@
+{
+  "id": 873544515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505403,44.497353,-71.505403,44.497353",
+    "geom:latitude":44.497353,
+    "geom:longitude":-71.505403,
+    "iso:country":"US",
+    "sg:address":"10 Lost Nation Rd",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4258",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JL4vzhcIlyb3wuu8EWZXx_44.497353_-71.505403@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294311,
+    "wof:geomhash":"c6e7bfb769c6b5ddc4fae26b78c16d91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873544515
+        }
+    ],
+    "wof:id":873544515,
+    "wof:lastmodified":1464294311,
+    "wof:name":"Little Somethings",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.505403,
+    44.497353,
+    -71.505403,
+    44.497353
+],
+  "geometry": {"coordinates":[-71.505403,44.497353],"type":"Point"}
+}

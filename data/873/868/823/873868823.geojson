@@ -1,0 +1,73 @@
+{
+  "id": 873868823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.008088,43.013479,-71.008088,43.013479",
+    "geom:latitude":43.013479,
+    "geom:longitude":-71.008088,
+    "iso:country":"US",
+    "sg:address":"2 Pine Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 2487",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WzyFv7V4dD3b3Z3mmbbuU_43.013479_-71.008088@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299205,
+    "wof:geomhash":"e0cb3ca0536f8a208edbd17520bb6f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873868823
+        }
+    ],
+    "wof:id":873868823,
+    "wof:lastmodified":1464299205,
+    "wof:name":"Squier's Auto Body",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.008088,
+    43.013479,
+    -71.008088,
+    43.013479
+],
+  "geometry": {"coordinates":[-71.008088,43.013479],"type":"Point"}
+}

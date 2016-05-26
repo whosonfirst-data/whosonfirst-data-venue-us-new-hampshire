@@ -1,0 +1,78 @@
+{
+  "id": 873926197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.243661,42.803917,-71.243661,42.803917",
+    "geom:latitude":42.803917,
+    "geom:longitude":-71.243661,
+    "iso:country":"US",
+    "sg:address":"354 N Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 3263",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aAO4RnuT2vFWJaCJjPqoR_42.803917_-71.243661@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300330,
+    "wof:geomhash":"2182a69deaf05944a6fc970674644584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873926197
+        }
+    ],
+    "wof:id":873926197,
+    "wof:lastmodified":1464300330,
+    "wof:name":"Crossroads Auto Repair",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -71.243661,
+    42.803917,
+    -71.243661,
+    42.803917
+],
+  "geometry": {"coordinates":[-71.243661,42.803917],"type":"Point"}
+}

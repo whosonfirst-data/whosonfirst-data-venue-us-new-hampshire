@@ -1,0 +1,71 @@
+{
+  "id": 873909483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.869136,43.006283,-70.869136,43.006283",
+    "geom:latitude":43.006283,
+    "geom:longitude":-70.869136,
+    "iso:country":"US",
+    "sg:address":"188 Winnicutt Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5350",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858307,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70SFfbzRlvGjbHe6Cj9qdu_43.006283_-70.869136@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300003,
+    "wof:geomhash":"4dfde6a30d22988eff843369397ce69e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858307,
+            "region_id":85688689,
+            "venue_id":873909483
+        }
+    ],
+    "wof:id":873909483,
+    "wof:lastmodified":1464300003,
+    "wof:name":"Pete's Landscaping Inc",
+    "wof:parent_id":85858307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.869136,
+    43.006283,
+    -70.869136,
+    43.006283
+],
+  "geometry": {"coordinates":[-70.869136,43.006283],"type":"Point"}
+}

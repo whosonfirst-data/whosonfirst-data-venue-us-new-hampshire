@@ -1,0 +1,71 @@
+{
+  "id": 873657595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.880684,43.219754,-71.880684,43.219754",
+    "geom:latitude":43.219754,
+    "geom:longitude":-71.880684,
+    "iso:country":"US",
+    "sg:address":"3210 State Rte 114",
+    "sg:city":"Bradford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 938 2613",
+    "sg:postcode":"03221",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854707,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68dR8lzVv9KQy97gEly032_43.219754_-71.880684@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295674,
+    "wof:geomhash":"35fc5ad3362ebd93f0ab023546313317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85854707,
+            "region_id":85688689,
+            "venue_id":873657595
+        }
+    ],
+    "wof:id":873657595,
+    "wof:lastmodified":1464295674,
+    "wof:name":"William Gould Excavation",
+    "wof:parent_id":85854707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.880684,
+    43.219754,
+    -71.880684,
+    43.219754
+],
+  "geometry": {"coordinates":[-71.880684,43.219754],"type":"Point"}
+}

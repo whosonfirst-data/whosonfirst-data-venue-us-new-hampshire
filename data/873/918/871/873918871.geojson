@@ -1,0 +1,78 @@
+{
+  "id": 873918871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.881655,43.234081,-70.881655,43.234081",
+    "geom:latitude":43.234081,
+    "geom:longitude":-70.881655,
+    "iso:country":"US",
+    "sg:address":"430 High St",
+    "sg:city":"Somersworth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/somersworth/129640-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 692 5700",
+    "sg:postcode":"03878",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526417,
+        102191575,
+        404477061,
+        85633793,
+        85975057,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50za9BfOGxqwWGiK1DKZTr_43.234081_-70.881655@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300193,
+    "wof:geomhash":"825e09f29f67eb9739e132958116729a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404477061,
+            "locality_id":85975057,
+            "neighbourhood_id":420526417,
+            "region_id":85688689,
+            "venue_id":873918871
+        }
+    ],
+    "wof:id":873918871,
+    "wof:lastmodified":1464300193,
+    "wof:name":"Subway",
+    "wof:parent_id":420526417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.881655,
+    43.234081,
+    -70.881655,
+    43.234081
+],
+  "geometry": {"coordinates":[-70.88165499999999,43.234081],"type":"Point"}
+}

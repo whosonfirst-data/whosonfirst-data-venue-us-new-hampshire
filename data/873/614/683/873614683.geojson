@@ -1,0 +1,69 @@
+{
+  "id": 873614683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.16971,44.385431,-71.16971,44.385431",
+    "geom:latitude":44.385431,
+    "geom:longitude":-71.16971,
+    "iso:country":"US",
+    "sg:address":"38 Washington St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 9430",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CYni3Na4kIOP6hLhKom5B_44.385431_-71.169710@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295192,
+    "wof:geomhash":"1e3bcf595b357e52d6981a2172a38b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873614683
+        }
+    ],
+    "wof:id":873614683,
+    "wof:lastmodified":1464295192,
+    "wof:name":"Donatos Heating and Burner SE",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.16971,
+    44.385431,
+    -71.16971,
+    44.385431
+],
+  "geometry": {"coordinates":[-71.16970999999999,44.385431],"type":"Point"}
+}

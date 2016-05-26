@@ -1,0 +1,69 @@
+{
+  "id": 873642837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.070058,42.951734,-71.070058,42.951734",
+    "geom:latitude":42.951734,
+    "geom:longitude":-71.070058,
+    "iso:country":"US",
+    "sg:address":"33 Marshall Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 4266",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85807255,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wGF5Pl3FCH92nNpr05qGm_42.951734_-71.070058@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295509,
+    "wof:geomhash":"c96c02de00953d363d347edc77625400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85807255,
+            "region_id":85688689,
+            "venue_id":873642837
+        }
+    ],
+    "wof:id":873642837,
+    "wof:lastmodified":1464295509,
+    "wof:name":"Bonin Plumbing & Heating",
+    "wof:parent_id":85807255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing"
+    ]
+},
+  "bbox": [
+    -71.070058,
+    42.951734,
+    -71.070058,
+    42.951734
+],
+  "geometry": {"coordinates":[-71.070058,42.951734],"type":"Point"}
+}

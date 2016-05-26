@@ -1,0 +1,71 @@
+{
+  "id": 873631921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549617,43.340022,-71.549617,43.340022",
+    "geom:latitude":43.340022,
+    "geom:longitude":-71.549617,
+    "iso:country":"US",
+    "sg:address":"104 Baptist Rd",
+    "sg:city":"Canterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 783 8303",
+    "sg:postcode":"03224",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806895,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mILAlZ06EBb2YgwKpkyqJ_43.340022_-71.549617@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295384,
+    "wof:geomhash":"ea11c59cb7b2933f7536251125983f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806895,
+            "region_id":85688689,
+            "venue_id":873631921
+        }
+    ],
+    "wof:id":873631921,
+    "wof:lastmodified":1464295384,
+    "wof:name":"Drew Bob Electrical Contg",
+    "wof:parent_id":85806895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.549617,
+    43.340022,
+    -71.549617,
+    43.340022
+],
+  "geometry": {"coordinates":[-71.549617,43.340022],"type":"Point"}
+}

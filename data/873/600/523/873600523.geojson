@@ -1,0 +1,69 @@
+{
+  "id": 873600523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.957348,43.137293,-70.957348,43.137293",
+    "geom:latitude":43.137293,
+    "geom:longitude":-70.957348,
+    "iso:country":"US",
+    "sg:address":"271 Mast Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 868 7600",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tHwrzCq1x5dkAduGX2Vhd_43.137293_-70.957348@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"4437af7ecbb7aa2f68ebd98bdaf7c608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873600523
+        }
+    ],
+    "wof:id":873600523,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Northstern Frest Expriment Stn",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    -70.957348,
+    43.137293,
+    -70.957348,
+    43.137293
+],
+  "geometry": {"coordinates":[-70.957348,43.137293],"type":"Point"}
+}

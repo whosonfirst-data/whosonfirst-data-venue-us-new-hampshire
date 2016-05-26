@@ -1,0 +1,77 @@
+{
+  "id": 873588387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.060409,43.395869,-71.060409,43.395869",
+    "geom:latitude":43.395869,
+    "geom:longitude":-71.060409,
+    "iso:country":"US",
+    "sg:address":"43 Bunker St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 755 2590",
+    "sg:postcode":"03835",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pf065RXmEW2jfkH3TOEeq_43.395869_-71.060409@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294811,
+    "wof:geomhash":"4fff738f4a49c8bc366c0889ea7c5b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873588387
+        }
+    ],
+    "wof:id":873588387,
+    "wof:lastmodified":1464294811,
+    "wof:name":"Bob's Garage",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.060409,
+    43.395869,
+    -71.060409,
+    43.395869
+],
+  "geometry": {"coordinates":[-71.06040900000001,43.395869],"type":"Point"}
+}

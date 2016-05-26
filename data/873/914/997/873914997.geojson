@@ -1,0 +1,70 @@
+{
+  "id": 873914997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.019845,42.81347,-72.019845,42.81347",
+    "geom:latitude":42.81347,
+    "geom:longitude":-72.019845,
+    "iso:country":"US",
+    "sg:address":"25 Turnpike Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8765",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant"
+    ],
+    "sg:website":"http://www.tiegerrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YYIMdnROd84sDfuQXf9iX_42.813531_-72.020132@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300106,
+    "wof:geomhash":"37e8a8421e51099c4e1e6129eb70cf92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873914997
+        }
+    ],
+    "wof:id":873914997,
+    "wof:lastmodified":1464300106,
+    "wof:name":"Tieger Realty Company Inc",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -72.019845,
+    42.81347,
+    -72.019845,
+    42.81347
+],
+  "geometry": {"coordinates":[-72.019845,42.81347],"type":"Point"}
+}

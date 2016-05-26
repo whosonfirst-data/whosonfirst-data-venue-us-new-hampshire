@@ -1,0 +1,69 @@
+{
+  "id": 873911481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273485,42.797679,-71.273485,42.797679",
+    "geom:latitude":42.797679,
+    "geom:longitude":-71.273485,
+    "iso:country":"US",
+    "sg:address":"3 Locust Rd",
+    "sg:city":"Windham",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 3124",
+    "sg:postcode":"03087",
+    "sg:province":"NH",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lxi0CLdRc5mp7AHFviVcx_42.797679_-71.273485@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300040,
+    "wof:geomhash":"23bf4a49192283b55362f14843304b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873911481
+        }
+    ],
+    "wof:id":873911481,
+    "wof:lastmodified":1464300040,
+    "wof:name":"Compuclinic",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -71.273485,
+    42.797679,
+    -71.273485,
+    42.797679
+],
+  "geometry": {"coordinates":[-71.27348499999999,42.797679],"type":"Point"}
+}

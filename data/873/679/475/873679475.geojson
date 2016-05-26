@@ -1,0 +1,71 @@
+{
+  "id": 873679475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.267502,43.729043,-72.267502,43.729043",
+    "geom:latitude":43.729043,
+    "geom:longitude":-72.267502,
+    "iso:country":"US",
+    "sg:address":"46 Lyme Rd",
+    "sg:city":"Hanover",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 643 3610",
+    "sg:postcode":"03755",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975143,
+        102086567,
+        85844837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RQaN9KWBuBeWg08ZoMgBd_43.729043_-72.267502@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295981,
+    "wof:geomhash":"7092d620dc9b3ba2ba2e7317ed4f57aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975143,
+            "neighbourhood_id":85844837,
+            "region_id":85688689,
+            "venue_id":873679475
+        }
+    ],
+    "wof:id":873679475,
+    "wof:lastmodified":1464295981,
+    "wof:name":"Hanover Ambulance Emrgncy Svc",
+    "wof:parent_id":85844837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -72.267502,
+    43.729043,
+    -72.267502,
+    43.729043
+],
+  "geometry": {"coordinates":[-72.26750199999999,43.729043],"type":"Point"}
+}

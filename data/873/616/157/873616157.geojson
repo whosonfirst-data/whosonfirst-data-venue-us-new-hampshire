@@ -1,0 +1,76 @@
+{
+  "id": 873616157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.923427,43.036972,-70.923427,43.036972",
+    "geom:latitude":43.036972,
+    "geom:longitude":-70.923427,
+    "iso:country":"US",
+    "sg:address":"73 College Rd",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 2171",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heavy",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WlEPl2eHtYrGIlCNswv7c_43.036972_-70.923427@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295206,
+    "wof:geomhash":"e5cf78e276ff4fee66f3e48a17d30d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873616157
+        }
+    ],
+    "wof:id":873616157,
+    "wof:lastmodified":1464295206,
+    "wof:name":"Bills Equipment Repair Inc",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "truck"
+    ]
+},
+  "bbox": [
+    -70.923427,
+    43.036972,
+    -70.923427,
+    43.036972
+],
+  "geometry": {"coordinates":[-70.923427,43.036972],"type":"Point"}
+}

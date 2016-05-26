@@ -1,0 +1,72 @@
+{
+  "id": 873686343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592293,44.496061,-71.592293,44.496061",
+    "geom:latitude":44.496061,
+    "geom:longitude":-71.592293,
+    "iso:country":"US",
+    "sg:address":"62 Bridge St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 4111",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"www.firststudent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xr03x023kAPArDiXsXUiR_44.496061_-71.592293@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296176,
+    "wof:geomhash":"591c79396f9474778b52ca2f1cb3cc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873686343
+        }
+    ],
+    "wof:id":873686343,
+    "wof:lastmodified":1464296176,
+    "wof:name":"First Student",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.592293,
+    44.496061,
+    -71.592293,
+    44.496061
+],
+  "geometry": {"coordinates":[-71.592293,44.496061],"type":"Point"}
+}

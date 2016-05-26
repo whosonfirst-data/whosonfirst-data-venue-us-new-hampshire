@@ -1,0 +1,72 @@
+{
+  "id": 873917769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446803,43.244292,-71.446803,43.244292",
+    "geom:latitude":43.244292,
+    "geom:longitude":-71.446803,
+    "iso:country":"US",
+    "sg:address":"379 Dover Rd",
+    "sg:city":"Chichester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/chichester/240794-weathervane/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 4044",
+    "sg:postcode":"03258",
+    "sg:province":"NH",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pDd2wj4jcyCvsRlBDTR8T_43.244292_-71.446803@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300173,
+    "wof:geomhash":"50eda5b02d7013952204e290a5ea17b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873917769
+        }
+    ],
+    "wof:id":873917769,
+    "wof:lastmodified":1464300173,
+    "wof:name":"Weathervane",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.446803,
+    43.244292,
+    -71.446803,
+    43.244292
+],
+  "geometry": {"coordinates":[-71.446803,43.244292],"type":"Point"}
+}

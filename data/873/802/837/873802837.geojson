@@ -1,0 +1,73 @@
+{
+  "id": 873802837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.632189,44.407165,-71.632189,44.407165",
+    "geom:latitude":44.407165,
+    "geom:longitude":-71.632189,
+    "iso:country":"US",
+    "sg:address":"436 French Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 9102",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LYiQgP3HzEXWVQiME3K07_44.407165_-71.632189@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297808,
+    "wof:geomhash":"31c4ca8110f04507d7cd6e956a33a3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873802837
+        }
+    ],
+    "wof:id":873802837,
+    "wof:lastmodified":1464297808,
+    "wof:name":"Dean's Body Shop",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.632189,
+    44.407165,
+    -71.632189,
+    44.407165
+],
+  "geometry": {"coordinates":[-71.632189,44.407165],"type":"Point"}
+}

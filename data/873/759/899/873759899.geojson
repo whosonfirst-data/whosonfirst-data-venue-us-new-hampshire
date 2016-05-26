@@ -1,0 +1,73 @@
+{
+  "id": 873759899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.636168,43.453573,-71.636168,43.453573",
+    "geom:latitude":43.453573,
+    "geom:longitude":-71.636168,
+    "iso:country":"US",
+    "sg:address":"35 Woodrow Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5130",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "health",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCMCmp8gC92JJVdRnLpZt_43.453573_-71.636168@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297205,
+    "wof:geomhash":"e1a0dc5e9d1e5e6e482a3bc3175f34d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873759899
+        }
+    ],
+    "wof:id":873759899,
+    "wof:lastmodified":1464297205,
+    "wof:name":"Chesley Home",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "health",
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.636168,
+    43.453573,
+    -71.636168,
+    43.453573
+],
+  "geometry": {"coordinates":[-71.636168,43.453573],"type":"Point"}
+}

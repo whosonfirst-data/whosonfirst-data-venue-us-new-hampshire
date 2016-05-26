@@ -1,0 +1,71 @@
+{
+  "id": 873807323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.085825,43.211218,-71.085825,43.211218",
+    "geom:latitude":43.211218,
+    "geom:longitude":-71.085825,
+    "iso:country":"US",
+    "sg:address":"257 US Hwy 202",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 664 8899",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855207,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65XbjNQw3z1Id2lEm6lUMj_43.211218_-71.085825@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297877,
+    "wof:geomhash":"e3f65257f7fe5975658d51a4b2694bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85855207,
+            "region_id":85688689,
+            "venue_id":873807323
+        }
+    ],
+    "wof:id":873807323,
+    "wof:lastmodified":1464297877,
+    "wof:name":"Haddens Fine Carpentry",
+    "wof:parent_id":85855207,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.085825,
+    43.211218,
+    -71.085825,
+    43.211218
+],
+  "geometry": {"coordinates":[-71.085825,43.211218],"type":"Point"}
+}

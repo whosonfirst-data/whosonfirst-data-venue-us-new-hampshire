@@ -1,0 +1,71 @@
+{
+  "id": 873835989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530008,42.719521,-71.530008,42.719521",
+    "geom:latitude":42.719521,
+    "geom:longitude":-71.530008,
+    "iso:country":"US",
+    "sg:address":"14 Clovercrest Dr",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 3138",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lIYXGsu2fgomwfg5RFzyX_42.719521_-71.530008@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298466,
+    "wof:geomhash":"cc94539969fcd7cbd13679e1b85e2134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873835989
+        }
+    ],
+    "wof:id":873835989,
+    "wof:lastmodified":1464298466,
+    "wof:name":"Holidays",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -71.530008,
+    42.719521,
+    -71.530008,
+    42.719521
+],
+  "geometry": {"coordinates":[-71.530008,42.719521],"type":"Point"}
+}

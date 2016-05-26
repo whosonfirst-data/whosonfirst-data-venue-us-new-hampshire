@@ -1,0 +1,71 @@
+{
+  "id": 873837041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.29991,42.904189,-72.29991,42.904189",
+    "geom:latitude":42.904189,
+    "geom:longitude":-72.29991,
+    "iso:country":"US",
+    "sg:address":"110 W Swanzey Rd",
+    "sg:city":"East Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 6122",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85851667,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6crYzS0kSC6eZI5ZpYvLxc_42.904189_-72.299910@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298485,
+    "wof:geomhash":"a11ae57ec7068c8c07e287ce564f925c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85851667,
+            "region_id":85688689,
+            "venue_id":873837041
+        }
+    ],
+    "wof:id":873837041,
+    "wof:lastmodified":1464298485,
+    "wof:name":"Controlled Comfort Service",
+    "wof:parent_id":85851667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -72.29991,
+    42.904189,
+    -72.29991,
+    42.904189
+],
+  "geometry": {"coordinates":[-72.29991,42.904189],"type":"Point"}
+}

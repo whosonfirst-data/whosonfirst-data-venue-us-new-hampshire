@@ -1,0 +1,71 @@
+{
+  "id": 873649895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186084,44.480337,-71.186084,44.480337",
+    "geom:latitude":44.480337,
+    "geom:longitude":-71.186084,
+    "iso:country":"US",
+    "sg:address":"128 Jasper St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 5541",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OdkpfF6fVSyD39qv4hasl_44.480337_-71.186084@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295585,
+    "wof:geomhash":"6ac379330b1117909f4bd18577317a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873649895
+        }
+    ],
+    "wof:id":873649895,
+    "wof:lastmodified":1464295585,
+    "wof:name":"Vaillancourt's Electric",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.186084,
+    44.480337,
+    -71.186084,
+    44.480337
+],
+  "geometry": {"coordinates":[-71.18608399999999,44.480337],"type":"Point"}
+}

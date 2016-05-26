@@ -1,0 +1,74 @@
+{
+  "id": 873931017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.127403,43.978699,-71.127403,43.978699",
+    "geom:latitude":43.978699,
+    "geom:longitude":-71.127403,
+    "iso:country":"US",
+    "sg:address":"176 Main St",
+    "sg:city":"Conway",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 447 2595",
+    "sg:postcode":"03818",
+    "sg:province":"NH",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zCQDMRlvTy98IEWT5Ez0U_43.978699_-71.127403@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300430,
+    "wof:geomhash":"b52645217e78c44dae52340eae0e354d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873931017
+        }
+    ],
+    "wof:id":873931017,
+    "wof:lastmodified":1464300430,
+    "wof:name":"Conway School District Little Eagles Preschool",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.127403,
+    43.978699,
+    -71.127403,
+    43.978699
+],
+  "geometry": {"coordinates":[-71.127403,43.978699],"type":"Point"}
+}

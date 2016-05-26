@@ -1,0 +1,73 @@
+{
+  "id": 873883509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200679,42.744534,-71.200679,42.744534",
+    "geom:latitude":42.744534,
+    "geom:longitude":-71.200679,
+    "iso:country":"US",
+    "sg:address":"440 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 4444",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950411,
+        102084463,
+        85823749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17gL1HMV6MnApx3boj5xot_42.744534_-71.200679@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299504,
+    "wof:geomhash":"fbc29b4752f748264e232d7980f648f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950411,
+            "neighbourhood_id":85823749,
+            "region_id":85688645,
+            "venue_id":873883509
+        }
+    ],
+    "wof:id":873883509,
+    "wof:lastmodified":1464299504,
+    "wof:name":"Haffner's Car Wash",
+    "wof:parent_id":85823749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.200679,
+    42.744534,
+    -71.200679,
+    42.744534
+],
+  "geometry": {"coordinates":[-71.20067899999999,42.744534],"type":"Point"}
+}

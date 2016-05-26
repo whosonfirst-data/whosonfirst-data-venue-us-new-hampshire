@@ -1,0 +1,75 @@
+{
+  "id": 873935305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.197694,43.598614,-71.197694,43.598614",
+    "geom:latitude":43.598614,
+    "geom:longitude":-71.197694,
+    "iso:country":"US",
+    "sg:address":"18 Center St",
+    "sg:city":"Wolfeboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 569 3904",
+    "sg:postcode":"03894",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858451,
+        102191575,
+        404476973,
+        85633793,
+        85975095,
+        102086581,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wfastmgL9mb0HWRgBpaxd_43.598614_-71.197694@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300506,
+    "wof:geomhash":"66d0405a8a54d689a64775858cd4ccfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086581,
+            "localadmin_id":404476973,
+            "locality_id":85975095,
+            "neighbourhood_id":85858451,
+            "region_id":85688689,
+            "venue_id":873935305
+        }
+    ],
+    "wof:id":873935305,
+    "wof:lastmodified":1464300506,
+    "wof:name":"Anthony's Old Style Pizzeria",
+    "wof:parent_id":85858451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.197694,
+    43.598614,
+    -71.197694,
+    43.598614
+],
+  "geometry": {"coordinates":[-71.197694,43.598614],"type":"Point"}
+}

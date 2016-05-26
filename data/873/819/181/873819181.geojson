@@ -1,0 +1,76 @@
+{
+  "id": 873819181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458705,43.529414,-71.458705,43.529414",
+    "geom:latitude":43.529414,
+    "geom:longitude":-71.458705,
+    "iso:country":"US",
+    "sg:address":"157 Winter St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1034",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04MSUlZRyPYPCSiYdFQ6Oq_43.529414_-71.458705@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298104,
+    "wof:geomhash":"d99e38a8031c5bfcdfb5193a74a6f606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873819181
+        }
+    ],
+    "wof:id":873819181,
+    "wof:lastmodified":1464298104,
+    "wof:name":"Turcotte Appliance Repair Serv",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.458705,
+    43.529414,
+    -71.458705,
+    43.529414
+],
+  "geometry": {"coordinates":[-71.45870499999999,43.529414],"type":"Point"}
+}

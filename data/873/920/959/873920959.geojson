@@ -1,0 +1,86 @@
+{
+  "id": 873920959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555256,42.710255,-71.555256,42.710255",
+    "geom:latitude":42.710255,
+    "geom:longitude":-71.555256,
+    "iso:country":"US",
+    "sg:address":"17 Clinton Dr",
+    "sg:city":"Hollis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 3600",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dY9DiYkpYTQ3xVO22WHBU_42.710255_-71.555256@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300227,
+    "wof:geomhash":"75768374be4358058bed78e6d676a160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873920959
+        }
+    ],
+    "wof:id":873920959,
+    "wof:lastmodified":1464300227,
+    "wof:name":"Skelley Medical",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.555256,
+    42.710255,
+    -71.555256,
+    42.710255
+],
+  "geometry": {"coordinates":[-71.555256,42.710255],"type":"Point"}
+}

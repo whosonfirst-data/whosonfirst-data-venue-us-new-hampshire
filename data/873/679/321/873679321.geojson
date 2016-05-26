@@ -1,0 +1,73 @@
+{
+  "id": 873679321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.900814,43.005088,-70.900814,43.005088",
+    "geom:latitude":43.005088,
+    "geom:longitude":-70.900814,
+    "iso:country":"US",
+    "sg:address":"70 Bunker Hill Ave",
+    "sg:city":"Stratham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 5550",
+    "sg:postcode":"03885",
+    "sg:province":"NH",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85840681,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sV6ESW84IdQSnaEc1H79b_43.005088_-70.900814@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295976,
+    "wof:geomhash":"b2053c3775f7724389fb42eff05817d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85840681,
+            "region_id":85688689,
+            "venue_id":873679321
+        }
+    ],
+    "wof:id":873679321,
+    "wof:lastmodified":1464295976,
+    "wof:name":"Stratham Highway Dept",
+    "wof:parent_id":85840681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -70.900814,
+    43.005088,
+    -70.900814,
+    43.005088
+],
+  "geometry": {"coordinates":[-70.900814,43.005088],"type":"Point"}
+}

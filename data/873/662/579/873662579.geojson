@@ -1,0 +1,75 @@
+{
+  "id": 873662579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477194,43.007557,-71.477194,43.007557",
+    "geom:latitude":43.007557,
+    "geom:longitude":-71.477194,
+    "iso:country":"US",
+    "sg:address":"275 Front St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 6415",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qXdbjHN8BX0hjhQ4LUcjC_43.007557_-71.477194@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"0be3943106ef907fad8ebc566c162a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873662579
+        }
+    ],
+    "wof:id":873662579,
+    "wof:lastmodified":1464295726,
+    "wof:name":"Amoskeag Market",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.477194,
+    43.007557,
+    -71.477194,
+    43.007557
+],
+  "geometry": {"coordinates":[-71.477194,43.007557],"type":"Point"}
+}

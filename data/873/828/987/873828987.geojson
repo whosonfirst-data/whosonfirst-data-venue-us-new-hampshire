@@ -1,0 +1,71 @@
+{
+  "id": 873828987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.818235,42.877896,-70.818235,42.877896",
+    "geom:latitude":42.877896,
+    "geom:longitude":-70.818235,
+    "iso:country":"US",
+    "sg:address":"186 Ocean Blvd",
+    "sg:city":"Seabrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 474 1028",
+    "sg:postcode":"03874",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950807,
+        102084463,
+        85847549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FHuwyugJeHF6NJdVAHL6g_42.877896_-70.818235@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298313,
+    "wof:geomhash":"90e8ab550dd529738454f327f1a90ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084463,
+            "locality_id":85950807,
+            "neighbourhood_id":85847549,
+            "region_id":85688645,
+            "venue_id":873828987
+        }
+    ],
+    "wof:id":873828987,
+    "wof:lastmodified":1464298313,
+    "wof:name":"Seaside Eatery LLC",
+    "wof:parent_id":85847549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -70.818235,
+    42.877896,
+    -70.818235,
+    42.877896
+],
+  "geometry": {"coordinates":[-70.818235,42.877896],"type":"Point"}
+}

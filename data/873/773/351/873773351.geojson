@@ -1,0 +1,73 @@
+{
+  "id": 873773351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.208425,42.754672,-71.208425,42.754672",
+    "geom:latitude":42.754672,
+    "geom:longitude":-71.208425,
+    "iso:country":"US",
+    "sg:address":"331 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 8693",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YI1t5fTSbENiAdTkhCS9U_42.754672_-71.208425@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297405,
+    "wof:geomhash":"03a38e9178f432d5c9cdb3c3fdea9fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873773351
+        }
+    ],
+    "wof:id":873773351,
+    "wof:lastmodified":1464297405,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.208425,
+    42.754672,
+    -71.208425,
+    42.754672
+],
+  "geometry": {"coordinates":[-71.20842500000001,42.754672],"type":"Point"}
+}

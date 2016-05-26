@@ -1,0 +1,71 @@
+{
+  "id": 873791383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.053788,44.260233,-72.053788,44.260233",
+    "geom:latitude":44.260233,
+    "geom:longitude":-72.053788,
+    "iso:country":"US",
+    "sg:address":"26 Woodsville Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 638 2660",
+    "sg:postcode":"03771",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FKsVzRU5MJurR90re701A_44.260233_-72.053788@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297660,
+    "wof:geomhash":"7c288d6e5db90262efde7e11164458b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873791383
+        }
+    ],
+    "wof:id":873791383,
+    "wof:lastmodified":1464297660,
+    "wof:name":"United Methodist Church-Monroe",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.053788,
+    44.260233,
+    -72.053788,
+    44.260233
+],
+  "geometry": {"coordinates":[-72.053788,44.260233],"type":"Point"}
+}

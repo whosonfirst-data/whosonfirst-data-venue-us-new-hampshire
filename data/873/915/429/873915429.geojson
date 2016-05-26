@@ -1,0 +1,74 @@
+{
+  "id": 873915429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52803,42.79295,-71.52803,42.79295",
+    "geom:latitude":42.79295,
+    "geom:longitude":-71.52803,
+    "iso:country":"US",
+    "sg:address":"4 State St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 880 7447",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ],
+    "sg:website":"http://www.circuit-connect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgZqHmkFJRY9ldjgaI5Iv_42.792978_-71.528184@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300126,
+    "wof:geomhash":"1c7b2bb691e44b678a9dd588ae055e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873915429
+        }
+    ],
+    "wof:id":873915429,
+    "wof:lastmodified":1464300126,
+    "wof:name":"Circuit Connect, Inc.",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ]
+},
+  "bbox": [
+    -71.52803,
+    42.79295,
+    -71.52803,
+    42.79295
+],
+  "geometry": {"coordinates":[-71.52803,42.79295],"type":"Point"}
+}

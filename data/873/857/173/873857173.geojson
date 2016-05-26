@@ -1,0 +1,75 @@
+{
+  "id": 873857173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.602653,43.283901,-71.602653,43.283901",
+    "geom:latitude":43.283901,
+    "geom:longitude":-71.602653,
+    "iso:country":"US",
+    "sg:address":"1 N Main St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 4235",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c308FnomfBJEau5egp5Tr_43.283901_-71.602653@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298956,
+    "wof:geomhash":"95c18cd53388b91dd05ca2bc1ac48659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873857173
+        }
+    ],
+    "wof:id":873857173,
+    "wof:lastmodified":1464298956,
+    "wof:name":"Brent's Auto Body",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.602653,
+    43.283901,
+    -71.602653,
+    43.283901
+],
+  "geometry": {"coordinates":[-71.602653,43.283901],"type":"Point"}
+}

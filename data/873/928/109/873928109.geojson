@@ -1,0 +1,78 @@
+{
+  "id": 873928109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437891,43.195983,-71.437891,43.195983",
+    "geom:latitude":43.195983,
+    "geom:longitude":-71.437891,
+    "iso:country":"US",
+    "sg:address":"708 Cross Country Rd",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 228 6700",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826297,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E2Cp93kavYJlEzsDbsB87_43.195983_-71.437891@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300367,
+    "wof:geomhash":"b12b914a2c31d5a287f870c2d24827ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85826297,
+            "region_id":85688689,
+            "venue_id":873928109
+        }
+    ],
+    "wof:id":873928109,
+    "wof:lastmodified":1464300367,
+    "wof:name":"Peter Satterfield",
+    "wof:parent_id":85826297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.437891,
+    43.195983,
+    -71.437891,
+    43.195983
+],
+  "geometry": {"coordinates":[-71.43789099999999,43.195983],"type":"Point"}
+}

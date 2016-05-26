@@ -1,0 +1,71 @@
+{
+  "id": 873884735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.97006,42.950785,-71.97006,42.950785",
+    "geom:latitude":42.950785,
+    "geom:longitude":-71.97006,
+    "iso:country":"US",
+    "sg:address":"116 Peterborough Rd",
+    "sg:city":"Hancock",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 525 9900",
+    "sg:postcode":"03449",
+    "sg:province":"NH",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85817913,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AI1lDYNh1a4r6L3auwZQF_42.950785_-71.970060@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299533,
+    "wof:geomhash":"9b0babb58f0a9077e1718800a34c6c48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85817913,
+            "region_id":85688689,
+            "venue_id":873884735
+        }
+    ],
+    "wof:id":873884735,
+    "wof:lastmodified":1464299533,
+    "wof:name":"Sweetwater Natural Products",
+    "wof:parent_id":85817913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -71.97006,
+    42.950785,
+    -71.97006,
+    42.950785
+],
+  "geometry": {"coordinates":[-71.97006,42.950785],"type":"Point"}
+}

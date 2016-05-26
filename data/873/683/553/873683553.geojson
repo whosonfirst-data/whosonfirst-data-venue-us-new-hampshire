@@ -1,0 +1,71 @@
+{
+  "id": 873683553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522973,43.013197,-71.522973,43.013197",
+    "geom:latitude":43.013197,
+    "geom:longitude":-71.522973,
+    "iso:country":"US",
+    "sg:address":"107 Danis Park Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 792 4045",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garage",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JC46iKJFfL3N1va4hvDeP_43.013197_-71.522973@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296096,
+    "wof:geomhash":"c8082f03ef820938541c10688323ccdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873683553
+        }
+    ],
+    "wof:id":873683553,
+    "wof:lastmodified":1464296096,
+    "wof:name":"Uneek Sales",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.522973,
+    43.013197,
+    -71.522973,
+    43.013197
+],
+  "geometry": {"coordinates":[-71.52297299999999,43.013197],"type":"Point"}
+}

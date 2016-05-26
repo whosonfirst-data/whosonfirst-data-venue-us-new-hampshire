@@ -1,0 +1,69 @@
+{
+  "id": 873640163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568133,42.705363,-71.568133,42.705363",
+    "geom:latitude":42.705363,
+    "geom:longitude":-71.568133,
+    "iso:country":"US",
+    "sg:address":"235 Dow Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 424 9922",
+    "sg:postcode":"03049",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85825933,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u9m5mR6mNOcM7mxIMmKye_42.705363_-71.568133@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"457d034d79d485c81f10b088a981dc85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85825933,
+            "region_id":85688689,
+            "venue_id":873640163
+        }
+    ],
+    "wof:id":873640163,
+    "wof:lastmodified":1464295474,
+    "wof:name":"Merrimack Veterinary Hospital",
+    "wof:parent_id":85825933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -71.568133,
+    42.705363,
+    -71.568133,
+    42.705363
+],
+  "geometry": {"coordinates":[-71.568133,42.705363],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873722761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470003,43.527768,-71.470003,43.527768",
+    "geom:latitude":43.527768,
+    "geom:longitude":-71.470003,
+    "iso:country":"US",
+    "sg:address":"582 Main St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 2300",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nqWDUMU9orHUYjNrvOhS7_43.527768_-71.470003@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296684,
+    "wof:geomhash":"21ac0be423645d3da9d901064b124b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873722761
+        }
+    ],
+    "wof:id":873722761,
+    "wof:lastmodified":1464296684,
+    "wof:name":"Video Choice",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.470003,
+    43.527768,
+    -71.470003,
+    43.527768
+],
+  "geometry": {"coordinates":[-71.47000300000001,43.527768],"type":"Point"}
+}

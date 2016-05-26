@@ -1,0 +1,71 @@
+{
+  "id": 873761717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.210646,42.756595,-71.210646,42.756595",
+    "geom:latitude":42.756595,
+    "geom:longitude":-71.210646,
+    "iso:country":"US",
+    "sg:address":"290 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 890 0184",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cOkc84FFj6OK3DhVFOO14_42.756595_-71.210646@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297232,
+    "wof:geomhash":"274272497f329577f9ac295aedf79c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873761717
+        }
+    ],
+    "wof:id":873761717,
+    "wof:lastmodified":1464297232,
+    "wof:name":"Magnolia Home Theater",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.210646,
+    42.756595,
+    -71.210646,
+    42.756595
+],
+  "geometry": {"coordinates":[-71.210646,42.756595],"type":"Point"}
+}

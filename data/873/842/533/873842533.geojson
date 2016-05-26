@@ -1,0 +1,71 @@
+{
+  "id": 873842533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.621177,43.446971,-71.621177,43.446971",
+    "geom:latitude":43.446971,
+    "geom:longitude":-71.621177,
+    "iso:country":"US",
+    "sg:address":"950 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 3314",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09iGqjMtbFgPSdhQuK6eZI_43.446971_-71.621177@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298621,
+    "wof:geomhash":"86ee59fb3bf364d93c3733d306934998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873842533
+        }
+    ],
+    "wof:id":873842533,
+    "wof:lastmodified":1464298621,
+    "wof:name":"Monro Muffler Brake & Svc",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.621177,
+    43.446971,
+    -71.621177,
+    43.446971
+],
+  "geometry": {"coordinates":[-71.621177,43.446971],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873588209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405759,42.906842,-71.405759,42.906842",
+    "geom:latitude":42.906842,
+    "geom:longitude":-71.405759,
+    "iso:country":"US",
+    "sg:address":"61 Hall Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 3155",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K8uCd1nvEDEWNoYLu3wAz_42.906842_-71.405759@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294809,
+    "wof:geomhash":"e9d1972c255dbed7fdde32b379cb7762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873588209
+        }
+    ],
+    "wof:id":873588209,
+    "wof:lastmodified":1464294809,
+    "wof:name":"K&S Trucking Inc",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.405759,
+    42.906842,
+    -71.405759,
+    42.906842
+],
+  "geometry": {"coordinates":[-71.405759,42.906842],"type":"Point"}
+}

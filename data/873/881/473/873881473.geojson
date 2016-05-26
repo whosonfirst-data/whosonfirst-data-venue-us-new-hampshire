@@ -1,0 +1,77 @@
+{
+  "id": 873881473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.277979,42.930951,-72.277979,42.930951",
+    "geom:latitude":42.930951,
+    "geom:longitude":-72.277979,
+    "iso:country":"US",
+    "sg:address":"117 Main St",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 3700",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892241,
+        102191575,
+        404477027,
+        85633793,
+        85975063,
+        102085643,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l7tAHbWdfk10uf15uW37Q_42.930951_-72.277979@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299460,
+    "wof:geomhash":"35ca6771d9483e110c3ff393035a3d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085643,
+            "localadmin_id":404477027,
+            "locality_id":85975063,
+            "neighbourhood_id":85892241,
+            "region_id":85688689,
+            "venue_id":873881473
+        }
+    ],
+    "wof:id":873881473,
+    "wof:lastmodified":1464299460,
+    "wof:name":"Urology Associates",
+    "wof:parent_id":85892241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.277979,
+    42.930951,
+    -72.277979,
+    42.930951
+],
+  "geometry": {"coordinates":[-72.277979,42.930951],"type":"Point"}
+}

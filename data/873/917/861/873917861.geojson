@@ -1,0 +1,91 @@
+{
+  "id": 873917861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.681857,43.043821,-71.681857,43.043821",
+    "geom:latitude":43.043821,
+    "geom:longitude":-71.681857,
+    "iso:country":"US",
+    "sg:address":"427 S Stark Hwy",
+    "sg:city":"Weare",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/weare/149246-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 529 5547",
+    "sg:postcode":"03281",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850183,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JJ84ztOcEPME1WkGi05lu_43.043821_-71.681857@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300175,
+    "wof:geomhash":"78e2031ef1e3fc93c47c68e88b61c054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85850183,
+            "region_id":85688689,
+            "venue_id":873917861
+        }
+    ],
+    "wof:id":873917861,
+    "wof:lastmodified":1464300175,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85850183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.681857,
+    43.043821,
+    -71.681857,
+    43.043821
+],
+  "geometry": {"coordinates":[-71.68185699999999,43.043821],"type":"Point"}
+}

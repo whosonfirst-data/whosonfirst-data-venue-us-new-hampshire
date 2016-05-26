@@ -1,0 +1,71 @@
+{
+  "id": 873589025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.744225,43.597304,-71.744225,43.597304",
+    "geom:latitude":43.597304,
+    "geom:longitude":-71.744225,
+    "iso:country":"US",
+    "sg:address":"35 Hillside Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 2424",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XKiL6k4VGDTv546xBfbSA_43.597304_-71.744225@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294818,
+    "wof:geomhash":"709ca63709421120a9bb343e857727e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873589025
+        }
+    ],
+    "wof:id":873589025,
+    "wof:lastmodified":1464294818,
+    "wof:name":"LA Clair's Lock & Key",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.744225,
+    43.597304,
+    -71.744225,
+    43.597304
+],
+  "geometry": {"coordinates":[-71.744225,43.597304],"type":"Point"}
+}

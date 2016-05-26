@@ -1,0 +1,69 @@
+{
+  "id": 873573341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.288348,43.117414,-71.288348,43.117414",
+    "geom:latitude":43.117414,
+    "geom:longitude":-71.288348,
+    "iso:country":"US",
+    "sg:address":"30 Birch Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 5535",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rva23LxJzidDYEA5LylIR_43.117414_-71.288348@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294645,
+    "wof:geomhash":"e54d79adb73abbff7f6ebb9e3071e188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873573341
+        }
+    ],
+    "wof:id":873573341,
+    "wof:lastmodified":1464294645,
+    "wof:name":"Tremont St Apts Inc",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -71.288348,
+    43.117414,
+    -71.288348,
+    43.117414
+],
+  "geometry": {"coordinates":[-71.288348,43.117414],"type":"Point"}
+}

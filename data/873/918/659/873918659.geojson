@@ -1,0 +1,72 @@
+{
+  "id": 873918659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.938453,43.074336,-70.938453,43.074336",
+    "geom:latitude":43.074336,
+    "geom:longitude":-70.938453,
+    "iso:country":"US",
+    "sg:address":"44 Exeter Rd",
+    "sg:city":"Newmarket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/newmarket/129634-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 6824",
+    "sg:postcode":"03857",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85845477,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NVahzWepsCD8zLgj1IGWE_43.074336_-70.938453@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300189,
+    "wof:geomhash":"915a25dd7270674dbcc9195475a10623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85845477,
+            "region_id":85688689,
+            "venue_id":873918659
+        }
+    ],
+    "wof:id":873918659,
+    "wof:lastmodified":1464300189,
+    "wof:name":"Subway",
+    "wof:parent_id":85845477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -70.938453,
+    43.074336,
+    -70.938453,
+    43.074336
+],
+  "geometry": {"coordinates":[-70.938453,43.074336],"type":"Point"}
+}

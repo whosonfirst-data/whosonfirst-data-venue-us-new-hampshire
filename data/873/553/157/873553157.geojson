@@ -1,0 +1,73 @@
+{
+  "id": 873553157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542046,42.802437,-71.542046,42.802437",
+    "geom:latitude":42.802437,
+    "geom:longitude":-71.542046,
+    "iso:country":"US",
+    "sg:address":"11 Northwest Blvd",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 6312",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vn8A8pkVcMWQCnswmMg3s_42.802437_-71.542046@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294413,
+    "wof:geomhash":"0075b132b1064fd249b2cac5109cf477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873553157
+        }
+    ],
+    "wof:id":873553157,
+    "wof:lastmodified":1464294413,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.542046,
+    42.802437,
+    -71.542046,
+    42.802437
+],
+  "geometry": {"coordinates":[-71.542046,42.802437],"type":"Point"}
+}

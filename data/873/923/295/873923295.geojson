@@ -1,0 +1,86 @@
+{
+  "id": 873923295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456177,42.757431,-71.456177,42.757431",
+    "geom:latitude":42.757431,
+    "geom:longitude":-71.456177,
+    "iso:country":"US",
+    "sg:address":"25 Marshall St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 883 2850",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "resale",
+        "shop",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892279,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mGL4Ucu11QGNGF0mPjkGW_42.757431_-71.456177@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300276,
+    "wof:geomhash":"7f81bafaab51318720c92b8aab17ec13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892279,
+            "region_id":85688689,
+            "venue_id":873923295
+        }
+    ],
+    "wof:id":873923295,
+    "wof:lastmodified":1464300276,
+    "wof:name":"Gray Nuns Thrift Shop Inc",
+    "wof:parent_id":85892279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resale",
+        "shop",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [
+    -71.456177,
+    42.757431,
+    -71.456177,
+    42.757431
+],
+  "geometry": {"coordinates":[-71.456177,42.757431],"type":"Point"}
+}

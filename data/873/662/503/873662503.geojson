@@ -1,0 +1,73 @@
+{
+  "id": 873662503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.311627,42.875681,-71.311627,42.875681",
+    "geom:latitude":42.875681,
+    "geom:longitude":-71.311627,
+    "iso:country":"US",
+    "sg:address":"17 Sunnyside Ln",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 0706",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WCqiad2pBIrC2gKdJu9B2_42.875681_-71.311627@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295725,
+    "wof:geomhash":"8303fb6d42771294abe0cddd24a70221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873662503
+        }
+    ],
+    "wof:id":873662503,
+    "wof:lastmodified":1464295725,
+    "wof:name":"Duchene Systems Inc",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.311627,
+    42.875681,
+    -71.311627,
+    42.875681
+],
+  "geometry": {"coordinates":[-71.311627,42.875681],"type":"Point"}
+}

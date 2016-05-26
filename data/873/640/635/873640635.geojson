@@ -1,0 +1,78 @@
+{
+  "id": 873640635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4792,43.011409,-71.4792,43.011409",
+    "geom:latitude":43.011409,
+    "geom:longitude":-71.4792,
+    "iso:country":"US",
+    "sg:address":"599 Front St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 7750",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.amoskeageuropean.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892271,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cHjtbBtIXj3pNrzqnH7z2_43.011409_-71.479200@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295483,
+    "wof:geomhash":"e4eb7d0dfc806ea95119dd669e84ec82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892271,
+            "region_id":85688689,
+            "venue_id":873640635
+        }
+    ],
+    "wof:id":873640635,
+    "wof:lastmodified":1464295483,
+    "wof:name":"Amoskeag European Auto Sales",
+    "wof:parent_id":85892271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.4792,
+    43.011409,
+    -71.4792,
+    43.011409
+],
+  "geometry": {"coordinates":[-71.47920000000001,43.011409],"type":"Point"}
+}

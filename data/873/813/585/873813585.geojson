@@ -1,0 +1,71 @@
+{
+  "id": 873813585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478157,42.962591,-71.478157,42.962591",
+    "geom:latitude":42.962591,
+    "geom:longitude":-71.478157,
+    "iso:country":"US",
+    "sg:address":"19 Riverway Pl",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 9540",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pMuVBmcjzuoqBHkTQNDLP_42.962591_-71.478157@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297989,
+    "wof:geomhash":"2301c66d4573ef63bdaaea92c9acb705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873813585
+        }
+    ],
+    "wof:id":873813585,
+    "wof:lastmodified":1464297989,
+    "wof:name":"Nh Eye Surgigenter",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.478157,
+    42.962591,
+    -71.478157,
+    42.962591
+],
+  "geometry": {"coordinates":[-71.478157,42.962591],"type":"Point"}
+}

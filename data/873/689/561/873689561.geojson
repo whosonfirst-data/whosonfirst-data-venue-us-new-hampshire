@@ -1,0 +1,71 @@
+{
+  "id": 873689561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.753839,43.750254,-71.753839,43.750254",
+    "geom:latitude":43.750254,
+    "geom:longitude":-71.753839,
+    "iso:country":"US",
+    "sg:address":"320 Mayhew Tpke",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4067",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X88f7jgIHR8DLoefhPcVb_43.750254_-71.753839@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296262,
+    "wof:geomhash":"d609f9645ed062a87c0e2624f793e5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873689561
+        }
+    ],
+    "wof:id":873689561,
+    "wof:lastmodified":1464296262,
+    "wof:name":"Clement's Nursery & Landscpg",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.753839,
+    43.750254,
+    -71.753839,
+    43.750254
+],
+  "geometry": {"coordinates":[-71.753839,43.750254],"type":"Point"}
+}

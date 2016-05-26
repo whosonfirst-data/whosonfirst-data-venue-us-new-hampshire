@@ -1,0 +1,69 @@
+{
+  "id": 873545735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.584273,43.441386,-71.584273,43.441386",
+    "geom:latitude":43.441386,
+    "geom:longitude":-71.584273,
+    "iso:country":"US",
+    "sg:address":"36 Howard Ave",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 286 8311",
+    "sg:postcode":"03276",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eNZCZqlASTFBefZM0ja4n_43.441386_-71.584273@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294325,
+    "wof:geomhash":"4b458a9b35a64a742f75e595acc30f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873545735
+        }
+    ],
+    "wof:id":873545735,
+    "wof:lastmodified":1464294325,
+    "wof:name":"Twin Rivers Ambulance Svc Inc",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.584273,
+    43.441386,
+    -71.584273,
+    43.441386
+],
+  "geometry": {"coordinates":[-71.584273,43.441386],"type":"Point"}
+}

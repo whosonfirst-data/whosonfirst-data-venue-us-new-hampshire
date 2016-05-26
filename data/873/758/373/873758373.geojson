@@ -1,0 +1,69 @@
+{
+  "id": 873758373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.588841,43.153211,-71.588841,43.153211",
+    "geom:latitude":43.153211,
+    "geom:longitude":-71.588841,
+    "iso:country":"US",
+    "sg:address":"21 Hooksett Tpke",
+    "sg:city":"Bow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 227 0773",
+    "sg:postcode":"03304",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uyvED6WxgIFDpSq9oujeB_43.153211_-71.588841@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297187,
+    "wof:geomhash":"2d39ae9824ce7024097e35e9c7e236e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873758373
+        }
+    ],
+    "wof:id":873758373,
+    "wof:lastmodified":1464297187,
+    "wof:name":"T Leis & Sons",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.588841,
+    43.153211,
+    -71.588841,
+    43.153211
+],
+  "geometry": {"coordinates":[-71.588841,43.153211],"type":"Point"}
+}

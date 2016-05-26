@@ -1,0 +1,69 @@
+{
+  "id": 873858325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.66266,42.764835,-71.66266,42.764835",
+    "geom:latitude":42.764835,
+    "geom:longitude":-71.66266,
+    "iso:country":"US",
+    "sg:address":"7 McDaniels Dr",
+    "sg:city":"Brookline",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 2735",
+    "sg:postcode":"03033",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855263,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UmsFALHHKzYBSqrveRPal_42.764835_-71.662660@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298979,
+    "wof:geomhash":"cec49a78afaf72e1a529bbbf3b163543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85855263,
+            "region_id":85688689,
+            "venue_id":873858325
+        }
+    ],
+    "wof:id":873858325,
+    "wof:lastmodified":1464298979,
+    "wof:name":"Riverview Heating & AC",
+    "wof:parent_id":85855263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.66266,
+    42.764835,
+    -71.66266,
+    42.764835
+],
+  "geometry": {"coordinates":[-71.66266,42.764835],"type":"Point"}
+}

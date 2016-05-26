@@ -1,0 +1,77 @@
+{
+  "id": 873639753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.995205,43.312382,-70.995205,43.312382",
+    "geom:latitude":43.312382,
+    "geom:longitude":-70.995205,
+    "iso:country":"US",
+    "sg:address":"3 Ten Rod Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 3301",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837975,
+        102191575,
+        404476807,
+        85633793,
+        85975055,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uXAzesl7iaPajvDx3pqgX_43.312382_-70.995205@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295470,
+    "wof:geomhash":"46dc8656155c2d8f53fb28326b95aa73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476807,
+            "locality_id":85975055,
+            "neighbourhood_id":85837975,
+            "region_id":85688689,
+            "venue_id":873639753
+        }
+    ],
+    "wof:id":873639753,
+    "wof:lastmodified":1464295470,
+    "wof:name":"Getty",
+    "wof:parent_id":85837975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -70.995205,
+    43.312382,
+    -70.995205,
+    43.312382
+],
+  "geometry": {"coordinates":[-70.995205,43.312382],"type":"Point"}
+}

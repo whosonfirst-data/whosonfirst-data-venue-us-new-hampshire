@@ -1,0 +1,71 @@
+{
+  "id": 873662197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.801738,44.307388,-71.801738,44.307388",
+    "geom:latitude":44.307388,
+    "geom:longitude":-71.801738,
+    "iso:country":"US",
+    "sg:address":"564 Meadow St",
+    "sg:city":"Littleton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 444 7714",
+    "sg:postcode":"03561",
+    "sg:province":"NH",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85804597,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EIJkfxQD6tyN7b4UlMtUs_44.307388_-71.801738@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295721,
+    "wof:geomhash":"c2130805cd091bce03505cf5b76b603b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85804597,
+            "region_id":85688689,
+            "venue_id":873662197
+        }
+    ],
+    "wof:id":873662197,
+    "wof:lastmodified":1464295721,
+    "wof:name":"Forrest Andrew",
+    "wof:parent_id":85804597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -71.801738,
+    44.307388,
+    -71.801738,
+    44.307388
+],
+  "geometry": {"coordinates":[-71.801738,44.307388],"type":"Point"}
+}

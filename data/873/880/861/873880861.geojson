@@ -1,0 +1,71 @@
+{
+  "id": 873880861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.013374,43.253742,-71.013374,43.253742",
+    "geom:latitude":43.253742,
+    "geom:longitude":-71.013374,
+    "iso:country":"US",
+    "sg:address":"151 Green Hill Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 4504",
+    "sg:postcode":"03825",
+    "sg:province":"NH",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AbdYNLIsC32C9RhHJMVdd_43.253742_-71.013374@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299449,
+    "wof:geomhash":"218dd05084bc3823724e219e08db6fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873880861
+        }
+    ],
+    "wof:id":873880861,
+    "wof:lastmodified":1464299449,
+    "wof:name":"J H Canney Construction",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.013374,
+    43.253742,
+    -71.013374,
+    43.253742
+],
+  "geometry": {"coordinates":[-71.013374,43.253742],"type":"Point"}
+}

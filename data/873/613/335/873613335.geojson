@@ -1,0 +1,73 @@
+{
+  "id": 873613335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459303,43.533042,-71.459303,43.533042",
+    "geom:latitude":43.533042,
+    "geom:longitude":-71.459303,
+    "iso:country":"US",
+    "sg:address":"63 Gilford Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1184",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wg4MbpFBFhIv7N4Ry2tQM_43.533042_-71.459303@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295179,
+    "wof:geomhash":"f4061ed4910f22ecfeb64551e25c3865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873613335
+        }
+    ],
+    "wof:id":873613335,
+    "wof:lastmodified":1464295179,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.459303,
+    43.533042,
+    -71.459303,
+    43.533042
+],
+  "geometry": {"coordinates":[-71.45930300000001,43.533042],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873919123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478878,42.969612,-71.478878,42.969612",
+    "geom:latitude":42.969612,
+    "geom:longitude":-71.478878,
+    "iso:country":"US",
+    "sg:address":"837 2nd St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/39711-kcs-rib-shack/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 7427",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aqJdbMFnk310Iu3rDbBXf_42.968993_-71.479343@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300197,
+    "wof:geomhash":"d7f6a6e5420f632f9822e5a9566204d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873919123
+        }
+    ],
+    "wof:id":873919123,
+    "wof:lastmodified":1464300197,
+    "wof:name":"KC's Rib Shack",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.478878,
+    42.969612,
+    -71.478878,
+    42.969612
+],
+  "geometry": {"coordinates":[-71.47887799999999,42.969612],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873720627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566219,43.197504,-71.566219,43.197504",
+    "geom:latitude":43.197504,
+    "geom:longitude":-71.566219,
+    "iso:country":"US",
+    "sg:address":"286 Pleasant St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 224 2361",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844917,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DdDVgE1bSCwMegcOXxwi3_43.197504_-71.566219@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296659,
+    "wof:geomhash":"2bec91e0e1c301758d7a5b3b2a1db591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85844917,
+            "region_id":85688689,
+            "venue_id":873720627
+        }
+    ],
+    "wof:id":873720627,
+    "wof:lastmodified":1464296659,
+    "wof:name":"Russell Animal Hospital Pro",
+    "wof:parent_id":85844917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.566219,
+    43.197504,
+    -71.566219,
+    43.197504
+],
+  "geometry": {"coordinates":[-71.566219,43.197504],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873737583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458001,43.552243,-71.458001,43.552243",
+    "geom:latitude":43.552243,
+    "geom:longitude":-71.458001,
+    "iso:country":"US",
+    "sg:address":"302 Mechanic St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 9999",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z9cI2SJZUQeNaO18X7eKS_43.552243_-71.458001@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296890,
+    "wof:geomhash":"be0ac6c68332c07fcd5c0897b4d8b36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873737583
+        }
+    ],
+    "wof:id":873737583,
+    "wof:lastmodified":1464296890,
+    "wof:name":"B & B Masonry",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.458001,
+    43.552243,
+    -71.458001,
+    43.552243
+],
+  "geometry": {"coordinates":[-71.458001,43.552243],"type":"Point"}
+}

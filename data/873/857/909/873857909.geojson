@@ -1,0 +1,71 @@
+{
+  "id": 873857909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546726,44.280695,-71.546726,44.280695",
+    "geom:latitude":44.280695,
+    "geom:longitude":-71.546726,
+    "iso:country":"US",
+    "sg:address":"603 US Hwy 3",
+    "sg:city":"Twin Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 846 2186",
+    "sg:postcode":"03595",
+    "sg:province":"NH",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854803,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IjBd4sDVNeO8l5VBh7yx3_44.280695_-71.546726@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298970,
+    "wof:geomhash":"d90ce60c2c02379027c96e7b08c186ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85854803,
+            "region_id":85688689,
+            "venue_id":873857909
+        }
+    ],
+    "wof:id":873857909,
+    "wof:lastmodified":1464298970,
+    "wof:name":"College For Lifelong Learning",
+    "wof:parent_id":85854803,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.546726,
+    44.280695,
+    -71.546726,
+    44.280695
+],
+  "geometry": {"coordinates":[-71.54672600000001,44.280695],"type":"Point"}
+}

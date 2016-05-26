@@ -1,0 +1,77 @@
+{
+  "id": 873907165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52519,42.732814,-71.52519,42.732814",
+    "geom:latitude":42.732814,
+    "geom:longitude":-71.52519,
+    "iso:country":"US",
+    "sg:address":"840 W Hollis St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 589 3410",
+    "sg:postcode":"03062",
+    "sg:province":"NH",
+    "sg:tags":[
+        "city",
+        "refuse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892277,
+        102191575,
+        404477133,
+        85633793,
+        85975079,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BqYb77mHiFUvopQ36rwcC_42.732814_-71.525190@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299961,
+    "wof:geomhash":"c7d6760822e3a1e852de7e8614a88ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477133,
+            "locality_id":85975079,
+            "neighbourhood_id":85892277,
+            "region_id":85688689,
+            "venue_id":873907165
+        }
+    ],
+    "wof:id":873907165,
+    "wof:lastmodified":1464299961,
+    "wof:name":"Nashua City Landfill",
+    "wof:parent_id":85892277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "refuse"
+    ]
+},
+  "bbox": [
+    -71.52519,
+    42.732814,
+    -71.52519,
+    42.732814
+],
+  "geometry": {"coordinates":[-71.52518999999999,42.732814],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873872627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543164,42.800011,-71.543164,42.800011",
+    "geom:latitude":42.800011,
+    "geom:longitude":-71.543164,
+    "iso:country":"US",
+    "sg:address":"14 Celina Ave",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 8351",
+    "sg:postcode":"03063",
+    "sg:province":"NH",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UFCrZe0iXCT1CqSsIQtRZ_42.800011_-71.543164@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299289,
+    "wof:geomhash":"5859d6ec48eb39c497132f7a5884382d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873872627
+        }
+    ],
+    "wof:id":873872627,
+    "wof:lastmodified":1464299289,
+    "wof:name":"Colonial Medical Assisted",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.543164,
+    42.800011,
+    -71.543164,
+    42.800011
+],
+  "geometry": {"coordinates":[-71.543164,42.800011],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873933725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.015541,43.11689,-71.015541,43.11689",
+    "geom:latitude":43.11689,
+    "geom:longitude":-71.015541,
+    "iso:country":"US",
+    "sg:address":"20 Furber Dr",
+    "sg:city":"Lee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 659 0677",
+    "sg:postcode":"03861",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repair",
+        "system",
+        "specialty",
+        "heating",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854075,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x0lEAW99lQcLZqB2PQzVI_43.116890_-71.015541@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300476,
+    "wof:geomhash":"18d7836e5fbd1a63f34b5affeddc9e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85854075,
+            "region_id":85688689,
+            "venue_id":873933725
+        }
+    ],
+    "wof:id":873933725,
+    "wof:lastmodified":1464300476,
+    "wof:name":"North Shore Air Conditioning",
+    "wof:parent_id":85854075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "system",
+        "specialty",
+        "heating",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair"
+    ]
+},
+  "bbox": [
+    -71.015541,
+    43.11689,
+    -71.015541,
+    43.11689
+],
+  "geometry": {"coordinates":[-71.015541,43.11689],"type":"Point"}
+}

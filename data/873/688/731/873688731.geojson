@@ -1,0 +1,73 @@
+{
+  "id": 873688731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476397,43.52285,-71.476397,43.52285",
+    "geom:latitude":43.52285,
+    "geom:longitude":-71.476397,
+    "iso:country":"US",
+    "sg:address":"60 Bay St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 8033",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gr3gcvd7M0NZK4a2od0VC_43.522850_-71.476397@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296242,
+    "wof:geomhash":"a7e8edcba5acac5946e67f2bd8e2ebf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873688731
+        }
+    ],
+    "wof:id":873688731,
+    "wof:lastmodified":1464296242,
+    "wof:name":"Geronimo Electric & Alarms",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.476397,
+    43.52285,
+    -71.476397,
+    43.52285
+],
+  "geometry": {"coordinates":[-71.47639700000001,43.52285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873698303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493143,42.981563,-71.493143,42.981563",
+    "geom:latitude":42.981563,
+    "geom:longitude":-71.493143,
+    "iso:country":"US",
+    "sg:address":"113 Rockland Ave",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 627 7339",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iLZS4WybIY30gW6uXpzH0_42.981563_-71.493143@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296387,
+    "wof:geomhash":"e73df3693ca309e4067977d5c97dd5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873698303
+        }
+    ],
+    "wof:id":873698303,
+    "wof:lastmodified":1464296387,
+    "wof:name":"A-1 Roofing",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.493143,
+    42.981563,
+    -71.493143,
+    42.981563
+],
+  "geometry": {"coordinates":[-71.493143,42.981563],"type":"Point"}
+}

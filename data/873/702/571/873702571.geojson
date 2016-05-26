@@ -1,0 +1,73 @@
+{
+  "id": 873702571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.035279,42.893726,-71.035279,42.893726",
+    "geom:latitude":42.893726,
+    "geom:longitude":-71.035279,
+    "iso:country":"US",
+    "sg:address":"36 New Boston Rd",
+    "sg:city":"Newton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 382 4320",
+    "sg:postcode":"03858",
+    "sg:province":"NH",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846249,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_383k8Sig7qvvKgDVquje2i_42.893726_-71.035279@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296431,
+    "wof:geomhash":"455f41453effada52274cbee59bab25c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846249,
+            "region_id":85688689,
+            "venue_id":873702571
+        }
+    ],
+    "wof:id":873702571,
+    "wof:lastmodified":1464296431,
+    "wof:name":"A Plus Flooring",
+    "wof:parent_id":85846249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.035279,
+    42.893726,
+    -71.035279,
+    42.893726
+],
+  "geometry": {"coordinates":[-71.035279,42.893726],"type":"Point"}
+}

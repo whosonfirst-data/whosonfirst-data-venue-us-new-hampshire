@@ -1,0 +1,73 @@
+{
+  "id": 873575769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170759,44.47725,-71.170759,44.47725",
+    "geom:latitude":44.47725,
+    "geom:longitude":-71.170759,
+    "iso:country":"US",
+    "sg:address":"879 Main St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 752 7417",
+    "sg:postcode":"03570",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lF53hICAQm9feZSr6VRLW_44.477250_-71.170759@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294672,
+    "wof:geomhash":"137fdc210f20f69b068a7b5c668b4ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873575769
+        }
+    ],
+    "wof:id":873575769,
+    "wof:lastmodified":1464294672,
+    "wof:name":"Eternal Machines Inc",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.170759,
+    44.47725,
+    -71.170759,
+    44.47725
+],
+  "geometry": {"coordinates":[-71.170759,44.47725],"type":"Point"}
+}

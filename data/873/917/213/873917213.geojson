@@ -1,0 +1,75 @@
+{
+  "id": 873917213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463097,42.991415,-71.463097,42.991415",
+    "geom:latitude":42.991415,
+    "geom:longitude":-71.463097,
+    "iso:country":"US",
+    "sg:address":"940 Elm St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/manchester/217774-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"03101",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892261,
+        102191575,
+        404477191,
+        85633793,
+        85975081,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kIxmbD3r5lTBCFozEqZMt_42.991415_-71.463097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300162,
+    "wof:geomhash":"7450217f5dc6436e82077169b0297d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477191,
+            "locality_id":85975081,
+            "neighbourhood_id":85892261,
+            "region_id":85688689,
+            "venue_id":873917213
+        }
+    ],
+    "wof:id":873917213,
+    "wof:lastmodified":1464300162,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85892261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.463097,
+    42.991415,
+    -71.463097,
+    42.991415
+],
+  "geometry": {"coordinates":[-71.463097,42.991415],"type":"Point"}
+}

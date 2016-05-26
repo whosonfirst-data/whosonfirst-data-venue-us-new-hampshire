@@ -1,0 +1,71 @@
+{
+  "id": 873907501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.30141,43.109781,-71.30141,43.109781",
+    "geom:latitude":43.109781,
+    "geom:longitude":-71.30141,
+    "iso:country":"US",
+    "sg:address":"160 South Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7974",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "drawn",
+        "horse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849593,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lb9oPOy3m6Hpv0jEDjRTU_43.109781_-71.301410@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299967,
+    "wof:geomhash":"34dd38a8d34d34d3ca33f399b23d6a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85849593,
+            "region_id":85688689,
+            "venue_id":873907501
+        }
+    ],
+    "wof:id":873907501,
+    "wof:lastmodified":1464299967,
+    "wof:name":"Point Of View Farm",
+    "wof:parent_id":85849593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drawn",
+        "horse"
+    ]
+},
+  "bbox": [
+    -71.30141,
+    43.109781,
+    -71.30141,
+    43.109781
+],
+  "geometry": {"coordinates":[-71.30141,43.109781],"type":"Point"}
+}

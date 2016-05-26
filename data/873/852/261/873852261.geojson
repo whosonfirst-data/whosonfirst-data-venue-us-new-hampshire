@@ -1,0 +1,71 @@
+{
+  "id": 873852261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48069,43.156296,-71.48069,43.156296",
+    "geom:latitude":43.156296,
+    "geom:longitude":-71.48069,
+    "iso:country":"US",
+    "sg:address":"424 Nadine Rd",
+    "sg:city":"Suncook",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 485 8523",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ghmFGXyMEkVxvdhmXU1CL_43.156296_-71.480690@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298856,
+    "wof:geomhash":"e941f3d032b98dbc2311ada0b78266a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873852261
+        }
+    ],
+    "wof:id":873852261,
+    "wof:lastmodified":1464298856,
+    "wof:name":"Embroidery By Day",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.48069,
+    43.156296,
+    -71.48069,
+    43.156296
+],
+  "geometry": {"coordinates":[-71.48069,43.156296],"type":"Point"}
+}

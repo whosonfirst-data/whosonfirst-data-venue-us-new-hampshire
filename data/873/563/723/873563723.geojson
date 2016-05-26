@@ -1,0 +1,71 @@
+{
+  "id": 873563723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.646264,43.44451,-71.646264,43.44451",
+    "geom:latitude":43.44451,
+    "geom:longitude":-71.646264,
+    "iso:country":"US",
+    "sg:address":"323 Central St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 5100",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08i3qrzHD816Ot7MERu3LW_43.444510_-71.646264@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294541,
+    "wof:geomhash":"82fa4717dfef38dee727423cc9fda5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873563723
+        }
+    ],
+    "wof:id":873563723,
+    "wof:lastmodified":1464294541,
+    "wof:name":"Carlson's Lock & Key",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.646264,
+    43.44451,
+    -71.646264,
+    43.44451
+],
+  "geometry": {"coordinates":[-71.646264,43.44451],"type":"Point"}
+}

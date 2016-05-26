@@ -1,0 +1,74 @@
+{
+  "id": 873744639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459543,43.552001,-71.459543,43.552001",
+    "geom:latitude":43.552001,
+    "geom:longitude":-71.459543,
+    "iso:country":"US",
+    "sg:address":"958 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 6661",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "sg:website":"www.irwinmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IC8EjRDiHAEk9tQtgd2pW_43.552001_-71.459543@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297005,
+    "wof:geomhash":"40a3d3063dfe942bff230165c171f521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873744639
+        }
+    ],
+    "wof:id":873744639,
+    "wof:lastmodified":1464297005,
+    "wof:name":"Irwin Marine",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.459543,
+    43.552001,
+    -71.459543,
+    43.552001
+],
+  "geometry": {"coordinates":[-71.459543,43.552001],"type":"Point"}
+}

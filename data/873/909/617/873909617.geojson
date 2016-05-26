@@ -1,0 +1,77 @@
+{
+  "id": 873909617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241754,42.79427,-71.241754,42.79427",
+    "geom:latitude":42.79427,
+    "geom:longitude":-71.241754,
+    "iso:country":"US",
+    "sg:address":"27 Dyson Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 5125",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "manager",
+        "property",
+        "commercial",
+        "condominium",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809279,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EjjkaGyNQ383x5N2nyIdm_42.794270_-71.241754@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300006,
+    "wof:geomhash":"c78083d180371bd44fdaf2159481f2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85809279,
+            "region_id":85688689,
+            "venue_id":873909617
+        }
+    ],
+    "wof:id":873909617,
+    "wof:lastmodified":1464300006,
+    "wof:name":"Two Brothers Properties",
+    "wof:parent_id":85809279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "property",
+        "commercial",
+        "condominium",
+        "lease"
+    ]
+},
+  "bbox": [
+    -71.241754,
+    42.79427,
+    -71.241754,
+    42.79427
+],
+  "geometry": {"coordinates":[-71.241754,42.79427],"type":"Point"}
+}

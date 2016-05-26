@@ -1,0 +1,69 @@
+{
+  "id": 873704641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.220224,42.750024,-71.220224,42.750024",
+    "geom:latitude":42.750024,
+    "geom:longitude":-71.220224,
+    "iso:country":"US",
+    "sg:address":"3 Valesca Ln",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 2235",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_092f5zb37FEZiJN8t2I4Rk_42.750024_-71.220224@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296452,
+    "wof:geomhash":"a4e6f0e4bf7ff0cf92ddf4d7876369ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873704641
+        }
+    ],
+    "wof:id":873704641,
+    "wof:lastmodified":1464296452,
+    "wof:name":"American Irrigation",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.220224,
+    42.750024,
+    -71.220224,
+    42.750024
+],
+  "geometry": {"coordinates":[-71.220224,42.750024],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873688121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449176,42.763459,-71.449176,42.763459",
+    "geom:latitude":42.763459,
+    "geom:longitude":-71.449176,
+    "iso:country":"US",
+    "sg:address":"48 Bridge St",
+    "sg:city":"Nashua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 9800",
+    "sg:postcode":"03060",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526213,
+        102191575,
+        404477187,
+        85633793,
+        85975249,
+        102085493,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fd3JcVfRVESGfUaM8aZ0p_42.763459_-71.449176@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296223,
+    "wof:geomhash":"fad991d11f9c6b095114961575d13d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085493,
+            "localadmin_id":404477187,
+            "locality_id":85975249,
+            "neighbourhood_id":420526213,
+            "region_id":85688689,
+            "venue_id":873688121
+        }
+    ],
+    "wof:id":873688121,
+    "wof:lastmodified":1464296223,
+    "wof:name":"Riverside Canine Center",
+    "wof:parent_id":420526213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.449176,
+    42.763459,
+    -71.449176,
+    42.763459
+],
+  "geometry": {"coordinates":[-71.44917599999999,42.763459],"type":"Point"}
+}

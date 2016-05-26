@@ -1,0 +1,76 @@
+{
+  "id": 873850965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524573,43.005995,-71.524573,43.005995",
+    "geom:latitude":43.005995,
+    "geom:longitude":-71.524573,
+    "iso:country":"US",
+    "sg:address":"460 S Mast Rd",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 8965",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "shop",
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7leOhwYZri2pJAigC2pQFL_43.005995_-71.524573@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298831,
+    "wof:geomhash":"b95ecb50b879812c92dd6b929b9fdaf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873850965
+        }
+    ],
+    "wof:id":873850965,
+    "wof:lastmodified":1464298831,
+    "wof:name":"Mast Road Electrolysis",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -71.524573,
+    43.005995,
+    -71.524573,
+    43.005995
+],
+  "geometry": {"coordinates":[-71.524573,43.005995],"type":"Point"}
+}

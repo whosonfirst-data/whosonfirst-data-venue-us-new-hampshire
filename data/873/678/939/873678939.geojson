@@ -1,0 +1,71 @@
+{
+  "id": 873678939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.863569,42.917063,-70.863569,42.917063",
+    "geom:latitude":42.917063,
+    "geom:longitude":-70.863569,
+    "iso:country":"US",
+    "sg:address":"100 Lafayette Rd",
+    "sg:city":"Hampton Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 926 1467",
+    "sg:postcode":"03844",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852429,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jP1ULPkhTkleq1Nmc069A_42.917063_-70.863569@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295965,
+    "wof:geomhash":"437dd8f6a8f511eb5d064ba183aae870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85852429,
+            "region_id":85688689,
+            "venue_id":873678939
+        }
+    ],
+    "wof:id":873678939,
+    "wof:lastmodified":1464295965,
+    "wof:name":"Clays LLC",
+    "wof:parent_id":85852429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.863569,
+    42.917063,
+    -70.863569,
+    42.917063
+],
+  "geometry": {"coordinates":[-70.863569,42.917063],"type":"Point"}
+}

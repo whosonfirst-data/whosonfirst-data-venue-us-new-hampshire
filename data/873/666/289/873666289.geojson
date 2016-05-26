@@ -1,0 +1,71 @@
+{
+  "id": 873666289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.316521,42.87656,-71.316521,42.87656",
+    "geom:latitude":42.87656,
+    "geom:longitude":-71.316521,
+    "iso:country":"US",
+    "sg:address":"1 Parkland Dr",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 434 8756",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VS4oJiCVsFQOV6Y9TBWI8_42.876560_-71.316521@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295762,
+    "wof:geomhash":"aea8898ced025f2251ae7bd676c314d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873666289
+        }
+    ],
+    "wof:id":873666289,
+    "wof:lastmodified":1464295762,
+    "wof:name":"Bruce G Hook MD",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.316521,
+    42.87656,
+    -71.316521,
+    42.87656
+],
+  "geometry": {"coordinates":[-71.31652099999999,42.87656],"type":"Point"}
+}

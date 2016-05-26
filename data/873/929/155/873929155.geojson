@@ -1,0 +1,73 @@
+{
+  "id": 873929155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.012983,42.817196,-72.012983,42.817196",
+    "geom:latitude":42.817196,
+    "geom:longitude":-72.012983,
+    "iso:country":"US",
+    "sg:address":"39 Ridgecrest Rd",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 8838",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pLBubAZAlH7BH9tlFiom0_42.817196_-72.012983@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300392,
+    "wof:geomhash":"86f554ef3ee05736298f4389bcd501b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873929155
+        }
+    ],
+    "wof:id":873929155,
+    "wof:lastmodified":1464300392,
+    "wof:name":"Emerald Acres Camp Ground",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -72.012983,
+    42.817196,
+    -72.012983,
+    42.817196
+],
+  "geometry": {"coordinates":[-72.01298300000001,42.817196],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873778297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.033794,44.139516,-72.033794,44.139516",
+    "geom:latitude":44.139516,
+    "geom:longitude":-72.033794,
+    "iso:country":"US",
+    "sg:address":"53 S Court St",
+    "sg:city":"Woodsville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 747 2016",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975157,
+        102086567,
+        85851705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mJXWtTLkMQMRWSuKgW1Kg_44.139516_-72.033794@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297467,
+    "wof:geomhash":"b399d889b6dff88a51d2ff11c6c9f12d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "locality_id":85975157,
+            "neighbourhood_id":85851705,
+            "region_id":85688689,
+            "venue_id":873778297
+        }
+    ],
+    "wof:id":873778297,
+    "wof:lastmodified":1464297467,
+    "wof:name":"Journal Opinion Inc",
+    "wof:parent_id":85851705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -72.033794,
+    44.139516,
+    -72.033794,
+    44.139516
+],
+  "geometry": {"coordinates":[-72.033794,44.139516],"type":"Point"}
+}

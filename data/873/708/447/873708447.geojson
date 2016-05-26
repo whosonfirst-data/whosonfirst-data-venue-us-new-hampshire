@@ -1,0 +1,71 @@
+{
+  "id": 873708447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560814,42.817969,-71.560814,42.817969",
+    "geom:latitude":42.817969,
+    "geom:longitude":-71.560814,
+    "iso:country":"US",
+    "sg:address":"2 Landau Way",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 595 2449",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85849867,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fg4Q5B6xwt84F0ef8tZ65_42.817969_-71.560814@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296500,
+    "wof:geomhash":"7f032d03932650f336b1e67093360ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85849867,
+            "region_id":85688689,
+            "venue_id":873708447
+        }
+    ],
+    "wof:id":873708447,
+    "wof:lastmodified":1464296500,
+    "wof:name":"Coker Financial Services",
+    "wof:parent_id":85849867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -71.560814,
+    42.817969,
+    -71.560814,
+    42.817969
+],
+  "geometry": {"coordinates":[-71.56081399999999,42.817969],"type":"Point"}
+}

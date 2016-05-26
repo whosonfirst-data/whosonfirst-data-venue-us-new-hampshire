@@ -1,0 +1,69 @@
+{
+  "id": 873662321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309727,42.749104,-71.309727,42.749104",
+    "geom:latitude":42.749104,
+    "geom:longitude":-71.309727,
+    "iso:country":"US",
+    "sg:address":"39 Hobbs Rd",
+    "sg:city":"Pelham",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 635 2638",
+    "sg:postcode":"03076",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837895,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B9pSMpxrnUUNihYaNnlsx_42.749104_-71.309727@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295723,
+    "wof:geomhash":"c2d7f494daf6f06b3f75bcf15b3d42b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85837895,
+            "region_id":85688689,
+            "venue_id":873662321
+        }
+    ],
+    "wof:id":873662321,
+    "wof:lastmodified":1464295723,
+    "wof:name":"Singletons Kitchen",
+    "wof:parent_id":85837895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.309727,
+    42.749104,
+    -71.309727,
+    42.749104
+],
+  "geometry": {"coordinates":[-71.309727,42.749104],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873862613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48808,43.668589,-71.48808,43.668589",
+    "geom:latitude":43.668589,
+    "geom:longitude":-71.48808,
+    "iso:country":"US",
+    "sg:address":"189 State Rte 25",
+    "sg:city":"Meredith",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 279 6910",
+    "sg:postcode":"03253",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operation",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831511,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ARXWyj6YYL2quJQoUERcK_43.668589_-71.488080@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299088,
+    "wof:geomhash":"3189bd7b98a31533836ba8b4894a5664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85831511,
+            "region_id":85688689,
+            "venue_id":873862613
+        }
+    ],
+    "wof:id":873862613,
+    "wof:lastmodified":1464299088,
+    "wof:name":"Harbor Hill Camping Area",
+    "wof:parent_id":85831511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -71.48808,
+    43.668589,
+    -71.48808,
+    43.668589
+],
+  "geometry": {"coordinates":[-71.48808,43.668589],"type":"Point"}
+}

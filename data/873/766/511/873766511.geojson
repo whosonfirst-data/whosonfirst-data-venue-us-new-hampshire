@@ -1,0 +1,71 @@
+{
+  "id": 873766511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.215531,42.762705,-71.215531,42.762705",
+    "geom:latitude":42.762705,
+    "geom:longitude":-71.215531,
+    "iso:country":"US",
+    "sg:address":"215 S Broadway",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 974 0545",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85811539,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5joPv9UkNt35E2yfFiJ7Mz_42.762705_-71.215531@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297319,
+    "wof:geomhash":"72329cd1a7410077c0c6399d96ec3c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85811539,
+            "region_id":85688689,
+            "venue_id":873766511
+        }
+    ],
+    "wof:id":873766511,
+    "wof:lastmodified":1464297319,
+    "wof:name":"Visitrial",
+    "wof:parent_id":85811539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.215531,
+    42.762705,
+    -71.215531,
+    42.762705
+],
+  "geometry": {"coordinates":[-71.215531,42.762705],"type":"Point"}
+}

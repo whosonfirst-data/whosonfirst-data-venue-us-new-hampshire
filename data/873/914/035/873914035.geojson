@@ -1,0 +1,71 @@
+{
+  "id": 873914035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.756146,43.077427,-70.756146,43.077427",
+    "geom:latitude":43.077427,
+    "geom:longitude":-70.756146,
+    "iso:country":"US",
+    "sg:address":"85 Daniel St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 7000",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:website":"http://www.ambrosiagardens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892305,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_106I6qUUn2nKBzeayQqTbl_43.077512_-70.755541@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464300089,
+    "wof:geomhash":"f8dcbf3e1894503d62d6842df58df543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892305,
+            "region_id":85688689,
+            "venue_id":873914035
+        }
+    ],
+    "wof:id":873914035,
+    "wof:lastmodified":1464300089,
+    "wof:name":"Ambrosia Gardens",
+    "wof:parent_id":85892305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.756146,
+    43.077427,
+    -70.756146,
+    43.077427
+],
+  "geometry": {"coordinates":[-70.756146,43.077427],"type":"Point"}
+}

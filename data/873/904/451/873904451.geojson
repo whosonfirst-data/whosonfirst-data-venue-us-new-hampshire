@@ -1,0 +1,73 @@
+{
+  "id": 873904451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479699,43.19011,-71.479699,43.19011",
+    "geom:latitude":43.19011,
+    "geom:longitude":-71.479699,
+    "iso:country":"US",
+    "sg:address":"321 Commerce Way",
+    "sg:city":"Pembroke",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 5930",
+    "sg:postcode":"03275",
+    "sg:province":"NH",
+    "sg:tags":[
+        "satellite",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6doybl9ukiOaNadBn6NNXb_43.190110_-71.479699@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299907,
+    "wof:geomhash":"93e87f87ca73c6a047c66d44ab3c1894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873904451
+        }
+    ],
+    "wof:id":873904451,
+    "wof:lastmodified":1464299907,
+    "wof:name":"Dish Network Svc Corp",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -71.479699,
+    43.19011,
+    -71.479699,
+    43.19011
+],
+  "geometry": {"coordinates":[-71.479699,43.19011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873826357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488269,42.966447,-71.488269,42.966447",
+    "geom:latitude":42.966447,
+    "geom:longitude":-71.488269,
+    "iso:country":"US",
+    "sg:address":"90 Harriman St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 1088",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lxnAvGiAjc9Ob4U6HoEsu_42.966447_-71.488269@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298261,
+    "wof:geomhash":"84e1acd2b9f5f83fe9a1bf60c482136b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873826357
+        }
+    ],
+    "wof:id":873826357,
+    "wof:lastmodified":1464298261,
+    "wof:name":"Clean Look Cleaning Service",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.488269,
+    42.966447,
+    -71.488269,
+    42.966447
+],
+  "geometry": {"coordinates":[-71.488269,42.966447],"type":"Point"}
+}

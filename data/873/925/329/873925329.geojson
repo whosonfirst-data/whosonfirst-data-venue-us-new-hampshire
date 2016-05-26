@@ -1,0 +1,69 @@
+{
+  "id": 873925329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.171722,43.040156,-71.171722,43.040156",
+    "geom:latitude":43.040156,
+    "geom:longitude":-71.171722,
+    "iso:country":"US",
+    "sg:address":"52 Epping St",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 895 9593",
+    "sg:postcode":"03077",
+    "sg:province":"NH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855449,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvbsHQKjBuDztEZbeLLj3_43.040156_-71.171722@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300310,
+    "wof:geomhash":"b393f98fa95ca3c1fcbc5327ceed7a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855449,
+            "region_id":85688689,
+            "venue_id":873925329
+        }
+    ],
+    "wof:id":873925329,
+    "wof:lastmodified":1464300310,
+    "wof:name":"Cumberland Farms",
+    "wof:parent_id":85855449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.171722,
+    43.040156,
+    -71.171722,
+    43.040156
+],
+  "geometry": {"coordinates":[-71.171722,43.040156],"type":"Point"}
+}

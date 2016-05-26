@@ -1,0 +1,71 @@
+{
+  "id": 873770719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.922239,43.580848,-71.922239,43.580848",
+    "geom:latitude":43.580848,
+    "geom:longitude":-71.922239,
+    "iso:country":"US",
+    "sg:address":"163 Wild Meadow Rd",
+    "sg:city":"Grafton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 523 4430",
+    "sg:postcode":"03240",
+    "sg:province":"NH",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809185,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23C5LZYDaNDAVfNXYGvnQZ_43.580848_-71.922239@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297374,
+    "wof:geomhash":"6560810ecae46e028e651ab5e51d75ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85809185,
+            "region_id":85688689,
+            "venue_id":873770719
+        }
+    ],
+    "wof:id":873770719,
+    "wof:lastmodified":1464297374,
+    "wof:name":"BP",
+    "wof:parent_id":85809185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.922239,
+    43.580848,
+    -71.922239,
+    43.580848
+],
+  "geometry": {"coordinates":[-71.922239,43.580848],"type":"Point"}
+}

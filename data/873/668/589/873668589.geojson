@@ -1,0 +1,70 @@
+{
+  "id": 873668589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.962376,43.136131,-70.962376,43.136131",
+    "geom:latitude":43.136131,
+    "geom:longitude":-70.962376,
+    "iso:country":"US",
+    "sg:address":"295 Mast Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 862 2328",
+    "sg:postcode":"03824",
+    "sg:province":"NH",
+    "sg:tags":[
+        "line"
+    ],
+    "sg:website":"www.unh.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85830123,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SkF1snkFiiJOq5CwDA9zA_43.136131_-70.962376@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295786,
+    "wof:geomhash":"f002c14bdf3cb9f103ef59f8c83764ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85830123,
+            "region_id":85688689,
+            "venue_id":873668589
+        }
+    ],
+    "wof:id":873668589,
+    "wof:lastmodified":1464295786,
+    "wof:name":"WILDCAT Transit",
+    "wof:parent_id":85830123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -70.962376,
+    43.136131,
+    -70.962376,
+    43.136131
+],
+  "geometry": {"coordinates":[-70.96237600000001,43.136131],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873807683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501831,42.888812,-71.501831,42.888812",
+    "geom:latitude":42.888812,
+    "geom:longitude":-71.501831,
+    "iso:country":"US",
+    "sg:address":"6 Catskill Rd",
+    "sg:city":"Merrimack",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 493 0787",
+    "sg:postcode":"03054",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85868773,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p8AIgjJARTcooF56FRGQT_42.888812_-71.501831@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297883,
+    "wof:geomhash":"b3f91c3e2046acd7d42ce562954003fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85868773,
+            "region_id":85688689,
+            "venue_id":873807683
+        }
+    ],
+    "wof:id":873807683,
+    "wof:lastmodified":1464297883,
+    "wof:name":"Catskill Properties LLC",
+    "wof:parent_id":85868773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.501831,
+    42.888812,
+    -71.501831,
+    42.888812
+],
+  "geometry": {"coordinates":[-71.501831,42.888812],"type":"Point"}
+}

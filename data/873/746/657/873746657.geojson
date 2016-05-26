@@ -1,0 +1,71 @@
+{
+  "id": 873746657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.141295,42.839892,-71.141295,42.839892",
+    "geom:latitude":42.839892,
+    "geom:longitude":-71.141295,
+    "iso:country":"US",
+    "sg:address":"79 Maple Ave",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5661",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hagUYBPTtY0NusUfFc7n8_42.839892_-71.141295@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297034,
+    "wof:geomhash":"288a02089e16e76f83be12aa77f50ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873746657
+        }
+    ],
+    "wof:id":873746657,
+    "wof:lastmodified":1464297034,
+    "wof:name":"K J's Electric Inc",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.141295,
+    42.839892,
+    -71.141295,
+    42.839892
+],
+  "geometry": {"coordinates":[-71.141295,42.839892],"type":"Point"}
+}

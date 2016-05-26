@@ -1,0 +1,71 @@
+{
+  "id": 873758113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.154303,42.932538,-72.154303,42.932538",
+    "geom:latitude":42.932538,
+    "geom:longitude":-72.154303,
+    "iso:country":"US",
+    "sg:address":"8 Roxbury Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 4900",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "builder",
+        "stair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85810705,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XTIdDf1ZY3enGzTK2fEG1_42.932538_-72.154303@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297183,
+    "wof:geomhash":"65e46a2880649028d383c1eec4cab76b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85810705,
+            "region_id":85688689,
+            "venue_id":873758113
+        }
+    ],
+    "wof:id":873758113,
+    "wof:lastmodified":1464297183,
+    "wof:name":"King & Co Architectural",
+    "wof:parent_id":85810705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "stair"
+    ]
+},
+  "bbox": [
+    -72.154303,
+    42.932538,
+    -72.154303,
+    42.932538
+],
+  "geometry": {"coordinates":[-72.154303,42.932538],"type":"Point"}
+}

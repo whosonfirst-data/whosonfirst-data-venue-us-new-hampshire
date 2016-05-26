@@ -1,0 +1,71 @@
+{
+  "id": 873911485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.009938,43.010351,-71.009938,43.010351",
+    "geom:latitude":43.010351,
+    "geom:longitude":-71.009938,
+    "iso:country":"US",
+    "sg:address":"127 Pine Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 772 0309",
+    "sg:postcode":"03833",
+    "sg:province":"NH",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85832609,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_484Zu8txmIDQEjKxLlVP4G_43.010351_-71.009938@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300040,
+    "wof:geomhash":"02489a74fc5e9385142d274f89aa1d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85832609,
+            "region_id":85688689,
+            "venue_id":873911485
+        }
+    ],
+    "wof:id":873911485,
+    "wof:lastmodified":1464300040,
+    "wof:name":"University Of Notre Dame",
+    "wof:parent_id":85832609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.009938,
+    43.010351,
+    -71.009938,
+    43.010351
+],
+  "geometry": {"coordinates":[-71.00993800000001,43.010351],"type":"Point"}
+}

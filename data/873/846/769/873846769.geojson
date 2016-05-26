@@ -1,0 +1,79 @@
+{
+  "id": 873846769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411653,43.582381,-71.411653,43.582381",
+    "geom:latitude":43.582381,
+    "geom:longitude":-71.411653,
+    "iso:country":"US",
+    "sg:address":"158 Weirs Rd",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 293 0366",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85814675,
+        102086503,
+        85821829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iMYTpg9JTqV3hY2vtZqMm_43.582381_-71.411653@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298724,
+    "wof:geomhash":"ab5d77b31382de7d6274f540d74e48ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85814675,
+            "region_id":85688689,
+            "venue_id":873846769
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85821829,
+            "region_id":85688689,
+            "venue_id":873846769
+        }
+    ],
+    "wof:id":873846769,
+    "wof:lastmodified":1464298724,
+    "wof:name":"Edgewater Academy Of Dance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.411653,
+    43.582381,
+    -71.411653,
+    43.582381
+],
+  "geometry": {"coordinates":[-71.411653,43.582381],"type":"Point"}
+}

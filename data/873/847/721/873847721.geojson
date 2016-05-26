@@ -1,0 +1,75 @@
+{
+  "id": 873847721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.800301,43.065048,-70.800301,43.065048",
+    "geom:latitude":43.065048,
+    "geom:longitude":-70.800301,
+    "iso:country":"US",
+    "sg:address":"493 Colonial Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 1268",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833399,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ciq4VqmZ7LFvLQr8Dtihd_43.065048_-70.800301@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298758,
+    "wof:geomhash":"eb0fe965e41af679e67427ec1e3fcc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85833399,
+            "region_id":85688689,
+            "venue_id":873847721
+        }
+    ],
+    "wof:id":873847721,
+    "wof:lastmodified":1464298758,
+    "wof:name":"Dianes Courier Service",
+    "wof:parent_id":85833399,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -70.800301,
+    43.065048,
+    -70.800301,
+    43.065048
+],
+  "geometry": {"coordinates":[-70.800301,43.065048],"type":"Point"}
+}

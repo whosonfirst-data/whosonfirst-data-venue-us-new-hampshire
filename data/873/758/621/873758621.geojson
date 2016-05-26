@@ -1,0 +1,71 @@
+{
+  "id": 873758621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.550644,42.923877,-71.550644,42.923877",
+    "geom:latitude":42.923877,
+    "geom:longitude":-71.550644,
+    "iso:country":"US",
+    "sg:address":"21 Tiffany Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8344",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3UUOdAgnYsI0YnRYOpEZ_42.923877_-71.550644@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297190,
+    "wof:geomhash":"449dd8dcf2f559c63700ef64b447b4e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873758621
+        }
+    ],
+    "wof:id":873758621,
+    "wof:lastmodified":1464297190,
+    "wof:name":"Miville Co",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.550644,
+    42.923877,
+    -71.550644,
+    42.923877
+],
+  "geometry": {"coordinates":[-71.55064400000001,42.923877],"type":"Point"}
+}

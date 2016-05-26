@@ -1,0 +1,71 @@
+{
+  "id": 873646289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.103956,42.826862,-72.103956,42.826862",
+    "geom:latitude":42.826862,
+    "geom:longitude":-72.103956,
+    "iso:country":"US",
+    "sg:address":"9 Fitzwilliam Rd",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 242 6691",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85827287,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h2v9f6drd5WEcd2oqFjS1_42.826862_-72.103956@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295550,
+    "wof:geomhash":"90e26ce13014445faf637ff8137942eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85827287,
+            "region_id":85688689,
+            "venue_id":873646289
+        }
+    ],
+    "wof:id":873646289,
+    "wof:lastmodified":1464295550,
+    "wof:name":"Lepisto's Garage",
+    "wof:parent_id":85827287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.103956,
+    42.826862,
+    -72.103956,
+    42.826862
+],
+  "geometry": {"coordinates":[-72.103956,42.826862],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873697237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015601,42.822309,-72.015601,42.822309",
+    "geom:latitude":42.822309,
+    "geom:longitude":-72.015601,
+    "iso:country":"US",
+    "sg:address":"15 Kevin Ln",
+    "sg:city":"Jaffrey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 532 9312",
+    "sg:postcode":"03452",
+    "sg:province":"NH",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850839,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6124KZigLrIiEYrvyLom1H_42.822309_-72.015601@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296377,
+    "wof:geomhash":"4ce812ff2cb20c02085091674091c436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850839,
+            "region_id":85688689,
+            "venue_id":873697237
+        }
+    ],
+    "wof:id":873697237,
+    "wof:lastmodified":1464296377,
+    "wof:name":"Dupre Plumbing & Heating Co",
+    "wof:parent_id":85850839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.015601,
+    42.822309,
+    -72.015601,
+    42.822309
+],
+  "geometry": {"coordinates":[-72.015601,42.822309],"type":"Point"}
+}

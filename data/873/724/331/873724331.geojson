@@ -1,0 +1,75 @@
+{
+  "id": 873724331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.378029,43.32167,-72.378029,43.32167",
+    "geom:latitude":43.32167,
+    "geom:longitude":-72.378029,
+    "iso:country":"US",
+    "sg:address":"3507 Claremont Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 542 2500",
+    "sg:postcode":"03603",
+    "sg:province":"NH",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85837453,
+        102086583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HZIoqlD2Y03hjlm9m7rOA_43.321670_-72.378029@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296704,
+    "wof:geomhash":"27b4c52de038e6c89e9513ac2f1012c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086583,
+            "neighbourhood_id":85837453,
+            "region_id":85688689,
+            "venue_id":873724331
+        }
+    ],
+    "wof:id":873724331,
+    "wof:lastmodified":1464296704,
+    "wof:name":"Mitza Family Trust",
+    "wof:parent_id":85837453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.378029,
+    43.32167,
+    -72.378029,
+    43.32167
+],
+  "geometry": {"coordinates":[-72.378029,43.32167],"type":"Point"}
+}

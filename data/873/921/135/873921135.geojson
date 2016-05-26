@@ -1,0 +1,71 @@
+{
+  "id": 873921135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41441,42.767907,-71.41441,42.767907",
+    "geom:latitude":42.767907,
+    "geom:longitude":-71.41441,
+    "iso:country":"US",
+    "sg:address":"195 Central St",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 882 0009",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZDhANw3o4tyA6B6l5F6Dm_42.767907_-71.414410@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300230,
+    "wof:geomhash":"2e84beaf671e5b5670e7edd4b16c8317",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873921135
+        }
+    ],
+    "wof:id":873921135,
+    "wof:lastmodified":1464300230,
+    "wof:name":"All American Auto Sales",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -71.41441,
+    42.767907,
+    -71.41441,
+    42.767907
+],
+  "geometry": {"coordinates":[-71.41441,42.767907],"type":"Point"}
+}

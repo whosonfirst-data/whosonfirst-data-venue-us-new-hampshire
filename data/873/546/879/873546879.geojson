@@ -1,0 +1,75 @@
+{
+  "id": 873546879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.777966,43.036425,-70.777966,43.036425",
+    "geom:latitude":43.036425,
+    "geom:longitude":-70.777966,
+    "iso:country":"US",
+    "sg:address":"2300 Lafayette Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 4341",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ynRK0GPmTPowbsoSgwwPU_43.036425_-70.777966@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294338,
+    "wof:geomhash":"8b203e45728515058b75879fdfacd985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873546879
+        }
+    ],
+    "wof:id":873546879,
+    "wof:lastmodified":1464294338,
+    "wof:name":"Boston Concessions",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -70.777966,
+    43.036425,
+    -70.777966,
+    43.036425
+],
+  "geometry": {"coordinates":[-70.77796600000001,43.036425],"type":"Point"}
+}

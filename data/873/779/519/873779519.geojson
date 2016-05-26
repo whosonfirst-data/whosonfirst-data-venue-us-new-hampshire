@@ -1,0 +1,71 @@
+{
+  "id": 873779519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.085659,42.902457,-71.085659,42.902457",
+    "geom:latitude":42.902457,
+    "geom:longitude":-71.085659,
+    "iso:country":"US",
+    "sg:address":"65 Mill Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 642 5261",
+    "sg:postcode":"03848",
+    "sg:province":"NH",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85855763,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ckePuHVj9hJE7sR4YjVma_42.902457_-71.085659@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297483,
+    "wof:geomhash":"6eea51064f8111efef271f8857d085fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85855763,
+            "region_id":85688689,
+            "venue_id":873779519
+        }
+    ],
+    "wof:id":873779519,
+    "wof:lastmodified":1464297483,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85855763,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.085659,
+    42.902457,
+    -71.085659,
+    42.902457
+],
+  "geometry": {"coordinates":[-71.08565900000001,42.902457],"type":"Point"}
+}

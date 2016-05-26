@@ -1,0 +1,73 @@
+{
+  "id": 873732217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408784,42.773973,-71.408784,42.773973",
+    "geom:latitude":42.773973,
+    "geom:longitude":-71.408784,
+    "iso:country":"US",
+    "sg:address":"8 Frenette Dr",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 886 6413",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rgXiQZJjvrmEam6qa50P0_42.773973_-71.408784@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296806,
+    "wof:geomhash":"d5c4765a5cfba95f5c5cb0c5980cc3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873732217
+        }
+    ],
+    "wof:id":873732217,
+    "wof:lastmodified":1464296806,
+    "wof:name":"Steel & Woodworks Inc",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.408784,
+    42.773973,
+    -71.408784,
+    42.773973
+],
+  "geometry": {"coordinates":[-71.408784,42.773973],"type":"Point"}
+}

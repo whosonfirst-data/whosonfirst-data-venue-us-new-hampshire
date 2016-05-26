@@ -1,0 +1,75 @@
+{
+  "id": 873752933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465571,43.542741,-71.465571,43.542741",
+    "geom:latitude":43.542741,
+    "geom:longitude":-71.465571,
+    "iso:country":"US",
+    "sg:address":"570 Union Ave",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 7094",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46cpcMK32nzRmu7IEjd2B2_43.542741_-71.465571@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297117,
+    "wof:geomhash":"0f7018644804728e504c5c9837763cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873752933
+        }
+    ],
+    "wof:id":873752933,
+    "wof:lastmodified":1464297117,
+    "wof:name":"Irving Oil Corp",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "gas",
+        "producer"
+    ]
+},
+  "bbox": [
+    -71.465571,
+    43.542741,
+    -71.465571,
+    43.542741
+],
+  "geometry": {"coordinates":[-71.465571,43.542741],"type":"Point"}
+}

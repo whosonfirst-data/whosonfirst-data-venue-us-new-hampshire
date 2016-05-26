@@ -1,0 +1,69 @@
+{
+  "id": 873757489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.632985,43.457108,-71.632985,43.457108",
+    "geom:latitude":43.457108,
+    "geom:longitude":-71.632985,
+    "iso:country":"US",
+    "sg:address":"293 Sanborn St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 6767",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V6sEabsozh37I1vY0tCWt_43.457108_-71.632985@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297176,
+    "wof:geomhash":"8b434d81baf79cdee3b1d7bdce33a304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873757489
+        }
+    ],
+    "wof:id":873757489,
+    "wof:lastmodified":1464297176,
+    "wof:name":"Franklin Nonferrous Foundry",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -71.632985,
+    43.457108,
+    -71.632985,
+    43.457108
+],
+  "geometry": {"coordinates":[-71.63298500000001,43.457108],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873827143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540035,43.206886,-71.540035,43.206886",
+    "geom:latitude":43.206886,
+    "geom:longitude":-71.540035,
+    "iso:country":"US",
+    "sg:address":"45 Green St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 8670",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:website":"www.onconcord.com/library",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892217,
+        102191575,
+        404477159,
+        85633793,
+        85975075,
+        102086515,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4wJnJfzB2daaAtuP4BEn_43.206886_-71.540035@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298280,
+    "wof:geomhash":"de98d0a6397218175c52a2ee6189afeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086515,
+            "localadmin_id":404477159,
+            "locality_id":85975075,
+            "neighbourhood_id":85892217,
+            "region_id":85688689,
+            "venue_id":873827143
+        }
+    ],
+    "wof:id":873827143,
+    "wof:lastmodified":1464298280,
+    "wof:name":"Concord City Library",
+    "wof:parent_id":85892217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.540035,
+    43.206886,
+    -71.540035,
+    43.206886
+],
+  "geometry": {"coordinates":[-71.540035,43.206886],"type":"Point"}
+}

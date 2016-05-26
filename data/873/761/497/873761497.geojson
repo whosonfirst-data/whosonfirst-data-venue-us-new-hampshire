@@ -1,0 +1,71 @@
+{
+  "id": 873761497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.68967,43.749171,-71.68967,43.749171",
+    "geom:latitude":43.749171,
+    "geom:longitude":-71.68967,
+    "iso:country":"US",
+    "sg:address":"46 Parker St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 1494",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48LrfwbhlOjKTJ760Hfbu6_43.749171_-71.689670@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297228,
+    "wof:geomhash":"8bc0fbbcd14b3f502964d0e1d0c799e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873761497
+        }
+    ],
+    "wof:id":873761497,
+    "wof:lastmodified":1464297228,
+    "wof:name":"Northeast Engine Machine Co",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -71.68967,
+    43.749171,
+    -71.68967,
+    43.749171
+],
+  "geometry": {"coordinates":[-71.68967000000001,43.749171],"type":"Point"}
+}

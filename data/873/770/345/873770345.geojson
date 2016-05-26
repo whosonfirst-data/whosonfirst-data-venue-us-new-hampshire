@@ -1,0 +1,71 @@
+{
+  "id": 873770345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519109,42.95832,-71.519109,42.95832",
+    "geom:latitude":42.95832,
+    "geom:longitude":-71.519109,
+    "iso:country":"US",
+    "sg:address":"58 Buttonwood Rd",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 472 8714",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "industry",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BmvsiB5HPHoJLirrbVdfc_42.958320_-71.519109@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297370,
+    "wof:geomhash":"e0f8b95ab4a9e32888935c40cbd9b326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873770345
+        }
+    ],
+    "wof:id":873770345,
+    "wof:lastmodified":1464297370,
+    "wof:name":"Northrop Grumman Corp",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -71.519109,
+    42.95832,
+    -71.519109,
+    42.95832
+],
+  "geometry": {"coordinates":[-71.519109,42.95832],"type":"Point"}
+}

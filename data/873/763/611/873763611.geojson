@@ -1,0 +1,78 @@
+{
+  "id": 873763611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425769,42.758887,-71.425769,42.758887",
+    "geom:latitude":42.758887,
+    "geom:longitude":-71.425769,
+    "iso:country":"US",
+    "sg:address":"23 Roosevelt Ave",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 889 9131",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "woodworking",
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73vsH10P7rEAt7NIm3Cl9D_42.758887_-71.425769@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297267,
+    "wof:geomhash":"10c192308939e9c9b39360ee74da6fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873763611
+        }
+    ],
+    "wof:id":873763611,
+    "wof:lastmodified":1464297267,
+    "wof:name":"Nashua Woodcrafts",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworking",
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -71.425769,
+    42.758887,
+    -71.425769,
+    42.758887
+],
+  "geometry": {"coordinates":[-71.425769,42.758887],"type":"Point"}
+}

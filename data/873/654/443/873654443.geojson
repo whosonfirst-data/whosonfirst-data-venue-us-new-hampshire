@@ -1,0 +1,71 @@
+{
+  "id": 873654443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.21398,43.158926,-71.21398,43.158926",
+    "geom:latitude":43.158926,
+    "geom:longitude":-71.21398,
+    "iso:country":"US",
+    "sg:address":"17 Harvey Rd",
+    "sg:city":"Deerfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 463 7229",
+    "sg:postcode":"03037",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85813987,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mtDEBu79pThPDVSSesAlb_43.158926_-71.213980@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295640,
+    "wof:geomhash":"180299b85f746d6039c4516a1d2df85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85813987,
+            "region_id":85688689,
+            "venue_id":873654443
+        }
+    ],
+    "wof:id":873654443,
+    "wof:lastmodified":1464295640,
+    "wof:name":"Stephen A Lafond Elec Svcs",
+    "wof:parent_id":85813987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.21398,
+    43.158926,
+    -71.21398,
+    43.158926
+],
+  "geometry": {"coordinates":[-71.21398000000001,43.158926],"type":"Point"}
+}

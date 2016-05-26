@@ -1,0 +1,69 @@
+{
+  "id": 873604185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476612,42.979943,-71.476612,42.979943",
+    "geom:latitude":42.979943,
+    "geom:longitude":-71.476612,
+    "iso:country":"US",
+    "sg:address":"222 S Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 669 2112",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26OKiBV0qGgIKIKTZzWuqe_42.979943_-71.476612@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295031,
+    "wof:geomhash":"8fe3389dd3806090cf9c90bd7e900528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873604185
+        }
+    ],
+    "wof:id":873604185,
+    "wof:lastmodified":1464295031,
+    "wof:name":"Street Sindicate",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -71.476612,
+    42.979943,
+    -71.476612,
+    42.979943
+],
+  "geometry": {"coordinates":[-71.476612,42.979943],"type":"Point"}
+}

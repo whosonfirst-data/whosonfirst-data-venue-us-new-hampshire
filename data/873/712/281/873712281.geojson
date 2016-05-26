@@ -1,0 +1,71 @@
+{
+  "id": 873712281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200039,42.817642,-71.200039,42.817642",
+    "geom:latitude":42.817642,
+    "geom:longitude":-71.200039,
+    "iso:country":"US",
+    "sg:address":"11 Julie Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 5976",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CGDKeHTjmRctivGdngPkP_42.817642_-71.200039@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296548,
+    "wof:geomhash":"8372ad7417122774037879cb1b046394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873712281
+        }
+    ],
+    "wof:id":873712281,
+    "wof:lastmodified":1464296548,
+    "wof:name":"Boat Exchange",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.200039,
+    42.817642,
+    -71.200039,
+    42.817642
+],
+  "geometry": {"coordinates":[-71.200039,42.817642],"type":"Point"}
+}

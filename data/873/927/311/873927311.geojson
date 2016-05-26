@@ -1,0 +1,85 @@
+{
+  "id": 873927311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476658,42.947309,-71.476658,42.947309",
+    "geom:latitude":42.947309,
+    "geom:longitude":-71.476658,
+    "iso:country":"US",
+    "sg:address":"170 S River Rd Ste 4",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 668 6446",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "abstracter",
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LdtCe2N66jSzF39fy8WJf_42.947309_-71.476658@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300351,
+    "wof:geomhash":"7b7f9f1519a832865a665caea42d8335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873927311
+        }
+    ],
+    "wof:id":873927311,
+    "wof:lastmodified":1464300351,
+    "wof:name":"Accurate Title",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "abstracter",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.476658,
+    42.947309,
+    -71.476658,
+    42.947309
+],
+  "geometry": {"coordinates":[-71.476658,42.947309],"type":"Point"}
+}

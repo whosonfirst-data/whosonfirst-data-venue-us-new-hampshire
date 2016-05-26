@@ -1,0 +1,69 @@
+{
+  "id": 873930479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.170945,42.821775,-71.170945,42.821775",
+    "geom:latitude":42.821775,
+    "geom:longitude":-71.170945,
+    "iso:country":"US",
+    "sg:address":"85 Country Club Dr",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 5681",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BymjSnyB1e2j4vschXeLC_42.821775_-71.170945@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300420,
+    "wof:geomhash":"c68e9a7a2fbb746bad67dd0b63f4e11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873930479
+        }
+    ],
+    "wof:id":873930479,
+    "wof:lastmodified":1464300420,
+    "wof:name":"Atkinson Country Club Golf",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -71.170945,
+    42.821775,
+    -71.170945,
+    42.821775
+],
+  "geometry": {"coordinates":[-71.170945,42.821775],"type":"Point"}
+}

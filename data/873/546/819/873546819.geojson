@@ -1,0 +1,71 @@
+{
+  "id": 873546819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186059,42.772823,-71.186059,42.772823",
+    "geom:latitude":42.772823,
+    "geom:longitude":-71.186059,
+    "iso:country":"US",
+    "sg:address":"31 Ashwood Ave",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 898 1168",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85858095,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iwUgOoZmi8WRoAjgfbEAK_42.772823_-71.186059@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294337,
+    "wof:geomhash":"4eeb36dace9a7aebbdff366c50d0cd32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85858095,
+            "region_id":85688689,
+            "venue_id":873546819
+        }
+    ],
+    "wof:id":873546819,
+    "wof:lastmodified":1464294337,
+    "wof:name":"Anitech Dog Training",
+    "wof:parent_id":85858095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -71.186059,
+    42.772823,
+    -71.186059,
+    42.772823
+],
+  "geometry": {"coordinates":[-71.186059,42.772823],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873638075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.80815,43.199053,-71.80815,43.199053",
+    "geom:latitude":43.199053,
+    "geom:longitude":-71.80815,
+    "iso:country":"US",
+    "sg:address":"14 Evergreen Cir",
+    "sg:city":"Henniker",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 7358",
+    "sg:postcode":"03242",
+    "sg:province":"NH",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975215,
+        102086515,
+        85824609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sDrxbRQCqOo6giIpoX9mK_43.199053_-71.808150@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295455,
+    "wof:geomhash":"7fa146e9094324947794c3c351662aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975215,
+            "neighbourhood_id":85824609,
+            "region_id":85688689,
+            "venue_id":873638075
+        }
+    ],
+    "wof:id":873638075,
+    "wof:lastmodified":1464295455,
+    "wof:name":"Horn Fixer",
+    "wof:parent_id":85824609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -71.80815,
+    43.199053,
+    -71.80815,
+    43.199053
+],
+  "geometry": {"coordinates":[-71.80815,43.199053],"type":"Point"}
+}

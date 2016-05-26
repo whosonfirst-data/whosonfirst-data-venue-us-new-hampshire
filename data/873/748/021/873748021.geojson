@@ -1,0 +1,71 @@
+{
+  "id": 873748021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534694,42.948518,-71.534694,42.948518",
+    "geom:latitude":42.948518,
+    "geom:longitude":-71.534694,
+    "iso:country":"US",
+    "sg:address":"37 Nathan Cutler Dr",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 471 6351",
+    "sg:postcode":"03110",
+    "sg:province":"NH",
+    "sg:tags":[
+        "distributor",
+        "shelving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892273,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lnqjDIzR4EPYSkM9EvGOJ_42.948518_-71.534694@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297050,
+    "wof:geomhash":"3586cc9c4c26abd2597c62f55b98a4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85892273,
+            "region_id":85688689,
+            "venue_id":873748021
+        }
+    ],
+    "wof:id":873748021,
+    "wof:lastmodified":1464297050,
+    "wof:name":"Feature Wall",
+    "wof:parent_id":85892273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "shelving"
+    ]
+},
+  "bbox": [
+    -71.534694,
+    42.948518,
+    -71.534694,
+    42.948518
+],
+  "geometry": {"coordinates":[-71.534694,42.948518],"type":"Point"}
+}

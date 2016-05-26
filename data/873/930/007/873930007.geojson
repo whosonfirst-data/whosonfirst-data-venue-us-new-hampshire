@@ -1,0 +1,98 @@
+{
+  "id": 873930007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.775583,43.021437,-70.775583,43.021437",
+    "geom:latitude":43.021437,
+    "geom:longitude":-70.775583,
+    "iso:country":"US",
+    "sg:address":"97 Eastwood Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 334 6411",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "product",
+        "designer",
+        "consultant",
+        "system",
+        "integration",
+        "software",
+        "engineer"
+    ],
+    "sg:website":"http://www.cmcsys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526343,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CpgSsOaVSl0AVOhUeJ1Nx_43.021437_-70.775583@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300410,
+    "wof:geomhash":"3bfc9173cf32fdaf3b70168e6ffdb516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":420526343,
+            "region_id":85688689,
+            "venue_id":873930007
+        }
+    ],
+    "wof:id":873930007,
+    "wof:lastmodified":1464300410,
+    "wof:name":"Cmc Systems",
+    "wof:parent_id":420526343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "designer",
+        "consultant",
+        "system",
+        "integration",
+        "software",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -70.775583,
+    43.021437,
+    -70.775583,
+    43.021437
+],
+  "geometry": {"coordinates":[-70.775583,43.021437],"type":"Point"}
+}

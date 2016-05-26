@@ -1,0 +1,71 @@
+{
+  "id": 873867217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.693604,43.773139,-71.693604,43.773139",
+    "geom:latitude":43.773139,
+    "geom:longitude":-71.693604,
+    "iso:country":"US",
+    "sg:address":"27 Morgan Dr",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 5600",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85856165,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RIfN4OwTM713uyKKDgcJq_43.773139_-71.693604@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299176,
+    "wof:geomhash":"436f98e4a9e2a86ed3021ec4c02d0bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85856165,
+            "region_id":85688689,
+            "venue_id":873867217
+        }
+    ],
+    "wof:id":873867217,
+    "wof:lastmodified":1464299176,
+    "wof:name":"Plymouth Apartments Maintain",
+    "wof:parent_id":85856165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.693604,
+    43.773139,
+    -71.693604,
+    43.773139
+],
+  "geometry": {"coordinates":[-71.69360399999999,43.773139],"type":"Point"}
+}

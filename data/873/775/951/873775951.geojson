@@ -1,0 +1,71 @@
+{
+  "id": 873775951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.269041,42.913039,-72.269041,42.913039",
+    "geom:latitude":42.913039,
+    "geom:longitude":-72.269041,
+    "iso:country":"US",
+    "sg:address":"24 Lynwood Ave",
+    "sg:city":"Keene",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 352 2066",
+    "sg:postcode":"03431",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GH95fEIoWz8yhige2L02w_42.913039_-72.269041@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297437,
+    "wof:geomhash":"f14f9cacf909c12bee746f7b5929a39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873775951
+        }
+    ],
+    "wof:id":873775951,
+    "wof:lastmodified":1464297437,
+    "wof:name":"Traveling Electronics",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.269041,
+    42.913039,
+    -72.269041,
+    42.913039
+],
+  "geometry": {"coordinates":[-72.269041,42.913039],"type":"Point"}
+}

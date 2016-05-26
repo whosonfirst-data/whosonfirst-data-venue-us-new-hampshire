@@ -1,0 +1,76 @@
+{
+  "id": 873861553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516392,42.995527,-71.516392,42.995527",
+    "geom:latitude":42.995527,
+    "geom:longitude":-71.516392,
+    "iso:country":"US",
+    "sg:address":"15 Pershing St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 623 9480",
+    "sg:postcode":"03102",
+    "sg:province":"NH",
+    "sg:tags":[
+        "club",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85841655,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bvtIzOTPbJZcB2xpzKqj5_42.995527_-71.516392@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299069,
+    "wof:geomhash":"315dae5f7d78435d83f07319f71c189d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85841655,
+            "region_id":85688689,
+            "venue_id":873861553
+        }
+    ],
+    "wof:id":873861553,
+    "wof:lastmodified":1464299069,
+    "wof:name":"Pinardville Athletic Club Inc",
+    "wof:parent_id":85841655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.516392,
+    42.995527,
+    -71.516392,
+    42.995527
+],
+  "geometry": {"coordinates":[-71.516392,42.995527],"type":"Point"}
+}

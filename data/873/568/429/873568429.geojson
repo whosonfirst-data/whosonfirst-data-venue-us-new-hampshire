@@ -1,0 +1,71 @@
+{
+  "id": 873568429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660741,43.460344,-71.660741,43.460344",
+    "geom:latitude":43.460344,
+    "geom:longitude":-71.660741,
+    "iso:country":"US",
+    "sg:address":"34 Hill Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 764 9300",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sLZHdak0uDnHoehoCid1O_43.460344_-71.660741@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464294590,
+    "wof:geomhash":"84fed36840e2ee49491148d6bf59073e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873568429
+        }
+    ],
+    "wof:id":873568429,
+    "wof:lastmodified":1464294590,
+    "wof:name":"C M Whitcher Rubbish Removal",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.660741,
+    43.460344,
+    -71.660741,
+    43.460344
+],
+  "geometry": {"coordinates":[-71.660741,43.460344],"type":"Point"}
+}

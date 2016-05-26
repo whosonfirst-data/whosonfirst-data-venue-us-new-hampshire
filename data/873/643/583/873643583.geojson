@@ -1,0 +1,71 @@
+{
+  "id": 873643583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.964996,43.196721,-70.964996,43.196721",
+    "geom:latitude":43.196721,
+    "geom:longitude":-70.964996,
+    "iso:country":"US",
+    "sg:address":"25 Huckins Rd",
+    "sg:city":"Madbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 743 4363",
+    "sg:postcode":"03823",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85815941,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gSEoj70yZr7ehekhL1oSi_43.196721_-70.964996@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295521,
+    "wof:geomhash":"4a87a1fcdd720992023dd04591f4eded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85815941,
+            "region_id":85688689,
+            "venue_id":873643583
+        }
+    ],
+    "wof:id":873643583,
+    "wof:lastmodified":1464295521,
+    "wof:name":"RAM General Contractors",
+    "wof:parent_id":85815941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -70.964996,
+    43.196721,
+    -70.964996,
+    43.196721
+],
+  "geometry": {"coordinates":[-70.964996,43.196721],"type":"Point"}
+}

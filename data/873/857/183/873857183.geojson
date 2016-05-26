@@ -1,0 +1,71 @@
+{
+  "id": 873857183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687233,43.762536,-71.687233,43.762536",
+    "geom:latitude":43.762536,
+    "geom:longitude":-71.687233,
+    "iso:country":"US",
+    "sg:address":"186 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 536 4004",
+    "sg:postcode":"03264",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806347,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26YpFHztMZjHtlykfkR3ls_43.762536_-71.687233@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298956,
+    "wof:geomhash":"df043df63a8b4247f33f0be326f18ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85806347,
+            "region_id":85688689,
+            "venue_id":873857183
+        }
+    ],
+    "wof:id":873857183,
+    "wof:lastmodified":1464298956,
+    "wof:name":"Kirk's Truck & Auto Repair",
+    "wof:parent_id":85806347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.687233,
+    43.762536,
+    -71.687233,
+    43.762536
+],
+  "geometry": {"coordinates":[-71.68723300000001,43.762536],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873678575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.085632,43.801905,-71.085632,43.801905",
+    "geom:latitude":43.801905,
+    "geom:longitude":-71.085632,
+    "iso:country":"US",
+    "sg:address":"287 W Bay Rd",
+    "sg:city":"Freedom",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 5600",
+    "sg:postcode":"03836",
+    "sg:province":"NH",
+    "sg:tags":[
+        "installation",
+        "fire",
+        "alarm",
+        "system",
+        "detection",
+        "burglar"
+    ],
+    "sg:website":"www.lakesidecomm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85839901,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UIATrfFeVxufKgGsCb1y8_43.801905_-71.085632@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295955,
+    "wof:geomhash":"d28e437817bb8fe945a77a9900296fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85839901,
+            "region_id":85688689,
+            "venue_id":873678575
+        }
+    ],
+    "wof:id":873678575,
+    "wof:lastmodified":1464295955,
+    "wof:name":"Lakeside Security & Comm",
+    "wof:parent_id":85839901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "fire",
+        "alarm",
+        "system",
+        "detection",
+        "burglar"
+    ]
+},
+  "bbox": [
+    -71.085632,
+    43.801905,
+    -71.085632,
+    43.801905
+],
+  "geometry": {"coordinates":[-71.085632,43.801905],"type":"Point"}
+}

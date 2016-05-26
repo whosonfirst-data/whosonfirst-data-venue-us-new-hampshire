@@ -1,0 +1,69 @@
+{
+  "id": 873837123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.199075,42.897755,-72.199075,42.897755",
+    "geom:latitude":42.897755,
+    "geom:longitude":-72.199075,
+    "iso:country":"US",
+    "sg:address":"51 Bixby St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 876 3807",
+    "sg:postcode":"03455",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85854921,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6acSAlNd3xn1TaqxVgzZsi_42.897755_-72.199075@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298486,
+    "wof:geomhash":"78ffcffbd3b2ec24634d78046e0d0eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85854921,
+            "region_id":85688689,
+            "venue_id":873837123
+        }
+    ],
+    "wof:id":873837123,
+    "wof:lastmodified":1464298486,
+    "wof:name":"Peep Willow Farm",
+    "wof:parent_id":85854921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -72.199075,
+    42.897755,
+    -72.199075,
+    42.897755
+],
+  "geometry": {"coordinates":[-72.19907499999999,42.897755],"type":"Point"}
+}

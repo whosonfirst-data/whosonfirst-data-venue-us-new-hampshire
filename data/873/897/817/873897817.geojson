@@ -1,0 +1,71 @@
+{
+  "id": 873897817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.392187,42.91062,-71.392187,42.91062",
+    "geom:latitude":42.91062,
+    "geom:longitude":-71.392187,
+    "iso:country":"US",
+    "sg:address":"532 Mammoth Rd",
+    "sg:city":"Londonderry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 6660",
+    "sg:postcode":"03053",
+    "sg:province":"NH",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85892253,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xlWT16UzbWvBU6EeeFiiF_42.910620_-71.392187@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299779,
+    "wof:geomhash":"930d8b9081948fe0e81628dda3f6d7bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85892253,
+            "region_id":85688689,
+            "venue_id":873897817
+        }
+    ],
+    "wof:id":873897817,
+    "wof:lastmodified":1464299779,
+    "wof:name":"T-Rex Corp",
+    "wof:parent_id":85892253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.392187,
+    42.91062,
+    -71.392187,
+    42.91062
+],
+  "geometry": {"coordinates":[-71.39218700000001,42.91062],"type":"Point"}
+}

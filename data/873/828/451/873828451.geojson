@@ -1,0 +1,84 @@
+{
+  "id": 873828451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.594718,43.275729,-71.594718,43.275729",
+    "geom:latitude":43.275729,
+    "geom:longitude":-71.594718,
+    "iso:country":"US",
+    "sg:address":"102 High St",
+    "sg:city":"Boscawen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 796 2037",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "fire",
+        "equipment",
+        "protection",
+        "installation",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gWptu2U1wkdYC2nzWbNlc_43.275729_-71.594718@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298304,
+    "wof:geomhash":"1e45ca4c631e811d374c20b39c3ad261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873828451
+        }
+    ],
+    "wof:id":873828451,
+    "wof:lastmodified":1464298304,
+    "wof:name":"Brigade Fire Protection Inc",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "equipment",
+        "protection",
+        "installation",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.594718,
+    43.275729,
+    -71.594718,
+    43.275729
+],
+  "geometry": {"coordinates":[-71.594718,43.275729],"type":"Point"}
+}

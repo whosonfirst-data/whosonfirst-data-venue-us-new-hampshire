@@ -1,0 +1,83 @@
+{
+  "id": 873814361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.586048,42.801859,-71.586048,42.801859",
+    "geom:latitude":42.801859,
+    "geom:longitude":-71.586048,
+    "iso:country":"US",
+    "sg:address":"3 Northern Blvd",
+    "sg:city":"Amherst",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 672 0909",
+    "sg:postcode":"03031",
+    "sg:province":"NH",
+    "sg:tags":[
+        "pressure",
+        "probe",
+        "various",
+        "sensing",
+        "mfg"
+    ],
+    "sg:website":"www.unitedsensorcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85842663,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FdUzuWoeqA6eaZq0p2sIs_42.801859_-71.586048@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298003,
+    "wof:geomhash":"091be760d226fd976e4d40b3d341d118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85842663,
+            "region_id":85688689,
+            "venue_id":873814361
+        }
+    ],
+    "wof:id":873814361,
+    "wof:lastmodified":1464298003,
+    "wof:name":"United Sensor Corp",
+    "wof:parent_id":85842663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pressure",
+        "probe",
+        "various",
+        "sensing",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.586048,
+    42.801859,
+    -71.586048,
+    42.801859
+],
+  "geometry": {"coordinates":[-71.58604800000001,42.801859],"type":"Point"}
+}

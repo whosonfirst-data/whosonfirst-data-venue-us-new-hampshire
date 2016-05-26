@@ -1,0 +1,69 @@
+{
+  "id": 873694697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379759,42.787829,-71.379759,42.787829",
+    "geom:latitude":42.787829,
+    "geom:longitude":-71.379759,
+    "iso:country":"US",
+    "sg:address":"18 Lawrence Rd",
+    "sg:city":"Hudson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 881 8425",
+    "sg:postcode":"03051",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85826415,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jee5re39XFQh2804Y9ow3_42.787829_-71.379759@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296345,
+    "wof:geomhash":"00a1a92ae3797d61ad35e28838a9d589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85826415,
+            "region_id":85688689,
+            "venue_id":873694697
+        }
+    ],
+    "wof:id":873694697,
+    "wof:lastmodified":1464296345,
+    "wof:name":"Town & Country Plumbing &",
+    "wof:parent_id":85826415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.379759,
+    42.787829,
+    -71.379759,
+    42.787829
+],
+  "geometry": {"coordinates":[-71.37975900000001,42.787829],"type":"Point"}
+}

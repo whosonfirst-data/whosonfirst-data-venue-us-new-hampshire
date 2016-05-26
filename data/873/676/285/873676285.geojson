@@ -1,0 +1,71 @@
+{
+  "id": 873676285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.844124,43.795159,-71.844124,43.795159",
+    "geom:latitude":43.795159,
+    "geom:longitude":-71.844124,
+    "iso:country":"US",
+    "sg:address":"258 Moosilauke Rd",
+    "sg:city":"Wentworth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 786 2263",
+    "sg:postcode":"03266",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846379,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BWwOA6lZgnpGoYwPEdA1Z_43.795159_-71.844124@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295895,
+    "wof:geomhash":"5e602faa809c5890a092f89034f9bc64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85846379,
+            "region_id":85688689,
+            "venue_id":873676285
+        }
+    ],
+    "wof:id":873676285,
+    "wof:lastmodified":1464295895,
+    "wof:name":"Moore Hydroseeding",
+    "wof:parent_id":85846379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.844124,
+    43.795159,
+    -71.844124,
+    43.795159
+],
+  "geometry": {"coordinates":[-71.84412399999999,43.795159],"type":"Point"}
+}

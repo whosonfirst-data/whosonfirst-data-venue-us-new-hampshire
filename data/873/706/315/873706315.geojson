@@ -1,0 +1,75 @@
+{
+  "id": 873706315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497633,43.187297,-71.497633,43.187297",
+    "geom:latitude":43.187297,
+    "geom:longitude":-71.497633,
+    "iso:country":"US",
+    "sg:address":"175 Manchester St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 226 4142",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85806829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xGgw5vYHuOSqfrI8nJ41W_43.187297_-71.497633@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296473,
+    "wof:geomhash":"e280bfe4f3ed1cd1e487360c748596f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85806829,
+            "region_id":85688689,
+            "venue_id":873706315
+        }
+    ],
+    "wof:id":873706315,
+    "wof:lastmodified":1464296473,
+    "wof:name":"Dave's Body & Fender",
+    "wof:parent_id":85806829,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.497633,
+    43.187297,
+    -71.497633,
+    43.187297
+],
+  "geometry": {"coordinates":[-71.49763299999999,43.187297],"type":"Point"}
+}

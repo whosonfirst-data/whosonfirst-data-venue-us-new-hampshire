@@ -1,0 +1,71 @@
+{
+  "id": 873639133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.880204,44.097915,-71.880204,44.097915",
+    "geom:latitude":44.097915,
+    "geom:longitude":-71.880204,
+    "iso:country":"US",
+    "sg:address":"506 Coventry Rd",
+    "sg:city":"Benton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 787 6804",
+    "sg:postcode":"03785",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85831491,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37mfo8AK82uMho0RlxRgxY_44.097915_-71.880204@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295465,
+    "wof:geomhash":"31375afb72055d6affaaac68823cd0c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85831491,
+            "region_id":85688689,
+            "venue_id":873639133
+        }
+    ],
+    "wof:id":873639133,
+    "wof:lastmodified":1464295465,
+    "wof:name":"Coventry Garage",
+    "wof:parent_id":85831491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.880204,
+    44.097915,
+    -71.880204,
+    44.097915
+],
+  "geometry": {"coordinates":[-71.88020400000001,44.097915],"type":"Point"}
+}

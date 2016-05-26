@@ -1,0 +1,71 @@
+{
+  "id": 873793435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527883,43.014706,-71.527883,43.014706",
+    "geom:latitude":43.014706,
+    "geom:longitude":-71.527883,
+    "iso:country":"US",
+    "sg:address":"66 River Ledge",
+    "sg:city":"Goffstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 625 6376",
+    "sg:postcode":"03045",
+    "sg:province":"NH",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822609,
+        102085493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mnwr6rj9HXfmHiNrSB2fc_43.014706_-71.527883@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297695,
+    "wof:geomhash":"33bdd975fbd66157cd6064dcb768ee2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085493,
+            "neighbourhood_id":85822609,
+            "region_id":85688689,
+            "venue_id":873793435
+        }
+    ],
+    "wof:id":873793435,
+    "wof:lastmodified":1464297695,
+    "wof:name":"Sisters Of Holy Cross",
+    "wof:parent_id":85822609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.527883,
+    43.014706,
+    -71.527883,
+    43.014706
+],
+  "geometry": {"coordinates":[-71.527883,43.014706],"type":"Point"}
+}

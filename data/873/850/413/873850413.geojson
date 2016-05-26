@@ -1,0 +1,73 @@
+{
+  "id": 873850413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281981,43.071227,-71.281981,43.071227",
+    "geom:latitude":43.071227,
+    "geom:longitude":-71.281981,
+    "iso:country":"US",
+    "sg:address":"174 Deerfield Rd",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 2086",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55QsrvBp3Xw0Mx39Vn8g1l_43.071227_-71.281981@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298820,
+    "wof:geomhash":"0fc7fefa23cb063d9210993a0d05ba96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873850413
+        }
+    ],
+    "wof:id":873850413,
+    "wof:lastmodified":1464298820,
+    "wof:name":"Ingaharro Auto Body",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.281981,
+    43.071227,
+    -71.281981,
+    43.071227
+],
+  "geometry": {"coordinates":[-71.281981,43.071227],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873757461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.713517,43.220034,-71.713517,43.220034",
+    "geom:latitude":43.220034,
+    "geom:longitude":-71.713517,
+    "iso:country":"US",
+    "sg:address":"60 Cedar St",
+    "sg:city":"Contoocook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 428 4444",
+    "sg:postcode":"03229",
+    "sg:province":"NH",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975213,
+        102086515,
+        85852955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_530v5ZUKjbk0RubpEaWXu5_43.220034_-71.713517@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297175,
+    "wof:geomhash":"c0f77f0c8f8d7afc787ba485846837bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975213,
+            "neighbourhood_id":85852955,
+            "region_id":85688689,
+            "venue_id":873757461
+        }
+    ],
+    "wof:id":873757461,
+    "wof:lastmodified":1464297175,
+    "wof:name":"Main Street Pizza",
+    "wof:parent_id":85852955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.713517,
+    43.220034,
+    -71.713517,
+    43.220034
+],
+  "geometry": {"coordinates":[-71.713517,43.220034],"type":"Point"}
+}

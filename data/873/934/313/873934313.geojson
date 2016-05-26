@@ -1,0 +1,76 @@
+{
+  "id": 873934313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.74839,43.037449,-70.74839,43.037449",
+    "geom:latitude":43.037449,
+    "geom:longitude":-70.74839,
+    "iso:country":"US",
+    "sg:address":"236 Sagamore Rd",
+    "sg:city":"Rye",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 433 8581",
+    "sg:postcode":"03870",
+    "sg:province":"NH",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975061,
+        102086507,
+        85820507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bwKzwETK2Zk8oJz6nDntS_43.037449_-70.748390@1303262241"
+    },
+    "wof:country":"US",
+    "wof:created":1464300486,
+    "wof:geomhash":"b425d5020add8a5e0201c966ceda007a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975061,
+            "neighbourhood_id":85820507,
+            "region_id":85688689,
+            "venue_id":873934313
+        }
+    ],
+    "wof:id":873934313,
+    "wof:lastmodified":1464300486,
+    "wof:name":"Granite State Chem Pest Ctrl",
+    "wof:parent_id":85820507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -70.74839,
+    43.037449,
+    -70.74839,
+    43.037449
+],
+  "geometry": {"coordinates":[-70.74839,43.037449],"type":"Point"}
+}

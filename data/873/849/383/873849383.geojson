@@ -1,0 +1,71 @@
+{
+  "id": 873849383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.064742,43.296825,-71.064742,43.296825",
+    "geom:latitude":43.296825,
+    "geom:longitude":-71.064742,
+    "iso:country":"US",
+    "sg:address":"146 Crown Point Rd",
+    "sg:city":"Rochester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 332 8441",
+    "sg:postcode":"03867",
+    "sg:province":"NH",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85822215,
+        102085609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gpD1CkMAD5YYu9ww6MluK_43.296825_-71.064742@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298799,
+    "wof:geomhash":"15d6723688d8c7b2f9e8b9d122ae236e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085609,
+            "neighbourhood_id":85822215,
+            "region_id":85688689,
+            "venue_id":873849383
+        }
+    ],
+    "wof:id":873849383,
+    "wof:lastmodified":1464298799,
+    "wof:name":"Flause Jr Carpentry",
+    "wof:parent_id":85822215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.064742,
+    43.296825,
+    -71.064742,
+    43.296825
+],
+  "geometry": {"coordinates":[-71.064742,43.296825],"type":"Point"}
+}

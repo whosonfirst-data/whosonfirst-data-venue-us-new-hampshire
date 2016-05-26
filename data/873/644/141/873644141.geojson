@@ -1,0 +1,71 @@
+{
+  "id": 873644141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426638,43.719668,-71.426638,43.719668",
+    "geom:latitude":43.719668,
+    "geom:longitude":-71.426638,
+    "iso:country":"US",
+    "sg:address":"22 Moultonboro Neck Rd",
+    "sg:city":"Moultonborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 253 7360",
+    "sg:postcode":"03254",
+    "sg:province":"NH",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85835419,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I0dcZA27YlNcN0eSPl65p_43.719668_-71.426638@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295526,
+    "wof:geomhash":"2439e8ae492aada32dd9aeaeaf338021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85835419,
+            "region_id":85688689,
+            "venue_id":873644141
+        }
+    ],
+    "wof:id":873644141,
+    "wof:lastmodified":1464295526,
+    "wof:name":"Clifford's Tire & Repair",
+    "wof:parent_id":85835419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.426638,
+    43.719668,
+    -71.426638,
+    43.719668
+],
+  "geometry": {"coordinates":[-71.426638,43.719668],"type":"Point"}
+}

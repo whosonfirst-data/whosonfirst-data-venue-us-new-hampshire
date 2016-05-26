@@ -1,0 +1,69 @@
+{
+  "id": 873605303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.668455,44.044348,-71.668455,44.044348",
+    "geom:latitude":44.044348,
+    "geom:longitude":-71.668455,
+    "iso:country":"US",
+    "sg:address":"25 Church St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 745 2266",
+    "sg:postcode":"03251",
+    "sg:province":"NH",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85818665,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vTlnto7X53XteA86mBumY_44.044348_-71.668455@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295044,
+    "wof:geomhash":"e8e06c600bbd4e8be28eac87e5e508c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85818665,
+            "region_id":85688689,
+            "venue_id":873605303
+        }
+    ],
+    "wof:id":873605303,
+    "wof:lastmodified":1464295044,
+    "wof:name":"St Joseph Church",
+    "wof:parent_id":85818665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.668455,
+    44.044348,
+    -71.668455,
+    44.044348
+],
+  "geometry": {"coordinates":[-71.66845499999999,44.044348],"type":"Point"}
+}

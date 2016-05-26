@@ -1,0 +1,71 @@
+{
+  "id": 873891131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.134334,42.849129,-71.134334,42.849129",
+    "geom:latitude":42.849129,
+    "geom:longitude":-71.134334,
+    "iso:country":"US",
+    "sg:address":"61 East Rd",
+    "sg:city":"Atkinson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 362 6450",
+    "sg:postcode":"03811",
+    "sg:province":"NH",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85803845,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_741WES1dNTLxQSxiBEaIpx_42.849129_-71.134334@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299651,
+    "wof:geomhash":"cc3eaf7d338b36369ae66468eff2533f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85803845,
+            "region_id":85688689,
+            "venue_id":873891131
+        }
+    ],
+    "wof:id":873891131,
+    "wof:lastmodified":1464299651,
+    "wof:name":"Cunningham Construction",
+    "wof:parent_id":85803845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.134334,
+    42.849129,
+    -71.134334,
+    42.849129
+],
+  "geometry": {"coordinates":[-71.134334,42.849129],"type":"Point"}
+}

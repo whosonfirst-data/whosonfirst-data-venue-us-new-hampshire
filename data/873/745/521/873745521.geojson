@@ -1,0 +1,73 @@
+{
+  "id": 873745521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.31993,42.885654,-71.31993,42.885654",
+    "geom:latitude":42.885654,
+    "geom:longitude":-71.31993,
+    "iso:country":"US",
+    "sg:address":"87 E Broadway",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 425 7770",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Av1kLuHksyUDMbyrOc4aU_42.885654_-71.319930@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297019,
+    "wof:geomhash":"5819150eb5d9c845dd514d272db02277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892227,
+            "region_id":85688689,
+            "venue_id":873745521
+        }
+    ],
+    "wof:id":873745521,
+    "wof:lastmodified":1464297019,
+    "wof:name":"Penguin Computing Inc",
+    "wof:parent_id":85892227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -71.31993,
+    42.885654,
+    -71.31993,
+    42.885654
+],
+  "geometry": {"coordinates":[-71.31993,42.885654],"type":"Point"}
+}

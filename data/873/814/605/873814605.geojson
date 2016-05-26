@@ -1,0 +1,69 @@
+{
+  "id": 873814605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.683066,44.382903,-71.683066,44.382903",
+    "geom:latitude":44.382903,
+    "geom:longitude":-71.683066,
+    "iso:country":"US",
+    "sg:address":"164 Mountain Rd",
+    "sg:city":"Dalton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 2728",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Dvjc0iVSqjP3gb8kfkhR_44.382903_-71.683066@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298007,
+    "wof:geomhash":"bb9961a722ad6f7adb260007a692ae9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873814605
+        }
+    ],
+    "wof:id":873814605,
+    "wof:lastmodified":1464298007,
+    "wof:name":"White's Septic Svc",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.683066,
+    44.382903,
+    -71.683066,
+    44.382903
+],
+  "geometry": {"coordinates":[-71.683066,44.382903],"type":"Point"}
+}

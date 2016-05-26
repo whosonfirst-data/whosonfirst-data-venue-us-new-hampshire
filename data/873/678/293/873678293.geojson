@@ -1,0 +1,80 @@
+{
+  "id": 873678293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454033,43.539234,-71.454033,43.539234",
+    "geom:latitude":43.539234,
+    "geom:longitude":-71.454033,
+    "iso:country":"US",
+    "sg:address":"23 Cyrus Ln",
+    "sg:city":"Gilford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 527 1234",
+    "sg:postcode":"03249",
+    "sg:province":"NH",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "casting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S1S4D7a8XiuAhNfO5aaKv_43.539234_-71.454033@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295947,
+    "wof:geomhash":"57a885dc7e8777306155a8a6fe39a802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873678293
+        }
+    ],
+    "wof:id":873678293,
+    "wof:lastmodified":1464295947,
+    "wof:name":"A & B Castings Inc",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial",
+        "casting"
+    ]
+},
+  "bbox": [
+    -71.454033,
+    43.539234,
+    -71.454033,
+    43.539234
+],
+  "geometry": {"coordinates":[-71.454033,43.539234],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873609397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.253306,42.88092,-72.253306,42.88092",
+    "geom:latitude":42.88092,
+    "geom:longitude":-72.253306,
+    "iso:country":"US",
+    "sg:address":"24 Fox Run Rd",
+    "sg:city":"Swanzey",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 358 0470",
+    "sg:postcode":"03446",
+    "sg:province":"NH",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85850519,
+        102085643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hL7fssPk0yOYDZTcwCRB7_42.880920_-72.253306@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464295132,
+    "wof:geomhash":"104f46981e4e96eac7317fe55af4a474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085643,
+            "neighbourhood_id":85850519,
+            "region_id":85688689,
+            "venue_id":873609397
+        }
+    ],
+    "wof:id":873609397,
+    "wof:lastmodified":1464295132,
+    "wof:name":"Jeff's Backhoe & Lawn Svc",
+    "wof:parent_id":85850519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.253306,
+    42.88092,
+    -72.253306,
+    42.88092
+],
+  "geometry": {"coordinates":[-72.25330599999999,42.88092],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873691525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.175678,44.388497,-71.175678,44.388497",
+    "geom:latitude":44.388497,
+    "geom:longitude":-71.175678,
+    "iso:country":"US",
+    "sg:address":"20 Park St",
+    "sg:city":"Gorham",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 466 3336",
+    "sg:postcode":"03581",
+    "sg:province":"NH",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85809727,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38IaS6wLBv12iq0rdplHkr_44.388497_-71.175678@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296310,
+    "wof:geomhash":"9025ff698949a0b59b181baef5d8c924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85809727,
+            "region_id":85688689,
+            "venue_id":873691525
+        }
+    ],
+    "wof:id":873691525,
+    "wof:lastmodified":1464296310,
+    "wof:name":"Gorham Police Dept",
+    "wof:parent_id":85809727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.175678,
+    44.388497,
+    -71.175678,
+    44.388497
+],
+  "geometry": {"coordinates":[-71.175678,44.388497],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873739999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684477,43.598236,-71.684477,43.598236",
+    "geom:latitude":43.598236,
+    "geom:longitude":-71.684477,
+    "iso:country":"US",
+    "sg:address":"1633 Summer St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 744 6541",
+    "sg:postcode":"03222",
+    "sg:province":"NH",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85838599,
+        102086567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PTnNWvarDAIqEXfylsJIx_43.598236_-71.684477@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296919,
+    "wof:geomhash":"695d8e39104aae3d1c238ae2efb82ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086567,
+            "neighbourhood_id":85838599,
+            "region_id":85688689,
+            "venue_id":873739999
+        }
+    ],
+    "wof:id":873739999,
+    "wof:lastmodified":1464296919,
+    "wof:name":"J & M Plumbing & Heating Inc",
+    "wof:parent_id":85838599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.684477,
+    43.598236,
+    -71.684477,
+    43.598236
+],
+  "geometry": {"coordinates":[-71.684477,43.598236],"type":"Point"}
+}

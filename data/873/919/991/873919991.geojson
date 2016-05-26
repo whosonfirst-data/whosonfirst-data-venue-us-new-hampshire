@@ -1,0 +1,78 @@
+{
+  "id": 873919991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284203,43.067699,-71.284203,43.067699",
+    "geom:latitude":43.067699,
+    "geom:longitude":-71.284203,
+    "iso:country":"US",
+    "sg:address":"4 Corners",
+    "sg:city":"Candia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 483 8926",
+    "sg:postcode":"03034",
+    "sg:province":"NH",
+    "sg:tags":[
+        "body",
+        "shop",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85805045,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16n1tmLe35lmeBdMGkeX4M_43.067699_-71.284203@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464300211,
+    "wof:geomhash":"8facbc7a17d098c8e114c54d9660323f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85805045,
+            "region_id":85688689,
+            "venue_id":873919991
+        }
+    ],
+    "wof:id":873919991,
+    "wof:lastmodified":1464300211,
+    "wof:name":"Precision Auto Sales",
+    "wof:parent_id":85805045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.284203,
+    43.067699,
+    -71.284203,
+    43.067699
+],
+  "geometry": {"coordinates":[-71.28420300000001,43.067699],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873918267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.611492,44.373503,-71.611492,44.373503",
+    "geom:latitude":44.373503,
+    "geom:longitude":-71.611492,
+    "iso:country":"US",
+    "sg:address":"8 Union St",
+    "sg:city":"Whitefield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/whitefield/149275-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 837 8826",
+    "sg:postcode":"03598",
+    "sg:province":"NH",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85847413,
+        102085529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tdvobl6WeNwS04sMnisa9_44.373503_-71.611492@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300181,
+    "wof:geomhash":"d2d08e9d7aa395e7bbb67f575227e168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "neighbourhood_id":85847413,
+            "region_id":85688689,
+            "venue_id":873918267
+        }
+    ],
+    "wof:id":873918267,
+    "wof:lastmodified":1464300181,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85847413,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.611492,
+    44.373503,
+    -71.611492,
+    44.373503
+],
+  "geometry": {"coordinates":[-71.611492,44.373503],"type":"Point"}
+}

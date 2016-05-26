@@ -1,0 +1,71 @@
+{
+  "id": 873893825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200504,43.702551,-71.200504,43.702551",
+    "geom:latitude":43.702551,
+    "geom:longitude":-71.200504,
+    "iso:country":"US",
+    "sg:address":"269 Chickville Rd",
+    "sg:city":"Ossipee",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 539 7149",
+    "sg:postcode":"03864",
+    "sg:province":"NH",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85819137,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Lt3a9uavqNaQZvGjaz8u_43.702551_-71.200504@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464299702,
+    "wof:geomhash":"13858680626623fc4d4a01120cb8163d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85819137,
+            "region_id":85688689,
+            "venue_id":873893825
+        }
+    ],
+    "wof:id":873893825,
+    "wof:lastmodified":1464299702,
+    "wof:name":"N G Sargent Electric",
+    "wof:parent_id":85819137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.200504,
+    43.702551,
+    -71.200504,
+    43.702551
+],
+  "geometry": {"coordinates":[-71.200504,43.702551],"type":"Point"}
+}

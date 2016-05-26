@@ -1,0 +1,80 @@
+{
+  "id": 873918359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.79658,43.088548,-70.79658,43.088548",
+    "geom:latitude":43.088548,
+    "geom:longitude":-70.79658,
+    "iso:country":"US",
+    "sg:address":"11 Durgin Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/portsmouth/150865-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 436 8770",
+    "sg:postcode":"03801",
+    "sg:province":"NH",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892293,
+        102191575,
+        404476777,
+        85633793,
+        85975061,
+        102086507,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JMlfw20wuLIsnm5nwed8g_43.088548_-70.796580@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300184,
+    "wof:geomhash":"54d1841641b1dc4e9a0d6b3ce537115e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086507,
+            "localadmin_id":404476777,
+            "locality_id":85975061,
+            "neighbourhood_id":85892293,
+            "region_id":85688689,
+            "venue_id":873918359
+        }
+    ],
+    "wof:id":873918359,
+    "wof:lastmodified":1464300184,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85892293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -70.79658,
+    43.088548,
+    -70.79658,
+    43.088548
+],
+  "geometry": {"coordinates":[-70.79658000000001,43.088548],"type":"Point"}
+}

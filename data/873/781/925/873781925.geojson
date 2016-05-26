@@ -1,0 +1,73 @@
+{
+  "id": 873781925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575768,44.496498,-71.575768,44.496498",
+    "geom:latitude":44.496498,
+    "geom:longitude":-71.575768,
+    "iso:country":"US",
+    "sg:address":"393 Main St",
+    "sg:city":"Lancaster",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 788 2600",
+    "sg:postcode":"03584",
+    "sg:province":"NH",
+    "sg:tags":[
+        "ha",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975233,
+        102085529,
+        85812199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DznopBJtzdOCqCK9mviXn_44.496498_-71.575768@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297517,
+    "wof:geomhash":"e34603dabbbd1450b30b6962c091add1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085529,
+            "locality_id":85975233,
+            "neighbourhood_id":85812199,
+            "region_id":85688689,
+            "venue_id":873781925
+        }
+    ],
+    "wof:id":873781925,
+    "wof:lastmodified":1464297517,
+    "wof:name":"Agway",
+    "wof:parent_id":85812199,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ha",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.575768,
+    44.496498,
+    -71.575768,
+    44.496498
+],
+  "geometry": {"coordinates":[-71.575768,44.496498],"type":"Point"}
+}

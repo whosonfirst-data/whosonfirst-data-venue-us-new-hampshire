@@ -1,0 +1,71 @@
+{
+  "id": 873806527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543591,43.186191,-71.543591,43.186191",
+    "geom:latitude":43.186191,
+    "geom:longitude":-71.543591,
+    "iso:country":"US",
+    "sg:address":"23 Rundlett St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 225 5901",
+    "sg:postcode":"03301",
+    "sg:province":"NH",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85806833,
+        102086515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1swhfwKKiCanngDurel9Ms_43.186191_-71.543591@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297859,
+    "wof:geomhash":"89381f75212476941c8905b75139ce2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "neighbourhood_id":85806833,
+            "region_id":85688689,
+            "venue_id":873806527
+        }
+    ],
+    "wof:id":873806527,
+    "wof:lastmodified":1464297859,
+    "wof:name":"Rolfe & Rumford Home",
+    "wof:parent_id":85806833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.543591,
+    43.186191,
+    -71.543591,
+    43.186191
+],
+  "geometry": {"coordinates":[-71.54359100000001,43.186191],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873738821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281507,42.908324,-71.281507,42.908324",
+    "geom:latitude":42.908324,
+    "geom:longitude":-71.281507,
+    "iso:country":"US",
+    "sg:address":"92 Old Chester Rd",
+    "sg:city":"Derry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 432 0090",
+    "sg:postcode":"03038",
+    "sg:province":"NH",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975115,
+        102086507,
+        85892225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c5HHJYCr5EMLc0BIAJE3n_42.908324_-71.281507@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296906,
+    "wof:geomhash":"ba9d9aed65249308e7fe6ba3d4964b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "locality_id":85975115,
+            "neighbourhood_id":85892225,
+            "region_id":85688689,
+            "venue_id":873738821
+        }
+    ],
+    "wof:id":873738821,
+    "wof:lastmodified":1464296906,
+    "wof:name":"Center Line Fence",
+    "wof:parent_id":85892225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.281507,
+    42.908324,
+    -71.281507,
+    42.908324
+],
+  "geometry": {"coordinates":[-71.281507,42.908324],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873797673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.059583,44.011259,-71.059583,44.011259",
+    "geom:latitude":44.011259,
+    "geom:longitude":-71.059583,
+    "iso:country":"US",
+    "sg:address":"2234 E Conway Rd",
+    "sg:city":"North Conway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 356 9404",
+    "sg:postcode":"03813",
+    "sg:province":"NH",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85844159,
+        102086581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_149yLmjcqIZE4JbHQBCGyh_44.011259_-71.059583@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297746,
+    "wof:geomhash":"8f5aef1d50d116d74d73e79e4a8a97dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086581,
+            "neighbourhood_id":85844159,
+            "region_id":85688689,
+            "venue_id":873797673
+        }
+    ],
+    "wof:id":873797673,
+    "wof:lastmodified":1464297746,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85844159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.059583,
+    44.011259,
+    -71.059583,
+    44.011259
+],
+  "geometry": {"coordinates":[-71.059583,44.011259],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873919387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.324946,43.368878,-72.324946,43.368878",
+    "geom:latitude":43.368878,
+    "geom:longitude":-72.324946,
+    "iso:country":"US",
+    "sg:address":"227 Washington St",
+    "sg:city":"Claremont",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/claremont/73553-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 543 1243",
+    "sg:postcode":"03743",
+    "sg:province":"NH",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526487,
+        102191575,
+        404477067,
+        85633793,
+        85975069,
+        102086583,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LilCPz0YaAR1x0jxgSo4K_43.368526_-72.324728@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"0066a8b793e1716a376b31eeb515ab97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086583,
+            "localadmin_id":404477067,
+            "locality_id":85975069,
+            "neighbourhood_id":420526487,
+            "region_id":85688689,
+            "venue_id":873919387
+        }
+    ],
+    "wof:id":873919387,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":420526487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.324946,
+    43.368878,
+    -72.324946,
+    43.368878
+],
+  "geometry": {"coordinates":[-72.324946,43.368878],"type":"Point"}
+}

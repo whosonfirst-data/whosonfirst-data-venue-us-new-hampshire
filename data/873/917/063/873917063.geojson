@@ -1,0 +1,70 @@
+{
+  "id": 873917063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.246921,42.77595,-71.246921,42.77595",
+    "geom:latitude":42.77595,
+    "geom:longitude":-71.246921,
+    "iso:country":"US",
+    "sg:address":"1 Keewaydin Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/nh/salem/232158-margaritas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 893 0110",
+    "sg:postcode":"03079",
+    "sg:province":"NH",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85846769,
+        102086507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vyvCA2AKcGgqktooUcygt_42.775950_-71.246921@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464300159,
+    "wof:geomhash":"849748b3d10d707f738f05408e469582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086507,
+            "neighbourhood_id":85846769,
+            "region_id":85688689,
+            "venue_id":873917063
+        }
+    ],
+    "wof:id":873917063,
+    "wof:lastmodified":1464300159,
+    "wof:name":"Margaritas",
+    "wof:parent_id":85846769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.246921,
+    42.77595,
+    -71.246921,
+    42.77595
+],
+  "geometry": {"coordinates":[-71.246921,42.77595],"type":"Point"}
+}

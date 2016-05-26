@@ -1,0 +1,72 @@
+{
+  "id": 873792307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46399,43.552595,-71.46399,43.552595",
+    "geom:latitude":43.552595,
+    "geom:longitude":-71.46399,
+    "iso:country":"US",
+    "sg:address":"41 Sheridan St",
+    "sg:city":"Laconia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 524 1233",
+    "sg:postcode":"03246",
+    "sg:province":"NH",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.paugusbaymarina.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975071,
+        102086503,
+        85829307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y7DM2UrbVfOVgxYB3f5eF_43.552595_-71.463990@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464297681,
+    "wof:geomhash":"de5adf0159c56ae3d8db5d0aeb136d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "locality_id":85975071,
+            "neighbourhood_id":85829307,
+            "region_id":85688689,
+            "venue_id":873792307
+        }
+    ],
+    "wof:id":873792307,
+    "wof:lastmodified":1464297681,
+    "wof:name":"Paugus Bay Marina LLC",
+    "wof:parent_id":85829307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.46399,
+    43.552595,
+    -71.46399,
+    43.552595
+],
+  "geometry": {"coordinates":[-71.46399,43.552595],"type":"Point"}
+}

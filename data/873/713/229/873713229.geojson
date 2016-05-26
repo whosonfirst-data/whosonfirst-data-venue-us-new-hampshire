@@ -1,0 +1,75 @@
+{
+  "id": 873713229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-70.866316,43.16069,-70.866316,43.16069",
+    "geom:latitude":43.16069,
+    "geom:longitude":-70.866316,
+    "iso:country":"US",
+    "sg:address":"20 Linda Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 343 1582",
+    "sg:postcode":"03820",
+    "sg:province":"NH",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420526425,
+        102191575,
+        404476795,
+        85633793,
+        85975059,
+        102085609,
+        85688689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aeysj5IaKsvMROUOeQrBP_43.160690_-70.866316@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464296559,
+    "wof:geomhash":"204e5de02f0ad57ff5a25a01d6cd3a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085609,
+            "localadmin_id":404476795,
+            "locality_id":85975059,
+            "neighbourhood_id":420526425,
+            "region_id":85688689,
+            "venue_id":873713229
+        }
+    ],
+    "wof:id":873713229,
+    "wof:lastmodified":1464296559,
+    "wof:name":"Finz Up",
+    "wof:parent_id":420526425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -70.866316,
+    43.16069,
+    -70.866316,
+    43.16069
+],
+  "geometry": {"coordinates":[-70.866316,43.16069],"type":"Point"}
+}

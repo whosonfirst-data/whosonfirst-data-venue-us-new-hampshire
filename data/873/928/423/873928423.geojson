@@ -1,0 +1,80 @@
+{
+  "id": 873928423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.587963,43.268124,-71.587963,43.268124",
+    "geom:latitude":43.268124,
+    "geom:longitude":-71.587963,
+    "iso:country":"US",
+    "sg:address":"30 Village St",
+    "sg:city":"Concord",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 753 8555",
+    "sg:postcode":"03303",
+    "sg:province":"NH",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85975075,
+        102086515,
+        85841133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pA03pYYRFCEvpIJHJ7sPW_43.268124_-71.587963@1303262240"
+    },
+    "wof:country":"US",
+    "wof:created":1464300377,
+    "wof:geomhash":"0669083b9be70c1366d751e00a97092a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086515,
+            "locality_id":85975075,
+            "neighbourhood_id":85841133,
+            "region_id":85688689,
+            "venue_id":873928423
+        }
+    ],
+    "wof:id":873928423,
+    "wof:lastmodified":1464300377,
+    "wof:name":"Homequest Real Estate",
+    "wof:parent_id":85841133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.587963,
+    43.268124,
+    -71.587963,
+    43.268124
+],
+  "geometry": {"coordinates":[-71.587963,43.268124],"type":"Point"}
+}

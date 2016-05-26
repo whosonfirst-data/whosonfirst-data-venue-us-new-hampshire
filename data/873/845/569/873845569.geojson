@@ -1,0 +1,71 @@
+{
+  "id": 873845569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.655059,43.435477,-71.655059,43.435477",
+    "geom:latitude":43.435477,
+    "geom:longitude":-71.655059,
+    "iso:country":"US",
+    "sg:address":"300 S Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 603 934 6520",
+    "sg:postcode":"03235",
+    "sg:province":"NH",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688689,
+        85633793,
+        85852103,
+        102086503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D7j9usrRsuEjEp0E3yjNB_43.435477_-71.655059@1294171694"
+    },
+    "wof:country":"US",
+    "wof:created":1464298694,
+    "wof:geomhash":"1cd86733e0e9ebb3c316ff270d59a7e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086503,
+            "neighbourhood_id":85852103,
+            "region_id":85688689,
+            "venue_id":873845569
+        }
+    ],
+    "wof:id":873845569,
+    "wof:lastmodified":1464298694,
+    "wof:name":"US Army National Guard Armory",
+    "wof:parent_id":85852103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.655059,
+    43.435477,
+    -71.655059,
+    43.435477
+],
+  "geometry": {"coordinates":[-71.65505899999999,43.435477],"type":"Point"}
+}
