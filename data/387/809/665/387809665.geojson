@@ -2,13 +2,14 @@
   "id": 387809665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059589,44.011256,-71.059589,44.011256",
     "geom:latitude":44.011256,
     "geom:longitude":-71.059589,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2304 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387809665,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1466672829,
     "wof:name":"Briarcliff Motel",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hotel"
     ]
 },
-  "bbox": [-71.059589,44.011256,-71.059589,44.011256],
+  "bbox": [
+    -71.059589,
+    44.011256,
+    -71.059589,
+    44.011256
+],
   "geometry": {"coordinates":[-71.059589,44.011256],"type":"Point"}
 }

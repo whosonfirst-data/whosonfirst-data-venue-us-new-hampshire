@@ -2,13 +2,14 @@
   "id": 404113979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.036166,44.0007,-71.036166,44.0007",
     "geom:latitude":44.0007,
     "geom:longitude":-71.036166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2451 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404113979,
-    "wof:lastmodified":1449040228,
+    "wof:lastmodified":1466669746,
     "wof:name":"Glass Cottage LLC",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-71.036166,44.0007,-71.036166,44.0007],
-  "geometry": {"coordinates":[-71.036166,44.0007],"type":"Point"}
+  "bbox": [
+    -71.036166,
+    44.0007,
+    -71.036166,
+    44.0007
+],
+  "geometry": {"coordinates":[-71.03616599999999,44.0007],"type":"Point"}
 }

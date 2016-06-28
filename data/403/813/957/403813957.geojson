@@ -2,13 +2,14 @@
   "id": 403813957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.869516,43.250294,-70.869516,43.250294",
     "geom:latitude":43.250294,
     "geom:longitude":-70.869516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Pearl St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403813957,
-    "wof:lastmodified":1449054988,
+    "wof:lastmodified":1466672818,
     "wof:name":"Giseles School Creative Sewing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drapery"
     ]
 },
-  "bbox": [-70.869516,43.250294,-70.869516,43.250294],
+  "bbox": [
+    -70.869516,
+    43.250294,
+    -70.869516,
+    43.250294
+],
   "geometry": {"coordinates":[-70.869516,43.250294],"type":"Point"}
 }

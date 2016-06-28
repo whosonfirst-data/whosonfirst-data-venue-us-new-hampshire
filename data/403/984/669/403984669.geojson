@@ -2,13 +2,14 @@
   "id": 403984669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.882868,43.229022,-70.882868,43.229022",
     "geom:latitude":43.229022,
     "geom:longitude":-70.882868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"470 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403984669,
-    "wof:lastmodified":1449055386,
+    "wof:lastmodified":1466672826,
     "wof:name":"Central Park Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-70.882868,43.229022,-70.882868,43.229022],
+  "bbox": [
+    -70.882868,
+    43.229022,
+    -70.882868,
+    43.229022
+],
   "geometry": {"coordinates":[-70.882868,43.229022],"type":"Point"}
 }

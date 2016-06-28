@@ -2,13 +2,14 @@
   "id": 404119853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059622,44.011238,-71.059622,44.011238",
     "geom:latitude":44.011238,
     "geom:longitude":-71.059622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404119853,
-    "wof:lastmodified":1449039982,
+    "wof:lastmodified":1466672788,
     "wof:name":"Bangkok Cafe",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.059622,44.011238,-71.059622,44.011238],
+  "bbox": [
+    -71.059622,
+    44.011238,
+    -71.059622,
+    44.011238
+],
   "geometry": {"coordinates":[-71.059622,44.011238],"type":"Point"}
 }

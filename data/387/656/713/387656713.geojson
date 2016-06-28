@@ -2,13 +2,14 @@
   "id": 387656713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.037833,43.994877,-71.037833,43.994877",
     "geom:latitude":43.994877,
     "geom:longitude":-71.037833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Strawberry Ln",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387656713,
-    "wof:lastmodified":1449058590,
+    "wof:lastmodified":1466672816,
     "wof:name":"John Reed",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "peace"
     ]
 },
-  "bbox": [-71.037833,43.994877,-71.037833,43.994877],
-  "geometry": {"coordinates":[-71.037833,43.994877],"type":"Point"}
+  "bbox": [
+    -71.037833,
+    43.994877,
+    -71.037833,
+    43.994877
+],
+  "geometry": {"coordinates":[-71.03783300000001,43.994877],"type":"Point"}
 }

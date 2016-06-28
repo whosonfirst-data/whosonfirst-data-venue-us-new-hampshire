@@ -2,13 +2,14 @@
   "id": 404087079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.863418,43.254088,-70.863418,43.254088",
     "geom:latitude":43.254088,
     "geom:longitude":-70.863418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Green St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404087079,
-    "wof:lastmodified":1449039569,
+    "wof:lastmodified":1466669745,
     "wof:name":"All But Grown-Ups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.863418,43.254088,-70.863418,43.254088],
+  "bbox": [
+    -70.863418,
+    43.254088,
+    -70.863418,
+    43.254088
+],
   "geometry": {"coordinates":[-70.863418,43.254088],"type":"Point"}
 }

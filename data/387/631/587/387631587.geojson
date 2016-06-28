@@ -2,13 +2,14 @@
   "id": 387631587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.883153,43.228466,-70.883153,43.228466",
     "geom:latitude":43.228466,
     "geom:longitude":-70.883153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387631587,
-    "wof:lastmodified":1449057275,
+    "wof:lastmodified":1466672805,
     "wof:name":"Central Park Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "storage"
     ]
 },
-  "bbox": [-70.883153,43.228466,-70.883153,43.228466],
-  "geometry": {"coordinates":[-70.883153,43.228466],"type":"Point"}
+  "bbox": [
+    -70.883153,
+    43.228466,
+    -70.883153,
+    43.228466
+],
+  "geometry": {"coordinates":[-70.88315299999999,43.228466],"type":"Point"}
 }

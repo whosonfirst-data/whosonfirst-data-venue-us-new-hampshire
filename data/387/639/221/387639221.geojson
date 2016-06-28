@@ -2,13 +2,14 @@
   "id": 387639221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.868254,43.260693,-70.868254,43.260693",
     "geom:latitude":43.260693,
     "geom:longitude":-70.868254,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Grand St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387639221,
-    "wof:lastmodified":1449059903,
+    "wof:lastmodified":1466672810,
     "wof:name":"Melisi John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.868254,43.260693,-70.868254,43.260693],
-  "geometry": {"coordinates":[-70.868254,43.260693],"type":"Point"}
+  "bbox": [
+    -70.868254,
+    43.260693,
+    -70.868254,
+    43.260693
+],
+  "geometry": {"coordinates":[-70.86825399999999,43.260693],"type":"Point"}
 }

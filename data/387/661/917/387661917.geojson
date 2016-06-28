@@ -2,13 +2,14 @@
   "id": 387661917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.864562,43.26519,-70.864562,43.26519",
     "geom:latitude":43.26519,
     "geom:longitude":-70.864562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Market St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387661917,
-    "wof:lastmodified":1449059504,
+    "wof:lastmodified":1466672816,
     "wof:name":"Foe 1887",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.864562,43.26519,-70.864562,43.26519],
-  "geometry": {"coordinates":[-70.864562,43.26519],"type":"Point"}
+  "bbox": [
+    -70.864562,
+    43.26519,
+    -70.864562,
+    43.26519
+],
+  "geometry": {"coordinates":[-70.86456200000001,43.26519],"type":"Point"}
 }

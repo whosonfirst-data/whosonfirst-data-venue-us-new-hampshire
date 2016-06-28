@@ -2,13 +2,14 @@
   "id": 387736691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.863908,43.264047,-70.863908,43.264047",
     "geom:latitude":43.264047,
     "geom:longitude":-70.863908,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Market St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387736691,
-    "wof:lastmodified":1449059876,
+    "wof:lastmodified":1466672826,
     "wof:name":"Jumpgate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "comic"
     ]
 },
-  "bbox": [-70.863908,43.264047,-70.863908,43.264047],
+  "bbox": [
+    -70.863908,
+    43.264047,
+    -70.863908,
+    43.264047
+],
   "geometry": {"coordinates":[-70.863908,43.264047],"type":"Point"}
 }

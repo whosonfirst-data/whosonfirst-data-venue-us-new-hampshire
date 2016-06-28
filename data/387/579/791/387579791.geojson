@@ -2,13 +2,14 @@
   "id": 387579791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.861248,43.235175,-70.861248,43.235175",
     "geom:latitude":43.235175,
     "geom:longitude":-70.861248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Clement Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387579791,
-    "wof:lastmodified":1449057309,
+    "wof:lastmodified":1466672793,
     "wof:name":"Ronald E Alexander",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plumbing"
     ]
 },
-  "bbox": [-70.861248,43.235175,-70.861248,43.235175],
+  "bbox": [
+    -70.861248,
+    43.235175,
+    -70.861248,
+    43.235175
+],
   "geometry": {"coordinates":[-70.861248,43.235175],"type":"Point"}
 }

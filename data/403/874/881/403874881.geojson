@@ -2,13 +2,14 @@
   "id": 403874881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.973165,43.345445,-70.973165,43.345445",
     "geom:latitude":43.345445,
     "geom:longitude":-70.973165,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Salmon Falls Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403874881,
-    "wof:lastmodified":1449055876,
+    "wof:lastmodified":1466672822,
     "wof:name":"Creative Concepts Catering",
     "wof:parent_id":85816725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-70.973165,43.345445,-70.973165,43.345445],
-  "geometry": {"coordinates":[-70.973165,43.345445],"type":"Point"}
+  "bbox": [
+    -70.973165,
+    43.345445,
+    -70.973165,
+    43.345445
+],
+  "geometry": {"coordinates":[-70.97316499999999,43.345445],"type":"Point"}
 }

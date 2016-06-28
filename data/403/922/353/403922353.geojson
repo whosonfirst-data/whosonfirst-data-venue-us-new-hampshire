@@ -2,13 +2,14 @@
   "id": 403922353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.900208,43.247915,-70.900208,43.247915",
     "geom:latitude":43.247915,
     "geom:longitude":-70.900208,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 State Rte 108",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403922353,
-    "wof:lastmodified":1449054757,
+    "wof:lastmodified":1466672824,
     "wof:name":"Merrimack River Medical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-70.900208,43.247915,-70.900208,43.247915],
-  "geometry": {"coordinates":[-70.900208,43.247915],"type":"Point"}
+  "bbox": [
+    -70.900208,
+    43.247915,
+    -70.900208,
+    43.247915
+],
+  "geometry": {"coordinates":[-70.90020800000001,43.247915],"type":"Point"}
 }

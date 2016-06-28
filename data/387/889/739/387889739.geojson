@@ -2,13 +2,14 @@
   "id": 387889739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.881796,43.233435,-70.881796,43.233435",
     "geom:latitude":43.233435,
     "geom:longitude":-70.881796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"433 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387889739,
-    "wof:lastmodified":1449056043,
+    "wof:lastmodified":1466672832,
     "wof:name":"Christian Believers Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.881796,43.233435,-70.881796,43.233435],
-  "geometry": {"coordinates":[-70.881796,43.233435],"type":"Point"}
+  "bbox": [
+    -70.881796,
+    43.233435,
+    -70.881796,
+    43.233435
+],
+  "geometry": {"coordinates":[-70.88179599999999,43.233435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403827473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.902615,43.32895,-70.902615,43.32895",
     "geom:latitude":43.32895,
     "geom:longitude":-70.902615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Thomas Dr",
     "sg:city":"Berwick",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403827473,
-    "wof:lastmodified":1449055103,
+    "wof:lastmodified":1466672819,
     "wof:name":"Mainely Gage Repair",
     "wof:parent_id":85849815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-70.902615,43.32895,-70.902615,43.32895],
+  "bbox": [
+    -70.902615,
+    43.32895,
+    -70.902615,
+    43.32895
+],
   "geometry": {"coordinates":[-70.902615,43.32895],"type":"Point"}
 }

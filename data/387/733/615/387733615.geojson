@@ -2,13 +2,14 @@
   "id": 387733615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.089169,44.005914,-71.089169,44.005914",
     "geom:latitude":44.005914,
     "geom:longitude":-71.089169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"512 Eastman Rd",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387733615,
-    "wof:lastmodified":1449056633,
+    "wof:lastmodified":1466672826,
     "wof:name":"North Conway Plumbing & Htg",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-71.089169,44.005914,-71.089169,44.005914],
+  "bbox": [
+    -71.089169,
+    44.005914,
+    -71.089169,
+    44.005914
+],
   "geometry": {"coordinates":[-71.089169,44.005914],"type":"Point"}
 }

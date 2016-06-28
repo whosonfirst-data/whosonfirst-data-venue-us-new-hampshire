@@ -2,13 +2,14 @@
   "id": 387865277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.129496,44.783931,-71.129496,44.783931",
     "geom:latitude":44.783931,
     "geom:longitude":-71.129496,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"391 State Rte 16",
     "sg:city":"Errol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387865277,
-    "wof:lastmodified":1449058977,
+    "wof:lastmodified":1466672832,
     "wof:name":"Androscoggin Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.129496,44.783931,-71.129496,44.783931],
+  "bbox": [
+    -71.129496,
+    44.783931,
+    -71.129496,
+    44.783931
+],
   "geometry": {"coordinates":[-71.129496,44.783931],"type":"Point"}
 }

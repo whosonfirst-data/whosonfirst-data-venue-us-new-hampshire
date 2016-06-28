@@ -2,13 +2,14 @@
   "id": 403880387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.856558,43.250286,-70.856558,43.250286",
     "geom:latitude":43.250286,
     "geom:longitude":-70.856558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Main St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403880387,
-    "wof:lastmodified":1449055976,
+    "wof:lastmodified":1466672822,
     "wof:name":"M Q Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-70.856558,43.250286,-70.856558,43.250286],
-  "geometry": {"coordinates":[-70.856558,43.250286],"type":"Point"}
+  "bbox": [
+    -70.856558,
+    43.250286,
+    -70.856558,
+    43.250286
+],
+  "geometry": {"coordinates":[-70.85655800000001,43.250286],"type":"Point"}
 }

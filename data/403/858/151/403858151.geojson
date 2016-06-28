@@ -2,13 +2,14 @@
   "id": 403858151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.093687,43.985137,-71.093687,43.985137",
     "geom:latitude":43.985137,
     "geom:longitude":-71.093687,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Odell Hill Rd",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403858151,
-    "wof:lastmodified":1449054769,
+    "wof:lastmodified":1466672821,
     "wof:name":"ACD Property Maintenance",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-71.093687,43.985137,-71.093687,43.985137],
+  "bbox": [
+    -71.093687,
+    43.985137,
+    -71.093687,
+    43.985137
+],
   "geometry": {"coordinates":[-71.093687,43.985137],"type":"Point"}
 }

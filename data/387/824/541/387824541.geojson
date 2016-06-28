@@ -2,13 +2,14 @@
   "id": 387824541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.130611,44.776497,-71.130611,44.776497",
     "geom:latitude":44.776497,
     "geom:longitude":-71.130611,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Upton Rd",
     "sg:city":"Errol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387824541,
-    "wof:lastmodified":1449057453,
+    "wof:lastmodified":1466672830,
     "wof:name":"Last Chance Hideaway",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "vacation"
     ]
 },
-  "bbox": [-71.130611,44.776497,-71.130611,44.776497],
+  "bbox": [
+    -71.130611,
+    44.776497,
+    -71.130611,
+    44.776497
+],
   "geometry": {"coordinates":[-71.130611,44.776497],"type":"Point"}
 }

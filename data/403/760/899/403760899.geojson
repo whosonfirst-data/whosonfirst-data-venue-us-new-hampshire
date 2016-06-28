@@ -2,13 +2,14 @@
   "id": 403760899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.85695,43.250994,-70.85695,43.250994",
     "geom:latitude":43.250994,
     "geom:longitude":-70.85695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Main St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403760899,
-    "wof:lastmodified":1449055897,
+    "wof:lastmodified":1466672805,
     "wof:name":"F W Morse & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.85695,43.250994,-70.85695,43.250994],
+  "bbox": [
+    -70.85695,
+    43.250994,
+    -70.85695,
+    43.250994
+],
   "geometry": {"coordinates":[-70.85695,43.250994],"type":"Point"}
 }

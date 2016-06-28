@@ -2,13 +2,14 @@
   "id": 403990323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.094777,43.984801,-71.094777,43.984801",
     "geom:latitude":43.984801,
     "geom:longitude":-71.094777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Odell Hill Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403990323,
-    "wof:lastmodified":1449055503,
+    "wof:lastmodified":1466672828,
     "wof:name":"Chuck Roast Equipment",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "athletic"
     ]
 },
-  "bbox": [-71.094777,43.984801,-71.094777,43.984801],
-  "geometry": {"coordinates":[-71.094777,43.984801],"type":"Point"}
+  "bbox": [
+    -71.094777,
+    43.984801,
+    -71.094777,
+    43.984801
+],
+  "geometry": {"coordinates":[-71.09477699999999,43.984801],"type":"Point"}
 }

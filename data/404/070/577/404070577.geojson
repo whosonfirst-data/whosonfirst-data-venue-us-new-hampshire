@@ -2,13 +2,14 @@
   "id": 404070577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.942937,43.334239,-70.942937,43.334239",
     "geom:latitude":43.334239,
     "geom:longitude":-70.942937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Autumn St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404070577,
-    "wof:lastmodified":1449039596,
+    "wof:lastmodified":1466669744,
     "wof:name":"JSN Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-70.942937,43.334239,-70.942937,43.334239],
+  "bbox": [
+    -70.942937,
+    43.334239,
+    -70.942937,
+    43.334239
+],
   "geometry": {"coordinates":[-70.942937,43.334239],"type":"Point"}
 }

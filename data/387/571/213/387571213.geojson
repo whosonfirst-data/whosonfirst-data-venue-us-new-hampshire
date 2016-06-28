@@ -2,13 +2,14 @@
   "id": 387571213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.978309,43.35352,-70.978309,43.35352",
     "geom:latitude":43.35352,
     "geom:longitude":-70.978309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387571213,
-    "wof:lastmodified":1449058706,
+    "wof:lastmodified":1466672791,
     "wof:name":"Milton Road Shell",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-70.978309,43.35352,-70.978309,43.35352],
+  "bbox": [
+    -70.978309,
+    43.35352,
+    -70.978309,
+    43.35352
+],
   "geometry": {"coordinates":[-70.978309,43.35352],"type":"Point"}
 }

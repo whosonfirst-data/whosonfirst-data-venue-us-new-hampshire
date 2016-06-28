@@ -2,13 +2,14 @@
   "id": 387663783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.866456,43.264296,-70.866456,43.264296",
     "geom:latitude":43.264296,
     "geom:longitude":-70.866456,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Linden St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387663783,
-    "wof:lastmodified":1449058904,
+    "wof:lastmodified":1466672817,
     "wof:name":"One Step Further",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.866456,43.264296,-70.866456,43.264296],
+  "bbox": [
+    -70.866456,
+    43.264296,
+    -70.866456,
+    43.264296
+],
   "geometry": {"coordinates":[-70.866456,43.264296],"type":"Point"}
 }

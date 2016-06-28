@@ -2,13 +2,14 @@
   "id": 387709519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.881584,43.260842,-70.881584,43.260842",
     "geom:latitude":43.260842,
     "geom:longitude":-70.881584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Sunset Dr",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387709519,
-    "wof:lastmodified":1449056860,
+    "wof:lastmodified":1466672822,
     "wof:name":"Chenerys Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-70.881584,43.260842,-70.881584,43.260842],
+  "bbox": [
+    -70.881584,
+    43.260842,
+    -70.881584,
+    43.260842
+],
   "geometry": {"coordinates":[-70.881584,43.260842],"type":"Point"}
 }

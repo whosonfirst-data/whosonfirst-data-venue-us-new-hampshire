@@ -2,13 +2,14 @@
   "id": 404081039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.86523,43.261754,-70.86523,43.261754",
     "geom:latitude":43.261754,
     "geom:longitude":-70.86523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"72 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404081039,
-    "wof:lastmodified":1449039393,
+    "wof:lastmodified":1466669745,
     "wof:name":"Soft Serve Ink LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-70.86523,43.261754,-70.86523,43.261754],
+  "bbox": [
+    -70.86523,
+    43.261754,
+    -70.86523,
+    43.261754
+],
   "geometry": {"coordinates":[-70.86523,43.261754],"type":"Point"}
 }

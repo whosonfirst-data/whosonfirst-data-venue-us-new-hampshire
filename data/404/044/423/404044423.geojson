@@ -2,13 +2,14 @@
   "id": 404044423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.03621,44.000705,-71.03621,44.000705",
     "geom:latitude":44.000705,
     "geom:longitude":-71.03621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2555 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":404044423,
-    "wof:lastmodified":1449039728,
+    "wof:lastmodified":1466669744,
     "wof:name":"Farm By The River B & B",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "landscape"
     ]
 },
-  "bbox": [-71.03621,44.000705,-71.03621,44.000705],
+  "bbox": [
+    -71.03621,
+    44.000705,
+    -71.03621,
+    44.000705
+],
   "geometry": {"coordinates":[-71.03621,44.000705],"type":"Point"}
 }

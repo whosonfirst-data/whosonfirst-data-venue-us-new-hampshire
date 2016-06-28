@@ -2,13 +2,14 @@
   "id": 387805497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.863124,43.234306,-70.863124,43.234306",
     "geom:latitude":43.234306,
     "geom:longitude":-70.863124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Green St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387805497,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1466672829,
     "wof:name":"Putter's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.863124,43.234306,-70.863124,43.234306],
+  "bbox": [
+    -70.863124,
+    43.234306,
+    -70.863124,
+    43.234306
+],
   "geometry": {"coordinates":[-70.863124,43.234306],"type":"Point"}
 }

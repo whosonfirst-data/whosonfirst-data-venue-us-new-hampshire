@@ -2,13 +2,14 @@
   "id": 404070953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.851354,43.245606,-70.851354,43.245606",
     "geom:latitude":43.245606,
     "geom:longitude":-70.851354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Centre Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404070953,
-    "wof:lastmodified":1449039593,
+    "wof:lastmodified":1466669744,
     "wof:name":"Global Pak",
     "wof:parent_id":85845815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-70.851354,43.245606,-70.851354,43.245606],
+  "bbox": [
+    -70.851354,
+    43.245606,
+    -70.851354,
+    43.245606
+],
   "geometry": {"coordinates":[-70.851354,43.245606],"type":"Point"}
 }

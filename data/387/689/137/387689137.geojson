@@ -2,13 +2,14 @@
   "id": 387689137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059554,44.011275,-71.059554,44.011275",
     "geom:latitude":44.011275,
     "geom:longitude":-71.059554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1857 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387689137,
-    "wof:lastmodified":1449059284,
+    "wof:lastmodified":1466672820,
     "wof:name":"Nail Care",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manicuring"
     ]
 },
-  "bbox": [-71.059554,44.011275,-71.059554,44.011275],
-  "geometry": {"coordinates":[-71.059554,44.011275],"type":"Point"}
+  "bbox": [
+    -71.059554,
+    44.011275,
+    -71.059554,
+    44.011275
+],
+  "geometry": {"coordinates":[-71.05955400000001,44.011275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387895285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.905001,43.261727,-70.905001,43.261727",
     "geom:latitude":43.261727,
     "geom:longitude":-70.905001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"369 State Rte 108",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387895285,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1466672832,
     "wof:name":"Our Favorite Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "coin"
     ]
 },
-  "bbox": [-70.905001,43.261727,-70.905001,43.261727],
+  "bbox": [
+    -70.905001,
+    43.261727,
+    -70.905001,
+    43.261727
+],
   "geometry": {"coordinates":[-70.905001,43.261727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387926907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.095603,43.986148,-71.095603,43.986148",
     "geom:latitude":43.986148,
     "geom:longitude":-71.095603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Applecroft Ln",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387926907,
-    "wof:lastmodified":1449057430,
+    "wof:lastmodified":1466672833,
     "wof:name":"Bluegrass Capital",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-71.095603,43.986148,-71.095603,43.986148],
+  "bbox": [
+    -71.095603,
+    43.986148,
+    -71.095603,
+    43.986148
+],
   "geometry": {"coordinates":[-71.095603,43.986148],"type":"Point"}
 }

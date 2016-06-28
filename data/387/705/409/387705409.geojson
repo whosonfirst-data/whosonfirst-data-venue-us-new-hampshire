@@ -2,13 +2,14 @@
   "id": 387705409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059618,44.01124,-71.059618,44.01124",
     "geom:latitude":44.01124,
     "geom:longitude":-71.059618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":387705409,
-    "wof:lastmodified":1449059940,
+    "wof:lastmodified":1466672822,
     "wof:name":"Artisan Sausage-New Hampshire",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "delicatessen"
     ]
 },
-  "bbox": [-71.059618,44.01124,-71.059618,44.01124],
+  "bbox": [
+    -71.059618,
+    44.01124,
+    -71.059618,
+    44.01124
+],
   "geometry": {"coordinates":[-71.059618,44.01124],"type":"Point"}
 }

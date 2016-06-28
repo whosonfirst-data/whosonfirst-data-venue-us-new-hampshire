@@ -2,13 +2,14 @@
   "id": 387805543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.025497,43.975882,-71.025497,43.975882",
     "geom:latitude":43.975882,
     "geom:longitude":-71.025497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Davis Hill Rd",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387805543,
-    "wof:lastmodified":1449057369,
+    "wof:lastmodified":1466672829,
     "wof:name":"Sparrowhawk Designs",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "custom"
     ]
 },
-  "bbox": [-71.025497,43.975882,-71.025497,43.975882],
+  "bbox": [
+    -71.025497,
+    43.975882,
+    -71.025497,
+    43.975882
+],
   "geometry": {"coordinates":[-71.025497,43.975882],"type":"Point"}
 }

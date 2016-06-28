@@ -2,13 +2,14 @@
   "id": 387823643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.976977,43.351609,-70.976977,43.351609",
     "geom:latitude":43.351609,
     "geom:longitude":-70.976977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387823643,
-    "wof:lastmodified":1449059888,
+    "wof:lastmodified":1466672830,
     "wof:name":"M D Auto Sales",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-70.976977,43.351609,-70.976977,43.351609],
-  "geometry": {"coordinates":[-70.976977,43.351609],"type":"Point"}
+  "bbox": [
+    -70.976977,
+    43.351609,
+    -70.976977,
+    43.351609
+],
+  "geometry": {"coordinates":[-70.97697700000001,43.351609],"type":"Point"}
 }

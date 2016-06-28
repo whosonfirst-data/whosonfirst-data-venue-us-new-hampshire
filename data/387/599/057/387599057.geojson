@@ -2,13 +2,14 @@
   "id": 387599057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.036236,44.000708,-71.036236,44.000708",
     "geom:latitude":44.000708,
     "geom:longitude":-71.036236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2617 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387599057,
-    "wof:lastmodified":1449057870,
+    "wof:lastmodified":1466672796,
     "wof:name":"Mt Washington Chamber-Commerce",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commerce"
     ]
 },
-  "bbox": [-71.036236,44.000708,-71.036236,44.000708],
+  "bbox": [
+    -71.036236,
+    44.000708,
+    -71.036236,
+    44.000708
+],
   "geometry": {"coordinates":[-71.036236,44.000708],"type":"Point"}
 }

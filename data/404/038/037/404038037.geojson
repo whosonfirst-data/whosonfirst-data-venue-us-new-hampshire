@@ -2,13 +2,14 @@
   "id": 404038037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.904056,43.244849,-70.904056,43.244849",
     "geom:latitude":43.244849,
     "geom:longitude":-70.904056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Laurel Ln",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404038037,
-    "wof:lastmodified":1449039903,
+    "wof:lastmodified":1466669744,
     "wof:name":"Hockey Development Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hockey"
     ]
 },
-  "bbox": [-70.904056,43.244849,-70.904056,43.244849],
+  "bbox": [
+    -70.904056,
+    43.244849,
+    -70.904056,
+    43.244849
+],
   "geometry": {"coordinates":[-70.904056,43.244849],"type":"Point"}
 }

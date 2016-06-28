@@ -2,13 +2,14 @@
   "id": 404042545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.975147,43.348121,-70.975147,43.348121",
     "geom:latitude":43.348121,
     "geom:longitude":-70.975147,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404042545,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1466669744,
     "wof:name":"Stonewall Kitchen LLC",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-70.975147,43.348121,-70.975147,43.348121],
-  "geometry": {"coordinates":[-70.975147,43.348121],"type":"Point"}
+  "bbox": [
+    -70.975147,
+    43.348121,
+    -70.975147,
+    43.348121
+],
+  "geometry": {"coordinates":[-70.97514700000001,43.348121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404046539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059557,44.011274,-71.059557,44.011274",
     "geom:latitude":44.011274,
     "geom:longitude":-71.059557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1895 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404046539,
-    "wof:lastmodified":1449039805,
+    "wof:lastmodified":1466669744,
     "wof:name":"Hometown Sports Academy",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-71.059557,44.011274,-71.059557,44.011274],
+  "bbox": [
+    -71.059557,
+    44.011274,
+    -71.059557,
+    44.011274
+],
   "geometry": {"coordinates":[-71.059557,44.011274],"type":"Point"}
 }

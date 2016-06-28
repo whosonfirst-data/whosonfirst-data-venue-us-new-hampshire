@@ -2,13 +2,14 @@
   "id": 404167469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.865084,43.262049,-70.865084,43.262049",
     "geom:latitude":43.262049,
     "geom:longitude":-70.865084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":404167469,
-    "wof:lastmodified":1449039730,
+    "wof:lastmodified":1466672802,
     "wof:name":"Beaver Properties Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-70.865084,43.262049,-70.865084,43.262049],
+  "bbox": [
+    -70.865084,
+    43.262049,
+    -70.865084,
+    43.262049
+],
   "geometry": {"coordinates":[-70.865084,43.262049],"type":"Point"}
 }

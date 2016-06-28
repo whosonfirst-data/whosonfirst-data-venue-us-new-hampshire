@@ -2,13 +2,14 @@
   "id": 403871795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.174912,44.798867,-71.174912,44.798867",
     "geom:latitude":44.798867,
     "geom:longitude":-71.174912,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"813 Colebrook Rd",
     "sg:city":"Errol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403871795,
-    "wof:lastmodified":1449055061,
+    "wof:lastmodified":1466672822,
     "wof:name":"Fran's Seafood & Country Ckng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.174912,44.798867,-71.174912,44.798867],
-  "geometry": {"coordinates":[-71.174912,44.798867],"type":"Point"}
+  "bbox": [
+    -71.174912,
+    44.798867,
+    -71.174912,
+    44.798867
+],
+  "geometry": {"coordinates":[-71.17491200000001,44.798867],"type":"Point"}
 }

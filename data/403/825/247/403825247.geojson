@@ -2,13 +2,14 @@
   "id": 403825247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.867075,43.265026,-70.867075,43.265026",
     "geom:latitude":43.265026,
     "geom:longitude":-70.867075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Cliff St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403825247,
-    "wof:lastmodified":1449054668,
+    "wof:lastmodified":1466672819,
     "wof:name":"John Di Cicco Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.867075,43.265026,-70.867075,43.265026],
+  "bbox": [
+    -70.867075,
+    43.265026,
+    -70.867075,
+    43.265026
+],
   "geometry": {"coordinates":[-70.867075,43.265026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387933679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.904714,43.369252,-70.904714,43.369252",
     "geom:latitude":43.369252,
     "geom:longitude":-70.904714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mills Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387933679,
-    "wof:lastmodified":1449056884,
+    "wof:lastmodified":1466672833,
     "wof:name":"Miranda Renovation & Landscape",
     "wof:parent_id":85849815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sprinkler"
     ]
 },
-  "bbox": [-70.904714,43.369252,-70.904714,43.369252],
+  "bbox": [
+    -70.904714,
+    43.369252,
+    -70.904714,
+    43.369252
+],
   "geometry": {"coordinates":[-70.904714,43.369252],"type":"Point"}
 }

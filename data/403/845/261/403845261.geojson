@@ -2,13 +2,14 @@
   "id": 403845261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.90576,43.261844,-70.90576,43.261844",
     "geom:latitude":43.261844,
     "geom:longitude":-70.90576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Crystal Spring",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403845261,
-    "wof:lastmodified":1449054847,
+    "wof:lastmodified":1466672820,
     "wof:name":"Twin State Cruisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-70.90576,43.261844,-70.90576,43.261844],
+  "bbox": [
+    -70.90576,
+    43.261844,
+    -70.90576,
+    43.261844
+],
   "geometry": {"coordinates":[-70.90576,43.261844],"type":"Point"}
 }

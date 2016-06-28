@@ -2,13 +2,14 @@
   "id": 403782581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.951181,43.327836,-70.951181,43.327836",
     "geom:latitude":43.327836,
     "geom:longitude":-70.951181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Highland St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403782581,
-    "wof:lastmodified":1449054619,
+    "wof:lastmodified":1466672812,
     "wof:name":"Taylors Welding",
     "wof:parent_id":85816725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-70.951181,43.327836,-70.951181,43.327836],
-  "geometry": {"coordinates":[-70.951181,43.327836],"type":"Point"}
+  "bbox": [
+    -70.951181,
+    43.327836,
+    -70.951181,
+    43.327836
+],
+  "geometry": {"coordinates":[-70.95118100000001,43.327836],"type":"Point"}
 }

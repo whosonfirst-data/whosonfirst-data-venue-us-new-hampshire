@@ -2,13 +2,14 @@
   "id": 387574885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.900063,43.247698,-70.900063,43.247698",
     "geom:latitude":43.247698,
     "geom:longitude":-70.900063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 State Rte 108",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":387574885,
-    "wof:lastmodified":1449056089,
+    "wof:lastmodified":1466672792,
     "wof:name":"Todd's Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "clean"
     ]
 },
-  "bbox": [-70.900063,43.247698,-70.900063,43.247698],
+  "bbox": [
+    -70.900063,
+    43.247698,
+    -70.900063,
+    43.247698
+],
   "geometry": {"coordinates":[-70.900063,43.247698],"type":"Point"}
 }

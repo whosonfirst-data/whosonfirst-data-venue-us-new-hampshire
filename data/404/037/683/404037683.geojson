@@ -2,13 +2,14 @@
   "id": 404037683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.85089,43.246798,-70.85089,43.246798",
     "geom:latitude":43.246798,
     "geom:longitude":-70.85089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Centre Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404037683,
-    "wof:lastmodified":1449040341,
+    "wof:lastmodified":1466669744,
     "wof:name":"Primex Tools",
     "wof:parent_id":85845815,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"
     ]
 },
-  "bbox": [-70.85089,43.246798,-70.85089,43.246798],
-  "geometry": {"coordinates":[-70.85089,43.246798],"type":"Point"}
+  "bbox": [
+    -70.85089,
+    43.246798,
+    -70.85089,
+    43.246798
+],
+  "geometry": {"coordinates":[-70.85089000000001,43.246798],"type":"Point"}
 }

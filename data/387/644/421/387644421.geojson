@@ -2,13 +2,14 @@
   "id": 387644421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.873224,43.244752,-70.873224,43.244752",
     "geom:latitude":43.244752,
     "geom:longitude":-70.873224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Davis St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387644421,
-    "wof:lastmodified":1449058285,
+    "wof:lastmodified":1466672812,
     "wof:name":"Laviolette Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mfg"
     ]
 },
-  "bbox": [-70.873224,43.244752,-70.873224,43.244752],
-  "geometry": {"coordinates":[-70.873224,43.244752],"type":"Point"}
+  "bbox": [
+    -70.873224,
+    43.244752,
+    -70.873224,
+    43.244752
+],
+  "geometry": {"coordinates":[-70.87322399999999,43.244752],"type":"Point"}
 }

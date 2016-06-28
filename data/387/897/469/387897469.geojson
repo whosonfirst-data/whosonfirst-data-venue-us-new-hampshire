@@ -2,13 +2,14 @@
   "id": 387897469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.853865,43.252993,-70.853865,43.252993",
     "geom:latitude":43.252993,
     "geom:longitude":-70.853865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Chesley Ave",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387897469,
-    "wof:lastmodified":1449059311,
+    "wof:lastmodified":1466672832,
     "wof:name":"Genesis Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.853865,43.252993,-70.853865,43.252993],
+  "bbox": [
+    -70.853865,
+    43.252993,
+    -70.853865,
+    43.252993
+],
   "geometry": {"coordinates":[-70.853865,43.252993],"type":"Point"}
 }

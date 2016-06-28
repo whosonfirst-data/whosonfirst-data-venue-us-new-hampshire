@@ -2,13 +2,14 @@
   "id": 387633399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.974284,43.346461,-70.974284,43.346461",
     "geom:latitude":43.346461,
     "geom:longitude":-70.974284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387633399,
-    "wof:lastmodified":1449059891,
+    "wof:lastmodified":1466672806,
     "wof:name":"Strogen's Hvac Svc Experts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-70.974284,43.346461,-70.974284,43.346461],
+  "bbox": [
+    -70.974284,
+    43.346461,
+    -70.974284,
+    43.346461
+],
   "geometry": {"coordinates":[-70.974284,43.346461],"type":"Point"}
 }

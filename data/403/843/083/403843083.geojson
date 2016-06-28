@@ -2,13 +2,14 @@
   "id": 403843083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.899318,43.245383,-70.899318,43.245383",
     "geom:latitude":43.245383,
     "geom:longitude":-70.899318,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Blackwater Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403843083,
-    "wof:lastmodified":1449054749,
+    "wof:lastmodified":1466672820,
     "wof:name":"Distinctive Documents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "resume"
     ]
 },
-  "bbox": [-70.899318,43.245383,-70.899318,43.245383],
-  "geometry": {"coordinates":[-70.899318,43.245383],"type":"Point"}
+  "bbox": [
+    -70.899318,
+    43.245383,
+    -70.899318,
+    43.245383
+],
+  "geometry": {"coordinates":[-70.89931799999999,43.245383],"type":"Point"}
 }

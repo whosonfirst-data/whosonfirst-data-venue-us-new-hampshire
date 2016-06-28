@@ -2,13 +2,14 @@
   "id": 403713461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.885719,43.257211,-70.885719,43.257211",
     "geom:latitude":43.257211,
     "geom:longitude":-70.885719,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Lil Nor Ave",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403713461,
-    "wof:lastmodified":1449055845,
+    "wof:lastmodified":1466672787,
     "wof:name":"Little Folks Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "school"
     ]
 },
-  "bbox": [-70.885719,43.257211,-70.885719,43.257211],
-  "geometry": {"coordinates":[-70.885719,43.257211],"type":"Point"}
+  "bbox": [
+    -70.885719,
+    43.257211,
+    -70.885719,
+    43.257211
+],
+  "geometry": {"coordinates":[-70.88571899999999,43.257211],"type":"Point"}
 }

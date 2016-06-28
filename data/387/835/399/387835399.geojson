@@ -2,13 +2,14 @@
   "id": 387835399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.975346,43.324943,-70.975346,43.324943",
     "geom:latitude":43.324943,
     "geom:longitude":-70.975346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":387835399,
-    "wof:lastmodified":1449056643,
+    "wof:lastmodified":1466672831,
     "wof:name":"New Style Homes",
     "wof:parent_id":85833723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.975346,43.324943,-70.975346,43.324943],
+  "bbox": [
+    -70.975346,
+    43.324943,
+    -70.975346,
+    43.324943
+],
   "geometry": {"coordinates":[-70.975346,43.324943],"type":"Point"}
 }

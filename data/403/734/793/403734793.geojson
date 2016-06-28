@@ -2,13 +2,14 @@
   "id": 403734793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.059506,44.011301,-71.059506,44.011301",
     "geom:latitude":44.011301,
     "geom:longitude":-71.059506,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1247 E Conway Rd",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403734793,
-    "wof:lastmodified":1449055803,
+    "wof:lastmodified":1466672800,
     "wof:name":"Scott Productions",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tape"
     ]
 },
-  "bbox": [-71.059506,44.011301,-71.059506,44.011301],
+  "bbox": [
+    -71.059506,
+    44.011301,
+    -71.059506,
+    44.011301
+],
   "geometry": {"coordinates":[-71.059506,44.011301],"type":"Point"}
 }

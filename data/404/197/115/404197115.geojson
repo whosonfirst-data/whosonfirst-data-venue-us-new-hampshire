@@ -2,13 +2,14 @@
   "id": 404197115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.866653,43.25961,-70.866653,43.25961",
     "geom:latitude":43.25961,
     "geom:longitude":-70.866653,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"154 High St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404197115,
-    "wof:lastmodified":1449040169,
+    "wof:lastmodified":1466672813,
     "wof:name":"Amesbury Furniture Outlet-Nh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.866653,43.25961,-70.866653,43.25961],
+  "bbox": [
+    -70.866653,
+    43.25961,
+    -70.866653,
+    43.25961
+],
   "geometry": {"coordinates":[-70.866653,43.25961],"type":"Point"}
 }

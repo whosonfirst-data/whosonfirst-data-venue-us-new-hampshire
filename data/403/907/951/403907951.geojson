@@ -2,13 +2,14 @@
   "id": 403907951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.129749,44.782718,-71.129749,44.782718",
     "geom:latitude":44.782718,
     "geom:longitude":-71.129749,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Dam Rd",
     "sg:city":"Errol",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403907951,
-    "wof:lastmodified":1449055858,
+    "wof:lastmodified":1466672824,
     "wof:name":"Florida Power & Light Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-71.129749,44.782718,-71.129749,44.782718],
+  "bbox": [
+    -71.129749,
+    44.782718,
+    -71.129749,
+    44.782718
+],
   "geometry": {"coordinates":[-71.129749,44.782718],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404052711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.861926,43.258758,-70.861926,43.258758",
     "geom:latitude":43.258758,
     "geom:longitude":-70.861926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Main St",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":404052711,
-    "wof:lastmodified":1449039557,
+    "wof:lastmodified":1466669744,
     "wof:name":"Main Street Rooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "house"
     ]
 },
-  "bbox": [-70.861926,43.258758,-70.861926,43.258758],
+  "bbox": [
+    -70.861926,
+    43.258758,
+    -70.861926,
+    43.258758
+],
   "geometry": {"coordinates":[-70.861926,43.258758],"type":"Point"}
 }
