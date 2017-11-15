@@ -2,6 +2,10 @@
   "id": 873814847,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Lincoln Ave Portsmouth NH 03801",
+    "addr:housenumber":"104",
+    "addr:postcode":"03801",
+    "addr:street":"Lincoln Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873814847,
-    "wof:lastmodified":1466671535,
+    "wof:lastmodified":1472634301,
     "wof:name":"Professional Data Svc Of Nh",
     "wof:parent_id":85892295,
     "wof:placetype":"venue",

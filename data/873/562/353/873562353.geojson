@@ -2,6 +2,10 @@
   "id": 873562353,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Main St Pike NH 03771",
+    "addr:housenumber":"25",
+    "addr:postcode":"03771",
+    "addr:street":"Main St Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873562353,
-    "wof:lastmodified":1466669883,
+    "wof:lastmodified":1472634165,
     "wof:name":"Pike Station Store",
     "wof:parent_id":85851705,
     "wof:placetype":"venue",

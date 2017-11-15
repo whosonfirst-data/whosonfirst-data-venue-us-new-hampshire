@@ -2,14 +2,20 @@
   "id": 873725549,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Islington St Portsmouth NH 03801",
+    "addr:housenumber":"933",
+    "addr:postcode":"03801",
+    "addr:street":"Islington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.774414,43.067038,-70.774414,43.067038",
     "geom:latitude":43.067038,
     "geom:longitude":-70.774414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"933 Islington St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jvjEBZhTmuqWpAUxT1RpK_43.067038_-70.774414@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296719,
-    "wof:geomhash":"6b868adef712cc4ee8c281714cdc5167",
+    "wof:geomhash":"1cbe816736872cb9af6f7114d79e20eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873725549,
-    "wof:lastmodified":1466670844,
+    "wof:lastmodified":1510613180,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873848917,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Main St Pelham NH 03076",
+    "addr:housenumber":"2",
+    "addr:postcode":"03076",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.322448,42.733774,-71.322448,42.733774",
     "geom:latitude":42.733774,
     "geom:longitude":-71.322448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Main St",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85837895,
         102085493
     ],
+    "wof:brand_id":420575683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54BeFqCk4Gw1NWueJD7ihZ_42.733774_-71.322448@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298791,
-    "wof:geomhash":"6b3c42eae8f93a60e42ab95a098fe664",
+    "wof:geomhash":"859ae732ca341caa70d8ce72f64549d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873848917,
-    "wof:lastmodified":1466671922,
+    "wof:lastmodified":1510602061,
     "wof:name":"First Congregational Church",
     "wof:parent_id":85837895,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873923545,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Simon St Ste 1C Nashua NH 03060",
+    "addr:housenumber":"41;1c",
+    "addr:postcode":"03060",
+    "addr:street":"Simon St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873923545,
-    "wof:lastmodified":1466672702,
+    "wof:lastmodified":1472634405,
     "wof:name":"Mass Design, Inc.",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

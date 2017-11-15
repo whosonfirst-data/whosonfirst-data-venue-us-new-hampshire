@@ -2,6 +2,10 @@
   "id": 873865805,
   "type": "Feature",
   "properties": {
+    "addr:full":"543 Lincoln St Manchester NH 03104",
+    "addr:housenumber":"543",
+    "addr:postcode":"03104",
+    "addr:street":"Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873865805,
-    "wof:lastmodified":1466672119,
+    "wof:lastmodified":1472634350,
     "wof:name":"Goffstown Maple Street Apts",
     "wof:parent_id":420526209,
     "wof:placetype":"venue",

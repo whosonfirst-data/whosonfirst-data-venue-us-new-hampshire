@@ -2,14 +2,20 @@
   "id": 873843999,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Glen Ave Berlin NH 03570",
+    "addr:housenumber":"350",
+    "addr:postcode":"03570",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.186945,44.4589,-71.186945,44.4589",
     "geom:latitude":44.4589,
     "geom:longitude":-71.186945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 Glen Ave",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":1125156093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jdtRhxVBlbKQB6ywCdc2T_44.458900_-71.186945@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298655,
-    "wof:geomhash":"ee06969d5ff23a1a7c2fdce13d660233",
+    "wof:geomhash":"8c9a0bd40496924d3ba25d7d744cdf15",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873843999,
-    "wof:lastmodified":1466671925,
+    "wof:lastmodified":1510695094,
     "wof:name":"Hair Zone",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

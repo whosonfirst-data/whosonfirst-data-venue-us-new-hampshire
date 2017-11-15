@@ -2,14 +2,20 @@
   "id": 873539249,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Grandview Rd Littleton NH 03561",
+    "addr:housenumber":"106",
+    "addr:postcode":"03561",
+    "addr:street":"Grandview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.845875,44.293418,-71.845875,44.293418",
     "geom:latitude":44.293418,
     "geom:longitude":-71.845875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Grandview Rd",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85804597,
         102086567
     ],
+    "wof:brand_id":1125156373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MH5KNI4srF6tO6Tq0AXvd_44.293418_-71.845875@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294252,
-    "wof:geomhash":"44b05c808232b3119f963ce3091139a1",
+    "wof:geomhash":"200e3486cba78504f1ec2b754a6e490b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873539249,
-    "wof:lastmodified":1466669763,
+    "wof:lastmodified":1510699358,
     "wof:name":"Color Me Beautiful",
     "wof:parent_id":85804597,
     "wof:placetype":"venue",

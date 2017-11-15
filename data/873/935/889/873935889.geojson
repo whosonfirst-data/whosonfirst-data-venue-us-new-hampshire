@@ -2,6 +2,10 @@
   "id": 873935889,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Murphy Dr. Nashua NH 03062",
+    "addr:housenumber":"12",
+    "addr:postcode":"03062",
+    "addr:street":"Murphy Dr.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873935889,
-    "wof:lastmodified":1466672884,
+    "wof:lastmodified":1472634406,
     "wof:name":"AutoVirt",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873798775,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Central St Franklin NH 03235",
+    "addr:housenumber":"321",
+    "addr:postcode":"03235",
+    "addr:street":"Central St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.646177,43.444613,-71.646177,43.444613",
     "geom:latitude":43.444613,
     "geom:longitude":-71.646177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 Central St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852103,
         102086503
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bsZdPxdkOIiNBPSu0ywg6_43.444613_-71.646177@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297759,
-    "wof:geomhash":"9372722821b545a7e0581d8baa27bcbe",
+    "wof:geomhash":"8a3bf3b832a5ba48b6871424af9317cd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873798775,
-    "wof:lastmodified":1466671386,
+    "wof:lastmodified":1510697514,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85852103,
     "wof:placetype":"venue",

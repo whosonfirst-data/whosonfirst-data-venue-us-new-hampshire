@@ -2,14 +2,20 @@
   "id": 873798397,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Main St Manchester NH 03102",
+    "addr:housenumber":"143",
+    "addr:postcode":"03102",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.473932,42.986778,-71.473932,42.986778",
     "geom:latitude":42.986778,
     "geom:longitude":-71.473932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 Main St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mfon1FyoZNCpVROp6Li4t_42.986778_-71.473932@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297755,
-    "wof:geomhash":"24d6f95f2571d3004420e46c73222afb",
+    "wof:geomhash":"25d9aa045e89963333cb8d15180b380c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873798397,
-    "wof:lastmodified":1466671353,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

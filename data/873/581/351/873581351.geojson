@@ -2,14 +2,20 @@
   "id": 873581351,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Fort Eddy Rd Concord NH 03301",
+    "addr:housenumber":"104",
+    "addr:postcode":"03301",
+    "addr:street":"Fort Eddy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.52953,43.216223,-71.52953,43.216223",
     "geom:latitude":43.216223,
     "geom:longitude":-71.52953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Fort Eddy Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125157799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56TAgNdPEn2MLGghNNERLx_43.216223_-71.529530@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294736,
-    "wof:geomhash":"be45156ff86b916273c0c2b211027759",
+    "wof:geomhash":"d6ed096d57abe7011e3650004f1d8585",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873581351,
-    "wof:lastmodified":1466669977,
+    "wof:lastmodified":1510698903,
     "wof:name":"Cardsmart",
     "wof:parent_id":85892217,
     "wof:placetype":"venue",

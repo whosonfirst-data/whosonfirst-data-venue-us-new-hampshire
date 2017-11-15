@@ -2,14 +2,20 @@
   "id": 873679273,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Lyford St Laconia NH 03246",
+    "addr:housenumber":"21",
+    "addr:postcode":"03246",
+    "addr:street":"Lyford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.47214,43.531391,-71.47214,43.531391",
     "geom:latitude":43.531391,
     "geom:longitude":-71.47214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Lyford St",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086503,
         85829307
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WCnVmCZPvwGDebAEtSeuS_43.531391_-71.472140@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295973,
-    "wof:geomhash":"16542a24840e6b35f0aebb39dce0806a",
+    "wof:geomhash":"54597ae0ba78eb9bc59dceac080151e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873679273,
-    "wof:lastmodified":1466670518,
+    "wof:lastmodified":1510604879,
     "wof:name":"American Red Cross",
     "wof:parent_id":85829307,
     "wof:placetype":"venue",

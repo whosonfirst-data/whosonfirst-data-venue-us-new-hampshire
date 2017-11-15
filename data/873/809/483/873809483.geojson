@@ -2,14 +2,20 @@
   "id": 873809483,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Lafayette Rd Hampton Falls NH 03844",
+    "addr:housenumber":"27",
+    "addr:postcode":"03844",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.866503,42.904332,-70.866503,42.904332",
     "geom:latitude":42.904332,
     "geom:longitude":-70.866503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Lafayette Rd",
     "sg:city":"Hampton Falls",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85823769,
         102086507
     ],
+    "wof:brand_id":420574015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73iZLepJe1AbgEfJlq21Wi_42.904332_-70.866503@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297918,
-    "wof:geomhash":"c0aea17712acf1e131fa31ef9360b95d",
+    "wof:geomhash":"f6415ab987602827ed6e4b97d7b349fe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873809483,
-    "wof:lastmodified":1466671468,
+    "wof:lastmodified":1510603864,
     "wof:name":"Re/Max",
     "wof:parent_id":85823769,
     "wof:placetype":"venue",

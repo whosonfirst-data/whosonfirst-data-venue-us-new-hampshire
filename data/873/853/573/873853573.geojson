@@ -2,6 +2,10 @@
   "id": 873853573,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Lincoln St Manchester NH 03103",
+    "addr:housenumber":"321",
+    "addr:postcode":"03103",
+    "addr:street":"Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873853573,
-    "wof:lastmodified":1466671938,
+    "wof:lastmodified":1472634313,
     "wof:name":"Manchester Shopping Center",
     "wof:parent_id":420526209,
     "wof:placetype":"venue",

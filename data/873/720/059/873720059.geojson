@@ -2,6 +2,10 @@
   "id": 873720059,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 US Hwy 1 Portsmouth NH 03801",
+    "addr:housenumber":"100",
+    "addr:postcode":"03801",
+    "addr:street":"Us Hwy 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873720059,
-    "wof:lastmodified":1466670772,
+    "wof:lastmodified":1472634143,
     "wof:name":"Foundation For Seacoast Health",
     "wof:parent_id":85892291,
     "wof:placetype":"venue",

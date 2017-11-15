@@ -2,6 +2,10 @@
   "id": 873911269,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Elm St Whitefield NH 03598",
+    "addr:housenumber":"111",
+    "addr:postcode":"03598",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873911269,
-    "wof:lastmodified":1466672537,
+    "wof:lastmodified":1472634375,
     "wof:name":"Whitefield Electronics",
     "wof:parent_id":85847413,
     "wof:placetype":"venue",

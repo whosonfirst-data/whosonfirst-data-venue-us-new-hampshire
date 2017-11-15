@@ -2,14 +2,20 @@
   "id": 873590753,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 E Industrial Park Dr Manchester NH 03109",
+    "addr:housenumber":"751",
+    "addr:postcode":"03109",
+    "addr:street":"E Industrial Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.408236,42.982752,-71.408236,42.982752",
     "geom:latitude":42.982752,
     "geom:longitude":-71.408236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"751 E Industrial Park Dr",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125154523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FO85BzTiVWl3Leoi9YTg7_42.982752_-71.408236@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294839,
-    "wof:geomhash":"05aa3b615238bb9059ac19d6ae37afe0",
+    "wof:geomhash":"c292c692e8de5c61336c6cb37151de93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873590753,
-    "wof:lastmodified":1466670066,
+    "wof:lastmodified":1510695739,
     "wof:name":"Comcast Cable Holdings LLC",
     "wof:parent_id":420526163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873672239,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Elm St Milford NH 03055",
+    "addr:housenumber":"20",
+    "addr:postcode":"03055",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.653447,42.835289,-71.653447,42.835289",
     "geom:latitude":42.835289,
     "geom:longitude":-71.653447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Elm St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125152117,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qeahkqV8MS80v4soBrK3h_42.835289_-71.653447@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295823,
-    "wof:geomhash":"24265ec6140c3cc868a406be3b3477a9",
+    "wof:geomhash":"c0f9bf942291d115455c805cadeada8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873672239,
-    "wof:lastmodified":1466670472,
+    "wof:lastmodified":1510613197,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":85849885,
     "wof:placetype":"venue",

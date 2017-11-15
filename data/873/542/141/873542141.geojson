@@ -2,14 +2,20 @@
   "id": 873542141,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Rutland St Dover NH 03820",
+    "addr:housenumber":"105",
+    "addr:postcode":"03820",
+    "addr:street":"Rutland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.879142,43.183259,-70.879142,43.183259",
     "geom:latitude":43.183259,
     "geom:longitude":-70.879142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Rutland St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125156095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aqnpu8FgRPNuYASucd7zi_43.183259_-70.879142@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294282,
-    "wof:geomhash":"77a00c32e343141fd0803e4812ce062e",
+    "wof:geomhash":"cb5e4bf5275a985740bf06d11645d6e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873542141,
-    "wof:lastmodified":1466669755,
+    "wof:lastmodified":1510695093,
     "wof:name":"Independent Order Odd Fellows",
     "wof:parent_id":85892231,
     "wof:placetype":"venue",

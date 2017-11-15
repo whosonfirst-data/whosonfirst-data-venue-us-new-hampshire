@@ -2,14 +2,20 @@
   "id": 873895287,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Charles St Rochester NH 03867",
+    "addr:housenumber":"185",
+    "addr:postcode":"03867",
+    "addr:street":"Charles St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.976224,43.288987,-70.976224,43.288987",
     "geom:latitude":43.288987,
     "geom:longitude":-70.976224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Charles St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125150329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J9L35wDjIMKcpeCLEhdXy_43.288987_-70.976224@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299726,
-    "wof:geomhash":"43d5d69d0127e2c8c1d2ee45b74a6d92",
+    "wof:geomhash":"89e6fe866bb69cd22d600626d1f66581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873895287,
-    "wof:lastmodified":1466672359,
+    "wof:lastmodified":1510694576,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

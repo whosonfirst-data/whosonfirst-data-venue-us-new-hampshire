@@ -2,14 +2,20 @@
   "id": 873549857,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Webb Pl Dover NH 03820",
+    "addr:housenumber":"3",
+    "addr:postcode":"03820",
+    "addr:street":"Webb Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.888209,43.221119,-70.888209,43.221119",
     "geom:latitude":43.221119,
     "geom:longitude":-70.888209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Webb Pl",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085609,
         85821239
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vDvZqC1WZCwgT4k2laaDz_43.221119_-70.888209@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294376,
-    "wof:geomhash":"aea59da34079ea9028a4c28232d80c61",
+    "wof:geomhash":"dd1c55716d2802c765057da201985f5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873549857,
-    "wof:lastmodified":1466669806,
+    "wof:lastmodified":1510604881,
     "wof:name":"American Red Cross",
     "wof:parent_id":85821239,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873815573,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 Loudon Rd Concord NH 03301",
+    "addr:housenumber":"249",
+    "addr:postcode":"03301",
+    "addr:street":"Loudon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.492899,43.222677,-71.492899,43.222677",
     "geom:latitude":43.222677,
     "geom:longitude":-71.492899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"249 Loudon Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125155161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fUCZiivb6ZalZGWix1xgB_43.222677_-71.492899@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298025,
-    "wof:geomhash":"1932b7f62085cb5a4492da89078a0afa",
+    "wof:geomhash":"97a04c92fd69886ad585f096447043f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873815573,
-    "wof:lastmodified":1466671529,
+    "wof:lastmodified":1510698906,
     "wof:name":"Mattress Giant Corporation",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

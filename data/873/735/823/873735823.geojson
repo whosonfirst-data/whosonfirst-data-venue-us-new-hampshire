@@ -2,14 +2,20 @@
   "id": 873735823,
   "type": "Feature",
   "properties": {
+    "addr:full":"552 State Rte 11 Sunapee NH 03782",
+    "addr:housenumber":"552",
+    "addr:postcode":"03782",
+    "addr:street":"State Rte 11",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.087825,43.389779,-72.087825,43.389779",
     "geom:latitude":43.389779,
     "geom:longitude":-72.087825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"552 State Rte 11",
     "sg:city":"Sunapee",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85808481,
         102086583
     ],
+    "wof:brand_id":1125157283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J9OZJ9uOEWdjw3EkrUZOQ_43.389779_-72.087825@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296868,
-    "wof:geomhash":"5507eaee45aa93a05296acec3c340859",
+    "wof:geomhash":"681b28d4d7164f34405640749b64d1ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873735823,
-    "wof:lastmodified":1466670946,
+    "wof:lastmodified":1510696751,
     "wof:name":"Travel Network",
     "wof:parent_id":85808481,
     "wof:placetype":"venue",

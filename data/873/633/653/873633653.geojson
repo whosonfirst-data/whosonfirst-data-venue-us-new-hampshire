@@ -2,6 +2,10 @@
   "id": 873633653,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 First New Hampshire Tpke Northwood NH 03261",
+    "addr:housenumber":"333",
+    "addr:postcode":"03261",
+    "addr:street":"First New;Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873633653,
-    "wof:lastmodified":1466670284,
+    "wof:lastmodified":1472634198,
     "wof:name":"Hall Monuments",
     "wof:parent_id":85838443,
     "wof:placetype":"venue",

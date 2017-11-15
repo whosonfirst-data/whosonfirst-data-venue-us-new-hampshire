@@ -2,6 +2,10 @@
   "id": 873771807,
   "type": "Feature",
   "properties": {
+    "addr:full":"442 State Rte 123 Peterborough NH 03458",
+    "addr:housenumber":"442",
+    "addr:postcode":"03458",
+    "addr:street":"State Rte 123",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873771807,
-    "wof:lastmodified":1466671211,
+    "wof:lastmodified":1472634288,
     "wof:name":"Three Maples Bed & Breakfast",
     "wof:parent_id":85831847,
     "wof:placetype":"venue",

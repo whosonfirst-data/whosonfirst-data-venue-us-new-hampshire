@@ -2,14 +2,20 @@
   "id": 873660935,
   "type": "Feature",
   "properties": {
+    "addr:full":"679 S Mast Rd Manchester NH 03102",
+    "addr:housenumber":"679",
+    "addr:postcode":"03102",
+    "addr:street":"S Mast Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.506571,42.993873,-71.506571,42.993873",
     "geom:latitude":42.993873,
     "geom:longitude":-71.506571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"679 S Mast Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85841655,
         102085493
     ],
+    "wof:brand_id":1125152717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YqGgWy5ojqG7d2bt8tjF7_42.993873_-71.506571@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295707,
-    "wof:geomhash":"1a16c5a81cded9196215585b1c1b5e72",
+    "wof:geomhash":"18ac07c80636d3a88df0c6a1f3915016",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873660935,
-    "wof:lastmodified":1466670451,
+    "wof:lastmodified":1510696850,
     "wof:name":"Karate For Kids",
     "wof:parent_id":85841655,
     "wof:placetype":"venue",

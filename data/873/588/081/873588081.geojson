@@ -2,6 +2,10 @@
   "id": 873588081,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Main St Plymouth NH 03264",
+    "addr:housenumber":"67",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873588081,
-    "wof:lastmodified":1466670005,
+    "wof:lastmodified":1472634142,
     "wof:name":"Readery",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

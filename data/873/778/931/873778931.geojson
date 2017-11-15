@@ -2,6 +2,10 @@
   "id": 873778931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1334 First New Hampshire Tpke Northwood NH 03261",
+    "addr:housenumber":"1334",
+    "addr:postcode":"03261",
+    "addr:street":"First New;Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873778931,
-    "wof:lastmodified":1466671273,
+    "wof:lastmodified":1472634296,
     "wof:name":"Johnson Seafood & Steak",
     "wof:parent_id":85838469,
     "wof:placetype":"venue",

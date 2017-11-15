@@ -2,14 +2,20 @@
   "id": 873680539,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 McGee Dr Portsmouth NH 03801",
+    "addr:housenumber":"801",
+    "addr:postcode":"03801",
+    "addr:street":"Mcgee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.78081,43.082768,-70.78081,43.082768",
     "geom:latitude":43.082768,
     "geom:longitude":-70.78081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 McGee Dr",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19P9U3HQVE6Y87hDzBj4Hm_43.082768_-70.780810@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296011,
-    "wof:geomhash":"552a74dc00768b76a7fcb924907aab77",
+    "wof:geomhash":"0a203e85b677dffc9f0ab76a4a48484e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873680539,
-    "wof:lastmodified":1466670544,
+    "wof:lastmodified":1510693227,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85812791,
     "wof:placetype":"venue",

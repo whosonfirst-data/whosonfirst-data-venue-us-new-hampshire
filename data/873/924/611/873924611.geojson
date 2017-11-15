@@ -2,6 +2,10 @@
   "id": 873924611,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Canal St Ncal 3706 3706 Ncal Nashua NH 03064",
+    "addr:housenumber":"95;3706",
+    "addr:postcode":"3706;03064",
+    "addr:street":"Canal St Ncal",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":873924611,
-    "wof:lastmodified":1466672712,
+    "wof:lastmodified":1472634405,
     "wof:name":"American Occupational Health Management, Inc.",
     "wof:parent_id":85892281,
     "wof:placetype":"venue",

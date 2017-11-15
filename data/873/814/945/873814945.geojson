@@ -2,6 +2,10 @@
   "id": 873814945,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Abby Rd Manchester NH 03103",
+    "addr:housenumber":"234",
+    "addr:postcode":"03103",
+    "addr:street":"Abby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873814945,
-    "wof:lastmodified":1466671548,
+    "wof:lastmodified":1472634301,
     "wof:name":"Advanced Mixing Technologies",
     "wof:parent_id":85892275,
     "wof:placetype":"venue",

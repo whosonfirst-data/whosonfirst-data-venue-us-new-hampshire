@@ -2,6 +2,10 @@
   "id": 873612033,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 S Main St Rochester NH 03867",
+    "addr:housenumber":"59",
+    "addr:postcode":"03867",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873612033,
-    "wof:lastmodified":1466670137,
+    "wof:lastmodified":1472634134,
     "wof:name":"Fred Hall",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

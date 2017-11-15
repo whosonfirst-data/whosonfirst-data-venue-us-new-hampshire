@@ -2,14 +2,20 @@
   "id": 873567897,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Hastings Ave Keene NH 03431",
+    "addr:housenumber":"106",
+    "addr:postcode":"03431",
+    "addr:street":"Hastings Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.324495,42.945836,-72.324495,42.945836",
     "geom:latitude":42.945836,
     "geom:longitude":-72.324495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Hastings Ave",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085643,
         85688689
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pSkFBhSZ3r1FvHTwh2T8X_42.945836_-72.324495@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294584,
-    "wof:geomhash":"2aa0a70ee64e41b27ac8622cafeee25b",
+    "wof:geomhash":"c2d881cc8b892213e7b927cd509775dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873567897,
-    "wof:lastmodified":1466669946,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85892245,
     "wof:placetype":"venue",

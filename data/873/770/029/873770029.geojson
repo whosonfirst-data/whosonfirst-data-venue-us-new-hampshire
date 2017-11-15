@@ -2,14 +2,20 @@
   "id": 873770029,
   "type": "Feature",
   "properties": {
+    "addr:full":"493 Amherst St Nashua NH 03063",
+    "addr:housenumber":"493",
+    "addr:postcode":"03063",
+    "addr:street":"Amherst St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.518591,42.790651,-71.518591,42.790651",
     "geom:latitude":42.790651,
     "geom:longitude":-71.518591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"493 Amherst St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125154783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NgbRQNPwO5Z7frS4akzdv_42.790651_-71.518591@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297366,
-    "wof:geomhash":"5cb97f65444a10369c393519590d94af",
+    "wof:geomhash":"5503e9333b8dd282378d179a06361b83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873770029,
-    "wof:lastmodified":1466671138,
+    "wof:lastmodified":1510698934,
     "wof:name":"Nails 2000",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873803765,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Goffe St Manchester NH 03102",
+    "addr:housenumber":"123",
+    "addr:postcode":"03102",
+    "addr:street":"Goffe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.476844,42.978382,-71.476844,42.978382",
     "geom:latitude":42.978382,
     "geom:longitude":-71.476844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Goffe St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hXbKyFmdUCxYafrreqN0V_42.978382_-71.476844@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297818,
-    "wof:geomhash":"dd2f5c21d47d12172ff6c9c8a1ab146d",
+    "wof:geomhash":"c74667c4212096582e22313322b19110",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873803765,
-    "wof:lastmodified":1466671433,
+    "wof:lastmodified":1510615133,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

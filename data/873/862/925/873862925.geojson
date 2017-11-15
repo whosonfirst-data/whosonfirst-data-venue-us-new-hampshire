@@ -2,14 +2,20 @@
   "id": 873862925,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Pembroke Rd Concord NH 03301",
+    "addr:housenumber":"30",
+    "addr:postcode":"03301",
+    "addr:street":"Pembroke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.513364,43.212035,-71.513364,43.212035",
     "geom:latitude":43.212035,
     "geom:longitude":-71.513364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Pembroke Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11l0AjraLfL2to8I8MV4aX_43.212035_-71.513364@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299094,
-    "wof:geomhash":"e216c7188a527d5b777f5d386a51ab81",
+    "wof:geomhash":"380eaaed41b19833977e17940d849777",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873862925,
-    "wof:lastmodified":1466672081,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

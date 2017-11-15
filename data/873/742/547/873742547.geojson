@@ -2,14 +2,20 @@
   "id": 873742547,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Greenleaf Woods Dr Portsmouth NH 03801",
+    "addr:housenumber":"1",
+    "addr:postcode":"03801",
+    "addr:street":"Greenleaf Woods Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.776051,43.054423,-70.776051,43.054423",
     "geom:latitude":43.054423,
     "geom:longitude":-70.776051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Greenleaf Woods Dr",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125154793,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ph1A744Ib3KOBEoR1RVwg_43.054423_-70.776051@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296967,
-    "wof:geomhash":"6bb352064f67a4f2be5053021c0a4fab",
+    "wof:geomhash":"06d1637a086e8eab65a3a8cd90ca9a3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873742547,
-    "wof:lastmodified":1466670954,
+    "wof:lastmodified":1510693707,
     "wof:name":"Pro Staff",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873761827,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Main St Berlin NH 03570",
+    "addr:housenumber":"215",
+    "addr:postcode":"03570",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873761827,
-    "wof:lastmodified":1466671139,
+    "wof:lastmodified":1472634293,
     "wof:name":"Outreach",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

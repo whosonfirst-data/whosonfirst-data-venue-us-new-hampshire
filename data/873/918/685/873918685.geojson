@@ -2,14 +2,20 @@
   "id": 873918685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 White Mountain Hwy North Conway NH 03860",
+    "addr:housenumber":"1500",
+    "addr:postcode":"03860",
+    "addr:street":"White Mountain Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.11719,44.023657,-71.11719,44.023657",
     "geom:latitude":44.023657,
     "geom:longitude":-71.11719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 White Mountain Hwy",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85843529,
         102086581
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WojzsqiinkTmLC4y8lJPI_44.023657_-71.117190@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300189,
-    "wof:geomhash":"1365c8547f75d35e33196adfd2f19c5d",
+    "wof:geomhash":"3c215fd413b753dd1867892a6a587573",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873918685,
-    "wof:lastmodified":1466672673,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85843529,
     "wof:placetype":"venue",

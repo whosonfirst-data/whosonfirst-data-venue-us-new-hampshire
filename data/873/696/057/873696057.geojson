@@ -2,14 +2,20 @@
   "id": 873696057,
   "type": "Feature",
   "properties": {
+    "addr:full":"166 S River Rd Bedford NH 03110",
+    "addr:housenumber":"166",
+    "addr:postcode":"03110",
+    "addr:street":"S River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.477136,42.949431,-71.477136,42.949431",
     "geom:latitude":42.949431,
     "geom:longitude":-71.477136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"166 S River Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jbnTZH8IoliYRgec3kPE3_42.949431_-71.477136@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296367,
-    "wof:geomhash":"9c81ea047b6ffe328a68e87fa3c61f77",
+    "wof:geomhash":"ef022f2716d58a919d87e6b645283fdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873696057,
-    "wof:lastmodified":1466670616,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

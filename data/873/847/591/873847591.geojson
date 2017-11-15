@@ -2,6 +2,10 @@
   "id": 873847591,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Longridge Dr Gilford NH 03249",
+    "addr:housenumber":"123",
+    "addr:postcode":"03249",
+    "addr:street":"Longridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873847591,
-    "wof:lastmodified":1466671878,
+    "wof:lastmodified":1472634349,
     "wof:name":"Letterhof Kennel",
     "wof:parent_id":85821829,
     "wof:placetype":"venue",

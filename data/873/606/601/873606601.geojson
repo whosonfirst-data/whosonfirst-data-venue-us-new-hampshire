@@ -2,14 +2,20 @@
   "id": 873606601,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Tow Path Ln Concord NH 03301",
+    "addr:housenumber":"2",
+    "addr:postcode":"03301",
+    "addr:street":"Tow Path Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.540517,43.24405,-71.540517,43.24405",
     "geom:latitude":43.24405,
     "geom:longitude":-71.540517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Tow Path Ln",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125152167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MBufPNCO8T9OT2HBK4TvE_43.244050_-71.540517@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295068,
-    "wof:geomhash":"354f5dcd7b4a702601e7c261ea850d90",
+    "wof:geomhash":"c21d4fe5d681caa7f95326f3f03caa5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873606601,
-    "wof:lastmodified":1466670137,
+    "wof:lastmodified":1510693952,
     "wof:name":"Order of Eastern Star of",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

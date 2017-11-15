@@ -2,14 +2,20 @@
   "id": 873897317,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 State Rte 27 Raymond NH 03077",
+    "addr:housenumber":"322",
+    "addr:postcode":"03077",
+    "addr:street":"State Rte 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.238778,43.062504,-71.238778,43.062504",
     "geom:latitude":43.062504,
     "geom:longitude":-71.238778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"322 State Rte 27",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85805045,
         102086507
     ],
+    "wof:brand_id":1125158693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vqQj8EHbihFLVLsE2OZA3_43.062504_-71.238778@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299771,
-    "wof:geomhash":"b60488187aa4573168191704ae3e9321",
+    "wof:geomhash":"433eb65aee5f145f3ac0d5effbf80521",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873897317,
-    "wof:lastmodified":1466672369,
+    "wof:lastmodified":1510613454,
     "wof:name":"Affordable Auto Sales",
     "wof:parent_id":85805045,
     "wof:placetype":"venue",

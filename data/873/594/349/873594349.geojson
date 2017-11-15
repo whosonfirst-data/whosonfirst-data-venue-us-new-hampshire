@@ -2,14 +2,20 @@
   "id": 873594349,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 Amherst St Nashua NH 03063",
+    "addr:housenumber":"633",
+    "addr:postcode":"03063",
+    "addr:street":"Amherst St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.543404,42.804285,-71.543404,42.804285",
     "geom:latitude":42.804285,
     "geom:longitude":-71.543404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"633 Amherst St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85849867,
         102085493
     ],
+    "wof:brand_id":420573805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s0gsbXYc4OlNNw125FqJD_42.804285_-71.543404@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294890,
-    "wof:geomhash":"0c183c20deb136c5d7fa59b5274045eb",
+    "wof:geomhash":"2d35ef99a71ac6c935f018896f4ad221",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873594349,
-    "wof:lastmodified":1466670051,
+    "wof:lastmodified":1510603216,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85849867,
     "wof:placetype":"venue",

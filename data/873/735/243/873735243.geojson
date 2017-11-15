@@ -2,6 +2,10 @@
   "id": 873735243,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Nashua Rd Londonderry NH 03053",
+    "addr:housenumber":"123",
+    "addr:postcode":"03053",
+    "addr:street":"Nashua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873735243,
-    "wof:lastmodified":1466670897,
+    "wof:lastmodified":1472634174,
     "wof:name":"Derry's Walls To Windows",
     "wof:parent_id":420526321,
     "wof:placetype":"venue",

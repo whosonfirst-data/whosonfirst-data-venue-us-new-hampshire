@@ -2,6 +2,10 @@
   "id": 873910775,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Danis Park Rd Goffstown NH 03045",
+    "addr:housenumber":"123",
+    "addr:postcode":"03045",
+    "addr:street":"Danis Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873910775,
-    "wof:lastmodified":1466672580,
+    "wof:lastmodified":1472634398,
     "wof:name":"Jeans Construction",
     "wof:parent_id":85822609,
     "wof:placetype":"venue",

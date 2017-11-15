@@ -2,6 +2,10 @@
   "id": 873935933,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 International Drive Suites 201-203 Portsmouth NH 03801",
+    "addr:housenumber":"30",
+    "addr:postcode":"201-203;03801",
+    "addr:street":"International Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":873935933,
-    "wof:lastmodified":1466672884,
+    "wof:lastmodified":1472634412,
     "wof:name":"Actio Corporation (software)",
     "wof:parent_id":85892293,
     "wof:placetype":"venue",

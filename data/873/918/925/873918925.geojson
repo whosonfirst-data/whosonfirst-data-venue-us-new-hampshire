@@ -2,14 +2,20 @@
   "id": 873918925,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 E Broadway Derry NH 03038",
+    "addr:housenumber":"53",
+    "addr:postcode":"03038",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.324192,42.881941,-71.324192,42.881941",
     "geom:latitude":42.881941,
     "geom:longitude":-71.324192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"53 E Broadway",
     "sg:city":"Derry",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UoFbjrpJEgOJtNazzDfZK_42.882077_-71.323684@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300194,
-    "wof:geomhash":"12c7663e528f2aca7126300df4b606bd",
+    "wof:geomhash":"53b3c44f02337c0ababf2d65182e016c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873918925,
-    "wof:lastmodified":1466672704,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85892223,
     "wof:placetype":"venue",

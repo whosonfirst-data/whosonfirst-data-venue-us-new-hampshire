@@ -2,14 +2,20 @@
   "id": 873726895,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Hansonville Rd Rochester NH 03839",
+    "addr:housenumber":"51",
+    "addr:postcode":"03839",
+    "addr:street":"Hansonville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.997753,43.269919,-70.997753,43.269919",
     "geom:latitude":43.269919,
     "geom:longitude":-70.997753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"51 Hansonville Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125155219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lglUKMqGBUU0ZBZAtgceI_43.269919_-70.997753@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296740,
-    "wof:geomhash":"42c26c32e469d4d7f9c38102c73fb5e3",
+    "wof:geomhash":"67df873c76df5de1eb1b8f7dc878acec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873726895,
-    "wof:lastmodified":1466670887,
+    "wof:lastmodified":1510695371,
     "wof:name":"Asplundh Tree Expert Co",
     "wof:parent_id":420526443,
     "wof:placetype":"venue",

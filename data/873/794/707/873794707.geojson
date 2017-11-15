@@ -2,6 +2,10 @@
   "id": 873794707,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 Main St New London NH 03257",
+    "addr:housenumber":"242",
+    "addr:postcode":"03257",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873794707,
-    "wof:lastmodified":1466671370,
+    "wof:lastmodified":1472634287,
     "wof:name":"Weather Information",
     "wof:parent_id":85816361,
     "wof:placetype":"venue",

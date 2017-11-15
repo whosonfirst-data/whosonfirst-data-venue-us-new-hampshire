@@ -2,14 +2,20 @@
   "id": 873611373,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 Main St Nashua NH 03060",
+    "addr:housenumber":"207",
+    "addr:postcode":"03060",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.464774,42.75955,-71.464774,42.75955",
     "geom:latitude":42.75955,
     "geom:longitude":-71.464774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 Main St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125154169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72BxTQzwIjUec7baxgF4Ns_42.759550_-71.464774@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295158,
-    "wof:geomhash":"263a1c7bcc1753c47f64988bfd2b43ef",
+    "wof:geomhash":"1ac5f24f8c7d0635064c97751dd7985b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873611373,
-    "wof:lastmodified":1466670151,
+    "wof:lastmodified":1510697581,
     "wof:name":"AFSCME",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

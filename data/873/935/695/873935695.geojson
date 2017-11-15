@@ -2,6 +2,10 @@
   "id": 873935695,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 South Main Street PO Box 659 Wolfeboro NH 03894",
+    "addr:housenumber":"102;box 659",
+    "addr:postcode":"03894",
+    "addr:street":"South Main Street Po",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873935695,
-    "wof:lastmodified":1466672879,
+    "wof:lastmodified":1472634409,
     "wof:name":"Carpenter School",
     "wof:parent_id":85858451,
     "wof:placetype":"venue",

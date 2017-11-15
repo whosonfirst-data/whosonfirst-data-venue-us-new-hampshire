@@ -2,6 +2,10 @@
   "id": 873928267,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 S Main St Unit 222 Concord NH 03301",
+    "addr:housenumber":"26;222",
+    "addr:postcode":"03301",
+    "addr:street":"S Main St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873928267,
-    "wof:lastmodified":1466672731,
+    "wof:lastmodified":1472634398,
     "wof:name":"Metroinfo - Local Certified Florist",
     "wof:parent_id":85892219,
     "wof:placetype":"venue",

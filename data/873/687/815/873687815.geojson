@@ -2,14 +2,20 @@
   "id": 873687815,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 Union Ave Laconia NH 03246",
+    "addr:housenumber":"366",
+    "addr:postcode":"03246",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.463346,43.535366,-71.463346,43.535366",
     "geom:latitude":43.535366,
     "geom:longitude":-71.463346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"366 Union Ave",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086503,
         85829307
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fcJO6YOZhxITHgrdztfVX_43.535366_-71.463346@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296215,
-    "wof:geomhash":"face22f6403a717354b0c32666fccf42",
+    "wof:geomhash":"f3f1b92a769ecabab501b731bcea8846",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873687815,
-    "wof:lastmodified":1466670607,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":85829307,
     "wof:placetype":"venue",

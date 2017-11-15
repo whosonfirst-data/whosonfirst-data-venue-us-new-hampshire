@@ -2,6 +2,10 @@
   "id": 873688217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Elm St Manchester NH 03101",
+    "addr:housenumber":"1001",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873688217,
-    "wof:lastmodified":1466670573,
+    "wof:lastmodified":1472634159,
     "wof:name":"Land America Financial Group",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

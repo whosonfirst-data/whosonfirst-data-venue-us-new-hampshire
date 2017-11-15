@@ -2,14 +2,20 @@
   "id": 873897155,
   "type": "Feature",
   "properties": {
+    "addr:full":"7 Lamprey River Trailer Park Newmarket NH 03857",
+    "addr:housenumber":"7",
+    "addr:postcode":"03857",
+    "addr:street":"Lamprey River Trailer Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.930776,43.07929,-70.930776,43.07929",
     "geom:latitude":43.07929,
     "geom:longitude":-70.930776,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7 Lamprey River Trailer Park",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85845477,
         102086507
     ],
+    "wof:brand_id":1125151543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I1cj7oQSC4IHXABh1dVGa_43.079290_-70.930776@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299768,
-    "wof:geomhash":"37e22c6b7888489d2910b02a8d417da9",
+    "wof:geomhash":"b1e386a6f65333f2be5228804c36c477",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873897155,
-    "wof:lastmodified":1466672348,
+    "wof:lastmodified":1510695395,
     "wof:name":"Computer Troubleshooters",
     "wof:parent_id":85845477,
     "wof:placetype":"venue",

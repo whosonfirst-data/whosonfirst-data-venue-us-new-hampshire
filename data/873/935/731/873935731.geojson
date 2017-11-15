@@ -2,14 +2,20 @@
   "id": 873935731,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 N Line Rd Wolfeboro NH 03894",
+    "addr:housenumber":"3",
+    "addr:postcode":"03894",
+    "addr:street":"N Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.171473,43.619848,-71.171473,43.619848",
     "geom:latitude":43.619848,
     "geom:longitude":-71.171473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 N Line Rd",
     "sg:city":"Wolfeboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85819137,
         102086581
     ],
+    "wof:brand_id":1125155881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48oSdn5gnBUWsu8WR6TQGk_43.619848_-71.171473@1303262241"
     },
     "wof:country":"US",
     "wof:created":1464300515,
-    "wof:geomhash":"82e832844b38c74b00ccf55790efed41",
+    "wof:geomhash":"93e48073f85a3743754b2f4b815a24c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873935731,
-    "wof:lastmodified":1466672828,
+    "wof:lastmodified":1510700025,
     "wof:name":"Bartlett Tree Experts",
     "wof:parent_id":85819137,
     "wof:placetype":"venue",

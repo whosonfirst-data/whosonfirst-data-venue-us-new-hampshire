@@ -2,6 +2,10 @@
   "id": 873647823,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Nashua Rd Londonderry NH 03053",
+    "addr:housenumber":"123",
+    "addr:postcode":"03053",
+    "addr:street":"Nashua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873647823,
-    "wof:lastmodified":1466670370,
+    "wof:lastmodified":1472634213,
     "wof:name":"Winter Harbor Coffee",
     "wof:parent_id":420526321,
     "wof:placetype":"venue",

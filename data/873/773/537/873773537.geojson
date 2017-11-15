@@ -2,6 +2,10 @@
   "id": 873773537,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 N Main St Concord NH 03301",
+    "addr:housenumber":"107",
+    "addr:postcode":"03301",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873773537,
-    "wof:lastmodified":1466671193,
+    "wof:lastmodified":1472634278,
     "wof:name":"State House",
     "wof:parent_id":85892217,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873804877,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 Main St Plymouth NH 03264",
+    "addr:housenumber":"190",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873804877,
-    "wof:lastmodified":1466671445,
+    "wof:lastmodified":1472634299,
     "wof:name":"Plymouth Area Renewable Energy",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

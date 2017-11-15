@@ -2,14 +2,20 @@
   "id": 873926655,
   "type": "Feature",
   "properties": {
+    "addr:full":"649 Mast Rd Manchester NH 03102",
+    "addr:housenumber":"649",
+    "addr:postcode":"03102",
+    "addr:street":"Mast Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.509071,42.99534,-71.509071,42.99534",
     "geom:latitude":42.99534,
     "geom:longitude":-71.509071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"649 Mast Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         85841655,
         102085493
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65K3hZuG6mrlCoFaLp5qzT_42.995340_-71.509071@1303262240"
     },
     "wof:country":"US",
     "wof:created":1464300340,
-    "wof:geomhash":"af415cbdb00851c1664f80aa432d29c1",
+    "wof:geomhash":"817d74ef5701c8009aeb1a5d536101d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":873926655,
-    "wof:lastmodified":1466672778,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85841655,
     "wof:placetype":"venue",

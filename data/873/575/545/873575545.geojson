@@ -2,14 +2,20 @@
   "id": 873575545,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Elm St Manchester NH 03101",
+    "addr:housenumber":"41",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.462948,42.974934,-71.462948,42.974934",
     "geom:latitude":42.974934,
     "geom:longitude":-71.462948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 Elm St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125150095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6om4lDNzk8PaBMnNZuABrx_42.974934_-71.462948@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294669,
-    "wof:geomhash":"6b06c5a2e7c001ac54140e6dd62b2840",
+    "wof:geomhash":"08758caa01d5598fe63a7ccedec28114",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873575545,
-    "wof:lastmodified":1466669963,
+    "wof:lastmodified":1510695710,
     "wof:name":"Sir Speedy",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

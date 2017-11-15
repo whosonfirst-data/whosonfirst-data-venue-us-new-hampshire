@@ -2,14 +2,20 @@
   "id": 873808359,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Borthwick Ave Portsmouth NH 03801",
+    "addr:housenumber":"330",
+    "addr:postcode":"03801",
+    "addr:street":"Borthwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.795104,43.060145,-70.795104,43.060145",
     "geom:latitude":43.060145,
     "geom:longitude":-70.795104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Borthwick Ave",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125155113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f6wj8ebrLqEwH6rJkKewl_43.060145_-70.795104@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297897,
-    "wof:geomhash":"8baa500f33b007f5ad2dc50e35e578cc",
+    "wof:geomhash":"ce109ecc04810cde3d6e7227a03be886",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873808359,
-    "wof:lastmodified":1466671450,
+    "wof:lastmodified":1510696829,
     "wof:name":"Dermatology Associates",
     "wof:parent_id":420526333,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873741633,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Exchange St Berlin NH 03570",
+    "addr:housenumber":"26",
+    "addr:postcode":"03570",
+    "addr:street":"Exchange St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.184074,44.467772,-71.184074,44.467772",
     "geom:latitude":44.467772,
     "geom:longitude":-71.184074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Exchange St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":1125157891,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_122yAxGYKVbjEmSobZsQtW_44.467772_-71.184074@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296949,
-    "wof:geomhash":"3600fc425040139076de01dea7ddc446",
+    "wof:geomhash":"bac1f1136671d6c0e5d04b6920ac087c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873741633,
-    "wof:lastmodified":1466670990,
+    "wof:lastmodified":1510694209,
     "wof:name":"Living Word Church",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

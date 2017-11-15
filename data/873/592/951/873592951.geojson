@@ -2,14 +2,20 @@
   "id": 873592951,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 S River Rd Bedford NH 03110",
+    "addr:housenumber":"160",
+    "addr:postcode":"03110",
+    "addr:street":"S River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.477122,42.949306,-71.477122,42.949306",
     "geom:latitude":42.949306,
     "geom:longitude":-71.477122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 S River Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":1125155701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iGwLxLBlmKeEIwT5DZoJP_42.949306_-71.477122@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294868,
-    "wof:geomhash":"a879067d4aa92e25f40abf76a2e465f5",
+    "wof:geomhash":"c595454ae3029acb1f36ec750be4b787",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873592951,
-    "wof:lastmodified":1466670090,
+    "wof:lastmodified":1510694623,
     "wof:name":"Unisys Corp",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873888643,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 US Hwy 1 Byp Portsmouth NH 03801",
+    "addr:housenumber":"445",
+    "addr:postcode":"03801",
+    "addr:street":"Us Hwy 1 Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873888643,
-    "wof:lastmodified":1466672328,
+    "wof:lastmodified":1472634355,
     "wof:name":"Eastern Fishing & Outdoor Expo",
     "wof:parent_id":85833399,
     "wof:placetype":"venue",

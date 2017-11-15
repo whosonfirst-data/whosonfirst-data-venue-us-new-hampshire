@@ -2,14 +2,20 @@
   "id": 873557197,
   "type": "Feature",
   "properties": {
+    "addr:full":"65 Winter St Claremont NH 03743",
+    "addr:housenumber":"65",
+    "addr:postcode":"03743",
+    "addr:street":"Winter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.33272,43.378919,-72.33272,43.378919",
     "geom:latitude":43.378919,
     "geom:longitude":-72.33272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"65 Winter St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086583,
         85688689
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2joLM4bCE32QwDHfnO4kJ7_43.378919_-72.332720@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294463,
-    "wof:geomhash":"49be4537a056e331f15388f24bb29647",
+    "wof:geomhash":"2895ccbe3201d054897b68a561d17cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873557197,
-    "wof:lastmodified":1466669829,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":420526487,
     "wof:placetype":"venue",

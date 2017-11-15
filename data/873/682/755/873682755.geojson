@@ -2,14 +2,20 @@
   "id": 873682755,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Emerald Dr Barrington NH 03825",
+    "addr:housenumber":"40",
+    "addr:postcode":"03825",
+    "addr:street":"Emerald Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.020835,43.154316,-71.020835,43.154316",
     "geom:latitude":43.154316,
     "geom:longitude":-71.020835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Emerald Dr",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85830123,
         102085609
     ],
+    "wof:brand_id":1125153613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y4Vl6IlYUcE0bSdPQp8xN_43.154316_-71.020835@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296074,
-    "wof:geomhash":"3144e8b73822d96cdc20eb0e13ed620e",
+    "wof:geomhash":"4b625f5b9465d73035b134c7abd63134",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873682755,
-    "wof:lastmodified":1466670582,
+    "wof:lastmodified":1510697972,
     "wof:name":"International Brotherhood",
     "wof:parent_id":85830123,
     "wof:placetype":"venue",

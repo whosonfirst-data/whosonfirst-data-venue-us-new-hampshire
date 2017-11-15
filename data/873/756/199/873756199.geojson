@@ -2,14 +2,20 @@
   "id": 873756199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1147 Union Ave Laconia NH 03246",
+    "addr:housenumber":"1147",
+    "addr:postcode":"03246",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.45485,43.557207,-71.45485,43.557207",
     "geom:latitude":43.557207,
     "geom:longitude":-71.45485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1147 Union Ave",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086503,
         85892251
     ],
+    "wof:brand_id":420574533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yjA1vOeJLKd6lLB8KjnsO_43.557207_-71.454850@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297159,
-    "wof:geomhash":"77e73ac49fb2610bc1a43c042c3a5e27",
+    "wof:geomhash":"22dd008b22c4b3829cb42ad92dd92127",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873756199,
-    "wof:lastmodified":1466671046,
+    "wof:lastmodified":1510604288,
     "wof:name":"Valvoline Instant Oil Change",
     "wof:parent_id":85892251,
     "wof:placetype":"venue",

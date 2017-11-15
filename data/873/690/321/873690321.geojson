@@ -2,6 +2,10 @@
   "id": 873690321,
   "type": "Feature",
   "properties": {
+    "addr:full":"69 Main St Peterborough NH 03458",
+    "addr:housenumber":"69",
+    "addr:postcode":"03458",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873690321,
-    "wof:lastmodified":1466670609,
+    "wof:lastmodified":1472634169,
     "wof:name":"Sentry Business",
     "wof:parent_id":85831847,
     "wof:placetype":"venue",

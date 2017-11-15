@@ -2,14 +2,20 @@
   "id": 873642185,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Jefferson Rd Whitefield NH 03598",
+    "addr:housenumber":"28",
+    "addr:postcode":"03598",
+    "addr:street":"Jefferson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.609706,44.373039,-71.609706,44.373039",
     "geom:latitude":44.373039,
     "geom:longitude":-71.609706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"28 Jefferson Rd",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85847413,
         102085529
     ],
+    "wof:brand_id":420575689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m5bPhY60MXr7Dqj1xFZ1K_44.373039_-71.609706@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295501,
-    "wof:geomhash":"68b5d65dd5c9cd854669b2dac7a3fc5b",
+    "wof:geomhash":"3bebeb0febd34601f474ade38fd7ef50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873642185,
-    "wof:lastmodified":1466670307,
+    "wof:lastmodified":1510602099,
     "wof:name":"Meals On Wheels",
     "wof:parent_id":85847413,
     "wof:placetype":"venue",

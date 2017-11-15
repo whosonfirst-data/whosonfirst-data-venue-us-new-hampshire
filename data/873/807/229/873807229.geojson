@@ -2,14 +2,20 @@
   "id": 873807229,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Maple St Manchester NH 03103",
+    "addr:housenumber":"228",
+    "addr:postcode":"03103",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.452972,42.981337,-71.452972,42.981337",
     "geom:latitude":42.981337,
     "geom:longitude":-71.452972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"228 Maple St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125157205,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lo3C9wczsOXgis9KG9TQL_42.981337_-71.452972@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297875,
-    "wof:geomhash":"82df9d52d80d9b48f77687dff4fd522f",
+    "wof:geomhash":"06f8b2156ceac7946058610620b8c76d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873807229,
-    "wof:lastmodified":1466671426,
+    "wof:lastmodified":1510697241,
     "wof:name":"Maxim Healthcare Svc",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

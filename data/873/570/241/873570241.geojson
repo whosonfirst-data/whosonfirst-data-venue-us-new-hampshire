@@ -2,14 +2,20 @@
   "id": 873570241,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Milton Rd Rochester NH 03868",
+    "addr:housenumber":"5",
+    "addr:postcode":"03868",
+    "addr:street":"Milton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.975698,43.318875,-70.975698,43.318875",
     "geom:latitude":43.318875,
     "geom:longitude":-70.975698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Milton Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aSzGXDMfvCqly2klwKY1s_43.318875_-70.975698@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294613,
-    "wof:geomhash":"9989c33677c5ce9176859f3b42384e43",
+    "wof:geomhash":"d1418a618182932536f4a59abdc36f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873570241,
-    "wof:lastmodified":1466669908,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

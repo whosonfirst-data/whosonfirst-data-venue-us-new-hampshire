@@ -2,14 +2,20 @@
   "id": 873702497,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Venture Dr Dover NH 03820",
+    "addr:housenumber":"71",
+    "addr:postcode":"03820",
+    "addr:street":"Venture Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.909401,43.221561,-70.909401,43.221561",
     "geom:latitude":43.221561,
     "geom:longitude":-70.909401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Venture Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VmLU85cfhqCU9Xys24LMk_43.221561_-70.909401@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296430,
-    "wof:geomhash":"98d0a373d0c1a98e2ff9a9b89c591783",
+    "wof:geomhash":"dc1b655a627024c73a788a4c0b150a02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873702497,
-    "wof:lastmodified":1466670696,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":420526423,
     "wof:placetype":"venue",

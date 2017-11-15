@@ -2,14 +2,20 @@
   "id": 873837091,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Cottage Cir West Lebanon NH 03784",
+    "addr:housenumber":"71",
+    "addr:postcode":"03784",
+    "addr:street":"Cottage Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.300492,43.641217,-72.300492,43.641217",
     "geom:latitude":43.641217,
     "geom:longitude":-72.300492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Cottage Cir",
     "sg:city":"West Lebanon",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086567,
         85688689
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QNdv35lyisLgpDOJyWvvB_43.641217_-72.300492@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298486,
-    "wof:geomhash":"509b5a811449efca075482b8dd63d40f",
+    "wof:geomhash":"8d24e701a7c16c3effb226751e749c24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873837091,
-    "wof:lastmodified":1466671695,
+    "wof:lastmodified":1510602923,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85816939,
     "wof:placetype":"venue",

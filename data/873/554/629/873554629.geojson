@@ -2,6 +2,10 @@
   "id": 873554629,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Kimball Hill Rd Hudson NH 03051",
+    "addr:housenumber":"123",
+    "addr:postcode":"03051",
+    "addr:street":"Kimball Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873554629,
-    "wof:lastmodified":1466669873,
+    "wof:lastmodified":1472634220,
     "wof:name":"Living Legends Farm Inc",
     "wof:parent_id":85837895,
     "wof:placetype":"venue",

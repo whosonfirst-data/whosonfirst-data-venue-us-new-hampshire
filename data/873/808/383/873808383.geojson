@@ -2,14 +2,20 @@
   "id": 873808383,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Hampshire St Salem NH 03079",
+    "addr:housenumber":"5",
+    "addr:postcode":"03079",
+    "addr:street":"Hampshire St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.197056,42.74225,-71.197056,42.74225",
     "geom:latitude":42.74225,
     "geom:longitude":-71.197056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Hampshire St",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084463,
         85823749
     ],
+    "wof:brand_id":1125153223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15XS9sIan1Iyas7cHAJXTl_42.742250_-71.197056@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297898,
-    "wof:geomhash":"9285f697ccd6d9509f52b89db3eaa6fc",
+    "wof:geomhash":"82ef5bbca0652e56ad89c7b23ca837f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873808383,
-    "wof:lastmodified":1466671453,
+    "wof:lastmodified":1510699566,
     "wof:name":"Home Interiors & Gifts",
     "wof:parent_id":85823749,
     "wof:placetype":"venue",

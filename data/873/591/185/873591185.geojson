@@ -2,14 +2,20 @@
   "id": 873591185,
   "type": "Feature",
   "properties": {
+    "addr:full":"254 Sheep Davis Rd Concord NH 03301",
+    "addr:housenumber":"254",
+    "addr:postcode":"03301",
+    "addr:street":"Sheep Davis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.48319,43.215426,-71.48319,43.215426",
     "geom:latitude":43.215426,
     "geom:longitude":-71.48319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"254 Sheep Davis Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125151467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Nzaig8oSIfTFg1NJ4PzOx_43.215426_-71.483190@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294846,
-    "wof:geomhash":"e4e113956d612dcd9b644dea1fe7ac76",
+    "wof:geomhash":"da0ee785d58ecefcd4db1bb30264c52e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873591185,
-    "wof:lastmodified":1466670027,
+    "wof:lastmodified":1510613180,
     "wof:name":"Consolidated Electrical Distr",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

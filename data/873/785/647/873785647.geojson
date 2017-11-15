@@ -2,14 +2,20 @@
   "id": 873785647,
   "type": "Feature",
   "properties": {
+    "addr:full":"351 Stage Rd Plainfield NH 03770",
+    "addr:housenumber":"351",
+    "addr:postcode":"03770",
+    "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.300511,43.531926,-72.300511,43.531926",
     "geom:latitude":43.531926,
     "geom:longitude":-72.300511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"351 Stage Rd",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85850831,
         102086583
     ],
+    "wof:brand_id":1125157407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0crp7KCzt9jL9XC9r28gFn_43.531926_-72.300511@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297563,
-    "wof:geomhash":"7f70419421b0fe8b93e8d9d1f52fca4f",
+    "wof:geomhash":"fa0036f40038a2b84e7ff36f11a5fbdf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873785647,
-    "wof:lastmodified":1466671285,
+    "wof:lastmodified":1510697475,
     "wof:name":"Highway Garage",
     "wof:parent_id":85850831,
     "wof:placetype":"venue",

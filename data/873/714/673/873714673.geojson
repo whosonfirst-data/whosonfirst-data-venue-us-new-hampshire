@@ -2,14 +2,20 @@
   "id": 873714673,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 US Hwy 4 Portsmouth NH 03801",
+    "addr:housenumber":"210",
+    "addr:postcode":"03801",
+    "addr:street":"Us Hwy 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.783977,43.075604,-70.783977,43.075604",
     "geom:latitude":43.075604,
     "geom:longitude":-70.783977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 US Hwy 4",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UcadHNuEIReQXdWOzlj5z_43.075604_-70.783977@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296577,
-    "wof:geomhash":"9e6bda3dc53e03ddc1b690f60afeee1f",
+    "wof:geomhash":"532be7d7ef1c4cb01a6701f1d9bd191e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873714673,
-    "wof:lastmodified":1466670800,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85833399,
     "wof:placetype":"venue",

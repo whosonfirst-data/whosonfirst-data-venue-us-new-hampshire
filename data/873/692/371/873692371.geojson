@@ -2,14 +2,20 @@
   "id": 873692371,
   "type": "Feature",
   "properties": {
+    "addr:full":"439 Whittier Hwy Center Sandwich NH 03227",
+    "addr:housenumber":"439",
+    "addr:postcode":"03227",
+    "addr:street":"Whittier Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.427211,43.728235,-71.427211,43.728235",
     "geom:latitude":43.728235,
     "geom:longitude":-71.427211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"439 Whittier Hwy",
     "sg:city":"Center Sandwich",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85835419,
         102086581
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bl9k9jwGV0ZMNCj4YvwYX_43.728235_-71.427211@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296320,
-    "wof:geomhash":"486a261fd37f4d26e36bf78e659ed224",
+    "wof:geomhash":"2ccd2cba6e6a7369516ff4f9bd4d5400",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873692371,
-    "wof:lastmodified":1466670616,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85835419,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873743597,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 String Brg Exeter NH 03833",
+    "addr:housenumber":"10;brg",
+    "addr:postcode":"03833",
+    "addr:street":"String",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873743597,
-    "wof:lastmodified":1466670974,
+    "wof:lastmodified":1472634270,
     "wof:name":"Janet Tucker",
     "wof:parent_id":85827281,
     "wof:placetype":"venue",

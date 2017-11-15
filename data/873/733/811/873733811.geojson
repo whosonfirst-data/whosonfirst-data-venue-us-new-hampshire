@@ -2,14 +2,20 @@
   "id": 873733811,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 W Milton Rd Farmington NH 03835",
+    "addr:housenumber":"5",
+    "addr:postcode":"03835",
+    "addr:street":"W Milton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.062799,43.402731,-71.062799,43.402731",
     "geom:latitude":43.402731,
     "geom:longitude":-71.062799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 W Milton Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125150185,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mv3oryBjqrV50TXvuMKOy_43.402731_-71.062799@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296828,
-    "wof:geomhash":"f64d77054c17f158286b03f2d7dd2b9a",
+    "wof:geomhash":"0cf665e6545331f462b4e74b1c594b5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873733811,
-    "wof:lastmodified":1466670946,
+    "wof:lastmodified":1510697298,
     "wof:name":"Claire's Accessories",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",

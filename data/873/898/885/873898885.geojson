@@ -2,14 +2,20 @@
   "id": 873898885,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Antrim Rd Hillsboro NH 03244",
+    "addr:housenumber":"15",
+    "addr:postcode":"03244",
+    "addr:street":"Antrim Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.919666,43.110207,-71.919666,43.110207",
     "geom:latitude":43.110207,
     "geom:longitude":-71.919666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Antrim Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85825573,
         102085493
     ],
+    "wof:brand_id":1125150729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vBSzY6MvAmE8ETm1aBIya_43.110207_-71.919666@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299797,
-    "wof:geomhash":"aa3545a56ef7b75af446c9c6d8c6c2e4",
+    "wof:geomhash":"17370dd66714d70ea2bf82e58ca3f3c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873898885,
-    "wof:lastmodified":1466672466,
+    "wof:lastmodified":1510695866,
     "wof:name":"Wireless Zone",
     "wof:parent_id":85825573,
     "wof:placetype":"venue",

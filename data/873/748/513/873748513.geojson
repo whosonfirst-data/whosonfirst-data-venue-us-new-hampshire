@@ -2,14 +2,20 @@
   "id": 873748513,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Main St Plymouth NH 03264",
+    "addr:housenumber":"95",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.687444,43.759166,-71.687444,43.759166",
     "geom:latitude":43.759166,
     "geom:longitude":-71.687444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 Main St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85806347,
         102086567
     ],
+    "wof:brand_id":420575397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DnidiGHYtajHpHj3bJ1c7_43.759166_-71.687444@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297056,
-    "wof:geomhash":"8e0b45234c5ef15050d94617b5e0edf6",
+    "wof:geomhash":"202c46ee6872285aac3dec4ed7cc12b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873748513,
-    "wof:lastmodified":1466671009,
+    "wof:lastmodified":1510602743,
     "wof:name":"Jazzercise",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

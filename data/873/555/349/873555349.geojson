@@ -2,6 +2,10 @@
   "id": 873555349,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Chestnut St Nashua NH 03060",
+    "addr:housenumber":"42",
+    "addr:postcode":"03060",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873555349,
-    "wof:lastmodified":1466669827,
+    "wof:lastmodified":1472634148,
     "wof:name":"Nashua Soup Kitchen & Shelter",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

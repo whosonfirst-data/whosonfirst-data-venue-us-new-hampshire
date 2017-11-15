@@ -2,14 +2,20 @@
   "id": 873917969,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 S Main St Concord NH 03301",
+    "addr:housenumber":"125",
+    "addr:postcode":"03301",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.531305,43.198278,-71.531305,43.198278",
     "geom:latitude":43.198278,
     "geom:longitude":-71.531305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 S Main St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nDoXWZEsnqdZkoSamRB4V_43.198278_-71.531305@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300176,
-    "wof:geomhash":"d4b060444d93e45017c84dd1f656d518",
+    "wof:geomhash":"dcc04ec9c025753e685dc0c26f858db6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873917969,
-    "wof:lastmodified":1466672701,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85892219,
     "wof:placetype":"venue",

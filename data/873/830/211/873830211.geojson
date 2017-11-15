@@ -2,6 +2,10 @@
   "id": 873830211,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Russell St Keene NH 03431",
+    "addr:housenumber":"12",
+    "addr:postcode":"03431",
+    "addr:street":"Russell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873830211,
-    "wof:lastmodified":1466671687,
+    "wof:lastmodified":1472634311,
     "wof:name":"Princeton Labs Inc",
     "wof:parent_id":85868011,
     "wof:placetype":"venue",

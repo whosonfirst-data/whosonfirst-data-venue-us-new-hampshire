@@ -2,14 +2,20 @@
   "id": 873915181,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Daniel Webster Hwy Nashua NH 03060",
+    "addr:housenumber":"314",
+    "addr:postcode":"03060",
+    "addr:street":"Daniel Webster Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.440962,42.702777,-71.440962,42.702777",
     "geom:latitude":42.702777,
     "geom:longitude":-71.440962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 Daniel Webster Hwy",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125159663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KZdmsyIeDeIBpokOiH5Sw_42.703235_-71.440921@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464300111,
-    "wof:geomhash":"7dff137c416328cb7772eab485ca412b",
+    "wof:geomhash":"1ff3dd628023b56a7eeda659b5fcc816",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873915181,
-    "wof:lastmodified":1466672577,
+    "wof:lastmodified":1510694926,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873787853,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Daniel Webster Hwy Nashua NH 03060",
+    "addr:housenumber":"225",
+    "addr:postcode":"03060",
+    "addr:street":"Daniel Webster Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.442617,42.712645,-71.442617,42.712645",
     "geom:latitude":42.712645,
     "geom:longitude":-71.442617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 Daniel Webster Hwy",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125150329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q5oVBzyMiQevcmuH5xy5B_42.712645_-71.442617@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297609,
-    "wof:geomhash":"c6106e6a22bd15ecc24d8566bbae62c1",
+    "wof:geomhash":"29e930d097d1c8550afe59b42c974660",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873787853,
-    "wof:lastmodified":1466671309,
+    "wof:lastmodified":1510694575,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873778999,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Lowell Rd Salem NH 03079",
+    "addr:housenumber":"149",
+    "addr:postcode":"03079",
+    "addr:street":"Lowell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.263594,42.758341,-71.263594,42.758341",
     "geom:latitude":42.758341,
     "geom:longitude":-71.263594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"149 Lowell Rd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85811539,
         102086507
     ],
+    "wof:brand_id":420575357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QYklmzQQ2l9mFwS73XjaV_42.758341_-71.263594@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297476,
-    "wof:geomhash":"cf72888d863bc507d6234e2fc6c00d5c",
+    "wof:geomhash":"7bb5e8586741de9ac01cec21cc1e0d60",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873778999,
-    "wof:lastmodified":1466671279,
+    "wof:lastmodified":1510602999,
     "wof:name":"ServiceMaster",
     "wof:parent_id":85811539,
     "wof:placetype":"venue",

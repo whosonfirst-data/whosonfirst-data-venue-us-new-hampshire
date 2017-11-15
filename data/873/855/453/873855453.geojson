@@ -2,14 +2,20 @@
   "id": 873855453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Boulder Dr Barrington NH 03825",
+    "addr:housenumber":"3",
+    "addr:postcode":"03825",
+    "addr:street":"Boulder Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.091797,43.233932,-71.091797,43.233932",
     "geom:latitude":43.233932,
     "geom:longitude":-71.091797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Boulder Dr",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85822215,
         102085609
     ],
+    "wof:brand_id":420574727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JLLXgQtm6VlmFOpNUHoc0_43.233932_-71.091797@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298923,
-    "wof:geomhash":"032545bc7495658abf39db8b29238eb3",
+    "wof:geomhash":"d75f6866173bd35e74ac4507eb997db3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873855453,
-    "wof:lastmodified":1466671987,
+    "wof:lastmodified":1510604657,
     "wof:name":"Snap-On Tools",
     "wof:parent_id":85822215,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873692967,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 French Mill Rd Hollis NH 03049",
+    "addr:housenumber":"5",
+    "addr:postcode":"03049",
+    "addr:street":"French Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.566547,42.726388,-71.566547,42.726388",
     "geom:latitude":42.726388,
     "geom:longitude":-71.566547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 French Mill Rd",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85825933,
         102085493
     ],
+    "wof:brand_id":1125152785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02kSfRN1AyPTsGSJUIPN9T_42.726388_-71.566547@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296327,
-    "wof:geomhash":"756064fbc188af0b8d1da0f3d332dcf4",
+    "wof:geomhash":"08890269db3f9d6d16bcdebc2be97e8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873692967,
-    "wof:lastmodified":1466670663,
+    "wof:lastmodified":1510697423,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85825933,
     "wof:placetype":"venue",

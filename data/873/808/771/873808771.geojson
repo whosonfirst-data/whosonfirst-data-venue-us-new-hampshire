@@ -2,14 +2,20 @@
   "id": 873808771,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 River Rd Newington NH 03801",
+    "addr:housenumber":"19",
+    "addr:postcode":"03801",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.811093,43.10494,-70.811093,43.10494",
     "geom:latitude":43.10494,
     "geom:longitude":-70.811093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 River Rd",
     "sg:city":"Newington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85892299,
         102086507
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JrNItkSm1P5yi8jlPIsdA_43.104940_-70.811093@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297904,
-    "wof:geomhash":"5463c69f205644a82af067958e0639a7",
+    "wof:geomhash":"35a6b57be9020b5aaa20fb8300b63cd5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873808771,
-    "wof:lastmodified":1466671504,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85892299,
     "wof:placetype":"venue",

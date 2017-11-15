@@ -2,14 +2,20 @@
   "id": 873744949,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Wedgewood Rd Portsmouth NH 03801",
+    "addr:housenumber":"40",
+    "addr:postcode":"03801",
+    "addr:street":"Wedgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.797614,43.092245,-70.797614,43.092245",
     "geom:latitude":43.092245,
     "geom:longitude":-70.797614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Wedgewood Rd",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":420575689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rHA3DqF8wNS0qaqnvPL8M_43.092245_-70.797614@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297010,
-    "wof:geomhash":"5308d0ac97fbbe48472890f6f62ee423",
+    "wof:geomhash":"f523196ecd1dedb2368c3712ee2d5ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873744949,
-    "wof:lastmodified":1466671022,
+    "wof:lastmodified":1510602099,
     "wof:name":"Meals On Wheels",
     "wof:parent_id":85892293,
     "wof:placetype":"venue",

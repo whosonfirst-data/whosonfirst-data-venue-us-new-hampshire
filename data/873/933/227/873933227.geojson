@@ -2,14 +2,20 @@
   "id": 873933227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1584 White Mountain Hwy Unit 3 North Conway NH 03860",
+    "addr:housenumber":"1584",
+    "addr:postcode":"03860",
+    "addr:street":"White Mountain Hwy Unit 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.11822,44.025704,-71.11822,44.025704",
     "geom:latitude":44.025704,
     "geom:longitude":-71.11822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1584 White Mountain Hwy Unit 3",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85843529,
         102086581
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QqAJg3JhqOOaZYkM4zqZ4_44.025704_-71.118220@1303262241"
     },
     "wof:country":"US",
     "wof:created":1464300468,
-    "wof:geomhash":"22958b769f842a02083633bd55ebe80e",
+    "wof:geomhash":"7ad8d8a6002346ec4587984e1db095fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873933227,
-    "wof:lastmodified":1466672767,
+    "wof:lastmodified":1510602476,
     "wof:name":"T J Maxx",
     "wof:parent_id":85843529,
     "wof:placetype":"venue",

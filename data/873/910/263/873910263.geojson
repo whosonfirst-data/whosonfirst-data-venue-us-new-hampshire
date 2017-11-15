@@ -2,14 +2,20 @@
   "id": 873910263,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 N Broadway Salem NH 03079",
+    "addr:housenumber":"326",
+    "addr:postcode":"03079",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.244245,42.804624,-71.244245,42.804624",
     "geom:latitude":42.804624,
     "geom:longitude":-71.244245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"326 N Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85846769,
         102086507
     ],
+    "wof:brand_id":420574517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2josncfL8RHSycZhybHdeb_42.804624_-71.244245@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300018,
-    "wof:geomhash":"b2cbbcb9d7bac75a2098611533bb6bf0",
+    "wof:geomhash":"336087a69fd6701866fd4637328f4fd5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873910263,
-    "wof:lastmodified":1466672516,
+    "wof:lastmodified":1510604631,
     "wof:name":"Regal Nails",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",

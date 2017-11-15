@@ -2,14 +2,20 @@
   "id": 873915607,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Glen Ave Berlin NH 03570",
+    "addr:housenumber":"440",
+    "addr:postcode":"03570",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.187352,44.456772,-71.187352,44.456772",
     "geom:latitude":44.456772,
     "geom:longitude":-71.187352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"440 Glen Ave",
     "sg:city":"Berlin",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":1125150643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wZbR7aDNC79xJiRiWtPL8_44.456772_-71.187352@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300131,
-    "wof:geomhash":"9e5213933e8a7e3376aeb8373c6ebfa8",
+    "wof:geomhash":"a8210d0901cc1a867f91ecc062421040",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":873915607,
-    "wof:lastmodified":1466672635,
+    "wof:lastmodified":1510613318,
     "wof:name":"Ultramar",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

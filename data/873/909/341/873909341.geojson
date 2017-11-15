@@ -2,14 +2,20 @@
   "id": 873909341,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Keewaydin Salem NH 03079",
+    "addr:housenumber":"1",
+    "addr:postcode":"03079",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.245868,42.7749,-71.245868,42.7749",
     "geom:latitude":42.7749,
     "geom:longitude":-71.245868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Keewaydin",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85846769,
         102086507
     ],
+    "wof:brand_id":420574215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75zlFKKNHW7LDStuZeYQPl_42.774900_-71.245868@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300000,
-    "wof:geomhash":"33dcdf782574bc32f88ffc2bedce213f",
+    "wof:geomhash":"4f20579c76df83dd0483e4a10dd96466",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873909341,
-    "wof:lastmodified":1466672503,
+    "wof:lastmodified":1510604721,
     "wof:name":"Avis Rent A Car",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",

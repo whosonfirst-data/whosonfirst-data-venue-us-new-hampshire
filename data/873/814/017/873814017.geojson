@@ -2,14 +2,20 @@
   "id": 873814017,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Gilboa Ln Nashua NH 03062",
+    "addr:housenumber":"15",
+    "addr:postcode":"03062",
+    "addr:street":"Gilboa Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.471902,42.703702,-71.471902,42.703702",
     "geom:latitude":42.703702,
     "geom:longitude":-71.471902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Gilboa Ln",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K0k3uXGCH5T8tfponOVun_42.703702_-71.471902@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297996,
-    "wof:geomhash":"6be730a22e5fcf1a2fccd68cfb530acb",
+    "wof:geomhash":"79f66bb6eaf86183fed9eab4afad17ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873814017,
-    "wof:lastmodified":1466671427,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85892285,
     "wof:placetype":"venue",

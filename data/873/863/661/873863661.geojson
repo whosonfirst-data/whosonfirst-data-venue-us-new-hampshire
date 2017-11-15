@@ -2,14 +2,20 @@
   "id": 873863661,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 State Rte 103 Warner NH 03278",
+    "addr:housenumber":"30",
+    "addr:postcode":"03278",
+    "addr:street":"State Rte 103",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.814341,43.279849,-71.814341,43.279849",
     "geom:latitude":43.279849,
     "geom:longitude":-71.814341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 State Rte 103",
     "sg:city":"Warner",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85854707,
         102086515
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gdq64gzTfY552WCVDhxRA_43.279849_-71.814341@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299108,
-    "wof:geomhash":"d63312d39d1401656314ac2f1979126d",
+    "wof:geomhash":"4d8a05c679419f7d2f9c560d88346923",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873863661,
-    "wof:lastmodified":1466672064,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85854707,
     "wof:placetype":"venue",

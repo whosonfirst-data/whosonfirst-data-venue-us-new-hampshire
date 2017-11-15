@@ -2,14 +2,20 @@
   "id": 873557581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Main St Concord NH 03301",
+    "addr:housenumber":"1",
+    "addr:postcode":"03301",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.535714,43.204237,-71.535714,43.204237",
     "geom:latitude":43.204237,
     "geom:longitude":-71.535714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 S Main St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OQne4ZYL7q0uPhK0qIH5x_43.204237_-71.535714@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294466,
-    "wof:geomhash":"b618c452644dbf77af8b3989e6c7315f",
+    "wof:geomhash":"62a8c67e80b2a5fc069d356520310250",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873557581,
-    "wof:lastmodified":1466669857,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85892219,
     "wof:placetype":"venue",

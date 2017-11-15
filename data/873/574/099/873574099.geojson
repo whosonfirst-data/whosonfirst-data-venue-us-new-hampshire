@@ -2,14 +2,20 @@
   "id": 873574099,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Hayward St Manchester NH 03103",
+    "addr:housenumber":"140",
+    "addr:postcode":"03103",
+    "addr:street":"Hayward St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.461773,42.979913,-71.461773,42.979913",
     "geom:latitude":42.979913,
     "geom:longitude":-71.461773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Hayward St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cqsRxOQWnXOCtsPq49ndB_42.979913_-71.461773@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294653,
-    "wof:geomhash":"0ed26569b82611b96d2e795a8c193bce",
+    "wof:geomhash":"cfee6030496989ed6971b502ff3ef277",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873574099,
-    "wof:lastmodified":1466669927,
+    "wof:lastmodified":1510693929,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

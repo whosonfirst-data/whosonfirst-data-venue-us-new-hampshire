@@ -2,14 +2,20 @@
   "id": 873844761,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Main St Berlin NH 03570",
+    "addr:housenumber":"185",
+    "addr:postcode":"03570",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.178001,44.471843,-71.178001,44.471843",
     "geom:latitude":44.471843,
     "geom:longitude":-71.178001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Main St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":420574403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jT7Wj7bm6OYqjH9vYc4CC_44.471843_-71.178001@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298678,
-    "wof:geomhash":"983f52db59a673d57daa6ebf40cc078b",
+    "wof:geomhash":"0776ef69f76c8e7bb654a24085f468fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873844761,
-    "wof:lastmodified":1466671909,
+    "wof:lastmodified":1510604237,
     "wof:name":"J C Penney Co",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

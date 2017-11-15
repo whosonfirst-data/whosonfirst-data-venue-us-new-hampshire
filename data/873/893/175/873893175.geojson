@@ -2,14 +2,20 @@
   "id": 873893175,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Ash Brook Rd Keene NH 03431",
+    "addr:housenumber":"38",
+    "addr:postcode":"03431",
+    "addr:street":"Ash Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.306207,42.923996,-72.306207,42.923996",
     "geom:latitude":42.923996,
     "geom:longitude":-72.306207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"38 Ash Brook Rd",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085643,
         85688689
     ],
+    "wof:brand_id":420575255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62uCXTaDH7qysODsAC8kdG_42.923996_-72.306207@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299691,
-    "wof:geomhash":"5e9448a818ff5d3105a1fa80a4def85f",
+    "wof:geomhash":"09b33b66bff050225d8c4c26a6c28577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873893175,
-    "wof:lastmodified":1466672339,
+    "wof:lastmodified":1510603009,
     "wof:name":"Game Stop Corp",
     "wof:parent_id":85868011,
     "wof:placetype":"venue",

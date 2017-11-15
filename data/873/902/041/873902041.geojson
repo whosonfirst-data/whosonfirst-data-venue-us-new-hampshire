@@ -2,14 +2,20 @@
   "id": 873902041,
   "type": "Feature",
   "properties": {
+    "addr:full":"228 Loudon Rd Concord NH 03301",
+    "addr:housenumber":"228",
+    "addr:postcode":"03301",
+    "addr:street":"Loudon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.492728,43.22266,-71.492728,43.22266",
     "geom:latitude":43.22266,
     "geom:longitude":-71.492728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"228 Loudon Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125159887,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IQQqO0A6iiqPnbmkHH1mg_43.222660_-71.492728@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299857,
-    "wof:geomhash":"1d21c05c7d8bde16b093ef269d704e7e",
+    "wof:geomhash":"0091ac491730ad4f196d2201ac56d496",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873902041,
-    "wof:lastmodified":1466672430,
+    "wof:lastmodified":1510697986,
     "wof:name":"House Of Style",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

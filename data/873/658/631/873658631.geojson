@@ -2,14 +2,20 @@
   "id": 873658631,
   "type": "Feature",
   "properties": {
+    "addr:full":"775 Lafayette Rd Portsmouth NH 03801",
+    "addr:housenumber":"775",
+    "addr:postcode":"03801",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.770316,43.052793,-70.770316,43.052793",
     "geom:latitude":43.052793,
     "geom:longitude":-70.770316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"775 Lafayette Rd",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125152229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PUeMPii9MMYXV86rU5zgV_43.052793_-70.770316@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295685,
-    "wof:geomhash":"06cc32bbc21644fcd752bdcef8642d18",
+    "wof:geomhash":"4335f2c822b915744a9b7e758f9b1e50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":873658631,
-    "wof:lastmodified":1466670421,
+    "wof:lastmodified":1510699279,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

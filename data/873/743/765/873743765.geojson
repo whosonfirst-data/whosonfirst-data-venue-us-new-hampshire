@@ -2,14 +2,20 @@
   "id": 873743765,
   "type": "Feature",
   "properties": {
+    "addr:full":"567 Pembroke St Suncook NH 03275",
+    "addr:housenumber":"567",
+    "addr:postcode":"03275",
+    "addr:street":"Pembroke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.486642,43.177288,-71.486642,43.177288",
     "geom:latitude":43.177288,
     "geom:longitude":-71.486642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"567 Pembroke St",
     "sg:city":"Suncook",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086515,
         85806829
     ],
+    "wof:brand_id":1125153745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aMXiwVMDw9c1AH7SvOmwj_43.177288_-71.486642@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296987,
-    "wof:geomhash":"8429736d7524cc4e251c9c641ceffe8d",
+    "wof:geomhash":"45b871c2b6a8d69f79a4782ec0e4b879",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873743765,
-    "wof:lastmodified":1466671003,
+    "wof:lastmodified":1510698499,
     "wof:name":"Better Homes and Gardens",
     "wof:parent_id":85806829,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873549543,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Delta Dr Londonderry NH 03053",
+    "addr:housenumber":"15",
+    "addr:postcode":"03053",
+    "addr:street":"Delta Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.418743,42.913038,-71.418743,42.913038",
     "geom:latitude":42.913038,
     "geom:longitude":-71.418743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Delta Dr",
     "sg:city":"Londonderry",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85892253,
         102086507
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dm6HITmtL4BABVtjd8thv_42.913038_-71.418743@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294372,
-    "wof:geomhash":"e96dd174c2dfa8b376dfe50b3205451c",
+    "wof:geomhash":"bf28bac2330ce68540e17ce35e7ccef6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873549543,
-    "wof:lastmodified":1466669783,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85892253,
     "wof:placetype":"venue",

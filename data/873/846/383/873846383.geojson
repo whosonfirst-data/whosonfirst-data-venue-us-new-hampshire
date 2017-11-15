@@ -2,6 +2,10 @@
   "id": 873846383,
   "type": "Feature",
   "properties": {
+    "addr:full":"361 Lincoln St Manchester NH 03103",
+    "addr:housenumber":"361",
+    "addr:postcode":"03103",
+    "addr:street":"Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873846383,
-    "wof:lastmodified":1466671849,
+    "wof:lastmodified":1472634347,
     "wof:name":"Health and Human Svcs NH Dept",
     "wof:parent_id":420526209,
     "wof:placetype":"venue",

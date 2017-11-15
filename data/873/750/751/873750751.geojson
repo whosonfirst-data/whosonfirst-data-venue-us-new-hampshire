@@ -2,6 +2,10 @@
   "id": 873750751,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Corporate Dr Portsmouth NH 03801",
+    "addr:housenumber":"360",
+    "addr:postcode":"03801",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873750751,
-    "wof:lastmodified":1466671059,
+    "wof:lastmodified":1472634287,
     "wof:name":"Environmental Services Dept",
     "wof:parent_id":85833399,
     "wof:placetype":"venue",

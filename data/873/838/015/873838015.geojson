@@ -2,14 +2,20 @@
   "id": 873838015,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Arboretum Dr Newington NH 03801",
+    "addr:housenumber":"4",
+    "addr:postcode":"03801",
+    "addr:street":"Arboretum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.843923,43.089564,-70.843923,43.089564",
     "geom:latitude":43.089564,
     "geom:longitude":-70.843923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Arboretum Dr",
     "sg:city":"Newington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85836823,
         102086507
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iSEszQiYP5W1b279O5lBm_43.089564_-70.843923@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298505,
-    "wof:geomhash":"f732d80a92f6191fcac6910dd1637f98",
+    "wof:geomhash":"60af33c83ca9a22d5b0cd56edff863b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873838015,
-    "wof:lastmodified":1466671686,
+    "wof:lastmodified":1510604883,
     "wof:name":"American Red Cross",
     "wof:parent_id":85836823,
     "wof:placetype":"venue",

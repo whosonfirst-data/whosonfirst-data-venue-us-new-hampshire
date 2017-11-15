@@ -2,14 +2,20 @@
   "id": 873551135,
   "type": "Feature",
   "properties": {
+    "addr:full":"767 Islington St Portsmouth NH 03801",
+    "addr:housenumber":"767",
+    "addr:postcode":"03801",
+    "addr:street":"Islington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.772218,43.069563,-70.772218,43.069563",
     "geom:latitude":43.069563,
     "geom:longitude":-70.772218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"767 Islington St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gPn4zRE2Y2hs0uoZM3qm4_43.069563_-70.772218@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294390,
-    "wof:geomhash":"912e8984c50eb4d835367479243ef71e",
+    "wof:geomhash":"9e418b20dc18ab32f03d70945bdbe20b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873551135,
-    "wof:lastmodified":1466669807,
+    "wof:lastmodified":1510602445,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

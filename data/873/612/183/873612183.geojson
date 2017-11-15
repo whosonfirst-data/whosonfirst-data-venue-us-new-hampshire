@@ -2,6 +2,10 @@
   "id": 873612183,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Andrew Jarvis Dr Portsmouth NH 03801",
+    "addr:housenumber":"50",
+    "addr:postcode":"03801",
+    "addr:street":"Andrew Jarvis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873612183,
-    "wof:lastmodified":1466670149,
+    "wof:lastmodified":1472634150,
     "wof:name":"Portsmouth High School",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

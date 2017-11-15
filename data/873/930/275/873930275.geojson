@@ -2,6 +2,10 @@
   "id": 873930275,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Brewery Ln Unit 14 Portsmouth NH 03801",
+    "addr:housenumber":"95;unit 14",
+    "addr:postcode":"03801",
+    "addr:street":"Brewery Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873930275,
-    "wof:lastmodified":1466672748,
+    "wof:lastmodified":1472634396,
     "wof:name":"Amedisys, Inc.",
     "wof:parent_id":420526353,
     "wof:placetype":"venue",

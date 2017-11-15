@@ -2,14 +2,20 @@
   "id": 873927325,
   "type": "Feature",
   "properties": {
+    "addr:full":"Center Barnstead NH 03218",
+    "addr:housenumber":"",
+    "addr:postcode":"03218",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.233704,43.310398,-71.233704,43.310398",
     "geom:latitude":43.310398,
     "geom:longitude":-71.233704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Center",
     "sg:city":"Barnstead",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85849429,
         102086503
     ],
+    "wof:brand_id":420575953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wc8U9mRYprqag5qQMYaHG_43.310398_-71.233704@1303262240"
     },
     "wof:country":"US",
     "wof:created":1464300351,
-    "wof:geomhash":"b409ddf8f22b881afcc3894a68a80727",
+    "wof:geomhash":"65d66554e44511587ea19e6b164a8b10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873927325,
-    "wof:lastmodified":1466672727,
+    "wof:lastmodified":1510602437,
     "wof:name":"United States Government",
     "wof:parent_id":85849429,
     "wof:placetype":"venue",

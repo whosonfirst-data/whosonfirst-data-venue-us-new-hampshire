@@ -2,14 +2,20 @@
   "id": 873919171,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 2nd St Manchester NH 03102",
+    "addr:housenumber":"900",
+    "addr:postcode":"03102",
+    "addr:street":"2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.479557,42.968571,-71.479557,42.968571",
     "geom:latitude":42.968571,
     "geom:longitude":-71.479557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 2nd St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Jm9qIJG0hx3sVUAgwBDT_42.968353_-71.479647@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300198,
-    "wof:geomhash":"8ffbc687107ce0497e32a3e758985f80",
+    "wof:geomhash":"44b8d2575dc43d08ea0da839ff2ea022",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873919171,
-    "wof:lastmodified":1466672604,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

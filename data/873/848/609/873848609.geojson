@@ -2,14 +2,20 @@
   "id": 873848609,
   "type": "Feature",
   "properties": {
+    "addr:full":"570 Meadow St Littleton NH 03561",
+    "addr:housenumber":"570",
+    "addr:postcode":"03561",
+    "addr:street":"Meadow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.801789,44.307335,-71.801789,44.307335",
     "geom:latitude":44.307335,
     "geom:longitude":-71.801789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"570 Meadow St",
     "sg:city":"Littleton",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85804597,
         102086567
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39xjtdNMm1M3wUrZiXYrXU_44.307335_-71.801789@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298785,
-    "wof:geomhash":"5fd930f0c1ed8609172b55bc10e1eb97",
+    "wof:geomhash":"1b8d20ac08da3bb034f58d486adeafc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873848609,
-    "wof:lastmodified":1466671884,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85804597,
     "wof:placetype":"venue",

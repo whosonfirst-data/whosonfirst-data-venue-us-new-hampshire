@@ -2,14 +2,20 @@
   "id": 873586069,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Pleasant St Portsmouth NH 03801",
+    "addr:housenumber":"92",
+    "addr:postcode":"03801",
+    "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.7571,43.075934,-70.7571,43.075934",
     "geom:latitude":43.075934,
     "geom:longitude":-70.7571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"92 Pleasant St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125152585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LXmSWdOr54ZungyxodY9o_43.075934_-70.757100@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294785,
-    "wof:geomhash":"6a70cde59c9943d98f8dd3d187b051b5",
+    "wof:geomhash":"f68f53b44f499bcf251e28ebcbdd2072",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873586069,
-    "wof:lastmodified":1466670000,
+    "wof:lastmodified":1510695991,
     "wof:name":"Clip Joint",
     "wof:parent_id":85892305,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873808167,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Central St Franklin NH 03235",
+    "addr:housenumber":"410",
+    "addr:postcode":"03235",
+    "addr:street":"Central St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.644328,43.445124,-71.644328,43.445124",
     "geom:latitude":43.445124,
     "geom:longitude":-71.644328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Central St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852103,
         102086503
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0km3KuiBy0DIWeqiaMx9ny_43.445124_-71.644328@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297894,
-    "wof:geomhash":"d831c7a33d686b3be56553c5775390ae",
+    "wof:geomhash":"2d2d5f8e3c871f041e754a86f65ba685",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873808167,
-    "wof:lastmodified":1466671425,
+    "wof:lastmodified":1510694979,
     "wof:name":"Shear Madness",
     "wof:parent_id":85852103,
     "wof:placetype":"venue",

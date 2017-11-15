@@ -2,14 +2,20 @@
   "id": 873754393,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 March Ave Manchester NH 03103",
+    "addr:housenumber":"116",
+    "addr:postcode":"03103",
+    "addr:street":"March Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.441661,42.962779,-71.441661,42.962779",
     "geom:latitude":42.962779,
     "geom:longitude":-71.441661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 March Ave",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":420575947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zlT01niIbJCO2rkfNXgrK_42.962779_-71.441661@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297137,
-    "wof:geomhash":"2bfef89336fec4120e9f2eecaeb35efe",
+    "wof:geomhash":"18afc1bbf260759bb2717a18c4cf630f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873754393,
-    "wof:lastmodified":1466671058,
+    "wof:lastmodified":1510602726,
     "wof:name":"TJ Maxx",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

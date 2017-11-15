@@ -2,14 +2,20 @@
   "id": 873891685,
   "type": "Feature",
   "properties": {
+    "addr:full":"364 Amherst St Nashua NH 03063",
+    "addr:housenumber":"364",
+    "addr:postcode":"03063",
+    "addr:street":"Amherst St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.505249,42.783319,-71.505249,42.783319",
     "geom:latitude":42.783319,
     "geom:longitude":-71.505249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"364 Amherst St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125153611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bInEWpvcVwSDUsLxS5J6D_42.783319_-71.505249@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299659,
-    "wof:geomhash":"742aceed351e9a6f4815bc6046378d41",
+    "wof:geomhash":"91d9b0d20c3ecf84938d858a39dd4c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873891685,
-    "wof:lastmodified":1466672398,
+    "wof:lastmodified":1510697973,
     "wof:name":"Honey Dew Donuts",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",

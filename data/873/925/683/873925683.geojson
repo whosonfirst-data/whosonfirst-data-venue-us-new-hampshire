@@ -2,6 +2,10 @@
   "id": 873925683,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Ermer Rd Unit 201 Salem NH 03079",
+    "addr:housenumber":"15;201",
+    "addr:postcode":"03079",
+    "addr:street":"Ermer Rd Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873925683,
-    "wof:lastmodified":1466672748,
+    "wof:lastmodified":1472634408,
     "wof:name":"Bell & Williams Associates, Inc.",
     "wof:parent_id":85812647,
     "wof:placetype":"venue",

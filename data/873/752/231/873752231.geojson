@@ -2,14 +2,20 @@
   "id": 873752231,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Heidi Ln Bow NH 03304",
+    "addr:housenumber":"29",
+    "addr:postcode":"03304",
+    "addr:street":"Heidi Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.528763,43.160484,-71.528763,43.160484",
     "geom:latitude":43.160484,
     "geom:longitude":-71.528763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29 Heidi Ln",
     "sg:city":"Bow",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85806833,
         102086515
     ],
+    "wof:brand_id":420574727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E3x3MmjesqyNwtWIGaTe5_43.160484_-71.528763@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297103,
-    "wof:geomhash":"f1a1a2062d42ad08d833cbb69a0bcfc0",
+    "wof:geomhash":"03276929eeccada123575b144fa41211",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873752231,
-    "wof:lastmodified":1466671013,
+    "wof:lastmodified":1510604657,
     "wof:name":"Snap-On Tools",
     "wof:parent_id":85806833,
     "wof:placetype":"venue",

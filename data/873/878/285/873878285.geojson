@@ -2,14 +2,20 @@
   "id": 873878285,
   "type": "Feature",
   "properties": {
+    "addr:full":"536 Union St Manchester NH 03104",
+    "addr:housenumber":"536",
+    "addr:postcode":"03104",
+    "addr:street":"Union St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.457477,42.991096,-71.457477,42.991096",
     "geom:latitude":42.991096,
     "geom:longitude":-71.457477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"536 Union St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125151215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DLZuc5ESLzsa4kMfUBO6L_42.991096_-71.457477@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299401,
-    "wof:geomhash":"8a4ba5777d5cfb514c04aeedce469055",
+    "wof:geomhash":"4800e5eaeae6a0af517827325eea5302",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873878285,
-    "wof:lastmodified":1466672199,
+    "wof:lastmodified":1510697568,
     "wof:name":"First Baptist Church Inc",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

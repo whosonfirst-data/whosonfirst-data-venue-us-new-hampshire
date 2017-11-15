@@ -2,14 +2,20 @@
   "id": 873616237,
   "type": "Feature",
   "properties": {
+    "addr:full":"438 Milan Hill Rd Milan NH 03588",
+    "addr:housenumber":"438",
+    "addr:postcode":"03588",
+    "addr:street":"Milan Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.242724,44.582038,-71.242724,44.582038",
     "geom:latitude":44.582038,
     "geom:longitude":-71.242724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"438 Milan Hill Rd",
     "sg:city":"Milan",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RPR0sAZWuMLSY7UckWyfk_44.582038_-71.242724@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295208,
-    "wof:geomhash":"a0fce7ee17600f3129ad532c23c2d13d",
+    "wof:geomhash":"39f1274efeae8c4b6f08fb9de1daa79b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873616237,
-    "wof:lastmodified":1466670177,
+    "wof:lastmodified":1510699762,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873923447,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Main St Rm 211 Nashua NH 03060",
+    "addr:housenumber":"142;211",
+    "addr:postcode":"03060",
+    "addr:street":"Main St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873923447,
-    "wof:lastmodified":1466672689,
+    "wof:lastmodified":1472634405,
     "wof:name":"D&P Instruments",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

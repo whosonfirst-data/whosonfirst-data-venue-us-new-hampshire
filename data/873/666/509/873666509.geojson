@@ -2,14 +2,20 @@
   "id": 873666509,
   "type": "Feature",
   "properties": {
+    "addr:full":"890 S Willow St Manchester NH 03103",
+    "addr:housenumber":"890",
+    "addr:postcode":"03103",
+    "addr:street":"S Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.442336,42.963331,-71.442336,42.963331",
     "geom:latitude":42.963331,
     "geom:longitude":-71.442336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"890 S Willow St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125150443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zDs87BaOuC4pb8AnQ1lRi_42.963331_-71.442336@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295765,
-    "wof:geomhash":"4fd511bec0cfdcb1a15edb8eca0de44d",
+    "wof:geomhash":"6e77fe0f0df3211b6970677752195043",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873666509,
-    "wof:lastmodified":1466670464,
+    "wof:lastmodified":1510697662,
     "wof:name":"Mattress Discounters",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

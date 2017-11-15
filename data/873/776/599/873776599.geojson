@@ -2,14 +2,20 @@
   "id": 873776599,
   "type": "Feature",
   "properties": {
+    "addr:full":"423 West St Keene NH 03431",
+    "addr:housenumber":"423",
+    "addr:postcode":"03431",
+    "addr:street":"West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.294134,42.933493,-72.294134,42.933493",
     "geom:latitude":42.933493,
     "geom:longitude":-72.294134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"423 West St",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085643,
         85688689
     ],
+    "wof:brand_id":1125155163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YCKnLumDDIoR41h7MEb8n_42.933493_-72.294134@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297444,
-    "wof:geomhash":"3079b0104953b26b4a1854a4c2561240",
+    "wof:geomhash":"62db0fcb16016e4a5c11a206ba402674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873776599,
-    "wof:lastmodified":1466671218,
+    "wof:lastmodified":1510698905,
     "wof:name":"Maurices",
     "wof:parent_id":85868011,
     "wof:placetype":"venue",

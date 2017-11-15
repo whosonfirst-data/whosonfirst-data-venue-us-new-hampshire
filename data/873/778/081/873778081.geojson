@@ -2,6 +2,10 @@
   "id": 873778081,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Manchester St Manchester NH 03101",
+    "addr:housenumber":"47",
+    "addr:postcode":"03101",
+    "addr:street":"Manchester St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873778081,
-    "wof:lastmodified":1466671203,
+    "wof:lastmodified":1472634249,
     "wof:name":"RSVP",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

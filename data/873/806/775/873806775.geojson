@@ -2,14 +2,20 @@
   "id": 873806775,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Old Etna Rd Lebanon NH 03766",
+    "addr:housenumber":"31",
+    "addr:postcode":"03766",
+    "addr:street":"Old Etna Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.248363,43.657129,-72.248363,43.657129",
     "geom:latitude":43.657129,
     "geom:longitude":-72.248363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31 Old Etna Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086567,
         85688689
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TV3xeZGRZ7DHAYi08pWjp_43.657129_-72.248363@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297864,
-    "wof:geomhash":"7bc5aeb1c1baf36b2455b6cc74a66bf0",
+    "wof:geomhash":"22e79a6b63d4cbacd8a920ef29b302e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873806775,
-    "wof:lastmodified":1466671484,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85816939,
     "wof:placetype":"venue",

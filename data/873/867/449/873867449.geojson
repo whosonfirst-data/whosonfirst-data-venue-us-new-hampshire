@@ -2,14 +2,20 @@
   "id": 873867449,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Main St Whitefield NH 03598",
+    "addr:housenumber":"2",
+    "addr:postcode":"03598",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.613638,44.37361,-71.613638,44.37361",
     "geom:latitude":44.37361,
     "geom:longitude":-71.613638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Main St",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85847413,
         102085529
     ],
+    "wof:brand_id":1125152727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CLrrVhvt9mZxxtGDXqYls_44.373610_-71.613638@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299180,
-    "wof:geomhash":"c13d6415e6fe827b0c552128480582ef",
+    "wof:geomhash":"5555b7c04c0f1435ae601dfa29a2af52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873867449,
-    "wof:lastmodified":1466672113,
+    "wof:lastmodified":1510604918,
     "wof:name":"Northern Reflections",
     "wof:parent_id":85847413,
     "wof:placetype":"venue",

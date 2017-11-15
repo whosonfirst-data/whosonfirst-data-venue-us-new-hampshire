@@ -2,6 +2,10 @@
   "id": 873766871,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 String Brg Exeter NH 03833",
+    "addr:housenumber":"6;brg",
+    "addr:postcode":"03833",
+    "addr:street":"String",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873766871,
-    "wof:lastmodified":1466671186,
+    "wof:lastmodified":1472634298,
     "wof:name":"Judith Lamphere",
     "wof:parent_id":85827281,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873545719,
   "type": "Feature",
   "properties": {
+    "addr:full":"167 S Broadway Salem NH 03079",
+    "addr:housenumber":"167",
+    "addr:postcode":"03079",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.219398,42.767898,-71.219398,42.767898",
     "geom:latitude":42.767898,
     "geom:longitude":-71.219398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"167 S Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85811539,
         102086507
     ],
+    "wof:brand_id":420574863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HlzSD2wshPKd8REdiwu7a_42.767898_-71.219398@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294325,
-    "wof:geomhash":"3aa654132aabf4d27f2911c6d31030ce",
+    "wof:geomhash":"6b8b0ae32b755bc07274bff3d3a2d9a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873545719,
-    "wof:lastmodified":1466669800,
+    "wof:lastmodified":1510604624,
     "wof:name":"Lens Crafters",
     "wof:parent_id":85811539,
     "wof:placetype":"venue",

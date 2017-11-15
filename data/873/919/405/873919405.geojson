@@ -2,14 +2,20 @@
   "id": 873919405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1955 Woodbury Ave Portsmouth NH 03801",
+    "addr:housenumber":"1955",
+    "addr:postcode":"03801",
+    "addr:street":"Woodbury Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.793678,43.093732,-70.793678,43.093732",
     "geom:latitude":43.093732,
     "geom:longitude":-70.793678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1955 Woodbury Ave",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ErfNhHBedImjP8r6ciOSN_43.093857_-70.793708@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300201,
-    "wof:geomhash":"92682d8b5c3c9f3566e9255cf446ab6d",
+    "wof:geomhash":"f3746074feb4d923ab6f1b330dea2ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873919405,
-    "wof:lastmodified":1466672635,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":420526403,
     "wof:placetype":"venue",

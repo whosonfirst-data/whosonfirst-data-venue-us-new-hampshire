@@ -2,6 +2,10 @@
   "id": 873907675,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 First New Hampshire Tpke Northwood NH 03261",
+    "addr:housenumber":"321",
+    "addr:postcode":"03261",
+    "addr:street":"First New;Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873907675,
-    "wof:lastmodified":1466672539,
+    "wof:lastmodified":1472634403,
     "wof:name":"Simply Dogs",
     "wof:parent_id":85838443,
     "wof:placetype":"venue",

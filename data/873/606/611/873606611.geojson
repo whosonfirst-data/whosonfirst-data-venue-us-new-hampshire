@@ -2,14 +2,20 @@
   "id": 873606611,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Hancock St Manchester NH 03101",
+    "addr:housenumber":"163",
+    "addr:postcode":"03101",
+    "addr:street":"Hancock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.466591,42.974946,-71.466591,42.974946",
     "geom:latitude":42.974946,
     "geom:longitude":-71.466591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 Hancock St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125153565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43k9k2bcFM05rCTQWra6HD_42.974946_-71.466591@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295069,
-    "wof:geomhash":"335a83b4ee2b734835f3759995ca974e",
+    "wof:geomhash":"d996966863b489341b9a716f38693f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873606611,
-    "wof:lastmodified":1466670137,
+    "wof:lastmodified":1510693203,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

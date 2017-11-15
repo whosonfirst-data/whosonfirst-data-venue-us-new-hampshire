@@ -2,6 +2,10 @@
   "id": 873922397,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Nashua St Apt 206 Milford NH 03055",
+    "addr:housenumber":"504;206",
+    "addr:postcode":"03055",
+    "addr:street":"Nashua St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873922397,
-    "wof:lastmodified":1466672663,
+    "wof:lastmodified":1472634401,
     "wof:name":"Bjm Apartments",
     "wof:parent_id":85816579,
     "wof:placetype":"venue",

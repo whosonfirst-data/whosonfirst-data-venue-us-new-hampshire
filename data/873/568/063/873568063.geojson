@@ -2,14 +2,20 @@
   "id": 873568063,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Portsmouth Ave Stratham NH 03885",
+    "addr:housenumber":"27",
+    "addr:postcode":"03885",
+    "addr:street":"Portsmouth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.924258,42.996587,-70.924258,42.996587",
     "geom:latitude":42.996587,
     "geom:longitude":-70.924258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Portsmouth Ave",
     "sg:city":"Stratham",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85840681,
         102086507
     ],
+    "wof:brand_id":1125157441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VRrBCq2XOHqXJ6XcNBGJX_42.996587_-70.924258@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294586,
-    "wof:geomhash":"099dd36fa4a09e8a2d82ea5aff6116af",
+    "wof:geomhash":"0620c188140f88cc7a7b731f21c65a01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873568063,
-    "wof:lastmodified":1466669888,
+    "wof:lastmodified":1510697434,
     "wof:name":"Market Basket",
     "wof:parent_id":85840681,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873647311,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Westgate Rd Plainfield NH 03781",
+    "addr:housenumber":"137",
+    "addr:postcode":"03781",
+    "addr:street":"Westgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.343911,43.527623,-72.343911,43.527623",
     "geom:latitude":43.527623,
     "geom:longitude":-72.343911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"137 Westgate Rd",
     "sg:city":"Plainfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850831,
         102086583
     ],
+    "wof:brand_id":1125151841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HVisyUGZCbMYrPCwtXEjw_43.527623_-72.343911@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295559,
-    "wof:geomhash":"4b0a15ba63b8d357bf12cffc1963b6a0",
+    "wof:geomhash":"c35af3b1e1be854a8799ddb905a66ee6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873647311,
-    "wof:lastmodified":1466670335,
+    "wof:lastmodified":1510697642,
     "wof:name":"Floor Coverings International",
     "wof:parent_id":85850831,
     "wof:placetype":"venue",

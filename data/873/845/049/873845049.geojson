@@ -2,14 +2,20 @@
   "id": 873845049,
   "type": "Feature",
   "properties": {
+    "addr:full":"1976 E Conway Rd North Conway NH 03813",
+    "addr:housenumber":"1976",
+    "addr:postcode":"03813",
+    "addr:street":"E Conway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.059563,44.01127,-71.059563,44.01127",
     "geom:latitude":44.01127,
     "geom:longitude":-71.059563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1976 E Conway Rd",
     "sg:city":"North Conway",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85844159,
         102086581
     ],
+    "wof:brand_id":420575601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37qOcxdS7STyzfDcc4mrDh_44.011270_-71.059563@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298684,
-    "wof:geomhash":"895f5c568976bc29b999799f6bb0a201",
+    "wof:geomhash":"bc0b156d2cc7a9a9116c922040763111",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873845049,
-    "wof:lastmodified":1466671802,
+    "wof:lastmodified":1510602934,
     "wof:name":"Aeropostale Inc",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",

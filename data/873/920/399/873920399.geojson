@@ -2,6 +2,10 @@
   "id": 873920399,
   "type": "Feature",
   "properties": {
+    "addr:full":"59 E Broadway Unit 5 Derry NH 03038",
+    "addr:housenumber":"59;unit 5",
+    "addr:postcode":"03038",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873920399,
-    "wof:lastmodified":1466672634,
+    "wof:lastmodified":1472634405,
     "wof:name":"Parnell & Mc Kay P",
     "wof:parent_id":85892223,
     "wof:placetype":"venue",

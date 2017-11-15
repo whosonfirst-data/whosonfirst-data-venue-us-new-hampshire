@@ -2,14 +2,20 @@
   "id": 873554421,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Eastman St Concord NH 03301",
+    "addr:housenumber":"30",
+    "addr:postcode":"03301",
+    "addr:street":"Eastman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.535491,43.234121,-71.535491,43.234121",
     "geom:latitude":43.234121,
     "geom:longitude":-71.535491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Eastman St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oQethY6SEES1s2jRykMBe_43.234121_-71.535491@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294429,
-    "wof:geomhash":"8b19ec101ea9f2addea9854a25d84bb8",
+    "wof:geomhash":"824ab76c2bf632537a5793e045337fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873554421,
-    "wof:lastmodified":1466669854,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

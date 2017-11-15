@@ -2,14 +2,20 @@
   "id": 873691071,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Broadway Dover NH 03820",
+    "addr:housenumber":"71",
+    "addr:postcode":"03820",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870563,43.202563,-70.870563,43.202563",
     "geom:latitude":43.202563,
     "geom:longitude":-70.870563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Broadway",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qitumVtfpIllger6nxFLZ_43.202563_-70.870563@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296301,
-    "wof:geomhash":"51dc6636b94b08360e9d6ab326fea479",
+    "wof:geomhash":"5fa3e0c433873a60ffe7c5b7cd1d9996",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873691071,
-    "wof:lastmodified":1466670591,
+    "wof:lastmodified":1510699750,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85892237,
     "wof:placetype":"venue",

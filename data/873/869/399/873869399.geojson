@@ -2,14 +2,20 @@
   "id": 873869399,
   "type": "Feature",
   "properties": {
+    "addr:full":"945 Battle St Webster NH 03303",
+    "addr:housenumber":"945",
+    "addr:postcode":"03303",
+    "addr:street":"Battle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.718735,43.309848,-71.718735,43.309848",
     "geom:latitude":43.309848,
     "geom:longitude":-71.718735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"945 Battle St",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85851699,
         102086515
     ],
+    "wof:brand_id":1125152499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P2G6DbGO2EDeuq11vfEl7_43.309848_-71.718735@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299214,
-    "wof:geomhash":"506fa3d4acf8ea60cea9ab3acbfff190",
+    "wof:geomhash":"2828fb162a0a98dccf7fc18ef7677567",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873869399,
-    "wof:lastmodified":1466672110,
+    "wof:lastmodified":1510613144,
     "wof:name":"Town Clerk",
     "wof:parent_id":85851699,
     "wof:placetype":"venue",

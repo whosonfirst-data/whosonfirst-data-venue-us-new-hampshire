@@ -2,6 +2,10 @@
   "id": 873640561,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Main St Lancaster NH 03584",
+    "addr:housenumber":"120",
+    "addr:postcode":"03584",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873640561,
-    "wof:lastmodified":1466670322,
+    "wof:lastmodified":1472634182,
     "wof:name":"US Post Office",
     "wof:parent_id":85812199,
     "wof:placetype":"venue",

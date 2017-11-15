@@ -2,14 +2,20 @@
   "id": 873877655,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Saco St Center Conway NH 03813",
+    "addr:housenumber":"16",
+    "addr:postcode":"03813",
+    "addr:street":"Saco St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.085016,43.989635,-71.085016,43.989635",
     "geom:latitude":43.989635,
     "geom:longitude":-71.085016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Saco St",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85844159,
         102086581
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aIge37aCnoyw2572DAFZI_43.989635_-71.085016@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299389,
-    "wof:geomhash":"66231c1dcdba8bccc32040e291a3969e",
+    "wof:geomhash":"b0570b646a35321c9fd843ca3968e454",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873877655,
-    "wof:lastmodified":1466672216,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",

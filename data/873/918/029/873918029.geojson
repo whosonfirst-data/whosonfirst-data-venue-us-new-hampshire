@@ -2,14 +2,20 @@
   "id": 873918029,
   "type": "Feature",
   "properties": {
+    "addr:full":"189 West St Keene NH 03431",
+    "addr:housenumber":"189",
+    "addr:postcode":"03431",
+    "addr:street":"West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.285484,42.932595,-72.285484,42.932595",
     "geom:latitude":42.932595,
     "geom:longitude":-72.285484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"189 West St",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085643,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ry2H3RxKiHBTi0iCEAIbC_42.932595_-72.285484@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300177,
-    "wof:geomhash":"338adb93f4f45d678960ebfd4debd168",
+    "wof:geomhash":"e53ad2025accd5348f6c0b37b68ff3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873918029,
-    "wof:lastmodified":1466672583,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85868011,
     "wof:placetype":"venue",

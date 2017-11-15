@@ -2,14 +2,20 @@
   "id": 873791537,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Central Ave Dover NH 03820",
+    "addr:housenumber":"314",
+    "addr:postcode":"03820",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.874731,43.194722,-70.874731,43.194722",
     "geom:latitude":43.194722,
     "geom:longitude":-70.874731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 Central Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":420574853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tB3xOfBD7cFQi6hNqgFav_43.194722_-70.874731@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297666,
-    "wof:geomhash":"126e04edac1eac848b5e14a6257d27ff",
+    "wof:geomhash":"d205da4b0dda8854f5ec7138d883c4d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873791537,
-    "wof:lastmodified":1466671329,
+    "wof:lastmodified":1510703588,
     "wof:name":"Ladies Workout Express",
     "wof:parent_id":85892237,
     "wof:placetype":"venue",

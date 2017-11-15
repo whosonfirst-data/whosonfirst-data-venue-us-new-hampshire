@@ -2,6 +2,10 @@
   "id": 873881509,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Middle St Portsmouth NH 03801",
+    "addr:housenumber":"42",
+    "addr:postcode":"03801",
+    "addr:street":"Middle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873881509,
-    "wof:lastmodified":1466672253,
+    "wof:lastmodified":1472634308,
     "wof:name":"Secure Planning Inc",
     "wof:parent_id":420526353,
     "wof:placetype":"venue",

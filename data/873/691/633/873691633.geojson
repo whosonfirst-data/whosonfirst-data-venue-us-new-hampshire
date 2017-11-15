@@ -2,14 +2,20 @@
   "id": 873691633,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Nancy Ct Nashua NH 03062",
+    "addr:housenumber":"10",
+    "addr:postcode":"03062",
+    "addr:street":"Nancy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.503837,42.739341,-71.503837,42.739341",
     "geom:latitude":42.739341,
     "geom:longitude":-71.503837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Nancy Ct",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IuLwyYY9Ba0BI73MPLm9n_42.739341_-71.503837@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296311,
-    "wof:geomhash":"2beb99091c839d9ff00a7ece75982bba",
+    "wof:geomhash":"e3bf56b6b17adc335d66ad04bf897a40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873691633,
-    "wof:lastmodified":1466670640,
+    "wof:lastmodified":1510694637,
     "wof:name":"Uswa",
     "wof:parent_id":85892277,
     "wof:placetype":"venue",

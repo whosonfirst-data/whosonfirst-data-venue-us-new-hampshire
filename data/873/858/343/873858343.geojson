@@ -2,14 +2,20 @@
   "id": 873858343,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 State Rte 101 Bedford NH 03110",
+    "addr:housenumber":"209",
+    "addr:postcode":"03110",
+    "addr:street":"State Rte 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.522637,42.940148,-71.522637,42.940148",
     "geom:latitude":42.940148,
     "geom:longitude":-71.522637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 State Rte 101",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BduukACkcHSSr1XVV3GCJ_42.940148_-71.522637@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298979,
-    "wof:geomhash":"8c1ffda52365d46ff60544d23734434c",
+    "wof:geomhash":"aa327f7449c74746c35edca9770f2d1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873858343,
-    "wof:lastmodified":1466671975,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

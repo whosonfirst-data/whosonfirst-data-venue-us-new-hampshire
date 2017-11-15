@@ -2,6 +2,10 @@
   "id": 873936121,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 West Rd Suite 15 Portsmouth NH 03801",
+    "addr:housenumber":"170;15",
+    "addr:postcode":"03801",
+    "addr:street":"West Rd Suite",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873936121,
-    "wof:lastmodified":1466672777,
+    "wof:lastmodified":1472634383,
     "wof:name":"Fast Asset",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",

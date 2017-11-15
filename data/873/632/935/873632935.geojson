@@ -2,14 +2,20 @@
   "id": 873632935,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Broadway Salem NH 03079",
+    "addr:housenumber":"301",
+    "addr:postcode":"03079",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.21166,42.757616,-71.21166,42.757616",
     "geom:latitude":42.757616,
     "geom:longitude":-71.21166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 S Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85811539,
         102086507
     ],
+    "wof:brand_id":1125154373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zPLgseTHqacAMSvOnjMZu_42.757616_-71.211660@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295399,
-    "wof:geomhash":"f96c1e33afdcfb1e570acc26d6ee1701",
+    "wof:geomhash":"1b724bf84927d198ac9e42deabcec33c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873632935,
-    "wof:lastmodified":1466670297,
+    "wof:lastmodified":1510699698,
     "wof:name":"Tweeter",
     "wof:parent_id":85811539,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873789441,
   "type": "Feature",
   "properties": {
+    "addr:full":"153 N Main St Rochester NH 03867",
+    "addr:housenumber":"153",
+    "addr:postcode":"03867",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873789441,
-    "wof:lastmodified":1466671294,
+    "wof:lastmodified":1472634285,
     "wof:name":"Rochester Tire & Auto Ctr",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

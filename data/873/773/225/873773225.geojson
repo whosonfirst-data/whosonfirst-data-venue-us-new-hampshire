@@ -2,14 +2,20 @@
   "id": 873773225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Hickory Ln Rochester NH 03867",
+    "addr:housenumber":"5",
+    "addr:postcode":"03867",
+    "addr:street":"Hickory Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.962854,43.281198,-70.962854,43.281198",
     "geom:latitude":43.281198,
     "geom:longitude":-70.962854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Hickory Ln",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":420575053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V80KUVzb7g0oG9MY1MEEg_43.281198_-70.962854@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297403,
-    "wof:geomhash":"e2a2033f5bd7626985a2c905a718c02d",
+    "wof:geomhash":"b7d13e3ed50f9996d02ad61f6958048e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873773225,
-    "wof:lastmodified":1466671166,
+    "wof:lastmodified":1510602952,
     "wof:name":"Sears",
     "wof:parent_id":420526443,
     "wof:placetype":"venue",

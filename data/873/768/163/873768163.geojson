@@ -2,6 +2,10 @@
   "id": 873768163,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Alice Dr Concord NH 03303",
+    "addr:housenumber":"40",
+    "addr:postcode":"03303",
+    "addr:street":"Alice Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873768163,
-    "wof:lastmodified":1466671139,
+    "wof:lastmodified":1472634243,
     "wof:name":"Powder Hill Properties",
     "wof:parent_id":85844917,
     "wof:placetype":"venue",

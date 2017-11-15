@@ -2,14 +2,20 @@
   "id": 873574891,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Corporate Dr Portsmouth NH 03801",
+    "addr:housenumber":"325",
+    "addr:postcode":"03801",
+    "addr:street":"Corporate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.795266,43.071705,-70.795266,43.071705",
     "geom:latitude":43.071705,
     "geom:longitude":-70.795266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 Corporate Dr",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IuBQ9pHin5C8hoDvrBq7z_43.071705_-70.795266@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294662,
-    "wof:geomhash":"c644202229994565189686c13647f481",
+    "wof:geomhash":"71b32cbd59d274a57fb88e655e3a76f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873574891,
-    "wof:lastmodified":1466669988,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85833399,
     "wof:placetype":"venue",

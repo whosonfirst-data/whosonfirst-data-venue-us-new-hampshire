@@ -2,6 +2,10 @@
   "id": 873832669,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Union Rd Whitefield NH 03598",
+    "addr:housenumber":"123",
+    "addr:postcode":"03598",
+    "addr:street":"Union Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873832669,
-    "wof:lastmodified":1466671753,
+    "wof:lastmodified":1472634364,
     "wof:name":"Transportation Dept",
     "wof:parent_id":85847413,
     "wof:placetype":"venue",

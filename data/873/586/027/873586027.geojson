@@ -2,14 +2,20 @@
   "id": 873586027,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Main St Berlin NH 03570",
+    "addr:housenumber":"219",
+    "addr:postcode":"03570",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.17847,44.471269,-71.17847,44.471269",
     "geom:latitude":44.471269,
     "geom:longitude":-71.17847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 Main St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jdY3VDY5lFSqkE0NW0mz3_44.471269_-71.178470@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294784,
-    "wof:geomhash":"2941ec7cb747b20f5342d6d49b4ba3da",
+    "wof:geomhash":"c5682dfa02d1fa241dbcab73d641cb5e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873586027,
-    "wof:lastmodified":1466669996,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

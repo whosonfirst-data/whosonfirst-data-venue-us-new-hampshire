@@ -2,6 +2,10 @@
   "id": 873859405,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Washington St Berlin NH 03570",
+    "addr:housenumber":"117",
+    "addr:postcode":"03570",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873859405,
-    "wof:lastmodified":1466671984,
+    "wof:lastmodified":1472634330,
     "wof:name":"Classic Covering",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

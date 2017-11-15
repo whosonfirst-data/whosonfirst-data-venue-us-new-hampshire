@@ -2,6 +2,10 @@
   "id": 873610289,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Main St Salem NH 03079",
+    "addr:housenumber":"56",
+    "addr:postcode":"03079",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873610289,
-    "wof:lastmodified":1466670131,
+    "wof:lastmodified":1472634162,
     "wof:name":"Sanborn Group Inc",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",

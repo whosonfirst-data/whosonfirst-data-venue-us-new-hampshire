@@ -2,6 +2,10 @@
   "id": 873723777,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Portsmouth Ave Exeter NH 03833",
+    "addr:housenumber":"42",
+    "addr:postcode":"03833",
+    "addr:street":"Portsmouth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873723777,
-    "wof:lastmodified":1466670856,
+    "wof:lastmodified":1472634230,
     "wof:name":"Pawlak & St Germain",
     "wof:parent_id":85827281,
     "wof:placetype":"venue",

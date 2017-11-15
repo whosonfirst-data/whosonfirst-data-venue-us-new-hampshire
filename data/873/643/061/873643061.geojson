@@ -2,14 +2,20 @@
   "id": 873643061,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Harriman Rd Whitefield NH 03598",
+    "addr:housenumber":"33",
+    "addr:postcode":"03598",
+    "addr:street":"Harriman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.728487,44.383454,-71.728487,44.383454",
     "geom:latitude":44.383454,
     "geom:longitude":-71.728487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Harriman Rd",
     "sg:city":"Whitefield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85847413,
         102085529
     ],
+    "wof:brand_id":1125153093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oz0EKvdWSNgJHj9tzDODD_44.383454_-71.728487@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295511,
-    "wof:geomhash":"69225cd352e99206b1b26bab5b531e9d",
+    "wof:geomhash":"f4f7be808dc28a70608ebc534e692561",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873643061,
-    "wof:lastmodified":1466670305,
+    "wof:lastmodified":1510696066,
     "wof:name":"Hair Creations",
     "wof:parent_id":85847413,
     "wof:placetype":"venue",

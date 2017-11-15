@@ -2,6 +2,10 @@
   "id": 873840657,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Airline Ave Portsmouth NH 03801",
+    "addr:housenumber":"42",
+    "addr:postcode":"03801",
+    "addr:street":"Airline Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873840657,
-    "wof:lastmodified":1466671820,
+    "wof:lastmodified":1472634349,
     "wof:name":"National Car Rental",
     "wof:parent_id":102529547,
     "wof:placetype":"venue",

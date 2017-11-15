@@ -2,14 +2,20 @@
   "id": 873816763,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Exchange St Gorham NH 03581",
+    "addr:housenumber":"32",
+    "addr:postcode":"03581",
+    "addr:street":"Exchange St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.176585,44.388486,-71.176585,44.388486",
     "geom:latitude":44.388486,
     "geom:longitude":-71.176585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Exchange St",
     "sg:city":"Gorham",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85809727,
         102085529
     ],
+    "wof:brand_id":420575093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kFXChkzrbG0Stpd4qfuur_44.388486_-71.176585@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298049,
-    "wof:geomhash":"34002e9fc38ff72089937501c95a840a",
+    "wof:geomhash":"59b2efbc67e29877774a34676062aa51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873816763,
-    "wof:lastmodified":1466671565,
+    "wof:lastmodified":1510602906,
     "wof:name":"Candy Bouquet",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

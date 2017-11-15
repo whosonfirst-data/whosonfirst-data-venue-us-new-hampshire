@@ -2,6 +2,10 @@
   "id": 873745225,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 State Rte 125 Brentwood NH 03833",
+    "addr:housenumber":"321",
+    "addr:postcode":"03833",
+    "addr:street":"State Rte 125",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873745225,
-    "wof:lastmodified":1466670980,
+    "wof:lastmodified":1472634239,
     "wof:name":"Real Estate Hub",
     "wof:parent_id":85807255,
     "wof:placetype":"venue",

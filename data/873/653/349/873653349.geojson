@@ -2,14 +2,20 @@
   "id": 873653349,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Daniel Webster Hwy Sanbornton NH 03246",
+    "addr:housenumber":"26",
+    "addr:postcode":"03246",
+    "addr:street":"Daniel Webster Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.448673,43.56354,-71.448673,43.56354",
     "geom:latitude":43.56354,
     "geom:longitude":-71.448673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Daniel Webster Hwy",
     "sg:city":"Sanbornton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086503,
         85892251
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sACU3hVZcS4Q3puXi6nIZ_43.563540_-71.448673@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295628,
-    "wof:geomhash":"54807808f8e21806e9a03c7685e80e57",
+    "wof:geomhash":"6ebc111e3eca25d549b97d9a532afb3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873653349,
-    "wof:lastmodified":1466670377,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85892251,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873870149,
   "type": "Feature",
   "properties": {
+    "addr:full":"893 Hanover St Manchester NH 03104",
+    "addr:housenumber":"893",
+    "addr:postcode":"03104",
+    "addr:street":"Hanover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.426248,42.987564,-71.426248,42.987564",
     "geom:latitude":42.987564,
     "geom:longitude":-71.426248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"893 Hanover St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125152365,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R7bpcabOXpN3uBtOOW49c_42.987564_-71.426248@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299227,
-    "wof:geomhash":"0c58a8438627283fbc63e25919e7eb95",
+    "wof:geomhash":"29183966fcda6a1bc97ae38278f79b6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873870149,
-    "wof:lastmodified":1466672081,
+    "wof:lastmodified":1510696797,
     "wof:name":"Petland",
     "wof:parent_id":420526209,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873855787,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Weirs Rd Gilford NH 03249",
+    "addr:housenumber":"18",
+    "addr:postcode":"03249",
+    "addr:street":"Weirs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.401912,43.577815,-71.401912,43.577815",
     "geom:latitude":43.577815,
     "geom:longitude":-71.401912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18 Weirs Rd",
     "sg:city":"Gilford",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85821829,
         102086503
     ],
+    "wof:brand_id":1125156301,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RiqDx6xHYzSFVoK3RBLLu_43.577815_-71.401912@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298930,
-    "wof:geomhash":"77979f95bf38c83e8cc77f0fc47c3b3e",
+    "wof:geomhash":"04f49156a8aa92643987f7bd169e0955",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873855787,
-    "wof:lastmodified":1466672029,
+    "wof:lastmodified":1510698778,
     "wof:name":"Sears Authorized Retail Dealer",
     "wof:parent_id":85821829,
     "wof:placetype":"venue",

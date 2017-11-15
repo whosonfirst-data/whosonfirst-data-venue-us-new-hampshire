@@ -2,6 +2,10 @@
   "id": 873926153,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 S Broadway Unit A Salem NH 03079",
+    "addr:housenumber":"450;unit a",
+    "addr:postcode":"03079",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873926153,
-    "wof:lastmodified":1466672704,
+    "wof:lastmodified":1472634385,
     "wof:name":"More Space Place",
     "wof:parent_id":85823749,
     "wof:placetype":"venue",

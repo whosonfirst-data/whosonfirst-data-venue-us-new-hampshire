@@ -2,14 +2,20 @@
   "id": 873825181,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Railroad St Lancaster NH 03584",
+    "addr:housenumber":"13",
+    "addr:postcode":"03584",
+    "addr:street":"Railroad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.572445,44.495225,-71.572445,44.495225",
     "geom:latitude":44.495225,
     "geom:longitude":-71.572445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Railroad St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085529,
         85812199
     ],
+    "wof:brand_id":1125155931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68w8bVfIkN5FpFUx8h2iVm_44.495225_-71.572445@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298235,
-    "wof:geomhash":"c6176443beae220f2f2210d625d16196",
+    "wof:geomhash":"01878b77f889407a8035b59a3f605448",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873825181,
-    "wof:lastmodified":1466671579,
+    "wof:lastmodified":1510697227,
     "wof:name":"General Grand Chptr Order Eas",
     "wof:parent_id":85812199,
     "wof:placetype":"venue",

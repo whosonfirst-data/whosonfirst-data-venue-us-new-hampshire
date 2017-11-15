@@ -2,14 +2,20 @@
   "id": 873573137,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Main St Nashua NH 03060",
+    "addr:housenumber":"143",
+    "addr:postcode":"03060",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.465329,42.760869,-71.465329,42.760869",
     "geom:latitude":42.760869,
     "geom:longitude":-71.465329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 Main St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fhM6t05Jb01319hjFe1uV_42.760869_-71.465329@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294643,
-    "wof:geomhash":"91be2a91fac9fd90dd8c62fe9cfda344",
+    "wof:geomhash":"5590411e1b6a6da8916df5cb7c98322d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873573137,
-    "wof:lastmodified":1466669907,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

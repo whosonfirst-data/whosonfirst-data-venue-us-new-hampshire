@@ -2,14 +2,20 @@
   "id": 873754321,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Eastern Ave Rochester NH 03867",
+    "addr:housenumber":"34",
+    "addr:postcode":"03867",
+    "addr:street":"Eastern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.972628,43.309187,-70.972628,43.309187",
     "geom:latitude":43.309187,
     "geom:longitude":-70.972628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Eastern Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125159245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dqxHHOnvmeIZTiMiqSvo8_43.309187_-70.972628@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297137,
-    "wof:geomhash":"3373a0c16a81043d48e9874786f04f19",
+    "wof:geomhash":"b72abac6c56a069bc842a02b4c6bac90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873754321,
-    "wof:lastmodified":1466671052,
+    "wof:lastmodified":1510693876,
     "wof:name":"Family Life Ctr",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873770555,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 International Dr Portsmouth NH 03801",
+    "addr:housenumber":"30",
+    "addr:postcode":"03801",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.805395,43.082745,-70.805395,43.082745",
     "geom:latitude":43.082745,
     "geom:longitude":-70.805395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 International Dr",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125157205,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NHE01oLkBWsqkakFgS751_43.082745_-70.805395@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297372,
-    "wof:geomhash":"fb8c7121b2d58fce8a9b7c5004602996",
+    "wof:geomhash":"9610da8ec298cef5915d6131ec99d23f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873770555,
-    "wof:lastmodified":1466671185,
+    "wof:lastmodified":1510697241,
     "wof:name":"Maxim Healthcare Svc",
     "wof:parent_id":85892293,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873653025,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Main St Bradford NH 03221",
+    "addr:housenumber":"101",
+    "addr:postcode":"03221",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873653025,
-    "wof:lastmodified":1466670355,
+    "wof:lastmodified":1472634133,
     "wof:name":"Merrimack Farm & Country Store",
     "wof:parent_id":85854707,
     "wof:placetype":"venue",

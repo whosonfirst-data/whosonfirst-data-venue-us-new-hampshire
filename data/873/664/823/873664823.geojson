@@ -2,6 +2,10 @@
   "id": 873664823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Elm St Manchester NH 03101",
+    "addr:housenumber":"1000",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":873664823,
-    "wof:lastmodified":1466670476,
+    "wof:lastmodified":1472634222,
     "wof:name":"Endowment For Human Dev",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873743817,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Washington St Claremont NH 03743",
+    "addr:housenumber":"163",
+    "addr:postcode":"03743",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.327672,43.372599,-72.327672,43.372599",
     "geom:latitude":43.372599,
     "geom:longitude":-72.327672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 Washington St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086583,
         85688689
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tbjRqOrR9ALpfgWfcMSrK_43.372599_-72.327672@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296988,
-    "wof:geomhash":"5747ada5c246816d85fdd99f7e0aa1e9",
+    "wof:geomhash":"893d170d0a258dbe0c31868de82287af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873743817,
-    "wof:lastmodified":1466671010,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":420526487,
     "wof:placetype":"venue",

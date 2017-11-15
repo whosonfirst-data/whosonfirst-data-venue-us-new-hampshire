@@ -2,14 +2,20 @@
   "id": 873854623,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Indian Brook Rd Dover NH 03820",
+    "addr:housenumber":"250",
+    "addr:postcode":"03820",
+    "addr:street":"Indian Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.889803,43.221075,-70.889803,43.221075",
     "geom:latitude":43.221075,
     "geom:longitude":-70.889803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Indian Brook Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085609,
         85821239
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sP9MULbMqdAI1kfJ7SeYY_43.221075_-70.889803@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298907,
-    "wof:geomhash":"41463574656f7773fb8d1a54a34ccdc6",
+    "wof:geomhash":"35440c422639d13de71c1ce34bc68ca0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873854623,
-    "wof:lastmodified":1466671982,
+    "wof:lastmodified":1510602704,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85821239,
     "wof:placetype":"venue",

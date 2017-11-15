@@ -2,14 +2,20 @@
   "id": 873817675,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 Main St Lincoln NH 03251",
+    "addr:housenumber":"165",
+    "addr:postcode":"03251",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.667661,44.045044,-71.667661,44.045044",
     "geom:latitude":44.045044,
     "geom:longitude":-71.667661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 Main St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85818665,
         102086567
     ],
+    "wof:brand_id":1125156193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Kd7uVMudpru9W4qNdjRqF_44.045044_-71.667661@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298074,
-    "wof:geomhash":"49b8b3b7349718eaa9608d41f2a99f40",
+    "wof:geomhash":"f1efb3f0ca53674bd7672a1e912b1c66",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873817675,
-    "wof:lastmodified":1466671563,
+    "wof:lastmodified":1510694763,
     "wof:name":"Aubuchon Hardware",
     "wof:parent_id":85818665,
     "wof:placetype":"venue",

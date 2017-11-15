@@ -2,14 +2,20 @@
   "id": 873763923,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Summer St Portsmouth NH 03801",
+    "addr:housenumber":"212",
+    "addr:postcode":"03801",
+    "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.763582,43.073728,-70.763582,43.073728",
     "geom:latitude":43.073728,
     "geom:longitude":-70.763582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 Summer St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125151475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b6h46OxoDqJ8OdYWQ3gxo_43.073728_-70.763582@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297273,
-    "wof:geomhash":"640d9fb649a72ef8a88a4bb634039bbd",
+    "wof:geomhash":"cf60b6fea68843c0b9df03b3d193332c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873763923,
-    "wof:lastmodified":1466671153,
+    "wof:lastmodified":1510698967,
     "wof:name":"LDS Missionaries",
     "wof:parent_id":85892297,
     "wof:placetype":"venue",

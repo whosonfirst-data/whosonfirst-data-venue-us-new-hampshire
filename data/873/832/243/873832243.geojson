@@ -2,14 +2,20 @@
   "id": 873832243,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Highland St Meredith NH 03253",
+    "addr:housenumber":"4",
+    "addr:postcode":"03253",
+    "addr:street":"Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.503726,43.65824,-71.503726,43.65824",
     "geom:latitude":43.65824,
     "geom:longitude":-71.503726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Highland St",
     "sg:city":"Meredith",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85892249,
         102086503
     ],
+    "wof:brand_id":420575683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mIai78GNtP9INuizdxaoS_43.658240_-71.503726@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298382,
-    "wof:geomhash":"73d6ed3f07ef5f3cc6b43b4ece5cb8d9",
+    "wof:geomhash":"c935354b5ace8e1deafc7ce952c98ab6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873832243,
-    "wof:lastmodified":1466671696,
+    "wof:lastmodified":1510602061,
     "wof:name":"First Congregational Church",
     "wof:parent_id":85892249,
     "wof:placetype":"venue",

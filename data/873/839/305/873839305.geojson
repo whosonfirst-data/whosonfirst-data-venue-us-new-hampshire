@@ -2,14 +2,20 @@
   "id": 873839305,
   "type": "Feature",
   "properties": {
+    "addr:full":"377 S Willow St Manchester NH 03103",
+    "addr:housenumber":"377",
+    "addr:postcode":"03103",
+    "addr:street":"S Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.452712,42.969071,-71.452712,42.969071",
     "geom:latitude":42.969071,
     "geom:longitude":-71.452712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"377 S Willow St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125159593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bNhBOT4y1OY4h4COfRBxQ_42.969071_-71.452712@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298533,
-    "wof:geomhash":"b834347ffddfde99980d402b9579c4d8",
+    "wof:geomhash":"bd742b27b5333eb857aed6bde5ea9adb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873839305,
-    "wof:lastmodified":1466671758,
+    "wof:lastmodified":1510698965,
     "wof:name":"Jennifer Convertibles Inc",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

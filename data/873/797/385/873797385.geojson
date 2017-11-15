@@ -2,6 +2,10 @@
   "id": 873797385,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Main St Lincoln NH 03262",
+    "addr:housenumber":"78",
+    "addr:postcode":"03262",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873797385,
-    "wof:lastmodified":1466671353,
+    "wof:lastmodified":1472634264,
     "wof:name":"Washington Mutual",
     "wof:parent_id":85818665,
     "wof:placetype":"venue",

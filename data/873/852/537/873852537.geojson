@@ -2,14 +2,20 @@
   "id": 873852537,
   "type": "Feature",
   "properties": {
+    "addr:full":"563 State Rte 106 Loudon NH 03307",
+    "addr:housenumber":"563",
+    "addr:postcode":"03307",
+    "addr:street":"State Rte 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.475459,43.311384,-71.475459,43.311384",
     "geom:latitude":43.311384,
     "geom:longitude":-71.475459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"563 State Rte 106",
     "sg:city":"Loudon",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85841021,
         102086515
     ],
+    "wof:brand_id":1125154317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uBT2ZYOLfgG1SuaVMk8a3_43.311384_-71.475459@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298862,
-    "wof:geomhash":"2994d299b96514223282faf9f9ffcf47",
+    "wof:geomhash":"c3b48b7c466ba3e1aa315c19763cc8e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873852537,
-    "wof:lastmodified":1466671925,
+    "wof:lastmodified":1510695273,
     "wof:name":"Hair Razors",
     "wof:parent_id":85841021,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873688943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 Gold St Manchester NH 03103",
+    "addr:housenumber":"1031",
+    "addr:postcode":"03103",
+    "addr:street":"Gold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.444137,42.956773,-71.444137,42.956773",
     "geom:latitude":42.956773,
     "geom:longitude":-71.444137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1031 Gold St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125152569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_507RlRLx9mw64LZSGE7JXW_42.956773_-71.444137@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296247,
-    "wof:geomhash":"312066c0d683791cc76315da047c50ac",
+    "wof:geomhash":"5bd7ce6786c631cb9de1e20891024677",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873688943,
-    "wof:lastmodified":1466670637,
+    "wof:lastmodified":1510693937,
     "wof:name":"Aspen Dental",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

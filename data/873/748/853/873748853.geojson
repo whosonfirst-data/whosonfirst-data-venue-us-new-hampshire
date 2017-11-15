@@ -2,6 +2,10 @@
   "id": 873748853,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Main St Plymouth NH 03264",
+    "addr:housenumber":"339",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873748853,
-    "wof:lastmodified":1466671039,
+    "wof:lastmodified":1472634289,
     "wof:name":"Roberts Communications Network",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

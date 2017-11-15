@@ -2,14 +2,20 @@
   "id": 873918721,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Plaistow Rd Plaistow NH 03865",
+    "addr:housenumber":"4",
+    "addr:postcode":"03865",
+    "addr:street":"Plaistow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103071,42.815546,-71.103071,42.815546",
     "geom:latitude":42.815546,
     "geom:longitude":-71.103071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Plaistow Rd",
     "sg:city":"Plaistow",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102084463,
         85846033
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JsqOBziK9HbOxFpxSo2sc_42.815546_-71.103071@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300190,
-    "wof:geomhash":"40f7b337eb5b18d355633784d00334b9",
+    "wof:geomhash":"d8f3ce5df32fe8d66a75cd249a7ff1d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873918721,
-    "wof:lastmodified":1466672678,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85846033,
     "wof:placetype":"venue",

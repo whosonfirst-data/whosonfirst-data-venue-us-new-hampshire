@@ -2,6 +2,10 @@
   "id": 873745989,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Main St Plymouth NH 03264",
+    "addr:housenumber":"91",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873745989,
-    "wof:lastmodified":1466671054,
+    "wof:lastmodified":1472634280,
     "wof:name":"Plymouth Book Exchange",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873881427,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 S River Rd Bedford NH 03110",
+    "addr:housenumber":"165",
+    "addr:postcode":"03110",
+    "addr:street":"S River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.477262,42.950251,-71.477262,42.950251",
     "geom:latitude":42.950251,
     "geom:longitude":-71.477262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 S River Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85892273,
         102085493
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bFZ0qkWo2idpzbHqTJDe1_42.950251_-71.477262@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299459,
-    "wof:geomhash":"3502fd462587d4aeba0af57008113467",
+    "wof:geomhash":"b3e70036ff5f584127cf71645bfbc819",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873881427,
-    "wof:lastmodified":1466672242,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":85892273,
     "wof:placetype":"venue",

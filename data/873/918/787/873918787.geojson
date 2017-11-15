@@ -2,14 +2,20 @@
   "id": 873918787,
   "type": "Feature",
   "properties": {
+    "addr:full":"79 S Main St Rochester NH 03867",
+    "addr:housenumber":"79",
+    "addr:postcode":"03867",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.973618,43.301889,-70.973618,43.301889",
     "geom:latitude":43.301889,
     "geom:longitude":-70.973618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"79 S Main St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_774j9NraTqctrd9iQFbFuR_43.301889_-70.973618@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300191,
-    "wof:geomhash":"b07b3c2c64237880e5bab4958ad103ca",
+    "wof:geomhash":"3b7bfe681a58ad23ba58a76736437013",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873918787,
-    "wof:lastmodified":1466672686,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",

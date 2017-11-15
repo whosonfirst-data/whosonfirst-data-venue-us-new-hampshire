@@ -2,6 +2,10 @@
   "id": 873629551,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 William Dr Pelham NH 03076",
+    "addr:housenumber":"12",
+    "addr:postcode":"03076",
+    "addr:street":"William Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873629551,
-    "wof:lastmodified":1466670279,
+    "wof:lastmodified":1472634208,
     "wof:name":"Federal Natl Mtg Assoc",
     "wof:parent_id":85837895,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873926221,
   "type": "Feature",
   "properties": {
+    "addr:full":"290 S Broadway Unit D Salem NH 03079",
+    "addr:housenumber":"290;unit d",
+    "addr:postcode":"03079",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.212051,42.758018,-71.212051,42.758018",
     "geom:latitude":42.758018,
     "geom:longitude":-71.212051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"290 S Broadway Unit D",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         85811539,
         102086507
     ],
+    "wof:brand_id":1125159945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mrmsSNnuJu46p5CTl7H0W_42.758018_-71.212051@1303262240"
     },
     "wof:country":"US",
     "wof:created":1464300331,
-    "wof:geomhash":"14093cc7549e422587e333a1a89eb77d",
+    "wof:geomhash":"eb65ac87766fea9064cbfacca238b89a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":873926221,
-    "wof:lastmodified":1466672713,
+    "wof:lastmodified":1510696677,
     "wof:name":"Michaels - The Arts & Craft Store",
     "wof:parent_id":85811539,
     "wof:placetype":"venue",

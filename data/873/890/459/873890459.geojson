@@ -2,14 +2,20 @@
   "id": 873890459,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Mosher Dr Brookline NH 03033",
+    "addr:housenumber":"9",
+    "addr:postcode":"03033",
+    "addr:street":"Mosher Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.661602,42.768386,-71.661602,42.768386",
     "geom:latitude":42.768386,
     "geom:longitude":-71.661602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Mosher Dr",
     "sg:city":"Brookline",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85855263,
         102085493
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BI2WSefQO9dfpIGiuvQjt_42.768386_-71.661602@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299639,
-    "wof:geomhash":"0df375d4498934d83919ef996346efa4",
+    "wof:geomhash":"8aff84a63bbaee1d8261990972c55705",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873890459,
-    "wof:lastmodified":1466672352,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85855263,
     "wof:placetype":"venue",

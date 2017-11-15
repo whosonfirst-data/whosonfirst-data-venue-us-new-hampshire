@@ -2,14 +2,20 @@
   "id": 873924257,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Trafalgar Sq Ste 107 Nashua NH 03063",
+    "addr:housenumber":"20",
+    "addr:postcode":"03063",
+    "addr:street":"Trafalgar Sq Ste 107",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.502486,42.784911,-71.502486,42.784911",
     "geom:latitude":42.784911,
     "geom:longitude":-71.502486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Trafalgar Sq Ste 107",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125159115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jnxuMreNtSkVOW2NgQVqV_42.784911_-71.502486@1303262240"
     },
     "wof:country":"US",
     "wof:created":1464300292,
-    "wof:geomhash":"ca9a3c5fcdca7101c840eff1f4e82edc",
+    "wof:geomhash":"b62fe96cd1e8d8322833b9d2979dcaac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873924257,
-    "wof:lastmodified":1466672665,
+    "wof:lastmodified":1510698949,
     "wof:name":"Ultimate Staffing",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",

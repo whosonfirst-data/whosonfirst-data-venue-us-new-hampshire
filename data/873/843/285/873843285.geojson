@@ -2,6 +2,10 @@
   "id": 873843285,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Elm St Manchester NH 03101",
+    "addr:housenumber":"1525",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873843285,
-    "wof:lastmodified":1466671831,
+    "wof:lastmodified":1472634312,
     "wof:name":"Manchester Health Dept",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873877067,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Wentworth Rd Brookfield NH 03872",
+    "addr:housenumber":"510",
+    "addr:postcode":"03872",
+    "addr:street":"Wentworth Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.103597,43.592496,-71.103597,43.592496",
     "geom:latitude":43.592496,
     "geom:longitude":-71.103597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 Wentworth Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85816955,
         102086581
     ],
+    "wof:brand_id":1125153949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l6UYn12nhYqWfsthwOyhT_43.592496_-71.103597@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299377,
-    "wof:geomhash":"ffdfed7228c45ded9a23321dd7334fb4",
+    "wof:geomhash":"6b7946f7eafe18d49d125c574f84356b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873877067,
-    "wof:lastmodified":1466672152,
+    "wof:lastmodified":1510695232,
     "wof:name":"Decorating Den Interiors",
     "wof:parent_id":85816955,
     "wof:placetype":"venue",

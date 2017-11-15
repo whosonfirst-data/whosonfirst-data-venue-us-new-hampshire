@@ -2,14 +2,20 @@
   "id": 873751151,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 North Rd Exeter NH 03833",
+    "addr:housenumber":"106",
+    "addr:postcode":"03833",
+    "addr:street":"North Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.051422,43.01182,-71.051422,43.01182",
     "geom:latitude":43.01182,
     "geom:longitude":-71.051422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 North Rd",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85807255,
         102086507
     ],
+    "wof:brand_id":420575689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dIXeB1HSHNc5zW71Dh02u_43.011820_-71.051422@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297090,
-    "wof:geomhash":"869e3b0c1411013a22a220f6d835355f",
+    "wof:geomhash":"2437fafcb6103e50a67083ff5d4b7ebc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873751151,
-    "wof:lastmodified":1466671001,
+    "wof:lastmodified":1510602099,
     "wof:name":"Meals On Wheels",
     "wof:parent_id":85807255,
     "wof:placetype":"venue",

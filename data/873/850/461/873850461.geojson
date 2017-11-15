@@ -2,14 +2,20 @@
   "id": 873850461,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Bayside Laconia NH 03246",
+    "addr:housenumber":"27",
+    "addr:postcode":"03246",
+    "addr:street":"Bayside",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.466814,43.548851,-71.466814,43.548851",
     "geom:latitude":43.548851,
     "geom:longitude":-71.466814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Bayside",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086503,
         85829307
     ],
+    "wof:brand_id":420574227,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Mixn9qVuljkTjHLqRqYHZ_43.548851_-71.466814@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298821,
-    "wof:geomhash":"5391647cf7ac5bc15e36dde97fbff1fb",
+    "wof:geomhash":"5560d46ae26762a67c3c6949066a7d9e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873850461,
-    "wof:lastmodified":1466671886,
+    "wof:lastmodified":1510603907,
     "wof:name":"Fastenal Co",
     "wof:parent_id":85829307,
     "wof:placetype":"venue",

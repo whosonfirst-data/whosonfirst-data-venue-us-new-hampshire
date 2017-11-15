@@ -2,14 +2,20 @@
   "id": 873910961,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Main St Hanover NH 03755",
+    "addr:housenumber":"41",
+    "addr:postcode":"03755",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.289502,43.701234,-72.289502,43.701234",
     "geom:latitude":43.701234,
     "geom:longitude":-72.289502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 Main St",
     "sg:city":"Hanover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086567,
         85688689
     ],
+    "wof:brand_id":1125152633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65lUS0vNM4B6n5Vlwx2NBm_43.701234_-72.289502@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300031,
-    "wof:geomhash":"a79f844ef8ec2157b14ad9159498b9fc",
+    "wof:geomhash":"da7cd2a6fdc354f122a5d91791fce794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873910961,
-    "wof:lastmodified":1466672606,
+    "wof:lastmodified":1510697377,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85830371,
     "wof:placetype":"venue",

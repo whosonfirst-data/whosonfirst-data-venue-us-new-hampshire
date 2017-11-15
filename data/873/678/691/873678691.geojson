@@ -2,6 +2,10 @@
   "id": 873678691,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Washington St Dover NH 03820",
+    "addr:housenumber":"125",
+    "addr:postcode":"03820",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873678691,
-    "wof:lastmodified":1466670560,
+    "wof:lastmodified":1472634230,
     "wof:name":"Handy Hardware",
     "wof:parent_id":85892237,
     "wof:placetype":"venue",

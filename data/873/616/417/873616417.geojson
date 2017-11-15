@@ -2,14 +2,20 @@
   "id": 873616417,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Tri City Rd Somersworth NH 03878",
+    "addr:housenumber":"150",
+    "addr:postcode":"03878",
+    "addr:street":"Tri City Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.878268,43.227889,-70.878268,43.227889",
     "geom:latitude":43.227889,
     "geom:longitude":-70.878268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Tri City Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125156927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VcLd1XmsNDtZKFGP82wSZ_43.227889_-70.878268@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295209,
-    "wof:geomhash":"2ff847b0f67ae80e7b1731edfbdf1a06",
+    "wof:geomhash":"ace7f1b055c40e8c77255b891634c608",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873616417,
-    "wof:lastmodified":1466670189,
+    "wof:lastmodified":1510695437,
     "wof:name":"Cali Nails",
     "wof:parent_id":420526417,
     "wof:placetype":"venue",

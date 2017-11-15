@@ -2,6 +2,10 @@
   "id": 873819917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1045 John Smith Hill Rd Bristol NH 03222",
+    "addr:housenumber":"1045",
+    "addr:postcode":"03222",
+    "addr:street":"John Smith Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873819917,
-    "wof:lastmodified":1466671659,
+    "wof:lastmodified":1472634305,
     "wof:name":"Hemlock Press",
     "wof:parent_id":85838599,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873929827,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Borthwick Ave Ste 305 Portsmouth NH 03801",
+    "addr:housenumber":"333",
+    "addr:postcode":"03801",
+    "addr:street":"Borthwick Ave Ste 305",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873929827,
-    "wof:lastmodified":1466672808,
+    "wof:lastmodified":1472634416,
     "wof:name":"Wound Care Ctr",
     "wof:parent_id":420526333,
     "wof:placetype":"venue",

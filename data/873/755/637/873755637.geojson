@@ -2,6 +2,10 @@
   "id": 873755637,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Old Street Rd Peterborough NH 03458",
+    "addr:housenumber":"456",
+    "addr:postcode":"03458",
+    "addr:street":"Old Street Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873755637,
-    "wof:lastmodified":1466671081,
+    "wof:lastmodified":1472634279,
     "wof:name":"Monadnock Adult Care Ctr",
     "wof:parent_id":85831847,
     "wof:placetype":"venue",

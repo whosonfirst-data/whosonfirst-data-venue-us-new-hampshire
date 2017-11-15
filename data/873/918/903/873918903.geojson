@@ -2,14 +2,20 @@
   "id": 873918903,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Portsmouth Ave Stratham NH 03885",
+    "addr:housenumber":"21",
+    "addr:postcode":"03885",
+    "addr:street":"Portsmouth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.924398,42.996353,-70.924398,42.996353",
     "geom:latitude":42.996353,
     "geom:longitude":-70.924398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Portsmouth Ave",
     "sg:city":"Stratham",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85840681,
         102086507
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tGeP7d0sGZVarOSQJ5Drs_42.996353_-70.924398@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300193,
-    "wof:geomhash":"4be916f6cb6d6e12ded52a59a3a913b0",
+    "wof:geomhash":"c460aa080500d68c3a7cd5cb88f9563c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873918903,
-    "wof:lastmodified":1466672701,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85840681,
     "wof:placetype":"venue",

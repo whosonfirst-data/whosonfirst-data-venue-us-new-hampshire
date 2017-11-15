@@ -2,6 +2,10 @@
   "id": 873850105,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 N Main St Rochester NH 03867",
+    "addr:housenumber":"306",
+    "addr:postcode":"03867",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873850105,
-    "wof:lastmodified":1466671840,
+    "wof:lastmodified":1472634327,
     "wof:name":"Dance-N-Motion",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",

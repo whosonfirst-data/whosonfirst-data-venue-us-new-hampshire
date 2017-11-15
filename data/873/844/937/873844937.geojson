@@ -2,14 +2,20 @@
   "id": 873844937,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Lafayette Rd Seabrook NH 03874",
+    "addr:housenumber":"103",
+    "addr:postcode":"03874",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870612,42.877587,-70.870612,42.877587",
     "geom:latitude":42.877587,
     "geom:longitude":-70.870612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Lafayette Rd",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85849117,
         102086507
     ],
+    "wof:brand_id":1125155319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MiwUMGSllJS3bWgdPwwzE_42.877587_-70.870612@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298682,
-    "wof:geomhash":"e61f1d61a7a96e6aaf402e108e62c362",
+    "wof:geomhash":"78d045d9057f318c027b2e5d5a111048",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873844937,
-    "wof:lastmodified":1466671932,
+    "wof:lastmodified":1510696062,
     "wof:name":"Trinity United Church",
     "wof:parent_id":85849117,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873926551,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Elm St Ste 121 Manchester NH 03101",
+    "addr:housenumber":"1000",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St Ste 121",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873926551,
-    "wof:lastmodified":1466672765,
+    "wof:lastmodified":1472634405,
     "wof:name":"J Dubs Coffee House",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

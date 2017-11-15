@@ -2,6 +2,10 @@
   "id": 873865491,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Glen Ave Berlin NH 03570",
+    "addr:housenumber":"123",
+    "addr:postcode":"03570",
+    "addr:street":"Glen Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873865491,
-    "wof:lastmodified":1466672078,
+    "wof:lastmodified":1472634345,
     "wof:name":"Kelley's Auto Parts Inc",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",

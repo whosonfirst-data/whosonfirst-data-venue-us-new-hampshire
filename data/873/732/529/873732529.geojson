@@ -2,14 +2,20 @@
   "id": 873732529,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Lamson Dr Merrimack NH 03054",
+    "addr:housenumber":"42",
+    "addr:postcode":"03054",
+    "addr:street":"Lamson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.541559,42.816314,-71.541559,42.816314",
     "geom:latitude":42.816314,
     "geom:longitude":-71.541559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"42 Lamson Dr",
     "sg:city":"Merrimack",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85849867,
         102085493
     ],
+    "wof:brand_id":420574687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SmcpfrDtwMpzVUNgK9xEY_42.816314_-71.541559@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464296809,
-    "wof:geomhash":"3955671a6f45fc3637b170c1c1ae317f",
+    "wof:geomhash":"7d1b2bad962a488f86bb9d98ec53a552",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873732529,
-    "wof:lastmodified":1466670894,
+    "wof:lastmodified":1510604335,
     "wof:name":"Prudential Insurance Co",
     "wof:parent_id":85849867,
     "wof:placetype":"venue",

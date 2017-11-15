@@ -2,14 +2,20 @@
   "id": 873898773,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 School Ln Woodsville NH 03785",
+    "addr:housenumber":"19",
+    "addr:postcode":"03785",
+    "addr:street":"School Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.037469,44.151033,-72.037469,44.151033",
     "geom:latitude":44.151033,
     "geom:longitude":-72.037469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 School Ln",
     "sg:city":"Woodsville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086567,
         85851705
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aM07gZOBhGc6QBNTavCaU_44.151033_-72.037469@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299795,
-    "wof:geomhash":"5594befa9d819f38085aaa2fa15f9d8f",
+    "wof:geomhash":"98b8da128f5e62d90ae44be8a91e6953",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873898773,
-    "wof:lastmodified":1466672448,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85851705,
     "wof:placetype":"venue",

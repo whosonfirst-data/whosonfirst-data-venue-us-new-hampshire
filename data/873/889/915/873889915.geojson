@@ -2,14 +2,20 @@
   "id": 873889915,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Clinton St Laconia NH 03246",
+    "addr:housenumber":"11",
+    "addr:postcode":"03246",
+    "addr:street":"Clinton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.462404,43.547299,-71.462404,43.547299",
     "geom:latitude":43.547299,
     "geom:longitude":-71.462404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11 Clinton St",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086503,
         85829307
     ],
+    "wof:brand_id":1125152043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50hlvvueYTWHmrsnDvNA9Q_43.547299_-71.462404@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299630,
-    "wof:geomhash":"968156f8afc17966008eabf0123b928f",
+    "wof:geomhash":"ec503823c20bdbf6134b582b3b15647b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873889915,
-    "wof:lastmodified":1466672382,
+    "wof:lastmodified":1510694906,
     "wof:name":"Joe's Barber Shop",
     "wof:parent_id":85829307,
     "wof:placetype":"venue",

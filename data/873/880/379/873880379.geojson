@@ -2,14 +2,20 @@
   "id": 873880379,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Daniel Webster Hwy Merrimack NH 03054",
+    "addr:housenumber":"515",
+    "addr:postcode":"03054",
+    "addr:street":"Daniel Webster Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.492148,42.871437,-71.492148,42.871437",
     "geom:latitude":42.871437,
     "geom:longitude":-71.492148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 Daniel Webster Hwy",
     "sg:city":"Merrimack",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85868773,
         102085493
     ],
+    "wof:brand_id":420574993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JlgRhtu39uRhPfgBOWFVb_42.871437_-71.492148@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299441,
-    "wof:geomhash":"4061fa8d0af6bb3781cb0d3d34ffc03c",
+    "wof:geomhash":"9714ff182dbe16b3f6eba24e22f8990f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873880379,
-    "wof:lastmodified":1466672233,
+    "wof:lastmodified":1510603965,
     "wof:name":"Gold's Gym",
     "wof:parent_id":85868773,
     "wof:placetype":"venue",

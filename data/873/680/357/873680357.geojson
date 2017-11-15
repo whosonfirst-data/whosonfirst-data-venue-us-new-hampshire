@@ -2,6 +2,10 @@
   "id": 873680357,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 First New Hampshire Tpke Northwood NH 03261",
+    "addr:housenumber":"499",
+    "addr:postcode":"03261",
+    "addr:street":"First New;Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873680357,
-    "wof:lastmodified":1466670529,
+    "wof:lastmodified":1472634176,
     "wof:name":"Northwood Fire Station",
     "wof:parent_id":85838443,
     "wof:placetype":"venue",

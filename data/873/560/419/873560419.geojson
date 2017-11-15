@@ -2,14 +2,20 @@
   "id": 873560419,
   "type": "Feature",
   "properties": {
+    "addr:full":"239 Loudon Rd Concord NH 03301",
+    "addr:housenumber":"239",
+    "addr:postcode":"03301",
+    "addr:street":"Loudon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.492829,43.222773,-71.492829,43.222773",
     "geom:latitude":43.222773,
     "geom:longitude":-71.492829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"239 Loudon Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125151517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HNISQKDA0p2w37WoIL1rR_43.222773_-71.492829@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294504,
-    "wof:geomhash":"d8d96c9452d83ecd70b889e70e28dc41",
+    "wof:geomhash":"f3a1de44de1a4dc957d6ead3ae8ef99f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873560419,
-    "wof:lastmodified":1466669844,
+    "wof:lastmodified":1510694722,
     "wof:name":"Queen Nails",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

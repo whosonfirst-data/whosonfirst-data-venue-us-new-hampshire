@@ -2,6 +2,10 @@
   "id": 873704425,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Main St Nashua NH 03060",
+    "addr:housenumber":"301",
+    "addr:postcode":"03060",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873704425,
-    "wof:lastmodified":1466670696,
+    "wof:lastmodified":1472634179,
     "wof:name":"Shell Food Mart",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",

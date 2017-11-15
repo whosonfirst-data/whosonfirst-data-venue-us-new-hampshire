@@ -2,14 +2,20 @@
   "id": 873919263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1056 Union Ave Laconia NH 03246",
+    "addr:housenumber":"1056",
+    "addr:postcode":"03246",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.457082,43.55402,-71.457082,43.55402",
     "geom:latitude":43.55402,
     "geom:longitude":-71.457082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1056 Union Ave",
     "sg:city":"Laconia",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086503,
         85829307
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kISaIvGP8F9GW1qWc1oeB_43.553494_-71.457330@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300199,
-    "wof:geomhash":"e48d621570f5b6a9d48b8896134a771c",
+    "wof:geomhash":"db8e4bf027e8345bbc76ec8fb1229174",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873919263,
-    "wof:lastmodified":1466672615,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85829307,
     "wof:placetype":"venue",

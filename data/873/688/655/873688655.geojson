@@ -2,6 +2,10 @@
   "id": 873688655,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Blueberry Rd Windham NH 03087",
+    "addr:housenumber":"100",
+    "addr:postcode":"03087",
+    "addr:street":"Blueberry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873688655,
-    "wof:lastmodified":1466670610,
+    "wof:lastmodified":1472634222,
     "wof:name":"Boston International Healthcr",
     "wof:parent_id":85892227,
     "wof:placetype":"venue",

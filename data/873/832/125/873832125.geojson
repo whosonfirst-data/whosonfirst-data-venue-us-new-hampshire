@@ -2,14 +2,20 @@
   "id": 873832125,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 N Main St Concord NH 03301",
+    "addr:housenumber":"34",
+    "addr:postcode":"03301",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.536068,43.205447,-71.536068,43.205447",
     "geom:latitude":43.205447,
     "geom:longitude":-71.536068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 N Main St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":420574411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uYghuU8Wp5ltMBPjw7nL4_43.205447_-71.536068@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298379,
-    "wof:geomhash":"96e91108c96182bad9462d65d4e3686f",
+    "wof:geomhash":"7bbb899fd732c90637178863bef32019",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":873832125,
-    "wof:lastmodified":1466671681,
+    "wof:lastmodified":1510604729,
     "wof:name":"Christian Science Reading Room",
     "wof:parent_id":85892219,
     "wof:placetype":"venue",

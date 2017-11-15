@@ -2,6 +2,10 @@
   "id": 873848841,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Elm St Manchester NH 03101",
+    "addr:housenumber":"501",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873848841,
-    "wof:lastmodified":1466671912,
+    "wof:lastmodified":1472634371,
     "wof:name":"Elm Street Automotive Service",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

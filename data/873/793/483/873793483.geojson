@@ -2,14 +2,20 @@
   "id": 873793483,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Industrial Park Dr Concord NH 03301",
+    "addr:housenumber":"2",
+    "addr:postcode":"03301",
+    "addr:street":"Industrial Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.485005,43.208469,-71.485005,43.208469",
     "geom:latitude":43.208469,
     "geom:longitude":-71.485005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Industrial Park Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125159847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VVc5Mpd9R6Wg7zbDYI0tI_43.208469_-71.485005@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297697,
-    "wof:geomhash":"8c1ec3eb06fe335e18bc70c50412b063",
+    "wof:geomhash":"a1347f00c77a015b80544cb0c8741a69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873793483,
-    "wof:lastmodified":1466671341,
+    "wof:lastmodified":1510694243,
     "wof:name":"Easter Seal Society",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

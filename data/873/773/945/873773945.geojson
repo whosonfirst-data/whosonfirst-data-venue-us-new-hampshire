@@ -2,6 +2,10 @@
   "id": 873773945,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Chichester Rd Loudon NH 03307",
+    "addr:housenumber":"123",
+    "addr:postcode":"03307",
+    "addr:street":"Chichester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873773945,
-    "wof:lastmodified":1466671228,
+    "wof:lastmodified":1472634297,
     "wof:name":"S B Sign & Graphics",
     "wof:parent_id":85826297,
     "wof:placetype":"venue",

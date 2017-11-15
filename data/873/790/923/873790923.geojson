@@ -2,14 +2,20 @@
   "id": 873790923,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Main St Plymouth NH 03264",
+    "addr:housenumber":"113",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.687492,43.758876,-71.687492,43.758876",
     "geom:latitude":43.758876,
     "geom:longitude":-71.687492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 Main St",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85806347,
         102086567
     ],
+    "wof:brand_id":1125153215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JSksqZC48K9NvwnlFkdSU_43.758876_-71.687492@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297652,
-    "wof:geomhash":"03c7243bb1fe8e10d6ceb6a03ee74045",
+    "wof:geomhash":"c4cf9ac2fe9ee45899bd19b5fbf410b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873790923,
-    "wof:lastmodified":1466671358,
+    "wof:lastmodified":1510693767,
     "wof:name":"Diamond Nails",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

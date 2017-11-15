@@ -2,14 +2,20 @@
   "id": 873758719,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 Raynes Ave Portsmouth NH 03801",
+    "addr:housenumber":"31",
+    "addr:postcode":"03801",
+    "addr:street":"Raynes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.763749,43.079673,-70.763749,43.079673",
     "geom:latitude":43.079673,
     "geom:longitude":-70.763749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31 Raynes Ave",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125156941,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VZGqsoQe8DNQ1v5dDsIoT_43.079673_-70.763749@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297191,
-    "wof:geomhash":"09ca0a46d7f2210568438ce59530fe45",
+    "wof:geomhash":"96050b0e717ba6ecccdd627ea892fa1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873758719,
-    "wof:lastmodified":1466671123,
+    "wof:lastmodified":1510613430,
     "wof:name":"Coldwell Banker Residential",
     "wof:parent_id":85892297,
     "wof:placetype":"venue",

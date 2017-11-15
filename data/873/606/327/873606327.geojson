@@ -2,6 +2,10 @@
   "id": 873606327,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Carl Dr Manchester NH 03103",
+    "addr:housenumber":"100",
+    "addr:postcode":"03103",
+    "addr:street":"Carl Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873606327,
-    "wof:lastmodified":1466670118,
+    "wof:lastmodified":1472634166,
     "wof:name":"Pro Image Racing",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

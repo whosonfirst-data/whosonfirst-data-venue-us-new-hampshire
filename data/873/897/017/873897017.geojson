@@ -2,14 +2,20 @@
   "id": 873897017,
   "type": "Feature",
   "properties": {
+    "addr:full":"898 Central Ave Dover NH 03820",
+    "addr:housenumber":"898",
+    "addr:postcode":"03820",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.885552,43.220148,-70.885552,43.220148",
     "geom:latitude":43.220148,
     "geom:longitude":-70.885552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"898 Central Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102085609,
         85821239
     ],
+    "wof:brand_id":1125152229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75ae4e7rpnGs75ljBPHFnN_43.220148_-70.885552@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299763,
-    "wof:geomhash":"469695f27264a793f4c3ad8f987736e3",
+    "wof:geomhash":"70f2b3e24588c6f3c74aa30a9c3048be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":873897017,
-    "wof:lastmodified":1466672330,
+    "wof:lastmodified":1510699279,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85821239,
     "wof:placetype":"venue",

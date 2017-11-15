@@ -2,14 +2,20 @@
   "id": 873908967,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Lafayette Rd Seabrook NH 03874",
+    "addr:housenumber":"9",
+    "addr:postcode":"03874",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.870102,42.873499,-70.870102,42.873499",
     "geom:latitude":42.873499,
     "geom:longitude":-70.870102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Lafayette Rd",
     "sg:city":"Seabrook",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85849117,
         102086507
     ],
+    "wof:brand_id":1125153169,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XOgDhtFwIdfwA3kSwpNKO_42.873499_-70.870102@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299993,
-    "wof:geomhash":"a40a238e0a40b10a07b55b18f5ea573c",
+    "wof:geomhash":"6b1eb19dc12f5f14ad51e2dc79e7076a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873908967,
-    "wof:lastmodified":1466672578,
+    "wof:lastmodified":1510694657,
     "wof:name":"Olympia Sports",
     "wof:parent_id":85849117,
     "wof:placetype":"venue",

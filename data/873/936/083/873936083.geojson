@@ -2,6 +2,10 @@
   "id": 873936083,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Sagamore Park Rd, P.O. Box 3720 Hudson NH NH 03051",
+    "addr:housenumber":"41;box 3720",
+    "addr:postcode":"03051",
+    "addr:street":"Sagamore Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873936083,
-    "wof:lastmodified":1466672772,
+    "wof:lastmodified":1472634381,
     "wof:name":"Zco Corporation",
     "wof:parent_id":85826415,
     "wof:placetype":"venue",

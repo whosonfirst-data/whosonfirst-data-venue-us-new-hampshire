@@ -2,14 +2,20 @@
   "id": 873826369,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Cremin St Concord NH 03303",
+    "addr:housenumber":"3",
+    "addr:postcode":"03303",
+    "addr:street":"Cremin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.582005,43.259949,-71.582005,43.259949",
     "geom:latitude":43.259949,
     "geom:longitude":-71.582005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Cremin St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TSyDe25lnuHS5E35qd1pl_43.259949_-71.582005@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298261,
-    "wof:geomhash":"ee6c765df762262d1679f5fcaa422b0f",
+    "wof:geomhash":"77e7e513118215fdbfab4abae001c59a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873826369,
-    "wof:lastmodified":1466671604,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85855315,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873903165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Robert Ave Portsmouth NH 03801",
+    "addr:housenumber":"1",
+    "addr:postcode":"03801",
+    "addr:street":"Robert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.78317,43.0264,-70.78317,43.0264",
     "geom:latitude":43.0264,
     "geom:longitude":-70.78317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Robert Ave",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_465LshtNcC9gdHzSXVBaOD_43.026400_-70.783170@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299882,
-    "wof:geomhash":"d055b9be765f22594874e5f679bb2d92",
+    "wof:geomhash":"c4695807baedb1fe5a4154d5bf85aaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873903165,
-    "wof:lastmodified":1466672455,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":420526343,
     "wof:placetype":"venue",

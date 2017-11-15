@@ -2,14 +2,20 @@
   "id": 873548999,
   "type": "Feature",
   "properties": {
+    "addr:full":"194 Grant Rd Newmarket NH 03857",
+    "addr:housenumber":"194",
+    "addr:postcode":"03857",
+    "addr:street":"Grant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.981923,43.060793,-70.981923,43.060793",
     "geom:latitude":43.060793,
     "geom:longitude":-70.981923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"194 Grant Rd",
     "sg:city":"Newmarket",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85820369,
         102086507
     ],
+    "wof:brand_id":1125151081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XQz5xnFfoWLLOkTW0ItMp_43.060793_-70.981923@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294367,
-    "wof:geomhash":"24da6a3245b33a9ee40e255b1cc417c5",
+    "wof:geomhash":"9f8cd5ef1b8cd6b27455acd0a2bb939b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873548999,
-    "wof:lastmodified":1466669814,
+    "wof:lastmodified":1510695433,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":85820369,
     "wof:placetype":"venue",

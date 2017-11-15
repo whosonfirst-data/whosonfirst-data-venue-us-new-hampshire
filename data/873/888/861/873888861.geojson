@@ -2,6 +2,10 @@
   "id": 873888861,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Main St Plymouth NH 03264",
+    "addr:housenumber":"135",
+    "addr:postcode":"03264",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873888861,
-    "wof:lastmodified":1466672356,
+    "wof:lastmodified":1472634365,
     "wof:name":"Palmison Graphics",
     "wof:parent_id":85806347,
     "wof:placetype":"venue",

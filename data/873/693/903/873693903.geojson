@@ -2,6 +2,10 @@
   "id": 873693903,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Franklin St Manchester NH 03101",
+    "addr:housenumber":"323",
+    "addr:postcode":"03101",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873693903,
-    "wof:lastmodified":1466670661,
+    "wof:lastmodified":1472634240,
     "wof:name":"Our Place",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",

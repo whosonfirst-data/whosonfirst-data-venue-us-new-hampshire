@@ -2,14 +2,20 @@
   "id": 873632641,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Mechanic St Keene NH 03431",
+    "addr:housenumber":"34",
+    "addr:postcode":"03431",
+    "addr:street":"Mechanic St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.278514,42.93645,-72.278514,42.93645",
     "geom:latitude":42.93645,
     "geom:longitude":-72.278514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Mechanic St",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085643,
         85688689
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KEb2KXbveuEQ1Pg5VmUvk_42.936450_-72.278514@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295395,
-    "wof:geomhash":"85e6e9d7b5d8944002070dba2d01474d",
+    "wof:geomhash":"02b6aedfae35a8d829bdf32ae498fc56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873632641,
-    "wof:lastmodified":1466670277,
+    "wof:lastmodified":1510604126,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85892241,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873781409,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Summer St Bristol NH 03222",
+    "addr:housenumber":"355",
+    "addr:postcode":"03222",
+    "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.733169,43.593371,-71.733169,43.593371",
     "geom:latitude":43.593371,
     "geom:longitude":-71.733169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"355 Summer St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838599,
         102086567
     ],
+    "wof:brand_id":1125156639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N9Jz6J9l0BiYona63law0_43.593371_-71.733169@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297509,
-    "wof:geomhash":"058968dd8b6b199c770d8ef3695e3871",
+    "wof:geomhash":"5124b080b93f24c223c025e044960828",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873781409,
-    "wof:lastmodified":1466671245,
+    "wof:lastmodified":1510697174,
     "wof:name":"Remember When",
     "wof:parent_id":85838599,
     "wof:placetype":"venue",

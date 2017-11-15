@@ -2,14 +2,20 @@
   "id": 873620501,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Elm St Manchester NH 03101",
+    "addr:housenumber":"14",
+    "addr:postcode":"03101",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.46313,42.972877,-71.46313,42.972877",
     "geom:latitude":42.972877,
     "geom:longitude":-71.46313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Elm St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125158243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QHd3LC26ozOldJk3ELFo5_42.972877_-71.463130@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295256,
-    "wof:geomhash":"d292fd109f30c5ec6794a67c7e2e14f1",
+    "wof:geomhash":"503d9398cc5244045a8b6abfb8fc4f90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873620501,
-    "wof:lastmodified":1466670202,
+    "wof:lastmodified":1510697793,
     "wof:name":"Blessed Sacrament Church",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",

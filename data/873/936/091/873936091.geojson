@@ -2,6 +2,10 @@
   "id": 873936091,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 Broad St Ste 1531 Nashua NH 03063",
+    "addr:housenumber":"154",
+    "addr:postcode":"1531;03063",
+    "addr:street":"Broad St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873936091,
-    "wof:lastmodified":1466672773,
+    "wof:lastmodified":1472634382,
     "wof:name":"NuWave Technologies",
     "wof:parent_id":85892277,
     "wof:placetype":"venue",

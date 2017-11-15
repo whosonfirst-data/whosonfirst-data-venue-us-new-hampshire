@@ -2,14 +2,20 @@
   "id": 873919209,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 S Willow St Manchester NH 03103",
+    "addr:housenumber":"401",
+    "addr:postcode":"03103",
+    "addr:street":"S Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.451734,42.96821,-71.451734,42.96821",
     "geom:latitude":42.96821,
     "geom:longitude":-71.451734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 S Willow St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vL0ErzW1fRIef0PF4ZUBO_42.967718_-71.450963@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464300198,
-    "wof:geomhash":"30ac703c356680325c896386c5d8a46b",
+    "wof:geomhash":"4743d7d9e62a7bdc6c7f9096fa1a7bbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873919209,
-    "wof:lastmodified":1466672609,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

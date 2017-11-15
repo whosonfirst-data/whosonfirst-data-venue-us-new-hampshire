@@ -2,14 +2,20 @@
   "id": 873917961,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 Loudon Rd Concord NH 03301",
+    "addr:housenumber":"126",
+    "addr:postcode":"03301",
+    "addr:street":"Loudon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.510849,43.214221,-71.510849,43.214221",
     "geom:latitude":43.214221,
     "geom:longitude":-71.510849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 Loudon Rd",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086515,
         85688689
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LoiZ63eEc9Cy1hfBbe6zg_43.214221_-71.510849@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300176,
-    "wof:geomhash":"91702212ab5c8a7c80126eeae7029a06",
+    "wof:geomhash":"088ae355e0c630d341a473a85e6e77f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873917961,
-    "wof:lastmodified":1466672700,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",

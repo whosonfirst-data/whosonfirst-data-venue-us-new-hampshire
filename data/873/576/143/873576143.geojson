@@ -2,14 +2,20 @@
   "id": 873576143,
   "type": "Feature",
   "properties": {
+    "addr:full":"332 N Broadway Salem NH 03079",
+    "addr:housenumber":"332",
+    "addr:postcode":"03079",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.243748,42.80397,-71.243748,42.80397",
     "geom:latitude":42.80397,
     "geom:longitude":-71.243748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"332 N Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85809279,
         102086507
     ],
+    "wof:brand_id":1125157307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15wzYOR360maW9qB7aLZyx_42.803970_-71.243748@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294675,
-    "wof:geomhash":"2f21d61a1dee46e20f57415646ec8bf7",
+    "wof:geomhash":"f3c5ac82b9e7a9583f9b7893d30443b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873576143,
-    "wof:lastmodified":1466669943,
+    "wof:lastmodified":1510695284,
     "wof:name":"Worldwide Express",
     "wof:parent_id":85809279,
     "wof:placetype":"venue",

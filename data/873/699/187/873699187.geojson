@@ -2,6 +2,10 @@
   "id": 873699187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 S Willow St Manchester NH 03103",
+    "addr:housenumber":"1111",
+    "addr:postcode":"03103",
+    "addr:street":"S Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873699187,
-    "wof:lastmodified":1466670647,
+    "wof:lastmodified":1472634156,
     "wof:name":"Radio Shack",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",

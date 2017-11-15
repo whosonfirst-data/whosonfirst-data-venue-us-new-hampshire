@@ -2,6 +2,10 @@
   "id": 873778853,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Nashua Rd Londonderry NH 03053",
+    "addr:housenumber":"123",
+    "addr:postcode":"03053",
+    "addr:street":"Nashua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873778853,
-    "wof:lastmodified":1466671266,
+    "wof:lastmodified":1472634289,
     "wof:name":"Londonderry Quick Stop",
     "wof:parent_id":420526321,
     "wof:placetype":"venue",

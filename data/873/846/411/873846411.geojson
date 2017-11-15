@@ -2,14 +2,20 @@
   "id": 873846411,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Mirona Rd Portsmouth NH 03801",
+    "addr:housenumber":"45",
+    "addr:postcode":"03801",
+    "addr:street":"Mirona Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.777925,43.049077,-70.777925,43.049077",
     "geom:latitude":43.049077,
     "geom:longitude":-70.777925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45 Mirona Rd",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086507,
         85688689
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z9Qip354NVEzmwKROQrH7_43.049077_-70.777925@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298711,
-    "wof:geomhash":"f3c5766ca7c1414c1c5aa7d8927b7062",
+    "wof:geomhash":"74b7ca5e90b795789ace01bdfc7c15fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873846411,
-    "wof:lastmodified":1466671853,
+    "wof:lastmodified":1510693873,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85892303,
     "wof:placetype":"venue",

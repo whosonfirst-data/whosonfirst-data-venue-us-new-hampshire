@@ -2,14 +2,20 @@
   "id": 873670755,
   "type": "Feature",
   "properties": {
+    "addr:full":"295 Daniel Webster Hwy Nashua NH 03060",
+    "addr:housenumber":"295",
+    "addr:postcode":"03060",
+    "addr:street":"Daniel Webster Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.441168,42.703252,-71.441168,42.703252",
     "geom:latitude":42.703252,
     "geom:longitude":-71.441168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"295 Daniel Webster Hwy",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125150441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qQpBJdIpdRxpQibdwlknF_42.703252_-71.441168@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295810,
-    "wof:geomhash":"af1cde07f3429f682191dcdf6091ff69",
+    "wof:geomhash":"00c45d2a4109dd8e9d9748a3dd450e82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873670755,
-    "wof:lastmodified":1466670498,
+    "wof:lastmodified":1510697663,
     "wof:name":"Huntington Learning Center",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",

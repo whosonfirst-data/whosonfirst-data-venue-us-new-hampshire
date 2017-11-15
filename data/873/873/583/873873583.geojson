@@ -2,14 +2,20 @@
   "id": 873873583,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Old Rochester Rd Dover NH 03820",
+    "addr:housenumber":"55",
+    "addr:postcode":"03820",
+    "addr:street":"Old Rochester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.8986,43.231604,-70.8986,43.231604",
     "geom:latitude":43.231604,
     "geom:longitude":-70.8986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Old Rochester Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085609,
         85688689
     ],
+    "wof:brand_id":1125156409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ag5YFZWZVTSNRvxrAT7dW_43.231604_-70.898600@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299308,
-    "wof:geomhash":"477cceba581146d2689c0031a1b452ef",
+    "wof:geomhash":"9c3a0ac355f281e84346f26f2a4589c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873873583,
-    "wof:lastmodified":1466672166,
+    "wof:lastmodified":1510695236,
     "wof:name":"Hair Dimensions",
     "wof:parent_id":420526423,
     "wof:placetype":"venue",

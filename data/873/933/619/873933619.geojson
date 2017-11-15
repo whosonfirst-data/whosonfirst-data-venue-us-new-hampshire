@@ -2,6 +2,10 @@
   "id": 873933619,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 750 2633 White Mountain Highway North Conway NH 03860",
+    "addr:housenumber":"po;2633",
+    "addr:postcode":"03860",
+    "addr:street":"Box 750;White Mountain Highway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873933619,
-    "wof:lastmodified":1466672815,
+    "wof:lastmodified":1472634414,
     "wof:name":"Badger Realty",
     "wof:parent_id":85843529,
     "wof:placetype":"venue",

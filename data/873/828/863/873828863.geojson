@@ -2,14 +2,20 @@
   "id": 873828863,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Wason Rd Hudson NH 03051",
+    "addr:housenumber":"9",
+    "addr:postcode":"03051",
+    "addr:street":"Wason Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.424347,42.731762,-71.424347,42.731762",
     "geom:latitude":42.731762,
     "geom:longitude":-71.424347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Wason Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085493,
         85688689
     ],
+    "wof:brand_id":1125158639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HmZ99SgIW4FFN9x01i72s_42.731762_-71.424347@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298311,
-    "wof:geomhash":"0a5721ea52aa51efb56639a6fa2a926a",
+    "wof:geomhash":"4f4a3cbb4ebd805cbb9c4fc7b83453f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873828863,
-    "wof:lastmodified":1466671728,
+    "wof:lastmodified":1510699375,
     "wof:name":"Stop & Shop Supermarket",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",
