@@ -7,13 +7,16 @@
     "addr:postcode":"03063",
     "addr:street":"Coliseum Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.497748,42.766153,-71.497748,42.766153",
     "geom:latitude":42.766153,
     "geom:longitude":-71.497748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"10 Coliseum Ave",
     "sg:city":"Nashua",
     "sg:classifiers":[],
@@ -34,11 +37,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":116979306,
         "sg:id":"SG_7R0IOJfR52QQO1iMJWUk2s_42.766153_-71.497748@1303262240"
     },
     "wof:country":"US",
     "wof:created":1464300293,
-    "wof:geomhash":"d135ce6cc37f330f54e6bd2b5966e743",
+    "wof:geomhash":"402fad0660b3e4cb6dde988b06976804",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":873924287,
-    "wof:lastmodified":1472634398,
+    "wof:lastmodified":1510944069,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85892277,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        873916869
+    ],
+    "wof:supersedes":[
+        873916869
+    ],
     "wof:tags":[]
 },
   "bbox": [

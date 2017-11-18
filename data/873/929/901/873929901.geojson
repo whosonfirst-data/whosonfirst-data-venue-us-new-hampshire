@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-70.807911,43.09997,-70.807911,43.09997",
     "geom:latitude":43.09997,
     "geom:longitude":-70.807911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Fox Run Rd",
     "sg:city":"Newington",
     "sg:classifiers":[
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300408,
-    "wof:geomhash":"6d7eb969cdd00eac845388a78d2afda7",
+    "wof:geomhash":"5fd1c20994d745844d469e63a0d1a82c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -76,13 +78,15 @@
         }
     ],
     "wof:id":873929901,
-    "wof:lastmodified":1472634416,
+    "wof:lastmodified":1510943609,
     "wof:name":"T-Mobile",
     "wof:parent_id":85892299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873907811
+    ],
     "wof:tags":[
         "telecommunication",
         "supply",

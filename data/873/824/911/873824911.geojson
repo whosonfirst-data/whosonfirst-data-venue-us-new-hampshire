@@ -7,13 +7,16 @@
     "addr:postcode":"03743",
     "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.339614,43.370007,-72.339614,43.370007",
     "geom:latitude":43.370007,
     "geom:longitude":-72.339614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"93 Pleasant St",
     "sg:city":"Claremont",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298231,
-    "wof:geomhash":"ccd9eef24dfa5f4d2f401bb5b00c5d67",
+    "wof:geomhash":"96a1fb93fcfafcf4544493c810d019f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":873824911,
-    "wof:lastmodified":1472634368,
+    "wof:lastmodified":1510942266,
     "wof:name":"Dusty's",
     "wof:parent_id":420526487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873840269
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

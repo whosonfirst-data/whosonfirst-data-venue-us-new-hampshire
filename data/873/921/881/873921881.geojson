@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.356285,42.858667,-71.356285,42.858667",
     "geom:latitude":42.858667,
     "geom:longitude":-71.356285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 Orchard View Dr Unit 7",
     "sg:city":"Londonderry",
     "sg:classifiers":[],
@@ -34,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":180988554,
         "sg:id":"SG_4WIE85NdfDvG7EwNCWTCog_42.858667_-71.356285@1303262239"
     },
     "wof:country":"US",
     "wof:created":1464300250,
-    "wof:geomhash":"873b836ced91e7e289be13afa5f4cb77",
+    "wof:geomhash":"665dfaba781caa0efb0e35d5b8f5a424",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +55,15 @@
         }
     ],
     "wof:id":873921881,
-    "wof:lastmodified":1472634417,
+    "wof:lastmodified":1510943293,
     "wof:name":"Super Wok",
     "wof:parent_id":420526321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873736601
+    ],
     "wof:tags":[]
 },
   "bbox": [
