@@ -14,6 +14,7 @@
     "geom:longitude":-71.517768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"427 Amherst St",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296397,
-    "wof:geomhash":"a819ff3e8873766c0b2821e06eb777e4",
+    "wof:geomhash":"86ce609ac822d9226245510a9dfbd096",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873699247,
-    "wof:lastmodified":1472634165,
+    "wof:lastmodified":1534439109,
     "wof:name":"98 To Go Corp",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873685113
+    ],
     "wof:tags":[
         "eating"
     ]

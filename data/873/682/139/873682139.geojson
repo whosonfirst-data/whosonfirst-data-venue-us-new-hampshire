@@ -7,6 +7,7 @@
     "addr:postcode":"03079",
     "addr:street":"Rockingham Park Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-71.225392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"99 Rockingham Park Blvd",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":873682139,
-    "wof:lastmodified":1510697464,
+    "wof:lastmodified":1534439111,
     "wof:name":"Childrens Place The",
     "wof:parent_id":85811539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873925651
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

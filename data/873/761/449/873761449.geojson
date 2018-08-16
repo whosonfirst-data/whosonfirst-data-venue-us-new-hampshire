@@ -14,6 +14,7 @@
     "geom:longitude":-71.240479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"254 N Broadway",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297227,
-    "wof:geomhash":"5c457da45cd07c506f25dcad72b3ceb6",
+    "wof:geomhash":"302a73bfbccac0166c7fbd0b7eeb3f20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873761449,
-    "wof:lastmodified":1472634268,
+    "wof:lastmodified":1534439109,
     "wof:name":"N Comm Inc",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873709715
+    ],
     "wof:tags":[
         "engineer"
     ]

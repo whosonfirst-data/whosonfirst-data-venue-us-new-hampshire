@@ -7,6 +7,7 @@
     "addr:postcode":"03101",
     "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.46373,42.997209,-71.46373,42.997209",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.46373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1361 Elm St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296905,
-    "wof:geomhash":"8183f6eceac9c457abcf0de55f79b8e1",
+    "wof:geomhash":"869e4b4221c0bc479385aa59520a49af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":873738757,
-    "wof:lastmodified":1472634255,
+    "wof:lastmodified":1534439109,
     "wof:name":"Westbridge Community Service",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873765847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty",

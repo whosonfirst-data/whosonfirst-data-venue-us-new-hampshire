@@ -14,6 +14,7 @@
     "geom:longitude":-71.466476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 S Commercial St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298170,
-    "wof:geomhash":"301ad31345a4362845ef1ed48f8253a9",
+    "wof:geomhash":"014a223aee525e63a226f7524e5e350c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873822355,
-    "wof:lastmodified":1472634327,
+    "wof:lastmodified":1534439109,
     "wof:name":"Sydneys",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873810403
+    ],
     "wof:tags":[
         "shop"
     ]

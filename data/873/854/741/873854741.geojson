@@ -14,6 +14,7 @@
     "geom:longitude":-71.507071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Trafalgar Sq",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298909,
-    "wof:geomhash":"a1bb5c77d5a3c24698ec28a68518d6b0",
+    "wof:geomhash":"f48c90ac04f944a120b95bafb4b5922b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873854741,
-    "wof:lastmodified":1472634364,
+    "wof:lastmodified":1534439110,
     "wof:name":"Tamposi Company Inc",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873688899
+    ],
     "wof:tags":[
         "brokerage"
     ]

@@ -2,18 +2,24 @@
   "id": 873791867,
   "type": "Feature",
   "properties": {
-    "addr:full":"153 Ash St Manchester NH 03104",
+    "addr:city":"Manchester",
+    "addr:full":"153 Ash Street Manchester, Nh 03105-0310",
+    "addr:house_number":"153",
     "addr:housenumber":"153",
-    "addr:postcode":"03104",
+    "addr:phone":"+1 603-624-1729",
+    "addr:postcode":"03105-0310",
+    "addr:road":"Ash Street",
+    "addr:state":"NH",
     "addr:street":"Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.455047,42.99765,-71.455047,42.99765",
-    "geom:latitude":42.99765,
-    "geom:longitude":-71.455047,
+    "geom:bbox":"-71.45503,42.99775,-71.45503,42.99775",
+    "geom:latitude":42.99775,
+    "geom:longitude":-71.45503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"153 Ash St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -30,7 +36,12 @@
     "sg:tags":[
         "church"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527705,
+        102531531,
+        102533885
+    ],
     "wof:belongsto":[
         85892261,
         102191575,
@@ -42,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300069,
         "sg:id":"SG_15KDCvRTSHHbZHC8q5Plf5_42.997650_-71.455047@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297675,
-    "wof:geomhash":"46927a8b5bd261db7079dc246643fd99",
+    "wof:geomhash":"cfc907cdf4f2ee6e90e702962fc1cd91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +72,8 @@
         }
     ],
     "wof:id":873791867,
-    "wof:lastmodified":1472634280,
-    "wof:name":"Diocese Of Manchester",
+    "wof:lastmodified":1534439111,
+    "wof:name":"Diocesan Museum Of Manchester",
     "wof:parent_id":85892261,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -72,10 +84,10 @@
     ]
 },
   "bbox": [
-    -71.455047,
-    42.99765,
-    -71.455047,
-    42.99765
+    -71.45503,
+    42.99775,
+    -71.45503,
+    42.99775
 ],
-  "geometry": {"coordinates":[-71.45504699999999,42.99765],"type":"Point"}
+  "geometry": {"coordinates":[-71.45502999999999,42.99775],"type":"Point"}
 }

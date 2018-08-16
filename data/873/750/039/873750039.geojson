@@ -14,6 +14,7 @@
     "geom:longitude":-71.468648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Commercial St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297075,
-    "wof:geomhash":"16f3f7294ccc141d87ab1c42e7c97de5",
+    "wof:geomhash":"d3a64dcabd04719d7fecf75dd79a45c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873750039,
-    "wof:lastmodified":1472634216,
+    "wof:lastmodified":1534439109,
     "wof:name":"Video Hardware Services LLC",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873711833
+    ],
     "wof:tags":[
         "repair",
         "electronic"

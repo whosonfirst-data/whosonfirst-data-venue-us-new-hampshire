@@ -2,18 +2,24 @@
   "id": 873601797,
   "type": "Feature",
   "properties": {
-    "addr:full":"182 Central Ave Dover NH 03820",
+    "addr:city":"Dover",
+    "addr:full":"182 Central Ave Dover, Nh 03820",
+    "addr:house_number":"182",
     "addr:housenumber":"182",
+    "addr:phone":"+1 603-742-1038",
     "addr:postcode":"03820",
+    "addr:road":"Central Ave",
+    "addr:state":"NH",
     "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.874072,43.189367,-70.874072,43.189367",
-    "geom:latitude":43.189367,
-    "geom:longitude":-70.874072,
+    "geom:bbox":"-70.87416,43.18925,-70.87416,43.18925",
+    "geom:latitude":43.18925,
+    "geom:longitude":-70.87416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"182 Central Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 603 742 1038",
     "sg:postcode":"03820",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529547
+    ],
     "wof:belongsto":[
         85892231,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300007,
         "sg:id":"SG_0Qrd3MKnrJZY2PGG2sWd27_43.189367_-70.874072@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295006,
-    "wof:geomhash":"2c098ff595abbb12c2750442cc6b1043",
+    "wof:geomhash":"6fe733da1d978ea425c913dec75055b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":873601797,
-    "wof:lastmodified":1472634212,
-    "wof:name":"Woodman Institute",
+    "wof:lastmodified":1534439111,
+    "wof:name":"Woodman Institute Museum",
     "wof:parent_id":85892231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.874072,
-    43.189367,
-    -70.874072,
-    43.189367
+    -70.87416,
+    43.18925,
+    -70.87416,
+    43.18925
 ],
-  "geometry": {"coordinates":[-70.874072,43.189367],"type":"Point"}
+  "geometry": {"coordinates":[-70.87416,43.18925],"type":"Point"}
 }

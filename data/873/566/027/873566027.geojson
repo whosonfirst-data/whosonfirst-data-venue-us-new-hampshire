@@ -7,6 +7,7 @@
     "addr:postcode":"03038",
     "addr:street":"Manning St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.327106,42.88169,-71.327106,42.88169",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.327106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14 Manning St",
     "sg:city":"Derry",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294566,
-    "wof:geomhash":"e342ac2ed6bf2bbdcfa374d2b32a6aaf",
+    "wof:geomhash":"1e0cb5e0e6ef560bd0f1cca2859d2f19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":873566027,
-    "wof:lastmodified":1472634134,
+    "wof:lastmodified":1534439110,
     "wof:name":"Derry Planning Dept",
     "wof:parent_id":85892223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873911733
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "village"

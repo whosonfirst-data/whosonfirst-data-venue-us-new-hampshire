@@ -2,18 +2,24 @@
   "id": 873583795,
   "type": "Feature",
   "properties": {
-    "addr:full":"117 Ridge Rd Hollis NH 03049",
+    "addr:city":"Hollis",
+    "addr:full":"117 Ridge Road Hollis, Nh 03049",
+    "addr:house_number":"117",
     "addr:housenumber":"117",
+    "addr:phone":"+1 603-465-7787",
     "addr:postcode":"03049",
+    "addr:road":"Ridge Road",
+    "addr:state":"NH",
     "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.607829,42.717502,-71.607829,42.717502",
-    "geom:latitude":42.717502,
-    "geom:longitude":-71.607829,
+    "geom:bbox":"-71.60741,42.71574,-71.60741,42.71574",
+    "geom:latitude":42.71574,
+    "geom:longitude":-71.60741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"117 Ridge Rd",
     "sg:city":"Hollis",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"03049",
     "sg:province":"NH",
     "sg:website":"www.beaverbrook.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527705
+    ],
     "wof:belongsto":[
-        85688689,
+        102085493,
         85633793,
-        85855687,
-        102085493
+        85688689,
+        85855687
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300411,
         "sg:id":"SG_3abyuBHxdG9fl4G6dxw8Ss_42.717502_-71.607829@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294761,
-    "wof:geomhash":"2fc04dfb6e7fd7d212d3f113fe5989ef",
+    "wof:geomhash":"a2065897b2c112e4941e0c890050d9e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":873583795,
-    "wof:lastmodified":1472634230,
-    "wof:name":"Beaverbrook Association",
+    "wof:lastmodified":1534439111,
+    "wof:name":"Beaver Brook Association",
     "wof:parent_id":85855687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.607829,
-    42.717502,
-    -71.607829,
-    42.717502
+    -71.60741,
+    42.71574,
+    -71.60741,
+    42.71574
 ],
-  "geometry": {"coordinates":[-71.607829,42.717502],"type":"Point"}
+  "geometry": {"coordinates":[-71.60741,42.71574],"type":"Point"}
 }

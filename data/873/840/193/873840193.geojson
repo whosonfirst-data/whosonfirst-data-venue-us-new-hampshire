@@ -7,6 +7,7 @@
     "addr:postcode":"03079",
     "addr:street":"Industrial Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.251782,42.779847,-71.251782,42.779847",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.251782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8 Industrial Way",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298557,
-    "wof:geomhash":"74e02d4b6a212082c02eb7f90f182332",
+    "wof:geomhash":"f607fef1410d18dc4dea6ef57224e506",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":873840193,
-    "wof:lastmodified":1472634321,
+    "wof:lastmodified":1534439110,
     "wof:name":"Alicare Inc",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873857661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "claim",

@@ -14,6 +14,7 @@
     "geom:longitude":-71.141403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 W Main St",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300426,
-    "wof:geomhash":"67dbe67f7b31e81fcb382c166579c192",
+    "wof:geomhash":"613ec5940d39268e31394459a17c9294",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":873930787,
-    "wof:lastmodified":1472634412,
+    "wof:lastmodified":1534439111,
     "wof:name":"Burnham Company Contr",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873850389
+    ],
     "wof:tags":[
         "contractor"
     ]

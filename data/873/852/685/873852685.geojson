@@ -7,6 +7,7 @@
     "addr:postcode":"03813",
     "addr:street":"Green Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.009079,44.043723,-71.009079,44.043723",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.009079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"12 Green Hill Rd",
     "sg:city":"Center Conway",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298867,
-    "wof:geomhash":"7dd3f58f6a2bf78b558a5a8c0b7a95fc",
+    "wof:geomhash":"88c2e59433a8bb150a61048c3a036155",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":873852685,
-    "wof:lastmodified":1472634355,
+    "wof:lastmodified":1534439111,
     "wof:name":"Webster's Country Store",
     "wof:parent_id":85816185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873930651
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

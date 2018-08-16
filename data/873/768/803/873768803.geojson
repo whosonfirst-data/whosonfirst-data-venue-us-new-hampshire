@@ -14,6 +14,7 @@
     "geom:longitude":-71.357942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Industrial Dr",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297347,
-    "wof:geomhash":"568b351750c94a581086f0f49aa2eae8",
+    "wof:geomhash":"b747b4b90fef46f6c3285c21e37d0257",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873768803,
-    "wof:lastmodified":1472634287,
+    "wof:lastmodified":1534439109,
     "wof:name":"Qcs",
     "wof:parent_id":85837895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873723095
+    ],
     "wof:tags":[
         "manufacture",
         "b",

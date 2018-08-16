@@ -14,6 +14,7 @@
     "geom:longitude":-71.436634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Elliot Way",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299518,
-    "wof:geomhash":"ebeaee2c945244b5d5b0a3e7f010bb21",
+    "wof:geomhash":"108b852faabd98d535e905440bb90efb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873884089,
-    "wof:lastmodified":1472634322,
+    "wof:lastmodified":1534439110,
     "wof:name":"Bay Medical Associates PA",
     "wof:parent_id":420526209,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873680831
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -2,18 +2,24 @@
   "id": 873890197,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Bedford St Manchester NH 03101",
+    "addr:city":"Manchester",
+    "addr:full":"200 Bedford Street Manchester, Nh 03101-1132",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
-    "addr:postcode":"03101",
+    "addr:phone":"+1 603-669-0400",
+    "addr:postcode":"03101-1132",
+    "addr:road":"Bedford Street",
+    "addr:state":"NH",
     "addr:street":"Bedford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.46768,42.989533,-71.46768,42.989533",
-    "geom:latitude":42.989533,
-    "geom:longitude":-71.46768,
+    "geom:bbox":"-71.46767,42.98971,-71.46767,42.98971",
+    "geom:latitude":42.98971,
+    "geom:longitude":-71.46767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 Bedford St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:postcode":"03101",
     "sg:province":"NH",
     "sg:website":"www.see-sciencecenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527705,
+        102531531,
+        102533885
+    ],
     "wof:belongsto":[
         85892267,
         102191575,
@@ -40,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300363,
         "sg:id":"SG_6KuBwWZg9IS5gxpotPeHhM_42.989533_-71.467680@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299635,
-    "wof:geomhash":"56d26ae44b61cc8dcc406993cf6a6e8c",
+    "wof:geomhash":"4a3443628f5bafff1ff1b9cf05c5d5b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +70,8 @@
         }
     ],
     "wof:id":873890197,
-    "wof:lastmodified":1472634322,
-    "wof:name":"See Science Ctr",
+    "wof:lastmodified":1534439111,
+    "wof:name":"See Science Center",
     "wof:parent_id":85892267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.46768,
-    42.989533,
-    -71.46768,
-    42.989533
+    -71.46767,
+    42.98971,
+    -71.46767,
+    42.98971
 ],
-  "geometry": {"coordinates":[-71.46768,42.989533],"type":"Point"}
+  "geometry": {"coordinates":[-71.46767,42.98971],"type":"Point"}
 }

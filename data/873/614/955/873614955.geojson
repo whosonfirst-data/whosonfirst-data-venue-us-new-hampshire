@@ -14,6 +14,7 @@
     "geom:longitude":-71.408306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"722 E Industrial Park Dr",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295195,
-    "wof:geomhash":"509c12a61f172074faefee41f89af33e",
+    "wof:geomhash":"f723802091a2d9983f0516cab9541abe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873614955,
-    "wof:lastmodified":1472634227,
+    "wof:lastmodified":1534439109,
     "wof:name":"D E Roy Connection Plumbing",
     "wof:parent_id":420526163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873638323
+    ],
     "wof:tags":[
         "plumbing",
         "contractor"

@@ -14,6 +14,7 @@
     "geom:longitude":-71.348999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Merrill Rd",
     "sg:city":"Candia",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300213,
-    "wof:geomhash":"69742fc4c08eb76f2b456d8333b2b693",
+    "wof:geomhash":"2626cc6d6b05cffe4c5c783c972a661c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873920075,
-    "wof:lastmodified":1472634388,
+    "wof:lastmodified":1534439111,
     "wof:name":"Lupien Electric Inc",
     "wof:parent_id":85830095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873883157
+    ],
     "wof:tags":[
         "electrician"
     ]

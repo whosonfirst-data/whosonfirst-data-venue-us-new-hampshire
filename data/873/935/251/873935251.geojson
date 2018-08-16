@@ -2,18 +2,24 @@
   "id": 873935251,
   "type": "Feature",
   "properties": {
-    "addr:full":"77 Center St Wolfeboro NH 03894",
+    "addr:city":"Wolfeboro",
+    "addr:full":"77 Center St Wolfeboro, Nh 03894",
+    "addr:house_number":"77",
     "addr:housenumber":"77",
+    "addr:phone":"+1 603-569-1212",
     "addr:postcode":"03894",
+    "addr:road":"Center St",
+    "addr:state":"NH",
     "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.199402,43.598,-71.199402,43.598",
-    "geom:latitude":43.598,
-    "geom:longitude":-71.199402,
+    "geom:bbox":"-71.19954,43.59588,-71.19954,43.59588",
+    "geom:latitude":43.59588,
+    "geom:longitude":-71.19954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"77 Center St",
     "sg:city":"Wolfeboro",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"03894",
     "sg:province":"NH",
     "sg:website":"www.wrightmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85858451,
         102191575,
@@ -40,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300005,
         "sg:id":"SG_6In9oqT1hCNCGCUwsOGD3g_43.598000_-71.199402@1303262241"
     },
     "wof:country":"US",
     "wof:created":1464300505,
-    "wof:geomhash":"86f83b79175b5bdaad8816650356ee86",
+    "wof:geomhash":"059c004ae10d6863ec5f75d7f5714671",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":873935251,
-    "wof:lastmodified":1472634392,
+    "wof:lastmodified":1534439111,
     "wof:name":"Wright Museum",
     "wof:parent_id":85858451,
     "wof:placetype":"venue",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.199402,
-    43.598,
-    -71.199402,
-    43.598
+    -71.19954,
+    43.59588,
+    -71.19954,
+    43.59588
 ],
-  "geometry": {"coordinates":[-71.19940200000001,43.598],"type":"Point"}
+  "geometry": {"coordinates":[-71.19954,43.59588],"type":"Point"}
 }

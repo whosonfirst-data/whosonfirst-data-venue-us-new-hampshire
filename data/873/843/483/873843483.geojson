@@ -2,18 +2,24 @@
   "id": 873843483,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Main St Contoocook NH 03229",
+    "addr:city":"Hopkinton",
+    "addr:full":"300 Main St Hopkinton, Nh 03229-2627",
+    "addr:house_number":"300",
     "addr:housenumber":"300",
-    "addr:postcode":"03229",
+    "addr:phone":"+1 603-746-3825",
+    "addr:postcode":"03229-2627",
+    "addr:road":"Main St",
+    "addr:state":"NH",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.672045,43.190851,-71.672045,43.190851",
-    "geom:latitude":43.190851,
-    "geom:longitude":-71.672045,
+    "geom:bbox":"-71.67298,43.19108,-71.67298,43.19108",
+    "geom:latitude":43.19108,
+    "geom:longitude":-71.67298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"300 Main St",
     "sg:city":"Contoocook",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531531
+    ],
     "wof:belongsto":[
-        85688689,
+        85852955,
         85633793,
         85975213,
         102086515,
-        85852955
+        85688689
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300139,
         "sg:id":"SG_4mfOh5mloEve11QxjIldPO_43.190851_-71.672045@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298642,
-    "wof:geomhash":"b9084081f7eb86f6781cd7924f2ac5c0",
+    "wof:geomhash":"23cbbdd1de5ae3537996098c9195f311",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":873843483,
-    "wof:lastmodified":1472634313,
-    "wof:name":"NH Antiquarian Society Inc",
+    "wof:lastmodified":1534439111,
+    "wof:name":"New Hampshire Antiquarian Society",
     "wof:parent_id":85852955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -71.672045,
-    43.190851,
-    -71.672045,
-    43.190851
+    -71.67298,
+    43.19108,
+    -71.67298,
+    43.19108
 ],
-  "geometry": {"coordinates":[-71.672045,43.190851],"type":"Point"}
+  "geometry": {"coordinates":[-71.67298,43.19108],"type":"Point"}
 }

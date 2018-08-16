@@ -14,6 +14,7 @@
     "geom:longitude":-72.302941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 W Shore Rd",
     "sg:city":"Swanzey",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300386,
-    "wof:geomhash":"e88bcf2f1287049bc31bc27bc77d422c",
+    "wof:geomhash":"3cb4da8bbf01859f8f08b2311d2caf0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873928875,
-    "wof:lastmodified":1472634416,
+    "wof:lastmodified":1534439111,
     "wof:name":"Pilgrim Pines",
     "wof:parent_id":85851667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873712235
+    ],
     "wof:tags":[
         "camps-recreational"
     ]

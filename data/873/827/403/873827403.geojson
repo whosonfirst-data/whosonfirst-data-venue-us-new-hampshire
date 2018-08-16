@@ -2,18 +2,24 @@
   "id": 873827403,
   "type": "Feature",
   "properties": {
-    "addr:full":"570 Ocean Blvd Rye NH 03870",
+    "addr:city":"Rye",
+    "addr:full":"570 Ocean Blvd Rye, Nh 03870-2104",
+    "addr:house_number":"570",
     "addr:housenumber":"570",
-    "addr:postcode":"03870",
+    "addr:phone":"+1 603-436-8043",
+    "addr:postcode":"03870-2104",
+    "addr:road":"Ocean Blvd",
+    "addr:state":"NH",
     "addr:street":"Ocean Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.721764,43.048185,-70.721764,43.048185",
-    "geom:latitude":43.048185,
-    "geom:longitude":-70.721764,
+    "geom:bbox":"-70.7191,43.03438,-70.7191,43.03438",
+    "geom:latitude":43.03438,
+    "geom:longitude":-70.7191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"570 Ocean Blvd",
     "sg:city":"Rye",
     "sg:classifiers":[
@@ -28,20 +34,24 @@
     "sg:postcode":"03870",
     "sg:province":"NH",
     "sg:website":"www.seacentr.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529547
+    ],
     "wof:belongsto":[
-        85688689,
+        102086507,
         85633793,
-        85818531,
-        102086507
+        85688689,
+        85818531
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300213,
         "sg:id":"SG_7BrHNlOZ1Fg1WiCohMIQDm_43.048185_-70.721764@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298285,
-    "wof:geomhash":"f095315cbb2b7bce3ad2873063354fc3",
+    "wof:geomhash":"105a3b3c531046c33f15e8e6556ea238",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":873827403,
-    "wof:lastmodified":1472634329,
-    "wof:name":"Seacoast Science Ctr",
+    "wof:lastmodified":1534439111,
+    "wof:name":"Seacoast Science Center",
     "wof:parent_id":85818531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -62,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.721764,
-    43.048185,
-    -70.721764,
-    43.048185
+    -70.7191,
+    43.03438,
+    -70.7191,
+    43.03438
 ],
-  "geometry": {"coordinates":[-70.72176399999999,43.048185],"type":"Point"}
+  "geometry": {"coordinates":[-70.7191,43.03438],"type":"Point"}
 }

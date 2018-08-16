@@ -14,6 +14,7 @@
     "geom:longitude":-71.547516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Pleasant St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299355,
-    "wof:geomhash":"d6fc5f72d65d7f1362f20efdb0dd8135",
+    "wof:geomhash":"73db2deb5dc72b7cb660bce9c7c926ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873876073,
-    "wof:lastmodified":1472634317,
+    "wof:lastmodified":1534439110,
     "wof:name":"Child Support",
     "wof:parent_id":85892219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873689161
+    ],
     "wof:tags":[
         "government"
     ]

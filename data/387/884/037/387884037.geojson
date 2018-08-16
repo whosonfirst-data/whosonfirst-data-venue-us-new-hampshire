@@ -14,6 +14,7 @@
     "geom:longitude":-70.861802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77 Indigo Hill Rd",
     "sg:city":"Somersworth",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
         "sg:id":"SG_0duNxQxqWsXbEEtbVqjN21_43.251089_-70.861802@1294128635"
     },
     "wof:country":"US",
-    "wof:geomhash":"c5af428788a028a5c90d22b5c1f315f2",
+    "wof:geomhash":"0b0a2c0e1b9d711d90526f0256dbab2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":387884037,
-    "wof:lastmodified":1472634268,
+    "wof:lastmodified":1534439109,
     "wof:name":"Window Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873934509
+    ],
     "wof:tags":[
         "windows"
     ]

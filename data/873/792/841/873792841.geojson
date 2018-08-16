@@ -14,6 +14,7 @@
     "geom:longitude":-71.464594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1650 Elm St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297688,
-    "wof:geomhash":"da3b9ca7f53b02d0b72a2837f8ab6eaf",
+    "wof:geomhash":"a60939d01dcc334718cb09b1573754a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873792841,
-    "wof:lastmodified":1472634287,
+    "wof:lastmodified":1534439109,
     "wof:name":"Better Forms Design & Printing",
     "wof:parent_id":85892271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873555459
+    ],
     "wof:tags":[
         "printer",
         "form"

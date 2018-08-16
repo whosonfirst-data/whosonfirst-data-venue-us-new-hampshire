@@ -7,6 +7,7 @@
     "addr:postcode":"03431",
     "addr:street":"Monadnock Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-72.250136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"47 Monadnock Hwy",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":873823803,
-    "wof:lastmodified":1511998368,
+    "wof:lastmodified":1534439110,
     "wof:name":"Dunkin Donuts",
     "wof:parent_id":85850519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873918033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

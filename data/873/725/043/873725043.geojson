@@ -14,6 +14,7 @@
     "geom:longitude":-70.976206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"31 Wakefield St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296713,
-    "wof:geomhash":"238bd0b0c92a6f27e7f7217ac3cb030a",
+    "wof:geomhash":"449ccb91f42e2ba881893d62c7106fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873725043,
-    "wof:lastmodified":1472634141,
+    "wof:lastmodified":1534439109,
     "wof:name":"Planning & Development",
     "wof:parent_id":85892309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873629797
+    ],
     "wof:tags":[
         "business"
     ]

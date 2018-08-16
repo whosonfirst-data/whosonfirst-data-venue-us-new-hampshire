@@ -14,6 +14,7 @@
     "geom:longitude":-71.230797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 N Main St",
     "sg:city":"Wolfeboro",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300505,
-    "wof:geomhash":"56a81c3d10ad34f6c5bd51c6932112b5",
+    "wof:geomhash":"70a7fcff4e7240f28b96f862232cd699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":873935265,
-    "wof:lastmodified":1472634398,
+    "wof:lastmodified":1534439111,
     "wof:name":"123 North Main Bed & Breakfast",
     "wof:parent_id":85858451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873825701
+    ],
     "wof:tags":[]
 },
   "bbox": [

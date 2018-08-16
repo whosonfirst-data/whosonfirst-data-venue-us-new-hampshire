@@ -14,6 +14,7 @@
     "geom:longitude":-71.385269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Bush Hill Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300230,
-    "wof:geomhash":"57ff18359893dd76777cc83bc90e2365",
+    "wof:geomhash":"0856a8423d870d270a980c1e14a3b70d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873921149,
-    "wof:lastmodified":1472634392,
+    "wof:lastmodified":1534439110,
     "wof:name":"Tours R Us Inc",
     "wof:parent_id":85837895,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873885601
+    ],
     "wof:tags":[
         "promoter",
         "tours-operators"

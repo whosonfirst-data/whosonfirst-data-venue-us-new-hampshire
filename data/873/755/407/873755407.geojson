@@ -2,18 +2,24 @@
   "id": 873755407,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Westgate Rd Mont Vernon NH 03057",
+    "addr:city":"Mont Vernon",
+    "addr:full":"6 Westgate Rd Mont Vernon, Nh 03057",
+    "addr:house_number":"6",
     "addr:housenumber":"6",
+    "addr:phone":"+1 603-673-6151",
     "addr:postcode":"03057",
+    "addr:road":"Westgate Rd",
+    "addr:state":"NH",
     "addr:street":"Westgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.650419,42.904976,-71.650419,42.904976",
-    "geom:latitude":42.904976,
-    "geom:longitude":-71.650419,
+    "geom:bbox":"-71.64764,42.90533,-71.64764,42.90533",
+    "geom:latitude":42.90533,
+    "geom:longitude":-71.64764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6 Westgate Rd",
     "sg:city":"Mont Vernon",
     "sg:classifiers":[
@@ -30,18 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527705,
+        102533885
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300016,
         "sg:id":"SG_2YYQ4PaqtiWzyLRfB1PPDT_42.904976_-71.650419@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297150,
-    "wof:geomhash":"5f19ccfe8d4e262cf98e2a1236cbbc59",
+    "wof:geomhash":"39419123d93ff0d465feeb18e13e873f",
     "wof:hierarchy":[],
     "wof:id":873755407,
-    "wof:lastmodified":1472634256,
+    "wof:lastmodified":1534439111,
     "wof:name":"Savage Muscle Car Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +64,10 @@
     ]
 },
   "bbox": [
-    -71.650419,
-    42.904976,
-    -71.650419,
-    42.904976
+    -71.64764,
+    42.90533,
+    -71.64764,
+    42.90533
 ],
-  "geometry": {"coordinates":[-71.650419,42.904976],"type":"Point"}
+  "geometry": {"coordinates":[-71.64764,42.90533],"type":"Point"}
 }

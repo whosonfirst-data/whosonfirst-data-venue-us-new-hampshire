@@ -7,6 +7,7 @@
     "addr:postcode":"03032",
     "addr:street":"Eaton Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.324768,43.002182,-71.324768,43.002182",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.324768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"69 Eaton Hill Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296606,
-    "wof:geomhash":"16f0d4dd6e07524d7a8b0e30a6dcff93",
+    "wof:geomhash":"54eaf82c6038bf9fe685e554a8723622",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":873717001,
-    "wof:lastmodified":1472634135,
+    "wof:lastmodified":1534439111,
     "wof:name":"Espana Building & Development",
     "wof:parent_id":85847833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873919761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general",

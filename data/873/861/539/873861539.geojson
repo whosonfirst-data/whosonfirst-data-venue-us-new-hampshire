@@ -7,6 +7,7 @@
     "addr:postcode":"03077",
     "addr:street":"Freetown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.162653,43.038033,-71.162653,43.038033",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.162653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 Freetown Rd",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299068,
-    "wof:geomhash":"68342e10de520d155fe78bb7674c552e",
+    "wof:geomhash":"2bb26d70841f1e286208e536c11a10db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":873861539,
-    "wof:lastmodified":1472634343,
+    "wof:lastmodified":1534439111,
     "wof:name":"Hannaford Food & Drug",
     "wof:parent_id":85855449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873925243
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "grocer"

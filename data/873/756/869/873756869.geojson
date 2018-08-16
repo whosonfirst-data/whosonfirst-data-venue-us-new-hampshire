@@ -14,6 +14,7 @@
     "geom:longitude":-71.251782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Industrial Way",
     "sg:city":"Salem",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297168,
-    "wof:geomhash":"74e02d4b6a212082c02eb7f90f182332",
+    "wof:geomhash":"f607fef1410d18dc4dea6ef57224e506",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":873756869,
-    "wof:lastmodified":1472634293,
+    "wof:lastmodified":1534439109,
     "wof:name":"Hager-Richter Geoscience Inc",
     "wof:parent_id":85846769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873601313
+    ],
     "wof:tags":[]
 },
   "bbox": [

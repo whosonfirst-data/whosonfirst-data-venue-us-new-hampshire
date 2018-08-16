@@ -2,18 +2,24 @@
   "id": 873931589,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Crawley Falls Rd Brentwood NH 03833",
+    "addr:city":"Brentwood",
+    "addr:full":"140 Crawley Falls Rd Brentwood, Nh 03833",
+    "addr:house_number":"140",
     "addr:housenumber":"140",
+    "addr:phone":"+1 603-642-8944",
     "addr:postcode":"03833",
+    "addr:road":"Crawley Falls Rd",
+    "addr:state":"NH",
     "addr:street":"Crawley Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.07153,42.977438,-71.07153,42.977438",
-    "geom:latitude":42.977438,
-    "geom:longitude":-71.07153,
+    "geom:bbox":"-71.07102,42.97681,-71.07102,42.97681",
+    "geom:latitude":42.97681,
+    "geom:longitude":-71.07102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"140 Crawley Falls Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -27,20 +33,22 @@
     "sg:phone":"+1 603 642 8944",
     "sg:postcode":"03833",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688689,
+        102086507,
         85633793,
-        85807255,
-        102086507
+        85688689,
+        85807255
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300081,
         "sg:id":"SG_5DrokbrxAJN0GPEEvG6im1_42.977438_-71.071530@1303262241"
     },
     "wof:country":"US",
     "wof:created":1464300439,
-    "wof:geomhash":"2b8820234fab2c3eb28e9d34e58f67e6",
+    "wof:geomhash":"eb2c0bdb2fcdaff2ce6ca6b23fe554b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":873931589,
-    "wof:lastmodified":1472634407,
+    "wof:lastmodified":1534439111,
     "wof:name":"Brentwood Museum",
     "wof:parent_id":85807255,
     "wof:placetype":"venue",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.07153,
-    42.977438,
-    -71.07153,
-    42.977438
+    -71.07102,
+    42.97681,
+    -71.07102,
+    42.97681
 ],
-  "geometry": {"coordinates":[-71.07153,42.977438],"type":"Point"}
+  "geometry": {"coordinates":[-71.07102,42.97681],"type":"Point"}
 }

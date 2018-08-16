@@ -2,17 +2,22 @@
   "id": 873774805,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 Abbott St Nashua NH 03064",
+    "addr:city":"Nashua",
+    "addr:full":"5 Abbott Street Nashua, Nh 03060-2119",
+    "addr:house_number":"5",
     "addr:housenumber":"5",
-    "addr:postcode":"03064",
+    "addr:phone":"+1 603-883-0015",
+    "addr:postcode":"03060-2119",
+    "addr:road":"Abbott Street",
+    "addr:state":"NH",
     "addr:street":"Abbott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.468527,42.766054,-71.468527,42.766054",
-    "geom:latitude":42.766054,
-    "geom:longitude":-71.468527,
+    "geom:bbox":"-71.46864,42.76637,-71.46864,42.76637",
+    "geom:latitude":42.76637,
+    "geom:longitude":-71.46864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,11 @@
     "sg:phone":"+1 603 883 0015",
     "sg:postcode":"03064",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527705,
+        102533885
+    ],
     "wof:belongsto":[
         85892279,
         102191575,
@@ -41,12 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300038,
         "osm:way":275399353,
         "sg:id":"SG_0vNTgNESN5oSuAlwHNabYh_42.766054_-71.468527@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297424,
-    "wof:geomhash":"94c3dfe737a530b8cf344af22f64f890",
+    "wof:geomhash":"74b5830f0141e40657db947e3091289a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":873774805,
-    "wof:lastmodified":1510943691,
+    "wof:lastmodified":1534439111,
     "wof:name":"Nashua Historical Society",
     "wof:parent_id":85892279,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.468527,
-    42.766054,
-    -71.468527,
-    42.766054
+    -71.46864,
+    42.76637,
+    -71.46864,
+    42.76637
 ],
-  "geometry": {"coordinates":[-71.46852699999999,42.766054],"type":"Point"}
+  "geometry": {"coordinates":[-71.46863999999999,42.76637],"type":"Point"}
 }

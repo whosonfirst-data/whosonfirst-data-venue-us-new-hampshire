@@ -14,6 +14,7 @@
     "geom:longitude":-71.465052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1750 Elm St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299151,
-    "wof:geomhash":"bbba6fc2be56366c3e2881b430e9d041",
+    "wof:geomhash":"50cdc60d0b8806d4e33bafd025e5b6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873865723,
-    "wof:lastmodified":1472634354,
+    "wof:lastmodified":1534439110,
     "wof:name":"Health Dialog Services Corp",
     "wof:parent_id":85892271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873840827
+    ],
     "wof:tags":[
         "health"
     ]

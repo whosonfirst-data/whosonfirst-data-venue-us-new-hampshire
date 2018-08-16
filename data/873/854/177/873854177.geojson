@@ -14,6 +14,7 @@
     "geom:longitude":-70.911447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Hampton Rd",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -32,23 +33,27 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0chPuGBwnOPnQIoJl2UJCj_42.976037_-70.911447@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464298899,
-    "wof:geomhash":"e44f5bc02562a8846650f7dcaf712ce9",
+    "wof:geomhash":"c57936b36aa64fdada55c2368d0d1ef8",
     "wof:hierarchy":[],
     "wof:id":873854177,
-    "wof:lastmodified":1472634325,
+    "wof:lastmodified":1534439110,
     "wof:name":"Exeter Trust Company Inc",
     "wof:parent_id":420526385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873847537
+    ],
     "wof:tags":[
         "trust",
         "management"

@@ -14,6 +14,7 @@
     "geom:longitude":-72.277735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Washington St",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297839,
-    "wof:geomhash":"09240268472b30fdd62603ba75dba77d",
+    "wof:geomhash":"26e9c474a49536fb7197179905b91e74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873805315,
-    "wof:lastmodified":1472634262,
+    "wof:lastmodified":1534439109,
     "wof:name":"IMS Department Inc",
     "wof:parent_id":85892241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873757185
+    ],
     "wof:tags":[
         "datum"
     ]

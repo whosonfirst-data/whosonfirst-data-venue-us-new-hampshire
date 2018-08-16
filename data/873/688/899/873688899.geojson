@@ -7,6 +7,7 @@
     "addr:postcode":"03063",
     "addr:street":"Trafalgar Sq",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.507071,42.786758,-71.507071,42.786758",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.507071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"20 Trafalgar Sq",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296246,
-    "wof:geomhash":"a1bb5c77d5a3c24698ec28a68518d6b0",
+    "wof:geomhash":"f48c90ac04f944a120b95bafb4b5922b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":873688899,
-    "wof:lastmodified":1472634241,
+    "wof:lastmodified":1534439110,
     "wof:name":"Tamposi Co",
     "wof:parent_id":85807651,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873854741
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

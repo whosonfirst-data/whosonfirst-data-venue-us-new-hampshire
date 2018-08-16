@@ -7,6 +7,7 @@
     "addr:postcode":"03051",
     "addr:street":"Bush Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.397522,42.755564,-71.397522,42.755564",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.397522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"115 Bush Hill Rd",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299550,
-    "wof:geomhash":"db3a36cac2546da9ab23c429193a5314",
+    "wof:geomhash":"3d50fa50881cd67d01752982a1c24f34",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":873885601,
-    "wof:lastmodified":1472634355,
+    "wof:lastmodified":1534439110,
     "wof:name":"Tours R US Inc",
     "wof:parent_id":85826415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873921149
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operator",

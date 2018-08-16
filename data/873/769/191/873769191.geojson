@@ -7,6 +7,7 @@
     "addr:postcode":"03833",
     "addr:street":"Water St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.9466,42.981499,-70.9466,42.981499",
@@ -14,6 +15,7 @@
     "geom:longitude":-70.9466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"97 Water St",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297352,
-    "wof:geomhash":"1a55c5fd768e89f0166fa414732e08ff",
+    "wof:geomhash":"b1898080bb602b05f2edb08e232a000f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":873769191,
-    "wof:lastmodified":1472634258,
+    "wof:lastmodified":1534439110,
     "wof:name":"Penang & Tokyo",
     "wof:parent_id":85827281,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873931753
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

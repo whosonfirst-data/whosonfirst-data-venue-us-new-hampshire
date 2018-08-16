@@ -14,6 +14,7 @@
     "geom:longitude":-71.447026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Spit Brook Rd",
     "sg:city":"Nashua",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299592,
-    "wof:geomhash":"1ab7ee6eec08c76864b61f5d004a59f9",
+    "wof:geomhash":"230c345cee112111285a351fc97c0897",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":873888099,
-    "wof:lastmodified":1472634314,
+    "wof:lastmodified":1534439110,
     "wof:name":"Alacron Inc",
     "wof:parent_id":85892289,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873668487
+    ],
     "wof:tags":[
         "boards",
         "mfg",

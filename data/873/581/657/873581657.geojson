@@ -14,6 +14,7 @@
     "geom:longitude":-71.219462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 N Main St",
     "sg:city":"Wolfeboro",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294739,
-    "wof:geomhash":"9893de2f57586586c6bd6e38aa88e080",
+    "wof:geomhash":"ad51a8505ba53514ff501e8d5644774e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":873581657,
-    "wof:lastmodified":1472634204,
+    "wof:lastmodified":1534439109,
     "wof:name":"Strawberry Patch Restaurant",
     "wof:parent_id":85858451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873935461
+    ],
     "wof:tags":[]
 },
   "bbox": [

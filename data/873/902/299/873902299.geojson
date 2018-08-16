@@ -2,18 +2,24 @@
   "id": 873902299,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 High St Berlin NH 03570",
+    "addr:city":"Berlin",
+    "addr:full":"119 High St Berlin, Nh 03570",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
+    "addr:phone":"+1 603-752-4590",
     "addr:postcode":"03570",
+    "addr:road":"High St",
+    "addr:state":"NH",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.180752,44.474887,-71.180752,44.474887",
-    "geom:latitude":44.474887,
-    "geom:longitude":-71.180752,
+    "geom:bbox":"-71.18042,44.47446,-71.18042,44.47446",
+    "geom:latitude":44.47446,
+    "geom:longitude":-71.18042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 High St",
     "sg:city":"Berlin",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 603 752 4590",
     "sg:postcode":"03570",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527549
+    ],
     "wof:belongsto":[
-        85688689,
+        102085529,
         85633793,
-        85809727,
-        102085529
+        85688689,
+        85809727
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300029,
         "sg:id":"SG_0UU5fpB30EH8MNWtbxI9U9_44.474887_-71.180752@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464299862,
-    "wof:geomhash":"184bc357bd22177810c8cf32a732d4e8",
+    "wof:geomhash":"5ad63f8587385e5a4a150aee76204f20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":873902299,
-    "wof:lastmodified":1472634379,
+    "wof:lastmodified":1534439111,
     "wof:name":"Moffett House Museum",
     "wof:parent_id":85809727,
     "wof:placetype":"venue",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.180752,
-    44.474887,
-    -71.180752,
-    44.474887
+    -71.18042,
+    44.47446,
+    -71.18042,
+    44.47446
 ],
-  "geometry": {"coordinates":[-71.180752,44.474887],"type":"Point"}
+  "geometry": {"coordinates":[-71.18042,44.47446],"type":"Point"}
 }

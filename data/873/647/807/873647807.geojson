@@ -2,18 +2,24 @@
   "id": 873647807,
   "type": "Feature",
   "properties": {
-    "addr:full":"30 Park St Concord NH 03301",
+    "addr:city":"Concord",
+    "addr:full":"30 Park St Concord, Nh 03301-6316",
+    "addr:house_number":"30",
     "addr:housenumber":"30",
-    "addr:postcode":"03301",
+    "addr:phone":"+1 608-228-6688",
+    "addr:postcode":"03301-6316",
+    "addr:road":"Park St",
+    "addr:state":"NH",
     "addr:street":"Park St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.539049,43.207161,-71.539049,43.207161",
-    "geom:latitude":43.207161,
-    "geom:longitude":-71.539049,
+    "geom:bbox":"-71.53991,43.207,-71.53991,43.207",
+    "geom:latitude":43.207,
+    "geom:longitude":-71.53991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"30 Park St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:postcode":"03301",
     "sg:province":"NH",
     "sg:website":"www.nhhistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531531
+    ],
     "wof:belongsto":[
         85892217,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300091,
         "sg:id":"SG_6GZBi8G8oj1tulJFRRTTWl_43.207161_-71.539049@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295565,
-    "wof:geomhash":"376adc74d817713671802aed2b523cb4",
+    "wof:geomhash":"472010369c77ac8917ed3387a05f6b76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":873647807,
-    "wof:lastmodified":1472634212,
-    "wof:name":"New Hampshire Historical Soc",
+    "wof:lastmodified":1534439111,
+    "wof:name":"New Hampshire Historical Society",
     "wof:parent_id":85892217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.539049,
-    43.207161,
-    -71.539049,
-    43.207161
+    -71.53991,
+    43.207,
+    -71.53991,
+    43.207
 ],
-  "geometry": {"coordinates":[-71.53904900000001,43.207161],"type":"Point"}
+  "geometry": {"coordinates":[-71.53991000000001,43.207],"type":"Point"}
 }

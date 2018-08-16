@@ -2,18 +2,24 @@
   "id": 873653451,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Park Ave Hampton NH 03842",
+    "addr:city":"Hampton",
+    "addr:full":"40 Park Ave Hampton, Nh 03842",
+    "addr:house_number":"40",
     "addr:housenumber":"40",
+    "addr:phone":"+1 603-929-0781",
     "addr:postcode":"03842",
+    "addr:road":"Park Ave",
+    "addr:state":"NH",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.835158,42.933577,-70.835158,42.933577",
-    "geom:latitude":42.933577,
-    "geom:longitude":-70.835158,
+    "geom:bbox":"-70.83479,42.93352,-70.83479,42.93352",
+    "geom:latitude":42.93352,
+    "geom:longitude":-70.83479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"40 Park Ave",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 603 929 0781",
     "sg:postcode":"03842",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529547
+    ],
     "wof:belongsto":[
         85817949,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300014,
         "sg:id":"SG_5iTTxOxiJ9PH8r3wIT5xZX_42.933577_-70.835158@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464295630,
-    "wof:geomhash":"fa357776188ab1d9ec9357b6cbf3d4d1",
+    "wof:geomhash":"92a8a2449ae463278f98599c62b37aac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":873653451,
-    "wof:lastmodified":1472634173,
+    "wof:lastmodified":1534439111,
     "wof:name":"Tuck Museum",
     "wof:parent_id":85817949,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.835158,
-    42.933577,
-    -70.835158,
-    42.933577
+    -70.83479,
+    42.93352,
+    -70.83479,
+    42.93352
 ],
-  "geometry": {"coordinates":[-70.83515800000001,42.933577],"type":"Point"}
+  "geometry": {"coordinates":[-70.83479,42.93352],"type":"Point"}
 }

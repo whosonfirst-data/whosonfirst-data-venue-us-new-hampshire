@@ -7,6 +7,7 @@
     "addr:postcode":"03053",
     "addr:street":"Pillsbury Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.374305,42.864579,-71.374305,42.864579",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.374305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"187 Pillsbury Rd",
     "sg:city":"Londonderry",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295649,
-    "wof:geomhash":"9d22209f2c7d08d67f38883024a92aa4",
+    "wof:geomhash":"4fa76878da6030edfb1404f62cfa33c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":873655301,
-    "wof:lastmodified":1472634158,
+    "wof:lastmodified":1534439110,
     "wof:name":"Apple Way Tree Treasures",
     "wof:parent_id":85892259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873921919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "household",

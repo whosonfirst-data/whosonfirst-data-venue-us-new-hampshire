@@ -2,18 +2,23 @@
   "id": 873762553,
   "type": "Feature",
   "properties": {
-    "addr:full":"154 Market St Portsmouth NH 03801",
+    "addr:city":"Portsmouth",
+    "addr:full":"154 Market Street Portsmouth, Nh 03801-3730",
+    "addr:house_number":"154",
     "addr:housenumber":"154",
-    "addr:postcode":"03801",
+    "addr:postcode":"03801-3730",
+    "addr:road":"Market Street",
+    "addr:state":"NH",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-70.758318,43.078812,-70.758318,43.078812",
-    "geom:latitude":43.078812,
-    "geom:longitude":-70.758318,
+    "geom:bbox":"-70.75943,43.07963,-70.75943,43.07963",
+    "geom:latitude":43.07963,
+    "geom:longitude":-70.75943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"154 Market St",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -27,7 +32,10 @@
     "sg:phone":"+1 603 436 8221",
     "sg:postcode":"03801",
     "sg:province":"NH",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529547
+    ],
     "wof:belongsto":[
         85892291,
         102191575,
@@ -39,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403300032,
         "sg:id":"SG_05LReAIVDowJcjiZjwrmp2_43.078812_-70.758318@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464297250,
-    "wof:geomhash":"ff64d144cf398e6940d4a3b58bf22bf0",
+    "wof:geomhash":"0c93ff4e3d1c7335c436a0fa2f88ba31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":873762553,
-    "wof:lastmodified":1472634264,
-    "wof:name":"Moffatt Ladd House",
+    "wof:lastmodified":1534439111,
+    "wof:name":"Moffatt-Ladd House And Garden",
     "wof:parent_id":85892291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.758318,
-    43.078812,
-    -70.758318,
-    43.078812
+    -70.75943,
+    43.07963,
+    -70.75943,
+    43.07963
 ],
-  "geometry": {"coordinates":[-70.758318,43.078812],"type":"Point"}
+  "geometry": {"coordinates":[-70.75942999999999,43.07963],"type":"Point"}
 }

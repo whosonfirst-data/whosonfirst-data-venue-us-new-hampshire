@@ -14,6 +14,7 @@
     "geom:longitude":-71.537204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Park St",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298891,
-    "wof:geomhash":"fe04ba3c834ab596e07dac4deff0190c",
+    "wof:geomhash":"262c96d31a8532b6c3c0b50730e369c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873853687,
-    "wof:lastmodified":1472634320,
+    "wof:lastmodified":1534439110,
     "wof:name":"Ne Organic Farming Assoc-Nh",
     "wof:parent_id":85892217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873753199
+    ],
     "wof:tags":[
         "environmental",
         "org"

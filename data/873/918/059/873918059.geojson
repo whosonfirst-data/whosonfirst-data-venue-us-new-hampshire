@@ -14,6 +14,7 @@
     "geom:longitude":-72.262718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9 Monadnock Hwy",
     "sg:city":"Keene",
     "sg:classifiers":[
@@ -33,23 +34,27 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hqQ71mchiaJ8rhDVR8VBb_42.910518_-72.262718@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464300178,
-    "wof:geomhash":"ae64546849ed5d56ed2b5d18566bbce8",
+    "wof:geomhash":"70a8c398e443ff47e43d011b25d8ee4d",
     "wof:hierarchy":[],
     "wof:id":873918059,
-    "wof:lastmodified":1472634385,
+    "wof:lastmodified":1534439111,
     "wof:name":"Papagallos Restaurant",
     "wof:parent_id":420526055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873729983
+    ],
     "wof:tags":[
         "mediterranean",
         "italian"

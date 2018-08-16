@@ -7,6 +7,7 @@
     "addr:postcode":"03055",
     "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.68302,42.841213,-71.68302,42.841213",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.68302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"571 Elm St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298820,
-    "wof:geomhash":"b93016e8749a1b2b0385737b4131e5dd",
+    "wof:geomhash":"f630073c3ba6df05f0b33d7d68a705cd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":873850429,
-    "wof:lastmodified":1472634351,
+    "wof:lastmodified":1534439110,
     "wof:name":"Centurywood Complex",
     "wof:parent_id":85841309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873922415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"

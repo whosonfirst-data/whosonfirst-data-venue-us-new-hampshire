@@ -14,6 +14,7 @@
     "geom:longitude":-71.517297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Hazen Dr",
     "sg:city":"Concord",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296583,
-    "wof:geomhash":"5cfd8e39842538baa764393a5c01f063",
+    "wof:geomhash":"5b34956e917dae2846a0f4a193d18290",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873715105,
-    "wof:lastmodified":1472634145,
+    "wof:lastmodified":1534439109,
     "wof:name":"Vital Rec & Hlth Statistics",
     "wof:parent_id":85812041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873683909
+    ],
     "wof:tags":[
         "information"
     ]

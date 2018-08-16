@@ -14,6 +14,7 @@
     "geom:longitude":-71.393016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Parmenter Rd",
     "sg:city":"Londonderry",
     "sg:classifiers":[
@@ -28,23 +29,27 @@
     "sg:postcode":"03053",
     "sg:province":"NH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420526311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00BngAxfVnOEPAd3BDZZBR_42.836465_-71.393016@1294171694"
     },
     "wof:country":"US",
     "wof:created":1464294983,
-    "wof:geomhash":"3f77d66672e60f5f05c85d2442b1663a",
+    "wof:geomhash":"fb24aae9b96320e71e9263b467ff42b3",
     "wof:hierarchy":[],
     "wof:id":873599649,
-    "wof:lastmodified":1472634185,
+    "wof:lastmodified":1534439109,
     "wof:name":"Scientific Mgt Techniques Inc",
     "wof:parent_id":420526311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873799129
+    ],
     "wof:tags":[]
 },
   "bbox": [

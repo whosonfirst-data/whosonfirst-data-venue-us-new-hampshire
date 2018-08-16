@@ -14,6 +14,7 @@
     "geom:longitude":-70.873783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Main St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299626,
-    "wof:geomhash":"607dc39c399a2dd1ec2e16429a052d17",
+    "wof:geomhash":"0801c47bb759040a5f7fd730ffe32ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873889653,
-    "wof:lastmodified":1472634358,
+    "wof:lastmodified":1534439110,
     "wof:name":"MMS USA",
     "wof:parent_id":85892237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873831207
+    ],
     "wof:tags":[
         "capital"
     ]

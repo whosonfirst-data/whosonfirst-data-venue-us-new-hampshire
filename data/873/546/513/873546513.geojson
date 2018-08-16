@@ -14,6 +14,7 @@
     "geom:longitude":-71.214794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 N Main St",
     "sg:city":"Wolfeboro",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294334,
-    "wof:geomhash":"cfc268eda2f319fbd527fdccb6941234",
+    "wof:geomhash":"08f5d83599f068d703e39f7fb8f93986",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873546513,
-    "wof:lastmodified":1472634204,
+    "wof:lastmodified":1534439108,
     "wof:name":"Camelot Book-Gift Shop",
     "wof:parent_id":85858451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873935231
+    ],
     "wof:tags":[
         "dealer"
     ]

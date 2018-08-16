@@ -14,6 +14,7 @@
     "geom:longitude":-71.432281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Perimeter Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -61,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300340,
-    "wof:geomhash":"44d80be24bd9fd29c1aae5e5cd2f22c9",
+    "wof:geomhash":"67f04e5002d3ff7ac37292f8fc9c6ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":873926705,
-    "wof:lastmodified":1472634405,
+    "wof:lastmodified":1534439110,
     "wof:name":"Modern Pest Services",
     "wof:parent_id":85892263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873827457
+    ],
     "wof:tags":[
         "industrial",
         "supply",

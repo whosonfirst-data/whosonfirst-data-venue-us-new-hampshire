@@ -7,6 +7,7 @@
     "addr:postcode":"03818",
     "addr:street":"Tasker Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.118781,43.963399,-71.118781,43.963399",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.118781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 Tasker Hill Rd",
     "sg:city":"Conway",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299203,
-    "wof:geomhash":"acdaad9ed616875103eeeecd32d7dfff",
+    "wof:geomhash":"55f7a5c801c2aee4f593eedaabb471d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":873868737,
-    "wof:lastmodified":1472634363,
+    "wof:lastmodified":1534439110,
     "wof:name":"Racin' Paper",
     "wof:parent_id":85844159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-nh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873930935
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
